@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-gas-attack-russia-reax_us_58e4a3dfe4b03a26a3678b9b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-syria-chemical-attack_us_58e52face4b0fe4ce087845e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-gay-rights-ivy-tech_us_58e50f6ae4b0917d34760768"
+  },
+  "headline":{
+    "0":"Russia Blames Syrian Rebels For Deadly Gas Attack, Denies Assad To Blame",
+    "1":"Trump Says His Attitude Toward Syria Changed With Chemical Attack",
+    "2":"Losing Employer Won't Ask Supreme Court To Overturn Landmark Gay Rights Ruling"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The United States says the administration of Syrian President Bashar al-Assad is responsible for the attack.",
+    "1":"The president didn't explain what his shift means for U.S. policy.",
+    "2":"Gay and lesbian workers in three Midwest states now have greater federal protection."
+  },
+  "authors":{
+    "0":"Maria Tsvetkova and Tom Perry, Reuters",
+    "1":"Sam Stein",
+    "2":"Cristian Farias"
+  },
+  "date":{
+    "0":"2017-04-05 00:00:00",
+    "1":"2017-04-05 00:00:00",
+    "2":"2017-04-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"syrgov",
+    "1":"usa",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "president",
+      "syrgov",
+      "syria",
+      "~",
+      "administration",
+      "syrgov",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "employer",
+      "~bus",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the united states",
+      "syrian president"
+    ],
+    "1":[
+      "president",
+      "u.s."
+    ],
+    "2":[
+      "employer",
+      "supreme court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "did ... explain ... means"
+    ],
+    "2":[
+      "wo ... ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "syrgov",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "---jud",
+      "020"
+    ]
+  }
+}

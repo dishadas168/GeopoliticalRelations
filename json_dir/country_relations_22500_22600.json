@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/spirit-of-the-nuclear-deal-is-a-two-way-street_us_59dc4435e4b0b48cd8e0a5e6"
+  },
+  "headline":{
+    "0":"'Spirit' Of The Iran Nuclear Deal Is A Two-Way Street"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"President Trump has given Iranian hardliners incentive to restart and weaponize their nuclear program."
+  },
+  "authors":{
+    "0":"David L. Phillips, ContributorDirector, Program on Peace-building and Rights, Institute for ..."
+  },
+  "date":{
+    "0":"2017-10-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"irn"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "iranian",
+      "irn",
+      "iran"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "iranian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "irn",
+      "060"
+    ]
+  }
+}

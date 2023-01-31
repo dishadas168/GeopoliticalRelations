@@ -1,0 +1,338 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/arizona-bill-protesters-racketeering_us_58af3692e4b060480e05e81d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/maxine-waters-calls-trump-advisors-scumbags_us_58b04abee4b060480e0713af",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/uber-destructive-cuture_us_58af81e5e4b0780bac27daf8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mosul-airport-battle_us_58ae90a7e4b05ca474a0b9e1",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/tillerson-kelly-mexico-visit_us_58af2f78e4b060480e05d9ad",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/dakota-access-pipeline-protester-arrests_us_58af203fe4b0780bac273492",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/dakota-access-pipeline-protester-arrests_us_58af203fe4b0780bac273492",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/tesla-uaw_us_58ae3371e4b057efdce8f521"
+  },
+  "headline":{
+    "0":"Arizona Republicans Want To Prosecute Protesters The Same Way They Do Terrorists",
+    "1":"Maxine Waters Is At It Again: Trump's Advisors With Russian Ties Are 'Scumbags'",
+    "2":"Early Uber Investors Call On Company To Change 'Destructive Culture'",
+    "3":"In Effort To Oust ISIS, Iraqi Security Forces Storm Mosul Airport And Nearby Military Base",
+    "4":"Trump Officials Receive Cool Welcome In Mexico",
+    "5":"Police Remove Last Of Dakota Access Pipeline Protesters From Camp",
+    "6":"Police Remove Last Of Dakota Access Pipeline Protesters From Camp",
+    "7":"Elon Musk Digs In His Heels In Tesla Feud With United Auto Workers"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"BUSINESS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Lawmakers say they're targeting \"paid protesters.\"",
+    "1":"The congresswoman noted dangerous special interest concerns within president's cabinet.",
+    "2":"\"Uber has had countless opportunities to do the right thing\u200a.\"",
+    "3":"The campaign involves a 100,000-strong force of Iraqi troops, Kurdish fighters and Shi\u2019ite militias.",
+    "4":"Senior Mexican officials expressed \u201cworry and irritation\u201d about the Trump administration's policies.",
+    "5":"Authorities say they arrested 46 people during their second day raiding Oceti Sakowin.",
+    "6":"Authorities say they arrested 46 people during their second day raiding Oceti Sakowin.",
+    "7":"The billionaire Tesla CEO, an adviser to President Donald Trump, firmly opposes his workers' efforts to unionize."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Taryn Finley",
+    "2":"",
+    "3":"",
+    "4":"Alexandra Alper and Noe Torres, Reuters",
+    "5":"Michael McLaughlin & Josh Morgan, The Huffington Post",
+    "6":"Michael McLaughlin & Josh Morgan, The Huffington Post",
+    "7":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2017-02-24 00:00:00",
+    "1":"2017-02-24 00:00:00",
+    "2":"2017-02-24 00:00:00",
+    "3":"2017-02-23 00:00:00",
+    "4":"2017-02-23 00:00:00",
+    "5":"2017-02-23 00:00:00",
+    "6":"2017-02-23 00:00:00",
+    "7":"2017-02-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---leg",
+    "2":"---bus",
+    "3":"irq",
+    "4":"mex",
+    "5":"---cop",
+    "6":"---gov",
+    "7":"---busgov"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---gov",
+    "2":"---bus",
+    "3":"irq",
+    "4":"---gov",
+    "5":"usaopp",
+    "6":"---ppl",
+    "7":"---lab"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"010",
+    "2":"020",
+    "3":"190",
+    "4":"110",
+    "5":"174",
+    "6":"173",
+    "7":"110"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":3.0,
+    "3":-10.0,
+    "4":-2.0,
+    "5":-5.0,
+    "6":-5.0,
+    "7":-2.0
+  },
+  "nouns":{
+    "0":[
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "president",
+      "cabinet",
+      "~gov",
+      "~",
+      "~"
+    ],
+    "2":[
+      "investors",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "4":[
+      "mexican",
+      "mex",
+      "mexico",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "police",
+      "~cop",
+      "~",
+      "dakota",
+      "protesters",
+      "usaopp",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "authorities",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "ceo",
+      "president",
+      "~busgov",
+      "~",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "arizona",
+      "protesters"
+    ],
+    "1":[
+      "congresswoman",
+      "president ... cabinet"
+    ],
+    "2":[
+      "investors",
+      "investors"
+    ],
+    "3":[
+      "iraqi",
+      "iraqi"
+    ],
+    "4":[
+      "mexican",
+      "administration"
+    ],
+    "5":[
+      "police",
+      "dakota ... protesters"
+    ],
+    "6":[
+      "authorities",
+      "people"
+    ],
+    "7":[
+      "ceo ... president",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "iraq",
+      "iraq"
+    ],
+    "4":[
+      "mexico",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... prosecute"
+    ],
+    "1":[
+      "noted"
+    ],
+    "2":[
+      "call on"
+    ],
+    "3":[
+      "storm"
+    ],
+    "4":[
+      "expressed"
+    ],
+    "5":[
+      "remove"
+    ],
+    "6":[
+      "say ... arrested"
+    ],
+    "7":[
+      "opposes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---opp",
+      "173"
+    ],
+    "1":[
+      "---leg",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "020"
+    ],
+    "3":[
+      "irq",
+      "irq",
+      "190"
+    ],
+    "4":[
+      "mex",
+      "---gov",
+      "110"
+    ],
+    "5":[
+      "---cop",
+      "usaopp",
+      "174"
+    ],
+    "6":[
+      "---gov",
+      "---ppl",
+      "173"
+    ],
+    "7":[
+      "---busgov",
+      "---lab",
+      "110"
+    ]
+  }
+}

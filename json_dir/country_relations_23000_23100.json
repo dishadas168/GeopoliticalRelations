@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/eiffel-tower-empire-state-building-las-vegas-tributes_us_59d32003e4b065578154f9e3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-american-way-of-grief-once-again_us_59d28f5fe4b043b4fb095b7d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/catalonia-independence-protests_us_59d39612e4b06557815586e4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/theresa-may-las-vegas-shooting_us_59d3424ce4b0655781550f30"
+  },
+  "headline":{
+    "0":"Iconic Landmarks Go Dark In Honor Of Las Vegas Massacre Victims",
+    "1":"The American Way To Grieve",
+    "2":"Massive Pro-Independence Rallies Fill The Streets In Catalonia",
+    "3":"Theresa May Sums Up A Sobering Reality About U.S. Gun Laws"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"CRIME",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Even hurricane-ravaged Puerto Rico, currently grappling with a crisis of its own, mourned with the city of Las Vegas.",
+    "1":"Author\u2019s note: This is a revision of a piece I wrote on June 23, 2015, after a gunman killed nine people in a Charleston",
+    "2":"Metro stations were closed in Barcleona as state workers walked out across Catalonia.",
+    "3":"\"Most people would look at this and assume that people in America would be so shocked by this attack that they would want to take some action,\" she said."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Judah Ginsberg, ContributorPolitics and History",
+    "2":"",
+    "3":"Willa Frej"
+  },
+  "date":{
+    "0":"2017-10-03 00:00:00",
+    "1":"2017-10-03 00:00:00",
+    "2":"2017-10-03 00:00:00",
+    "3":"2017-10-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usapri",
+    "1":"---uaf",
+    "2":"---lab",
+    "3":"gbrgovhri"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"esp",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"190",
+    "2":"040",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":1.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico",
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico",
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "workers",
+      "~lab",
+      "~",
+      "catalonia",
+      "esp",
+      "spain"
+    ],
+    "3":[
+      "theresa may",
+      "gbrgovhri",
+      "theresa",
+      "may",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "puerto rico",
+      "las vegas"
+    ],
+    "1":[
+      "gunman",
+      "people"
+    ],
+    "2":[
+      "workers",
+      "catalonia"
+    ],
+    "3":[
+      "theresa may",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "puerto rico",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "spain"
+    ],
+    "3":[
+      "theresa may",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "mourned"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "<['walked',> <'out']>"
+    ],
+    "3":[
+      "sums"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usapri",
+      "usa",
+      "110"
+    ],
+    "1":[
+      "---uaf",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "---lab",
+      "esp",
+      "040"
+    ],
+    "3":[
+      "gbrgovhri",
+      "usa",
+      "010"
+    ]
+  }
+}

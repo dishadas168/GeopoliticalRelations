@@ -1,0 +1,281 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/httpwwwhuffingtonpostcomhuff-wires20151115us-brown-student-detained_us_5649f3d6e4b08cda34899901",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/france-bombs-isis-syria_us_5648ef7be4b06037734982c4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/watch-new-yorkers-send-love-and-support-to-paris_us_5648fdaae4b045bf3def9916",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-house-threat-paris-attacks_us_56489c52e4b0603773497178",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/white-house-threat-paris-attacks_us_56489c52e4b0603773497178",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/paris-attacks-refugees_us_5648961ae4b060377349702c"
+  },
+  "headline":{
+    "0":"Brown Vows Action After Officer Detains Latino Dartmouth Student",
+    "1":"France Bombs ISIS Headquarters In Syria",
+    "2":"WATCH: New Yorkers Send Message of Support To Paris",
+    "3":"White House Says No 'Specific, Credible Threat' To U.S. After Paris Attacks",
+    "4":"White House Says No 'Specific, Credible Threat' To U.S. After Paris Attacks",
+    "5":"Why A Backlash Against Refugees Only Helps ISIS"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The student, who was attending the annual Latinx Ivy League Conference Saturday, told the Brown Daily Herald student newspaper that a public safety officer slammed him against a wall, threw him to the ground and handcuffed him.",
+    "1":"French warplanes pounded Islamic State positions in Syria on Sunday as police in Europe widened their investigations into",
+    "2":"Nearly a thousand people gathered on Sunday in New York's Washington Square Park to mourn those killed in the attacks in",
+    "3":"But we must remain vigilant because ISIS has \"the aspirations to attack the United States,\" a White House official said.",
+    "4":"But we must remain vigilant because ISIS has \"the aspirations to attack the United States,\" a White House official said.",
+    "5":"\u201cThe more that happens, the more French Muslims feel alienated and are susceptible to extremist recruitment,\" one analyst says."
+  },
+  "authors":{
+    "0":"",
+    "1":"EMMANUEL JARRY AND ROBERT-JAN BARTUNEK, Reuters",
+    "2":"Megan Robertson",
+    "3":"Dave Jamieson",
+    "4":"Dave Jamieson",
+    "5":"Nick Robins-Early"
+  },
+  "date":{
+    "0":"2015-11-16 00:00:00",
+    "1":"2015-11-15 00:00:00",
+    "2":"2015-11-15 00:00:00",
+    "3":"2015-11-15 00:00:00",
+    "4":"2015-11-15 00:00:00",
+    "5":"2015-11-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"fra",
+    "2":"---ppl",
+    "3":"usagov",
+    "4":"imgmusisi",
+    "5":"---ref"
+  },
+  "actor2":{
+    "0":"---edumed",
+    "1":"syr",
+    "2":"usa",
+    "3":"usa",
+    "4":"usa",
+    "5":"imgmusisi"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"195",
+    "2":"040",
+    "3":"012",
+    "4":"190",
+    "5":"070"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":1.0,
+    "3":-0.4,
+    "4":-10.0,
+    "5":7.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "~edu",
+      "~",
+      "student",
+      "newspaper",
+      "~edumed",
+      "~",
+      "~"
+    ],
+    "1":[
+      "french",
+      "fra",
+      "france",
+      "syria",
+      "syr",
+      "syria",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "new york",
+      "washington",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "refugees",
+      "~ref",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "student",
+      "student ... newspaper"
+    ],
+    "1":[
+      "french",
+      "syria"
+    ],
+    "2":[
+      "people",
+      "new york"
+    ],
+    "3":[
+      "white house",
+      "u.s."
+    ],
+    "4":[
+      "isis",
+      "the ... united states"
+    ],
+    "5":[
+      "refugees",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "france",
+      "syria"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "white house",
+      "united states of america"
+    ],
+    "4":[
+      "the islamic state",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "<&aircraft> ... pounded"
+    ],
+    "2":[
+      "gathered"
+    ],
+    "3":[
+      "says ... threat"
+    ],
+    "4":[
+      "has ... attack"
+    ],
+    "5":[
+      "helps"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "2"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edumed",
+      "010"
+    ],
+    "1":[
+      "fra",
+      "syr",
+      "195"
+    ],
+    "2":[
+      "---ppl",
+      "usa",
+      "040",
+      "---ppl",
+      "usa",
+      "040"
+    ],
+    "3":[
+      "usagov",
+      "usa",
+      "012"
+    ],
+    "4":[
+      "imgmusisi",
+      "usa",
+      "190"
+    ],
+    "5":[
+      "---ref",
+      "imgmusisi",
+      "070"
+    ]
+  }
+}

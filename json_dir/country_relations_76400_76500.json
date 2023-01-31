@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/parents-of-mexican-immigrant-killed-by-police-file-wrongful-death-suit_us_568e71b3e4b0cad15e638d46"
+  },
+  "headline":{
+    "0":"Parents Of Mexican Immigrant Killed By Police File Wrongful Death Suit"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Antonio Zambrano-Montes was shot by three patrolmen on Feb. 10, 2015 during a confrontation that was recorded by a passerby and posted online."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-01-07 00:00:00"
+  },
+  "actor1":{
+    "0":"mexcvl"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "mexican",
+      "immigrant",
+      "mexcvl",
+      "mexico",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mexican immigrant",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "mexico",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mexcvl",
+      "---cop",
+      "190"
+    ]
+  }
+}

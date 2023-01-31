@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-turkey-pardon_us_58359ab7e4b01ba68ac3a7da",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jordanian-women-domestic-abuse-defense_us_5835c747e4b01ba68ac3ccef",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-challenge-election-results_us_5834e3a6e4b000af95ed3a34",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-betsy-devos-education_us_5835dbc1e4b01ba68ac3ec1e"
+  },
+  "headline":{
+    "0":"President Obama Has Pardoned More People Than Turkeys",
+    "1":"Jordan's First Self-Defense Academy For Women Wants To Fight Domestic Abuse",
+    "2":"Data Scientists Encourage Hillary Clinton To Challenge Election Results",
+    "3":"Donald Trump Taps Billionaire School Voucher Advocate To Run America's Schools"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The birds tend to gobble up all the attention.",
+    "1":"The first self-defense academy for women in Jordan, SheFighter gives women and girls the confidence to stand up against harassment",
+    "2":"They claim electronic voting machine tallies in key states show discrepancies that hurt Clinton.",
+    "3":"The president-elect rewarded GOP megadonor Betsy DeVos with the position of education secretary."
+  },
+  "authors":{
+    "0":"Arthur Delaney and Ryan J. Reilly",
+    "1":"Elspeth Dehnert, Women & Girls Hub",
+    "2":"Marina Fang",
+    "3":"Ashley Alman"
+  },
+  "date":{
+    "0":"2016-11-23 00:00:00",
+    "1":"2016-11-23 00:00:00",
+    "2":"2016-11-23 00:00:00",
+    "3":"2016-11-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"jorcvl",
+    "2":"---cvl",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"usaeli",
+    "3":"---govedu"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"060",
+    "2":"051",
+    "3":"051"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":6.0,
+    "2":3.4,
+    "3":3.4
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "jordan",
+      "jor",
+      "jordan",
+      "women",
+      "jorcvl",
+      "~",
+      "women",
+      "girls",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "2":[
+      "scientists",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "people"
+    ],
+    "1":[
+      "women",
+      "women ... girls"
+    ],
+    "2":[
+      "scientists",
+      "hillary clinton"
+    ],
+    "3":[
+      "president",
+      "education secretary"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ],
+    "2":[
+      "---",
+      "hillary clinton"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has pardoned"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "encourage"
+    ],
+    "3":[
+      "rewarded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ppl",
+      "08"
+    ],
+    "1":[
+      "jorcvl",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---cvl",
+      "usaeli",
+      "051"
+    ],
+    "3":[
+      "---gov",
+      "---govedu",
+      "051"
+    ]
+  }
+}

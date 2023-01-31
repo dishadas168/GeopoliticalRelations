@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dallas-police-chief-says-gunman-plotted-larger-assault_us_5782c5c8e4b01edea78e74c0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/credit-rating-outlook-of-the-uk-brexit-pay-out_us_5782a0bfe4b03288ddc6b6e6"
+  },
+  "headline":{
+    "0":"Dallas Police Chief Says Gunman Plotted Larger Assault",
+    "1":"Credit Rating Outlook Of The UK: Brexit Pay-Out"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\u201cWe\u2019re convinced that this suspect had other plans,\u201d said Dallas Police Chief David Brown.",
+    "1":"Last month the UK says goodbye to the EU. A referendum induced socio-political metamorphosis dawned on the UK, a grey and"
+  },
+  "authors":{
+    "0":"Brian Thevenot, Erwin Seba, Reuters",
+    "1":"Rama Kanungo, ContributorDr"
+  },
+  "date":{
+    "0":"2016-07-10 00:00:00",
+    "1":"2016-07-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"gbr"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"igoeureec"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "dallas",
+      "police chief",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "gunman",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "the uk",
+      "gbr",
+      "united",
+      "kingdom",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dallas police chief",
+      "gunman"
+    ],
+    "1":[
+      "the uk",
+      "the ... eu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "the european union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---uaf",
+      "010"
+    ],
+    "1":[
+      "gbr",
+      "igoeureec",
+      "010"
+    ]
+  }
+}

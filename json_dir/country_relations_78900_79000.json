@@ -1,0 +1,192 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/no-child-left-behind-rewrite-preschool_us_566722bee4b072e9d1c7c884",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-same-sex-birth-certificates_us_56659eb1e4b072e9d1c6a70c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/state-lawmakers-debt-free-college_us_5665af7ce4b08e945ff010a4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/chicago-justice-department_us_5665a85ee4b08e945ff005d9"
+  },
+  "headline":{
+    "0":"The No Child Left Behind Overhaul Could Seriously Help Preschools",
+    "1":"Arkansas Says Same-Sex Parents Can Now Be Listed On Birth Certificates",
+    "2":"These 10 State Lawmakers Are Pushing For Debt-Free College",
+    "3":"Chicago Case Could Overwhelm Tiny DOJ Unit That Investigates Police Civil Rights Abuses"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The bill has \u201chistoric support for early childhood education\u201d",
+    "1":"Health officials are defying the attorney general's recommendations.",
+    "2":"With college costs and student debt exploding, the lawmakers are urging their colleagues to make debt-free college a reality.",
+    "3":"The Special Litigation Section, which could barely fill a baseball team, conducts civil rights investigations into police departments."
+  },
+  "authors":{
+    "0":"Susan Frey, EdSource",
+    "1":"Amanda Terkel",
+    "2":"Shahien Nasiripour",
+    "3":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2015-12-08 00:00:00",
+    "1":"2015-12-07 00:00:00",
+    "2":"2015-12-07 00:00:00",
+    "3":"2015-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---govhlh",
+    "2":"---leg",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"120",
+    "2":"100",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-4.0,
+    "2":-5.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "preschools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "health officials",
+      "~govhlh",
+      "~",
+      "attorney general",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "preschools"
+    ],
+    "1":[
+      "health officials",
+      "attorney general"
+    ],
+    "2":[
+      "lawmakers",
+      "college"
+    ],
+    "3":[
+      "chicago",
+      "doj"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "united states department of justice"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could ... help"
+    ],
+    "1":[
+      "are defying"
+    ],
+    "2":[
+      "are pushing"
+    ],
+    "3":[
+      "could overwhelm"
+    ]
+  },
+  "issues":{
+    "0":[
+      "early_childhood_education",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1",
+      "human_rights",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "070"
+    ],
+    "1":[
+      "---govhlh",
+      "---gov",
+      "120"
+    ],
+    "2":[
+      "---leg",
+      "---edu",
+      "100"
+    ],
+    "3":[
+      "usa",
+      "usagov",
+      "190"
+    ]
+  }
+}

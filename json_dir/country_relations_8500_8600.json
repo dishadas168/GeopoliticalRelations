@@ -1,0 +1,199 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-trump-summit-nuclear-showdown_us_5b063d21e4b0784cd2b1247e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-accuse-morgan-freeman-of-harassment_us_5b06d4cde4b0784cd2b26818",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/harvey-weinstein-plans-to-turn-himself-in-friday_us_5b07121ee4b07c4ea10666d1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-house-ignore-climate-research-report_us_5b066bf7e4b07c4ea104e2a7"
+  },
+  "headline":{
+    "0":"North Korea Threatens Again To Call Off Trump Summit, Warns Of \u2018Nuclear Showdown\u2019",
+    "1":"Morgan Freeman Accused Of Inappropriate Behavior And Sexual Harassment",
+    "2":"Harvey Weinstein Expected To Turn Himself In To The NYPD For Sex Crimes",
+    "3":"White House Officials Reportedly Considered Just 'Ignoring' New Climate Research"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WOMEN",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"A top Pyongyang official lambasted \"political dummy\" Mike Pence and cautioned the U.S. against making \"ignorant\" remarks.",
+    "1":"Eight people told CNN that they were victims of harassment and inappropriate behavior by the actor.",
+    "2":"Authorities in New York have been investigating the former producer for alleged sexual abuse and harassment.",
+    "3":"An internal memo obtained by The Washington Post offers a glimpse into the challenges faced by the Trump administration on the issue of climate change."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Sebastian Murdock",
+    "2":"Sara Boboltz",
+    "3":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-05-24 00:00:00",
+    "1":"2018-05-24 00:00:00",
+    "2":"2018-05-24 00:00:00",
+    "3":"2018-05-24 00:00:00"
+  },
+  "actor1":{
+    "0":"prk",
+    "1":"---ppl",
+    "2":"usagov",
+    "3":"med"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"med",
+    "2":"---bus",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"010",
+    "2":"090",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":0.0,
+    "2":-2.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "pyongyang",
+      "prk",
+      "north",
+      "korea",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "cnn",
+      "med",
+      "cnn",
+      "actor",
+      "~eli",
+      "~",
+      "victims",
+      "actor",
+      "~cvleli",
+      "~",
+      "~"
+    ],
+    "2":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "authorities",
+      "usagov",
+      "~",
+      "producer",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "washington post",
+      "med",
+      "washington",
+      "post",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pyongyang",
+      "u.s."
+    ],
+    "1":[
+      "people",
+      "cnn"
+    ],
+    "2":[
+      "authorities",
+      "producer"
+    ],
+    "3":[
+      "washington post",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "north korea",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "cnn"
+    ],
+    "2":[
+      "",
+      "---"
+    ],
+    "3":[
+      "washington post",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... cautioned"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "have ... investigating"
+    ],
+    "3":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "gender_violence",
+      "1"
+    ],
+    "3":[
+      "climate_change",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "prk",
+      "usa",
+      "130"
+    ],
+    "1":[
+      "---ppl",
+      "med",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "---bus",
+      "090"
+    ],
+    "3":[
+      "med",
+      "---gov",
+      "030"
+    ]
+  }
+}

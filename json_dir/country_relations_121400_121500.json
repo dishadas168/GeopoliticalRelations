@@ -1,0 +1,137 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/will-the-delhi-bonhomie-l_b_5602269.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/many-still-dont-realize-d_b_5605538.html"
+  },
+  "headline":{
+    "0":"Will the Delhi Bonhomie Lead to a New Era in Pakistan-India Relations?",
+    "1":"Many Still Don't Realize Disproportionate Impact of Smoking on LGBT People"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"It has yet to be determined whether Indian Prime Minister Narendra Modi's decision to invite Pakistani Prime Minister Nawaz Sharif to his swearing-in ceremony will translate into substantive improvement in Pakistan-India relations. This will be dictated primarily by two factors: the mutual interests and actions of both actors and the state of security within Pakistan.",
+    "1":"Tobacco companies have long targeted our community with ads featuring LGBT people and themes. They have supported our causes. While the support has been welcomed, it has come with a price."
+  },
+  "authors":{
+    "0":"Frank Islam and Ed Crego, Contributors",
+    "1":"Harvey Makadon, M.D., ContributorDirector of Education and Training at The Fenway Institute"
+  },
+  "date":{
+    "0":"2014-07-22 00:00:00",
+    "1":"2014-07-22 00:00:00"
+  },
+  "actor1":{
+    "0":"pak",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"ind",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "delhi",
+      "ind",
+      "india",
+      "pakistan",
+      "india",
+      "pak",
+      "ind",
+      "pakistan",
+      "india"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pakistan",
+      "delhi",
+      "delhi",
+      "pakistan",
+      "delhi",
+      "delhi",
+      "delhi",
+      "delhi"
+    ],
+    "1":[
+      "companies",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "pakistan",
+      "india",
+      "india",
+      "pakistan",
+      "india",
+      "india",
+      "india",
+      "india"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lead to",
+      "lead to",
+      "lead to",
+      "lead to"
+    ],
+    "1":[
+      "have ... targeted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "pak",
+      "ind",
+      "043",
+      "ind",
+      "pak",
+      "042",
+      "ind",
+      "ind",
+      "043",
+      "ind",
+      "ind",
+      "042"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "190"
+    ]
+  }
+}

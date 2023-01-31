@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/exxon-mobil-investigation_us_563bb99ae4b0307f2cac95a9",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2015\/11\/04\/business\/media\/boston-globe-owner-set-to-start-health-news-website.html"
+  },
+  "headline":{
+    "0":"New York Attorney General Investigating Exxon Mobil For Alleged Climate Cover-Up",
+    "1":"Boston Globe Owner Set To Start Health News Website"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"Investigators are reportedly scrutinizing whether the company misled investors about the risks of climate change.",
+    "1":"John Henry, the billionaire owner of The Boston Globe, formally unveils a new publication on Wednesday dedicated to coverage"
+  },
+  "authors":{
+    "0":"Mollie Reilly",
+    "1":""
+  },
+  "date":{
+    "0":"2015-11-05 00:00:00",
+    "1":"2015-11-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "attorney general",
+      "~gov",
+      "~",
+      "exxon mobil",
+      "mncusa",
+      "exxon",
+      "mobil"
+    ],
+    "1":[
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "publication",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "attorney general",
+      "exxon mobil"
+    ],
+    "1":[
+      "boston",
+      "publication"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "exxon mobil"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "investigating"
+    ],
+    "1":[
+      "unveils"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "mncusa",
+      "090"
+    ],
+    "1":[
+      "usa",
+      "---med",
+      "050"
+    ]
+  }
+}

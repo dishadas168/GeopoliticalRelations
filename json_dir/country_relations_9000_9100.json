@@ -1,0 +1,367 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-calls-immigrants-animals-again_us_5afca15fe4b0779345d59e2a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/edward-suazo-angry-white-guy-speak-spanish_us_5afc6070e4b0779345d523fd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/8-month-old-dies-protests-israel-palestine_us_5afabdc5e4b044dfffb5c420",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-house-gaza-protests-hamas_us_5afa854ae4b09a94524b958c",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-warren-state-legislatures-partisan-gerrymandering_us_5afb42dce4b0a59b4dfe6573",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/ny-daily-news-ivanka-trump-daddys-little-ghoul_us_5afa65e3e4b0200bcab83958",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/woman-challenging-white-male-tech-industry_us_5af84aa3e4b032b10bfb9e18",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/seattle-head-tax-passes_us_5afa53d5e4b0200bcab82fea"
+  },
+  "headline":{
+    "0":"Trump Refers To Immigrants As 'Animals.' Again.",
+    "1":"Angry White Dude's Rant About People Speaking Spanish In NYC Goes Viral",
+    "2":"Palestinian Family Says 8-Month-Old Died From Israeli Tear Gas In Gaza Protest Crackdown (GRAPHIC)",
+    "3":"White House Blames Deadly Gaza Violence On Hamas \u2018Propaganda\u2019",
+    "4":"Elizabeth Warren Pledges Big Money To \u2018Turn Up The Heat On Gerrymandering\u2019",
+    "5":"'DADDY'S LITTLE GHOUL': New York Daily News Rips Ivanka Trump Over Embassy Opening",
+    "6":"This Woman Is Challenging The White Male-Dominated Tech Industry From The Inside",
+    "7":"Seattle Passes Controversial New Tax On City's Biggest Companies To Combat Housing Crisis"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"LATINO VOICES",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"MEDIA",
+    "6":"BLACK VOICES",
+    "7":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The president also asked the attorney general to charge the mayor of Oakland with obstruction of justice for warning residents about planned immigration arrests.",
+    "1":"The man tells an employee \u201cYour staff is speaking Spanish to customers when they should be speaking English.\u201d",
+    "2":"Sixty people were killed during Monday's clashes, which took place during the opening of the U.S. embassy in Jerusalem.",
+    "3":"Israeli forces opened fire on Palestinian protesters on Monday, killing more than 50 and injuring thousands more.",
+    "4":"The Massachusetts senator announced a $175,000 contribution to state legislature campaigns and gerrymandering reform groups.",
+    "5":"The tabloid said the first daughter was \"all smiles\" as protesters died in Gaza.",
+    "6":"Google's Annie Jean-Baptiste says diversity should be \"core to how everyone does business, not just a 'nice to have.'\"",
+    "7":"Following the council vote, Amazon\u2019s vice president, Drew Herdener, said the company has resumed construction planning for its so-called Block 18 project in downtown Seattle."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"David Moye",
+    "2":"Willa Frej",
+    "3":"Dominique Mosbergen",
+    "4":"Daniel Marans",
+    "5":"Ed Mazza",
+    "6":"Taryn Finley",
+    "7":"Gregory Scruggs, Reuters"
+  },
+  "date":{
+    "0":"2018-05-16 00:00:00",
+    "1":"2018-05-16 00:00:00",
+    "2":"2018-05-15 00:00:00",
+    "3":"2018-05-15 00:00:00",
+    "4":"2018-05-15 00:00:00",
+    "5":"2018-05-15 00:00:00",
+    "6":"2018-05-15 00:00:00",
+    "7":"2018-05-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"pse",
+    "3":"isr",
+    "4":"usaleg",
+    "5":"---med",
+    "6":"---cvl",
+    "7":"---gov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---lab",
+    "2":"isr",
+    "3":"pseopp",
+    "4":"---leg",
+    "5":"---opp",
+    "6":"mdvbus",
+    "7":"---bus"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"010",
+    "3":"193",
+    "4":"010",
+    "5":"112",
+    "6":"110",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-10.0,
+    "4":0.0,
+    "5":-2.0,
+    "6":-2.0,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "attorney general",
+      "~gov",
+      "~",
+      "mayor",
+      "~gov",
+      "~",
+      "residents",
+      "~cvl",
+      "~",
+      "residents",
+      "~cvl",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "employee",
+      "~lab",
+      "~",
+      "spanish",
+      "esp",
+      "spain",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "israeli",
+      "isr",
+      "israel",
+      "gaza",
+      "psegza",
+      "gaza"
+    ],
+    "3":[
+      "israeli",
+      "isr",
+      "israel",
+      "palestinian",
+      "protesters",
+      "pseopp",
+      "palestine",
+      "~"
+    ],
+    "4":[
+      "massachusetts",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "legislature",
+      "~leg",
+      "~"
+    ],
+    "5":[
+      "tabloid",
+      "~med",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "gaza",
+      "psegza",
+      "gaza"
+    ],
+    "6":[
+      "woman",
+      "~cvl",
+      "~",
+      "male",
+      "industry",
+      "mdvbus",
+      "maldives",
+      "~"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "man",
+      "employee"
+    ],
+    "2":[
+      "palestinian",
+      "israeli",
+      "palestinian",
+      "gaza"
+    ],
+    "3":[
+      "israeli",
+      "palestinian protesters"
+    ],
+    "4":[
+      "massachusetts senator",
+      "legislature"
+    ],
+    "5":[
+      "tabloid",
+      "protesters"
+    ],
+    "6":[
+      "woman",
+      "male ... industry"
+    ],
+    "7":[
+      "president",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "palestine",
+      "israel",
+      "palestine",
+      "gaza"
+    ],
+    "3":[
+      "israel",
+      "palestine"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "maldives"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked"
+    ],
+    "1":[
+      "tells"
+    ],
+    "2":[
+      "says",
+      "says"
+    ],
+    "3":[
+      "opened fire"
+    ],
+    "4":[
+      "announced"
+    ],
+    "5":[
+      "said ... died"
+    ],
+    "6":[
+      "is ... challenging"
+    ],
+    "7":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "violent_unrest",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "020"
+    ],
+    "1":[
+      "---ppl",
+      "---lab",
+      "010"
+    ],
+    "2":[
+      "pse",
+      "isr",
+      "010",
+      "pse",
+      "psegza",
+      "010"
+    ],
+    "3":[
+      "isr",
+      "pseopp",
+      "193"
+    ],
+    "4":[
+      "usaleg",
+      "---leg",
+      "010"
+    ],
+    "5":[
+      "---med",
+      "---opp",
+      "112"
+    ],
+    "6":[
+      "---cvl",
+      "mdvbus",
+      "110"
+    ],
+    "7":[
+      "---gov",
+      "---bus",
+      "010"
+    ]
+  }
+}

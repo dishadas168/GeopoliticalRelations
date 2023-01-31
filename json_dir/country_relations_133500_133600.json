@@ -1,0 +1,82 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/meet-the-students-getting_us_5bb1517ae4b09bbe9a5e734c"
+  },
+  "headline":{
+    "0":"Meet the Students Getting Arrested Over Keystone XL"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"More than 1,000 students from over 200 schools and 42 different states have come to Washington, DC to take part in the protest. Here are some of the faces of the growing climate justice movement that's sweeping the nation."
+  },
+  "authors":{
+    "0":"Jamie Henn, Contributor\nCo-founder and Strategic Communications Director, 350.org and ..."
+  },
+  "date":{
+    "0":"2014-03-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "schools",
+      "~edu",
+      "~",
+      "students",
+      "schools",
+      "~edu",
+      "~",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "schools",
+      "washington"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have come to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "040"
+    ]
+  }
+}

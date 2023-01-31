@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/world-peace-day_us_5b9d85f9e4b03a1dcc8917f6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/adding-some-history-to-yo_us_5b9d6e58e4b03a1dcc87e898",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/do-shoes-trigger-foot-pro_us_5b9d8761e4b03a1dcc892656",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-worlds-best-antiques_us_5b9d874fe4b03a1dcc89253e"
+  },
+  "headline":{
+    "0":"The Power of Water",
+    "1":"Adding Some History on Safari",
+    "2":"Do Shoes Trigger Foot Problems or Do Your Feet Trigger Shoe Problems?",
+    "3":"The World's Best Antiques Fair Is in Texas"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"TRAVEL",
+    "2":"STYLE & BEAUTY",
+    "3":"TRAVEL"
+  },
+  "short_description":{
+    "0":"On September 21, Isha Foundation, an international non-profit human service organization, will host a day-long celebration of entertainment and enlightening talks at its yoga and meditation center in Tennessee.",
+    "1":"Let's face it, the vast majority of holiday travelers to Africa are there for the wildlife. While the animals are sure to",
+    "2":"Every day thousands of women ask themselves that question when their feet start hurting. Is it my shoes or is it my feet?",
+    "3":"Twice a year in spring and autumn, people flock to Round Top, Texas, for Antiques Week, a shopping extravaganza to rival the world's best. Here's a teaser of the best treasure-hunting experience in the world."
+  },
+  "authors":{
+    "0":"Sadhguru, Contributor\nMystic, Yogi and Founder, Isha Foundation",
+    "1":"Elizabeth Gordon, Contributor\nFounder of Extraordinary Journeys, Leading Luxury Tour Operator",
+    "2":"Dr. Steve Rosenberg, Contributor\nPodiatrist, CEO \/ President Instant Arches Foot Products Inc. ...",
+    "3":"Fathom, Contributor\nGet inspired. Plan your trip. Pack your bags."
+  },
+  "date":{
+    "0":"2013-09-19 00:00:00",
+    "1":"2013-09-19 00:00:00",
+    "2":"2013-09-19 00:00:00",
+    "3":"2013-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"meareb",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"040",
+    "2":"020",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":1.0,
+    "2":3.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "travelers",
+      "~cvl",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "organization",
+      "tennessee"
+    ],
+    "1":[
+      "travelers",
+      "travelers"
+    ],
+    "2":[
+      "women",
+      "women"
+    ],
+    "3":[
+      "people",
+      "texas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "tanzim",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will host"
+    ],
+    "1":[
+      "face"
+    ],
+    "2":[
+      "ask"
+    ],
+    "3":[
+      "flock"
+    ]
+  },
+  "issues":{
+    "0":[
+      "civil_society",
+      "1"
+    ],
+    "1":[
+      "tourism",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "meareb",
+      "usa",
+      "043"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "020"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "040"
+    ]
+  }
+}

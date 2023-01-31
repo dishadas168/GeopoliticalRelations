@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-baghdad-bombing_us_56d33603e4b0bf0dab32767e"
+  },
+  "headline":{
+    "0":"ISIS Market Bombing In Baghdad Kills At Least 70 People"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"This is the deadliest attack on Baghdad so far this year."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-02-28 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kills"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "---ppl",
+      "190"
+    ]
+  }
+}

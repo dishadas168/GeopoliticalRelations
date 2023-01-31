@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israel-isis-arrests_n_6412668.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-bad-end-to-a-bad-year_b_6410046.html"
+  },
+  "headline":{
+    "0":"Israel Arrests Alleged ISIS-Linked Militants in West Bank",
+    "1":"A Bad End to a Bad Year"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"On December 17, 2014, representatives of 126 countries who had endorsed the Fourth Geneva Convention Relative to the Protection of Civilian Persons in Time of War (Convention) met at the invitation of the Swiss government and, by consensus, passed a 10 point Declaration."
+  },
+  "authors":{
+    "0":"",
+    "1":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'"
+  },
+  "date":{
+    "0":"2015-01-04 00:00:00",
+    "1":"2015-01-03 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"---leg"
+  },
+  "actor2":{
+    "0":"imgmusisiuaf",
+    "1":"chegov"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"036"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "israel",
+      "isr",
+      "israel",
+      "isis",
+      "militants",
+      "imgmusisiuaf",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "west bank",
+      "pse",
+      "palestine"
+    ],
+    "1":[
+      "representatives",
+      "~leg",
+      "~",
+      "swiss",
+      "government",
+      "chegov",
+      "switzerland",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israel",
+      "isis ... militants"
+    ],
+    "1":[
+      "representatives",
+      "swiss government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "the islamic state"
+    ],
+    "1":[
+      "---",
+      "switzerland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "alleged"
+    ],
+    "1":[
+      "<and> ... met at"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "isr",
+      "imgmusisiuaf",
+      "110"
+    ],
+    "1":[
+      "---leg",
+      "chegov",
+      "036"
+    ]
+  }
+}

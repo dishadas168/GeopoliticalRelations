@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/divorce-sale-woman_us_5b9bbba8e4b03a1dcc79edc1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/san-jose-payday-lenders_us_5b9bba25e4b03a1dcc79e318"
+  },
+  "headline":{
+    "0":"Divorce Sale: Woman Holds 'X-Husband Sale,' Spray Paints His Truck (PHOTOS)",
+    "1":"San Jose Passes Ordinance Cracking Down On Payday Lenders"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"MONEY"
+  },
+  "short_description":{
+    "0":"According to local radio station Mix 108, police arrived at the house around 4 p.m. and spoke with a woman inside. An hour",
+    "1":"The industry has been criticized by consumer advocates who say the expensive loans can trap customers in a cycle of debt"
+  },
+  "authors":{
+    "0":"",
+    "1":"Catherine New"
+  },
+  "date":{
+    "0":"2012-05-18 00:00:00",
+    "1":"2012-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"046",
+    "1":"111"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "advocates",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "woman"
+    ],
+    "1":[
+      "advocates",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... spoke with"
+    ],
+    "1":[
+      "<~bus> ... criticized by <~jud>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "046"
+    ],
+    "1":[
+      "---jud",
+      "---bus",
+      "111"
+    ]
+  }
+}

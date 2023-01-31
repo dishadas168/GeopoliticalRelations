@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.bloomberg.com\/consumer-spending\/2012-06-15\/the-real-cost-of-sleepaway-camp.html"
+  },
+  "headline":{
+    "0":"The Real Cost Of Sleepaway Camp"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"This summer, some 11 million children will head off to one of the 7,000 sleepaway or 5,000 day camps in the U.S., according"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-06-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will head ... to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "042"
+    ]
+  }
+}

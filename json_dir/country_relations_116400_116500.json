@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-russia-china-relations_b_5847200.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-torture-and-world-si_b_5843968.html"
+  },
+  "headline":{
+    "0":"The U.S. Wants to Contain Russia But Cooperate With China",
+    "1":"ISIS, Torture and World Silence About Women"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The U.S. government believes that, as the inheritor of tsarist Russia and Soviet Union, Russia has expansionist and hegemonic traditions that China doesn't have. It believes Russia always has policies that challenge and attempt to supplant the existing international order while China doesn't. In many circumstances, China sees itself as a beneficiary of the current international order.",
+    "1":"The United Nations must condemn the attacks against women as war crimes to the full extent, and direct that ISIS fighters be prosecuted in International Criminal Court. This, too, is an international outrage. These actions are not only achievable, but long overdue."
+  },
+  "authors":{
+    "0":"Zheng Yu, ContributorProfessor, Chinese Academy of Social Sciences, Beijing",
+    "1":"Dr. Elise Collins Shields and Jill Koyama, Ph.D., Contributors"
+  },
+  "date":{
+    "0":"2014-09-19 00:00:00",
+    "1":"2014-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"igouno"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"111"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "the united nations",
+      "igouno",
+      "the",
+      "united",
+      "nations",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "isis",
+      "fighters",
+      "imgmusisiuaf",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "criminal",
+      "court",
+      "~crmjud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "china"
+    ],
+    "1":[
+      "the united nations",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "china"
+    ],
+    "1":[
+      "the united nations",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sees"
+    ],
+    "1":[
+      "must condemn ... attacks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_atrocity",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "chn",
+      "chn",
+      "010"
+    ],
+    "1":[
+      "igouno",
+      "---cvl",
+      "111"
+    ]
+  }
+}

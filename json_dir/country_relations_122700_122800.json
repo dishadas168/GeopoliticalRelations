@@ -1,0 +1,166 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/one-woman-with-many-voices_b_5561854.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-caliphate-meaning_b_5562600.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/terrified-tyrants_b_5532056.html"
+  },
+  "headline":{
+    "0":"One Woman with Many Voices Tells About Passage from Guyana to the USA",
+    "1":"Who's Afraid of the Caliphate?",
+    "2":"Terrified Tyrants"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WORLDPOST",
+    "2":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Today respected clerics exist here and there, but many Muslims see the absence of a single authority as one source of the weakness and paucity of Islamic vision in the Muslim world today. In an era when the West has repeatedly invaded Muslim countries, overthrown their leaderships, and commandeered their economic and energy sources over much of the 20th century, the weakness and lack of leadership in the Muslim world remains a vivid concern to Muslims. Thus when the term \"caliphate\" is invoked, it touches a chord in the historical sensibilities of many.",
+    "2":"What do you think about when you think of an anxious kid? Shy? Withdrawn? Avoidant? Meek? How about controlling? Coercive? Even... a dictator? Teachers, neighbors, and psychologists like me are usually surprised when parents describe an anxious child in these terms. But very often, parents do."
+  },
+  "authors":{
+    "0":"Isa Freeling, ContributorArt, Film,Theater, Culture Writer and Adviser",
+    "1":"Graham E. Fuller, ContributorFormer vice chairman, CIA\u2019s National Intelligence Council; Aut...",
+    "2":"Eli Lebowitz, ContributorPsychologist, researcher, dad."
+  },
+  "date":{
+    "0":"2014-07-07 00:00:00",
+    "1":"2014-07-07 00:00:00",
+    "2":"2014-07-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---mus",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"guy",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "guyana",
+      "guy",
+      "guyana",
+      "the usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "clerics",
+      "~rel",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "authority",
+      "~gov",
+      "~",
+      "authority",
+      "~gov",
+      "~",
+      "islamic",
+      "~mus",
+      "~",
+      "islamic",
+      "~mus",
+      "~",
+      "islamic",
+      "~mus",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ],
+    "2":[
+      "teachers",
+      "~edu",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "guyana"
+    ],
+    "1":[
+      "muslims",
+      "authority"
+    ],
+    "2":[
+      "teachers",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "guyana"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "see"
+    ],
+    "2":[
+      "are ... describe"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "guy",
+      "010"
+    ],
+    "1":[
+      "---mus",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "010"
+    ]
+  }
+}

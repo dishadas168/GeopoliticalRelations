@@ -1,0 +1,249 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/philadelphia-gun-violence_us_571e6840e4b01a5ebde2e0e1",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/highline.huffingtonpost.com\/articles\/en\/trump-at-war\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/new-york-millennials_us_571e7c76e4b0b49df6a8a6e4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/university-of-tennessee-free-speech_us_571e7b98e4b0f309baee388d",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/thinkprogress.org\/politics\/2016\/04\/23\/3772224\/republican-ad-undocumented-immigrants\/"
+  },
+  "headline":{
+    "0":"When Fourth-Grade Problems Include Gunfire",
+    "1":"Trump At War",
+    "2":"America's Largest City Is Failing Its Young People",
+    "3":"State's Anti-Free Speech Bill Is Close To Becoming Law",
+    "4":"Disturbing New Ad Reveals The Future Of The GOP Under Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BUSINESS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"In West Philadelphia, a teacher willing to broach a heavy subject is helping his students make sense of the shootings that shape their world.",
+    "1":"How the military is preparing for the possibility of a very different kind of Commander in Chief.",
+    "2":"Millennials in New York are more educated than the previous generation, but they're stuck in bad jobs with paltry pay.",
+    "3":"Lawmakers want to shut down the University of Tennessee's diversity office and ban it from promoting gender-neutral pronouns.",
+    "4":"Mike Pape, a Republican running for Kentucky\u2019s first Congressional district, released a new TV ad filled with ugly stereotypes"
+  },
+  "authors":{
+    "0":"ELIZABETH VAN BROCKLIN, The Trace",
+    "1":"",
+    "2":"Shane Ferro",
+    "3":"Tyler Kingkade",
+    "4":""
+  },
+  "date":{
+    "0":"2016-04-26 00:00:00",
+    "1":"2016-04-26 00:00:00",
+    "2":"2016-04-26 00:00:00",
+    "3":"2016-04-26 00:00:00",
+    "4":"2016-04-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---mil",
+    "2":"usa",
+    "3":"---leg",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---mil",
+    "2":"---ppl",
+    "3":"usaedu",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"030",
+    "2":"120",
+    "3":"172",
+    "4":"084"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":4.0,
+    "2":-4.0,
+    "3":-5.0,
+    "4":7.0
+  },
+  "nouns":{
+    "0":[
+      "teacher",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "military",
+      "~mil",
+      "~",
+      "commander",
+      "~mil",
+      "~",
+      "commander",
+      "~mil",
+      "~",
+      "commander",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~"
+    ],
+    "4":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "tv",
+      "~med",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "teacher"
+    ],
+    "1":[
+      "military",
+      "military"
+    ],
+    "2":[
+      "america",
+      "people"
+    ],
+    "3":[
+      "lawmakers",
+      "university",
+      "lawmakers",
+      "lawmakers"
+    ],
+    "4":[
+      "kentucky",
+      "tv"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "",
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is helping"
+    ],
+    "1":[
+      "is preparing"
+    ],
+    "2":[
+      "is failing"
+    ],
+    "3":[
+      "want <['shut',> <'down',> <'-> <*> ... university                                        <[172]>         <#> <close']>",
+      "want ... ban"
+    ],
+    "4":[
+      "released"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "070"
+    ],
+    "1":[
+      "---mil",
+      "---mil",
+      "030"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "120"
+    ],
+    "3":[
+      "---leg",
+      "usaedu",
+      "172",
+      "---leg",
+      "---leg",
+      "172"
+    ],
+    "4":[
+      "usa",
+      "---med",
+      "084"
+    ]
+  }
+}

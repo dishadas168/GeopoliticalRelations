@@ -1,0 +1,196 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-baton-rouge-police-shooting_us_578bdecee4b0867123e1ab0d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-crackdown-coup_us_578bb80ae4b03fc3ee513c21",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/aleppo-castello-road_us_578bab37e4b0867123e1a313",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/erdogan-supporters-hold-rallies-calling-for-punishment-of-coup-plotters_us_578b7b38e4b03fc3ee512f2c"
+  },
+  "headline":{
+    "0":"President Obama Pleads For Unity In Response To Police Shootings",
+    "1":"Turkey Detains Over 7,500 People As Crackdown Widens After Bloody Coup Attempt",
+    "2":"Assad Seizes Only Road Into Rebel-Held Aleppo As Siege Tightens",
+    "3":"Erdogan Supporters Hold Rallies, Calling For Punishment Of Coup Plotters"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"It's the fourth shooting in just two weeks that the president has had to publicly address.",
+    "1":"Turkish police have asked citizens to report people who \u201csupport terrorism\" as government critics warn of possible human rights abuses.",
+    "2":"The city has seen some of the worst fighting in Syria's deadly war.",
+    "3":"\u201cLet\u2019s hang them!\u201d chanted crowds in Ankara\u2019s central Kizilay square late on Saturday."
+  },
+  "authors":{
+    "0":"Marina Fang",
+    "1":"Sophia Jones",
+    "2":"",
+    "3":"Nick Tattersall and Dasha Afansieva, Reuters"
+  },
+  "date":{
+    "0":"2016-07-17 00:00:00",
+    "1":"2016-07-17 00:00:00",
+    "2":"2016-07-17 00:00:00",
+    "3":"2016-07-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"turcop",
+    "2":"syrgov",
+    "3":"turgov"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---cvl",
+    "2":"syr",
+    "3":"---reb"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"020",
+    "2":"171",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":3.0,
+    "2":-9.2,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "turkish",
+      "police",
+      "turcop",
+      "turkey",
+      "~",
+      "citizens",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "assad",
+      "syrgov",
+      "bashar",
+      "al-assad",
+      "aleppo",
+      "syr",
+      "syria"
+    ],
+    "3":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "coup plotters",
+      "~reb",
+      "~",
+      "coup plotters",
+      "~reb",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "police"
+    ],
+    "1":[
+      "turkish police",
+      "citizens"
+    ],
+    "2":[
+      "assad",
+      "aleppo"
+    ],
+    "3":[
+      "erdogan",
+      "coup plotters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "turkey",
+      "---"
+    ],
+    "2":[
+      "bashar al-assad",
+      "syria"
+    ],
+    "3":[
+      "recep tayyip erdogan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pleads"
+    ],
+    "1":[
+      "have asked"
+    ],
+    "2":[
+      "seizes"
+    ],
+    "3":[
+      "hold rallies ... calling for"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1",
+      "terror",
+      "1",
+      "human_rights",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cop",
+      "020"
+    ],
+    "1":[
+      "turcop",
+      "---cvl",
+      "020"
+    ],
+    "2":[
+      "syrgov",
+      "syr",
+      "171"
+    ],
+    "3":[
+      "turgov",
+      "---reb",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/indonesia-gay-spa-raid_us_59dba0b4e4b00377980aba8a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/child-sex-offender-awarded-joint-custody-of-victims-kid-attorney_us_59da5677e4b0f6eed3511163",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/student-houston-pledge-suspended_us_59dadceee4b046f5ad992911"
+  },
+  "headline":{
+    "0":"51 Men Detained In Indonesian 'Gay Spa' Raid",
+    "1":"Child Sex Offender Awarded Joint Custody Of Victim\u2019s Kid: Attorney",
+    "2":"Student Gets Suspended For Sitting During Pledge Of Allegiance"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"CRIME",
+    "2":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Some could face up to six years in prison.",
+    "1":"The woman, who was 12 when she was impregnated, seeks protection from her attacker under the federal Rape Survivor Child Custody Act.",
+    "2":"Senior India Landry and her family have filed a lawsuit against Cypress Fairbanks ISD school district in Houston."
+  },
+  "authors":{
+    "0":"Agustinus Beo Da Costa, Reuters",
+    "1":"Nina Golgowski",
+    "2":"Doha Madani"
+  },
+  "date":{
+    "0":"2017-10-09 00:00:00",
+    "1":"2017-10-09 00:00:00",
+    "2":"2017-10-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"ind"
+  },
+  "actor2":{
+    "0":"idn",
+    "1":"---cvl",
+    "2":"usaedu"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"030",
+    "2":"115"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":4.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "indonesian",
+      "idn",
+      "indonesia"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "india",
+      "ind",
+      "india",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "indonesian"
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ],
+    "2":[
+      "india",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "indonesia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "india",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "detained"
+    ],
+    "1":[
+      "seeks"
+    ],
+    "2":[
+      "have filed ... lawsuit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "rape",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "idn",
+      "173"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "ind",
+      "usaedu",
+      "115"
+    ]
+  }
+}

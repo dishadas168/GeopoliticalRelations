@@ -1,0 +1,190 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mark-kirk-drug-dealer-in-chief_us_57ba65bee4b03d5136892f4f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/at-least-20-people-involved-in-thailand-bombings_us_57baf22fe4b0b51733a45d6b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/knives-removed-from-stomach_us_57baed11e4b03d513689428e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/egypt-broadcaster-weight_us_57bb538ae4b00d9c3a19408a"
+  },
+  "headline":{
+    "0":"Sen. Mark Kirk Says President Obama Is 'Acting Like The Drug Dealer In Chief'",
+    "1":"At Least 20 People Involved In Thailand Bombings",
+    "2":"Man Of Steel: Doctors Remove 40 Knives From Man\u2019s Stomach",
+    "3":"Egypt Orders 8 Female TV Anchors To Lose Weight"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"WEIRD NEWS",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"The GOP senator called a $400 million payment to Iran \"ransom.\"",
+    "1":"But no group has claimed responsibility for the attacks, which rocked the country earlier this month.",
+    "2":"\u201cI just enjoyed its taste and I was addicted,\u201d the knife-swallower said.",
+    "3":"The state-run broadcaster said the women can return to the air with \"appropriate appearance.\""
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"",
+    "2":"Nina Golgowski",
+    "3":"David Moye"
+  },
+  "date":{
+    "0":"2016-08-22 00:00:00",
+    "1":"2016-08-22 00:00:00",
+    "2":"2016-08-22 00:00:00",
+    "3":"2016-08-22 00:00:00"
+  },
+  "actor1":{
+    "0":"irn",
+    "1":"---ppl",
+    "2":"---hlh",
+    "3":"---med"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"tha",
+    "2":"---ppl",
+    "3":"egy"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"012",
+    "2":"0873",
+    "3":"043"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-0.4,
+    "2":9.0,
+    "3":2.8
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "thailand",
+      "tha",
+      "thailand"
+    ],
+    "2":[
+      "doctors",
+      "~hlh",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "egypt",
+      "egy",
+      "egypt",
+      "tv",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iran",
+      "senator",
+      "senator",
+      "iran"
+    ],
+    "1":[
+      "people",
+      "thailand"
+    ],
+    "2":[
+      "doctors",
+      "man"
+    ],
+    "3":[
+      "tv",
+      "egypt",
+      "egypt",
+      "tv"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "---",
+      "---",
+      "iran"
+    ],
+    "1":[
+      "---",
+      "thailand"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "egypt",
+      "egypt",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "involved"
+    ],
+    "2":[
+      "remove <&weapon>"
+    ],
+    "3":[
+      "orders ... to",
+      "orders ... to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "irn",
+      "---leg",
+      "041",
+      "---leg",
+      "irn",
+      "041"
+    ],
+    "1":[
+      "---ppl",
+      "tha",
+      "012"
+    ],
+    "2":[
+      "---hlh",
+      "---ppl",
+      "0873"
+    ],
+    "3":[
+      "---med",
+      "egy",
+      "043",
+      "egy",
+      "---med",
+      "042"
+    ]
+  }
+}

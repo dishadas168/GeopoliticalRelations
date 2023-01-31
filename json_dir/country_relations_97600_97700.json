@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fighting-against-the-15-m_b_7152872.html"
+  },
+  "headline":{
+    "0":"Fighting Against the $15 Minimum Wage"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"New Yorkers are fighting for higher wages, with increasing intensity over the past several months. In early April, between 10,000 and 15,000 laborers and students marched on New York. The genesis of the protest seems to be from the fast food industry as well as activist students."
+  },
+  "authors":{
+    "0":"Dan Lambert, ContributorCEO in the Healthcare Education Industry"
+  },
+  "date":{
+    "0":"2015-04-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---labedu"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"140"
+  },
+  "goldstein_score":{
+    "0":-6.5
+  },
+  "nouns":{
+    "0":[
+      "laborers",
+      "students",
+      "~labedu",
+      "~",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "laborers ... students",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "marched"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---labedu",
+      "usa",
+      "140"
+    ]
+  }
+}

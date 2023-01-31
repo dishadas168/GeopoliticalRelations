@@ -1,0 +1,229 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/australia-journey-movie_us_56f9924fe4b0a372181aa7e4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cia-bashar-assad_us_56f9368ce4b0143a9b489b41",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brussels-attacks-victims_us_56f8874ee4b0a372181a41d1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/brussels-attacks-victims_us_56f8874ee4b0a372181a41d1",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/fidel-castro-obama_us_56f94816e4b0143a9b48a451"
+  },
+  "headline":{
+    "0":"Australia Wants To Scare Away Migrants With A Movie",
+    "1":"CIA Head Discussed Bashar Assad Leaving Power When In Moscow: Report",
+    "2":"Two More U.S. Citizens Confirmed Killed In Brussels Attack",
+    "3":"Two More U.S. Citizens Confirmed Killed In Brussels Attack",
+    "4":"Fidel Castro Slams Obama Following Historic Cuba Visit"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Journey,\" which reportedly cost the government $5.6 million, shows smugglers, dangerous waters and inhumane detention conditions.",
+    "1":"John Brennan also talked about the observance of the ceasefire in Syria.",
+    "2":"WASHINGTON, March 27 (Reuters) - Two more U.S. citizens have been confirmed killed in last week's Brussels suicide bombings",
+    "3":"WASHINGTON, March 27 (Reuters) - Two more U.S. citizens have been confirmed killed in last week's Brussels suicide bombings",
+    "4":"The retired leader said the U.S. president \"honey-coated\" his comments."
+  },
+  "authors":{
+    "0":"Danae Leivada",
+    "1":"Anton Zverev and Polina Devitt, Reuters",
+    "2":"",
+    "3":"",
+    "4":"Marc Frank, Reuters"
+  },
+  "date":{
+    "0":"2016-03-29 00:00:00",
+    "1":"2016-03-28 00:00:00",
+    "2":"2016-03-28 00:00:00",
+    "3":"2016-03-28 00:00:00",
+    "4":"2016-03-28 00:00:00"
+  },
+  "actor1":{
+    "0":"aus",
+    "1":"usagovspy",
+    "2":"usacvl",
+    "3":"usacvl",
+    "4":"cubeli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"syr",
+    "2":"bel",
+    "3":"bel",
+    "4":"usagov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"190",
+    "3":"190",
+    "4":"042"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":1.9
+  },
+  "nouns":{
+    "0":[
+      "australia",
+      "aus",
+      "australia",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "john brennan",
+      "usagovspy",
+      "john",
+      "brennan",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "u.s.",
+      "citizens",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "brussels",
+      "bel",
+      "belgium"
+    ],
+    "3":[
+      "u.s.",
+      "citizens",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "brussels",
+      "bel",
+      "belgium"
+    ],
+    "4":[
+      "cuba",
+      "cub",
+      "cuba",
+      "fidel castro",
+      "obama",
+      "cubeli",
+      "usagov",
+      "fidel",
+      "castro",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "australia",
+      "migrants"
+    ],
+    "1":[
+      "john brennan",
+      "syria"
+    ],
+    "2":[
+      "u.s. citizens",
+      "brussels"
+    ],
+    "3":[
+      "u.s. citizens",
+      "brussels"
+    ],
+    "4":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "australia",
+      "---"
+    ],
+    "1":[
+      "john brennan",
+      "syria"
+    ],
+    "2":[
+      "united states of america",
+      "belgium"
+    ],
+    "3":[
+      "united states of america",
+      "belgium"
+    ],
+    "4":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "talked"
+    ],
+    "2":[
+      "killed"
+    ],
+    "3":[
+      "have ... killed"
+    ],
+    "4":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "suicide_attack",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "aus",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "usagovspy",
+      "syr",
+      "010"
+    ],
+    "2":[
+      "usacvl",
+      "bel",
+      "190"
+    ],
+    "3":[
+      "usacvl",
+      "bel",
+      "190"
+    ],
+    "4":[
+      "cubeli",
+      "usagov",
+      "042",
+      "usagov",
+      "cubeli",
+      "042"
+    ]
+  }
+}

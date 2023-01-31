@@ -1,0 +1,166 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mueller-documents_us_59c2fcdbe4b063b25317c635",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-32-million-rohingya_us_59c2637ae4b087fdf509690a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/white-house-says-trump-didnt-apologize-to-turkeys-erdogan-for-dc-clash-with-protesters_us_59c2ab9fe4b0c90504fb0413"
+  },
+  "headline":{
+    "0":"Report: Mueller Asks White House For Details On Comey Firing, Flynn Ouster",
+    "1":"The U.S. Is Giving $32 Million To Assist Rohingya Refugees",
+    "2":"White House Says Trump Didn't Apologize To Turkey's Erdogan For D.C. Clash With Protesters"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"According to the report, the special counsel has also asked for documents on how the White House responded to questions about a June 2016 meeting involving Trump\u2019s son and a Russian lawyer.",
+    "1":"It's the Trump administration's first show of support for the persecuted minority.",
+    "2":"WASHINGTON \u2014\u00a0The White House is rejecting Turkish President Recep Tayyip Erdogan\u2019s claim that President Trump said he was"
+  },
+  "authors":{
+    "0":"",
+    "1":"Willa Frej",
+    "2":"Hunter Walker, Yahoo! News"
+  },
+  "date":{
+    "0":"2017-09-20 00:00:00",
+    "1":"2017-09-20 00:00:00",
+    "2":"2017-09-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ref",
+    "2":"turgov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"060",
+    "2":"016"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":6.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "counsel",
+      "~jud",
+      "~",
+      "russian",
+      "lawyer",
+      "rusjud",
+      "russian",
+      "federation",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "2":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "turkish",
+      "president",
+      "recep tayyip erdogan",
+      "turgov",
+      "turgov",
+      "turkey",
+      "~",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "counsel",
+      "the ... white house"
+    ],
+    "1":[
+      "u.s.",
+      "refugees"
+    ],
+    "2":[
+      "the white house",
+      "turkish"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "white house"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "white house",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... asked"
+    ],
+    "1":[
+      "is giving"
+    ],
+    "2":[
+      "is rejecting ... claim"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usagov",
+      "020"
+    ],
+    "1":[
+      "usa",
+      "---ref",
+      "060"
+    ],
+    "2":[
+      "usagov",
+      "turgov",
+      "016",
+      "usagov",
+      "turgov",
+      "016"
+    ]
+  }
+}

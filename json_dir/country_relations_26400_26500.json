@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-afghanistan-mattis_us_599998bde4b0a2608a6ccf61",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/finnish-police-say-stabbing-attack-killed-2-perpetrator-targeted-women_us_59984dcae4b0a2608a6ca033"
+  },
+  "headline":{
+    "0":"Trump Has Made Afghanistan Decision After 'Rigorous' Review: Mattis",
+    "1":"Finnish Police Say Attacker Targeted Women In Stabbing That Killed 2"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The White House said President Donald Trump will lay out the strategy for the war in Afghanistan in a television address on Monday night.",
+    "1":"The police are treating the attacks as \"murders with terrorist intent,\" said a National Bureau of Investigation spokesperson."
+  },
+  "authors":{
+    "0":"",
+    "1":"Jussi Rosendahl and Tuomas Forsell, Reuters"
+  },
+  "date":{
+    "0":"2017-08-20 00:00:00",
+    "1":"2017-08-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"fincop"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "president",
+      "~gov",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan",
+      "television",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "finnish",
+      "police",
+      "fincop",
+      "finland",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "president"
+    ],
+    "1":[
+      "finnish police",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "finland",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "say"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "fincop",
+      "---cvl",
+      "010"
+    ]
+  }
+}

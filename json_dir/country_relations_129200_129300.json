@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/on-the-a-wsouleo-tabooyar_b_5163892.html"
+  },
+  "headline":{
+    "0":"On the \"A\" w\/Souleo: \"Taboo...Yardies\" Doc Challenges Homophobia in Jamaica"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"These days when Selena Blake thinks about her native land, Jamaica, there are no images of pristine beaches and sunny skies that come to mind. Instead, she sees the ugly face of homophobia and transphobia that continues to stain Jamaica's image."
+  },
+  "authors":{
+    "0":"Peter 'Souleo' Wright, ContributorJournalist and curator"
+  },
+  "date":{
+    "0":"2014-04-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"jam"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "doc",
+      "~hlh",
+      "~",
+      "jamaica",
+      "jam",
+      "jamaica"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doc",
+      "jamaica"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "jamaica"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "challenges"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "jam",
+      "110"
+    ]
+  }
+}

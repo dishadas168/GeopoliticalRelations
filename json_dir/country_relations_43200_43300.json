@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-epa_us_58935372e4b0af07cb6bd97d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-election-infrastructure-homeland-security_us_58927a40e4b0af07cb6b7cfa",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-military-probing-more-possible-civilian-deaths-in-yemen-raid_us_5892bf5de4b0af07cb6b8930"
+  },
+  "headline":{
+    "0":"Senate Democrats Are Still Boycotting Vote On Trump's EPA Nominee",
+    "1":"Here's How Trump Could Take Control Of Every U.S. Polling Place",
+    "2":"U.S. Military Probing More Possible Civilian Deaths In Yemen Raid"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Republicans are expected to move the nominee to a floor vote anyway.",
+    "1":"A last-minute Obama decision may empower federal authorities to run the \"election infrastructure\" in the name of national security.",
+    "2":"Trump approved his first covert counterterrorism operation without sufficient intelligence, ground support or adequate backup preparations, officials said."
+  },
+  "authors":{
+    "0":"Kate Sheppard",
+    "1":"Howard Fineman",
+    "2":"Ayesha Rascoe, Reuters"
+  },
+  "date":{
+    "0":"2017-02-02 00:00:00",
+    "1":"2017-02-02 00:00:00",
+    "2":"2017-02-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"usagov",
+    "2":"usamil"
+  },
+  "actor2":{
+    "0":"usagovenv",
+    "1":"---gov",
+    "2":"yemcvl"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"08",
+    "2":"090"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":5.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "civilian",
+      "~cvl",
+      "~",
+      "yemen",
+      "yem",
+      "yemen"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "epa"
+    ],
+    "1":[
+      "obama",
+      "authorities"
+    ],
+    "2":[
+      "u.s. military",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "environmental protection agency"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "united states military",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... boycotting vote"
+    ],
+    "1":[
+      "may empower"
+    ],
+    "2":[
+      "probing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "usagovenv",
+      "140"
+    ],
+    "1":[
+      "usagov",
+      "---gov",
+      "08"
+    ],
+    "2":[
+      "usamil",
+      "yemcvl",
+      "090"
+    ]
+  }
+}

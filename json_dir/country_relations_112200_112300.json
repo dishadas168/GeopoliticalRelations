@@ -1,0 +1,89 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/illinois-approves-secret_b_6118574.html"
+  },
+  "headline":{
+    "0":"Illinois Approves Secret Fracking Rules: IL Enviro Council Thrown Under Bus, Grassroots Hold Line"
+  },
+  "category":{
+    "0":"GREEN"
+  },
+  "short_description":{
+    "0":"A state legislative committee chaired by Sierra Club champion Sen. Don Harmon officially unleashed fracking in Illinois today, approving the final regulatory rules in secret, as legislators essentially dumped the concerns of compromising lobbyists with the Illinois Environmental Council and Sierra Club in closed-door meetings."
+  },
+  "authors":{
+    "0":"Jeff Biggers, ContributorAuthor: Journalist, Historian, Playwright, www.jeffbiggers.com"
+  },
+  "date":{
+    "0":"2014-11-07 00:00:00"
+  },
+  "actor1":{
+    "0":"ngousaenv"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "sierra club",
+      "ngousaenv",
+      "sierra",
+      "club",
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "legislators",
+      "~leg",
+      "~",
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sierra club",
+      "ngousaenv",
+      "sierra",
+      "club"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sierra club",
+      "illinois"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sierra club",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "champion ... approving"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_gas",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ngousaenv",
+      "usa",
+      "08"
+    ]
+  }
+}

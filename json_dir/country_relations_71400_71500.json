@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-rick-snyder_us_56dcd511e4b0ffe6f8e9ccca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/defense-secretary-national-guard-may-join-fight-against-isis_us_56dc286fe4b03a405678f0ea",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/truck-bomb-kills-or-wounds-at-least-60-south-of-baghdad_us_56dc225de4b03a405678f0e2"
+  },
+  "headline":{
+    "0":"Hillary Clinton Calls For Michigan Gov. Rick Snyder To Resign Or Be Recalled",
+    "1":"Defense Secretary: National Guard May Join Fight Against ISIS",
+    "2":"ISIS Suicide Bomb Kills At Least 60 South Of Baghdad"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"She joins Sen. Bernie Sanders in pushing for the resignation.",
+    "1":"Ash Carter told reporters that the reserve force's cyber squadrons could play a larger role.",
+    "2":"ISIS has claimed responsibility for the deadly attack."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Andrea Shalal, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2016-03-07 00:00:00",
+    "1":"2016-03-06 00:00:00",
+    "2":"2016-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usagovmil",
+    "2":"imgmusisi"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---med",
+    "2":"irq"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"1831"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "ash carter",
+      "usagovmil",
+      "ashton",
+      "carter",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "baghdad",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "michigan"
+    ],
+    "1":[
+      "ash carter",
+      "reporters"
+    ],
+    "2":[
+      "isis",
+      "baghdad"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "united states of america"
+    ],
+    "1":[
+      "ashton carter",
+      "---"
+    ],
+    "2":[
+      "the islamic state",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls for"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "<{suicide> <&weapon}> ... kills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "suicide_attack",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usa",
+      "020"
+    ],
+    "1":[
+      "usagovmil",
+      "---med",
+      "010"
+    ],
+    "2":[
+      "imgmusisi",
+      "irq",
+      "1831"
+    ]
+  }
+}

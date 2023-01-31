@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/potato-boss-filter_n_5e856b8ec5b6f55ebf47d7cd",
+    "1":"https:\/\/www.huffpost.com\/entry\/coronavirus-trump-right-wing-doctors_n_5e7e5a5ec5b66149226712a0",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-epa-coronavirus-environment-deregulation_n_5e7e3227c5b6cb9dc19f6728",
+    "3":"https:\/\/www.huffpost.com\/entry\/lawmakers-request-trump-cut-oil-gas-subsidies_n_5e7a6eefc5b6e051e8dcd458"
+  },
+  "headline":{
+    "0":"Boss Trapped In Potato Filter For Video Meeting Is Peak Work-From-Home Gold",
+    "1":"Dubious Coronavirus Experts Run Amok In Pro-Trump Media",
+    "2":"Trump Goes Full \u2018Shock Doctrine\u2019 As Pandemic Rages",
+    "3":"Lawmakers Pushing Big Financial Break For Oil Got $35 Million In Industry Donations"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Potato boss\" said she resigned herself to her fate and remained that way for the entire call.",
+    "1":"Fox News and other right-wing media outlets have repeatedly offered a platform for misinformation to back the president's narrative.",
+    "2":"The administration is pushing its pro-polluter agenda as the U.S. death toll from COVID-19 rises.",
+    "3":"Amid a global pandemic, members of Congress look to throw a lifeline to the industry that bankrolled their campaigns."
+  },
+  "authors":{
+    "0":"Josephine Harvey",
+    "1":"Nick Robins-Early",
+    "2":"Alexander C. Kaufman and Chris D'Angelo",
+    "3":"Chris D'Angelo"
+  },
+  "date":{
+    "0":"2020-04-02 00:00:00",
+    "1":"2020-03-27 00:00:00",
+    "2":"2020-03-27 00:00:00",
+    "3":"2020-03-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---med",
+    "2":"---gov",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"083",
+    "1":"032",
+    "2":"100",
+    "3":"070"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":4.5,
+    "2":-5.0,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "boss",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "boss",
+      "boss"
+    ],
+    "1":[
+      "media",
+      "president"
+    ],
+    "2":[
+      "administration",
+      "u.s."
+    ],
+    "3":[
+      "congress",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said <and> ... resigned"
+    ],
+    "1":[
+      "have ... offered ... back"
+    ],
+    "2":[
+      "is ... pushing"
+    ],
+    "3":[
+      "look ... throw ... lifeline"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_pandemic",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "083"
+    ],
+    "1":[
+      "---med",
+      "---gov",
+      "032"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "100"
+    ],
+    "3":[
+      "---leg",
+      "---bus",
+      "070"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/philando-castile-response-photos_us_577e744ae4b0c590f7e836b2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/zimbabwe-whatsapp-blackout_us_577e7398e4b01edea78cbc9f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/miracle-gro-marijuana_us_577ea6f6e4b0c590f7e87cb8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-debt-free-college_us_577cfd13e4b09b4c43c19800"
+  },
+  "headline":{
+    "0":"Photos Show St. Paul's Passionate Response To Philando Castile Shooting",
+    "1":"Zimbabwe's Youth Defy Blackout To Organize Protests On Social Media",
+    "2":"Lawn Care CEO Explains Why He's Investing 'Like Half A Billion' In Marijuana Industry",
+    "3":"Hillary Clinton Unveils Debt-Free College For All, Adopting Major Bernie Sanders Plank"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Members of the community have gathered to protest the police shooting of the 32-year-old.",
+    "1":"The Zimbabwean government allegedly tried to block WhatsApp on Wednesday (July 6) to stop protesters from mobilizing. If",
+    "2":"\u201cIt is the biggest thing I\u2019ve ever seen in lawn and garden.\"",
+    "3":"The plan includes eliminating in-state tuition completely at public universities for families making under $125,000."
+  },
+  "authors":{
+    "0":"Matt Ferner and Chris McGonigal",
+    "1":"Lynsey Chutel, Quartz Africa",
+    "2":"Sam Levine",
+    "3":"Tyler Kingkade and Amanda Terkel"
+  },
+  "date":{
+    "0":"2016-07-07 00:00:00",
+    "1":"2016-07-07 00:00:00",
+    "2":"2016-07-07 00:00:00",
+    "3":"2016-07-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"zwe",
+    "2":"---bus",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---med",
+    "2":"---bus",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"140",
+    "2":"061",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":-6.5,
+    "2":6.4,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "zimbabwe",
+      "youth",
+      "zwe",
+      "frareb",
+      "zimbabwe",
+      "gazteriak",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "ceo",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "police"
+    ],
+    "1":[
+      "zimbabwe",
+      "media",
+      "youth",
+      "media"
+    ],
+    "2":[
+      "ceo",
+      "ceo"
+    ],
+    "3":[
+      "hillary clinton",
+      "college"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "zimbabwe",
+      "---",
+      "gazteriak",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have gathered ... protest"
+    ],
+    "1":[
+      "protests",
+      "protests"
+    ],
+    "2":[
+      "explains ... 's investing"
+    ],
+    "3":[
+      "unveils"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "drugs",
+      "1"
+    ],
+    "3":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cop",
+      "140"
+    ],
+    "1":[
+      "zwe",
+      "---med",
+      "140",
+      "frareb",
+      "---med",
+      "140"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "061"
+    ],
+    "3":[
+      "usaeli",
+      "---edu",
+      "050"
+    ]
+  }
+}

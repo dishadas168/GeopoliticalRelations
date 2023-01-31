@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/is-big-media-slowly-killing-our-children_us_5b9d0995e4b03a1dcc83f07e"
+  },
+  "headline":{
+    "0":"Is Big Media Slowly Killing Our Children?"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Children have no chance against this tsunami of unhealthy messages that drowns them in a torrent of poor eating and obesity. While your children are immersed in media, playing video games or surfing the web, they are being sedentary instead of physically active."
+  },
+  "authors":{
+    "0":"Dr. Jim Taylor, Contributor\nSport psychologist, parenting expert, professor, author, speak..."
+  },
+  "date":{
+    "0":"2013-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killing"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "190"
+    ]
+  }
+}

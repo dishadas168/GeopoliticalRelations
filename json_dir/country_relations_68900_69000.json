@@ -1,0 +1,301 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-women_us_57058167e4b053766188a6ca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-tammy-duckworth-senate_us_57050c9be4b0b90ac270b157",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-periods-abortion_us_57054b37e4b0537661887838",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/border-patrol-complaint-deportations_us_57053ccde4b0b90ac270ec2e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/several-states-ban-official-travel-to-mississippi-over-anti-gay-law_us_5704f54ce4b0a506064d9a26",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/panama-papers-syria-assad-rami-makhlouf_us_57052790e4b0a506064dbd8b",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/msf-kathleen-thomas-kunduz-hospital-airstrike_us_57043863e4b0537661880b80"
+  },
+  "headline":{
+    "0":"Most Voters Don't Think Donald Trump Respects Women",
+    "1":"Obama, Biden Endorse Tammy Duckworth For Senate",
+    "2":"You Know You Want To Tell Indiana Gov. Mike Pence About Your Period",
+    "3":"Mexican Nationals Say They Were Deported Without Their IDs, Money And Possessions",
+    "4":"Several States Ban Official Travel To Mississippi Over Anti-Gay Law",
+    "5":"The Leaked 'Panama Papers' Expose The Dirty Dealings Behind Syria's War",
+    "6":"Doctor At MSF Hospital Hit By U.S. Bombs: 'Our Colleagues Didn't Die Peacefully Like In The Movies'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The GOP frontrunner has a serious gender problem.",
+    "1":"The Illinois Democrat is hoping to fill the president's former seat.",
+    "2":"Women are calling the governor to protest tighter restrictions to abortion access in Indiana.",
+    "3":"A complaint to the Department of Homeland Security alleges agents broke protocol by not returning belongings to people they deported.",
+    "4":"New York's governor denounced the legislation as a \"hateful injustice against the LGBT community.\"",
+    "5":"The Assad cronies who got rich and crushed dissent had no problem moving their money offshore.",
+    "6":"Dr. Kathleen Thomas was working as an intensive care doctor in the Kunduz Trauma Center when U.S. airstrikes struck. She describes a typical day in the hospital and events that unfolded during the week leading up to the attack."
+  },
+  "authors":{
+    "0":"Ariel Edwards-Levy",
+    "1":"Jennifer Bendery",
+    "2":"Hilary Hanson",
+    "3":"Elise Foley",
+    "4":"Willa Frej",
+    "5":"Charlotte Alfred",
+    "6":"Kathleen Thomas, Doctors Without Borders"
+  },
+  "date":{
+    "0":"2016-04-06 00:00:00",
+    "1":"2016-04-06 00:00:00",
+    "2":"2016-04-06 00:00:00",
+    "3":"2016-04-06 00:00:00",
+    "4":"2016-04-06 00:00:00",
+    "5":"2016-04-06 00:00:00",
+    "6":"2016-04-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---cvl",
+    "3":"mex",
+    "4":"usagov",
+    "5":"pan",
+    "6":"ngohlhmsf"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"mex",
+    "4":"---cvl",
+    "5":"syr",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"025",
+    "2":"041",
+    "3":"174",
+    "4":"111",
+    "5":"050",
+    "6":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-0.3,
+    "2":1.0,
+    "3":-5.0,
+    "4":-2.0,
+    "5":3.5,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "governor",
+      "~gov",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "mexican",
+      "mex",
+      "mexico"
+    ],
+    "4":[
+      "new york",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "panama",
+      "pan",
+      "panama",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "6":[
+      "msf",
+      "hospital",
+      "ngohlhmsf",
+      "msf",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "voters"
+    ],
+    "1":[
+      "illinois",
+      "president"
+    ],
+    "2":[
+      "women",
+      "governor"
+    ],
+    "3":[
+      "mexican",
+      "mexican"
+    ],
+    "4":[
+      "new york ... governor",
+      "community"
+    ],
+    "5":[
+      "panama",
+      "syria"
+    ],
+    "6":[
+      "msf hospital",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "mexico",
+      "mexico"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "panama",
+      "syria"
+    ],
+    "6":[
+      "msf",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... think"
+    ],
+    "1":[
+      "is ... hoping ... fill"
+    ],
+    "2":[
+      "are calling"
+    ],
+    "3":[
+      "say <mex> ... deported"
+    ],
+    "4":[
+      "denounced"
+    ],
+    "5":[
+      "expose"
+    ],
+    "6":[
+      "hit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---gov",
+      "025"
+    ],
+    "2":[
+      "---cvl",
+      "---gov",
+      "041"
+    ],
+    "3":[
+      "mex",
+      "mex",
+      "174"
+    ],
+    "4":[
+      "usagov",
+      "---cvl",
+      "111"
+    ],
+    "5":[
+      "pan",
+      "syr",
+      "050"
+    ],
+    "6":[
+      "ngohlhmsf",
+      "usa",
+      "190"
+    ]
+  }
+}

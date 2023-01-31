@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mothers-day--more-than-on_b_7251714.html"
+  },
+  "headline":{
+    "0":"Mother's Day -- More Than Once a Year"
+  },
+  "category":{
+    "0":"WOMEN"
+  },
+  "short_description":{
+    "0":"Today on Mother's Day, we need to confront the truth that the United States doesn't do that well by mothers and consequently by children. It isn't simply that the PDA isn't as strong as it should be; mothers face many obstacles in the American workplace from pregnancy to childbirth and beyond."
+  },
+  "authors":{
+    "0":"Caroline Fredrickson, ContributorPresident, American Constitution Society for Law and Policy"
+  },
+  "date":{
+    "0":"2015-05-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "mothers",
+      "~cvl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mothers",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "040"
+    ]
+  }
+}

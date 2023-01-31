@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.npr.org\/sections\/thetwo-way\/2016\/01\/28\/464744781\/30-years-after-disaster-challenger-engineer-still-blames-himself",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/oregon-militants-court-battle_us_56ab940ee4b0010e80e9c7d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/oregon-militants-court-battle_us_56ab940ee4b0010e80e9c7d4"
+  },
+  "headline":{
+    "0":"30 Years After Explosion, Challenger Engineer Still Blames Himself",
+    "1":"Oregon Militants Will Now Fight Their Battle In Federal Court",
+    "2":"Oregon Militants Will Now Fight Their Battle In Federal Court"
+  },
+  "category":{
+    "0":"SCIENCE",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Thirty years ago, as the nation mourned the loss of seven astronauts on the space shuttle Challenger, Bob Ebeling was steeped",
+    "1":"Most of the people who occupied a federal wildlife refuge for a month will be defended at the expense of U.S. taxpayers.",
+    "2":"Most of the people who occupied a federal wildlife refuge for a month will be defended at the expense of U.S. taxpayers."
+  },
+  "authors":{
+    "0":"",
+    "1":"Ryan J. Reilly",
+    "2":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2016-01-29 00:00:00",
+    "1":"2016-01-29 00:00:00",
+    "2":"2016-01-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usauaf",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---jud",
+    "2":"usacvl"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"190",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "engineer",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "oregon",
+      "militants",
+      "usauaf",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "federal court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "taxpayers",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "engineer",
+      "engineer"
+    ],
+    "1":[
+      "oregon militants",
+      "federal court"
+    ],
+    "2":[
+      "people",
+      "u.s. taxpayers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blames"
+    ],
+    "1":[
+      "will ... fight"
+    ],
+    "2":[
+      "will ... defended at <usacvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "112"
+    ],
+    "1":[
+      "usauaf",
+      "---jud",
+      "190"
+    ],
+    "2":[
+      "---ppl",
+      "usacvl",
+      "074"
+    ]
+  }
+}

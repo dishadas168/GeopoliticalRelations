@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/richard-hanna-hillary-clinton_us_57a08f42e4b08a8e8b5f45ba",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kenya-activists-demand-protections-for-women-after-man-chops-off-wifes-hands_us_57a0bd10e4b08a8e8b5f73cf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/czech-president-ban-refugees_us_57a09eefe4b08a8e8b5f51ce",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iranian-rights-activists-hunger-strike_us_579f6b9ce4b08a8e8b5ea770"
+  },
+  "headline":{
+    "0":"Richard Hanna Becomes First Republican Congressman To Say He'll Vote For Hillary Clinton",
+    "1":"Kenyan Activists Demand Protections For Women After Man Chops Off Wife's Hands",
+    "2":"Czech President Says Country Should Ban Refugees To Prevent 'Barbaric Attacks'",
+    "3":"How An Iranian Rights Activist's Hunger Strike Is Exposing The Nation's Brutal Prison System"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Donald Trump \"is unfit to serve our party and cannot lead this country,\" he says.",
+    "1":"Domestic violence victims rarely seek justice due to social pressure and little faith in the judicial system.",
+    "2":"He even opposes the government's modest plan to take in just 80 Syrian refugees this year.",
+    "3":"One month into her hunger strike, jailed Iranian human rights activist Narges Mohammadi has gained an army of supporters"
+  },
+  "authors":{
+    "0":"Igor Bobic",
+    "1":"Kieran Guilbert, Reuters",
+    "2":"Robert Muller, Reuters",
+    "3":"Flora Bagenal, Women & Girls Hub"
+  },
+  "date":{
+    "0":"2016-08-02 00:00:00",
+    "1":"2016-08-02 00:00:00",
+    "2":"2016-08-02 00:00:00",
+    "3":"2016-08-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---cvl",
+    "2":"czegov",
+    "3":"irnhri"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---jud",
+    "2":"---ref",
+    "3":"---cop"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030",
+    "2":"010",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0,
+    "2":0.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "congressman",
+      "~leg",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "victims",
+      "~cvl",
+      "~",
+      "judicial system",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "czech",
+      "president",
+      "czegov",
+      "czech",
+      "republic",
+      "~",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "3":[
+      "iranian",
+      "rights activist",
+      "irnhri",
+      "iran",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congressman",
+      "hillary clinton"
+    ],
+    "1":[
+      "victims",
+      "judicial system"
+    ],
+    "2":[
+      "czech president",
+      "refugees"
+    ],
+    "3":[
+      "iranian rights activist",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "czech republic",
+      "---"
+    ],
+    "3":[
+      "iran",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to say ... 'll vote"
+    ],
+    "1":[
+      "seek"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "is ... exposing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":[
+      "refugees",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usaeli",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---jud",
+      "030"
+    ],
+    "2":[
+      "czegov",
+      "---ref",
+      "010"
+    ],
+    "3":[
+      "irnhri",
+      "---cop",
+      "050"
+    ]
+  }
+}

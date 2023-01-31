@@ -1,0 +1,192 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-man-set-on-fire_us_592212e2e4b094cdba54df85",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-uae-ivanka-trump-fund_us_5921c1d9e4b034684b0d17a1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/woman-burned-by-coffee-awarded_us_592046b2e4b094cdba546df1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/boy-asks-for-governors-forgiveness-oregon_us_5920867be4b034684b0cce26"
+  },
+  "headline":{
+    "0":"Man Set On Fire During Protest In Venezuela's Capital",
+    "1":"Saudi Arabia, UAE Donate $100 Million To Women\u2019s Fund Proposed By Ivanka Trump",
+    "2":"Woman Awarded $100,000 For Starbucks Coffee Burns",
+    "3":"Oregon Governor 'Pardons' Boy Who Took A Pen And Nut From Capitol"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"BUSINESS",
+    "3":"PARENTS"
+  },
+  "short_description":{
+    "0":"People who had been participating in demonstrations against the president surrounded the man, doused him in gasoline and set him alight in Plaza Altamira in east Caracas, the witnesses said.",
+    "1":"Last year, Donald Trump attacked the Clinton Foundation, which both countries have donated to.",
+    "2":"Joanne Mogavero suffered first- and second-degree burns after coffee spilled on her lap, her lawyers say.",
+    "3":"\"I hope you and the people of Oregon can forgive me,\" a fourth-grader wrote in a letter to Kate Brown."
+  },
+  "authors":{
+    "0":"Girish Gupta and Andrew Cawthorne, Reuters",
+    "1":"Kate Abbey-Lambertz",
+    "2":"Nina Golgowski",
+    "3":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2017-05-21 00:00:00",
+    "1":"2017-05-21 00:00:00",
+    "2":"2017-05-20 00:00:00",
+    "3":"2017-05-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"sau",
+    "2":"---cvl",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"mncusa",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"070",
+    "2":"060",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":7.0,
+    "2":6.0,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "starbucks",
+      "mncusa",
+      "starbucks"
+    ],
+    "3":[
+      "fourth grader",
+      "~edu",
+      "~",
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "saudi arabia",
+      "women"
+    ],
+    "2":[
+      "woman",
+      "starbucks"
+    ],
+    "3":[
+      "fourth grader",
+      "fourth grader",
+      "people",
+      "fourth grader"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "saudi arabia",
+      "---"
+    ],
+    "2":[
+      "---",
+      "starbucks"
+    ],
+    "3":[
+      "---",
+      "---",
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... surrounded"
+    ],
+    "1":[
+      "donate"
+    ],
+    "2":[
+      "awarded"
+    ],
+    "3":[
+      "hope",
+      "can forgive"
+    ]
+  },
+  "issues":{
+    "0":[
+      "oil",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "sau",
+      "---cvl",
+      "070"
+    ],
+    "2":[
+      "---cvl",
+      "mncusa",
+      "060"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "020",
+      "usappl",
+      "---edu",
+      "056"
+    ]
+  }
+}

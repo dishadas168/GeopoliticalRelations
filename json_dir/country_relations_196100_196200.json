@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2012\/04\/28\/your-money\/why-passengers-should-have-a-voice-in-airline-mergers-your-money.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/child-abuse_us_5b9b99ede4b03a1dcc78f2bf"
+  },
+  "headline":{
+    "0":"Why You Should Have A Say In Airline Mergers",
+    "1":"We Can Calm Crying Babies: New Hope in the Fight Against Child Abuse"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"Every time a company goes through bankruptcy court or gets involved in merger talks, it's disappointing to see who does not",
+    "1":"People tend to think of infant crying and colic as a parenting nuisance. In fact, sleep deprivation and the sound of crying babies are used to prepare the Navy elite SEALS to endure torture!"
+  },
+  "authors":{
+    "0":"",
+    "1":"Harvey Karp, Contributor\nPediatrician. Creator of the DVD's\/books 'The Happiest Baby on..."
+  },
+  "date":{
+    "0":"2012-04-27 00:00:00",
+    "1":"2012-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "infant",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "court"
+    ],
+    "1":[
+      "people",
+      "infant"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gets <goes>"
+    ],
+    "1":[
+      "tend ... think"
+    ]
+  },
+  "issues":{
+    "0":[
+      "bankruptcy",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---jud",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-joe-biden_us_58759e06e4b092a6cae3d73a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-detroit-speech_us_58751aa6e4b043ad97e5fbc1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-jobs-legacy_us_586fee63e4b02b5f8588bb14",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/public-education-caucus_us_5875183ee4b099cdb0ffb0c2",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-domestic-violence_us_5875205fe4b099cdb0ffc263",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/police-horse-dies-tied-up_us_5875570be4b05b7a465c296a"
+  },
+  "headline":{
+    "0":"Barack Obama Pays Tribute To Joe Biden: 'I Gained A Brother' By Picking Him As VP",
+    "1":"Joe Biden On The One Word That Defines America",
+    "2":"How Obama Used The Bully Pulpit To Help Workers",
+    "3":"Democrats Form Congressional Caucus To Support Public Education",
+    "4":"China\u2019s First Domestic Violence Law Still Needs Work, Say Activists",
+    "5":"Police Horse Dies After Cop Forgets He Tied Him Up With No Food Or Water"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"CRIME"
+  },
+  "short_description":{
+    "0":"Aw.",
+    "1":"\u201cWe never bend, we never break, we always endure, we always overcome, we always move forward,\" the vice president said.",
+    "2":"With a lot less \"bully\" than Donald Trump.",
+    "3":"The members of Congress say Trump's pick for education secretary is a threat to schools.",
+    "4":"In December 2015, the Chinese government passed the country\u2019s landmark first bill against domestic violence. But one year",
+    "5":"Police say vets couldn't determine the neglect was the cause of death."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Kate Abbey-Lambertz",
+    "2":"Arthur Delaney",
+    "3":"Rebecca Klein",
+    "4":"Helen Roxburgh, Women & Girls Hub",
+    "5":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2017-01-11 00:00:00",
+    "1":"2017-01-10 00:00:00",
+    "2":"2017-01-10 00:00:00",
+    "3":"2017-01-10 00:00:00",
+    "4":"2017-01-10 00:00:00",
+    "5":"2017-01-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usagov",
+    "2":"usagov",
+    "3":"---leg",
+    "4":"chn",
+    "5":"---cop"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"---lab",
+    "3":"---govedu",
+    "4":"---opp",
+    "5":"---cop"
+  },
+  "event_code":{
+    "0":"017",
+    "1":"010",
+    "2":"070",
+    "3":"010",
+    "4":"010",
+    "5":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":7.0,
+    "3":0.0,
+    "4":0.0,
+    "5":-10.0
+  },
+  "nouns":{
+    "0":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden"
+    ],
+    "1":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "china",
+      "chn",
+      "china",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "5":[
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barack obama",
+      "barack obama"
+    ],
+    "1":[
+      "joe biden",
+      "america"
+    ],
+    "2":[
+      "obama",
+      "workers"
+    ],
+    "3":[
+      "congress",
+      "education secretary"
+    ],
+    "4":[
+      "china",
+      "activists"
+    ],
+    "5":[
+      "police",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "barack obama"
+    ],
+    "1":[
+      "joe biden",
+      "united states of america"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "china",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pays tribute"
+    ],
+    "1":[
+      "defines"
+    ],
+    "2":[
+      "used ... help"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "needs ... say"
+    ],
+    "5":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":[
+      "gender_violence",
+      "1",
+      "activism",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "017"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "---lab",
+      "070"
+    ],
+    "3":[
+      "---leg",
+      "---govedu",
+      "010"
+    ],
+    "4":[
+      "chn",
+      "---opp",
+      "010"
+    ],
+    "5":[
+      "---cop",
+      "---cop",
+      "190"
+    ]
+  }
+}

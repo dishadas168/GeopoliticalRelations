@@ -1,0 +1,271 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/suspected-smugglers-appear-in-court-after-refugee-truck-tragedy_us_55e1e258e4b0b7a963393a20",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/egyptian-court-sentences-3-al-jazeera-journalists-to-prison_us_55e1cd6de4b0aec9f3537de4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lebanon-garbage-protest_us_55e21685e4b0aec9f3538636",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-coalition-airstrikes-isis_us_55e1b2a2e4b0b7a963393423",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/qatar-really-wants-you-to-know-how-much-it-gave-for-katrina-relief_us_55e0ec92e4b0b7a963392e36",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/with-jeb-and-torture-its-_b_8057302.html"
+  },
+  "headline":{
+    "0":"Suspected Smugglers Appear In Court After Refugee Truck Tragedy",
+    "1":"Egyptian Court Sentences 3 Al Jazeera Journalists To Prison",
+    "2":"Thousands Join Largest Protest Yet In Lebanon's Garbage Revolt",
+    "3":"Turkey Joins U.S.-Led Coalition Airstrikes Against ISIS In Syria",
+    "4":"Qatar Really Wants You To Know How Much It Gave For Katrina Relief",
+    "5":"With Jeb and Torture, It's D\u00e9j\u00e0 Vu All Over Again"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"MEDIA",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"KECSKEMET, Hungary, Aug 29 (Reuters) - Three Bulgarians and an Afghan arrested in Hungary in connection with the deaths of",
+    "1":"Baher received an additional six months in prison. The state news agency MENA said that extra time was handed down because",
+    "2":"\"You Stink\" activists have given the government 72 hours to respond to their demands.",
+    "3":"After months of hesitance, Turkey had agreed to take a more active role in the fight against the extremist group.",
+    "4":"ICYMI, Qatar's spent $100 million rebuilding education, housing and health care in Louisiana, Mississippi and Alabama.",
+    "5":"Could it possibly be that a Bush III administration will revive the use of torture against the Islamic state, an organization that owes its existence to the U.S.'s disastrous occupation of Iraq? And so our country prepares to wrong the wrongs of the past."
+  },
+  "authors":{
+    "0":"Marton Dunai, Reuters",
+    "1":"Ahmed Aboulenein, Reuters",
+    "2":"",
+    "3":"",
+    "4":"Akbar Shahid Ahmed",
+    "5":"Jeffrey Ruoff, ContributorDocumentary filmmaker and film historian in the Department of ..."
+  },
+  "date":{
+    "0":"2015-08-29 00:00:00",
+    "1":"2015-08-29 00:00:00",
+    "2":"2015-08-29 00:00:00",
+    "3":"2015-08-29 00:00:00",
+    "4":"2015-08-29 00:00:00",
+    "5":"2015-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"afg",
+    "1":"egyjud",
+    "2":"---opp",
+    "3":"tur",
+    "4":"qat",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"hun",
+    "1":"---med",
+    "2":"---gov",
+    "3":"---rad",
+    "4":"qat",
+    "5":"imgmusisi"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"172",
+    "2":"139",
+    "3":"171",
+    "4":"030",
+    "5":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":-7.0,
+    "3":-9.2,
+    "4":4.0,
+    "5":4.0
+  },
+  "nouns":{
+    "0":[
+      "afghan",
+      "afg",
+      "afghanistan",
+      "hungary",
+      "hun",
+      "hungary"
+    ],
+    "1":[
+      "egyptian",
+      "court",
+      "egyjud",
+      "egypt",
+      "~",
+      "journalists",
+      "~med",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "activists",
+      "~opp",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "turkey",
+      "tur",
+      "turkey",
+      "extremist",
+      "~rad",
+      "~",
+      "extremist",
+      "~rad",
+      "~"
+    ],
+    "4":[
+      "qatar",
+      "qat",
+      "qatar"
+    ],
+    "5":[
+      "administration",
+      "~gov",
+      "~",
+      "the islamic state",
+      "organization",
+      "imgmusisi",
+      "meareb",
+      "the",
+      "islamic",
+      "state",
+      "tanzim"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "afghan",
+      "hungary"
+    ],
+    "1":[
+      "egyptian court",
+      "journalists"
+    ],
+    "2":[
+      "activists",
+      "government"
+    ],
+    "3":[
+      "turkey",
+      "extremist"
+    ],
+    "4":[
+      "qatar",
+      "qatar"
+    ],
+    "5":[
+      "administration",
+      "the ... islamic state",
+      "administration",
+      "organization"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "afghanistan",
+      "hungary"
+    ],
+    "1":[
+      "egypt",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "turkey",
+      "---"
+    ],
+    "4":[
+      "qatar",
+      "qatar"
+    ],
+    "5":[
+      "---",
+      "the islamic state",
+      "---",
+      "tanzim"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ],
+    "1":[
+      "sentences"
+    ],
+    "2":[
+      "have given ... hours"
+    ],
+    "3":[
+      "had agreed ... take"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "will revive",
+      "will revive"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":[
+      "id_extremism",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "id_torture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "afg",
+      "hun",
+      "173"
+    ],
+    "1":[
+      "egyjud",
+      "---med",
+      "172"
+    ],
+    "2":[
+      "---opp",
+      "---gov",
+      "139"
+    ],
+    "3":[
+      "tur",
+      "---rad",
+      "171"
+    ],
+    "4":[
+      "qat",
+      "qat",
+      "030"
+    ],
+    "5":[
+      "---gov",
+      "imgmusisi",
+      "030",
+      "---gov",
+      "meareb",
+      "030"
+    ]
+  }
+}

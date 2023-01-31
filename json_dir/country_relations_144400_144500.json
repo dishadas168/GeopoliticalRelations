@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.salon.com\/2013\/11\/01\/atheist_marriages_may_last_longer_than_christian_ones_partner\/"
+  },
+  "headline":{
+    "0":"Atheist Marriages May Last Longer Than Christian Ones"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"Conservative Christians think of themselves as the last line of defense for a time-honored and holy tradition, marriage. In"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-11-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---chr"
+  },
+  "actor2":{
+    "0":"---chr"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "christians",
+      "~chr",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "christians",
+      "christians"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---chr",
+      "---chr",
+      "040"
+    ]
+  }
+}

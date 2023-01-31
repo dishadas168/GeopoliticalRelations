@@ -1,0 +1,249 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-whca-tara-palmeri_us_596b898ae4b0174186282f78",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-whca-tara-palmeri_us_596b898ae4b0174186282f78",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jr-jay-sekulow_us_596b7f54e4b03389bb180a78",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jr-jay-sekulow_us_596b7f54e4b03389bb180a78",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-supreme-court-travel-appeal_us_596980fde4b017418627ad08",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-ty-cobb-lawyer_us_596a57ece4b0d6341fe948aa"
+  },
+  "headline":{
+    "0":"White House Correspondents Head Tells Which Reporter Trump Wanted Him To Condemn",
+    "1":"White House Correspondents Head Tells Which Reporter Trump Wanted Him To Condemn",
+    "2":"Trump's Lawyer Says 'No Evidence' President Knew Of Son's Russia Meeting. There Is.",
+    "3":"Trump's Lawyer Says 'No Evidence' President Knew Of Son's Russia Meeting. There Is.",
+    "4":"Trump Administration Asks Supreme Court To Block Travel Ban Ruling",
+    "5":"Donald Trump Taps New Lawyer To Manage His Response To The Russia Spiral"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Trump administration reportedly took issue with a Politico reporter's article.",
+    "1":"The Trump administration reportedly took issue with a Politico reporter's article.",
+    "2":"The president's campaign committee paid his son's defense attorney before The New York Times published its big story.",
+    "3":"The president's campaign committee paid his son's defense attorney before The New York Times published its big story.",
+    "4":"The Justice Department asked the Supreme Court to block a ruling that prevented the travel ban from being applied to grandparents and refugees already being processed.",
+    "5":"Ty Cobb will serve as special counsel at the White House."
+  },
+  "authors":{
+    "0":"Lydia O'Connor",
+    "1":"Lydia O'Connor",
+    "2":"Amanda Terkel",
+    "3":"Amanda Terkel",
+    "4":"",
+    "5":"Julia Edwards Ainsley, Reuters"
+  },
+  "date":{
+    "0":"2017-07-16 00:00:00",
+    "1":"2017-07-16 00:00:00",
+    "2":"2017-07-16 00:00:00",
+    "3":"2017-07-16 00:00:00",
+    "4":"2017-07-15 00:00:00",
+    "5":"2017-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---gov",
+    "2":"---jud",
+    "3":"---gov",
+    "4":"---gov",
+    "5":"---jud"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---med",
+    "2":"rusgov",
+    "3":"---jud",
+    "4":"---jud",
+    "5":"rus"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"171",
+    "2":"010",
+    "3":"061",
+    "4":"020",
+    "5":"042"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.2,
+    "2":0.0,
+    "3":6.4,
+    "4":3.0,
+    "5":1.9
+  },
+  "nouns":{
+    "0":[
+      "correspondents",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "lawyer",
+      "~jud",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "president",
+      "rusgov",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "defense attorney",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "administration",
+      "~gov",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "5":[
+      "lawyer",
+      "~jud",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "correspondents",
+      "correspondents"
+    ],
+    "1":[
+      "administration",
+      "reporter"
+    ],
+    "2":[
+      "lawyer",
+      "president"
+    ],
+    "3":[
+      "president",
+      "defense attorney"
+    ],
+    "4":[
+      "administration",
+      "supreme court"
+    ],
+    "5":[
+      "lawyer",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      ""
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells ... wanted"
+    ],
+    "1":[
+      "took"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "paid"
+    ],
+    "4":[
+      "asks"
+    ],
+    "5":[
+      "manage ... to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "---med",
+      "171"
+    ],
+    "2":[
+      "---jud",
+      "rusgov",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "---jud",
+      "061"
+    ],
+    "4":[
+      "---gov",
+      "---jud",
+      "020"
+    ],
+    "5":[
+      "---jud",
+      "rus",
+      "042"
+    ]
+  }
+}

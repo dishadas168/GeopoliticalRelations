@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-ukraine-election_n_5389836.html"
+  },
+  "headline":{
+    "0":"Obama Touts Ukraine Vote As 'Important Step Forward'"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"ukr"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "ukraine",
+      "usagov",
+      "ukr",
+      "barack",
+      "obama",
+      "ukraine"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "ukr",
+      "030",
+      "ukr",
+      "usagov",
+      "030"
+    ]
+  }
+}

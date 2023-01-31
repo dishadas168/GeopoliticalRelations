@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/girls-hbo_us_5bacfe19e4b04234e8556af4"
+  },
+  "headline":{
+    "0":"How to Write an Opinion Piece About Girls"
+  },
+  "category":{
+    "0":"COMEDY"
+  },
+  "short_description":{
+    "0":"Regardless of their stance, people are talking about Girls. For the convenience of those thinking about joining in on the conversation, I've created a template for op-eds about Lena Dunham's new show."
+  },
+  "authors":{
+    "0":"Maddie Crum, Contributor\nBooks and Culture Reporter, HuffPost"
+  },
+  "date":{
+    "0":"2012-04-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are talking"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

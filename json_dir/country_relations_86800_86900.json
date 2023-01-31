@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/nypost.com\/2015\/09\/03\/mail-online-sues-gawker-over-plagiarism-claims\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-dakota-frat_us_55e97840e4b002d5c075aa96",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-arctic-drilling_us_55e8c032e4b002d5c0758286"
+  },
+  "headline":{
+    "0":"UK's Mail Online Sues Gawker Over Plagiarism Claims",
+    "1":"Gay Man Says North Dakota Frat Choked, Beat And Stripped Him",
+    "2":"Kerry On Arctic: 'We're Not Going To Suddenly Be Weaned From Oil'"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"COLLEGE",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The UK\u2019s Mail Online sued Gawker on Thursday \u2014 claiming the embattled New York gossip blog libeled it in a scathing March",
+    "1":"He had to hide behind a bush in his underwear until a Good Samaritan gave him his clothes back.",
+    "2":"The secretary of state defends the administration's decision to allow Arctic drilling."
+  },
+  "authors":{
+    "0":"",
+    "1":"REGINA GARCIA CANO, AP",
+    "2":"Kate Sheppard"
+  },
+  "date":{
+    "0":"2015-09-04 00:00:00",
+    "1":"2015-09-04 00:00:00",
+    "2":"2015-09-04 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"---ppl",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"gbrmed",
+    "1":"usa",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"010",
+    "2":"052"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "the uk",
+      "gbr",
+      "united",
+      "kingdom",
+      "blog",
+      "~med",
+      "~",
+      "blog",
+      "gbrmed",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the uk",
+      "blog"
+    ],
+    "1":[
+      "man",
+      "north dakota"
+    ],
+    "2":[
+      "secretary of state",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      ""
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "the us secretary of state",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sued ... claiming"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "defends ... decision"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "gbrmed",
+      "110"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "---gov",
+      "052"
+    ]
+  }
+}

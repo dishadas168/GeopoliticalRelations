@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/i-play-by-my-own-stepmoth_us_5b9d6219e4b03a1dcc87526b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/anthony-weiner-might-need_us_5b9d6228e4b03a1dcc8753db"
+  },
+  "headline":{
+    "0":"I Play By My Own Stepmothering Rules",
+    "1":"Anthony Weiner Might Need This Woman's Number"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"If there is one thing I've learned since becoming a stepparent, it's that people love to give you advice. Most of the time, these people are not stepparents themselves.",
+    "1":"No American airline thinks of its customers in quite the same way Spirit Airlines does. And the feeling is mutual, as far as many of its passengers are concerned. If you have any doubts about this, look no further than this week's tasteless Anthony Weiner promotion. You can't make this stuff up."
+  },
+  "authors":{
+    "0":"Jessica Wernz, Contributor\nmother, stepmother, writer, runner.",
+    "1":"Christopher Elliott, Contributor\nAuthor, How to Be the World's Smartest Traveler (and Save Time..."
+  },
+  "date":{
+    "0":"2013-07-26 00:00:00",
+    "1":"2013-07-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usabus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "american",
+      "airline",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "american airline",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "love ... give"
+    ],
+    "1":[
+      "thinks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "usabus",
+      "---cvl",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/torture-report-melville-house-publisher_us_561559cbe4b0cf9984d7fffb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/how-to-live-this-year-as-if-it-were-your-last_us_56169133e4b0dbb8000d6286",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/cities-climate-change_us_5616cad2e4b0dbb8000daec6"
+  },
+  "headline":{
+    "0":"The Small Brooklyn Publisher That Brought The CIA Torture Report To The World",
+    "1":"How To Live This Year As If It Were Your Last",
+    "2":"State Department Embraces Cities As Key To Meeting Climate Goals"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cWe really thought long and hard about whether to do this,\u201d publisher Dennis Johnson says. \u201cBut in the end, I think we made the right choice.\u201d",
+    "1":"In New York, two Zen monks are helping people live (and die) mindfully.",
+    "2":"Mayors from 19 cities are meeting in Washington to talk about cutting planet-warming emissions."
+  },
+  "authors":{
+    "0":"Ali Watkins",
+    "1":"Nico Pitney",
+    "2":"Kate Sheppard"
+  },
+  "date":{
+    "0":"2015-10-09 00:00:00",
+    "1":"2015-10-09 00:00:00",
+    "2":"2015-10-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---rel",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usaspy",
+    "1":"---ppl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"070",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":7.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "publisher",
+      "~med",
+      "~",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ],
+    "1":[
+      "monks",
+      "~rel",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "mayors",
+      "~gov",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "publisher",
+      "cia"
+    ],
+    "1":[
+      "monks",
+      "people"
+    ],
+    "2":[
+      "mayors",
+      "washington"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "us intelligence community"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "brought ... report"
+    ],
+    "1":[
+      "<and> ... helping"
+    ],
+    "2":[
+      "are meeting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_torture",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usaspy",
+      "010"
+    ],
+    "1":[
+      "---rel",
+      "---ppl",
+      "070"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "040"
+    ]
+  }
+}

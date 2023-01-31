@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/charlotte-abortion-rights-protest_us_5841b859e4b0c68e04808b82",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/it-is-a-big-deal-it-happened_b_13351046.html"
+  },
+  "headline":{
+    "0":"North Carolina Abortion Providers Fight For Ground Amid Growing Hostility",
+    "1":"It Is A Big Deal, And It Happened to Me"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"One women's health center in Charlotte is seeing a sharp increase in anti-abortion protesters.",
+    "1":"The unusual topic of conversation seems to follow me.  At business meetings, dinner parties, and coffee dates, people keep talking to me about their childhood abuse."
+  },
+  "authors":{
+    "0":"Jenavieve Hatch",
+    "1":"Indrani Goradia, ContributorFounder, Indrani\u2019s Light Foundation"
+  },
+  "date":{
+    "0":"2016-12-04 00:00:00",
+    "1":"2016-12-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "charlotte",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "usacvl",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "protesters"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is seeing"
+    ],
+    "1":[
+      "keep talking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---opp",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ]
+  }
+}

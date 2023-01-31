@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scientific-literacy-politicians-gaffes_us_5baeb0b7e4b014374e2dc2f6"
+  },
+  "headline":{
+    "0":"Scientific Literacy? Politicians Make Embarrassing Gaffes About Science, Technology (PHOTOS)"
+  },
+  "category":{
+    "0":"SCIENCE"
+  },
+  "short_description":{
+    "0":"Missouri Rep. Todd Akin took a lot of heat last month for his remark in a television interview suggesting that women can't"
+  },
+  "authors":{
+    "0":"Melissa Cronin"
+  },
+  "date":{
+    "0":"2012-09-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "television",
+      "~med",
+      "~",
+      "television",
+      "~med",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri",
+      "television"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---med",
+      "171"
+    ]
+  }
+}

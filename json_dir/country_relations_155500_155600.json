@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2013\/07\/04\/garden\/the-llama-is-in.html?ref=garden&_r=0"
+  },
+  "headline":{
+    "0":"The Llama Is In"
+  },
+  "category":{
+    "0":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"People who keep llamas as pets will readily offer you any number of reasons: llamas are quiet, they're gentle and affectionate"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-07-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "llamas ... offer"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "030"
+    ]
+  }
+}

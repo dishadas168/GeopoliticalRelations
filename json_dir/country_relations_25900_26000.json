@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-pardon-joe-arpaio_us_599da366e4b0a296083b9758"
+  },
+  "headline":{
+    "0":"Trump Pardons Former Sheriff Joe Arpaio, Who Illegally Targeted Latinos"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The self-declared \"law and order\" president backs a man who defied a court order."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2017-08-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "backs"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---ppl",
+      "050"
+    ]
+  }
+}

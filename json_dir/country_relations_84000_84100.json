@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/goldman-sachs-social-impact-bond-preschool_us_5616810fe4b0082030a15169",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/leonard-campanello-gloucester-heroin_us_561427e7e4b0368a1a616ea7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-apologizes-to-doctors-without-borders_us_561558fbe4b0fad1591a67ce"
+  },
+  "headline":{
+    "0":"Why This Preschool Just Wrote Goldman Sachs A Check",
+    "1":"Massachusetts Police Chief Is Waging A One-Man War Against Heroin",
+    "2":"Obama Apologizes To Doctors Without Borders"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"MEDIA",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The company helped fund a preschool program that's working for the kids and paying off for the investors.",
+    "1":"Leonard Campanello is at the heart of a \"tipping point\" in law enforcement's approach to the opioid epidemic.",
+    "2":"The weekend attack in the northern city of Kunduz killed at least 22 people."
+  },
+  "authors":{
+    "0":"Ben Walsh",
+    "1":"Joseph Erbentraut",
+    "2":""
+  },
+  "date":{
+    "0":"2015-10-08 00:00:00",
+    "1":"2015-10-07 00:00:00",
+    "2":"2015-10-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usacop",
+    "2":"afg"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---ppl",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"190",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-10.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "preschool",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "massachusetts",
+      "police chief",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "kunduz",
+      "afg",
+      "afghanistan",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "preschool"
+    ],
+    "1":[
+      "massachusetts police chief",
+      "man"
+    ],
+    "2":[
+      "kunduz",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "afghanistan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "helped fund"
+    ],
+    "1":[
+      "is waging ... war"
+    ],
+    "2":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "early_childhood_education",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1",
+      "drugs",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---edu",
+      "061"
+    ],
+    "1":[
+      "usacop",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "afg",
+      "---ppl",
+      "190"
+    ]
+  }
+}

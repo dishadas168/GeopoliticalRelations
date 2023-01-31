@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/britain-iraq-advisers-isis_n_7529708.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/is-enbridges-pipeline-tre_b_7529524.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trailblazing-women-ruth-owades_b_7525494.html"
+  },
+  "headline":{
+    "0":"Britain To Send 125 Military Advisers To Iraq, Says David Cameron",
+    "1":"Is Enbridge's Pipeline Treaty with Minnesota an Offering From a  Trickster?",
+    "2":"Trailblazing Women: Ruth Owades, CEO, Serial Entrepreneur and Corporate Director"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"GREEN",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Enbridge Corporation is offering a treaty to the people of Minnesota. Like Inktomi, Enbridge offers promises of riches and an easy life. Is this yet another offering from the Trickster?",
+    "2":"Ms. Owades is a serial entrepreneur, CEO and Corporate Director. Two of the companies she founded are subjects of Harvard Business School case studies which are taught around the world.\nBusiness Week hailed Ms. Owades as a \"Best Entrepreneur,\" honoring her for \"changing the way we buy flowers.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Georgianne Nienaber, ContributorWriter and author",
+    "2":"Anne Ravanona, ContributorFounder & CEO of Global Invest Her, focused on demystifyin..."
+  },
+  "date":{
+    "0":"2015-06-07 00:00:00",
+    "1":"2015-06-07 00:00:00",
+    "2":"2015-06-06 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"---bus",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"gbrgov",
+    "1":"usappl",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "david cameron",
+      "gbrgov",
+      "david",
+      "cameron"
+    ],
+    "1":[
+      "corporation",
+      "~bus",
+      "~",
+      "minnesota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~"
+    ],
+    "2":[
+      "business",
+      "~bus",
+      "~",
+      "entrepreneur",
+      "~bus",
+      "~",
+      "entrepreneur",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "britain",
+      "david cameron"
+    ],
+    "1":[
+      "corporation",
+      "people"
+    ],
+    "2":[
+      "business",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "david cameron"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "is offering"
+    ],
+    "2":[
+      "hailed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "gbrgov",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "usappl",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "051"
+    ]
+  }
+}

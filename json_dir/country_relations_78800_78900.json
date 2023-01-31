@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/muslim-hate-crime_us_56688092e4b0f290e5219dd7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/working-families-bernie-sanders_us_5666f190e4b08e945ff0d87a"
+  },
+  "headline":{
+    "0":"Man Viciously Beaten For Being Muslim Was Aided By Loyal Customers",
+    "1":"Working Families Party Backs Bernie Sanders"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The onlookers helped bring the attacker to justice.",
+    "1":"In contrast, most labor unions have backed Hillary Clinton."
+  },
+  "authors":{
+    "0":"Nadya Agrawal, Guest Writer",
+    "1":"Samantha Lachman"
+  },
+  "date":{
+    "0":"2015-12-09 00:00:00",
+    "1":"2015-12-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---lab"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usaeli"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "labor unions",
+      "~lab",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "customers",
+      "man"
+    ],
+    "1":[
+      "labor unions",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... aided by <~cvl>"
+    ],
+    "1":[
+      "have backed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "labor_unions",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "---lab",
+      "usaeli",
+      "050"
+    ]
+  }
+}

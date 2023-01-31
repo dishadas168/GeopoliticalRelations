@@ -1,0 +1,215 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-health-care-protests_us_596d04ece4b010d77672f70d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman0sui_us_596cd20ce4b0174186295aa5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-trump-internet-laws_us_59693615e4b0174186278e40",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-coup-anniversary_us_596b722ae4b01741862823d4",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/turkey-coup-anniversary_us_596b722ae4b01741862823d4"
+  },
+  "headline":{
+    "0":"Protesters Rally Against GOP Health Care Plan At Senate Office Building",
+    "1":"Woman Suing Her Gym For Being Trans Inclusive Takes Her Case To State Supreme Court",
+    "2":"Russia Spent A Fortune Shilling For Trump \u2013 And May Not Have Broken Any Laws",
+    "3":"Erdogan Vows To Punish Turkey's Enemies On Anniversary Of Failed Coup",
+    "4":"Erdogan Vows To Punish Turkey's Enemies On Anniversary Of Failed Coup"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"POLITICS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Multiple demonstrators were arrested.",
+    "1":"\"This is about me and how I felt unsafe,\" says Yvette Cormier.",
+    "2":"U.S. election laws never contemplated a foreign power inventing fake news and spreading it on the internet to influence an election.",
+    "3":"The president also took aim at the European Union.",
+    "4":"The president also took aim at the European Union."
+  },
+  "authors":{
+    "0":"Kaeli Subberwal and Mollie Reilly",
+    "1":"James Michael Nichols",
+    "2":"S.V. Date",
+    "3":"Daren Butler and Tuvan Gumrukcu, Reuters",
+    "4":"Daren Butler and Tuvan Gumrukcu, Reuters"
+  },
+  "date":{
+    "0":"2017-07-17 00:00:00",
+    "1":"2017-07-17 00:00:00",
+    "2":"2017-07-17 00:00:00",
+    "3":"2017-07-16 00:00:00",
+    "4":"2017-07-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"turgov",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"usagovleg",
+    "1":"---jud",
+    "2":"usa",
+    "3":"tur",
+    "4":"igoeureec"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"171",
+    "2":"010",
+    "3":"170",
+    "4":"171"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.2,
+    "2":0.0,
+    "3":-7.0,
+    "4":-9.2
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "state supreme court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "senate"
+    ],
+    "1":[
+      "woman",
+      "state supreme court"
+    ],
+    "2":[
+      "u.s.",
+      "u.s."
+    ],
+    "3":[
+      "erdogan",
+      "turkey"
+    ],
+    "4":[
+      "president",
+      "the ... european union"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states congress"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "recep tayyip erdogan",
+      "turkey"
+    ],
+    "4":[
+      "---",
+      "the european union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plan"
+    ],
+    "1":[
+      "takes"
+    ],
+    "2":[
+      "contemplated ... spreading"
+    ],
+    "3":[
+      "vows ... punish"
+    ],
+    "4":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usagovleg",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---jud",
+      "171"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "turgov",
+      "tur",
+      "170"
+    ],
+    "4":[
+      "---gov",
+      "igoeureec",
+      "171"
+    ]
+  }
+}

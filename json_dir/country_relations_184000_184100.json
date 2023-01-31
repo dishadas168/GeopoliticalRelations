@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/americas-capital-of-the-world_us_5b9c3a96e4b03a1dcc7d4078",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/americas-best-riverside-towns_us_5b9c3e50e4b03a1dcc7d4f4f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/how-hospitality-helps-philadelphia_us_5b9c39fae4b03a1dcc7d3b23",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ryanair-ceo-michael-oleary-calls-passengers-idiots_us_5b9c3a29e4b03a1dcc7d3d2a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/ryanair-ceo-michael-oleary-calls-passengers-idiots_us_5b9c3a29e4b03a1dcc7d3d2a"
+  },
+  "headline":{
+    "0":"A Guide To America's Oddest 'Capitals Of The World' (PHOTOS)",
+    "1":"America's 10 Best Riverside Towns, According To Outside Magazine (PHOTOS)",
+    "2":"How Hospitality Helps Philadelphia",
+    "3":"Ryanair CEO Michael O'Leary Calls Passengers \"Idiots\"",
+    "4":"Ryanair CEO Michael O'Leary Calls Passengers \"Idiots\""
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL",
+    "2":"TRAVEL",
+    "3":"TRAVEL",
+    "4":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Washington D.C. is frequently discussed with scorn by the career politicians who spend most of the year in Georgetown brownstones",
+    "1":"In order to rank the top river towns in America, the editors of Outside Magazine turned to locals, asking for them to vote",
+    "2":"Like many American cities, a significant subset of our population remains in poverty, lacking the skills needed to fill many of the jobs the city has to offer. As mayor, it's my job to figure out how to both address our city's challenges and boost our assets and, whenever possible, find solutions that meet those two needs at the same time. The city's hospitality industry offers Philadelphia that solution.",
+    "3":"As for another crazy fee, Ryanair was being investigated by the Irish Aviation Authority due to concerns that it is not allowing",
+    "4":"As for another crazy fee, Ryanair was being investigated by the Irish Aviation Authority due to concerns that it is not allowing"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Michael Nutter, Contributor\nFormer Mayor of Philadelphia, PA",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2012-09-06 00:00:00",
+    "1":"2012-09-06 00:00:00",
+    "2":"2012-09-05 00:00:00",
+    "3":"2012-09-05 00:00:00",
+    "4":"2012-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"---med",
+    "2":"---bus",
+    "3":"---cvl",
+    "4":"irlgov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---med",
+    "2":"usa",
+    "3":"mncirlbus",
+    "4":"mncirl"
+  },
+  "event_code":{
+    "0":"046",
+    "1":"020",
+    "2":"030",
+    "3":"041",
+    "4":"090"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":3.0,
+    "2":4.0,
+    "3":1.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "1":[
+      "magazine",
+      "~med",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "industry",
+      "~bus",
+      "~",
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "ryanair",
+      "ceo",
+      "mncirlbus",
+      "ryanair",
+      "~",
+      "passengers",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "ryanair",
+      "mncirl",
+      "ryanair",
+      "irish",
+      "authority",
+      "irlgov",
+      "ireland",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "politicians",
+      "washington d.c."
+    ],
+    "1":[
+      "magazine",
+      "magazine"
+    ],
+    "2":[
+      "industry",
+      "philadelphia"
+    ],
+    "3":[
+      "passengers",
+      "ryanair ceo",
+      "ryanair ceo",
+      "passengers"
+    ],
+    "4":[
+      "irish ... authority",
+      "ryanair"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "ryanair",
+      "ryanair",
+      "---"
+    ],
+    "4":[
+      "ireland",
+      "ryanair"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usa> ... discussed with"
+    ],
+    "1":[
+      "turned ... asking"
+    ],
+    "2":[
+      "offers"
+    ],
+    "3":[
+      "calls",
+      "calls"
+    ],
+    "4":[
+      "<mncirl> ... investigated by <irlgov>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "usa",
+      "046"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "020"
+    ],
+    "2":[
+      "---bus",
+      "usa",
+      "030"
+    ],
+    "3":[
+      "---cvl",
+      "mncirlbus",
+      "041",
+      "mncirlbus",
+      "---cvl",
+      "041"
+    ],
+    "4":[
+      "irlgov",
+      "mncirl",
+      "090"
+    ]
+  }
+}

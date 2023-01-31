@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thelocal.de\/20131202\/german-to-ban-plastic-surgery-on-children",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/italian-hand-gestures_us_5bad2c65e4b04234e857a59a"
+  },
+  "headline":{
+    "0":"Germany To Ban Elective Beauty Ops For Minors",
+    "1":"Italian Woman Explains Italian Hand Gestures And Now We All Get It"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"COMEDY"
+  },
+  "short_description":{
+    "0":"Germany\u2019s next government will ban plastic surgery on children and minors unless it can be justified on medical grounds, according",
+    "1":"We're not really sure why, but we found this video of a young woman named Veronika explaining Italian hand gestures utterly"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2013-12-02 00:00:00",
+    "1":"2013-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"deugov",
+    "1":"itacvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"ita"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "germany",
+      "government",
+      "deugov",
+      "germany",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "italian",
+      "woman",
+      "itacvl",
+      "italy",
+      "~",
+      "italian",
+      "ita",
+      "italy"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "germany ... government",
+      "children"
+    ],
+    "1":[
+      "italian woman",
+      "italian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "---"
+    ],
+    "1":[
+      "italy",
+      "italy"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ban"
+    ],
+    "1":[
+      "explains"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "deugov",
+      "---cvl",
+      "172"
+    ],
+    "1":[
+      "itacvl",
+      "ita",
+      "010"
+    ]
+  }
+}

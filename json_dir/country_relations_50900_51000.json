@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-bill-maher-real-time-interview_us_581d1591e4b0e80b02ca30d1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/van-jones-trump-supporters-in-gettysburg_us_581dfcc8e4b0e80b02ca5e0d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-and-what-is-possible_us_581df71be4b0334571e09c33"
+  },
+  "headline":{
+    "0":"Barack Obama Warns That A Donald Trump Presidency Would Be 'Damaging For The World'",
+    "1":"Van Jones Talks To Donald Trump Supporters In Attempt To Avoid New 'Civil War'",
+    "2":"Hillary Clinton And What Is Possible"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president told Bill Maher the choice this election should be clear: Hillary Clinton for president.",
+    "1":"The liberal CNN pundit traveled to Gettysburg, Pennsylvania, to engage with the other side.",
+    "2":"Nearly six years after my father\u2019s death, I look back on something Hillary Clinton said about him that I think in some ways applies to her as well."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Daniel Marans",
+    "2":"David Holbrooke, ContributorDocumentary filmmaker and festival director of Telluride Mount..."
+  },
+  "date":{
+    "0":"2016-11-05 00:00:00",
+    "1":"2016-11-05 00:00:00",
+    "2":"2016-11-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"med",
+    "2":"usaeli"
+  },
+  "actor2":{
+    "0":"usaeligov",
+    "1":"usa",
+    "2":"usaeli"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "president",
+      "usaeligov",
+      "hillary",
+      "clinton",
+      "~"
+    ],
+    "1":[
+      "cnn",
+      "med",
+      "cnn",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "hillary clinton ... president"
+    ],
+    "1":[
+      "cnn",
+      "pennsylvania"
+    ],
+    "2":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "cnn",
+      "united states of america"
+    ],
+    "2":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "traveled"
+    ],
+    "2":[
+      "said ... think ... applies"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usaeligov",
+      "010"
+    ],
+    "1":[
+      "med",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "usaeli",
+      "usaeli",
+      "020"
+    ]
+  }
+}

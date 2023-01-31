@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/an-interview-with-former-president-of-eu-parliament_us_58e7960de4b00dd8e016eadc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/america-cant-afford-to-buy-a-broken-afghanistan_us_58e795e4e4b00dd8e016eadb",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trumps-foreign-policy-launches-a-strike-against-syria_us_58e71ee4e4b06f8c18beea89"
+  },
+  "headline":{
+    "0":"An Interview With Former President Of The EU Parliament Nicole Fontaine: Brexit, The Trump Administration, And Advice For Women In The Workplace",
+    "1":"America Can't Afford to Buy a Broken Afghanistan",
+    "2":"Trump\u2019s Foreign Policy? Launches A Strike Against Syria, Refuses To Take In Refugees From The Same"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"A charming woman with a fiery spirit, Fontaine pulls no punches when speaking about the shortcomings of the European Union.",
+    "1":"This piece was previously published in The National Interest. Trump should refuse to grant the request of Gen. Joseph Votel",
+    "2":"In retaliation to the \u2018chemical attack\u2019 on civilians in Syria earlier this week, President Donald Trump ordered a Tomahawk"
+  },
+  "authors":{
+    "0":"Cameron Chang, ContributorCulture and Language Assistant in Madrid, Spain",
+    "1":"Amitai Etzioni, ContributorUniversity Professor and Professor of International Relations,...",
+    "2":"J. Peraza, ContributorMedia Strategist"
+  },
+  "date":{
+    "0":"2017-04-07 00:00:00",
+    "1":"2017-04-07 00:00:00",
+    "2":"2017-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"syr"
+  },
+  "actor2":{
+    "0":"igoeureec",
+    "1":"afg",
+    "2":"---ref"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"061",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.4,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "syria",
+      "syr",
+      "syria",
+      "refugees",
+      "~ref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "the ... european union"
+    ],
+    "1":[
+      "america",
+      "afghanistan"
+    ],
+    "2":[
+      "syria",
+      "refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the european union"
+    ],
+    "1":[
+      "united states of america",
+      "afghanistan"
+    ],
+    "2":[
+      "syria",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pulls ... speaking"
+    ],
+    "1":[
+      "ca ... buy"
+    ],
+    "2":[
+      "refuses ... take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "igoeureec",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "afg",
+      "061"
+    ],
+    "2":[
+      "syr",
+      "---ref",
+      "171"
+    ]
+  }
+}

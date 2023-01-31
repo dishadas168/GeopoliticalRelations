@@ -1,0 +1,124 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/school-snack-guidelines_us_5b9cca6ce4b03a1dcc81e2fb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/scot-jacobson-500-pound-man-tumor-surgery_us_5b9cc9e7e4b03a1dcc81de8d"
+  },
+  "headline":{
+    "0":"Are Kids Going to Eat Less Junk at School?",
+    "1":"Scot Jacobson, 556-Pound Oregon Man With 70-Pound Tumor, Faces 2 Risky Surgeries"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The days of snacking on candy, soda and chips in schools may soon be over. Last Friday, the U.S. Department of Agriculture (USDA) announced new proposed standards for snacks sold at schools.",
+    "1":"Scot Jacobson, a 556-pound Oregon man, has a 70-pound tumor he calls \"Wilson,\" after the volleyball featured in the movie"
+  },
+  "authors":{
+    "0":"Ayala Laufer-Cahana, M.D., Contributor\nPhysician, Entrepreneur, Co-Founder: Herbal Water Inc.",
+    "1":"Ron Dicker"
+  },
+  "date":{
+    "0":"2013-02-06 00:00:00",
+    "1":"2013-02-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovagr",
+    "1":"gbrppl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usappl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "department of agriculture",
+      "usagovagr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "scot",
+      "oregon",
+      "man",
+      "gbrppl",
+      "usappl",
+      "united",
+      "kingdom",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. department of agriculture",
+      "schools"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "agriculture",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagovagr",
+      "---edu",
+      "010"
+    ],
+    "1":[
+      "gbrppl",
+      "usappl",
+      "040",
+      "usappl",
+      "gbrppl",
+      "040"
+    ]
+  }
+}

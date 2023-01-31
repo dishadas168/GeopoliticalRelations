@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-wine-scene_us_5b9cfe22e4b03a1dcc8398d2"
+  },
+  "headline":{
+    "0":"Time to Widen View of U.S. Wine Scene"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"The U.S. has recently overtaken France and Italy to become the globe's biggest wine market, consuming  more than any other nation."
+  },
+  "authors":{
+    "0":"Zester Daily, Contributor\nZester Daily: The culture of food and drink."
+  },
+  "date":{
+    "0":"2013-04-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"fra"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "france",
+      "italy",
+      "fra",
+      "ita",
+      "france",
+      "italy"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "france",
+      "u.s.",
+      "italy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "france",
+      "united states of america",
+      "italy"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... overtaken",
+      "has ... overtaken"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "fra",
+      "190",
+      "usa",
+      "ita",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dakota-pipeline-protest-eviction_us_583a3476e4b01ba68ac4bf41"
+  },
+  "headline":{
+    "0":"Dakota Access Pipeline Protesters Vow To Stay Despite Eviction Order"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The U.S. Army Corps of Engineers ordered protesters to leave by Dec. 5, citing concern over public safety amid high tension on the proposed development."
+  },
+  "authors":{
+    "0":"Terray Sylvester, Reuters"
+  },
+  "date":{
+    "0":"2016-11-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usamilcvl"
+  },
+  "actor2":{
+    "0":"---opp"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "engineers",
+      "~cvl",
+      "~",
+      "u.s. army",
+      "engineers",
+      "usamilcvl",
+      "united",
+      "states",
+      "military",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. army ... engineers",
+      "protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states military",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ordered"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usamilcvl",
+      "---opp",
+      "100"
+    ]
+  }
+}

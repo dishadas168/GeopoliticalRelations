@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/congo-brazzaville-face-veil-ban_n_7208328.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/how-not-to-represent-turner-syndrome-in-media_b_7201490.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-militarization-of-american-streets_b_7214096.html"
+  },
+  "headline":{
+    "0":"Central African Nation Bans Muslim Women From Wearing Full-Face Veils",
+    "1":"How (Not) to Represent Turner Syndrome in Media",
+    "2":"The Militarization of American Streets"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"MEDIA",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"People with Turner Syndrome are complicated and contain many layers and multiple identities, just like any other group of people. While we do have social media and the Turner Syndrome Society's annual conferences to keep in touch and find people who have gone through similar experiences, there is definitely something to be said about being able to see a reflection of yourself in popular media.",
+    "2":"When the CVS stores go up in flames and local stores are looted, politicians denounce what's happened and demand an instant return to law and order, while calling on police departments to wear body cameras and rethink their attitudes. But there's another reality that has to be faced."
+  },
+  "authors":{
+    "0":"",
+    "1":"Kelseigh Ingram, ContributorStudent, Indiana University",
+    "2":"Tom Engelhardt, ContributorEditor, TomDispatch.com"
+  },
+  "date":{
+    "0":"2015-05-05 00:00:00",
+    "1":"2015-05-05 00:00:00",
+    "2":"2015-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"caf",
+    "1":"---ppl",
+    "2":"---pty"
+  },
+  "actor2":{
+    "0":"---muscvl",
+    "1":"---ppl",
+    "2":"---cop"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"170",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-7.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "central african",
+      "caf",
+      "central",
+      "african",
+      "republic",
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "politicians",
+      "~pty",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "central african",
+      "muslim women"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "politicians",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "central african republic",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bans"
+    ],
+    "1":[
+      "<and> ... contain"
+    ],
+    "2":[
+      "denounce ... calling on"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "caf",
+      "---muscvl",
+      "172"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "170"
+    ],
+    "2":[
+      "---pty",
+      "---cop",
+      "020"
+    ]
+  }
+}

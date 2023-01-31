@@ -1,0 +1,196 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-june12-2017_us_593ec088e4b014ae8c69e29f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pulse-nightclub-shooting-one-year-later_us_593ed3a1e4b0b65670e56cd8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/since-the-tragedy-america-has-failed-the-pulse-shooting-victims_us_593ee4fde4b0b13f2c6d2b0d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/we-must-mourn-victims-of-orlando-but-must-also-stop_us_593f03e9e4b094fa859f1b0e"
+  },
+  "headline":{
+    "0":"News Roundup for June 12, 2017",
+    "1":"Pulse Nightclub Shooting: One Year Later",
+    "2":"Since The Tragedy, America Has Failed The Pulse Shooting Victims",
+    "3":"We Must Mourn Victims Of Orlando, But Must Also Stop Future Terror Attacks Like It"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"QUEER VOICES",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Neeeews. 1. Puerto Rico voted in favor of US statehood. However, the historically low turnout rate points to a disinterest",
+    "1":"One year ago today, 49 people were killed in the worst mass shooting in modern U.S. history at the Pulse nightclub in Orlando",
+    "2":"We have not moved on, we have moved backward.",
+    "3":"Follow me on twitter: @mk1157 One year ago today, 49 people were tragically murdered at Pulse nightclub in Orlando by a cowardly"
+  },
+  "authors":{
+    "0":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "1":"Zac Thompson, ContributorOutspeak Editor - in partnership with Huff Post",
+    "2":"Jason Cruz, ContributorJason Cruz is a writer and recent Stetson University graduate ...",
+    "3":"Dr. Munr Kazmir, ContributorDoctor, businessman, entrepreneur, and philanthropist"
+  },
+  "date":{
+    "0":"2017-06-12 00:00:00",
+    "1":"2017-06-12 00:00:00",
+    "2":"2017-06-12 00:00:00",
+    "3":"2017-06-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usapri",
+    "1":"usa",
+    "2":"usa",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---cvl",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"031",
+    "1":"190",
+    "2":"120",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":-10.0,
+    "2":-4.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico",
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "puerto rico",
+      "us"
+    ],
+    "1":[
+      "u.s.",
+      "people"
+    ],
+    "2":[
+      "america",
+      "victims"
+    ],
+    "3":[
+      "people",
+      "orlando"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "puerto rico",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "voted in favor"
+    ],
+    "1":[
+      "<~ppl> ... killed in <usa> ... at <---> ... in <usa>"
+    ],
+    "2":[
+      "has failed"
+    ],
+    "3":[
+      "were ... murdered at <usa> ... by <--->"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usapri",
+      "usa",
+      "031"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "190",
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "120"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

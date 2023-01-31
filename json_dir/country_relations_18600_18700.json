@@ -1,0 +1,219 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-michael-flynn_us_5a216fbde4b03c44072d2023",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jimmy-kimmel-roy-moore_us_5a211a2ee4b03350e0b5b2e6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/adam-horovitz-father-sexual-assault_us_5a209bcfe4b0a02abe8ff744",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/senate-ethics-committee-franken_us_5a21150ae4b03c44072c810b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/vice-fires-three-employees-sexual-harassment_us_5a20d2bde4b03c44072c6ea8"
+  },
+  "headline":{
+    "0":"Trump White House Furiously Tries To Distance Itself From Michael Flynn",
+    "1":"Jimmy Kimmel Accepts 'Tough Guy' Roy Moore's Challenge To A Fight",
+    "2":"Beastie Boys' Adam Horovitz Says He Believes Women Accusing His Father Of Sexual Assault",
+    "3":"Senate Ethics Committee Opens Inquiry Into Al Franken Allegations",
+    "4":"Vice Media Fires 3 Employees Amid Sexual Harassment Complaints"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"COMEDY",
+    "2":"ARTS & CULTURE",
+    "3":"POLITICS",
+    "4":"MEDIA"
+  },
+  "short_description":{
+    "0":"They are trying to shift the blame to Obama. Seriously.",
+    "1":"The Republican Senate candidate and former judge invited Kimmel down to Alabama to meet \"man to man.\"",
+    "2":"Multiple women say playwright Israel Horovitz assaulted them.",
+    "3":"Several women have accused the senator of groping them.",
+    "4":"The company previously suspended Jason Mojica, the head of its documentary film division."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Rebecca Shapiro",
+    "2":"Antonia Blumberg",
+    "3":"Willa Frej",
+    "4":"Rebecca Shapiro"
+  },
+  "date":{
+    "0":"2017-12-01 00:00:00",
+    "1":"2017-12-01 00:00:00",
+    "2":"2017-12-01 00:00:00",
+    "3":"2017-12-01 00:00:00",
+    "4":"2017-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---jud",
+    "2":"---cvl",
+    "3":"---cvl",
+    "4":"---med"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"isr",
+    "3":"---leg",
+    "4":"---lab"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"040",
+    "2":"010",
+    "3":"112",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":0.0,
+    "3":-2.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "israel",
+      "isr",
+      "israel",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "media",
+      "~med",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "white house",
+      "white house"
+    ],
+    "1":[
+      "judge",
+      "alabama"
+    ],
+    "2":[
+      "women",
+      "israel"
+    ],
+    "3":[
+      "women",
+      "senator"
+    ],
+    "4":[
+      "media",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "israel"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tries ... distance ... from"
+    ],
+    "1":[
+      "invited"
+    ],
+    "2":[
+      "say"
+    ],
+    "3":[
+      "have accused"
+    ],
+    "4":[
+      "fires"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "110"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---cvl",
+      "isr",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---leg",
+      "112"
+    ],
+    "4":[
+      "---med",
+      "---lab",
+      "190"
+    ]
+  }
+}

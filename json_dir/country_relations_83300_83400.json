@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bella-tupac-dogs-sledgehammer_us_56215a46e4b0bce34700b344",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/abc-news-jamie-zimmerman-hawaii-accident_us_561f1087e4b050c6c4a4520a",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.wsj.com\/article_email\/fbi-justice-department-investigating-daily-fantasy-sports-business-model-1444865627-lMyQjAxMTA1ODE1NTgxMzU4Wj"
+  },
+  "headline":{
+    "0":"Dogs Recovering After Man Allegedly Beat Them With Sledgehammer",
+    "1":"ABC News Medical Reporter Dies In Hawaii Accident",
+    "2":"FBI, Justice Department Investigating Daily Fantasy Sports Business Model"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"MEDIA",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Authorities say the attacker's girlfriend asked him to euthanize the Labrador retrievers.",
+    "1":"HONOLULU (AP) - Jamie Zimmerman, a doctor and reporter with ABC News' medical unit, has drowned while on vacation in Hawaii",
+    "2":"The U.S. Justice Department and the Federal Bureau of Investigation are probing whether the business model of daily fantasy"
+  },
+  "authors":{
+    "0":"Hilary Hanson",
+    "1":"Cathy Bussewitz, AP",
+    "2":""
+  },
+  "date":{
+    "0":"2015-10-16 00:00:00",
+    "1":"2015-10-16 00:00:00",
+    "2":"2015-10-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---med",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"190",
+    "2":"090"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "reporter",
+      "~med",
+      "~",
+      "hawaii",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "u.s.",
+      "federal bureau of investigation",
+      "usa",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "authorities"
+    ],
+    "1":[
+      "reporter",
+      "hawaii"
+    ],
+    "2":[
+      "u.s.",
+      "business",
+      "federal bureau of investigation",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---",
+      "federal bureau of investigation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... asked"
+    ],
+    "1":[
+      "dies"
+    ],
+    "2":[
+      "are probing",
+      "are probing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "020"
+    ],
+    "1":[
+      "---med",
+      "usa",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "---bus",
+      "090",
+      "usacop",
+      "---bus",
+      "090"
+    ]
+  }
+}

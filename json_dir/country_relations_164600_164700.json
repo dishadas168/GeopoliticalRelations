@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-africas-cape_us_5b9cff20e4b03a1dcc839e38",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/georgia-may-jagger-airplane-runway-show-ppq-british-airways_us_5b9d0047e4b03a1dcc83a61d"
+  },
+  "headline":{
+    "0":"South Africa's Cape Winelands Provide Perfect Day Trip From Cape Town",
+    "1":"Georgia May Jagger Leads Airplane Runway Show For PPQ, British Airways (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"In fact, to not visit the vintners, cheesemakers and chocolatiers that stretch some 100 miles to the east and north of Cape Town is like visiting California and not going to the beach. If you're a foodie, it's simply inexcusable.",
+    "1":"Georgia May Jagger took her famous stems above sea level for an inventive runway show on Wednesday. In honor British Airways"
+  },
+  "authors":{
+    "0":"Pam Grout, Contributor\nAuthor, National Geographic's 100 Best Volunteer Vacations",
+    "1":"Lauren Leibowitz"
+  },
+  "date":{
+    "0":"2013-04-03 00:00:00",
+    "1":"2013-04-03 00:00:00"
+  },
+  "actor1":{
+    "0":"zaf",
+    "1":"geo"
+  },
+  "actor2":{
+    "0":"zaf",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "south africa",
+      "zaf",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "cape town",
+      "zaf",
+      "republic",
+      "of",
+      "south",
+      "africa"
+    ],
+    "1":[
+      "georgia",
+      "geo",
+      "georgia",
+      "british",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "south africa",
+      "south africa"
+    ],
+    "1":[
+      "georgia",
+      "british"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "republic of south africa",
+      "republic of south africa"
+    ],
+    "1":[
+      "georgia",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "provide"
+    ],
+    "1":[
+      "leads"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "zaf",
+      "zaf",
+      "060"
+    ],
+    "1":[
+      "geo",
+      "gbr",
+      "060"
+    ]
+  }
+}

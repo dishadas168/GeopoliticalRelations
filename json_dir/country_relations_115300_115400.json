@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ashraf-ghani-islam_b_5907486.html"
+  },
+  "headline":{
+    "0":"A New Muslim Identity for Afghans?"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Protecting Islam was his first pledge when Ashraf Ghani took leadership in Kabul yesterday."
+  },
+  "authors":{
+    "0":"Nushin Arbabzadah, ContributorAuthor, Editor"
+  },
+  "date":{
+    "0":"2014-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"afgeli"
+  },
+  "actor2":{
+    "0":"afg"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "ashraf ghani",
+      "afgeli",
+      "ashraf",
+      "ghani",
+      "kabul",
+      "afg",
+      "afghanistan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ashraf ghani",
+      "kabul"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "ashraf ghani",
+      "afghanistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "afgeli",
+      "afg",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+.DS_Store
+.ropeproject
+petrarch_app.py
+mongo_sample.py

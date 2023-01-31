@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/focus-on-the-nra_b_6387476.html"
+  },
+  "headline":{
+    "0":"Focus on the NRA"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"It has been a week since Ismaayl Brinsley, a deranged man with a long criminal record, killed two New York City police officers, Wenjian Liu and Rafael Ramos, in cold blood, but so far we haven't heard a word from the National Rifle Association."
+  },
+  "authors":{
+    "0":"Peter Dreier, ContributorE.P. Clapp Distinguished Professor of Politics, Occidental Col..."
+  },
+  "date":{
+    "0":"2014-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "criminal",
+      "~crm",
+      "~",
+      "man",
+      "criminal",
+      "~crm",
+      "~",
+      "~",
+      "police officers",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "criminal",
+      "police officers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "---cop",
+      "190"
+    ]
+  }
+}

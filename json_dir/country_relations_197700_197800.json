@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rob-lowe-visit-california_us_5b9b8deee4b03a1dcc789260"
+  },
+  "headline":{
+    "0":"Rob Lowe On California's Best Beaches, In-N-Out & His Favorite California Songs (VIDEO)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Rob Lowe -- he of \"Parks and Recreation,\" \"The West Wing\" and \"St. Elmo's Fire\" -- has been enlisted by the state of California"
+  },
+  "authors":{
+    "0":"Kate Auletta"
+  },
+  "date":{
+    "0":"2012-04-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "west wing",
+      "usagov",
+      "white",
+      "house",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "west wing"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usagov> ... enlisted by <usa>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagov",
+      "060"
+    ]
+  }
+}

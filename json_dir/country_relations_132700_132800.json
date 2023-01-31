@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/commando-vanity-fair_us_5b9deb59e4b03a1dcc8ebe92"
+  },
+  "headline":{
+    "0":"More People Go Commando Than You Might Think, According To A New Poll In Vanity Fair"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Here's one way to save money on laundry -- stop wearing underwear. Vanity Fair teamed up with 60 Minutes to conduct a fashion"
+  },
+  "authors":{
+    "0":"Jamie Feldman"
+  },
+  "date":{
+    "0":"2014-03-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "commando",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "commando"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "go"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---mil",
+      "040"
+    ]
+  }
+}

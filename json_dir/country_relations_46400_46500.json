@@ -1,0 +1,172 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-pearl-harbor_us_5863ccc2e4b0d9a59459a097",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/israel-settlement-applications-vote-canceled_us_586394a0e4b0eb586487a16b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-turkey-syria-ceasefire_us_58637c53e4b0eb586487a124"
+  },
+  "headline":{
+    "0":"Barack Obama's Pearl Harbor Speech Seen As Rebuke Of Trump World View",
+    "1":"Israel Approves Settler Building In East Jerusalem Ahead Of Kerry Speech",
+    "2":"Russia, Turkey Reportedly Agree On Syria Ceasefire Plan"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The president urged unity in remarks that many saw as a thinly veiled shot at the president-elect.",
+    "1":"The approval came after Israel postponed authorization of hundreds of other homes ahead of a speech on the Middle East by the U.S. secretary of state.",
+    "2":"Ankara will not budge on its opposition to Syrian President Bashar Assad staying in power."
+  },
+  "authors":{
+    "0":"Ashley Alman",
+    "1":"By Jeffrey Heller, Reuters",
+    "2":"Orhan Coskun and Ellen Francis, Reuters"
+  },
+  "date":{
+    "0":"2016-12-28 00:00:00",
+    "1":"2016-12-28 00:00:00",
+    "2":"2016-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"isr",
+    "2":"rus"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"syr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"120",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "israel",
+      "isr",
+      "israel",
+      "u.s.",
+      "secretary of state",
+      "usa",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state"
+    ],
+    "2":[
+      "russia",
+      "turkey",
+      "rus",
+      "tur",
+      "russian",
+      "federation",
+      "turkey",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "israel",
+      "u.s.",
+      "israel",
+      "secretary of state"
+    ],
+    "2":[
+      "russia",
+      "syria",
+      "turkey",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "israel",
+      "united states of america",
+      "israel",
+      "the us secretary of state"
+    ],
+    "2":[
+      "russian federation",
+      "syria",
+      "turkey",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "urged ... saw"
+    ],
+    "1":[
+      "postponed",
+      "postponed"
+    ],
+    "2":[
+      "agree",
+      "agree"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "isr",
+      "usa",
+      "120",
+      "isr",
+      "usagov",
+      "120"
+    ],
+    "2":[
+      "rus",
+      "syr",
+      "050",
+      "tur",
+      "syr",
+      "050"
+    ]
+  }
+}

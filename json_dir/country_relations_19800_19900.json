@@ -1,0 +1,222 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/most-hillary-clinton-voters-think-the-allegations-against-bill-clinton-are-credible_us_5a0ca041e4b0c0b2f2f76f79",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/most-hillary-clinton-voters-think-the-allegations-against-bill-clinton-are-credible_us_5a0ca041e4b0c0b2f2f76f79",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-china-ucla-players_us_5a0c5b26e4b00a6eece5aac9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-rnc-funding-senate_us_5a0b72f6e4b0bc648a0e97c5",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/speier-sexual-harassment_us_5a0b0d36e4b00a6eece46f84"
+  },
+  "headline":{
+    "0":"Most Hillary Clinton Voters Think The Allegations Against Bill Clinton Are Credible",
+    "1":"Most Hillary Clinton Voters Think The Allegations Against Bill Clinton Are Credible",
+    "2":"UCLA Players Thank Trump After China Frees Them In Shoplifting Case",
+    "3":"Republican National Committee Pulls Funding For Roy Moore's Senate Campaign",
+    "4":"Congresswoman Says At Least 2 Members Of Congress Are Sexual Harassers"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Most Trump voters say the current president's accusers lack  credibility.",
+    "1":"Most Trump voters say the current president's accusers lack  credibility.",
+    "2":"The president had earlier questioned whether his efforts would be recognized by the young men.",
+    "3":"Many GOP senators have called on him to drop out of the Alabama special election amid allegations of sexual assault.",
+    "4":"Rep. Jackie Speier (D-Calif.) has been an outspoken advocate for making it easier for Congress workers to report sexual misconduct."
+  },
+  "authors":{
+    "0":"Ariel Edwards-Levy",
+    "1":"Ariel Edwards-Levy",
+    "2":"Nina Golgowski",
+    "3":"Mollie Reilly",
+    "4":"Amanda Terkel"
+  },
+  "date":{
+    "0":"2017-11-15 00:00:00",
+    "1":"2017-11-15 00:00:00",
+    "2":"2017-11-15 00:00:00",
+    "3":"2017-11-14 00:00:00",
+    "4":"2017-11-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---leg",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"usa",
+    "4":"---leg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"051",
+    "3":"025",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":3.4,
+    "3":-0.3,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton"
+    ],
+    "1":[
+      "voters",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "senators",
+      "~leg",
+      "~",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "bill clinton"
+    ],
+    "1":[
+      "voters",
+      "president"
+    ],
+    "2":[
+      "men",
+      "president"
+    ],
+    "3":[
+      "senators",
+      "alabama"
+    ],
+    "4":[
+      "congresswoman",
+      "congresswoman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "bill clinton"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ],
+    "1":[
+      "say"
+    ],
+    "2":[
+      "<~gov> ... recognized by <~ppl>"
+    ],
+    "3":[
+      "have called on <['drop',> <'out']>"
+    ],
+    "4":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usaeli",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---gov",
+      "051"
+    ],
+    "3":[
+      "---leg",
+      "usa",
+      "025"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "010"
+    ]
+  }
+}

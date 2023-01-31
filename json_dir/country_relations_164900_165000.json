@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-the-american-airlines-merger-flyer-miles_us_5b9cd375e4b03a1dcc822e4c"
+  },
+  "headline":{
+    "0":"What The American Airlines-US Airways Merger Will Mean For Your Frequent Flyer Miles"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"If you fly American Airlines or US Airways with any regularity, news of the merger between the two airlines could have you worried about your frequent flyer miles."
+  },
+  "authors":{
+    "0":"Scott Keyes, Contributor\nTravel expert and author of 'How To Fly For Free: Practical Ti..."
+  },
+  "date":{
+    "0":"2013-03-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usabus"
+  },
+  "actor2":{
+    "0":"mncusabus"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "airlines",
+      "us airways",
+      "usabus",
+      "mncusabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "us",
+      "airways"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usabus",
+      "mncusabus",
+      "030",
+      "mncusabus",
+      "usabus",
+      "030"
+    ]
+  }
+}

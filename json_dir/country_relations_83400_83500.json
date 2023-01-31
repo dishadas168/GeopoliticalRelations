@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thetrace.org\/2015\/10\/gunshot-victim-photos-nardyne-jeffries\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/georgetown-racial-profiling_us_561fc20fe4b050c6c4a482d7",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/fGElFy",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/twitter-names-former-google-exec-as-chairman_us_561e6197e4b050c6c4a38b9c"
+  },
+  "headline":{
+    "0":"Mother Wants Politicians To See Photos Of Her Child\u2019s Bullet-Riddled Body",
+    "1":"Some D.C. Businesses Are Abusing A Safety Program To Racially Profile People",
+    "2":"When Butterflies Shouldn't Fly Free",
+    "3":"Twitter Names Former Google Exec As Chairman"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TECH",
+    "2":"SCIENCE",
+    "3":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Nardyne Jefferies is the unwitting pioneer of an ad-hoc movement to get lawmakers to confront the grisly consequences of",
+    "1":"\"3 female. 1 male strong smell of weed. All African American. Help please.\"",
+    "2":"Scientists find that releasing captive-bred monarch butterflies can unwittingly spread disease to healthy populations of",
+    "3":"The company hopes Omid Kordestani can ally concerns over CEO Jack Dorsey running two companies at once."
+  },
+  "authors":{
+    "0":"",
+    "1":"Damon Beres",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2015-10-15 00:00:00",
+    "1":"2015-10-15 00:00:00",
+    "2":"2015-10-14 00:00:00",
+    "3":"2015-10-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"---cvl",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"180",
+    "2":"084",
+    "3":"022"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.0,
+    "2":7.0,
+    "3":3.4
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "businesses",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "scientists",
+      "~cvl",
+      "~",
+      "monarch",
+      "~gov",
+      "~",
+      "populations",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "company",
+      "~bus",
+      "~",
+      "ceo",
+      "~bus",
+      "~",
+      "companies",
+      "~bus",
+      "~",
+      "ceo",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ],
+    "1":[
+      "businesses",
+      "people"
+    ],
+    "2":[
+      "scientists",
+      "monarch",
+      "scientists",
+      "scientists"
+    ],
+    "3":[
+      "company",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "politicians ... see"
+    ],
+    "1":[
+      "are abusing"
+    ],
+    "2":[
+      "find ... releasing",
+      "find ... spread"
+    ],
+    "3":[
+      "hopes ... ally"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---ppl",
+      "180"
+    ],
+    "2":[
+      "---cvl",
+      "---gov",
+      "084",
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---bus",
+      "---bus",
+      "022"
+    ]
+  }
+}

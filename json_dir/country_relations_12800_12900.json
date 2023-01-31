@@ -1,0 +1,325 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marius-makon-racist-attack_us_5aa01a98e4b002df2c6014e3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/australia-compulsory-voting_us_5a9deac4e4b0479c02563d9a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-south-korea-summit-denuclearization_us_5a9e7884e4b089ec353e79ff",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/florida-senate-bill-arms-school-staff_us_5a9dd739e4b089ec353df4a8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/moms-demand-action-colorado-capitol_us_5a9da297e4b0a0ba4ad6d88f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/trump-administration-elephant-trophies_us_5a9e218ee4b0a0ba4ad7376b",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/amelia-earhart-frida-kahlo-katherine-johnson-barbies_us_5a9dac8ee4b089ec353dd02b"
+  },
+  "headline":{
+    "0":"White Attacker Allegedly Tells Black Man, 'I Can Kill You And Nothing Will Happen'",
+    "1":"How America Can Benefit From Australia's Compulsory Voting System",
+    "2":"North Korea Says It's Open To Talking Denuclearization With The U.S.",
+    "3":"Florida Senate Passes Measure To Arm School Staff, Not Teachers",
+    "4":"400 Moms Take Over Colorado Capitol Building, Press Legislators On Gun Control",
+    "5":"Trump Administration Reverses Promise To Ban Elephant Hunt Trophies",
+    "6":"Frida Kahlo And Other Historic Women Are Being Made Into Barbies"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"WOMEN"
+  },
+  "short_description":{
+    "0":"A woman allegedly hit the victim twice with a beer bottle and said, \u201cI don\u2019t want black people in this place or in front of me.\u201d",
+    "1":"Australia always has a massive voter turnout, which has been credited for its relatively moderate candidates.",
+    "2":"The regime also announced plans to hold a summit with South Korea in April.",
+    "3":"Changes to the Marjory Stoneman Douglas High School Public Safety Act still need to be approved by the Florida House.",
+    "4":"\u201cIt matters to show up. [Our legislators] need to see us.\u201d",
+    "5":"The U.S. government will allow hunters to import elephant trophies on a case-by-case basis, breaking the president\u2019s pledge.",
+    "6":"Mattel is also honoring a few living legends, including Olympian Chloe Kim, this International Women's Day."
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Josh Butler",
+    "2":"Christine Kim, Reuters",
+    "3":"Doha Madani",
+    "4":"Ryan Grenoble",
+    "5":"Nick Visser and Chris D'Angelo",
+    "6":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2018-03-07 00:00:00",
+    "1":"2018-03-06 00:00:00",
+    "2":"2018-03-06 00:00:00",
+    "3":"2018-03-06 00:00:00",
+    "4":"2018-03-06 00:00:00",
+    "5":"2018-03-06 00:00:00",
+    "6":"2018-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---gov",
+    "3":"usa",
+    "4":"---leg",
+    "5":"usagov",
+    "6":"mncusa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"aus",
+    "2":"kor",
+    "3":"---edu",
+    "4":"---leg",
+    "5":"---cvl",
+    "6":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"040",
+    "3":"08",
+    "4":"010",
+    "5":"08",
+    "6":"051"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":1.0,
+    "3":5.0,
+    "4":0.0,
+    "5":5.0,
+    "6":3.4
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "victim",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "australia",
+      "aus",
+      "australia"
+    ],
+    "2":[
+      "regime",
+      "~gov",
+      "~",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ],
+    "3":[
+      "florida",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress",
+      "school",
+      "teachers",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "4":[
+      "legislators",
+      "~leg",
+      "~"
+    ],
+    "5":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "hunters",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "mattel",
+      "mncusa",
+      "mattel",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "woman",
+      "woman",
+      "people"
+    ],
+    "1":[
+      "america",
+      "australia"
+    ],
+    "2":[
+      "regime",
+      "south korea"
+    ],
+    "3":[
+      "florida",
+      "school ... teachers",
+      "senate",
+      "school ... teachers"
+    ],
+    "4":[
+      "legislators",
+      "legislators"
+    ],
+    "5":[
+      "u.s. government",
+      "hunters"
+    ],
+    "6":[
+      "mattel",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "australia"
+    ],
+    "2":[
+      "---",
+      "south korea"
+    ],
+    "3":[
+      "united states of america",
+      "---",
+      "united states congress",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "mattel",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... hit",
+      "<and> ... said ... do ... want"
+    ],
+    "1":[
+      "can benefit"
+    ],
+    "2":[
+      "announced plans ... hold ... summit"
+    ],
+    "3":[
+      "passes",
+      "passes"
+    ],
+    "4":[
+      "need ... see"
+    ],
+    "5":[
+      "will allow"
+    ],
+    "6":[
+      "is ... honoring"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "schools",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "190",
+      "---cvl",
+      "---ppl",
+      "030"
+    ],
+    "1":[
+      "usa",
+      "aus",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "kor",
+      "040"
+    ],
+    "3":[
+      "usa",
+      "---edu",
+      "08",
+      "usagovleg",
+      "---edu",
+      "08"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "5":[
+      "usagov",
+      "---cvl",
+      "08"
+    ],
+    "6":[
+      "mncusa",
+      "---cvl",
+      "051"
+    ]
+  }
+}

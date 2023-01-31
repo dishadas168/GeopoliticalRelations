@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/activists-arrested-white-house-protest-health-care_us_58d42c9be4b03692bea3d51b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fewer-latinos-are-reporting-rapes-abuse-amid-growing-fears-of-deportation_us_58d28ef9e4b02d33b7477ce5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/malaysian-censors-to-allow-positive-depictions-of-gay-people_us_58d2b1a3e4b02d33b747c311"
+  },
+  "headline":{
+    "0":"Activists Arrested Protesting Obamacare Repeal Outside The White House",
+    "1":"Rape Victims Aren't Seeking Help For Fear Of Deportation, Police Say",
+    "2":"Anti-LGBTQ Malaysian Censors Bend Slightly To Allow Positive Depictions Of Gay People"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"There were 24 activists -- one for every million people projected to lose their health insurance.",
+    "1":"The LAPD says it's seen a dramatic 25 percent drop in rapes reported by the city's Latino population.",
+    "2":"Usually, gay characters must be shown in a very negative light."
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Melissa Jeltsen",
+    "2":"Sara Boboltz"
+  },
+  "date":{
+    "0":"2017-03-23 00:00:00",
+    "1":"2017-03-22 00:00:00",
+    "2":"2017-03-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---cvl",
+    "2":"mys"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cop",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"023",
+    "2":"08"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":3.4,
+    "2":5.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "victims",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "malaysian",
+      "mys",
+      "malaysia",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "the white house"
+    ],
+    "1":[
+      "victims",
+      "police"
+    ],
+    "2":[
+      "malaysian",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "malaysia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ],
+    "1":[
+      "are ... seeking help"
+    ],
+    "2":[
+      "slightly ... allow"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":[
+      "rape",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usagov",
+      "173"
+    ],
+    "1":[
+      "---cvl",
+      "---cop",
+      "023"
+    ],
+    "2":[
+      "mys",
+      "---ppl",
+      "08"
+    ]
+  }
+}

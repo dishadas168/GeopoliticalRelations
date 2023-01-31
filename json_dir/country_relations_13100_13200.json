@@ -1,0 +1,347 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/vladimir-putin-video-missiles-florida_us_5a985961e4b0a0ba4ad157f0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jeff-sessions-nickname_us_5a9779d2e4b0e6a52304956a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/woman-poisoned-friend-cheesecake-identity-theft_us_5a983d07e4b0479c025055ae",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/democrats-banks-racial-discrimination_us_5a96e489e4b0e6a523042fc8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/jared-kushner-loans_us_5a96fd89e4b0e6a52304458d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/marco-rubio-parkland-shooting_us_5a96d0a4e4b07dffeb6ee3c2",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/warriors-students-african-american-museum-white-house_us_5a959da4e4b036ab0142fb6e",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-abortion-end-in-our-time_us_5a967267e4b07dffeb6dbc05"
+  },
+  "headline":{
+    "0":"Vladimir Putin Releases Video Simulation Of Russian Missiles Striking Florida",
+    "1":"Donald Trump Hits Jeff Sessions With A Belittling Nickname",
+    "2":"Woman Accused Of Poisoning Friend With Cheesecake In Identity Theft Plot",
+    "3":"A Dozen Democrats Want To Help Banks Hide Racial Discrimination In Mortgages",
+    "4":"New York Regulator Asks Deutsche Bank, Others About Kushner Loans",
+    "5":"Rubio Bill Would Let 18-Year-Olds In D.C. Buy Assault-Style Guns -- Despite What He Just Said",
+    "6":"Golden State Warriors Skip White House, Take Students To African American Museum Instead",
+    "7":"Mike Pence Suggests Legal Abortions In U.S. Could End \u2018In Our Time\u2019"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"BLACK VOICES",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Living in dystopia sure is getting exhausting.",
+    "1":"The president continues to attack his own attorney general.",
+    "2":"The suspect, wanted for murder in Russia, targeted a woman who looked like her and spoke Russian, authorities said.",
+    "3":"These senators are finding common ground with President Trump.",
+    "4":"The regulator also asked for information related to other family members.",
+    "5":"\u201cI absolutely believe that in this country, if you are 18 years of age, you should not be able to buy a rifle,\u201d the Florida senator said at last week's CNN town hall.",
+    "6":"\u201cWe\u2019re not going to politicize anything. We\u2019re going to hang out with some kids.\"",
+    "7":"\"This will be the generation that restores life in America,\u201d the vice president told a group of anti-abortion activists."
+  },
+  "authors":{
+    "0":"Sebastian Murdock",
+    "1":"Ed Mazza",
+    "2":"David Moye",
+    "3":"Zach Carter",
+    "4":"Karen Freifeld, Reuters",
+    "5":"Marina Fang",
+    "6":"Princess-India Alexander",
+    "7":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-03-01 00:00:00",
+    "1":"2018-03-01 00:00:00",
+    "2":"2018-03-01 00:00:00",
+    "3":"2018-03-01 00:00:00",
+    "4":"2018-02-28 00:00:00",
+    "5":"2018-02-28 00:00:00",
+    "6":"2018-02-28 00:00:00",
+    "7":"2018-02-28 00:00:00"
+  },
+  "actor1":{
+    "0":"rusgov",
+    "1":"---gov",
+    "2":"rus",
+    "3":"---leg",
+    "4":"---gov",
+    "5":"usaleg",
+    "6":"usagov",
+    "7":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"---gov",
+    "4":"mncdeu",
+    "5":"med",
+    "6":"usaedu",
+    "7":"---opp"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"190",
+    "2":"190",
+    "3":"090",
+    "4":"020",
+    "5":"010",
+    "6":"171",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":-2.0,
+    "4":3.0,
+    "5":0.0,
+    "6":-9.2,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "attorney general",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "woman",
+      "~cvl",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "senators",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "regulator",
+      "~gov",
+      "~",
+      "deutsche bank",
+      "mncdeu",
+      "deutsche",
+      "bank"
+    ],
+    "5":[
+      "florida",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "6":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "students",
+      "~edu",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vladimir putin",
+      "florida"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "russia",
+      "woman"
+    ],
+    "3":[
+      "senators",
+      "president"
+    ],
+    "4":[
+      "regulator",
+      "deutsche bank"
+    ],
+    "5":[
+      "florida senator",
+      "cnn"
+    ],
+    "6":[
+      "white house",
+      "---"
+    ],
+    "7":[
+      "president",
+      "activists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vladimir putin",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "russian federation",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "deutsche bank"
+    ],
+    "5":[
+      "united states of america",
+      "cnn"
+    ],
+    "6":[
+      "white house",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "releases"
+    ],
+    "1":[
+      "continues ... attack"
+    ],
+    "2":[
+      "targeted"
+    ],
+    "3":[
+      "are finding <&evidence>"
+    ],
+    "4":[
+      "asks"
+    ],
+    "5":[
+      "said"
+    ],
+    "6":[
+      "take"
+    ],
+    "7":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "labor_strike",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "students",
+      "1"
+    ],
+    "7":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "rusgov",
+      "usa",
+      "084"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "rus",
+      "---cvl",
+      "190"
+    ],
+    "3":[
+      "---leg",
+      "---gov",
+      "090"
+    ],
+    "4":[
+      "---gov",
+      "mncdeu",
+      "020"
+    ],
+    "5":[
+      "usaleg",
+      "med",
+      "010"
+    ],
+    "6":[
+      "usagov",
+      "usaedu",
+      "171"
+    ],
+    "7":[
+      "---gov",
+      "---opp",
+      "010"
+    ]
+  }
+}

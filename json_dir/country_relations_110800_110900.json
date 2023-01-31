@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkeys-president-erdogan-women_n_6211158.html"
+  },
+  "headline":{
+    "0":"Turkish President Says Women And Men Can't Be Equal"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Sophia Jones"
+  },
+  "date":{
+    "0":"2014-11-24 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "president",
+      "turgov",
+      "turkey",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish president",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-charlotte-postpone_us_57e5df00e4b08d73b8318b39",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-black-history-museum_us_57e6d9ede4b08d73b831a6a0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/calais-migrants-to-be-dispersed-through-france_us_57e67f5ee4b08d73b831950a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/erdogans-big-new-york-week-ends-not-with-a-bang-but-a-whimper_us_57e5993ce4b0e28b2b54153f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/george-w-bush-obama-picture_us_57e6b86ce4b08d73b8319e77",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/time-for-kurdexit-from-ir_b_12114648.html",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/police-endorsement-of-tru_b_12154694.html",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-keith-scott-shooting-video_us_57e593b7e4b0e28b2b540a7c"
+  },
+  "headline":{
+    "0":"Hillary Clinton Postpones Charlotte Visit After Mayor's Request",
+    "1":"Obama Says New Black History Museum Tells Story Of America",
+    "2":"France's Hollande Says Calais Migrants To Be Dispersed Through Country",
+    "3":"Erdogan Banned Turkish Reporter From Twitter Because He Doesn't Care What You Think",
+    "4":"George W. Bush Interrupted Obama To Ask Him To Snap A Picture Of Him And It Was Amazing",
+    "5":"Time For Kurdexit From Iraq",
+    "6":"Police Endorsement Of Trump Shows Black Lives Don't Matter",
+    "7":"Hillary Clinton, Others Call On Charlotte Police To Release Their Video Of Keith Scott Killing"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"WORLDPOST",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Protests over a police killing have increased demand for law enforcement in the city.",
+    "1":"\u201cThis national museum helps to tell a richer and fuller story of who we are,\u201d",
+    "2":"The president said his goal is to dismantle the Calais camp completely.",
+    "3":"The outcry against this latest repression is unlikely to deter the Turkish president.",
+    "4":"This is too good.",
+    "5":"The American University of Kurdistan (AUK) and the Institute for Media and Political Research (IMPR) in August 2016 conducted a face-to-face survey in the Kurdistan Region of Iraq to measure the level of support for independence.",
+    "6":"When one group of Americans is brutalized, there is no \"justice for all.\" Every American is at risk. But last straw came when the Fraternal Order of Police chose to endorse Donald Trump for President.",
+    "7":"The police chief said it would not be made public anytime soon."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Mathieu Rosemain and Emmanuel Jarry, Reuters",
+    "3":"Akbar Shahid Ahmed",
+    "4":"Sam Levine",
+    "5":"Delovan Barwari, ContributorDelovan Barwari is the Editor-in-Chief of Kurdistan24 English",
+    "6":"Melissa Bartick, ContributorInternist and an Assistant Professor in Medicine at Harvard Me...",
+    "7":"Paige Lavender"
+  },
+  "date":{
+    "0":"2016-09-24 00:00:00",
+    "1":"2016-09-24 00:00:00",
+    "2":"2016-09-24 00:00:00",
+    "3":"2016-09-24 00:00:00",
+    "4":"2016-09-24 00:00:00",
+    "5":"2016-09-24 00:00:00",
+    "6":"2016-09-24 00:00:00",
+    "7":"2016-09-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"fra",
+    "3":"turgov",
+    "4":"usaeli",
+    "5":"usaedumed",
+    "6":"---cop",
+    "7":"usaeli"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usa",
+    "2":"fracvl",
+    "3":"turmed",
+    "4":"usaeli",
+    "5":"irq",
+    "6":"---gov",
+    "7":"usacop"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010",
+    "2":"010",
+    "3":"172",
+    "4":"020",
+    "5":"060",
+    "6":"051",
+    "7":"020"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-5.0,
+    "4":3.0,
+    "5":6.0,
+    "6":3.4,
+    "7":3.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "france",
+      "hollande",
+      "fra",
+      "fragov",
+      "france",
+      "francois",
+      "hollande",
+      "calais",
+      "migrants",
+      "fracvl",
+      "france",
+      "~"
+    ],
+    "3":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "turkish",
+      "reporter",
+      "turmed",
+      "turkey",
+      "~"
+    ],
+    "4":[
+      "george w. bush",
+      "obama",
+      "usaeli",
+      "usagov",
+      "george",
+      "w.",
+      "bush",
+      "barack",
+      "obama"
+    ],
+    "5":[
+      "media",
+      "~med",
+      "~",
+      "american",
+      "university",
+      "media",
+      "usaedumed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "6":[
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "7":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "charlotte",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "police"
+    ],
+    "1":[
+      "obama",
+      "america"
+    ],
+    "2":[
+      "france",
+      "calais migrants",
+      "hollande",
+      "calais migrants"
+    ],
+    "3":[
+      "erdogan",
+      "turkish reporter"
+    ],
+    "4":[
+      "george w. bush",
+      "george w. bush",
+      "obama",
+      "george w. bush",
+      "george w. bush",
+      "obama",
+      "obama",
+      "obama"
+    ],
+    "5":[
+      "american university ... media",
+      "iraq"
+    ],
+    "6":[
+      "police",
+      "president"
+    ],
+    "7":[
+      "hillary clinton",
+      "charlotte police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ],
+    "2":[
+      "france",
+      "france",
+      "francois hollande",
+      "france"
+    ],
+    "3":[
+      "recep tayyip erdogan",
+      "turkey"
+    ],
+    "4":[
+      "george w. bush",
+      "george w. bush",
+      "barack obama",
+      "george w. bush",
+      "george w. bush",
+      "barack obama",
+      "barack obama",
+      "barack obama"
+    ],
+    "5":[
+      "united states of america",
+      "iraq"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "hillary clinton",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have increased"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "says <fracvl> ... dispersed",
+      "says <fracvl> ... dispersed"
+    ],
+    "3":[
+      "banned"
+    ],
+    "4":[
+      "",
+      "",
+      "",
+      ""
+    ],
+    "5":[
+      "conducted"
+    ],
+    "6":[
+      "chose ... endorse"
+    ],
+    "7":[
+      "call on"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "2"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "postsecondary_education",
+      "1"
+    ],
+    "6":[
+      "security_services",
+      "1"
+    ],
+    "7":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cop",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "fra",
+      "fracvl",
+      "010",
+      "fragov",
+      "fracvl",
+      "010"
+    ],
+    "3":[
+      "turgov",
+      "turmed",
+      "172"
+    ],
+    "4":[
+      "usaeli",
+      "usaeli",
+      "020",
+      "usagov",
+      "usaeli",
+      "020",
+      "usaeli",
+      "usagov",
+      "020",
+      "usagov",
+      "usagov",
+      "020",
+      "usaeli",
+      "usaeli",
+      "020",
+      "usagov",
+      "usaeli",
+      "020",
+      "usaeli",
+      "usagov",
+      "020",
+      "usagov",
+      "usagov",
+      "020"
+    ],
+    "5":[
+      "usaedumed",
+      "irq",
+      "060"
+    ],
+    "6":[
+      "---cop",
+      "---gov",
+      "051"
+    ],
+    "7":[
+      "usaeli",
+      "usacop",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-young-is-too-young_us_5b9cd234e4b03a1dcc8220cb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-5-worst-mistakes-we-m_us_5b9cd1e3e4b03a1dcc821c8d"
+  },
+  "headline":{
+    "0":"How Young Is Too Young for Internet Safety?",
+    "1":"The 5 Worst Mistakes We Make During A Divorce"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"DIVORCE"
+  },
+  "short_description":{
+    "0":"British charity ChildLine is urging that kids as young as 5 be taught Internet safety, telling the BBC that the issue is an \"e-safety time bomb\" and \"one of the biggest child protection issues of our time.\"",
+    "1":"Divorce can be one of the most stressful events in life, second only to a spouse dying. In fact, a divorce can become such a complicated and nasty affair that many people have joked that a spouse dying is a less stressful event because at least you don't have to fight the deceased in court!"
+  },
+  "authors":{
+    "0":"Parenting.com, Contributor\nOnline parenting resource",
+    "1":"Dr. Jeff Gardere, Contributor\n\u201cAmerica\u2019s Psychologist,\" relationship expert"
+  },
+  "date":{
+    "0":"2013-02-18 00:00:00",
+    "1":"2013-02-18 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"---jud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "bbc",
+      "med",
+      "bbc"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "british",
+      "bbc"
+    ],
+    "1":[
+      "people",
+      "court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "bbc"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... telling"
+    ],
+    "1":[
+      "have ... fight"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---jud",
+      "190"
+    ]
+  }
+}

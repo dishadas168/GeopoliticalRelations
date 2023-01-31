@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-senate-gives-ok-to-bill-curbing-transgender-bathroom-access_us_58c8768fe4b01c029d773af7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-history-of-dutch-populism-from-the-murder-of-pim_us_58c817a4e4b0d06aa658050e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/president-trump-beware-of-saudi-snake-oil-that-fuels_us_58c80efde4b0d06aa65804f1"
+  },
+  "headline":{
+    "0":"Texas Senate Gives OK To Bill Curbing Transgender Bathroom Access",
+    "1":"A History Of Dutch Populism, From The Murder Of Pim Fortuyn To The Rise Of Geert Wilders",
+    "2":"President Trump: Beware Of Saudi Snake Oil That Fuels Terror"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The bill would require people to use restrooms that correspond with the gender on their birth certificate.",
+    "1":"Jacques Paulus Koenis, Maastricht University The 2017 Dutch election has taken on a significance for the international media",
+    "2":"Dear President Trump, This week you are scheduled to meet with Saudi Deputy Crown Prince Mohammed Bin Salman.\u00a0 As a 9\/11"
+  },
+  "authors":{
+    "0":"Jon Herskovitz, Reuters",
+    "1":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "2":"Kristen Breitweiser, Contributor9\/11 widow and activist"
+  },
+  "date":{
+    "0":"2017-03-14 00:00:00",
+    "1":"2017-03-14 00:00:00",
+    "2":"2017-03-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"nldedu",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usagovleg",
+    "1":"---med",
+    "2":"'ulukalala_lavaka_ata_"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"171",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-9.2,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "texas",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ],
+    "1":[
+      "university",
+      "dutch",
+      "nldedu",
+      "~",
+      "netherlands",
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "university ... dutch",
+      "media"
+    ],
+    "2":[
+      "president",
+      "prince"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "netherlands",
+      "---"
+    ],
+    "2":[
+      "---",
+      "prince"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "has taken"
+    ],
+    "2":[
+      "are ... meet"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagovleg",
+      "060",
+      "usagovleg",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "nldedu",
+      "---med",
+      "171"
+    ],
+    "2":[
+      "---gov",
+      "'ulukalala_lavaka_ata_",
+      "040"
+    ]
+  }
+}

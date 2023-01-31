@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/best-cities-for-men-mens-health-magazine-2012_us_5b9ca999e4b03a1dcc80a7e3"
+  },
+  "headline":{
+    "0":"Best Cities For Men: Men's Health Releases 2013 Ranking"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"It's that time of year again -- Men's Health magazine has released its 12th annual list of the best cities for men. CORRECTION"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-12-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"084"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "magazine",
+      "~med",
+      "~",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men ... magazine",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has released"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---ppl",
+      "084"
+    ]
+  }
+}

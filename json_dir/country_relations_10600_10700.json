@@ -1,0 +1,179 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kristen-hatten-white-nationalist_us_5acd0d5be4b0259339de14f8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/epa-gao-report_us_5ad4c289e4b077c89ceb3656",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kellyanne-conway-james-comey_us_5ad486e0e4b077c89cea8bfe",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/r-kelly-accused-of-knowingly-and-intentionally-infecting-woman-with-std_us_5ad4a519e4b077c89ceae97f"
+  },
+  "headline":{
+    "0":"Anti-Abortion Leader Emerges As White Nationalist",
+    "1":"EPA Spending On Scott Pruitt's Soundproof Phone Booth Broke Federal Law, Government Watchdog Finds",
+    "2":"Kellyanne Conway Fumes Over James Comey's Tell-All Interview",
+    "3":"R. Kelly Accused Of 'Knowingly And Intentionally' Infecting Woman With STD"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The Dallas Morning News and anti-abortion groups are distancing themselves from Kristen Hatten.",
+    "1":"The agency spent $43,000 on the phone booth.",
+    "2":"The White House counselor blasted the former FBI director for not discussing his concerns \"under oath.\" But he did last year.",
+    "3":"The woman filed a criminal complaint last week, claiming Kelly caused \"serious bodily injury\" during a relationship that began when she was 19."
+  },
+  "authors":{
+    "0":"Laura Bassett",
+    "1":"Alexander C. Kaufman",
+    "2":"Hayley Miller",
+    "3":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2018-04-17 00:00:00",
+    "1":"2018-04-16 00:00:00",
+    "2":"2018-04-16 00:00:00",
+    "3":"2018-04-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagovenv",
+    "2":"---jud",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"usacop",
+    "3":"---crm"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"190",
+    "2":"111",
+    "3":"114"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-2.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "counselor",
+      "~jud",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dallas",
+      "dallas"
+    ],
+    "1":[
+      "epa",
+      "government"
+    ],
+    "2":[
+      "counselor",
+      "fbi"
+    ],
+    "3":[
+      "woman",
+      "criminal"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "environmental protection agency",
+      "---"
+    ],
+    "2":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are distancing ... from"
+    ],
+    "1":[
+      "broke"
+    ],
+    "2":[
+      "blasted ... for"
+    ],
+    "3":[
+      "filed ... complaint"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "110"
+    ],
+    "1":[
+      "usagovenv",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "---jud",
+      "usacop",
+      "111"
+    ],
+    "3":[
+      "---cvl",
+      "---crm",
+      "114"
+    ]
+  }
+}

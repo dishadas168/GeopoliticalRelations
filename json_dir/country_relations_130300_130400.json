@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/angela-merkel-snl-weekend-update_us_5bad364ae4b04234e8580f4a"
+  },
+  "headline":{
+    "0":"Angela Merkel Stops By 'SNL' Weekend Update To Talk Obama, Putin And Boob Touches"
+  },
+  "category":{
+    "0":"COMEDY"
+  },
+  "short_description":{
+    "0":"Angela Merkel is sick of cleaning up everyone else's messes. After confirming that Vladimir Putin had begun a partial withdrawal"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-04-06 00:00:00"
+  },
+  "actor1":{
+    "0":"deugov"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "angela merkel",
+      "deugov",
+      "angela",
+      "merkel",
+      "obama",
+      "putin",
+      "usagov",
+      "rusgov",
+      "barack",
+      "obama",
+      "vladimir",
+      "putin"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "angela merkel",
+      "obama",
+      "angela merkel",
+      "putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "angela merkel",
+      "barack obama",
+      "angela merkel",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "stops ... talk",
+      "stops ... talk"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "deugov",
+      "usagov",
+      "010",
+      "deugov",
+      "rusgov",
+      "010"
+    ]
+  }
+}

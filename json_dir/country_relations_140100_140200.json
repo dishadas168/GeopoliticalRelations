@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cheating-women-holidays_us_5b9dbb95e4b03a1dcc8c2dfa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/little-girl-would-rather-go-to-mobile-alabama_us_5b9dbae1e4b03a1dcc8c20d0"
+  },
+  "headline":{
+    "0":"New Survey Sheds Light On Cheaters' Holiday Plans",
+    "1":"Little Girl Would Rather Go To Mobile, Alabama Than The 'Happiest Place On Earth'"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"Founder of Victoria Milan Sigurd Vedal says that figure doesn't come as a shock to him, explaining, \"Affairs are helping",
+    "1":"Little girl thinks she is going on a trip. Mom keeps the destination a secret until they are at the airport -- because it"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2013-12-20 00:00:00",
+    "1":"2013-12-19 00:00:00"
+  },
+  "actor1":{
+    "0":"ita",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "milan",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "girl",
+      "~cvl",
+      "~",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "milan",
+      "milan"
+    ],
+    "1":[
+      "girl",
+      "alabama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "italy"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... come ... to"
+    ],
+    "1":[
+      "would ... go"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ita",
+      "ita",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scalia-public-unions-friedrichs_us_56956a7ae4b086bc1cd5931e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/central-american-refugee-program_us_5696648ee4b09dbb4bad60f3",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/mobile.philly.com\/beta?wss=\/philly\/news&id=364939631"
+  },
+  "headline":{
+    "0":"Looks Like Justice Scalia Won't Be Saving Public-Sector Unions After All",
+    "1":"U.S. Will Ramp Up Efforts To Help Central American Refugees",
+    "2":"Philly Newspaper Mogul Donates Holdings To Nonprofit"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"Union advocates had hoped the conservative justice would lend them a hand in a big labor case.",
+    "1":"Critics have accused the administration of a hemispheric bias against Central American refugees.",
+    "2":"The owner of The Inquirer, the Philadelphia Daily News, and Philly.com has donated the news organizations to a newly created"
+  },
+  "authors":{
+    "0":"Cristian Farias",
+    "1":"Elise Foley",
+    "2":""
+  },
+  "date":{
+    "0":"2016-01-13 00:00:00",
+    "1":"2016-01-13 00:00:00",
+    "2":"2016-01-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"usaref",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"021",
+    "1":"070",
+    "2":"070"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":7.0,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "advocates",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "refugees",
+      "usaref",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "news organizations",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocates",
+      "advocates"
+    ],
+    "1":[
+      "u.s.",
+      "american refugees"
+    ],
+    "2":[
+      "philadelphia",
+      "news ... organizations"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had hoped ... lend"
+    ],
+    "1":[
+      "will ... help"
+    ],
+    "2":[
+      "has donated"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "021"
+    ],
+    "1":[
+      "usa",
+      "usaref",
+      "070"
+    ],
+    "2":[
+      "usa",
+      "---med",
+      "070"
+    ]
+  }
+}

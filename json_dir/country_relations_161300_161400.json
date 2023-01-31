@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-the-fashion-industry_us_5b9d24a2e4b03a1dcc84d79d"
+  },
+  "headline":{
+    "0":"What the Fashion Industry Must Learn from the Factory Collapse in Bangladesh"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"The fashion industry is broken not because fast fashion exists; it's suffering because designers are beginning to think like they are fast fashion outlets. It's not an easy problem to fix, but the first step is to understand that we are perpetuating our own problems."
+  },
+  "authors":{
+    "0":"Benish Shah, Contributor\nTech Market Strategies; Lawyer"
+  },
+  "date":{
+    "0":"2013-05-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"bgd"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "industry",
+      "~bus",
+      "~",
+      "bangladesh",
+      "bgd",
+      "bangladesh"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "industry",
+      "bangladesh"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "bangladesh"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must learn"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "bgd",
+      "040"
+    ]
+  }
+}

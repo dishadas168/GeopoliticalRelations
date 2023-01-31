@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/women-in-business_b_7426768.html"
+  },
+  "headline":{
+    "0":"Women in Business Q&A: Sam King, Vice President of Strategy and Corporate Development, Veracode"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Ms. King serves as a mentor for the Boston Product Management Association and is an executive member of the working mothers group in her town. She loves to travel and enjoys rock climbing and yoga."
+  },
+  "authors":{
+    "0":"Laura Dunn, ContributorSocial Media and Communications Professional, Founder and Edit..."
+  },
+  "date":{
+    "0":"2015-05-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "king",
+      "~gov",
+      "~",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mothers",
+      "~cvl",
+      "~",
+      "mothers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "king",
+      "boston"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... serves"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "060"
+    ]
+  }
+}

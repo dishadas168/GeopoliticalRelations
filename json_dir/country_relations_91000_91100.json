@@ -1,0 +1,241 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yik-yak-photos_us_55a801dee4b04740a3df4e45",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/judge-rules-utah-must-recognize-same-sex-parents-on-childs-birth-certificate_us_55a6fcabe4b0896514d054f7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders_us_55a7d087e4b0896514d07834",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theatlantic.com\/politics\/archive\/2015\/07\/what-other-activists-can-learn-from-the-fight-for-gay-marriage\/398417\/",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/obama-is-about-to-visit-a-prison-we-asked-2016-contenders-if-they-have-ever-been_us_55a6a9d4e4b04740a3deb9bc"
+  },
+  "headline":{
+    "0":"Yik Yak Is Now Allowing Users To Post Photos",
+    "1":"Judge Rules Utah Must Recognize Same Sex Parents On Child's Birth Certificate",
+    "2":"Bernie Sanders Visits Texas To See If He Can Keep Drawing Huge Crowds",
+    "3":"What Every Activist Can Learn From Scrappy Gay Marriage Advocates",
+    "4":"Obama Is About To Visit A Prison. We Asked 2016 Contenders If They Have Ever Been."
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"IMPACT",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The company warns people against posting things they wouldn't send to their mother.",
+    "1":"The couple sued after hospital staff refused to list both moms on birth certificate after their child was born.",
+    "2":"Going to Texas furthers Sanders' argument that progressive candidates shouldn\u2019t confine themselves to the coalition of voters that elected President Barack Obama.",
+    "3":"The movement for gay marriage is one of the most successful issue campaigns of the last several decades, having convinced",
+    "4":"WASHINGTON -- When President Barack Obama visits a federal prison on Thursday, it will mark the first time during his presidency"
+  },
+  "authors":{
+    "0":"Tyler Kingkade",
+    "1":"Lindsay Whitehurst, Associated Press",
+    "2":"Samantha Lachman",
+    "3":"",
+    "4":"Dana Liebelson"
+  },
+  "date":{
+    "0":"2015-07-16 00:00:00",
+    "1":"2015-07-16 00:00:00",
+    "2":"2015-07-16 00:00:00",
+    "3":"2015-07-15 00:00:00",
+    "4":"2015-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usajud",
+    "2":"usagov",
+    "3":"---opp",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"---jud",
+    "4":"---cop"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"051",
+    "2":"040",
+    "3":"040",
+    "4":"042"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":3.4,
+    "2":1.0,
+    "3":1.0,
+    "4":1.9
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "judge",
+      "utah",
+      "usajud",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "activist",
+      "~opp",
+      "~",
+      "advocates",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "people"
+    ],
+    "1":[
+      "judge ... utah",
+      "child"
+    ],
+    "2":[
+      "president barack obama",
+      "texas",
+      "president barack obama",
+      "voters"
+    ],
+    "3":[
+      "activist",
+      "advocates"
+    ],
+    "4":[
+      "obama",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "united states of america",
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warns"
+    ],
+    "1":[
+      "must recognize"
+    ],
+    "2":[
+      "going",
+      "furthers ... confine"
+    ],
+    "3":[
+      "can learn"
+    ],
+    "4":[
+      "visit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":[
+      "activism",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---ppl",
+      "130"
+    ],
+    "1":[
+      "usajud",
+      "---cvl",
+      "051"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "040",
+      "usagov",
+      "---cvl",
+      "173"
+    ],
+    "3":[
+      "---opp",
+      "---jud",
+      "040"
+    ],
+    "4":[
+      "usagov",
+      "---cop",
+      "042"
+    ]
+  }
+}

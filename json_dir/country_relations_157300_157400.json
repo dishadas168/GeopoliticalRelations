@@ -1,0 +1,103 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mers-coronavirus-hospitals-risk_us_5b9d46abe4b03a1dcc863577",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/angela-merkel-wide-legged-pants_us_5b9d468de4b03a1dcc863361"
+  },
+  "headline":{
+    "0":"MERS Coronavirus Is Serious Risk In Hospitals, Experts Say",
+    "1":"Angela Merkel's Wide-Legged Pants Give Us Pause (PHOTOS)"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Nine infected patients in Saudi Arabia had received dialysis treatment at the same hospital, some at the same time. Eight",
+    "1":"But hey, we're sticklers for well-tailored hems. Is it ever OK to have pants that drag? Now this is more like it... PHOTOS"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2013-06-19 00:00:00",
+    "1":"2013-06-19 00:00:00"
+  },
+  "actor1":{
+    "0":"sau",
+    "1":"deugov"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"deugov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "angela merkel",
+      "deugov",
+      "angela",
+      "merkel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "saudi arabia",
+      "hospital"
+    ],
+    "1":[
+      "angela merkel",
+      "angela merkel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "saudi arabia",
+      "---"
+    ],
+    "1":[
+      "angela merkel",
+      "angela merkel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had received ... treatment"
+    ],
+    "1":[
+      "'s ... give"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "sau",
+      "---hlh",
+      "060"
+    ],
+    "1":[
+      "deugov",
+      "deugov",
+      "060"
+    ]
+  }
+}

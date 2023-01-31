@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-fbi-presidents-day-attack_us_58ac8cbfe4b06e5f777b3044"
+  },
+  "headline":{
+    "0":"Army Vet Caught In FBI Sting Allegedly Plotted ISIS-Inspired Presidents Day Attack"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Robert Lorenzo Hester, 25, of Missouri, wanted \"global jihad,\" authorities alleged."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2017-02-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "authorities",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri",
+      "authorities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_jihad",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---gov",
+      "030"
+    ]
+  }
+}

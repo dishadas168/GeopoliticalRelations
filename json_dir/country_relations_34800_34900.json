@@ -1,0 +1,234 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nixon-library-donald-trump-fire-fbi-director_us_5912677ae4b050bdca609b28",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-trump-opinion-poll_us_591346d3e4b0a58297e1a5c0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-hbcu-commencement_us_591316f4e4b05e1ca2038ada",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/richard-burr-mark-warner-trump-russia_us_59132a10e4b05e1ca203badd",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/russia-foreign-minister-trump-election-interference_us_591330f7e4b05e1ca203ca11"
+  },
+  "headline":{
+    "0":"Nixon Library To Trump: Not Even Nixon Did That",
+    "1":"The News On Russia And Trump Is Evolving, But People's Opinions Are Not",
+    "2":"50,000 Petitioners Say Betsy DeVos Has No Place At HBCU Commencement",
+    "3":"Senate Intel Leaders Split On Need For Independent Trump-Russia Probe",
+    "4":"Russian Foreign Minister And Trump Agree: No Need To Probe Election Meddling"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BLACK VOICES",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"No, the nation's 37th president never fired his FBI director.",
+    "1":"Trump voters don't think his administration's relationship with the Kremlin is a problem. Clinton voters do.",
+    "2":"People plan to continue protesting while DeVos speaks at Bethune-Cookman University's graduation ceremonies.",
+    "3":"Mark Warner (D) says it's time for a special counsel. Richard Burr (R) says his committee's investigation is enough.",
+    "4":"President Donald Trump met with Sergey Lavrov and the Russian ambassador just a day after firing James Comey."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Ariel Edwards-Levy",
+    "2":"Taryn Finley",
+    "3":"Jennifer Bendery",
+    "4":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2017-05-10 00:00:00",
+    "1":"2017-05-10 00:00:00",
+    "2":"2017-05-10 00:00:00",
+    "3":"2017-05-10 00:00:00",
+    "4":"2017-05-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"usagovleg",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"rus",
+    "4":"rusgov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040",
+    "2":"010",
+    "3":"100",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":0.0,
+    "3":-5.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "voters",
+      "~cvl",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "kremlin",
+      "rusgov",
+      "kremlin"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "sergey lavrov",
+      "russian",
+      "ambassador",
+      "rusgov",
+      "rusgov",
+      "sergey",
+      "lavrov",
+      "russian",
+      "federation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "fbi"
+    ],
+    "1":[
+      "voters",
+      "administration"
+    ],
+    "2":[
+      "people",
+      "university"
+    ],
+    "3":[
+      "senate",
+      "russia"
+    ],
+    "4":[
+      "president",
+      "sergey lavrov"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "russian federation"
+    ],
+    "4":[
+      "---",
+      "sergey lavrov"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fired"
+    ],
+    "1":[
+      "do ... think"
+    ],
+    "2":[
+      "plan ... protesting ... speaks"
+    ],
+    "3":[
+      "need"
+    ],
+    "4":[
+      "met"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":[
+      "postsecondary_education",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usacop",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "---ppl",
+      "---edu",
+      "010"
+    ],
+    "3":[
+      "usagovleg",
+      "rus",
+      "100"
+    ],
+    "4":[
+      "---gov",
+      "rusgov",
+      "040",
+      "---gov",
+      "rusgov",
+      "040"
+    ]
+  }
+}

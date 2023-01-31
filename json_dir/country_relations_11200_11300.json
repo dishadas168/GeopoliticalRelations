@@ -1,0 +1,354 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-new-long-war_us_5ac3e203e4b0e56fdf750418",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fox-news-ed-henry-scott-pruitt_us_5ac533ebe4b056a8f597eb28",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mueller-trump-report_us_5ac42c87e4b063ce2e56fd13",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/juli-briskman-flipping-off-trump-lawsuit_us_5ac4dfbae4b093a1eb212528",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/black-students-punishment-betsy-devos_us_5ac539b6e4b056a8f597f2a0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/act-to-end-racism-rally-mlk-anniversary_us_5ac4f5f4e4b0ac473edc55f0",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/jim-carrey-sean-hannity_us_5ac44259e4b093a1eb2028f0",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/women-describing-themselves-the-way-a-male-author-writer-would-twitter_us_5ac524cae4b09ef3b243163f"
+  },
+  "headline":{
+    "0":"Could The Cold War Return With A Vengeance?",
+    "1":"Fox News' Ed Henry Won't Let Scott Pruitt Off The Hook In Testy Exchange",
+    "2":"Mueller Reportedly Is Making A List Of All The Stuff Trump Has Done In Office",
+    "3":"Woman Fired After Flipping Off Trump's Motorcade Sues Former Employer",
+    "4":"In Both Rich And Poor Schools, Black Students Face Harsher Punishments",
+    "5":"Faith Groups Rally Against Racism On Anniversary Of Martin Luther King Jr.'s Death",
+    "6":"Jim Carrey Paints Sean Hannity With His Perfect Partner In Artistic Smackdown",
+    "7":"Women Are Describing Themselves As A Male Writer Would, And It\u2019s Brilliant"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"BLACK VOICES",
+    "6":"ENTERTAINMENT",
+    "7":"WOMEN"
+  },
+  "short_description":{
+    "0":"The Pentagon plans for a perpetual three-front \u201cLong War\u201d against China and Russia.",
+    "1":"The national correspondent says his interview with the EPA chief over huge staffer raises got \"a little combative.\"",
+    "2":"The special counsel has also told the president's lawyers that Trump is not a criminal target at this point.",
+    "3":"Juli Briskman claims Akima LLC broke state law when it fired her over a viral photo of her presidential insult.",
+    "4":"A new government watchdog report shows how black students and students with disabilities are punished more severely.",
+    "5":"Christians, Hindus, Muslims, Jews, Sikhs and others gathered in Washington to honor King's legacy.",
+    "6":"Actor's latest portrait gives right-wing media a grotesque makeover.",
+    "7":"A Twitter challenge that puts the male gaze in reverse has become delightfully feminist."
+  },
+  "authors":{
+    "0":"TomDispatch, Editorial Partner",
+    "1":"Rebecca Shapiro",
+    "2":"Nick Visser",
+    "3":"Jennifer Bendery",
+    "4":"Rebecca Klein",
+    "5":"Carol Kuruvilla",
+    "6":"Ed Mazza",
+    "7":"Elyse Wanshel"
+  },
+  "date":{
+    "0":"2018-04-04 00:00:00",
+    "1":"2018-04-04 00:00:00",
+    "2":"2018-04-04 00:00:00",
+    "3":"2018-04-04 00:00:00",
+    "4":"2018-04-04 00:00:00",
+    "5":"2018-04-04 00:00:00",
+    "6":"2018-04-04 00:00:00",
+    "7":"2018-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usamil",
+    "1":"---med",
+    "2":"---jud",
+    "3":"---cvl",
+    "4":"---gov",
+    "5":"---chrhinmusjew",
+    "6":"---eli",
+    "7":"---cvl"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"usagovenv",
+    "2":"---govjud",
+    "3":"---bus",
+    "4":"---edu",
+    "5":"usa",
+    "6":"---med",
+    "7":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"010",
+    "3":"173",
+    "4":"170",
+    "5":"040",
+    "6":"060",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-5.0,
+    "4":-7.0,
+    "5":1.0,
+    "6":6.0,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "china",
+      "russia",
+      "chn",
+      "rus",
+      "china",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "correspondent",
+      "~med",
+      "~",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ],
+    "2":[
+      "counsel",
+      "~jud",
+      "~",
+      "president",
+      "lawyers",
+      "~govjud",
+      "~",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "employer",
+      "~bus",
+      "~"
+    ],
+    "4":[
+      "government",
+      "~gov",
+      "~",
+      "students",
+      "students",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "5":[
+      "christians",
+      "hindus",
+      "muslims",
+      "jews",
+      "~chrhinmusjew",
+      "~",
+      "~",
+      "~",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "king",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "actor",
+      "~eli",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "7":[
+      "women",
+      "~cvl",
+      "~",
+      "male",
+      "writer",
+      "mdvmed",
+      "maldives",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pentagon",
+      "china",
+      "pentagon",
+      "russia"
+    ],
+    "1":[
+      "correspondent",
+      "epa"
+    ],
+    "2":[
+      "counsel",
+      "president ... lawyers"
+    ],
+    "3":[
+      "woman",
+      "employer"
+    ],
+    "4":[
+      "government",
+      "students ... students"
+    ],
+    "5":[
+      "christians ... hindus ... muslims ... jews",
+      "washington"
+    ],
+    "6":[
+      "actor",
+      "media"
+    ],
+    "7":[
+      "women",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states military",
+      "china",
+      "united states military",
+      "russian federation"
+    ],
+    "1":[
+      "---",
+      "environmental protection agency"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plans",
+      "plans"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "has ... told"
+    ],
+    "3":[
+      "sues"
+    ],
+    "4":[
+      "shows <~edu> ... punished"
+    ],
+    "5":[
+      "gathered"
+    ],
+    "6":[
+      "gives"
+    ],
+    "7":[
+      "are describing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "students",
+      "2"
+    ],
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usamil",
+      "chn",
+      "030",
+      "usamil",
+      "rus",
+      "030"
+    ],
+    "1":[
+      "---med",
+      "usagovenv",
+      "010"
+    ],
+    "2":[
+      "---jud",
+      "---govjud",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---bus",
+      "173"
+    ],
+    "4":[
+      "---gov",
+      "---edu",
+      "170"
+    ],
+    "5":[
+      "---chrhinmusjew",
+      "usa",
+      "040"
+    ],
+    "6":[
+      "---eli",
+      "---med",
+      "060"
+    ],
+    "7":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

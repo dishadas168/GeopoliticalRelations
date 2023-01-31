@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-copied-statute-senate_us_5890af09e4b02772c4e94770",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/crowdjustice-brexit-trump-muslim-ban_us_588fad45e4b02772c4e87f59",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/republican-senate-trump-immigration-refugee-order_us_588ff0a6e4b02772c4e8e32c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/as-many-states-roll-back-abortion-access-new-yorks-governor-wants-to-protect-it_us_5890b3dde4b02772c4e95128"
+  },
+  "headline":{
+    "0":"Betsy DeVos Copied Lines From Outside Sources, Failed To Cite Them In Answers To Senate",
+    "1":"Site That Helped Battle Brexit Will Fund Lawyers Challenging Trump Muslim Ban",
+    "2":"Senate GOP: Congress Might Need To Revise Trump\u2019s Refugee Ban If Questions Aren't Answered",
+    "3":"As Many States Roll Back Abortion Access, New York's Governor Wants To Protect It"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"A Senate committee is scheduled to vote on her nomination as education secretary on Tuesday.",
+    "1":"U.S. officials forced up to 60 people to surrender their legal status, according to a suit CrowdJustice is supporting.",
+    "2":"\"Obviously the communication was not there, interagency process was not there .... Chaos ensued.\"",
+    "3":"He proposed changing the state's constitution to protect Roe v. Wade."
+  },
+  "authors":{
+    "0":"Laura Barr\u00f3n-L\u00f3pez",
+    "1":"Akbar Shahid Ahmed",
+    "2":"Laura Barr\u00f3n-L\u00f3pez",
+    "3":"Catherine Pearson"
+  },
+  "date":{
+    "0":"2017-01-31 00:00:00",
+    "1":"2017-01-31 00:00:00",
+    "2":"2017-01-31 00:00:00",
+    "3":"2017-01-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"usa",
+    "2":"---leg",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---govedu",
+    "1":"---ppl",
+    "2":"---ref",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"170",
+    "2":"100",
+    "3":"0334"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-7.0,
+    "2":-5.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "education secretary",
+      "~govedu",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "congress",
+      "~leg",
+      "~",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "3":[
+      "new york",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "education secretary"
+    ],
+    "1":[
+      "u.s.",
+      "people"
+    ],
+    "2":[
+      "congress",
+      "refugee"
+    ],
+    "3":[
+      "new york ... governor",
+      "new york ... governor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... vote"
+    ],
+    "1":[
+      "forced"
+    ],
+    "2":[
+      "might need"
+    ],
+    "3":[
+      "wants ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---govedu",
+      "030"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "170"
+    ],
+    "2":[
+      "---leg",
+      "---ref",
+      "100"
+    ],
+    "3":[
+      "usagov",
+      "usagov",
+      "0334"
+    ]
+  }
+}

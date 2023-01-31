@@ -1,0 +1,174 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/torrentfreak.com\/itunes-is-illegal-under-uk-copyright-law-150805\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/state-marijuana-laws_us_55c3a74de4b0d9b743db4985",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/man-arrested-after-giving-random-child-wet-willy_us_55c36310e4b0d9b743daf4f0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/officer-gun-constitutionalist-crazy_us_55c399e3e4b0f1cbf1e413d1"
+  },
+  "headline":{
+    "0":"iTunes Is Illegal Under UK Copyright Law",
+    "1":"State Lawmakers Want Feds To Respect Their Marijuana Laws",
+    "2":"Man Arrested After Allegedly Giving Child Wet Willy",
+    "3":"Officer Draws Gun On Man Filming Him, Asks If He's 'Constitutionalist Crazy Guy'"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"POLITICS",
+    "2":"WEIRD NEWS",
+    "3":"CRIME"
+  },
+  "short_description":{
+    "0":"The High Court recently overturned private copying exceptions introduced last year by the UK Government, once again outlawing",
+    "1":"\u201cState lawmakers just sent a message to Congress that could not be any clearer.\"",
+    "2":"Ewwww.",
+    "3":"The man filming said he was trying to protect himself."
+  },
+  "authors":{
+    "0":"",
+    "1":"Matt Ferner",
+    "2":"Sebastian Murdock",
+    "3":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2015-08-06 00:00:00",
+    "1":"2015-08-06 00:00:00",
+    "2":"2015-08-06 00:00:00",
+    "3":"2015-08-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---leg",
+    "2":"---ppl",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"gbrgov",
+    "1":"---leg",
+    "2":"---cvl",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"130",
+    "2":"173",
+    "3":"074"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-4.4,
+    "2":-5.0,
+    "3":8.5
+  },
+  "nouns":{
+    "0":[
+      "high court",
+      "~jud",
+      "~",
+      "the uk",
+      "government",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "1":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "high court",
+      "the ... uk government"
+    ],
+    "1":[
+      "lawmakers",
+      "lawmakers"
+    ],
+    "2":[
+      "man",
+      "child"
+    ],
+    "3":[
+      "man",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "overturned ... introduced"
+    ],
+    "1":[
+      "sent ... message"
+    ],
+    "2":[
+      "arrested"
+    ],
+    "3":[
+      "said ... was ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "gbrgov",
+      "040"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "130"
+    ],
+    "2":[
+      "---ppl",
+      "---cvl",
+      "173"
+    ],
+    "3":[
+      "---ppl",
+      "---ppl",
+      "074"
+    ]
+  }
+}

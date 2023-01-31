@@ -1,0 +1,192 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-endorses-clinton_us_57561095e4b0ca5c7b4fe067",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/border-militia-child-molestation-arizona_us_57597f15e4b0e39a28acb1ae",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.politico.com\/story\/2016\/06\/fbi-petraeus-shared-top-secret-info-with-reporters-224023",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/this-wonder-woman-totally-crushed-the-american-ninja-warrior-course_us_57581ad3e4b00f97fba6b456"
+  },
+  "headline":{
+    "0":"Obama Endorses Hillary Clinton",
+    "1":"Border Militia Co-Founder Convicted Of Child Molestation In Arizona",
+    "2":"FBI Claimed Petraeus Shared \u2018Top Secret\u2019 Info With Reporters",
+    "3":"This Wonder Woman Totally Crushed The 'American Ninja Warrior' Course"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"POLITICS",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"\"I don't think there's ever been someone so qualified to hold this office,\" the president said in an endorsement video released Thursday.",
+    "1":"An Arizona jury on Wednesday convicted the co-founder of a border militia group of molesting a 5-year-old girl but acquitted",
+    "2":"The investigation that led CIA Director David Petraeus to resign and ultimately plead guilty to a criminal charge of mishandling",
+    "3":"If you can't break down a barrier, just climb over it \ud83d\udcaa"
+  },
+  "authors":{
+    "0":"Marina Fang and Paige Lavender",
+    "1":"",
+    "2":"",
+    "3":"Jenavieve Hatch"
+  },
+  "date":{
+    "0":"2016-06-09 00:00:00",
+    "1":"2016-06-09 00:00:00",
+    "2":"2016-06-08 00:00:00",
+    "3":"2016-06-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"usacop",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---uafcvl",
+    "2":"---med",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"173",
+    "2":"110",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-5.0,
+    "2":-2.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "militia",
+      "girl",
+      "~uafcvl",
+      "~",
+      "~",
+      "militia",
+      "girl",
+      "~uafcvl",
+      "~",
+      "~"
+    ],
+    "2":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "hillary clinton"
+    ],
+    "1":[
+      "arizona",
+      "militia ... girl"
+    ],
+    "2":[
+      "fbi",
+      "reporters"
+    ],
+    "3":[
+      "woman",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "hillary clinton"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "endorses"
+    ],
+    "1":[
+      "acquitted <convicted>"
+    ],
+    "2":[
+      "claimed"
+    ],
+    "3":[
+      "crushed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usaeli",
+      "051"
+    ],
+    "1":[
+      "usa",
+      "---uafcvl",
+      "173"
+    ],
+    "2":[
+      "usacop",
+      "---med",
+      "110"
+    ],
+    "3":[
+      "---cvl",
+      "usa",
+      "190"
+    ]
+  }
+}

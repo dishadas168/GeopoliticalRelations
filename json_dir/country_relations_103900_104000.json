@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-looks-to-expand-the_b_6679274.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/700-migrants-rescued_n_6680228.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/confronting-terrorism-with-ground-war_b_6680544.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/remembering-babylon-new-e_b_6672580.html"
+  },
+  "headline":{
+    "0":"Obama Looks to Expand the Wars",
+    "1":"About 700 Migrants Rescued Off Coast Of Libya",
+    "2":"Confronting Terrorism Without Another American Ground War",
+    "3":"Remembering Babylon: New Exhibit Explores Roots of Jewish Life in Iraq"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"RELIGION"
+  },
+  "short_description":{
+    "0":"Obama's war powers proposal justifies operations against vaguely defined \"associated\" people and entities. Put that together with the post-9\/11 authorization for anti-Al Qaeda operations and you have a blank check to do pretty much anything, anywhere, any time against anyone who evinces admiration\/sympathy\/solidarity for Isis or Al Qaeda.",
+    "1":"",
+    "2":"President Obama is absolutely correct that our nation must confront these ruthless terrorists. But he was also correct to promise that America would not be sending U.S. combat troops back to the Middle East to fight another ground war.",
+    "3":"The museum, based in Jerusalem, has amassed a collection of more than 100 cuneiform tablets, original documents from the Judean community, which are now on display to the public for the first time."
+  },
+  "authors":{
+    "0":"William Bradley, ContributorPolitical Analyst",
+    "1":"Eline Gordts",
+    "2":"Sen. Barbara Boxer, ContributorRanking Member, Senate Environment and Public Works Committee",
+    "3":"Anav Silverman, ContributorInternational Correspondent in Jerusalem"
+  },
+  "date":{
+    "0":"2015-02-13 00:00:00",
+    "1":"2015-02-13 00:00:00",
+    "2":"2015-02-13 00:00:00",
+    "3":"2015-02-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"isr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"lby",
+    "2":"---uaf",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"073",
+    "2":"040",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":7.4,
+    "2":1.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "migrants",
+      "~cvl",
+      "~",
+      "libya",
+      "lby",
+      "libya"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "jerusalem",
+      "isr",
+      "israel",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "people"
+    ],
+    "1":[
+      "migrants",
+      "libya"
+    ],
+    "2":[
+      "president obama",
+      "terrorists"
+    ],
+    "3":[
+      "jerusalem",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "---",
+      "libya"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "israel",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "justifies ... defined"
+    ],
+    "1":[
+      "rescued"
+    ],
+    "2":[
+      "is ... confront"
+    ],
+    "3":[
+      "has amassed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "terror",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "lby",
+      "073"
+    ],
+    "2":[
+      "usagov",
+      "---uaf",
+      "040"
+    ],
+    "3":[
+      "isr",
+      "---cvl",
+      "040"
+    ]
+  }
+}

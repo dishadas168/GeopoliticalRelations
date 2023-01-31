@@ -1,0 +1,175 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_386_b_7143660.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tomorrows-leaders-today_b_7136716.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israeli-forces-kill-palestinian-youth_n_7142448.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Tomorrow's Leaders Today",
+    "2":"Israeli Forces Kill Palestinian Youth Wielding Knife At Checkpoint"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"This week, the White House revealed it really does care about civilians being killed by drones -- at least when they're Americans or Westerners. On Thursday, President Obama expressed \"profound regrets,\" and described as \"uniquely tragic,\" a January drone strike in Pakistan that killed two al Qaeda-held hostages -- one American, one Italian. But while certainly tragic, it's far from unique. The Bureau of Investigative Journalism estimates that, under Obama, drones in Pakistan alone have killed between 256 and 630 civilians, with at least 66 of them children. In fact, the first drone strike of his presidency reportedly killed at least nine civilians. In the wake of this week's announcement, the president ordered a review of what lessons can be learned from these latest deaths. One we already know: Some innocent lives are apparently more valuable than others.",
+    "1":"One Young World is the preeminent global forum for leaders aged 18-30. The not-for-profit organization hosts an annual Summit with 1,300 delegates from all 196 countries; drawn from businesses, universities, NGOs and other forward thinking organizations.",
+    "2":""
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Jennifer Kamara, ContributorFounding Director at World Health Equity",
+    "2":""
+  },
+  "date":{
+    "0":"2015-04-26 00:00:00",
+    "1":"2015-04-25 00:00:00",
+    "2":"2015-04-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---leg",
+    "2":"isr"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"meareb",
+    "2":"pse"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"036",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":4.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "civilians",
+      "~cvl",
+      "~",
+      "civilians",
+      "~cvl",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "delegates",
+      "~leg",
+      "~",
+      "businesses",
+      "universities",
+      "ngos",
+      "~busedungo",
+      "~",
+      "~",
+      "~",
+      "delegates",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "israeli",
+      "isr",
+      "israel",
+      "palestinian",
+      "pse",
+      "palestine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "the white house"
+    ],
+    "1":[
+      "delegates",
+      "organization",
+      "organization",
+      "delegates"
+    ],
+    "2":[
+      "israeli",
+      "palestinian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "tanzim",
+      "tanzim",
+      "---"
+    ],
+    "2":[
+      "israel",
+      "palestine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "hosts ... summit with",
+      "hosts ... summit with"
+    ],
+    "2":[
+      "kill"
+    ]
+  },
+  "issues":{
+    "0":[
+      "drone",
+      "1"
+    ],
+    "1":[
+      "postsecondary_education",
+      "1",
+      "civil_society",
+      "1"
+    ],
+    "2":[
+      "checkpoint",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "050"
+    ],
+    "1":[
+      "---leg",
+      "meareb",
+      "036",
+      "meareb",
+      "---leg",
+      "036"
+    ],
+    "2":[
+      "isr",
+      "pse",
+      "190"
+    ]
+  }
+}

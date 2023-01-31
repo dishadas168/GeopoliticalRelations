@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/friday-talking-points_b_6006530.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-attacks-ceasefire_n_6008044.html"
+  },
+  "headline":{
+    "0":"Friday Talking Points -- Don't Panic",
+    "1":"Militants Attack Nigerian Villages Despite Reported Boko Haram Cease-Fire"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"That headline, of course, quotes the cover to the fictional Hitchhiker's Guide To The Galaxy: \"Don't Panic.\" This week, it seems like timely advice, as the news media and American politicians go into full-blown panic mode over one death and two illnesses within the United States.",
+    "1":""
+  },
+  "authors":{
+    "0":"Chris Weigant, ContributorPolitical writer and blogger at ChrisWeigant.com",
+    "1":""
+  },
+  "date":{
+    "0":"2014-10-18 00:00:00",
+    "1":"2014-10-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usamedpty",
+    "1":"---uaf"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"ngacvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "american",
+      "politicians",
+      "usamedpty",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "militants",
+      "~uaf",
+      "~",
+      "nigerian",
+      "villages",
+      "ngacvl",
+      "nigeria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media ... american politicians",
+      "the ... united states"
+    ],
+    "1":[
+      "militants",
+      "nigerian villages"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "nigeria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "go"
+    ],
+    "1":[
+      "attack"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "named_terror_group",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamedpty",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---uaf",
+      "ngacvl",
+      "190"
+    ]
+  }
+}

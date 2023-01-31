@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/food-safety-workers-rights_us_56c74039e4b041136f16b28b"
+  },
+  "headline":{
+    "0":"Having Safe Food Means Treating Restaurant Workers Better"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"More employers are offering food workers better pay and benefits than perhaps ever before, but there's still a long way to go."
+  },
+  "authors":{
+    "0":"Joseph Erbentraut"
+  },
+  "date":{
+    "0":"2016-02-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---lab"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "employers",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employers",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... offering"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "030"
+    ]
+  }
+}

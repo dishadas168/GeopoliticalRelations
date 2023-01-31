@@ -1,0 +1,159 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/former-bolivian-president_b_5832656.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-congress_n_5838644.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/palestine-and-the-icc_1_b_5838244.html"
+  },
+  "headline":{
+    "0":"Former Bolivian President Carlos Mesa Calls Brazilian Presidential Hopeful Marina Silva \"Unpredictable\"",
+    "1":"Divided Congress Backs Obama's ISIS Plan",
+    "2":"Why Palestine Should Join the International Criminal Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"On Sept. 12, 2014 former Bolivian president and vice president, from 2003 to 2005 and 2002 to 2003 respectively, Carlos Mesa visited the Inn at Penn, located on the University of Pennsylvania's campus, to deliver a speech on the future of Latin America.",
+    "1":"",
+    "2":"Were the PA to join the ICC and initiate a case against Israel, it would be adhering to a strategy long advocated for by Palestinian civil society to use mechanisms of popular pressure -- legal action, boycotts, protests -- to advance national aims."
+  },
+  "authors":{
+    "0":"Jeremy Bamidele, ContributorJeremy Bamidele is an alumnus of UC Berkeley and University of...",
+    "1":"Michael McAuliff and Jennifer Bendery",
+    "2":"Salma Karmi-Ayyoub, ContributorCriminal barrister, former head of international litigation pr..."
+  },
+  "date":{
+    "0":"2014-09-18 00:00:00",
+    "1":"2014-09-17 00:00:00",
+    "2":"2014-09-17 00:00:00"
+  },
+  "actor1":{
+    "0":"bra",
+    "1":"usagovleg",
+    "2":"pse"
+  },
+  "actor2":{
+    "0":"boleli",
+    "1":"imgmusisileg",
+    "2":"---crmjud"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"030",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "carlos mesa",
+      "boleli",
+      "carlos",
+      "mesa",
+      "brazilian",
+      "marina silva",
+      "bra",
+      "brazil",
+      "marina",
+      "silva"
+    ],
+    "1":[
+      "congress",
+      "obama",
+      "isis",
+      "usagovleg",
+      "imgmusisileg",
+      "~",
+      "barack",
+      "obama",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "palestine",
+      "pse",
+      "palestine",
+      "criminal",
+      "court",
+      "~crmjud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "brazilian ... marina silva",
+      "carlos mesa",
+      "carlos mesa",
+      "brazilian ... marina silva"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "palestine",
+      "criminal court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "brazil marina silva",
+      "carlos mesa",
+      "carlos mesa",
+      "brazil marina silva"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "palestine",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "should join"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "bra",
+      "boleli",
+      "041",
+      "boleli",
+      "bra",
+      "041"
+    ],
+    "1":[
+      "usagovleg",
+      "imgmusisileg",
+      "030",
+      "imgmusisileg",
+      "usagovleg",
+      "030"
+    ],
+    "2":[
+      "pse",
+      "---crmjud",
+      "040"
+    ]
+  }
+}

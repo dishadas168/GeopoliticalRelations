@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/beauty-queen-sheena-monnin-shocked-trump_us_5b9cad06e4b03a1dcc80c95f"
+  },
+  "headline":{
+    "0":"Beauty Queen Sheena Monnin 'Shocked' By Ruling In Trump Miss USA Lawsuit"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"We wouldn't be too happy about paying Donald Trump $5 million, either."
+  },
+  "authors":{
+    "0":"Cavan Sieczkowski"
+  },
+  "date":{
+    "0":"2012-12-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"'mamohato_"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "usa",
+      "queen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "queen"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "shocked ... by <---> ... in ... usa"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "'mamohato_",
+      "110"
+    ]
+  }
+}

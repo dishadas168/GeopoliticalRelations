@@ -1,0 +1,221 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/germany-announces-austria-border-checks-to-limit-refugee-influx_us_55f59de0e4b063ecbfa4a7c8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_406_b_8127728.html",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/www.thedodo.com\/taiji-japan-dolphin-hunt-1342986325.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/congress-sept-11-bill_us_55f435f7e4b063ecbfa490cd",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/colleges-flush-with-cash-saddle-poorest-students-with-debt_us_55f49b7ce4b042295e369755"
+  },
+  "headline":{
+    "0":"Germany Announces Austria Border Checks To Limit Refugee Influx",
+    "1":"Sunday Roundup",
+    "2":"Terrified Dolphin Throws Himself At Man's Feet To Escape Hunters",
+    "3":"Lawmakers Who Hailed 9\/11 Heroes Still Shun Bill To Help Them",
+    "4":"Colleges Flush With Cash Saddle Poorest Students With Debt"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"GREEN",
+    "3":"POLITICS",
+    "4":"COLLEGE"
+  },
+  "short_description":{
+    "0":"About 450,000 migrants have arrived in Germany this year.",
+    "1":"This week, summer vacation ended for millions of Americans, as did the wait for two long-anticipated events. First, in Washington, the Iran nuclear agreement cleared its biggest hurdle, as opponents lost a key procedural vote in the Senate. Maybe former Vice President Dick Cheney, whose strong opposition to the deal is among the best arguments for it, provided the winning margin. To drive the point home, the White House released a cutting video montage of Cheney's wildly wrong assessments of Iraq, showing he was \"wrong then, wrong now.\" Meanwhile, The Late Show with Stephen Colbert finally debuted, with a literally biting bit about the media's Trump addiction, and an interview featuring a suave Jeb Bush and a stilted Colbert (actually, switch that). As Colbert said, \"I used to play a narcissistic, conservative pundit -- now, I'm just a narcissist.\" But still very, very funny. And, given his poignant interview with Joe Biden, very, very human.",
+    "2":"Taiji, Japan, is a bloodbath once again \u2014 and a heartbreaking video captures the final moments of the hunt's first victims",
+    "3":"Jon Stewart will ask them to make up for it next week.",
+    "4":"Many private universities with lavish endowments give little aid to poor students, according to new data."
+  },
+  "authors":{
+    "0":"GEIR MOULSON & SHAWN POGATCHNIK, AP",
+    "1":"Arianna Huffington, Contributor",
+    "2":"",
+    "3":"Michael McAuliff",
+    "4":"Annie Waldman and Sisi Wei, ProPublica"
+  },
+  "date":{
+    "0":"2015-09-13 00:00:00",
+    "1":"2015-09-13 00:00:00",
+    "2":"2015-09-12 00:00:00",
+    "3":"2015-09-12 00:00:00",
+    "4":"2015-09-12 00:00:00"
+  },
+  "actor1":{
+    "0":"deu",
+    "1":"usagov",
+    "2":"jpn",
+    "3":"---leg",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"aut",
+    "1":"irq",
+    "2":"---cvl",
+    "3":"---leg",
+    "4":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"084",
+    "2":"171",
+    "3":"175",
+    "4":"070"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":7.0,
+    "2":-9.2,
+    "3":-9.0,
+    "4":7.0
+  },
+  "nouns":{
+    "0":[
+      "germany",
+      "deu",
+      "germany",
+      "austria",
+      "aut",
+      "austria",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "japan",
+      "jpn",
+      "japan",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "universities",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "germany",
+      "austria"
+    ],
+    "1":[
+      "the ... white house",
+      "iraq"
+    ],
+    "2":[
+      "japan",
+      "victims"
+    ],
+    "3":[
+      "lawmakers",
+      "lawmakers"
+    ],
+    "4":[
+      "universities",
+      "universities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "austria"
+    ],
+    "1":[
+      "white house",
+      "iraq"
+    ],
+    "2":[
+      "japan",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announces"
+    ],
+    "1":[
+      "released"
+    ],
+    "2":[
+      "captures"
+    ],
+    "3":[
+      "shun ... help"
+    ],
+    "4":[
+      "give ... aid"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "deu",
+      "aut",
+      "010"
+    ],
+    "1":[
+      "usagov",
+      "irq",
+      "084"
+    ],
+    "2":[
+      "jpn",
+      "---cvl",
+      "171"
+    ],
+    "3":[
+      "---leg",
+      "---leg",
+      "175"
+    ],
+    "4":[
+      "---edu",
+      "---edu",
+      "070"
+    ]
+  }
+}

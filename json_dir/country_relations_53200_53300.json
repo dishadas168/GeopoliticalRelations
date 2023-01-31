@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/afghanistan-bombing-helmand_us_57fb92d0e4b0b6a43033d1b1"
+  },
+  "headline":{
+    "0":"Bombing Kills At Least 10 In Besieged Afghan City"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Taliban militants have been fighting for control over Helmand province."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-10-10 00:00:00"
+  },
+  "actor1":{
+    "0":"afgrebuaf"
+  },
+  "actor2":{
+    "0":"afg"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "taliban",
+      "militants",
+      "afgrebuaf",
+      "taliban",
+      "~",
+      "helmand",
+      "afg",
+      "afghanistan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "taliban militants",
+      "helmand"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "taliban",
+      "afghanistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... fighting for control"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "afgrebuaf",
+      "afg",
+      "190"
+    ]
+  }
+}

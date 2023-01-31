@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/pence-ordered-us-borders-closed-after-cdc-experts-refused_n_5f788738c5b64b480aae78b7",
+    "1":"https:\/\/www.huffpost.com\/entry\/van-jones-donald-trump-nazis_n_5f73f1f1c5b6374c55861bb2",
+    "2":"https:\/\/www.huffpost.com\/entry\/mail-in-voting-litigation-2020-election_n_5f6e6b76c5b64deddeedbb5a"
+  },
+  "headline":{
+    "0":"Pence Ordered U.S. Borders Closed After CDC Experts Refused",
+    "1":"Livid Van Jones Rages Against Trump\u2019s \u2018Wink And A Nod\u2019 To Nazis During Debate",
+    "2":"Mail-In Voting Rules Still Up In The Air As Republicans Appeal Election Decisions"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The order came after a top doctor refused to comply with a Trump administration directive.",
+    "1":"The president refused to condemn white supremacist groups during Tuesday night's debate with Joe Biden.",
+    "2":"Fewer than 40 days are left in the election, but Democrats, Republicans and voting rights advocates are still fighting over election rules in the courts."
+  },
+  "authors":{
+    "0":"Jason Dearen and Garance Burke, AP",
+    "1":"Ed Mazza",
+    "2":"Paul Blumenthal"
+  },
+  "date":{
+    "0":"2020-10-03 00:00:00",
+    "1":"2020-09-30 00:00:00",
+    "2":"2020-09-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---gov",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"111",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "doctor",
+      "~hlh",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden"
+    ],
+    "2":[
+      "advocates",
+      "~jud",
+      "~",
+      "the courts",
+      "~jud",
+      "~",
+      "the courts",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctor",
+      "administration"
+    ],
+    "1":[
+      "president",
+      "joe biden"
+    ],
+    "2":[
+      "advocates",
+      "advocates"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "joe biden"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "refused ... comply"
+    ],
+    "1":[
+      "refused ... condemn"
+    ],
+    "2":[
+      "are ... fighting"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "usagov",
+      "111"
+    ],
+    "2":[
+      "---jud",
+      "---jud",
+      "190"
+    ]
+  }
+}

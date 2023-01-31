@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/domestic-terrorism-trial-kansas-trump-militia_us_5ad4e700e4b0edca2cbcb603",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-attack-false-alarm_us_5ad5bdcfe4b077c89cec68b7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jerry-brown-auto-emissions_us_5ad6094de4b077c89ced017d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-racial-bias-training_us_5ad63539e4b077c89ced4dc6"
+  },
+  "headline":{
+    "0":"These Pro-Trump Extremists Had A Plan To Kill Muslims. How Were They Radicalized?",
+    "1":"FALSE ALARM: No New Missile Attack On Syrian Air Defenses, Pro-Assad Commander Says",
+    "2":"Jerry Brown: California Won't Roll Back Auto Emissions Standards",
+    "3":"Starbucks To Close More Than 8,000 Stores For Racial Bias Education"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"A jury in Kansas this week is deliberating whether three militia members should spend the rest of their lives in prison.",
+    "1":"The commander attributed the malfunction to \u201ca joint electronic attack\u201d by Israel and the U.S. targeting the Syrian radar system.",
+    "2":"\u201cThe idea we\u2019re going to roll back the auto standards is absurd,\" the governor said in Washington.",
+    "3":"Two black men were arrested at a Philadelphia cafe last week while waiting for a friend to arrive."
+  },
+  "authors":{
+    "0":"Christopher Mathias and Ryan J. Reilly",
+    "1":"",
+    "2":"Igor Bobic and Alexander C. Kaufman",
+    "3":"Doha Madani"
+  },
+  "date":{
+    "0":"2018-04-18 00:00:00",
+    "1":"2018-04-17 00:00:00",
+    "2":"2018-04-17 00:00:00",
+    "3":"2018-04-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"syr",
+    "2":"usa",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"014",
+    "1":"190",
+    "2":"010",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "militia",
+      "~uaf",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "commander",
+      "~mil",
+      "~",
+      "israel",
+      "isr",
+      "israel",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "governor",
+      "~gov",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~",
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kansas",
+      "militia"
+    ],
+    "1":[
+      "u.s.",
+      "syrian"
+    ],
+    "2":[
+      "governor",
+      "washington"
+    ],
+    "3":[
+      "men",
+      "philadelphia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "syria"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "targeting"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "were arrested at <usa>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "cyber_security",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---uaf",
+      "014"
+    ],
+    "1":[
+      "usa",
+      "syr",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "173"
+    ]
+  }
+}

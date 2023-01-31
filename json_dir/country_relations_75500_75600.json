@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/democrats-iran-diplomat_us_569bf94ae4b0778f46f9b5c4"
+  },
+  "headline":{
+    "0":"Progressive Democrats Met Secretly With Iranian Diplomat In December"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The six lawmakers told the Iranian ambassador to the U.N. that the \"wrongly imprisoned Americans\" needed to be released."
+  },
+  "authors":{
+    "0":"Laura Barr\u00f3n-L\u00f3pez"
+  },
+  "date":{
+    "0":"2016-01-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg"
+  },
+  "actor2":{
+    "0":"irngov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "iranian",
+      "ambassador",
+      "irngov",
+      "iran",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "iranian ambassador"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "irngov",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chevron-refinery-protest_us_5bb13fdae4b09bbe9a5d30cf"
+  },
+  "headline":{
+    "0":"Chevron Refinery Protest In California Sees Over 200 Arrests"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The protest came a day after the city of Richmond filed suit against Chevron over a pipeline rupture and fire that sent a"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"mnc"
+  },
+  "event_code":{
+    "0":"115"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "richmond",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chevron",
+      "mnc",
+      "chevron"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "richmond",
+      "chevron"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "chevron"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "filed suit"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "mnc",
+      "115"
+    ]
+  }
+}

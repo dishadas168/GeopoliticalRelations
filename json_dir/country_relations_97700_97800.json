@@ -1,0 +1,169 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/right-wing-congress-valui_b_7154292.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/catherine-walker-ailsa-jackson-arrest_n_7155638.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trouble-in-paradise-how-u_b_7159726.html"
+  },
+  "headline":{
+    "0":"Right Wing Congress Puts Religion Over People",
+    "1":"Army Soldier's Lover Allegedly Stabbed His Wife To Death: FBI",
+    "2":"Trouble in Paradise: How U.S. Ally UAE Crushes Dissent"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"As a nation, we must decide in the very near future whether protecting religious ideology is more important than protecting the vulnerable among us. Congress may have started down the wrong path on this issue, but the American people can pressure our elected representatives to reverse this course.",
+    "1":"",
+    "2":"When they meet next month, President Obama should look beyond UAE's fancy PR campaign and ask Sheikh Mohammed why peaceful critics are in jail, why their lawyers are intimidated from representing them and their witnesses harassed, and why the UAE thinks the best way to fight terrorism is with repression."
+  },
+  "authors":{
+    "0":"Roy Speckhardt, ContributorExecutive Director, American Humanist Association",
+    "1":"James Cave",
+    "2":"Brian Dooley, ContributorDirector, Human Rights First's Human Rights Defenders Program"
+  },
+  "date":{
+    "0":"2015-04-28 00:00:00",
+    "1":"2015-04-28 00:00:00",
+    "2":"2015-04-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usappl",
+    "1":"---mil",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"usacop",
+    "2":"`isa_ibn_sulman_al_khalifah_"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"182",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-9.5,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "representatives",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "army",
+      "soldier",
+      "~mil",
+      "~",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "uae",
+      "are",
+      "united",
+      "arab",
+      "emirates",
+      "sheikh",
+      "`isa_ibn_sulman_al_khalifah_",
+      "sheikh",
+      "lawyers",
+      "~jud",
+      "~",
+      "uae",
+      "are",
+      "united",
+      "arab",
+      "emirates"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american people",
+      "congress"
+    ],
+    "1":[
+      "army soldier",
+      "fbi"
+    ],
+    "2":[
+      "president obama",
+      "sheikh"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "2":[
+      "barack obama",
+      "sheikh"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... pressure"
+    ],
+    "1":[
+      "stabbed"
+    ],
+    "2":[
+      "should ... ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usappl",
+      "---leg",
+      "170"
+    ],
+    "1":[
+      "---mil",
+      "usacop",
+      "182"
+    ],
+    "2":[
+      "usagov",
+      "`isa_ibn_sulman_al_khalifah_",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/children-sleep_us_5b9c5483e4b03a1dcc7dd6ee",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pamela-kay-cobb-bank-of-america_us_5b9c5bafe4b03a1dcc7e0f7d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/paris-fashion-week-bloggers_us_5b9c5be7e4b03a1dcc7e117e"
+  },
+  "headline":{
+    "0":"Back to School: Your First Assignment Is Getting More Sleep",
+    "1":"Pamela Kay Cobb, Former Bank Of America Employee, Sentenced To Prison For Stealing Millions",
+    "2":"Catching Up With Candice Lake at Paris Fashion Week: Blogger as Entrepreneur"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"MONEY",
+    "2":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Nobody wants to be set up for poor performance before the first bell even rings. However, poor sleep habits of elementary, middle and high school students may make them sluggish during the day, hinder their success at school and contribute to long-term health problems.",
+    "1":"(Hat tip: Courthouse News.) Cobb pleaded guilty to the federal government's charges in March of 2012. Pamela Kay Cobb, 30",
+    "2":"Candice Lake breezed into Hotel Costes, camera in tow, fresh from the Viktor and Rolf show at the Tuileries. Located on Rue St. Honor\u00e9, the hotel's courtyard is the destination during Paris Fashion Week."
+  },
+  "authors":{
+    "0":"Dr. David White, M.D., Contributor\nChief Medical Officer for Philips Home Healthcare Solutions",
+    "1":"Bonnie Kavoussi",
+    "2":"Lily Kwong, Contributor\nWriter, model, luxury brand ambassador"
+  },
+  "date":{
+    "0":"2012-10-01 00:00:00",
+    "1":"2012-10-01 00:00:00",
+    "2":"2012-10-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usalab",
+    "2":"---medbus"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cop",
+    "2":"fra"
+  },
+  "event_code":{
+    "0":"120",
+    "1":"172",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-5.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "school",
+      "students",
+      "~edu",
+      "~",
+      "~",
+      "school",
+      "students",
+      "~edu",
+      "~",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "america",
+      "employee",
+      "usalab",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "entrepreneur",
+      "~bus",
+      "~",
+      "blogger",
+      "entrepreneur",
+      "~medbus",
+      "~",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school students",
+      "school students"
+    ],
+    "1":[
+      "america employee",
+      "prison"
+    ],
+    "2":[
+      "blogger ... entrepreneur",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "may ... hinder"
+    ],
+    "1":[
+      "sentenced"
+    ],
+    "2":[
+      "catching"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "2",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "120"
+    ],
+    "1":[
+      "usalab",
+      "---cop",
+      "172"
+    ],
+    "2":[
+      "---medbus",
+      "fra",
+      "171"
+    ]
+  }
+}

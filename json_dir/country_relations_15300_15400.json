@@ -1,0 +1,232 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joe-bastianich-masterchef-italia_us_5a66114fe4b0e5630072076d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shutdown-standoff-second-day_us_5a6414b0e4b0022830036c80",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russian-twitter-accounts-count-growing_us_5a6272eee4b0e563006faf3c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bob-menendez-new-trial_us_5a625146e4b0dc592a0890a4",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/rabbis-pledge-to-protect-african-asylum-seekers-facing-deportation-from-israel_us_5a60f743e4b05085db6096a3"
+  },
+  "headline":{
+    "0":"Mario Batali Business Partner Says Chinese Men 'Have Some Defects' On Italian TV",
+    "1":"Government Shutdown Enters Second Day As Standoff Continues",
+    "2":"Twitter Concedes Russian Influence Before U.S. Election Was Greater Than Initially Thought",
+    "3":"Justice Department Plans To Retry Bob Menendez For Bribery, Corruption",
+    "4":"Rabbis Pledge To Protect African Asylum-Seekers Facing Deportation From Israel"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Joe Bastianich has since issued a statement claiming the comments are \"not reflective of his views.\"",
+    "1":"By 7 p.m. Saturday, both the Senate and the House resigned themselves to failure and agreed to resume work on Sunday.",
+    "2":"More than 677,000 people in the U.S. interacted with Russian propaganda in the 10 weeks prior to the 2016 vote.",
+    "3":"The government said in a court filing it wants a federal judge in New Jersey to set the \u201cearliest possible date\u201d for a retrial.",
+    "4":"\"The government will have to come through us\u201d to deport the migrants, Rabbi Susan Silverman said."
+  },
+  "authors":{
+    "0":"Kimberly Yam",
+    "1":"Richard Cowan and Ginger Gibson, Reuters",
+    "2":"Ryan Grenoble",
+    "3":"Joseph Ax, Reuters",
+    "4":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2018-01-22 00:00:00",
+    "1":"2018-01-21 00:00:00",
+    "2":"2018-01-20 00:00:00",
+    "3":"2018-01-19 00:00:00",
+    "4":"2018-01-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usagovleg",
+    "2":"usappl",
+    "3":"---gov",
+    "4":"---jew"
+  },
+  "actor2":{
+    "0":"chnppl",
+    "1":"usagovleg",
+    "2":"rus",
+    "3":"usajud",
+    "4":"isrref"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"083",
+    "2":"040",
+    "3":"030",
+    "4":"0334"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":5.0,
+    "2":1.0,
+    "3":4.0,
+    "4":6.0
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~",
+      "chinese",
+      "men",
+      "chnppl",
+      "china",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "government",
+      "~gov",
+      "~",
+      "new jersey",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "federal judge",
+      "usajud",
+      "~"
+    ],
+    "4":[
+      "rabbis",
+      "~jew",
+      "~",
+      "asylum seekers",
+      "~ref",
+      "~",
+      "israel",
+      "isr",
+      "israel",
+      "asylum seekers",
+      "isrref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "business",
+      "chinese men"
+    ],
+    "1":[
+      "senate",
+      "senate"
+    ],
+    "2":[
+      "people",
+      "russian"
+    ],
+    "3":[
+      "government",
+      "federal judge"
+    ],
+    "4":[
+      "rabbis",
+      "asylum seekers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "china"
+    ],
+    "1":[
+      "united states congress",
+      "united states congress"
+    ],
+    "2":[
+      "",
+      "russian federation"
+    ],
+    "3":[
+      "---",
+      ""
+    ],
+    "4":[
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "<and> ... resigned"
+    ],
+    "2":[
+      "interacted"
+    ],
+    "3":[
+      "said ... wants"
+    ],
+    "4":[
+      "pledge ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "chnppl",
+      "010"
+    ],
+    "1":[
+      "usagovleg",
+      "usagovleg",
+      "083"
+    ],
+    "2":[
+      "usappl",
+      "rus",
+      "040"
+    ],
+    "3":[
+      "---gov",
+      "usajud",
+      "030"
+    ],
+    "4":[
+      "---jew",
+      "isrref",
+      "0334"
+    ]
+  }
+}

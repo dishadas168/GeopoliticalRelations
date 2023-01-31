@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-force-seizes-citadel-islamic-state_us_586f8c49e4b099cdb0fc98d2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-troops-drawdown-syria_us_586f66cee4b043ad97e2d533",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-detains-18-over-izmir-attack_us_586f8e67e4b099cdb0fc99a1"
+  },
+  "headline":{
+    "0":"U.S.-backed Force Seizes Syria Citadel From Islamic State",
+    "1":"Russia Begins Drawdown Of Forces In Syria",
+    "2":"Turkey Detains 18 Over Izmir Attack"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Militia groups are trying to free Raqqa province from the group.",
+    "1":"Russia\u2019s naval fleet will be the first to return from Syria.",
+    "2":"And the government sees the PKK as responsible."
+  },
+  "authors":{
+    "0":"Tom Perry, Reuters",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2017-01-06 00:00:00",
+    "1":"2017-01-06 00:00:00",
+    "2":"2017-01-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"rusmil",
+    "2":"tur"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"syr",
+    "2":"tur"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"042",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.9,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "militia",
+      "~uaf",
+      "~",
+      "raqqa",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "russia",
+      "naval",
+      "rusmil",
+      "russian",
+      "federation",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "turkey",
+      "tur",
+      "turkey",
+      "izmir",
+      "tur",
+      "turkey"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "militia",
+      "raqqa"
+    ],
+    "1":[
+      "russia ... naval",
+      "syria"
+    ],
+    "2":[
+      "turkey",
+      "turkey"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "syria"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ],
+    "2":[
+      "turkey",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... free"
+    ],
+    "1":[
+      "will ... return from"
+    ],
+    "2":[
+      "detains"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "syr",
+      "08"
+    ],
+    "1":[
+      "rusmil",
+      "syr",
+      "042"
+    ],
+    "2":[
+      "tur",
+      "tur",
+      "173"
+    ]
+  }
+}

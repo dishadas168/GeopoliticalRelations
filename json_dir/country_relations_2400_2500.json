@@ -1,0 +1,337 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/house-passes-juneteenth-federal-holiday-joe-biden_n_60ca3c8ee4b0e08ef7bc17f3",
+    "1":"https:\/\/www.huffpost.com\/entry\/nicaragua-arrests-5-opposition-leaders_n_60c66bd3e4b0402a2c034569",
+    "2":"https:\/\/www.huffpost.com\/entry\/republicans-arizona-election-audit_n_60c27123e4b0e6bab7a59c9e",
+    "3":"https:\/\/www.huffpost.com\/entry\/biden-trump-tiktok-ban_n_60c0d1f4e4b0b03d151df822",
+    "4":"https:\/\/www.huffpost.com\/entry\/washington-state-joints-jabs-marijuana-vaccines_n_60bec3cbe4b04694aec27c1b",
+    "5":"https:\/\/www.huffpost.com\/entry\/havana-syndrome-bill_n_60bf0e7ee4b04aeb61bb144d",
+    "6":"https:\/\/www.huffpost.com\/entry\/florida-anti-trans-sports-legislation-desantis_n_60b67104e4b04ddf13f36d8b"
+  },
+  "headline":{
+    "0":"House Passes Juneteenth Holiday Bill, Sending It To Joe Biden\u2019s Desk",
+    "1":"Nicaraguan Incumbent Arrests 5 Opposition Leaders In One Day",
+    "2":"Republicans Push To Export Absurd Arizona-Style Election Audits To Other States",
+    "3":"Biden White House Drops Trump Orders Trying To Ban TikTok, WeChat",
+    "4":"Washington State Approves 'Joints For Jabs' COVID-19 Vaccine Promotion",
+    "5":"Senate Passes Legislation To Support Victims Of Mysterious \u2018Havana Syndrome\u2019",
+    "6":"Florida Governor Bans Transgender Women From School Sports"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The day off for federal workers honors the end of slavery in the United States.",
+    "1":"President Daniel Ortega's government has detained 12 opponents since June 2, moving beyond candidates challenging him to any prominent opposition member.",
+    "2":"GOP lawmakers from Pennsylvania, Michigan and Georgia want to conduct unnecessary, conspiratorial audits of the 2020 election in their home states.",
+    "3":"The administration will conduct its own review of potential security risks posed by apps tied to China.",
+    "4":"The Evergreen State is allowing cannabis retailers to offer a free joint to people getting their coronavirus shot in an effort to increase vaccinations.",
+    "5":"Sen. Susan Collins said government officials should be treated the \"same way we would treat a soldier who suffered a traumatic injury on the battlefield.\u201d",
+    "6":"The new law inflames an already contentious discussion unfolding nationally as Republican-controlled states move to limit the rights of LGBTQ people."
+  },
+  "authors":{
+    "0":"Arthur Delaney and Igor Bobic",
+    "1":"",
+    "2":"Travis Waldron",
+    "3":"Matt O'Brien, Eric Tucker and Tali Arbel, AP",
+    "4":"Sarah Ruiz-Grossman",
+    "5":"Nick Visser",
+    "6":"BOBBY CAINA CALVAN, AP"
+  },
+  "date":{
+    "0":"2021-06-16 00:00:00",
+    "1":"2021-06-13 00:00:00",
+    "2":"2021-06-11 00:00:00",
+    "3":"2021-06-09 00:00:00",
+    "4":"2021-06-08 00:00:00",
+    "5":"2021-06-08 00:00:00",
+    "6":"2021-06-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"nic",
+    "2":"usaleg",
+    "3":"---gov",
+    "4":"usa",
+    "5":"usagovleg",
+    "6":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"geoleg",
+    "3":"chn",
+    "4":"---ppl",
+    "5":"cubcvl",
+    "6":"---cvl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"173",
+    "2":"031",
+    "3":"060",
+    "4":"030",
+    "5":"050",
+    "6":"172"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-5.0,
+    "2":5.2,
+    "3":6.0,
+    "4":4.0,
+    "5":3.5,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "nicaraguan",
+      "nic",
+      "nicaragua",
+      "opposition leaders",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "pennsylvania",
+      "michigan",
+      "georgia",
+      "usa",
+      "usa",
+      "geo",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "georgia",
+      "lawmakers",
+      "usaleg",
+      "usaleg",
+      "geoleg",
+      "~"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ],
+    "4":[
+      "evergreen state",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "havana",
+      "cub",
+      "cuba",
+      "victims",
+      "cubcvl",
+      "~"
+    ],
+    "6":[
+      "florida",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "workers",
+      "the ... united states"
+    ],
+    "1":[
+      "nicaraguan",
+      "opposition leaders"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "administration",
+      "china"
+    ],
+    "4":[
+      "evergreen state",
+      "people"
+    ],
+    "5":[
+      "senate",
+      "victims"
+    ],
+    "6":[
+      "florida governor",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "nicaragua",
+      "---"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "---",
+      "china"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "united states congress",
+      ""
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "honors"
+    ],
+    "1":[
+      "arrests"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "will conduct"
+    ],
+    "4":[
+      "is allowing ... offer"
+    ],
+    "5":[
+      "legislation ... support"
+    ],
+    "6":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "drugs",
+      "1",
+      "disease",
+      "1",
+      "vaccination",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "lgbt",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "usa",
+      "051"
+    ],
+    "1":[
+      "nic",
+      "---opp",
+      "173"
+    ],
+    "2":[
+      "usaleg",
+      "geoleg",
+      "031",
+      "usaleg",
+      "geoleg",
+      "031",
+      "geoleg",
+      "usaleg",
+      "031",
+      "geoleg",
+      "usaleg",
+      "031"
+    ],
+    "3":[
+      "---gov",
+      "chn",
+      "060"
+    ],
+    "4":[
+      "usa",
+      "---ppl",
+      "030"
+    ],
+    "5":[
+      "usagovleg",
+      "cubcvl",
+      "050"
+    ],
+    "6":[
+      "usagov",
+      "---cvl",
+      "172"
+    ]
+  }
+}

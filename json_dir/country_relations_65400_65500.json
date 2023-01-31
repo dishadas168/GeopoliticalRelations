@@ -1,0 +1,228 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.politico.com\/story\/2016\/05\/senate-merrick-garland-hearings-223238",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/inhofe-transgender-bathrooms-social-experiment_us_573b30dfe4b08f96c18428af",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.latimes.com\/local\/lanow\/la-me-ln-l.a.-school-abuse-settlements-20160516-snap-story.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-hate-crime_us_573b15a0e4b077d4d6f3fa3d",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-alaska-felon_us_573a9252e4b077d4d6f3e279"
+  },
+  "headline":{
+    "0":"Supreme Showdown: Democrats To Stage Mock Garland Hearing, GOP Scoffs",
+    "1":"Taking A Leak Is Now A Liberal 'Social Experiment,' Senator Says",
+    "2":"L.A. School District Reaches $88-Million Settlement In Sex Misconduct Cases At Two Campuses",
+    "3":"Boston Men Jailed For Trump-Inspired Hate Crime Attack",
+    "4":"Donald Trump's Alaska Campaign Team Includes Convicted Felon"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Top GOP senators dismissed the latest tactic from Senate Democrats in the ongoing contentious battle over confirming Merrick",
+    "1":"Sen. James Inhofe thanks God that people like him are fighting Obama's \"undemocratic edict\" supporting transgender rights.",
+    "2":"The Los Angeles school district will pay $88 million to settle sexual abuse cases at two elementary schools where complaints",
+    "3":"The men told police they targeted their victim because they believed he was an illegal immigrant.",
+    "4":"Former state lawmaker Tom Anderson served four years in prison for corruption."
+  },
+  "authors":{
+    "0":"",
+    "1":"Michael McAuliff",
+    "2":"",
+    "3":"",
+    "4":"Christina Wilkie"
+  },
+  "date":{
+    "0":"2016-05-17 00:00:00",
+    "1":"2016-05-17 00:00:00",
+    "2":"2016-05-17 00:00:00",
+    "3":"2016-05-17 00:00:00",
+    "4":"2016-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---ppl",
+    "2":"---edu",
+    "3":"---ppl",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"usagovleg",
+    "1":"usagov",
+    "2":"---edu",
+    "3":"---cop",
+    "4":"---cop"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"190",
+    "2":"08",
+    "3":"010",
+    "4":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":5.0,
+    "3":0.0,
+    "4":6.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "school",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "senate"
+    ],
+    "1":[
+      "people",
+      "obama"
+    ],
+    "2":[
+      "school",
+      "school"
+    ],
+    "3":[
+      "men",
+      "police"
+    ],
+    "4":[
+      "lawmaker",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states congress"
+    ],
+    "1":[
+      "---",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dismissed"
+    ],
+    "1":[
+      "are fighting"
+    ],
+    "2":[
+      "will pay ... settle"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "served"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "2",
+      "gender_violence",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1",
+      "id_immigration",
+      "1"
+    ],
+    "4":[
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usagovleg",
+      "110"
+    ],
+    "1":[
+      "---ppl",
+      "usagov",
+      "190"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "08"
+    ],
+    "3":[
+      "---ppl",
+      "---cop",
+      "010"
+    ],
+    "4":[
+      "---leg",
+      "---cop",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-says-us-missiles-in-poland-romania-would-violate-treaty_us_5904cb41e4b05c39767feb0f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-democrats-hannah-risheq_us_59021e02e4b081a5c0fbbe0d"
+  },
+  "headline":{
+    "0":"Russia Says U.S. Missiles In Poland, Romania Would Violate Treaty",
+    "1":"The Resistance Gave Birth To A Girl And Her Name Is Hannah Risheq"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cThe undeniable fact is that this is a gross violation of the [Intermediate-Range Nuclear Force Treaty]\u201d signed in 1987, Russia's foreign ministry said.",
+    "1":"The 25-year-old Muslim-Jewish Democrat is running for office to protect her Virginia district from Donald Trump."
+  },
+  "authors":{
+    "0":"Andrey Ostroukh, Reuters",
+    "1":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2017-04-29 00:00:00",
+    "1":"2017-04-29 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---musjew"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"074"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "jewish",
+      "~jew",
+      "~",
+      "muslim",
+      "jewish",
+      "~musjew",
+      "~",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "u.s."
+    ],
+    "1":[
+      "muslim jewish",
+      "virginia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "is ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---musjew",
+      "usa",
+      "074"
+    ]
+  }
+}

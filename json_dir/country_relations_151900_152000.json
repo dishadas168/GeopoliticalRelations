@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/i-dropped-my-child-off-at_us_5b9d6f83e4b03a1dcc87f840"
+  },
+  "headline":{
+    "0":"I Dropped My Child Off at His New Classroom. Now What Should I Do?"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"In the midst of these new beginnings parents are naturally anxious for reassurance that their child will be happy. Often their anxiety causes inappropriate behavior as they approach the teacher. This blog is to help you, the parent, get off to a good start with the teacher."
+  },
+  "authors":{
+    "0":"Diana Grycan, Contributor\nAuthor of \"10 Ways to Get The Most from Your Child's Teacher\""
+  },
+  "date":{
+    "0":"2013-08-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "blog",
+      "~med",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "blog",
+      "blog"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "070"
+    ]
+  }
+}

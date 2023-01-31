@@ -1,0 +1,82 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thecrimson.com\/article\/2016\/2\/19\/Williams-Dean-public-health-school\/"
+  },
+  "headline":{
+    "0":"Michelle A. Williams Becomes Harvard\u2019s First Black Faculty Dean"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Michelle A. Williams, an epidemiologist and professor at the School of Public Health, will lead the school as its next dean"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-02-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "school",
+      "~edu",
+      "~",
+      "professor",
+      "school",
+      "~edu",
+      "~",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "dean",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... lead"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "schools",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-obama-should-ask-cong_b_5745460.html"
+  },
+  "headline":{
+    "0":"Why Obama Should Ask Congress for an ISIS AUMF"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"If the Obama administration finds it necessary to expand U.S. military activity against the IS into Syria, President Obama will quickly face a wave of pressure on Capitol Hill on the need to submit a new Authorization for the Use of Military Force for congressional debate and approval."
+  },
+  "authors":{
+    "0":"Daniel R. DePetris, ContributorNational Security Dude, Observer of Congress, Currently Outsid..."
+  },
+  "date":{
+    "0":"2014-09-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"imgmusisileg"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "congress",
+      "imgmusisileg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ask"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "imgmusisileg",
+      "020"
+    ]
+  }
+}

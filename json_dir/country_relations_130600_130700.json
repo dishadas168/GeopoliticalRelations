@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/5-questions-the-worlds-mo_us_5b9df552e4b03a1dcc8f82aa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-enemy-of-family-farmers_us_5b9d94a0e4b03a1dcc89c886"
+  },
+  "headline":{
+    "0":"5 Questions the World's Most Successful People Ask Themselves",
+    "1":"Monsanto: The Enemy Of Family Farmers"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"Uber-successful people ride the waves of life with grace and ease, instead of fighting against the current and pushing in directions that are closed off. Relax into the natural rhythm of your life and watch your dreams come true.",
+    "1":"Monsanto is cozying up to the reputation, authenticity and wholesomeness of family farmers -- and hoping the all-American nostalgia many associate with the small scale farmer rubs off on them."
+  },
+  "authors":{
+    "0":"Shannon Kaiser, Contributor\nBest-Selling Author, International Entrepreneur Coach, Teacher",
+    "1":"Elizabeth Kucinich, Contributor\nPolicy Director, Center for Food Safety"
+  },
+  "date":{
+    "0":"2014-04-03 00:00:00",
+    "1":"2014-04-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"mncusaagr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---agr"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "monsanto",
+      "mncusaagr",
+      "monsanto",
+      "farmers",
+      "~agr",
+      "~",
+      "farmers",
+      "~agr",
+      "~",
+      "farmer",
+      "~agr",
+      "~",
+      "farmer",
+      "~agr",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "monsanto",
+      "farmers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "monsanto",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ask"
+    ],
+    "1":[
+      "is ... hoping"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "agriculture",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "020"
+    ],
+    "1":[
+      "mncusaagr",
+      "---agr",
+      "020"
+    ]
+  }
+}

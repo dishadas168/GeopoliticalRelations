@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/al-gore-takes-on-trump-on-provable-idiocy_us_596f8e54e4b02700a905eb79",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/australian-lawmakers-citizenship_us_596e1d02e4b0e983c0591825"
+  },
+  "headline":{
+    "0":"Al Gore Takes On Trump On 'Provable Idiocy'",
+    "1":"Australian Lawmakers Scramble To Confirm Citizenship After Colleagues' Sudden Resignations"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\u201cWhen President Trump made his speech withdrawing the U.S. from the Paris agreement I was worried that other countries would",
+    "1":"Australia's constitution bans dual citizens from serving in Parliament."
+  },
+  "authors":{
+    "0":"Steven Rosenbaum  , ContributorTechnologist \/ Business Leader \/ Author",
+    "1":"Jesselyn Cook"
+  },
+  "date":{
+    "0":"2017-07-19 00:00:00",
+    "1":"2017-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"aus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"161",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "australia",
+      "aus",
+      "australia",
+      "citizens",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "u.s."
+    ],
+    "1":[
+      "australia",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "australia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "made ... withdrawing ... from <&treaty>"
+    ],
+    "1":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "161"
+    ],
+    "1":[
+      "aus",
+      "---cvl",
+      "172"
+    ]
+  }
+}

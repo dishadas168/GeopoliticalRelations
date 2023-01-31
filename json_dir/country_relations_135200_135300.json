@@ -1,0 +1,81 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-brain-disease_us_5b9ddb74e4b03a1dcc8dccd6"
+  },
+  "headline":{
+    "0":"18 North Carolina Patients Possibly Exposed To Rare Brain Disease"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Last year, health officials said at least 15 patients in Connecticut, Massachusetts and New Hampshire may have been exposed"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2014-02-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---govhlh"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "health officials",
+      "~govhlh",
+      "~",
+      "connecticut",
+      "massachusetts",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "health officials",
+      "connecticut"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---govhlh",
+      "usa",
+      "010",
+      "---govhlh",
+      "usa",
+      "010"
+    ]
+  }
+}

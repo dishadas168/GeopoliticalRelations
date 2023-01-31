@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.wsj.com\/articles\/regulators-propose-banning-theranos-founder-elizabeth-holmes-for-at-least-two-years-1460570869"
+  },
+  "headline":{
+    "0":"Regulators Propose Banning Theranos Founder Elizabeth Holmes For At Least Two Years"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Federal health regulators have proposed banning Theranos Inc. founder Elizabeth Holmes from the blood-testing business for"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-04-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "regulators",
+      "~gov",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "regulators",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have proposed banning"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---bus",
+      "172"
+    ]
+  }
+}

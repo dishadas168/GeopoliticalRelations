@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/immigrant-detention-deaths_us_56cf3c68e4b03260bf75cb51",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/st-louis-islamophobia_us_56cd19abe4b0928f5a6dad6e",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/world\/national-security\/texas-sheriff-releases-report-on-supreme-court-justice-scalias-death\/2016\/02\/23\/8c0bdb0c-da82-11e5-891a-4ed04f4213e8_story.html"
+  },
+  "headline":{
+    "0":"These Immigrants Died In Government Custody, And That Could Have Been Prevented",
+    "1":"Man Allegedly Brandishes Gun, Yells 'All Of You Should Die' To Muslim Couple",
+    "2":"Texas Sheriff\u2019s Report Reveals More Details On Supreme Court Justice Scalia\u2019s Death"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"A new report reveals failures to provide adequate care for eight detainees.",
+    "1":"Local religious leaders have called for the act to be prosecuted as a hate crime.",
+    "2":"A Texas sheriff\u2019s department released an incident report late Tuesday that revealed new details of the discovery of Supreme"
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Nick Visser",
+    "2":""
+  },
+  "date":{
+    "0":"2016-02-25 00:00:00",
+    "1":"2016-02-24 00:00:00",
+    "2":"2016-02-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"usacop"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---mus",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"184",
+    "1":"190",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":-8.0,
+    "1":-10.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "immigrants",
+      "~cvl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ],
+    "2":[
+      "texas",
+      "sheriff",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "immigrants"
+    ],
+    "1":[
+      "man",
+      "muslim"
+    ],
+    "2":[
+      "texas sheriff",
+      "supreme court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "died in <&detention>"
+    ],
+    "1":[
+      "should die"
+    ],
+    "2":[
+      "reveals"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "184"
+    ],
+    "1":[
+      "---ppl",
+      "---mus",
+      "190"
+    ],
+    "2":[
+      "usacop",
+      "---jud",
+      "050"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mexican-students-acid_us_5adf241ae4b036e7aeb63be4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/saudi-led-strikes-yemen-wedding_us_5adf66cae4b07be4d4c565ef"
+  },
+  "headline":{
+    "0":"3 Mexican Students Killed, Dissolved In Acid: Officials",
+    "1":"Saudi Coalition Air Strikes Kill At Least 20 At Yemen Wedding"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Authorities say criminals confused the film students for members of a rival gang.",
+    "1":"The Western-backed alliance has been fighting in the war, which has killed more than 10,000 people,  for three years."
+  },
+  "authors":{
+    "0":"Lizbeth Diaz, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2018-04-24 00:00:00",
+    "1":"2018-04-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"sau"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"yem"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "criminals",
+      "~crm",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "gang",
+      "~crm",
+      "~",
+      "gang",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia",
+      "yemen",
+      "yem",
+      "yemen"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "criminals"
+    ],
+    "1":[
+      "saudi",
+      "yemen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "saudi arabia",
+      "yemen"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "strikes kill"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "organized_crime",
+      "1"
+    ],
+    "1":[
+      "airstrike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---crm",
+      "010"
+    ],
+    "1":[
+      "sau",
+      "yem",
+      "190"
+    ]
+  }
+}

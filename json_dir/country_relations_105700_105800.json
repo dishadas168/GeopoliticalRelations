@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gop-torture-report_n_6527476.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-and-india-love-in-t_b_6528860.html"
+  },
+  "headline":{
+    "0":"Senate Intelligence Committee Democrats Prepare To Battle New GOP Chairman On CIA Torture Report",
+    "1":"Obama and India: Love in the Time of Cholera"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"President Obama will be in India for a three-day visit starting Sunday, searching for that elusive foreign policy triumph to consolidate his presidential legacy. This is not the first time that New Delhi has come to the rescue of a president who lost his sheen."
+  },
+  "authors":{
+    "0":"Ali Watkins",
+    "1":"Sunil Adam, ContributorEditor, News India Times"
+  },
+  "date":{
+    "0":"2015-01-23 00:00:00",
+    "1":"2015-01-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"ind"
+  },
+  "actor2":{
+    "0":"usaspy",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "senate intelligence committee",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ],
+    "1":[
+      "new delhi",
+      "ind",
+      "india",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate intelligence committee",
+      "cia"
+    ],
+    "1":[
+      "new delhi",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "us intelligence community"
+    ],
+    "1":[
+      "india",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "prepare"
+    ],
+    "1":[
+      "has come to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "usaspy",
+      "030"
+    ],
+    "1":[
+      "ind",
+      "---gov",
+      "040"
+    ]
+  }
+}

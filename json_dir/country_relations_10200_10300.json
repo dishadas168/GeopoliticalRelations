@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flight-records-contradict-trump-pee-tape-whereabouts_us_5ade5610e4b036e7aeb59162",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/single-women-unreal-jessica-jones_us_5ade1517e4b0df502a4e598e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/martha-mcsally-alleged-sexual-abuse-high-school_us_5ade5570e4b036e7aeb5914c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/tennessee-shooting-suspect-arrested-last-year-at-white-house_us_5addbb04e4b089e33c8a1f95"
+  },
+  "headline":{
+    "0":"Flight Records Disprove Trump's Claim About 'Pee Tape' Weekend Whereabouts",
+    "1":"TV Is Finally Catching Up With Real Single Women",
+    "2":"Arizona Congresswoman Alleges Sexual Abuse By High School Coach",
+    "3":"Tennessee Shooting Suspect Arrested Last Year At White House"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president insisted he didn't spend a night in Moscow. Records show he did.",
+    "1":"\"UnREAL\" joins a lengthy list of TV shows subverting the idea that for women, all narrative roads lead toward coupledom.",
+    "2":"Rep. Martha McSally (R-Ariz.) says her track coach pressured her to have sex with him. He denies the accusation.",
+    "3":"Travis Reinking's guns were taken away after he tried to meet with the president, but his dad apparently got them back for him."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Emma Gray",
+    "2":"Doha Madani",
+    "3":"Paul Vale"
+  },
+  "date":{
+    "0":"2018-04-24 00:00:00",
+    "1":"2018-04-24 00:00:00",
+    "2":"2018-04-23 00:00:00",
+    "3":"2018-04-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---med",
+    "2":"usaleg",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---edu",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"171",
+    "2":"110",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-9.2,
+    "2":-2.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "tv",
+      "~med",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "arizona",
+      "congresswoman",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "high school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "tv",
+      "women"
+    ],
+    "2":[
+      "arizona congresswoman",
+      "high school"
+    ],
+    "3":[
+      "tennessee",
+      "white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "is ... catching"
+    ],
+    "2":[
+      "alleges"
+    ],
+    "3":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "gender_violence",
+      "1",
+      "schools",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "100"
+    ],
+    "1":[
+      "---med",
+      "---cvl",
+      "171"
+    ],
+    "2":[
+      "usaleg",
+      "---edu",
+      "110"
+    ],
+    "3":[
+      "usa",
+      "usagov",
+      "173"
+    ]
+  }
+}

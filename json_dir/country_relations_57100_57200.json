@@ -1,0 +1,242 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-hillary-clinton-bigot_us_57be479ce4b085c1ff27b8c1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pulse-nightclub-medical-expense-forgiveness_us_57bf0550e4b085c1ff27fd50",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/paul-lepage-binder_us_57bef320e4b085c1ff27e492",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/seattle-homeless-shelter-may-allow-residents-to-use-heroin_us_57bcad3fe4b0b51733a64cbd",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/how-to-help-victims-italy-earthquake_us_57bf020de4b085c1ff27f8c5"
+  },
+  "headline":{
+    "0":"Donald Trump, Surrounded By White People, Calls Hillary Clinton A \u2018Bigot\u2019 Who Won't Help Minorities",
+    "1":"Orlando Hospitals Announce They Won't Charge Pulse Nightclub Massacre Victims",
+    "2":"Paul LePage Keeps A Binder Of Mugshots To Prove He's Not Racist",
+    "3":"Proposed Seattle Homeless Shelter May Allow Residents To Use Heroin",
+    "4":"How To Help Victims Of Italy's Earthquake"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"POLITICS",
+    "3":"IMPACT",
+    "4":"IMPACT"
+  },
+  "short_description":{
+    "0":"\"She\u2019s going to do nothing for African-Americans, she\u2019s going to do nothing for the Hispanics.\"",
+    "1":"Wow.",
+    "2":"The Maine governor said he started the collection after people criticized him for calling black people criminals.",
+    "3":"Supporters say it could help prevent overdose deaths, HIV and hepatitis C transmissions and keep used needles off the streets.",
+    "4":"At least 267 people have died after a 6.2 magnitude quake struck central Italy."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"James Michael Nichols",
+    "2":"Arthur Delaney",
+    "3":"Eleanor Goldberg",
+    "4":"Sarah Ruiz-Grossman"
+  },
+  "date":{
+    "0":"2016-08-25 00:00:00",
+    "1":"2016-08-25 00:00:00",
+    "2":"2016-08-25 00:00:00",
+    "3":"2016-08-25 00:00:00",
+    "4":"2016-08-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usahlh",
+    "2":"usagov",
+    "3":"usa",
+    "4":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"---cvl",
+    "4":"ita"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"111",
+    "2":"010",
+    "3":"08",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":5.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "orlando",
+      "hospitals",
+      "usahlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "maine",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "italy",
+      "ita",
+      "italy"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "people",
+      "people",
+      "hillary clinton"
+    ],
+    "1":[
+      "orlando hospitals",
+      "victims"
+    ],
+    "2":[
+      "maine governor",
+      "maine governor"
+    ],
+    "3":[
+      "seattle",
+      "residents"
+    ],
+    "4":[
+      "people",
+      "italy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---",
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "italy"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "announce ... wo ... charge ... massacre"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "may allow"
+    ],
+    "4":[
+      "have died ... struck"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":[
+      "id_atrocity",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "poverty",
+      "1",
+      "drugs",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---ppl",
+      "041",
+      "---ppl",
+      "usaeli",
+      "041"
+    ],
+    "1":[
+      "usahlh",
+      "---cvl",
+      "111"
+    ],
+    "2":[
+      "usagov",
+      "usagov",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "08"
+    ],
+    "4":[
+      "---ppl",
+      "ita",
+      "190"
+    ]
+  }
+}

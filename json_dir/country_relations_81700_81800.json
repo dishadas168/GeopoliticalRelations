@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/media\/greenslade\/2015\/nov\/02\/will-erdogan-allow-greater-press-freedom-in-turkey-dont-count-on-it",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/media\/greenslade\/2015\/nov\/02\/will-erdogan-allow-greater-press-freedom-in-turkey-dont-count-on-it"
+  },
+  "headline":{
+    "0":"Will Erdogan Allow Greater press Freedom In Turkey? Don't Count On It",
+    "1":"Will Erdogan Allow Greater press Freedom In Turkey? Don't Count On It"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"Recep Tayyip Erdo\u011fan\u2019s surprise election victory does not augur well for journalism in Turkey. A president who has shown",
+    "1":"Recep Tayyip Erdo\u011fan\u2019s surprise election victory does not augur well for journalism in Turkey. A president who has shown"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2015-11-03 00:00:00",
+    "1":"2015-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"turgov"
+  },
+  "actor2":{
+    "0":"tur",
+    "1":"tur"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"011"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-0.1
+  },
+  "nouns":{
+    "0":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "1":[
+      "recep tayyip erdo\u011fan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "turkey",
+      "tur",
+      "turkey"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "erdogan",
+      "turkey"
+    ],
+    "1":[
+      "recep tayyip erdo\u011fan",
+      "turkey"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "recep tayyip erdogan",
+      "turkey"
+    ],
+    "1":[
+      "recep tayyip erdogan",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allow"
+    ],
+    "1":[
+      "does"
+    ]
+  },
+  "issues":{
+    "0":[
+      "media_censorship",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "tur",
+      "08"
+    ],
+    "1":[
+      "turgov",
+      "tur",
+      "011"
+    ]
+  }
+}

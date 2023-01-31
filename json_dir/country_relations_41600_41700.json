@@ -1,0 +1,177 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-chinese-social-media-checks_us_58ab0863e4b037d17d29bad7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-britain-may_us_58ab6472e4b07028b7031569",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/planet-earth-2-david-attenborough_us_58aafba7e4b037d17d29a0e9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/not-my-presidents-day-protests_us_58ab1f9ce4b07602ad56cece"
+  },
+  "headline":{
+    "0":"Trump Administration Proposes Social Media Checks On Chinese Visitors",
+    "1":"UK Government Defends Trump's State Visit Amid Protests",
+    "2":"Nature Doc Extraordinaire David Attenborough Joins BBC's 'Blue Planet' Sequel",
+    "3":"Thousands Rally At Anti-Trump 'Not My Presidents Day' Events"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The information will be used for vetting purposes, the screening notice states.",
+    "1":"Thousands of protesters gathered outside parliament to oppose the trip.",
+    "2":"At age 90.",
+    "3":"People around the country spent the holiday speaking out against the president's agenda."
+  },
+  "authors":{
+    "0":"Kimberly Yam",
+    "1":"",
+    "2":"",
+    "3":"Kate Abbey-Lambertz, Hayley Miller, and Kim Bellware"
+  },
+  "date":{
+    "0":"2017-02-20 00:00:00",
+    "1":"2017-02-20 00:00:00",
+    "2":"2017-02-20 00:00:00",
+    "3":"2017-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---opp",
+    "2":"---hlh",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"---leg",
+    "2":"med",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"040",
+    "2":"040",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":1.0,
+    "2":1.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "parliament",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "doc",
+      "~hlh",
+      "~",
+      "bbc",
+      "med",
+      "bbc"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "chinese"
+    ],
+    "1":[
+      "protesters",
+      "parliament"
+    ],
+    "2":[
+      "doc",
+      "bbc"
+    ],
+    "3":[
+      "people",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "china"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "bbc"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "proposes"
+    ],
+    "1":[
+      "gathered"
+    ],
+    "2":[
+      "joins"
+    ],
+    "3":[
+      "spent ... speaking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "chn",
+      "020"
+    ],
+    "1":[
+      "---opp",
+      "---leg",
+      "040"
+    ],
+    "2":[
+      "---hlh",
+      "med",
+      "040"
+    ],
+    "3":[
+      "---ppl",
+      "---gov",
+      "010"
+    ]
+  }
+}

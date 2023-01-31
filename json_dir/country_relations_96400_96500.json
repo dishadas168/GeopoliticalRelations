@@ -1,0 +1,204 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-womens-roles-look-like-on-the-ground_b_7275138.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/after-ebola-how-civil-society-can-help-mitigate-the-next-crisis_b_7275146.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/after-ebola-how-civil-society-can-help-mitigate-the-next-crisis_b_7275146.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/all-in-elon-musks-denial-and-things-bosses-actually-have-said_b_7266826.html"
+  },
+  "headline":{
+    "0":"The Women of Iraq: What Women's Roles Look Like on the Ground",
+    "1":"After Ebola: How Civil Society Can Help Mitigate the Next Crisis",
+    "2":"After Ebola: How Civil Society Can Help Mitigate the Next Crisis",
+    "3":"All In: Elon Musk's Denial and Things Bosses Actually Have Said"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"IMPACT",
+    "2":"IMPACT",
+    "3":"BUSINESS"
+  },
+  "short_description":{
+    "0":"When Huda answered ISIL's knock on the door, she found men outside her home. Toting guns, they asked her why her son was in school instead of fighting alongside them. Women also came to Huda's home in Mosul, Iraq on behalf of ISIL.",
+    "1":"After a period of intense national suffering, Liberia has just been declared Ebola-free by the World Health Organization. In addition to thanking the dedicated health care workers in her country, President Sirleaf acknowledged the key role civil society played in helping to turn the tide.",
+    "2":"After a period of intense national suffering, Liberia has just been declared Ebola-free by the World Health Organization. In addition to thanking the dedicated health care workers in her country, President Sirleaf acknowledged the key role civil society played in helping to turn the tide.",
+    "3":"This workplace gender policing is hurting everyone -- men, women, children and the businesses themselves.  Across the country, men are joining with women to rise up against the backward policies, laws and stigmas that are damaging us and preventing us from achieving gender equality."
+  },
+  "authors":{
+    "0":"Catherine Russell, ContributorU.S. Ambassador-at-Large for Global Women\u2019s Issues",
+    "1":"Randal Mason, ContributorInternational Development Consultant",
+    "2":"Randal Mason, ContributorInternational Development Consultant",
+    "3":"Josh Levs, ContributorAuthor, All In: How Our Work-First Culture Fails Dads, Familie..."
+  },
+  "date":{
+    "0":"2015-05-14 00:00:00",
+    "1":"2015-05-14 00:00:00",
+    "2":"2015-05-14 00:00:00",
+    "3":"2015-05-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"igounohlhwho",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"lbr",
+    "2":"---ngo",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"015",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "mosul",
+      "iraq",
+      "irq",
+      "irq",
+      "iraq",
+      "iraq",
+      "isil",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "liberia",
+      "lbr",
+      "liberia",
+      "world health organization",
+      "igounohlhwho",
+      "world",
+      "health",
+      "organization"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "civil society",
+      "~ngo",
+      "~",
+      "civil society",
+      "~ngo",
+      "~"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "mosul",
+      "women",
+      "isil"
+    ],
+    "1":[
+      "world health organization",
+      "liberia"
+    ],
+    "2":[
+      "president",
+      "civil society"
+    ],
+    "3":[
+      "men",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iraq",
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "world health organization",
+      "liberia"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "came to",
+      "came to"
+    ],
+    "1":[
+      "<lbr> ... declared ... by <igounohlhwho>"
+    ],
+    "2":[
+      "acknowledged"
+    ],
+    "3":[
+      "are joining"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "civil_society",
+      "1"
+    ],
+    "3":[
+      "womens_movement",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "irq",
+      "040",
+      "---cvl",
+      "irq",
+      "040",
+      "---cvl",
+      "imgmusisi",
+      "040"
+    ],
+    "1":[
+      "igounohlhwho",
+      "lbr",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---ngo",
+      "015"
+    ],
+    "3":[
+      "---ppl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

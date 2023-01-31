@@ -1,0 +1,234 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/so-that-happened-kunduz_us_5616d43ae4b0e66ad4c712e6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/schools-menstruation_us_56184884e4b0dbb8000ebd60",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pentagon-russia-talks-syria-air-space_us_561866e8e4b0082030a2c39b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/38-killed-and-51-wounded-in-suspected-boko-haram-suicide-blast_us_56194f32e4b0e66ad4c82914",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/pentagon-us-payments-kunduz-hospital-victims_us_561990dde4b0e66ad4c832eb"
+  },
+  "headline":{
+    "0":"Doctors Without Borders Meets Bombing Without Consequences",
+    "1":"Kenyan Schoolgirls Dread Their Periods. Simple Changes Could Help.",
+    "2":"New U.S.-Russia Military Talks Seen On Syria Air Safety",
+    "3":"Suspected Boko Haram Suicide Blasts Kill Dozens In Chad",
+    "4":"Pentagon Says U.S. To Make Payments To Families Of Kunduz Air Strike Victims"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Obama has apologized for the bombing of a Kunduz hospital, but will we ever know how this happened?",
+    "1":"Many girls in the developing world feel they are forced to skip school while they are menstruating. They don\u2019t have proper",
+    "2":"WASHINGTON, Oct 9 (Reuters) - The Pentagon said on Friday it expected to hold new talks with Russia's military on pilot safety",
+    "3":"N'DJAMENA, Oct 10 (Reuters) - Five suicide bombers killed 33 people in Chad and wounded 51 more in a coordinated attack suspected",
+    "4":"WASHINGTON, Oct 10 (Reuters) - The U.S. Department of Defense will seek to make \"condolence payments\" to families of victims"
+  },
+  "authors":{
+    "0":"Jason Linkins",
+    "1":"Sarah Jewitt, Associate Professor, University of Nottingham, The Conversation",
+    "2":"Phil Stewart, Reuters",
+    "3":"Madjiasra Nako, Joe Bavier and Kevin Liffey, Reuters",
+    "4":""
+  },
+  "date":{
+    "0":"2015-10-10 00:00:00",
+    "1":"2015-10-10 00:00:00",
+    "2":"2015-10-10 00:00:00",
+    "3":"2015-10-10 00:00:00",
+    "4":"2015-10-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---cvl",
+    "2":"usamil",
+    "3":"---reb",
+    "4":"usamil"
+  },
+  "actor2":{
+    "0":"afghlh",
+    "1":"---cvl",
+    "2":"rusmil",
+    "3":"tcdppl",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"055",
+    "1":"170",
+    "2":"046",
+    "3":"1831",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-7.0,
+    "2":7.0,
+    "3":-10.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "kunduz",
+      "hospital",
+      "afghlh",
+      "afghanistan",
+      "~"
+    ],
+    "1":[
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "russia",
+      "military",
+      "rusmil",
+      "russian",
+      "federation",
+      "~"
+    ],
+    "3":[
+      "suicide bombers",
+      "~reb",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "chad",
+      "tcd",
+      "chad"
+    ],
+    "4":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "kunduz hospital"
+    ],
+    "1":[
+      "girls",
+      "girls"
+    ],
+    "2":[
+      "pentagon",
+      "russia ... military"
+    ],
+    "3":[
+      "suicide bombers",
+      "---"
+    ],
+    "4":[
+      "pentagon",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "afghanistan"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states military",
+      "russian federation"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states military",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has apologized"
+    ],
+    "1":[
+      "feel <~cvl> ... forced"
+    ],
+    "2":[
+      "said ... expected ... hold ... talks"
+    ],
+    "3":[
+      "<and> <{suicide> <&weapon}> ... killed"
+    ],
+    "4":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "suicide_attack",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "afghlh",
+      "055"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "170"
+    ],
+    "2":[
+      "usamil",
+      "rusmil",
+      "046"
+    ],
+    "3":[
+      "---reb",
+      "tcdppl",
+      "1831"
+    ],
+    "4":[
+      "usamil",
+      "usa",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ta-nehisi-coates-isnt-feeling-the-bern-but-hes-voting-sanders-anyway_us_56bb5e98e4b08ffac1236646"
+  },
+  "headline":{
+    "0":"Ta-Nehisi Coates Isn't Feeling The Bern, But He's Voting Bernie Sanders Anyway"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The influential journalist has called the presidential candidate out on racism and reparations."
+  },
+  "authors":{
+    "0":"Julia Craven"
+  },
+  "date":{
+    "0":"2016-02-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---pty"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "journalist",
+      "~med",
+      "~",
+      "presidential candidate",
+      "~pty",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "journalist",
+      "presidential candidate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has called ... on"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---pty",
+      "020"
+    ]
+  }
+}

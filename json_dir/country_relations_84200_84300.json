@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/now-you-can-send-congress-your-uterus_us_561282f9e4b0af3706e14b0c"
+  },
+  "headline":{
+    "0":"Now You Can 'Send Congress Your Uterus'"
+  },
+  "category":{
+    "0":"WOMEN"
+  },
+  "short_description":{
+    "0":"Let legislators know that you don't appreciate being told what to do with your body."
+  },
+  "authors":{
+    "0":"Nina Bahadur"
+  },
+  "date":{
+    "0":"2015-10-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg"
+  },
+  "actor2":{
+    "0":"---leg"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "legislators",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "legislators",
+      "legislators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "know <~leg> ... appreciate ... told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---leg",
+      "010"
+    ]
+  }
+}

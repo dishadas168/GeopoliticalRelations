@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/save-the-rohingyas-from-extinction_us_59b3a136e4b0c50640cd6776"
+  },
+  "headline":{
+    "0":"The Global Community Must Save The Rohingyas From Extinction"
+  },
+  "category":{
+    "0":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The largely Muslim ethnic group is being decimated in Myanmar. When will the world respond appropriately?"
+  },
+  "authors":{
+    "0":"Saad Khan, ContributorPolitics and Global Affairs Analyst"
+  },
+  "date":{
+    "0":"2017-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"mmr"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "ethnic group",
+      "~cvl",
+      "~",
+      "myanmar",
+      "mmr",
+      "myanmar"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "myanmar",
+      "ethnic group"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "myanmar",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~cvl> ... decimated in <mmr>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mmr",
+      "---cvl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/honestly-same-sex-wedding-cakes-just-taste-better_us_5957083fe4b0326c0a8d10b9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/china-reax-us-arms-deal-taiwan_us_59561a2de4b0da2c7322a8b2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mexico-journalists-killings_us_5953b13ce4b02734df2eec11",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/israels-quiet-campaign-to-gain-a-foothold-in-southern-syria_us_59567c76e4b0da2c73232a48"
+  },
+  "headline":{
+    "0":"Honestly, Same-Sex Wedding Cakes Just Taste Better",
+    "1":"China 'Outraged' By U.S. Arms Deal With Taiwan",
+    "2":"Why So Many Journalists Are Disappearing And Dying In Mexico",
+    "3":"Israel\u2019s Quiet Campaign to Gain a Foothold in Southern Syria"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The Supreme Court, along with reality show star Neil Gorsuch, announced that it will hear the case of the Colorado baker",
+    "1":"China\u2019s embassy to the U.S. urged Washington to revoke its \u201cwrong decision\u201d immediately.",
+    "2":"Seven reporters have been killed in Mexico so far this year.",
+    "3":"Despite its official policy of non-intervention, Israel has taken on a very proactive role in Syria, working to establish"
+  },
+  "authors":{
+    "0":"Galanty Miller , Contributorwriter, www.scottgalantymiller.com",
+    "1":"",
+    "2":"Jesselyn Cook",
+    "3":"Nour Samaha, Syria Deeply"
+  },
+  "date":{
+    "0":"2017-07-01 00:00:00",
+    "1":"2017-06-30 00:00:00",
+    "2":"2017-06-30 00:00:00",
+    "3":"2017-06-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"mex",
+    "3":"isr"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"chn",
+    "2":"---med",
+    "3":"syr"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"110",
+    "2":"190",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":-10.0,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "reporters",
+      "~med",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "3":[
+      "israel",
+      "isr",
+      "israel",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "colorado"
+    ],
+    "1":[
+      "u.s.",
+      "china"
+    ],
+    "2":[
+      "mexico",
+      "reporters"
+    ],
+    "3":[
+      "israel",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "china"
+    ],
+    "2":[
+      "mexico",
+      "---"
+    ],
+    "3":[
+      "israel",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced ... will hear"
+    ],
+    "1":[
+      "outraged ... by <usa>"
+    ],
+    "2":[
+      "<~med> ... killed in mex"
+    ],
+    "3":[
+      "has taken"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_arms_deal",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "chn",
+      "110"
+    ],
+    "2":[
+      "mex",
+      "---med",
+      "190"
+    ],
+    "3":[
+      "isr",
+      "syr",
+      "171"
+    ]
+  }
+}

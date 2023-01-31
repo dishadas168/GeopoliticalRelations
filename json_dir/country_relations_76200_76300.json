@@ -1,0 +1,305 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/people-offer-free-hugs-to-spread-love-one-year-after-paris-attacks_us_56927cb3e4b0a2b6fb7079ae",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/air-strike-kills-dozens-syrian-un-envoy-in-damascus_us_56919e43e4b0c8beacf74b20",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.bloomberg.com\/news\/articles\/2016-01-10\/u-s-flies-b-52-over-south-korea-after-north-s-nuclear-test",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/state-of-the-union-guests_us_569280b6e4b0a2b6fb707a42",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/kosovo-protests-fire_us_56912a6ce4b0a2b6fb704d30",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestinian-attacks_us_56912813e4b0a2b6fb704cea",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestinian-attacks_us_56912813e4b0a2b6fb704cea"
+  },
+  "headline":{
+    "0":"People Offer Free Hugs To Spread Love As Paris Remembers Victims Of Attacks",
+    "1":"Air Strike Reportedly Kills 57 In Rebel-Held Town As U.S. Envoy Visits Damascus",
+    "2":"U.S. Flies Bomber Over South Korea In Show Of Force Against North Korea",
+    "3":"Here's Who The Obamas Invited To The State Of The Union Address",
+    "4":"Kosovo Protesters Set Fire To Government HQ",
+    "5":"Israeli Military Says 2 Palestinian Attackers Shot Dead",
+    "6":"Israeli Military Says 2 Palestinian Attackers Shot Dead"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Thousands gathered to pay their respects to the victims of the 2015 attacks in France.",
+    "1":"The strikes, identified as Russian by the Syrian Observatory for Human Rights, occurred as a U.N. envoy visited Damascus.",
+    "2":"The U.S. flew a B-52 long-range bomber over South Korea in a show of force after North Korea conducted its fourth nuclear",
+    "3":"The president will deliver his final address to Congress on Tuesday.",
+    "4":"Police used tear gas to drive back several thousand anti-government demonstrators.",
+    "5":"Palestinian attacks have killed 21 people in recent months, during which 137 Palestinians have been killed.",
+    "6":"Palestinian attacks have killed 21 people in recent months, during which 137 Palestinians have been killed."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Tom Perry and Mariam Karouny, Reuters",
+    "2":"",
+    "3":"Igor Bobic",
+    "4":"",
+    "5":"",
+    "6":""
+  },
+  "date":{
+    "0":"2016-01-10 00:00:00",
+    "1":"2016-01-10 00:00:00",
+    "2":"2016-01-10 00:00:00",
+    "3":"2016-01-10 00:00:00",
+    "4":"2016-01-09 00:00:00",
+    "5":"2016-01-09 00:00:00",
+    "6":"2016-01-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"syr",
+    "2":"usa",
+    "3":"---gov",
+    "4":"ksvopp",
+    "5":"isrmil",
+    "6":"pse"
+  },
+  "actor2":{
+    "0":"fracvl",
+    "1":"---gov",
+    "2":"kormil",
+    "3":"---leg",
+    "4":"---gov",
+    "5":"pse",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"043",
+    "2":"072",
+    "3":"010",
+    "4":"180",
+    "5":"010",
+    "6":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":2.8,
+    "2":8.3,
+    "3":0.0,
+    "4":-9.0,
+    "5":0.0,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "paris",
+      "fra",
+      "france",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "envoy",
+      "~gov",
+      "~",
+      "damascus",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "south korea",
+      "kor",
+      "south",
+      "korea",
+      "bomber",
+      "kormil",
+      "~",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "kosovo",
+      "protesters",
+      "ksvopp",
+      "kosovo",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "israeli",
+      "military",
+      "isrmil",
+      "israel",
+      "~",
+      "palestinian",
+      "pse",
+      "palestine"
+    ],
+    "6":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "---"
+    ],
+    "1":[
+      "damascus",
+      "envoy",
+      "envoy",
+      "damascus"
+    ],
+    "2":[
+      "u.s.",
+      "bomber"
+    ],
+    "3":[
+      "president",
+      "congress"
+    ],
+    "4":[
+      "kosovo protesters",
+      "government"
+    ],
+    "5":[
+      "israeli military",
+      "palestinian"
+    ],
+    "6":[
+      "palestinian",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "syria",
+      "---",
+      "---",
+      "syria"
+    ],
+    "2":[
+      "united states of america",
+      ""
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "kosovo",
+      "---"
+    ],
+    "5":[
+      "israel",
+      "palestine"
+    ],
+    "6":[
+      "palestine",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offer"
+    ],
+    "1":[
+      "visits",
+      "visits"
+    ],
+    "2":[
+      "flew <&weapon>"
+    ],
+    "3":[
+      "will deliver ... address"
+    ],
+    "4":[
+      "set fire"
+    ],
+    "5":[
+      "says"
+    ],
+    "6":[
+      "have killed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "fracvl",
+      "030"
+    ],
+    "1":[
+      "syr",
+      "---gov",
+      "043",
+      "---gov",
+      "syr",
+      "042"
+    ],
+    "2":[
+      "usa",
+      "kormil",
+      "072"
+    ],
+    "3":[
+      "---gov",
+      "---leg",
+      "010"
+    ],
+    "4":[
+      "ksvopp",
+      "---gov",
+      "180"
+    ],
+    "5":[
+      "isrmil",
+      "pse",
+      "010"
+    ],
+    "6":[
+      "pse",
+      "---ppl",
+      "190"
+    ]
+  }
+}

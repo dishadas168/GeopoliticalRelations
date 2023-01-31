@@ -1,0 +1,177 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/elephant-kills-zookeeper-spain_n_603a29bbc5b6d7794adf30c7",
+    "1":"https:\/\/www.huffpost.com\/entry\/prince-william-update-prince-philip_n_60351300c5b673b19b6b6444",
+    "2":"https:\/\/www.huffpost.com\/entry\/tokyo-olympics-seiko-hashimoto-new-chief-after-sexism_n_602e4c58c5b673b19b664c53",
+    "3":"https:\/\/www.huffpost.com\/entry\/china-biden-covid-19_n_60292392c5b6f88289fc675e"
+  },
+  "headline":{
+    "0":"Zookeeper Dies After Being Struck By Elephant's Trunk",
+    "1":"Prince William Gives Update On Hospitalized Grandfather Prince Philip",
+    "2":"Legendary Olympic Athlete Takes Over Tokyo Games Following Sexism Backlash",
+    "3":"China Fires Back At U.S. Allegations Of Lack Of COVID-19 Transparency"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Authorities said Joaqu\u00edn Guti\u00e9rrez was knocked back and hit his head on bars at Cab\u00e1rceno Nature Park near Santander, Spain.",
+    "1":"Buckingham Palace said the husband of Queen Elizabeth II was expected to remain in the hospital into this week for a period of \u201cobservation and rest.\u201d",
+    "2":"Seven-time Olympian Seiko Hashimoto replaces Yoshiro Mori, the former Japanese prime minister forced to resign over sexist comments about women.",
+    "3":"The White House said it had \"deep concerns\" about the way in which Beijing \"communicated\" its early findings on the coronavirus outbreak."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"STEPHEN WADE, AP",
+    "3":""
+  },
+  "date":{
+    "0":"2021-02-27 00:00:00",
+    "1":"2021-02-23 00:00:00",
+    "2":"2021-02-18 00:00:00",
+    "3":"2021-02-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"---cvl",
+    "3":"chn"
+  },
+  "actor2":{
+    "0":"esp",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"jpn",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"171",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-9.2,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "spain",
+      "esp",
+      "spain"
+    ],
+    "1":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ],
+    "2":[
+      "athlete",
+      "~cvl",
+      "~",
+      "tokyo",
+      "jpn",
+      "japan"
+    ],
+    "3":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "spain"
+    ],
+    "1":[
+      "prince",
+      "prince"
+    ],
+    "2":[
+      "athlete",
+      "tokyo"
+    ],
+    "3":[
+      "china",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "spain"
+    ],
+    "1":[
+      "prince",
+      "prince"
+    ],
+    "2":[
+      "---",
+      "japan"
+    ],
+    "3":[
+      "china",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... hit"
+    ],
+    "1":[
+      "gives <&information>"
+    ],
+    "2":[
+      "takes"
+    ],
+    "3":[
+      "fires"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "esp",
+      "190"
+    ],
+    "1":[
+      "'ulukalala_lavaka_ata_",
+      "'ulukalala_lavaka_ata_",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "jpn",
+      "171"
+    ],
+    "3":[
+      "chn",
+      "usa",
+      "190"
+    ]
+  }
+}

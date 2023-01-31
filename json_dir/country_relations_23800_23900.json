@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/london-uk-tube-attack-man-charged_us_59c50bd8e4b06ddf45f740da",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-constitutionality-of-a-special-healthcare-deal_us_59c5287fe4b0b7022a6469ec",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/scott-dekraai-sentence-life-in-prison_us_59c51e64e4b01cc57ff1a5b3"
+  },
+  "headline":{
+    "0":"Teenager Charged Over London Tube Attack Appears In Court",
+    "1":"The Constitutionality Of A Special Health Care Deal For Alaska",
+    "2":"Mass Killer Scott Dekraai Gets Life In Prison In Case Tainted By Government Misconduct"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The 18-year-old man came to Britain after his parents were killed in Iraq.",
+    "1":"Senator Bill Cassidy is trying to buy the key vote of his Alaska colleague, Senator Lisa Murkowski, for his Obamacare repeal",
+    "2":"The judge had removed the death penalty as an option because of law enforcement's misuse of a jailhouse informant."
+  },
+  "authors":{
+    "0":"Alistair Smout, Reuters",
+    "1":"Craig Konnoth, ContributorAssociate Professor of Law, University of Colorado Law School",
+    "2":"Matt Ferner"
+  },
+  "date":{
+    "0":"2017-09-22 00:00:00",
+    "1":"2017-09-22 00:00:00",
+    "2":"2017-09-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---leg",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"usaleg",
+    "2":"---cop"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"061",
+    "2":"174"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.4,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~",
+      "alaska",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "britain"
+    ],
+    "1":[
+      "senator",
+      "alaska ... senator"
+    ],
+    "2":[
+      "judge",
+      "law enforcement"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "came to"
+    ],
+    "1":[
+      "is ... buy"
+    ],
+    "2":[
+      "had removed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "gbr",
+      "040"
+    ],
+    "1":[
+      "---leg",
+      "usaleg",
+      "061"
+    ],
+    "2":[
+      "---jud",
+      "---cop",
+      "174"
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/goosecreek.patch.com\/articles\/sc-bishop-a-same-sex-blessing-opponent-banned-by-episcopal-church?national=patch&ncid=edlinkuspatc00000006",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/247wallst.com\/2012\/10\/19\/states-with-the-fewest-and-most-doctors\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mindful-eating_us_5b9c686ce4b03a1dcc7e6ac1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/latino-activists-join-with-marriage-equality-activists-will-it-work_us_5bafabd4e4b0ad76925fcc1f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/latino-activists-join-with-marriage-equality-activists-will-it-work_us_5bafabd4e4b0ad76925fcc1f"
+  },
+  "headline":{
+    "0":"South Carolina Bishop Mark Lawrence Breaks With Church After Refusing Gay Blessings",
+    "1":"States With The Fewest Doctors",
+    "2":"Say 'No' to Too Much Food",
+    "3":"Latino Activists Join With Marriage Equality Activists... Will It Work?",
+    "4":"Latino Activists Join With Marriage Equality Activists... Will It Work?"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"BUSINESS",
+    "2":"WELLNESS",
+    "3":"QUEER VOICES",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"An independent news blog for S.C. Episcopalians has reported that S.C. Bishop Mark Lawrence has been temporarily banned from",
+    "1":"The U.S. is currently facing a severe shortage of doctors. The Association of American Medical Colleges predicts that by",
+    "2":"With the holiday season coming, many people give themselves permission to stuff not only a turkey, but also themselves. When an attitude of overindulgence prevails, how do you summon the strength to say \"no\" to the extras?",
+    "3":"CASA de Maryland, a community organization advocating for undocumented immigrants, has formed an alliance with Equality Maryland and the Latino GLBT History Project. Theoretically the move is brilliant. It's a strength-through-unity approach.",
+    "4":"CASA de Maryland, a community organization advocating for undocumented immigrants, has formed an alliance with Equality Maryland and the Latino GLBT History Project. Theoretically the move is brilliant. It's a strength-through-unity approach."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Helene Lerner, Contributor\nCEO, Creative Expansions Inc.",
+    "3":"Irene Monroe, Contributor\nMonroe\u2019s a religion columnist, weekly commentator on Boston Pu...",
+    "4":"Irene Monroe, Contributor\nMonroe\u2019s a religion columnist, weekly commentator on Boston Pu..."
+  },
+  "date":{
+    "0":"2012-10-21 00:00:00",
+    "1":"2012-10-21 00:00:00",
+    "2":"2012-10-20 00:00:00",
+    "3":"2012-10-20 00:00:00",
+    "4":"2012-10-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"---opp",
+    "4":"usacvl"
+  },
+  "actor2":{
+    "0":"usachr",
+    "1":"---hlh",
+    "2":"---ppl",
+    "3":"---opp",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"040",
+    "2":"08",
+    "3":"040",
+    "4":"050"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":5.0,
+    "3":1.0,
+    "4":3.5
+  },
+  "nouns":{
+    "0":[
+      "blog",
+      "~med",
+      "~",
+      "bishop",
+      "lawrence",
+      "usachr",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "doctors",
+      "~hlh",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "3":[
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "4":[
+      "maryland",
+      "community",
+      "organization",
+      "usacvl",
+      "mearebcvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "tanzim",
+      "maryland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "blog",
+      "bishop ... lawrence"
+    ],
+    "1":[
+      "u.s.",
+      "doctors"
+    ],
+    "2":[
+      "people",
+      "people"
+    ],
+    "3":[
+      "activists",
+      "activists"
+    ],
+    "4":[
+      "maryland",
+      "maryland",
+      "community",
+      "maryland"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "united states of america",
+      "",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has <usachr> ... banned from <--->"
+    ],
+    "1":[
+      "is ... facing"
+    ],
+    "2":[
+      "give ... permission"
+    ],
+    "3":[
+      "join"
+    ],
+    "4":[
+      "has formed ... alliance",
+      "has formed ... alliance"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "shortage",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "activism",
+      "2",
+      "lgbt",
+      "1"
+    ],
+    "4":[
+      "id_immigration",
+      "1",
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usachr",
+      "172"
+    ],
+    "1":[
+      "usa",
+      "---hlh",
+      "040"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "08"
+    ],
+    "3":[
+      "---opp",
+      "---opp",
+      "040"
+    ],
+    "4":[
+      "usacvl",
+      "usa",
+      "050",
+      "mearebcvl",
+      "usa",
+      "050"
+    ]
+  }
+}

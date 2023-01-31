@@ -1,0 +1,164 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/military-suicide_us_5b9bdbaae4b03a1dcc7ac744",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/soda-ban-diabetes-doctors_us_5b9be0f4e4b03a1dcc7aed1f"
+  },
+  "headline":{
+    "0":"Military to Hold Conference on Escalating Suicides; Drugs Not Allowed",
+    "1":"Soda Ban Should Be Start Of More Limits On Unhealthy Food, Diabetes Doctors Say"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Suicides and personal violence in the military have continued to escalate since some of us first began warning about these problems and their relationship to the simultaneously escalating prescription of psychiatric drugs to active duty soldiers.",
+    "1":"Belgium, Ireland, Romania, Italy and the United Kingdom have considered similar measures as obesity rates among their citizens"
+  },
+  "authors":{
+    "0":"Peter R. Breggin M.D., Contributor\nPeter R. Breggin, MD, has been called \u201cThe Conscience of Psych...",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-06-21 00:00:00",
+    "1":"2012-06-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"bel"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "military",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "soldiers",
+      "~mil",
+      "~",
+      "soldiers",
+      "~mil",
+      "~",
+      "soldiers",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "belgium",
+      "ireland",
+      "romania",
+      "italy",
+      "united kingdom",
+      "bel",
+      "irl",
+      "rou",
+      "ita",
+      "gbr",
+      "belgium",
+      "ireland",
+      "romania",
+      "italy",
+      "united",
+      "kingdom",
+      "citizens",
+      "~cvl",
+      "~",
+      "citizens",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "military",
+      "military"
+    ],
+    "1":[
+      "belgium",
+      "citizens",
+      "ireland",
+      "citizens",
+      "romania",
+      "citizens",
+      "italy",
+      "citizens",
+      "united kingdom",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "belgium",
+      "---",
+      "ireland",
+      "---",
+      "romania",
+      "---",
+      "italy",
+      "---",
+      "united kingdom",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... escalate ... began warning"
+    ],
+    "1":[
+      "have considered",
+      "have considered",
+      "have considered",
+      "have considered",
+      "have considered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---mil",
+      "130"
+    ],
+    "1":[
+      "bel",
+      "---cvl",
+      "040",
+      "irl",
+      "---cvl",
+      "040",
+      "rou",
+      "---cvl",
+      "040",
+      "ita",
+      "---cvl",
+      "040",
+      "gbr",
+      "---cvl",
+      "040"
+    ]
+  }
+}

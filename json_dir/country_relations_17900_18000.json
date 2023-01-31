@@ -1,0 +1,338 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/transgender-people-enlist-military_us_5a2ecae2e4b0ce3b34448c5d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rightsideofhistory-alabama-election_us_5a2e41aae4b073789f6b0903",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-doug-jones-alabama-senate_us_5a2e9e6ae4b0a290f0526597",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bobby-cannavale-chose-his-sons-name-in-honor-of-his-latino-roots_us_5a2ee194e4b046175432742a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-senate-pages-gwen-moore_us_5a2eb4ffe4b0ce3b344473df",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/amazon-temp-workers-who-deliver-the-holidays-are-getting-squeezed_us_5a2f0a20e4b078950282f6e4",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/netflix-a-christmas-prince_us_5a2e1838e4b069ec48ae84e9",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/violence-flares-near-us-embassy-in-beirut-over-trump-jerusalem-decision_us_5a2d29e6e4b073789f6a7b1e"
+  },
+  "headline":{
+    "0":"Judge Denies Trump Administration's Request To Delay Trans Enlistment In Military",
+    "1":"Celebrities Urge Alabamians To Stay On #RightSideOfHistory As Election Looms",
+    "2":"Barack Obama Records Robocall For Doug Jones In Alabama Senate Race",
+    "3":"Bobby Cannavale Chose His Son's Name In Honor Of His Latino Roots",
+    "4":"Congresswoman Moves To Protect Senate Pages From Accused Molester Roy Moore",
+    "5":"Amazon Temp Workers Who Deliver The Holidays Are Getting Squeezed",
+    "6":"Even Netflix Wants To Know Who Is Seriously Binge-Watching 'A Christmas Prince'",
+    "7":"Violence Flares Near U.S. Embassy In Beirut Over Trump's Jerusalem Decision"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"LATINO VOICES",
+    "4":"POLITICS",
+    "5":"BUSINESS",
+    "6":"ENTERTAINMENT",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Transgender people can start enlisting on Jan. 1.",
+    "1":"\"Dear Alabama, don't vote for a pedophile. It\u2019s that simple.\u201d",
+    "2":"\u201cThis one\u2019s serious,\u201d Obama says in the call, telling Alabama Democrats to \u201cget out and vote\" in Tuesday's special election.",
+    "3":"Rose Byrne and the actor welcomed their second child last month.",
+    "4":"Rep. Gwen Moore is worried about the Senate's teenage interns if he wins election.",
+    "5":"The company uses contractors to avoid giving workers a fair wage and benefits.",
+    "6":"\"Who hurt you?\"",
+    "7":"Lebanese security forces fired tear gas and water cannons at protesters near the U.S. Embassy."
+  },
+  "authors":{
+    "0":"Sarah Ruiz-Grossman",
+    "1":"Dominique Mosbergen",
+    "2":"Marina Fang",
+    "3":"Carolina Moreno",
+    "4":"Laura Bassett",
+    "5":"Kyle Creal, ContributorFormer Amazon temp worker",
+    "6":"Rebecca Shapiro",
+    "7":"Jeffrey Heller, Reuters"
+  },
+  "date":{
+    "0":"2017-12-11 00:00:00",
+    "1":"2017-12-11 00:00:00",
+    "2":"2017-12-11 00:00:00",
+    "3":"2017-12-11 00:00:00",
+    "4":"2017-12-11 00:00:00",
+    "5":"2017-12-11 00:00:00",
+    "6":"2017-12-11 00:00:00",
+    "7":"2017-12-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"usagov",
+    "3":"---eli",
+    "4":"---leg",
+    "5":"---bus",
+    "6":"mncusa",
+    "7":"lbnmil"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---crm",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"usagovleg",
+    "5":"---lab",
+    "6":"'ulukalala_lavaka_ata_",
+    "7":"usagovopp"
+  },
+  "event_code":{
+    "0":"123",
+    "1":"030",
+    "2":"010",
+    "3":"051",
+    "4":"074",
+    "5":"060",
+    "6":"010",
+    "7":"190"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":4.0,
+    "2":0.0,
+    "3":3.4,
+    "4":8.5,
+    "5":6.0,
+    "6":0.0,
+    "7":-10.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "pedophile",
+      "~crm",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "actor",
+      "~eli",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "5":[
+      "company",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "6":[
+      "netflix",
+      "mncusa",
+      "netflix",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ],
+    "7":[
+      "lebanese",
+      "security forces",
+      "lbnmil",
+      "lebanon",
+      "~",
+      "u.s.",
+      "embassy",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "protesters",
+      "usagovopp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "administration"
+    ],
+    "1":[
+      "alabama",
+      "pedophile"
+    ],
+    "2":[
+      "obama",
+      "alabama"
+    ],
+    "3":[
+      "actor",
+      "child"
+    ],
+    "4":[
+      "congresswoman",
+      "senate"
+    ],
+    "5":[
+      "company",
+      "workers"
+    ],
+    "6":[
+      "netflix",
+      "prince"
+    ],
+    "7":[
+      "lebanese security forces",
+      "protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states congress"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "netflix",
+      "prince"
+    ],
+    "7":[
+      "lebanon",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "denies ... request"
+    ],
+    "1":[
+      "do ... vote"
+    ],
+    "2":[
+      "says ... telling"
+    ],
+    "3":[
+      "welcomed"
+    ],
+    "4":[
+      "moves ... protect"
+    ],
+    "5":[
+      "uses ... giving"
+    ],
+    "6":[
+      "wants ... watching"
+    ],
+    "7":[
+      "fired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":[
+      "security_services",
+      "1",
+      "violent_unrest",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "123"
+    ],
+    "1":[
+      "usa",
+      "---crm",
+      "030"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---eli",
+      "---cvl",
+      "051"
+    ],
+    "4":[
+      "---leg",
+      "usagovleg",
+      "074"
+    ],
+    "5":[
+      "---bus",
+      "---lab",
+      "060"
+    ],
+    "6":[
+      "mncusa",
+      "'ulukalala_lavaka_ata_",
+      "010"
+    ],
+    "7":[
+      "lbnmil",
+      "usagovopp",
+      "190"
+    ]
+  }
+}

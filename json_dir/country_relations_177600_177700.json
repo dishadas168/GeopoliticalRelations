@@ -1,0 +1,139 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/5-dollar-doctor-russell-dohner-illinois-video_us_5b9c84f9e4b03a1dcc7f660c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/old-mazatlan-gives-way-to_us_5b9c8339e4b03a1dcc7f560f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/old-mazatlan-gives-way-to_us_5b9c8339e4b03a1dcc7f560f"
+  },
+  "headline":{
+    "0":"'$5 Doctor' Russell Dohner Can Hardly Pay His Nurses, But He Won't Raise His Fee (VIDEO)",
+    "1":"Old Mazatlan Gives Way To Old Mazatlan",
+    "2":"Old Mazatlan Gives Way To Old Mazatlan"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"TRAVEL",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"View the NBC News report below. But the doctor now admits that his inexpensive medical care is taking a toll on the clinic's",
+    "1":"An army is invading Mazatlan. Its troopers are architects, painters, carpenters, plumbers and electricians. Their mission: to create a major new tourism attraction by restoring the colonial splendor of dozens of blocks of crumbling, long-neglected buildings running inland from the town's cruise docks.",
+    "2":"An army is invading Mazatlan. Its troopers are architects, painters, carpenters, plumbers and electricians. Their mission: to create a major new tourism attraction by restoring the colonial splendor of dozens of blocks of crumbling, long-neglected buildings running inland from the town's cruise docks."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Bob Schulman, Contributor\nTravel Editor, WatchBoom.com",
+    "2":"Bob Schulman, Contributor\nTravel Editor, WatchBoom.com"
+  },
+  "date":{
+    "0":"2012-11-14 00:00:00",
+    "1":"2012-11-14 00:00:00",
+    "2":"2012-11-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"mex",
+    "2":"---mil"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"mex",
+    "2":"mex"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"060",
+    "2":"192"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":6.0,
+    "2":-9.5
+  },
+  "nouns":{
+    "0":[
+      "doctor",
+      "~hlh",
+      "~",
+      "nurses",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "mazatlan",
+      "mex",
+      "mexico",
+      "mazatlan",
+      "mex",
+      "mexico"
+    ],
+    "2":[
+      "army",
+      "~mil",
+      "~",
+      "mazatlan",
+      "mex",
+      "mexico"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctor",
+      "doctor"
+    ],
+    "1":[
+      "mazatlan",
+      "mazatlan"
+    ],
+    "2":[
+      "army",
+      "mazatlan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "mexico",
+      "mexico"
+    ],
+    "2":[
+      "---",
+      "mexico"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... pay"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "is invading"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "061"
+    ],
+    "1":[
+      "mex",
+      "mex",
+      "060"
+    ],
+    "2":[
+      "---mil",
+      "mex",
+      "192"
+    ]
+  }
+}

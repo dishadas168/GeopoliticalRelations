@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/attorneys-take-on-divorce_us_5b9d855ee4b03a1dcc891244"
+  },
+  "headline":{
+    "0":"Attorney's Take on Divorce in the U.S."
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"These high divorce rates present a big concern; not only for the emotional anguish a divorce creates, especially if there are children involved, but the financial consequences can be devastating."
+  },
+  "authors":{
+    "0":"Kiernan Hopkins, Contributor\nMusic, Business, Safety, and Legal Topic News Blogger."
+  },
+  "date":{
+    "0":"2013-09-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "attorney",
+      "~jud",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "attorney",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "171"
+    ]
+  }
+}

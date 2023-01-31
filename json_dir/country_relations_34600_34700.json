@@ -1,0 +1,229 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/aclu-vote-fraud-foia_us_591684ebe4b00f308cf56ad1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/customs-officers-newark-hazing-rape-table_us_5915d7bce4b0031e737d4297",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/james-woods-anderson-cooper-butt-plug_us_591710ace4b0fe039b34f194",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/troubled-republicans-do-nothing-about-comeys-firing_us_5915d943e4b00f308cf4e134",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-school-lunches_us_5915ffa4e4b0fe039b3484f9"
+  },
+  "headline":{
+    "0":"ACLU Files FOIA Demanding Facts Behind Donald Trump's Voter Fraud Claim",
+    "1":"U.S. Customs Officers Allegedly Assaulted Coworkers In 'Rape Table' Ritual",
+    "2":"James Woods Goes After Anderson Cooper With Homophobic 'Butt Plug' Tweet",
+    "3":"'Troubled' Republicans Have No Plans To Do Anything About James Comey's Firing",
+    "4":"Michelle Obama Asks Why Trump Administration Is OK With Kids Eating 'Crap' In Schools"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"QUEER VOICES",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The organization calls the president's election commission a \"fake news boondoggle.\"",
+    "1":"One victim says it's too extreme to be called \"hazing.\"",
+    "2":"The Oscar-nonimated actor chose a decidedly offensive way to express his displeasure with the CNN anchor.",
+    "3":"Several GOP senators have criticized the president's dismissal of the FBI director, but they embrace taking no new actions in response.",
+    "4":"\"Why don't you want our kids to have good food at school?\""
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Hilary Hanson",
+    "2":"Noah Michelson",
+    "3":"Michael McAuliff",
+    "4":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-05-13 00:00:00",
+    "1":"2017-05-13 00:00:00",
+    "2":"2017-05-13 00:00:00",
+    "3":"2017-05-12 00:00:00",
+    "4":"2017-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---eli",
+    "3":"---leg",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"meareb",
+    "1":"---cvl",
+    "2":"med",
+    "3":"usacopgov",
+    "4":"---gov"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"041",
+    "2":"110",
+    "3":"111",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-2.0,
+    "3":-2.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "president",
+      "election commission",
+      "~gov",
+      "~",
+      "~"
+    ],
+    "1":[
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "3":[
+      "senators",
+      "~leg",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "president",
+      "usacopgov",
+      "~"
+    ],
+    "4":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "administration",
+      "~gov",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president ... election commission",
+      "organization",
+      "organization",
+      "president ... election commission"
+    ],
+    "1":[
+      "victim",
+      "victim"
+    ],
+    "2":[
+      "actor",
+      "cnn"
+    ],
+    "3":[
+      "senators",
+      "president"
+    ],
+    "4":[
+      "obama",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "tanzim",
+      "tanzim",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "cnn"
+    ],
+    "3":[
+      "---",
+      ""
+    ],
+    "4":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "says <~cvl> ... called"
+    ],
+    "2":[
+      "chose ... express ... displeasure"
+    ],
+    "3":[
+      "have criticized"
+    ],
+    "4":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "meareb",
+      "041",
+      "meareb",
+      "---gov",
+      "041"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "041"
+    ],
+    "2":[
+      "---eli",
+      "med",
+      "110"
+    ],
+    "3":[
+      "---leg",
+      "usacopgov",
+      "111"
+    ],
+    "4":[
+      "usagov",
+      "---gov",
+      "020"
+    ]
+  }
+}

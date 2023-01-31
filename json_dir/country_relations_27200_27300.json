@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-guam_us_598c3996e4b0449ed5081ef1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/people-with-disabilities-struggle-to-escape-carnage-in-south-sudan_us_598ca80ee4b09071f698605d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/people-with-disabilities-struggle-to-escape-carnage-in-south-sudan_us_598ca80ee4b09071f698605d"
+  },
+  "headline":{
+    "0":"North Korea Claims It's Planning To Fire Missiles Near Guam",
+    "1":"People With Disabilities Struggle To Escape Carnage In South Sudan",
+    "2":"People With Disabilities Struggle To Escape Carnage In South Sudan"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"But Guam isn't too worried.",
+    "1":"Decades of war in South Sudan have left high numbers of people with disabilities and many are unable to access aid or flee",
+    "2":"Decades of war in South Sudan have left high numbers of people with disabilities and many are unable to access aid or flee"
+  },
+  "authors":{
+    "0":"",
+    "1":"Natalie Sikorski, Refugees Deeply",
+    "2":"Natalie Sikorski, Refugees Deeply"
+  },
+  "date":{
+    "0":"2017-08-10 00:00:00",
+    "1":"2017-08-10 00:00:00",
+    "2":"2017-08-10 00:00:00"
+  },
+  "actor1":{
+    "0":"prk",
+    "1":"---ppl",
+    "2":"ssd"
+  },
+  "actor2":{
+    "0":"usagum",
+    "1":"ssd",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"190",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "guam",
+      "usagum",
+      "guam"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "south sudan",
+      "ssd",
+      "south",
+      "sudan"
+    ],
+    "2":[
+      "south sudan",
+      "ssd",
+      "south",
+      "sudan",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north korea",
+      "guam"
+    ],
+    "1":[
+      "people",
+      "south sudan"
+    ],
+    "2":[
+      "south sudan",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "north korea",
+      "guam"
+    ],
+    "1":[
+      "---",
+      "south sudan"
+    ],
+    "2":[
+      "south sudan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "'s planning"
+    ],
+    "1":[
+      "struggle"
+    ],
+    "2":[
+      "have left"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "prk",
+      "usagum",
+      "030"
+    ],
+    "1":[
+      "---ppl",
+      "ssd",
+      "190"
+    ],
+    "2":[
+      "ssd",
+      "---ppl",
+      "040"
+    ]
+  }
+}

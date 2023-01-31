@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/46-trillion-reasons-to-ev_us_5b9c99b4e4b03a1dcc803522",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sonia-blanchette-children_us_5ba2b435e4b0c2784da4af81",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.variety.com\/article\/VR1118063334"
+  },
+  "headline":{
+    "0":"46 Trillion Reasons to Evolve Society Right Now",
+    "1":"Sonia Blanchette Accused Of Killing Children: Funeral Held For Kids Allegedly Killed By Mom",
+    "2":"Biz Activists Cheer As High Court Takes Prop. 8 Case"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"CRIME",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"In the U.S., the 400 richest people now have as much wealth as 185 million people combined, nearly 60 percent of the entire population. Millionaire households have at least $46 trillion in wealth, yet only one-tenth of one percent of the population makes one million dollars a year.",
+    "1":"Authorities are still investigating the circumstances of the children's death. \"She frequently told me, 'I can't wait to",
+    "2":"The industry figures backing the federal suit to overturn California's Proposition 8 welcomed the news that the Supreme Court"
+  },
+  "authors":{
+    "0":"David DeGraw, Contributor\nOccupyEvolver.com",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2012-12-10 00:00:00",
+    "1":"2012-12-09 00:00:00",
+    "2":"2012-12-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---gov",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"090",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "authorities",
+      "~gov",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "industry",
+      "~bus",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "population"
+    ],
+    "1":[
+      "authorities",
+      "children"
+    ],
+    "2":[
+      "industry",
+      "california"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... combined"
+    ],
+    "1":[
+      "are ... investigating"
+    ],
+    "2":[
+      "figures backing ... overturn"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "090"
+    ],
+    "2":[
+      "---bus",
+      "usa",
+      "171"
+    ]
+  }
+}

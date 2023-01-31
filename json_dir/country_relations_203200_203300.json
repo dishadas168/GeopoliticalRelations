@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yoga-students-teachers_us_5b9b4bbae4b03a1dcc766f81"
+  },
+  "headline":{
+    "0":"Disharmony Between Yoga Teachers and Students: Why Students Must Eventually Leave the Teacher"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"At some point, every student must leave their teacher. It's a built-in principle of yoga.  Parents raise children to be able to survive on their own at some point; its the same concept between teachers and students of yoga."
+  },
+  "authors":{
+    "0":"Alanna Kaivalya, Ph.D., Contributor\nAs the Yoga Doctor, I help yoga teachers embody their knowledg..."
+  },
+  "date":{
+    "0":"2012-02-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "student",
+      "student"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must leave"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "040"
+    ]
+  }
+}

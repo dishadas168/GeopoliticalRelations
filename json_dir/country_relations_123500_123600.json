@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iran-what-a-difference-a-_b_5536785.html"
+  },
+  "headline":{
+    "0":"Iran: What a Difference a Few Months Make"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Iran is now facing serious challenges that strike at its economic and military weaknesses. In an Arab world that is less than 10-percent Shiite and distrusts non-Arabs, Persian Shiite Iran faces hostile Arab Sunni fundamentalist movements that are rising in the aftermath of the failures of the Arab Spring."
+  },
+  "authors":{
+    "0":"Jonathan Adelman, ContributorProfessor, Josef Korbel School of International Studies, Unive..."
+  },
+  "date":{
+    "0":"2014-06-28 00:00:00"
+  },
+  "actor1":{
+    "0":"irn"
+  },
+  "actor2":{
+    "0":"---mus"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "iran",
+      "irn",
+      "iran",
+      "sunni",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iran",
+      "sunni"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "irn",
+      "---mus",
+      "040"
+    ]
+  }
+}

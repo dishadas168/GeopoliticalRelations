@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-voter-id-law-primaries_us_5aea305ee4b00f70f0eedcb1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michelle-wolf-obsessed-news_us_5ae8a499e4b055fd7fd02dbd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/california-suing-epa-clean-car-rules_us_5ae89fc9e4b02baed1be8756",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/california-suing-epa-clean-car-rules_us_5ae89fc9e4b02baed1be8756"
+  },
+  "headline":{
+    "0":"Arkansas Gets Permission To Enforce Voter ID Law In Primaries",
+    "1":"Here's What You Missed While The Internet Was Obsessed With Michelle Wolf",
+    "2":"California Sues Trump's EPA Over Weakened Clean Car Rules",
+    "3":"California Sues Trump's EPA Over Weakened Clean Car Rules"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The state's Supreme Court gave election authorities the green light after a lower court had blocked the law.",
+    "1":"Among other happenings, the first fast-food union formed and a U.S. service member died in Afghanistan.",
+    "2":"California is leading the 18-state effort challenging the Trump government's claim that Obama-era emission rules are too stringent.",
+    "3":"California is leading the 18-state effort challenging the Trump government's claim that Obama-era emission rules are too stringent."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Amanda Terkel",
+    "2":"Lydia O'Connor",
+    "3":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2018-05-02 00:00:00",
+    "1":"2018-05-01 00:00:00",
+    "2":"2018-05-01 00:00:00",
+    "3":"2018-05-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"usa",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"afg",
+    "2":"usagovenv",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"190",
+    "2":"173",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":-5.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "state supreme court",
+      "~jud",
+      "~",
+      "authorities",
+      "~gov",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "state ... supreme court",
+      "authorities"
+    ],
+    "1":[
+      "u.s.",
+      "afghanistan"
+    ],
+    "2":[
+      "california",
+      "epa"
+    ],
+    "3":[
+      "california",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "afghanistan"
+    ],
+    "2":[
+      "united states of america",
+      "environmental protection agency"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave <{green> <light}>"
+    ],
+    "1":[
+      "died"
+    ],
+    "2":[
+      "sues"
+    ],
+    "3":[
+      "is leading ... challenging ... claim"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "usa",
+      "afg",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "usagovenv",
+      "173"
+    ],
+    "3":[
+      "usa",
+      "---gov",
+      "111"
+    ]
+  }
+}

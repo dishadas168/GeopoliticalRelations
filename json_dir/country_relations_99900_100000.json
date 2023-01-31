@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-compassion-of-nurses_b_6965638.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/b-for-bigotry_b_6988374.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/federal-laws-too-numerous_b_6989480.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-predictable-blowback-bahrain_b_6685076.html"
+  },
+  "headline":{
+    "0":"The Compassion of Nurses",
+    "1":"B for Bigotry",
+    "2":"Federal Laws: Too Numerous and Vague",
+    "3":"The Predictable Blowback From Supporting Sectarian Authoritarianism in Bahrain"
+  },
+  "category":{
+    "0":"GOOD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"As I lay in my hospital bed, the nurse came into my room looking unhappy. It was late at night, and I needed help. I don't recall what for, but the nurse was there to help me.",
+    "1":"Now that they've been thoroughly embarrassed by the outrage -- both national and local -- over the law, Indiana legislators will seek to \"clarify\" it before their session ends at the end of the month.",
+    "2":"The vast majority of Americans clearly seem unhappy with the working of Washington. The president and Congress have overwhelmed the American people with an incredible number of laws that are difficult for the voters and even policy makers to understand.",
+    "3":"Where does that leave the U.S.? The Obama administration is supporting an anti-democratic monarchy in Bahrain that institutionally discriminates against its Shia population, hires Sunni police officers from hotbeds of ISIS support and awards them citizenship in order to decrease the level of Shia majority."
+  },
+  "authors":{
+    "0":"Denise Geelhart, ContributorAn over-40 stay-at-home mom who writes about motherhood and li...",
+    "1":"Michael Sargeant, Contributor",
+    "2":"Kevin Price, ContributorPublisher and Editor in Chief, US Daily Review",
+    "3":"Jeff Bachman, ContributorProfessor of human rights, Co-Director of Ethics, Peace and Gl..."
+  },
+  "date":{
+    "0":"2015-04-02 00:00:00",
+    "1":"2015-04-02 00:00:00",
+    "2":"2015-04-02 00:00:00",
+    "3":"2015-04-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"usaleg",
+    "2":"---govleg",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"usaleg",
+    "2":"usappl",
+    "3":"bhr"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"010",
+    "2":"130",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":-4.4,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "nurse",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "indiana",
+      "legislators",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "president",
+      "congress",
+      "~govleg",
+      "~",
+      "~",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "bahrain",
+      "bhr",
+      "bahrain"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nurse",
+      "nurse"
+    ],
+    "1":[
+      "indiana legislators",
+      "indiana legislators"
+    ],
+    "2":[
+      "president ... congress",
+      "american people"
+    ],
+    "3":[
+      "the obama administration",
+      "bahrain"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "barack obama",
+      "bahrain"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was ... help"
+    ],
+    "1":[
+      "will seek ... clarify"
+    ],
+    "2":[
+      "have overwhelmed ... with"
+    ],
+    "3":[
+      "is ... supporting"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":[
+      "discrimination",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "070"
+    ],
+    "1":[
+      "usaleg",
+      "usaleg",
+      "010"
+    ],
+    "2":[
+      "---govleg",
+      "usappl",
+      "130"
+    ],
+    "3":[
+      "usagov",
+      "bhr",
+      "050"
+    ]
+  }
+}

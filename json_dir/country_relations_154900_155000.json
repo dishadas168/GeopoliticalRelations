@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/living-in-the-past_us_5b9d5899e4b03a1dcc86ea24"
+  },
+  "headline":{
+    "0":"Yesterday"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The level of guilt we feel often dictates the length of time we take to get over what ever it is we have done. Some people, even though forgiven by those they have wronged, never forgive themselves, making every tomorrow a yesterday before it even happens."
+  },
+  "authors":{
+    "0":"Nate Holzapfel, Contributor\nBuilding. Business. Relationships. Yes, the belt guy from Shar..."
+  },
+  "date":{
+    "0":"2013-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"056"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... forgive"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "056"
+    ]
+  }
+}

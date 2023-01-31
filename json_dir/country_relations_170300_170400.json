@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lake-erie-correctional-institution_us_5bb2e6c6e4b0480ca65e54c0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/postal-service-traffic-tickets_us_5bb2e6dbe4b0480ca65e57b7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/flu-patients-emit-virus-6-feet-away_us_5b9cc548e4b03a1dcc81b4fa"
+  },
+  "headline":{
+    "0":"Lake Erie Correctional Institution, Ohio Private Prison, Faces Concerns About  'Unacceptable' Conditions",
+    "1":"Postal Service Lawyer Argues Agency Is Immune From Paying Nearly $700 Worth Of Traffic Tickets",
+    "2":"Flu Patients Can Emit Virus Up To 6 Feet Away, Study Finds"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"BUSINESS",
+    "2":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Private prison companies such as CCA have pushed for a growing share of the nation's inmate population, promising to save",
+    "1":"A USPS spokesman backed up Breslin\u2019s claim in an interview with USA Today, saying that while Postal Service workers are required",
+    "2":"Right now, health workers who care for flu patients wear masks to protect themselves when the patients engage in \"aerosol"
+  },
+  "authors":{
+    "0":"Chris Kirkham",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2013-02-02 00:00:00",
+    "1":"2013-02-02 00:00:00",
+    "2":"2013-02-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---copbus",
+    "1":"---med",
+    "2":"---lab"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---lab"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"050",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":3.5,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "prison",
+      "companies",
+      "~copbus",
+      "~",
+      "~",
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "spokesman",
+      "~med",
+      "~",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prison companies",
+      "population"
+    ],
+    "1":[
+      "spokesman",
+      "usa"
+    ],
+    "2":[
+      "workers",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have pushed"
+    ],
+    "1":[
+      "backed"
+    ],
+    "2":[
+      "wear ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---copbus",
+      "---cvl",
+      "100"
+    ],
+    "1":[
+      "---med",
+      "usa",
+      "050"
+    ],
+    "2":[
+      "---lab",
+      "---lab",
+      "074"
+    ]
+  }
+}

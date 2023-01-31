@@ -1,0 +1,402 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-peace-talks-astana-ceasefire_us_588bb5f2e4b0b065cbbbef78",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-refugee-ban_us_588fa52ce4b02772c4e86b3f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sean-spicer-ban-vetting_us_588f9e31e4b0c90efeff2aa9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/syrian-refugee-girl-poem_us_588fa696e4b0522c7d3c4b15",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/senators-doj-trump-executive-orders_us_588f8bfae4b0522c7d3c1006",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/ford-trump-muslim-ban_us_588f7023e4b0522c7d3bd563",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/white-house-judiciary_us_588eeccce4b01763779547f2",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/us-commando-dies-in-yemen-raid-that-kills-around-30-people_us_588e066de4b017637794ef32",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/dulles-airport-feds-violated-court-order_us_588d7274e4b08a14f7e67bcf"
+  },
+  "headline":{
+    "0":"After Astana Peace Talks, Obstacles Remain To Maintain Cease-Fire In Syria",
+    "1":"Trump's Refugee Ban Could Prevent 20,000 People From Coming To The U.S., U.N. Says",
+    "2":"White House Just Gave A Terrible Defense Of Trump's Refugee Ban",
+    "3":"This 9-Year-Old Syrian Refugee Wants Other Children To 'Fly Like A Bird'",
+    "4":"Justice Department Said Trump\u2019s Refugee Ban Is Legal. They Didn\u2019t Say It Was A Good Idea.",
+    "5":"Ford Executives Condemn Donald Trump\u2019s Immigration Ban",
+    "6":"White House Website Removes The Judicial Branch (UPDATE: It's Back)",
+    "7":"U.S. Commando Dies In Yemen Raid That Kills Around 30 People",
+    "8":"Customs And Border Officials Defy Court Order On Lawful Residents"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"THE WORLDPOST",
+    "8":"POLITICS"
+  },
+  "short_description":{
+    "0":"Russia, Turkey and Iran agreed to enforce a nationwide truce in Syria, in the hopes of paving the way for a future political",
+    "1":"\"Refugees are anxious, confused and heartbroken at this suspension in what is already a lengthy process.\"",
+    "2":"Press secretary Sean Spicer said  a Syrian refugee allowed into the U.S. was vetted. He's right. So were a lot of others who can't get in.",
+    "3":"\"My dream was to fly like a bird. And their dream is of bread buried in the sand.\"",
+    "4":"Senators want to know what, exactly, the DOJ does when it reviews the president's orders.",
+    "5":"More companies are speaking out against the restrictions President Donald Trump issued on Friday.",
+    "6":"The page appeared to have been scrubbed after the inauguration.",
+    "7":"It was the first combat casualty of the Trump administration and its first operation in the war-damaged Arabian Peninsula nation against a powerful al Qaeda branch that has been a frequent target of U.S. drone strikes.",
+    "8":"Customs officials aren't letting green card holders talk to lawyers."
+  },
+  "authors":{
+    "0":"Alessandria Masi, Syria Deeply",
+    "1":"Willa Frej",
+    "2":"Elise Foley",
+    "3":"Amber Ferguson",
+    "4":"Michael McAuliff and Ryan J. Reilly",
+    "5":"Kate Abbey-Lambertz",
+    "6":"Ed Mazza",
+    "7":"Mohammed Ghobari and Noah Browning, Reuters",
+    "8":"Daniel Marans"
+  },
+  "date":{
+    "0":"2017-01-30 00:00:00",
+    "1":"2017-01-30 00:00:00",
+    "2":"2017-01-30 00:00:00",
+    "3":"2017-01-30 00:00:00",
+    "4":"2017-01-30 00:00:00",
+    "5":"2017-01-30 00:00:00",
+    "6":"2017-01-30 00:00:00",
+    "7":"2017-01-29 00:00:00",
+    "8":"2017-01-29 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---ref",
+    "2":"usagov",
+    "3":"syrref",
+    "4":"---leg",
+    "5":"---bus",
+    "6":"---med",
+    "7":"usamil",
+    "8":"---gov"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"---ppl",
+    "2":"---ref",
+    "3":"---cvl",
+    "4":"usagov",
+    "5":"---gov",
+    "6":"---jud",
+    "7":"---ppl",
+    "8":"---jud"
+  },
+  "event_code":{
+    "0":"1056",
+    "1":"120",
+    "2":"060",
+    "3":"030",
+    "4":"030",
+    "5":"010",
+    "6":"174",
+    "7":"190",
+    "8":"010"
+  },
+  "goldstein_score":{
+    "0":null,
+    "1":-4.0,
+    "2":6.0,
+    "3":4.0,
+    "4":4.0,
+    "5":0.0,
+    "6":-5.0,
+    "7":-10.0,
+    "8":0.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "turkey",
+      "iran",
+      "rus",
+      "tur",
+      "irn",
+      "russian",
+      "federation",
+      "turkey",
+      "iran",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "refugee",
+      "~ref",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "refugee",
+      "~ref",
+      "~",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "3":[
+      "syrian",
+      "refugee",
+      "syrref",
+      "syria",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "senators",
+      "~leg",
+      "~",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "companies",
+      "~bus",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "website",
+      "~med",
+      "~",
+      "judicial branch",
+      "~jud",
+      "~"
+    ],
+    "7":[
+      "u.s.",
+      "commando",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "8":[
+      "customs officials",
+      "~gov",
+      "~",
+      "lawyers",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "syria",
+      "turkey",
+      "syria",
+      "iran",
+      "syria"
+    ],
+    "1":[
+      "refugee",
+      "people"
+    ],
+    "2":[
+      "white house",
+      "refugee"
+    ],
+    "3":[
+      "syrian refugee",
+      "children"
+    ],
+    "4":[
+      "senators",
+      "doj"
+    ],
+    "5":[
+      "companies",
+      "president"
+    ],
+    "6":[
+      "website",
+      "judicial branch"
+    ],
+    "7":[
+      "u.s. commando",
+      "people"
+    ],
+    "8":[
+      "customs officials",
+      "lawyers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "syria",
+      "turkey",
+      "syria",
+      "iran",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "white house",
+      "---"
+    ],
+    "3":[
+      "syria",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states department of justice"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "united states of america",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "agreed ... enforce <&ceasefire>",
+      "agreed ... enforce <&ceasefire>",
+      "agreed ... enforce <&ceasefire>"
+    ],
+    "1":[
+      "could prevent"
+    ],
+    "2":[
+      "gave"
+    ],
+    "3":[
+      "wants"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "are speaking"
+    ],
+    "6":[
+      "removes"
+    ],
+    "7":[
+      "dies ... kills"
+    ],
+    "8":[
+      "are ... talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":[
+      "refugees",
+      "1"
+    ],
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "syr",
+      "1056",
+      "tur",
+      "syr",
+      "1056",
+      "irn",
+      "syr",
+      "1056"
+    ],
+    "1":[
+      "---ref",
+      "---ppl",
+      "120"
+    ],
+    "2":[
+      "usagov",
+      "---ref",
+      "060"
+    ],
+    "3":[
+      "syrref",
+      "---cvl",
+      "030"
+    ],
+    "4":[
+      "---leg",
+      "usagov",
+      "030"
+    ],
+    "5":[
+      "---bus",
+      "---gov",
+      "010"
+    ],
+    "6":[
+      "---med",
+      "---jud",
+      "174"
+    ],
+    "7":[
+      "usamil",
+      "---ppl",
+      "190"
+    ],
+    "8":[
+      "---gov",
+      "---jud",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cuba-joins-one-billion-rising-to-end-violence-against-women_b_6775376.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/retired-police-officers-meet-rep-sheila-jackson_b_6779224.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/netanyahu-speech_n_6779516.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/climate-academic-probed-by-congress-falsely-charges-colleagues-with-conflict-of-interest_b_6779532.html"
+  },
+  "headline":{
+    "0":"Cuba Joins One Billion Rising To End Violence Against Women",
+    "1":"Retired Police Officers Meet Rep. Sheila Jackson Lee: Discussion on Building Trust, Reform and Accountability",
+    "2":"Kerry: Netanyahu 'Welcome To Speak' In The U.S.",
+    "3":"Climate Academic Probed by Congress Falsely Charges Colleagues With Conflict of Interest"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"BLACK VOICES",
+    "2":"POLITICS",
+    "3":"GREEN"
+  },
+  "short_description":{
+    "0":"What an honor to be in Cuba for the first celebration of One Billion Rising to end violence against women!",
+    "1":"A multi-cultural group of retired and former police officers met with Rep. Jackson Lee of Texas to share and discuss their varied personal experiences with regard to institutionalized racism and the unnecessary state-sponsored murders of all Americans.",
+    "2":"",
+    "3":"Professor Roger J. Pielke, Jr. recently compared many widely-published energy and climate experts with Dr. Wei-Hock Soon, the subject of recent media attention for failing to follow conflict of interest (COI) rules at some scientific journals. There is no comparison whatsoever, and we ask Dr. Pielke to retract his accusations and apologize."
+  },
+  "authors":{
+    "0":"Ann Wright, ContributorRetired U.S. Army Colonel",
+    "1":"Cheryl Dorsey, ContributorSpeaker, Police Expert & Community Advocate",
+    "2":"Christina Wilkie",
+    "3":"Jonathan G. Koomey, Ph.D. and Joseph Romm, Contributors"
+  },
+  "date":{
+    "0":"2015-03-02 00:00:00",
+    "1":"2015-03-01 00:00:00",
+    "2":"2015-03-01 00:00:00",
+    "3":"2015-03-01 00:00:00"
+  },
+  "actor1":{
+    "0":"cub",
+    "1":"---cop",
+    "2":"isrgov",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"usa",
+    "3":"---leg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"010",
+    "3":"090"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":0.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "cuba",
+      "cub",
+      "cuba",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "police officers",
+      "~cop",
+      "~",
+      "police officers",
+      "~cop",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "academic",
+      "~edu",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cuba",
+      "women"
+    ],
+    "1":[
+      "police officers",
+      "texas"
+    ],
+    "2":[
+      "netanyahu",
+      "<u.s.>"
+    ],
+    "3":[
+      "academic",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cuba",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "benjamin netanyahu",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joins"
+    ],
+    "1":[
+      "met"
+    ],
+    "2":[
+      "welcome ... speak"
+    ],
+    "3":[
+      "probed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "cub",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---cop",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "isrgov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---edu",
+      "---leg",
+      "090"
+    ]
+  }
+}

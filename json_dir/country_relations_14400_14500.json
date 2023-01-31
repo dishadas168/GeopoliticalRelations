@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders-big-pharma-opioids_us_5a78d78be4b018ad894efbc0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/zendaya-disney-roles-women-of-color_us_5a78a870e4b0d3df1d14362d"
+  },
+  "headline":{
+    "0":"Bernie Sanders Wants Congress To Treat Big Pharma Like Big Tobacco",
+    "1":"Zendaya Wants To Return To Disney To Create More Roles For Women Of Color"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The senator wants legislation and a hearing to address pharmaceutical companies' role in the opioid epidemic.",
+    "1":"\"It\u2019s important that young people see themselves on the screen,\" she said."
+  },
+  "authors":{
+    "0":"Jason Cherkis",
+    "1":"Cole Delbyck"
+  },
+  "date":{
+    "0":"2018-02-05 00:00:00",
+    "1":"2018-02-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "companies"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... address"
+    ],
+    "1":[
+      "see"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---bus",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/use-vacation-days-companies-employees_us_5b9da995e4b03a1dcc8b03a7"
+  },
+  "headline":{
+    "0":"Why Companies Should Want Employees To Use Their Vacation Days"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Though many employees shy away from taking days off for fear of falling behind, employers should push their staff to use"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-11-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---lab"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should want"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "030"
+    ]
+  }
+}

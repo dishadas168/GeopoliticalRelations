@@ -1,0 +1,175 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-sugar-industry-paid-scientists-to-be-on-its-side-since-the-1960s_us_57d815d8e4b0aa4b722c7088",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/roger-ailes-ohio-university-newsroom-campus-gift_us_57d7a63fe4b0aa4b722c4c0d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chinese-police-crack-down-on-protesters-in-village-once-symbolic-of-democracy_us_57d7e76fe4b0aa4b722c54a9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-gulen-coup-plot-arrest-request_us_57d7c9aae4b09d7a687f825f"
+  },
+  "headline":{
+    "0":"The Sugar Industry Paid Scientists To Be On Its Side As Early As The 1960s",
+    "1":"Ohio University Rejects Roger Ailes' Name And Money",
+    "2":"Chinese Police Crack Down On Protesters In Village Once Symbolic Of Democracy",
+    "3":"Turkey Formally Asks U.S. To Arrest Cleric Gulen Over Coup Plot, Turkish Media Reports"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"MEDIA",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Sweet.",
+    "1":"The school is distancing itself from the former Fox News chief.",
+    "2":"Authorities are warning the residents of Wukan about staging protests.",
+    "3":"The Justice Ministry has requested Gulen\u2019s arrest for \u201cordering and leading the coup attempt,\u201d NTV says."
+  },
+  "authors":{
+    "0":"Kathryn Doyle, Reuters",
+    "1":"Rebecca Shapiro",
+    "2":"Venus Wu and James Pomfret, Reuters",
+    "3":""
+  },
+  "date":{
+    "0":"2016-09-13 00:00:00",
+    "1":"2016-09-13 00:00:00",
+    "2":"2016-09-13 00:00:00",
+    "3":"2016-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---edu",
+    "2":"---gov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"turelimus"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"110",
+    "2":"130",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-2.0,
+    "2":-4.4,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "industry",
+      "~bus",
+      "~",
+      "scientists",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "justice ministry",
+      "~gov",
+      "~",
+      "gulen",
+      "turelimus",
+      "fethullah",
+      "gulen"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "industry",
+      "scientists"
+    ],
+    "1":[
+      "school",
+      "school"
+    ],
+    "2":[
+      "authorities",
+      "residents"
+    ],
+    "3":[
+      "justice ministry",
+      "gulen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "fethullah gulen"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "paid"
+    ],
+    "1":[
+      "distancing ... from"
+    ],
+    "2":[
+      "are warning"
+    ],
+    "3":[
+      "has requested ... arrest"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "061"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "110"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "130"
+    ],
+    "3":[
+      "---gov",
+      "turelimus",
+      "020"
+    ]
+  }
+}

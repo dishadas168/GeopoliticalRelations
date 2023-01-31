@@ -1,0 +1,123 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joplin-missouri-new-schools_us_5bb14e05e4b09bbe9a5e1b47",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/seasonal-flu-widespread-h1n1-us_us_5b9dc24fe4b03a1dcc8c8536"
+  },
+  "headline":{
+    "0":"New Schools To Open In Joplin, Missouri, After Tornado",
+    "1":"Seasonal Flu Widespread In Nearly Half Of US"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"All of Joplin's schools have been outfitted with safe rooms, where students and staff can take refuge in case of a tornado",
+    "1":"The Texas Department of State Health Services issued an \"influenza health alert\" on Dec. 20, advising clinicians to consider"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2014-01-05 00:00:00",
+    "1":"2014-01-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"075",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "texas",
+      "department of state",
+      "usa",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "department",
+      "of",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "schools",
+      "schools"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have <~edu> ... take <&asylum>"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "students",
+      "1",
+      "natural_disaster",
+      "1"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "075"
+    ],
+    "1":[
+      "usa",
+      "usagov",
+      "040",
+      "usagov",
+      "usa",
+      "040"
+    ]
+  }
+}

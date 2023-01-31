@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/entrepreneur-characteristics_us_5b9b7633e4b03a1dcc77c13d"
+  },
+  "headline":{
+    "0":"Investors Seek Entrepreneurs With Fire in the Belly"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"If you think you want to be your own boss and run your own business, look in the mirror to see if you have the right traits to be an entrepreneur. Here are some key ones to look for."
+  },
+  "authors":{
+    "0":"Martin Zwilling, Contributor\nI provide pragmatic advice and services to entrepreneurs and s..."
+  },
+  "date":{
+    "0":"2012-03-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "investors",
+      "~bus",
+      "~",
+      "entrepreneurs",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "investors",
+      "investors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seek"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "030"
+    ]
+  }
+}

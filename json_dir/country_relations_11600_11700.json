@@ -1,0 +1,197 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/martin-luther-king-hbo-documentary_us_5abba715e4b04a59a31365f7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/howard-stern-donald-trump_us_5abafc2be4b04a59a312607a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/white-house-probes-kushner-business-loans-after-ethics-questions_us_5ab9b3bae4b0decad04d3f58",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russian-mall-fire-children-dead_us_5ab9f04de4b0decad04d6cfb"
+  },
+  "headline":{
+    "0":"Scene From New Documentary Shows MLK's Struggle To Fight Racism Outside The South",
+    "1":"Howard Stern\u2019s Blunt Advice For Trump: \u2018Get The F**k Out Of There, Man\u2019",
+    "2":"White House Probes Kushner Business Loans After Ethics Questions",
+    "3":"As Deadly Fire Raged At Russian Mall, Trapped Children Called Their Families To Say Goodbye"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"MEDIA",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"This exclusive clip from HBO's \"King in the Wilderness\" highlights the complexities of racism in the Northern and Western U.S.",
+    "1":"The King of All Media warns his old friend to leave D.C.",
+    "2":"Finance companies loaned Jared Kushner's family business more than $500 million after meeting with the senior White House adviser.",
+    "3":"More than 60 people -- including at least 41 children -- died in the Kemerovo blaze on Sunday."
+  },
+  "authors":{
+    "0":"Taryn Finley",
+    "1":"Ed Mazza",
+    "2":"Mary Papenfuss",
+    "3":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-03-28 00:00:00",
+    "1":"2018-03-28 00:00:00",
+    "2":"2018-03-27 00:00:00",
+    "3":"2018-03-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---govmed",
+    "2":"---bus",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---bus",
+    "3":"rus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"060",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":6.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "king",
+      "~gov",
+      "~",
+      "king",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "king",
+      "media",
+      "~govmed",
+      "~",
+      "~",
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "companies",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "children",
+      "~cvl",
+      "~",
+      "people",
+      "children",
+      "~cvl",
+      "~",
+      "~",
+      "kemerovo",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "king",
+      "<u.s.>"
+    ],
+    "1":[
+      "king ... media",
+      "<d.c.>"
+    ],
+    "2":[
+      "companies",
+      "companies"
+    ],
+    "3":[
+      "children",
+      "kemerovo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "highlights"
+    ],
+    "1":[
+      "warns ... leave"
+    ],
+    "2":[
+      "loaned"
+    ],
+    "3":[
+      "died"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---govmed",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "060"
+    ],
+    "3":[
+      "---cvl",
+      "rus",
+      "190"
+    ]
+  }
+}

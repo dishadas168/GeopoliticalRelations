@@ -1,0 +1,197 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jay-nixon-michael-brown_n_5685775.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-iraq-strikes_n_5686178.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/frederick-roy-miller-police-gunfight_n_5686244.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ukraine-rebels-russia_n_5684352.html"
+  },
+  "headline":{
+    "0":"Missouri Governor Accuses Ferguson Police Of Attacking Michael Brown's Character",
+    "1":"Obama Informs Congress Of Authorization Of Targeted Strikes In Iraq",
+    "2":"Man Stabs 3-Year-Old Daughter, Dies In Police Shootout",
+    "3":"Top Ukraine Rebel Leader Says Troops Training In Russia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "authors":{
+    "0":"Sabrina Siddiqui",
+    "1":"Mollie Reilly",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2014-08-17 00:00:00",
+    "1":"2014-08-17 00:00:00",
+    "2":"2014-08-17 00:00:00",
+    "3":"2014-08-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usagovleg",
+    "2":"---ppl",
+    "3":"ukrreb"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"irq",
+    "2":"---cop",
+    "3":"rusmil"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"190",
+    "2":"190",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "congress",
+      "usagovleg",
+      "barack",
+      "obama",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "ukraine",
+      "rebel leader",
+      "ukrreb",
+      "ukraine",
+      "~",
+      "troops",
+      "~mil",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "troops",
+      "rusmil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri governor",
+      "police"
+    ],
+    "1":[
+      "obama ... congress",
+      "iraq"
+    ],
+    "2":[
+      "man",
+      "police"
+    ],
+    "3":[
+      "ukraine rebel leader",
+      "troops"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "iraq"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "ukraine",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "accuses"
+    ],
+    "1":[
+      "strikes"
+    ],
+    "2":[
+      "dies"
+    ],
+    "3":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cop",
+      "112"
+    ],
+    "1":[
+      "usagovleg",
+      "irq",
+      "190"
+    ],
+    "2":[
+      "---ppl",
+      "---cop",
+      "190"
+    ],
+    "3":[
+      "ukrreb",
+      "rusmil",
+      "010"
+    ]
+  }
+}

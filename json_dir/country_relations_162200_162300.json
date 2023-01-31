@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fraudulent-unemployment-benefits_us_5bb2f2d8e4b0480ca65f4c7c"
+  },
+  "headline":{
+    "0":"Fraudulent Unemployment Benefits Payments Totaled $3.3 Billion In 2011: Paper"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The U.S. government paid out billions in unemployment benefits to people who were actually working, a new report finds, sparking"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-04-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. government",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "paid"
+    ]
+  },
+  "issues":{
+    "0":[
+      "unemployment",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ppl",
+      "061"
+    ]
+  }
+}

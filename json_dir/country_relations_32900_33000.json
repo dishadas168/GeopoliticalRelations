@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/emilys-list-katie-porter_us_593088cfe4b02478cb99dd97",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dakota-access-fight-inspires-activists-to-tackle-other-problems_us_59308c5ee4b02478cb99e1c8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/portland-stabbing-theft-wedding-ring_us_59319ac8e4b075bff0f2f532"
+  },
+  "headline":{
+    "0":"EMILY's List Makes Its First 2018 House Race Pick",
+    "1":"Dakota Access Fight Inspires Activists To Prepare For New Battles",
+    "2":"Cops Catch Man They Say Stole Wedding Ring From Portland Stabbing Victim"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME"
+  },
+  "short_description":{
+    "0":"The fund for Democratic women backs Katie Porter in California's 45th District.",
+    "1":"The camps are gone, but \"it doesn't mean that we're not doing work somewhere.\"",
+    "2":"The suspect was seen after the attack with the victim's backpack."
+  },
+  "authors":{
+    "0":"Mollie Reilly",
+    "1":"Michael McLaughlin",
+    "2":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2017-06-02 00:00:00",
+    "1":"2017-06-02 00:00:00",
+    "2":"2017-06-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"051",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":3.4,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "california"
+    ],
+    "1":[
+      "dakota",
+      "activists"
+    ],
+    "2":[
+      "man",
+      "victim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "backs"
+    ],
+    "1":[
+      "inspires"
+    ],
+    "2":[
+      "stole"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ],
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "050"
+    ],
+    "1":[
+      "usa",
+      "---opp",
+      "051"
+    ],
+    "2":[
+      "---ppl",
+      "---cvl",
+      "171"
+    ]
+  }
+}

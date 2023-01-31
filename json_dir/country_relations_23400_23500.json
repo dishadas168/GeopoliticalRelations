@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/philippines-duterte-protests-teens-killed_us_59b04014e4b0354e440ee7ec",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-manners-lesson-for-donald-trump-about-the-stars-and_us_59cbc02fe4b02ba6621ff974"
+  },
+  "headline":{
+    "0":"Killings Of Three Teens Prompts Public Scorn Over Duterte's Philippine Drug War",
+    "1":"A Manners Lesson For Donald Trump About The Stars And Stripes"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Since taking office last summer, the authoritarian president's violent war against drug dealers and users has left at least 7,000 people dead.",
+    "1":"The U.S. flag code says nothing about kneeling, Mr. President"
+  },
+  "authors":{
+    "0":"Nick Robins-Early",
+    "1":"Steven Petrow, ContributorAn author and journalist often referred to as Mr. Manners."
+  },
+  "date":{
+    "0":"2017-09-27 00:00:00",
+    "1":"2017-09-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---govcrm",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "drug dealers",
+      "~crm",
+      "~",
+      "president",
+      "drug dealers",
+      "~govcrm",
+      "~",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president ... drug dealers",
+      "people"
+    ],
+    "1":[
+      "u.s.",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has left"
+    ],
+    "1":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "drug_trade",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---govcrm",
+      "---ppl",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---gov",
+      "010"
+    ]
+  }
+}

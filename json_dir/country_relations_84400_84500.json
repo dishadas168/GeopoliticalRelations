@@ -1,0 +1,282 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/richard-dawkins-free-speech_us_561038c4e4b0af3706e11397",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/yemen-civilian-deaths-saudi-airstrikes_us_5610566be4b0dd85030c53a9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/yemen-civilian-deaths-saudi-airstrikes_us_5610566be4b0dd85030c53a9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/guns-dont-kill-people_us_560ea4fbe4b076812701ad40",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/syria-the-times-and-myste_b_8236164.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/will-there-be-accountabil_b_8238232.html"
+  },
+  "headline":{
+    "0":"Richard Dawkins: College Students Are Betraying The Free Speech Movement",
+    "1":"U.S. Dodges Responsibility For Saudi Airstrikes That Kill Yemeni Civilians",
+    "2":"U.S. Dodges Responsibility For Saudi Airstrikes That Kill Yemeni Civilians",
+    "3":"If We Treated Other Public Health Issues The Way The Pro-Gun Crowd Treats Shootings",
+    "4":"Syria, the Times and the Mystery of the \"Moderate Rebels\"",
+    "5":"Will There Be Accountability for Kunduz?"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Universities are supposed to expose you to ideas you disagree with, he declared.",
+    "1":"At the same time, the U.S. provides Saudi Arabia with targeting assistance and bombs.",
+    "2":"At the same time, the U.S. provides Saudi Arabia with targeting assistance and bombs.",
+    "3":"Because saying, \"Guns don't kill people. People kill people,\" isn't good enough.",
+    "4":"After a two-year absence from the international stage -- during which the mainstream media dispatched them to the realm of nonexistent entities -- on October 1 the \"moderate rebels\" of Syria were back. The New York Times said so. Russian attacks were targeting moderates rather than ISIS, a man with a camera was quoted saying; and the Times story by Anne Barnard appeared to confirm his suspicion; even as a companion report on Russian actions in Syria by Helene Cooper, Michael R. Gordon, and Neil MacFarquhar revealed that these are the same moderates who were carefully vetted by the CIA, and concerning whom little was heard ever after. Their numbers are put at 3,000 to 5,000, though the Cooper-Gordon-MacFarquhar article leaves uncertain if that is their original or their present strength.",
+    "5":"An airstrike on a Medecins Sans Frontieres (MSF) hospital in Kunduz, Afghanistan has left at least 19 people dead. Once we discover exactly what happened, will there be genuine accountability for Kunduz?"
+  },
+  "authors":{
+    "0":"Tyler Kingkade",
+    "1":"Jessica Schulberg",
+    "2":"Jessica Schulberg",
+    "3":"Nick Wing",
+    "4":"David Bromwich, ContributorProfessor of Literature, Yale University",
+    "5":"Taylor Dibbert, Contributorfreelance writer"
+  },
+  "date":{
+    "0":"2015-10-03 00:00:00",
+    "1":"2015-10-03 00:00:00",
+    "2":"2015-10-03 00:00:00",
+    "3":"2015-10-03 00:00:00",
+    "4":"2015-10-03 00:00:00",
+    "5":"2015-10-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usa",
+    "2":"usa",
+    "3":"---ppl",
+    "4":"rus",
+    "5":"afghlh"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"yemcvl",
+    "2":"sau",
+    "3":"---ppl",
+    "4":"imgmusisi",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"190",
+    "2":"060",
+    "3":"190",
+    "4":"190",
+    "5":"040"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-10.0,
+    "2":6.0,
+    "3":-10.0,
+    "4":-10.0,
+    "5":1.0
+  },
+  "nouns":{
+    "0":[
+      "universities",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "yemeni",
+      "civilians",
+      "yemcvl",
+      "yemen",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "man",
+      "~ppl",
+      "~",
+      "syria",
+      "syr",
+      "syria",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "5":[
+      "kunduz",
+      "afghanistan",
+      "afg",
+      "afg",
+      "afghanistan",
+      "afghanistan",
+      "hospital",
+      "afghlh",
+      "afghlh",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "universities",
+      "universities"
+    ],
+    "1":[
+      "u.s.",
+      "yemeni civilians"
+    ],
+    "2":[
+      "u.s.",
+      "saudi arabia"
+    ],
+    "3":[
+      "people",
+      "people"
+    ],
+    "4":[
+      "russian",
+      "isis"
+    ],
+    "5":[
+      "hospital",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "yemen"
+    ],
+    "2":[
+      "united states of america",
+      "saudi arabia"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "russian federation",
+      "the islamic state"
+    ],
+    "5":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... expose"
+    ],
+    "1":[
+      "airstrikes ... kill"
+    ],
+    "2":[
+      "provides"
+    ],
+    "3":[
+      "kill"
+    ],
+    "4":[
+      "were targeting"
+    ],
+    "5":[
+      "has left"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "airstrike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "050"
+    ],
+    "1":[
+      "usa",
+      "yemcvl",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "sau",
+      "060"
+    ],
+    "3":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "4":[
+      "rus",
+      "imgmusisi",
+      "190"
+    ],
+    "5":[
+      "afghlh",
+      "---ppl",
+      "040",
+      "afghlh",
+      "---ppl",
+      "040"
+    ]
+  }
+}

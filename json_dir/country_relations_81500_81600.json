@@ -1,0 +1,244 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-saturday-night-live-latinos_us_563bde25e4b0307f2cacccd6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/virtual-doctor-visits-are-on-the-rise-in-the-us_us_563cd7d7e4b0b24aee4a0327",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2015\/11\/06\/science\/exxon-mobil-under-investigation-in-new-york-over-climate-statements.html?smid=tw-bna&_r=0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iranian-president-criticizes-arrests-journalists_us_563b5821e4b0411d306fba5b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/iranian-president-criticizes-arrests-journalists_us_563b5821e4b0411d306fba5b"
+  },
+  "headline":{
+    "0":"Live From New York: It's A Saturday Night Trumptroversy",
+    "1":"The Next Time You See Your Doctor Could Be Via Computer Screen",
+    "2":"Exxon Mobil To Be Investigated In New York For Climate Statements",
+    "3":"Iranian President Criticizes Recent Arrests Of Journalists",
+    "4":"Iranian President Criticizes Recent Arrests Of Journalists"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"MEDIA",
+    "4":"MEDIA"
+  },
+  "short_description":{
+    "0":"Not everyone finds SNL's choice to have Trump host to be funny, but if Latino activists can mobilize voters, they'll get the last laugh.",
+    "1":"Healthcare companies are touting it as a cheaper, more convenient way to see doctors.",
+    "2":"The New York attorney general has begun a sweeping investigation of Exxon Mobil to determine whether the company lied to",
+    "3":"Rouhani said hard-liners \"misuse\" remarks by Supreme Leader Ayatollah Ali Khamenei on the possible spread of U.S. influence in Iran as an excuse for the detentions.",
+    "4":"Rouhani said hard-liners \"misuse\" remarks by Supreme Leader Ayatollah Ali Khamenei on the possible spread of U.S. influence in Iran as an excuse for the detentions."
+  },
+  "authors":{
+    "0":"Jason Linkins",
+    "1":"MATTHEW PERRONE, AP",
+    "2":"",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2015-11-06 00:00:00",
+    "1":"2015-11-06 00:00:00",
+    "2":"2015-11-05 00:00:00",
+    "3":"2015-11-05 00:00:00",
+    "4":"2015-11-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---bus",
+    "2":"---gov",
+    "3":"irngov",
+    "4":"irngov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh",
+    "2":"mncusa",
+    "3":"---med",
+    "4":"irngov"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"010",
+    "2":"091",
+    "3":"111",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":0.0,
+    "2":-2.0,
+    "3":-2.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "attorney general",
+      "~gov",
+      "~",
+      "exxon mobil",
+      "mncusa",
+      "exxon",
+      "mobil",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "iranian",
+      "president",
+      "irngov",
+      "iran",
+      "~",
+      "journalists",
+      "~med",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "4":[
+      "rouhani",
+      "irngov",
+      "hassan",
+      "rouhani",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "khamenei",
+      "irngov",
+      "hojatolislam",
+      "sayyed",
+      "ali",
+      "khamenei",
+      "iran",
+      "irn",
+      "iran"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "voters"
+    ],
+    "1":[
+      "companies",
+      "doctors"
+    ],
+    "2":[
+      "attorney general",
+      "exxon mobil"
+    ],
+    "3":[
+      "iranian president",
+      "journalists"
+    ],
+    "4":[
+      "rouhani",
+      "rouhani",
+      "rouhani",
+      "iran"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "exxon mobil"
+    ],
+    "3":[
+      "iran",
+      "---"
+    ],
+    "4":[
+      "hassan rouhani",
+      "hassan rouhani",
+      "hassan rouhani",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can <activists> mobilize"
+    ],
+    "1":[
+      "are ... see"
+    ],
+    "2":[
+      "has begun <&investigation>"
+    ],
+    "3":[
+      "criticizes"
+    ],
+    "4":[
+      "said",
+      "said"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1",
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "140"
+    ],
+    "1":[
+      "---bus",
+      "---hlh",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "mncusa",
+      "091"
+    ],
+    "3":[
+      "irngov",
+      "---med",
+      "111"
+    ],
+    "4":[
+      "irngov",
+      "irngov",
+      "010",
+      "irngov",
+      "irn",
+      "010"
+    ]
+  }
+}

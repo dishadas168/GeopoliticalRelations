@@ -1,0 +1,308 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bulgaria-bans-muslim-women-from-wearing-full-face-veils-in-public_us_57f2d0cae4b01b16aafe930b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/colombia-scrambles-to-revive-peace-after-shock-vote_us_57f24ec2e4b082aad9bbf185",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/colombia-vote-no-to-the-peace-agreement-with-the_us_57f24faee4b095bd896a13fe",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-officials-want-america-to-challenge-vladimir_us_57f251fae4b095bd896a140a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/spain-gas-cylinder-explosion-77_us_57f0fcb0e4b0c2407cde569f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/syria-aleppo-offensive_us_57f15377e4b024a52d2f7a30",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/michael-che-definitely-dropped-the-n-word-on-saturday-night-live_us_57f12088e4b0c2407cde5d6c"
+  },
+  "headline":{
+    "0":"Bulgaria Bans Muslim Women From Wearing Full-Face Veils In Public",
+    "1":"Colombia Scrambles To Revive Peace After Shock Vote",
+    "2":"Colombia Votes \"No\" To The Peace Agreement With The FARC",
+    "3":"Obama Officials Want America To Challenge Vladimir Putin. We Already Are.",
+    "4":"Gas Cylinder Explodes At Spanish Restaurant, Injuring At Least 77",
+    "5":"Syrian Regime Forces And Allies Advance Towards Aleppo",
+    "6":"Michael Che Definitely Dropped The N-Word During The 'Saturday Night Live' Premiere"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Even though most Muslim women in the country don't wear niqabs or burqas.",
+    "1":"Voters rejected the deal struck between the government and the FARC rebels.",
+    "2":"Juan Manuel Santos harvested a resounding failure.",
+    "3":"Can we all agree that Vladimir Putin is no friend of the West? That much should be obvious after his encroachments into Ukraine",
+    "4":"Saturday's blast in Velez-Malaga left five people seriously injured.",
+    "5":"The Syrian army has told rebels to leave their positions.",
+    "6":"Naturally, people on Twitter couldn't stop talking about it."
+  },
+  "authors":{
+    "0":"Angel Krasimirov, Reuters",
+    "1":"Helen Murphy and Julia Symmes Cobb, Reuters",
+    "2":"Sai Kiran Shakewar, ContributorAuthor, Blogger, Gamer, Graphic designer. Self proclaimed luck...",
+    "3":"Matthew Purple, ContributorFellow at Defense Priorities",
+    "4":"",
+    "5":"",
+    "6":"Julia Brucculieri"
+  },
+  "date":{
+    "0":"2016-10-03 00:00:00",
+    "1":"2016-10-03 00:00:00",
+    "2":"2016-10-03 00:00:00",
+    "3":"2016-10-03 00:00:00",
+    "4":"2016-10-02 00:00:00",
+    "5":"2016-10-02 00:00:00",
+    "6":"2016-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"bgr",
+    "1":"---cvl",
+    "2":"col",
+    "3":"usagov",
+    "4":"esp",
+    "5":"syrmil",
+    "6":"---ppl"
+  },
+  "actor2":{
+    "0":"---muscvl",
+    "1":"colrebgov",
+    "2":"colreb",
+    "3":"usa",
+    "4":"---ppl",
+    "5":"---reb",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"190",
+    "2":"030",
+    "3":"030",
+    "4":"040",
+    "5":"010",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":4.0,
+    "4":1.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "bulgaria",
+      "bgr",
+      "bulgaria",
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "voters",
+      "~cvl",
+      "~",
+      "government",
+      "farc",
+      "rebels",
+      "colrebgov",
+      "~",
+      "revolutionary",
+      "armed",
+      "forces",
+      "of",
+      "colombia",
+      "~"
+    ],
+    "2":[
+      "colombia",
+      "col",
+      "colombia",
+      "farc",
+      "colreb",
+      "revolutionary",
+      "armed",
+      "forces",
+      "of",
+      "colombia"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "4":[
+      "malaga",
+      "esp",
+      "spain",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "syrian",
+      "army",
+      "syrmil",
+      "syria",
+      "~",
+      "rebels",
+      "~reb",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bulgaria",
+      "muslim women"
+    ],
+    "1":[
+      "voters",
+      "government ... farc rebels"
+    ],
+    "2":[
+      "colombia",
+      "farc"
+    ],
+    "3":[
+      "obama",
+      "america"
+    ],
+    "4":[
+      "malaga",
+      "people"
+    ],
+    "5":[
+      "syrian army",
+      "rebels"
+    ],
+    "6":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "bulgaria",
+      "---"
+    ],
+    "1":[
+      "---",
+      "revolutionary armed forces of colombia"
+    ],
+    "2":[
+      "colombia",
+      "revolutionary armed forces of colombia"
+    ],
+    "3":[
+      "barack obama",
+      "united states of america"
+    ],
+    "4":[
+      "spain",
+      "---"
+    ],
+    "5":[
+      "syria",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bans"
+    ],
+    "1":[
+      "rejected ... struck between"
+    ],
+    "2":[
+      "votes"
+    ],
+    "3":[
+      "want"
+    ],
+    "4":[
+      "left"
+    ],
+    "5":[
+      "has told"
+    ],
+    "6":[
+      "could ... talking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1",
+      "named_terror_group",
+      "1"
+    ],
+    "2":[
+      "named_terror_group",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "bgr",
+      "---muscvl",
+      "172"
+    ],
+    "1":[
+      "---cvl",
+      "colrebgov",
+      "190"
+    ],
+    "2":[
+      "col",
+      "colreb",
+      "030"
+    ],
+    "3":[
+      "usagov",
+      "usa",
+      "030"
+    ],
+    "4":[
+      "esp",
+      "---ppl",
+      "040"
+    ],
+    "5":[
+      "syrmil",
+      "---reb",
+      "010"
+    ],
+    "6":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ]
+  }
+}

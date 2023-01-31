@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-raqqa-battle_us_5936d115e4b0099e7faf921d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/paris-police-officer-attacked_us_5936c2dfe4b0cfcda917ce66",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/china-muslim-names_us_5936e1a8e4b0cfcda91824d0"
+  },
+  "headline":{
+    "0":"U.S.-Backed Force Launches Battle To Capture ISIS Stronghold Of Raqqa",
+    "1":"Man Shot After Attacking Police Outside Paris' Notre Dame",
+    "2":"China Is Forcing Muslim Children To Abandon 'Overly Religious' Names"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"ISIS captured Raqqa from rebel groups in 2014 and has used it as an operations base to plan attacks in the West.",
+    "1":"Police sources said the officers shot at the man after he had threatened them with a hammer and refused to stop.",
+    "2":"Banned names include Islam, Quran, Mecca, Jihad, Imam, Saddam, Hajj, Medina and Arafat."
+  },
+  "authors":{
+    "0":"Rodi Said and Tom Perry, Reuters",
+    "1":"",
+    "2":"Antonia Blumberg"
+  },
+  "date":{
+    "0":"2017-06-06 00:00:00",
+    "1":"2017-06-06 00:00:00",
+    "2":"2017-06-06 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"---cop",
+    "2":"chn"
+  },
+  "actor2":{
+    "0":"syrreb",
+    "1":"---ppl",
+    "2":"---muscvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"015",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":0.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "raqqa",
+      "syr",
+      "syria",
+      "rebel groups",
+      "~reb",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "china",
+      "chn",
+      "china",
+      "muslim",
+      "children",
+      "~muscvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "---"
+    ],
+    "1":[
+      "police",
+      "man"
+    ],
+    "2":[
+      "china",
+      "muslim children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "china",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... captured"
+    ],
+    "1":[
+      "said ... shot"
+    ],
+    "2":[
+      "is forcing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "syrreb",
+      "171"
+    ],
+    "1":[
+      "---cop",
+      "---ppl",
+      "015"
+    ],
+    "2":[
+      "chn",
+      "---muscvl",
+      "170"
+    ]
+  }
+}

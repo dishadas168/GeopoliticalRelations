@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/girl-bow-hairstyle-uk-class-pictures_us_5b9bc26ce4b03a1dcc7a212e"
+  },
+  "headline":{
+    "0":"Girl With Bow Hairstyle Barred From School Pictures (VIDEO)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"But Marino was told that her hair violated the school policy against braided hair and that it would not be permitted for"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-05-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"160"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girl",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "barred from"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "160"
+    ]
+  }
+}

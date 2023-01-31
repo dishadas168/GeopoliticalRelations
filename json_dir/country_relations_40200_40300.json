@@ -1,0 +1,294 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/baghdadi-abandons-mosul_us_58c0240ee4b054a0ea66bdc4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/google-doodle-international-womens-day_us_58bfb71ae4b0d1078ca22d66",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/imdb-f-rating-british-film-festival_us_58be6746e4b033be14681352",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/remember-the-trump-pivot_us_58c069cce4b0ed7182698c38",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hawaii-challenge-executive-order_us_58bf61f4e4b0d1078ca21e84",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/gop-wants-to-give-insurance-executives-a-tax-break_us_58c041dde4b0d1078ca33a48",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/travel-ban-ruling-appeal-dismissed_us_58bf53f7e4b0ed7182681103"
+  },
+  "headline":{
+    "0":"Islamic State Leader Baghdadi Abandons Mosul Fight To Field Commanders",
+    "1":"Kickass Google Doodle Celebrates 13 Game-Changing Women",
+    "2":"IMDB Adopts British Film Festival's 'F-Rating' To Highlight Movies Made By Women",
+    "3":"How To Lose Your 'Presidential Pivot' In Seven Days",
+    "4":"Hawaii Looks To Challenge Trump's New Executive Order In Court",
+    "5":"GOP Wants To Give Health Insurance Executives A Tax Break",
+    "6":"Trump Administration Seeks To Dismiss Its Own Appeal Of Travel Ban Ruling"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"WOMEN",
+    "2":"WOMEN",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"He has left the city to his field commanders.",
+    "1":"In honor of International Women's Day.",
+    "2":"The designation \"sends a clear message to distributors, producers and funders that women can and should have more than just a supporting role.\"",
+    "3":"A week ago, the media praised Donald Trump for being a changed man. He spent the next seven days changing back.",
+    "4":"SAN FRANCISCO (Reuters) - The state of Hawaii said it will ask a federal court on Wednesday for an emergency halt to President",
+    "5":"But not many lawmakers want to talk about it.",
+    "6":"Immigration advocates said the administration's new ban still discriminated against Muslims."
+  },
+  "authors":{
+    "0":"",
+    "1":"Lee Moran",
+    "2":"Rebecca Shapiro",
+    "3":"Jason Linkins",
+    "4":"Dan Levine, Reuters",
+    "5":"Igor Bobic",
+    "6":""
+  },
+  "date":{
+    "0":"2017-03-08 00:00:00",
+    "1":"2017-03-08 00:00:00",
+    "2":"2017-03-08 00:00:00",
+    "3":"2017-03-08 00:00:00",
+    "4":"2017-03-08 00:00:00",
+    "5":"2017-03-08 00:00:00",
+    "6":"2017-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"irq",
+    "1":"mncusamed",
+    "2":"gbr",
+    "3":"---med",
+    "4":"usa",
+    "5":"---leg",
+    "6":"---jud"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---ppl",
+    "4":"---jud",
+    "5":"---leg",
+    "6":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"051",
+    "2":"010",
+    "3":"051",
+    "4":"020",
+    "5":"010",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.4,
+    "2":0.0,
+    "3":3.4,
+    "4":3.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "mosul",
+      "irq",
+      "iraq",
+      "commanders",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "google",
+      "mncusamed",
+      "google",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "media",
+      "~med",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "hawaii",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "federal court",
+      "~jud",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "6":[
+      "advocates",
+      "~jud",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mosul",
+      "commanders"
+    ],
+    "1":[
+      "google",
+      "women"
+    ],
+    "2":[
+      "british",
+      "women"
+    ],
+    "3":[
+      "media",
+      "man"
+    ],
+    "4":[
+      "hawaii",
+      "federal court"
+    ],
+    "5":[
+      "lawmakers",
+      "lawmakers"
+    ],
+    "6":[
+      "advocates",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iraq",
+      "---"
+    ],
+    "1":[
+      "google",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fight"
+    ],
+    "1":[
+      "celebrates"
+    ],
+    "2":[
+      "to highlight"
+    ],
+    "3":[
+      "praised"
+    ],
+    "4":[
+      "said ... will ask"
+    ],
+    "5":[
+      "want ... talk"
+    ],
+    "6":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "id_immigration",
+      "1",
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "irq",
+      "---mil",
+      "190"
+    ],
+    "1":[
+      "mncusamed",
+      "---cvl",
+      "051"
+    ],
+    "2":[
+      "gbr",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---med",
+      "---ppl",
+      "051"
+    ],
+    "4":[
+      "usa",
+      "---jud",
+      "020"
+    ],
+    "5":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "6":[
+      "---jud",
+      "---gov",
+      "010"
+    ]
+  }
+}

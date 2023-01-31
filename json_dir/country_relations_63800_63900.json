@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/judge-immigration-information_us_5757500ae4b0a3d6fbd31cb6",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/wqt2Kk",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obamas-kick-ass-lady-crew-celebrates-the-united-state-of-women_us_575593fce4b0c3752dce2983"
+  },
+  "headline":{
+    "0":"Judge In Immigration Case Puts Brakes On Releasing Sensitive Information On Thousands Of Immigrants",
+    "1":"Girl Comforts Kangaroo That Collapsed In The Heat At Street Festival",
+    "2":"Michelle Obama's Kick-Ass Lady Crew Celebrates 'The United State Of Women'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"GREEN",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"Rights groups say the release could endanger immigrants.",
+    "1":"When Jonathan Cole took his little sister to an Ontario street festival over the weekend, the first thing to catch the 10",
+    "2":"FLOTUS got some help from Shonda Rhimes, Tina Fey and more."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Taylor Pittman"
+  },
+  "date":{
+    "0":"2016-06-07 00:00:00",
+    "1":"2016-06-06 00:00:00",
+    "2":"2016-06-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---hri",
+    "1":"shaftoe_",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"can",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"171",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":-9.2,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "rights groups",
+      "~hri",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "jonathan",
+      "shaftoe_",
+      "jonathan",
+      "ontario",
+      "can",
+      "canada"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rights groups",
+      "immigrants"
+    ],
+    "1":[
+      "jonathan",
+      "ontario"
+    ],
+    "2":[
+      "obama",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "jonathan",
+      "canada"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... endanger"
+    ],
+    "1":[
+      "took"
+    ],
+    "2":[
+      "celebrates"
+    ]
+  },
+  "issues":{
+    "0":[
+      "civil_society",
+      "1",
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hri",
+      "---cvl",
+      "130"
+    ],
+    "1":[
+      "shaftoe_",
+      "can",
+      "171"
+    ],
+    "2":[
+      "usagov",
+      "---cvl",
+      "051"
+    ]
+  }
+}

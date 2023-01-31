@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-columbia_us_55e4eb6ee4b0b7a9633a0ebf"
+  },
+  "headline":{
+    "0":"Obama Has Not Finalized Post-Presidential Plans, Despite Columbia Rumor"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Columbia's student newspaper quoted Columbia President Lee Bollinger as telling a school convocation: \"We look forward to welcoming back our most famous alumnus, Barack Obama, in 2017.\""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-09-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---edumed"
+  },
+  "actor2":{
+    "0":"---govedu"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "newspaper",
+      "~edumed",
+      "~",
+      "~",
+      "president",
+      "school",
+      "~govedu",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "student newspaper",
+      "president ... school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "quoted"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edumed",
+      "---govedu",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-hospital-attacks_us_56c330f0e4b0c3c550528d2e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/netanyahu-seeks-to-rally-israelis-around-him-in-anti-obama-assault_us_58619a5ae4b0de3a08f5f4b7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/china-lodges-complaint-over-taiwans-place-in-us-defense-bill_us_586072d9e4b0d9a59458b3a6"
+  },
+  "headline":{
+    "0":"Syrian Medical Facilities Were Attacked More Than 250 Times This Year",
+    "1":"Netanyahu Seeks To Rally Israelis Around Him In Anti-Obama Assault",
+    "2":"China Lodges Complaint Over Taiwan's Place In U.S. Defense Bill"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"But Damascus and Moscow \u2015 whose warplanes launched the vast majority of such assaults \u2015 still deny that hospitals are being targeted.",
+    "1":"The Israeli prime minister's criticism of the Obama administration continues.",
+    "2":"China accuses the U.S. of interfering in its internal affairs."
+  },
+  "authors":{
+    "0":"Jesselyn Cook",
+    "1":"Jeffrey Heller, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2016-12-27 00:00:00",
+    "1":"2016-12-26 00:00:00",
+    "2":"2016-12-26 00:00:00"
+  },
+  "actor1":{
+    "0":"syr",
+    "1":"isrgov",
+    "2":"chn"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"isr",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"030",
+    "2":"112"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":4.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "damascus",
+      "moscow",
+      "syr",
+      "rus",
+      "syria",
+      "russian",
+      "federation",
+      "hospitals",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "israelis",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "damascus",
+      "hospitals",
+      "moscow",
+      "hospitals"
+    ],
+    "1":[
+      "netanyahu",
+      "israelis"
+    ],
+    "2":[
+      "china",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "---",
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "benjamin netanyahu",
+      "israel"
+    ],
+    "2":[
+      "china",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "\u2015 <~hlh> ... targeted",
+      "\u2015 <~hlh> ... targeted"
+    ],
+    "1":[
+      "seeks"
+    ],
+    "2":[
+      "accuses"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "---hlh",
+      "190",
+      "rus",
+      "---hlh",
+      "190"
+    ],
+    "1":[
+      "isrgov",
+      "isr",
+      "030"
+    ],
+    "2":[
+      "chn",
+      "usa",
+      "112"
+    ]
+  }
+}

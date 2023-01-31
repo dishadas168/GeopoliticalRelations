@@ -1,0 +1,265 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trumps-muslim-ban-faces-tough-questions-from-appeals-court_us_5919e270e4b0809be156e23b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kamala-harris-howard-commencement_us_5919d9f7e4b07d5f6ba4c1be",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/cholera-death-toll-in-yemen-reaches-at-least-180_us_5919ecc5e4b07d5f6ba4f286",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-assures-farmers-immigration-crackdown-wont-affect-their-workers_us_5919b1f2e4b0fe039b361eca",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/congress-tweets-mothers-day_us_5918d4bce4b0031e737e8800",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/stop-chinas-stealth-invasion_us_59188889e4b0bd90f8e6a67f"
+  },
+  "headline":{
+    "0":"Trump's Muslim Ban Faces Tough Questions From Appeals Court",
+    "1":"Sen. Kamala Harris Tells HBCU Grads To 'Speak Truth And Serve' In The Fight Ahead",
+    "2":"Cholera Death Toll In Yemen Reaches At Least 180",
+    "3":"Trump Assures Farmers Immigration Crackdown Won't Affect Their Workers",
+    "4":"Lawmakers Who Voted To Make Health Care Worse For Moms Hope You Have A Happy Mother\u2019s Day",
+    "5":"Stop China\u2019s Stealth Invasion"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"HEALTHY LIVING",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cThere is no case like this, is there?\u201d 9th Circuit Judge Richard Paez asked.",
+    "1":"The California senator gave Howard University's commencement speech on Saturday.",
+    "2":"Health officials declared a state of emergency in Yemen's capital.",
+    "3":"\u201cHe assured us we would have plenty of access to workers,\u201d said the president of the American Farm Bureau Federation.",
+    "4":"Some Twitter users found the platitudes more than a little bit ironic.",
+    "5":"A corrupt Chinese company that is under investigation by three U.S. agencies is trying to buy an American aluminum firm."
+  },
+  "authors":{
+    "0":"Tom James, Reuters",
+    "1":"Taryn Finley",
+    "2":"",
+    "3":"Mica Rosenberg and Kristina Cooke, Reuters",
+    "4":"Kim Bellware",
+    "5":"Leo W. Gerard , ContributorInternational President United Steelworkers union"
+  },
+  "date":{
+    "0":"2017-05-15 00:00:00",
+    "1":"2017-05-15 00:00:00",
+    "2":"2017-05-15 00:00:00",
+    "3":"2017-05-15 00:00:00",
+    "4":"2017-05-15 00:00:00",
+    "5":"2017-05-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---mus",
+    "1":"usaleg",
+    "2":"---govhlh",
+    "3":"---agr",
+    "4":"---leg",
+    "5":"chnbus"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---edu",
+    "2":"yem",
+    "3":"---lab",
+    "4":"---leg",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"1724",
+    "3":"050",
+    "4":"020",
+    "5":"061"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":-5.0,
+    "3":3.5,
+    "4":3.0,
+    "5":6.4
+  },
+  "nouns":{
+    "0":[
+      "muslim",
+      "~mus",
+      "~",
+      "appeals court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "california",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "health officials",
+      "~govhlh",
+      "~",
+      "yemen",
+      "yem",
+      "yemen"
+    ],
+    "3":[
+      "farmers",
+      "~agr",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "4":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "chinese",
+      "company",
+      "chnbus",
+      "china",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "muslim",
+      "appeals court"
+    ],
+    "1":[
+      "california senator",
+      "university"
+    ],
+    "2":[
+      "health officials",
+      "yemen"
+    ],
+    "3":[
+      "farmers",
+      "workers"
+    ],
+    "4":[
+      "lawmakers",
+      "lawmakers"
+    ],
+    "5":[
+      "chinese company",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "yemen"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "china",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ],
+    "1":[
+      "gave"
+    ],
+    "2":[
+      "declared ... state of emergency"
+    ],
+    "3":[
+      "wo ... affect"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "is ... buy"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "agriculture",
+      "1",
+      "id_immigration",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mus",
+      "---jud",
+      "040"
+    ],
+    "1":[
+      "usaleg",
+      "---edu",
+      "060"
+    ],
+    "2":[
+      "---govhlh",
+      "yem",
+      "1724"
+    ],
+    "3":[
+      "---agr",
+      "---lab",
+      "050"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "020"
+    ],
+    "5":[
+      "chnbus",
+      "usa",
+      "061"
+    ]
+  }
+}

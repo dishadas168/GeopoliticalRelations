@@ -1,0 +1,235 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/matthew-keys-sentence_us_570e6348e4b03d8b7b9efd59",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/world\/national-security\/fbi-paid-professional-hackers-one-time-fee-to-crack-san-bernardino-iphone\/2016\/04\/12\/5397814a-00de-11e6-9d36-33d198ea26c5_story.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jeff-merkley-bernie-sanders-senate_us_570e0bc9e4b03d8b7b9ed98e",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/Ko2eG2",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-clinton-female-voters_us_570ce8bee4b0885fb50e23b1"
+  },
+  "headline":{
+    "0":"Journalist Matthew Keys Sentenced To 2 Years In Anonymous Hack On LA Times",
+    "1":"FBI Paid Professional Hackers One-Time Fee To Crack San Bernardino iPhone",
+    "2":"Dem Senator Breaks From The Pack To Endorse Bernie Sanders",
+    "3":"That Time the CIA Subjected Americans to 'Surprise Acid Trips'",
+    "4":"HUFFPOLLSTER: Donald Trump And Hillary Clinton Are Struggling With Some Female Voters"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TECH",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Prosecutors said the former Reuters social media editor had sought revenge on his former employer.",
+    "1":"The FBI cracked a San Bernardino terrorist\u2019s phone with the help of professional hackers who discovered and brought to the",
+    "2":"Forty Democrats in the Senate have endorsed Hillary Clinton.",
+    "3":"Ten scientists, some from the CIA, gathered in a cabin in Maryland for their semiannual review and conference in November",
+    "4":"But they\u2019re facing challenges for different reasons."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly",
+    "1":"",
+    "2":"Alana Horowitz Satlin",
+    "3":"",
+    "4":"Natalie Jackson, Ariel Edwards-Levy, and Janie Velencia"
+  },
+  "date":{
+    "0":"2016-04-13 00:00:00",
+    "1":"2016-04-13 00:00:00",
+    "2":"2016-04-13 00:00:00",
+    "3":"2016-04-12 00:00:00",
+    "4":"2016-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usacop",
+    "2":"usagovleg",
+    "3":"usaspycvl",
+    "4":"usaeli"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---uaf",
+    "2":"usaeli",
+    "3":"usa",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"180",
+    "2":"051",
+    "3":"040",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.0,
+    "2":3.4,
+    "3":1.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "employer",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "terrorist",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "3":[
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "scientists",
+      "usaspycvl",
+      "~",
+      "maryland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "employer"
+    ],
+    "1":[
+      "fbi",
+      "terrorist"
+    ],
+    "2":[
+      "senate",
+      "hillary clinton"
+    ],
+    "3":[
+      "scientists",
+      "maryland"
+    ],
+    "4":[
+      "hillary clinton",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "2":[
+      "united states congress",
+      "hillary clinton"
+    ],
+    "3":[
+      "",
+      "united states of america"
+    ],
+    "4":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... sought"
+    ],
+    "1":[
+      "cracked"
+    ],
+    "2":[
+      "have endorsed"
+    ],
+    "3":[
+      "gathered"
+    ],
+    "4":[
+      "are struggling"
+    ]
+  },
+  "issues":{
+    "0":[
+      "retaliation",
+      "1"
+    ],
+    "1":[
+      "terror",
+      "1",
+      "cyber_security",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---bus",
+      "030"
+    ],
+    "1":[
+      "usacop",
+      "---uaf",
+      "180"
+    ],
+    "2":[
+      "usagovleg",
+      "usaeli",
+      "051"
+    ],
+    "3":[
+      "usaspycvl",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "usaeli",
+      "---cvl",
+      "190"
+    ]
+  }
+}

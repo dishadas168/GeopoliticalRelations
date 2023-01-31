@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/national\/charlotte-council-votes-to-extend-transgender-rights\/2016\/02\/22\/de5c11d2-d9de-11e5-8210-f0bd8de915f6_story.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lena-dunham-stands-by-kesha-in-powerful-essay_us_56cc6c65e4b041136f1844c5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/gop-supreme-court-nominee_us_56ccb33ce4b0928f5a6d75aa",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-kalamazoo-shootings_us_56cb3d7fe4b0928f5a6c84f1"
+  },
+  "headline":{
+    "0":"Charlotte council votes to extend transgender rights",
+    "1":"Lena Dunham Stands By Kesha In Powerful Essay",
+    "2":"GOP Senators Won't Even Meet With An Obama Supreme Court Nominee",
+    "3":"Obama On Kalamazoo: 'We Need To Do More' To Fight Gun Violence"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"CHARLOTTE, N.C. \u2014 North Carolina\u2019s largest city has passed a law allowing transgender people to choose public bathrooms that",
+    "1":"\"The American legal system continues to hurt women by failing to protect them...\"",
+    "2":"\"I don't see the purpose,\" Sen. John Cornyn said.",
+    "3":"A gunman killed six people during a shooting rampage on Saturday."
+  },
+  "authors":{
+    "0":"",
+    "1":"Taylor Pittman",
+    "2":"Jennifer Bendery, Amanda Terkel, and Laura Barr\u00f3n-L\u00f3pez",
+    "3":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2016-02-23 00:00:00",
+    "1":"2016-02-23 00:00:00",
+    "2":"2016-02-23 00:00:00",
+    "3":"2016-02-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---leg",
+    "3":"---uaf"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"180",
+    "2":"040",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-9.0,
+    "2":1.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "senators",
+      "~leg",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north carolina",
+      "people"
+    ],
+    "1":[
+      "american",
+      "women"
+    ],
+    "2":[
+      "senators",
+      "obama"
+    ],
+    "3":[
+      "gunman",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has passed ... allowing"
+    ],
+    "1":[
+      "continues ... hurt"
+    ],
+    "2":[
+      "wo ... meet"
+    ],
+    "3":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "08"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "180"
+    ],
+    "2":[
+      "---leg",
+      "usagov",
+      "040"
+    ],
+    "3":[
+      "---uaf",
+      "---ppl",
+      "190"
+    ]
+  }
+}

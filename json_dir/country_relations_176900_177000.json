@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hertz-acquisition_us_5bb2dda3e4b0480ca65d9a74",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/home-swap-vacation-tips_us_5b9c887fe4b03a1dcc7f8707"
+  },
+  "headline":{
+    "0":"Planes, Trains and Cars: Cartels Take Over the Travel Industry",
+    "1":"Home Swap Vacation Tips"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"If airlines and car rental companies want to increase market share, the big guys should have to earn it by winning the business and loyalty of their customers; not by gobbling up competitors or driving them out of business",
+    "1":"We all want a vacation, but many people think they can't afford it. You can afford it! And I'm going to tell you how."
+  },
+  "authors":{
+    "0":"Hillary Adler, Contributor\nPoet, writer, travel blogger, politics junkie",
+    "1":"Shelley Miller, Contributor\nHome Exchange Expert"
+  },
+  "date":{
+    "0":"2012-11-22 00:00:00",
+    "1":"2012-11-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "cartels",
+      "~crm",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cartels",
+      "industry"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "take"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "public_transit",
+      "1",
+      "drug_cartels",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "---bus",
+      "171"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

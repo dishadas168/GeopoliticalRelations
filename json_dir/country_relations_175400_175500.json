@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/myths-about-homosexuality-fuel-ugandas-kill-the-gays-bill_us_5bafae1fe4b0ad76925ff323",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/wind-industry-fiscal-cliff_us_5bb2dfc7e4b0480ca65dc331",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sleep-apnea-women-brain-damage-men-severe_us_5b9c9475e4b03a1dcc7fff3f"
+  },
+  "headline":{
+    "0":"Myths About Homosexuality Fuel Uganda's 'Kill the Gays' Bill",
+    "1":"Wind Industry Threatened By Fiscal Cliff, Avoiding Hiring, Laying Off Workers",
+    "2":"Women With Sleep Apnea Face More Severe Brain Damage Than Men: Study"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"BUSINESS",
+    "2":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The belligerent rhetoric directed at anyone who does not seem straight is neither innovative nor specific to Uganda. For years politicians and pundits from the U.S. to Malawi have spread the notion that gay people \"recruit\" children and that pedophilia and homosexuality are linked.",
+    "1":"Republican Chuck Grassley, whose home state of Iowa is a top producer of wind energy, thinks the credit is an important investment",
+    "2":"In addition to finding a higher severity of brain cell damage in the women with sleep apnea than the men, they also found"
+  },
+  "authors":{
+    "0":"Marianne Mollmann, Contributor\nDirector of Regional Programs at the Fund for Global Human Rights",
+    "1":"Lucia Graves",
+    "2":""
+  },
+  "date":{
+    "0":"2012-12-08 00:00:00",
+    "1":"2012-12-08 00:00:00",
+    "2":"2012-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usapty",
+    "1":"---bus",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---lab",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"130",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.4,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "malawi",
+      "mwi",
+      "malawi",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "politicians",
+      "usapty",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "politicians",
+      "people"
+    ],
+    "1":[
+      "industry",
+      "workers"
+    ],
+    "2":[
+      "women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "threatened"
+    ],
+    "2":[
+      "face"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "2"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usapty",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "130"
+    ],
+    "2":[
+      "---cvl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

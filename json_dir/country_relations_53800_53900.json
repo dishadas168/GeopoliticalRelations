@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/afghan-officials-kunduz-taliban_us_57f3a33ce4b0d0e1a9a9876e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-surface-to-air-missiles-syria_us_57f3d0f1e4b0d0e1a9a9de79"
+  },
+  "headline":{
+    "0":"Afghan Officials Report Major Gains In Kunduz After Push By Taliban",
+    "1":"Russia Says It Has Deployed Surface-To-Air Missile System To Syria"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"But social media accounts linked to the Taliban indicate fighting ongoing.",
+    "1":"Russia claims it is intended to ensure the safety of its naval base."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-10-04 00:00:00",
+    "1":"2016-10-04 00:00:00"
+  },
+  "actor1":{
+    "0":"afg",
+    "1":"rus"
+  },
+  "actor2":{
+    "0":"afgreb",
+    "1":"rus"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "afghan",
+      "afg",
+      "afghanistan",
+      "taliban",
+      "afgreb",
+      "taliban"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "afghan",
+      "taliban"
+    ],
+    "1":[
+      "russia",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "afghanistan",
+      "taliban"
+    ],
+    "1":[
+      "russian federation",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "report ... push"
+    ],
+    "1":[
+      "claims <rus> ... intended"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "afg",
+      "afgreb",
+      "100"
+    ],
+    "1":[
+      "rus",
+      "rus",
+      "030"
+    ]
+  }
+}

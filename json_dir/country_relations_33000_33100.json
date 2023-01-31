@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-trumps-paris-decision-hurts-america-in-5-graphics_us_5930282de4b09e7836228ef4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/science-how-clergy-can-help-believers-die-a-good_us_592eea18e4b017b267edff30",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lipstick-under-my-burkha-when-real-women-take-over_us_59300829e4b00afe556b0b51"
+  },
+  "headline":{
+    "0":"How Trump's Paris Decision Hurts America, In 5 Graphics",
+    "1":"Science: How Clergy Can Help Believers Die A \u2018Good Death\u2019",
+    "2":"Lipstick Under My Burkha: When Real Women Take Over Indian Screens"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"America can\u2019t afford to move backward.",
+    "1":"U.S. clergy may be increasing the sting of death for many members of their flocks. Two new studies find that many clergy",
+    "2":"Anubha Yadav, University of Delhi \u201cWe see many films on male bonding, but hardly any on female bonding,\u201d award-winning Indian"
+  },
+  "authors":{
+    "0":"Jeremy Symons, ContributorSenior Advisor, EDF Action & Associate Vice President, Environ...",
+    "1":"David Briggs, ContributorDavid Briggs writes the Ahead of the Trend column on religion ...",
+    "2":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ..."
+  },
+  "date":{
+    "0":"2017-06-01 00:00:00",
+    "1":"2017-06-01 00:00:00",
+    "2":"2017-06-01 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"---rel",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---rel",
+    "2":"ind"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"070",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":7.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "paris",
+      "fra",
+      "france",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "clergy",
+      "~rel",
+      "~",
+      "believers",
+      "~rel",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "indian",
+      "ind",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "paris",
+      "america"
+    ],
+    "1":[
+      "clergy",
+      "clergy"
+    ],
+    "2":[
+      "women",
+      "indian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hurts"
+    ],
+    "1":[
+      "can help"
+    ],
+    "2":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "fra",
+      "usa",
+      "180"
+    ],
+    "1":[
+      "---rel",
+      "---rel",
+      "070"
+    ],
+    "2":[
+      "---cvl",
+      "ind",
+      "171"
+    ]
+  }
+}

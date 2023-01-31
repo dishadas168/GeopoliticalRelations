@@ -1,0 +1,139 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/punishment-doesnt-make-be_us_5b9cbb93e4b03a1dcc814f03",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-king_us_5badd374e4b0bb1705fb005d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/marriage-equality_us_5bafaf5fe4b0ad7692600cc1"
+  },
+  "headline":{
+    "0":"Punishment Doesn't Make Better Kids",
+    "1":"Obama's Inaugural Speech Salutes King, But Highlights Differences",
+    "2":"Gay Family in the House: A Letter to President Obama"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"BLACK VOICES",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Many of us hold the belief that if we don't take a stand and tell our children how to properly behave in the moment our children will turn into bad people or delinquent adults. This just isn't true.",
+    "1":"Near the end of his life, King, an avowed pacifist, took the unpopular stance of opposing the Vietnam War. He called for",
+    "2":"I've proved and disproved a thousand stereotypes in my life so far, but only one title -- American -- has ever come close to encompassing all of my experiences. Your biography, Mr. President, leads me to believe that you know what I mean. My daughter knows, too."
+  },
+  "authors":{
+    "0":"Ashley Ryan, Contributor\nMommy Advocate and Founder, Life Balance Community",
+    "1":"Janell Ross",
+    "2":"David Valdes Greenwood, Guest Writer\nDad, Playwright, Author of the YA Series \"Revengers\""
+  },
+  "date":{
+    "0":"2013-01-21 00:00:00",
+    "1":"2013-01-21 00:00:00",
+    "2":"2013-01-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"vnm",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "king",
+      "~gov",
+      "~",
+      "vietnam",
+      "vnm",
+      "vietnam"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "children"
+    ],
+    "1":[
+      "king",
+      "vietnam"
+    ],
+    "2":[
+      "president",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "vietnam"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... tell"
+    ],
+    "1":[
+      "took"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "vnm",
+      "171"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "060"
+    ]
+  }
+}

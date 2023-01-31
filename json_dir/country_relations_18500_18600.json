@@ -1,0 +1,232 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/18-year-old-confessed-to-molesting-50-children-california_us_5a25102ee4b03c44072e836c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-nlrb-labor-board-counsel-union-reforms_us_5a2440bce4b0a02abe91e2d3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders-tax-bill-giveaway-rich_us_5a2323c0e4b03c44072df89d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-flynn-russia_us_5a22b769e4b0a02abe917bbb",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-calls-senate-tax-bill-insulting-attack-on-americans_us_5a230e3ae4b0a02abe918e56"
+  },
+  "headline":{
+    "0":"18-Year-Old Confesses To Molesting 'Upwards Of 50 Children' In California: Police",
+    "1":"Trump's Labor Law Enforcer Freezes Worker-Friendly Reforms Made Under Obama",
+    "2":"Bernie Sanders Warns GOP That America Is Waking Up To Giveaways For The Rich",
+    "3":"Trump Says 'Absolutely No Collusion' With Russia After Michael Flynn Pleads Guilty",
+    "4":"Hillary Clinton Calls Senate Tax Bill 'Insulting Attack' On Americans"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"BUSINESS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Joseph Hayden Boston said he was 10 years old when he began sexually assaulting kids, according to authorities.",
+    "1":"The National Labor Relations Board's new general counsel plans to take a much narrower view of worker rights than his predecessor, a new memo shows.",
+    "2":"\"Our vision, your vision, is gaining momentum all across this country,\" the Vermont senator told those gathered at a rally in Ohio on Saturday.",
+    "3":"The former national security adviser may testify that a senior member of Trump's transition team told him to contact Russia about an upcoming United Nations vote.",
+    "4":"The bill was passed in Saturday's early morning hours."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Dave Jamieson",
+    "2":"Chris D'Angelo",
+    "3":"Samantha Tomaszewski",
+    "4":"Sara Boboltz"
+  },
+  "date":{
+    "0":"2017-12-04 00:00:00",
+    "1":"2017-12-03 00:00:00",
+    "2":"2017-12-03 00:00:00",
+    "3":"2017-12-02 00:00:00",
+    "4":"2017-12-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"usaleg",
+    "3":"---govmil",
+    "4":"usagovleg"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---lab",
+    "2":"usa",
+    "3":"---govmil",
+    "4":"usaeli"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171",
+    "2":"040",
+    "3":"010",
+    "4":"041"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":1.0,
+    "3":0.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "counsel",
+      "~jud",
+      "~",
+      "worker",
+      "~lab",
+      "~",
+      "worker",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "vermont",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "national security adviser",
+      "~govmil",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "boston",
+      "boston"
+    ],
+    "1":[
+      "counsel",
+      "worker"
+    ],
+    "2":[
+      "vermont senator",
+      "ohio"
+    ],
+    "3":[
+      "national security adviser",
+      "national security adviser"
+    ],
+    "4":[
+      "senate",
+      "hillary clinton",
+      "hillary clinton",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states congress",
+      "hillary clinton",
+      "hillary clinton",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "plans ... take"
+    ],
+    "2":[
+      "told ... gathered"
+    ],
+    "3":[
+      "may ... told"
+    ],
+    "4":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "---lab",
+      "171"
+    ],
+    "2":[
+      "usaleg",
+      "usa",
+      "040"
+    ],
+    "3":[
+      "---govmil",
+      "---govmil",
+      "010"
+    ],
+    "4":[
+      "usagovleg",
+      "usaeli",
+      "041",
+      "usaeli",
+      "usagovleg",
+      "041"
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/united-airines-ceo-email-employees-us_us_58ec20e0e4b0c89f9120c8be",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hasan-minhaj-white-house-correspondents-dinner_us_58ecb994e4b0ca64d9190bac",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/passengers-arent-the-priority-for-united-airlines_us_58ecf0bce4b0ea028d568cfe",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-churchs-false-equivalence-comes-back-to-haunt_us_58ecf9a0e4b081da6ad007f3",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/disrespect-for-women-is-common-denominator-for-trump_us_58ed0e0fe4b0ea028d568d55",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/assad-allies-say-us-attack-on-syria-air-base-crosses-red-lines_us_58eaf9dae4b00de141044ea2",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/border-agents-asylum-seeker_us_58ebd4f2e4b0df7e204453f8",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/teacher-nyc-students-to-spain_us_58eb8ba1e4b05413bfe4a35f"
+  },
+  "headline":{
+    "0":"United CEO Blames 'Belligerent' Customer For Flight Melee",
+    "1":"'The Daily Show's' Hasan Minhaj To Headline White House Correspondents Dinner",
+    "2":"Passengers Aren\u2019t The Priority For United Airlines",
+    "3":"The Church\u2019s False Equivalence Comes Back To Haunt Catholicism",
+    "4":"Women Will Take Down Men Like Trump, O\u2019Reilly And Ailes",
+    "5":"Assad Allies Say U.S. Attack On Syria Air Base Crosses 'Red Lines'",
+    "6":"Border Agents Illegally Turned Away Asylum-Seeker And Her Children, Attorney Says",
+    "7":"This Teacher Is On A Mission To Take Underprivileged NYC Students To Spain"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"MEDIA",
+    "2":"BUSINESS",
+    "3":"RELIGION",
+    "4":"WOMEN",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS",
+    "7":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"CEO Oscar Munoz says airline agents were \"left with no choice\" but to call security.",
+    "1":"The comedian and \u201cMuslim correspondent\u201d has blasted President Donald Trump's anti-Muslim actions.",
+    "2":"The airline's tone-deaf public relations response to its most recent controversy demonstrates disregard for customers.",
+    "3":"Cardinal Donald Wuerl, Washington D.C. archbishop, said something to the Washington Post yesterday that screams false equivalence",
+    "4":"Women of color will make up 53 percent of the population by 2050.",
+    "5":"Meanwhile Secretary of State Rex Tillerson blamed Russian inaction for fueling Assad's chemical weapons attack.",
+    "6":"The government told senators that the woman didn't ask for asylum. But she and her lawyer say she tried repeatedly.",
+    "7":"He launched a fundraiser to help take students \"from Brownsville to Barcelona.\""
+  },
+  "authors":{
+    "0":"Chris D'Angelo",
+    "1":"Michael Calderone",
+    "2":"Amy Wolfcale, ContributorCEO, Falcon + Wolf and Professor New York University School of...",
+    "3":"Celia Wexler, ContributorJournalist, feminist and nonfiction author, celiawexler.com",
+    "4":"Center for Community Change Action, ContributorSocial justice organization",
+    "5":"Suleiman Al-Khalidi, Reuters",
+    "6":"Roque Planas and Elise Foley",
+    "7":"Taryn Finley"
+  },
+  "date":{
+    "0":"2017-04-11 00:00:00",
+    "1":"2017-04-11 00:00:00",
+    "2":"2017-04-11 00:00:00",
+    "3":"2017-04-11 00:00:00",
+    "4":"2017-04-11 00:00:00",
+    "5":"2017-04-10 00:00:00",
+    "6":"2017-04-10 00:00:00",
+    "7":"2017-04-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---musmed",
+    "2":"---bus",
+    "3":"---chr",
+    "4":"---cvl",
+    "5":"usagov",
+    "6":"---gov",
+    "7":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"med",
+    "4":"---ppl",
+    "5":"rus",
+    "6":"---leg",
+    "7":"espedu"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"190",
+    "2":"140",
+    "3":"010",
+    "4":"171",
+    "5":"112",
+    "6":"010",
+    "7":"171"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-6.5,
+    "3":0.0,
+    "4":-9.2,
+    "5":-2.0,
+    "6":0.0,
+    "7":-9.2
+  },
+  "nouns":{
+    "0":[
+      "ceo",
+      "~bus",
+      "~",
+      "customer",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "muslim",
+      "correspondent",
+      "~musmed",
+      "~",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "airline",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "archbishop",
+      "~chr",
+      "~",
+      "washington post",
+      "med",
+      "washington",
+      "post"
+    ],
+    "4":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "6":[
+      "government",
+      "~gov",
+      "~",
+      "senators",
+      "~leg",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "7":[
+      "teacher",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "spain",
+      "esp",
+      "spain"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceo",
+      "customer"
+    ],
+    "1":[
+      "muslim correspondent",
+      "president"
+    ],
+    "2":[
+      "airline",
+      "customers"
+    ],
+    "3":[
+      "archbishop",
+      "washington ... post"
+    ],
+    "4":[
+      "women",
+      "men"
+    ],
+    "5":[
+      "secretary of state",
+      "russian"
+    ],
+    "6":[
+      "government",
+      "senators"
+    ],
+    "7":[
+      "teacher",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "washington post"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "the us secretary of state",
+      "russian federation"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blames"
+    ],
+    "1":[
+      "has blasted"
+    ],
+    "2":[
+      "demonstrates"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "will take"
+    ],
+    "5":[
+      "blamed"
+    ],
+    "6":[
+      "told"
+    ],
+    "7":[
+      "is ... take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "chemical_weapons",
+      "1"
+    ],
+    "6":null,
+    "7":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "112"
+    ],
+    "1":[
+      "---musmed",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "---bus",
+      "---cvl",
+      "140"
+    ],
+    "3":[
+      "---chr",
+      "med",
+      "010"
+    ],
+    "4":[
+      "---cvl",
+      "---ppl",
+      "171"
+    ],
+    "5":[
+      "usagov",
+      "rus",
+      "112"
+    ],
+    "6":[
+      "---gov",
+      "---leg",
+      "010"
+    ],
+    "7":[
+      "---edu",
+      "espedu",
+      "171"
+    ]
+  }
+}

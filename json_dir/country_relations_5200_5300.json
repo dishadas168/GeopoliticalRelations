@@ -1,0 +1,355 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/jeffrey-epstein-prince-andrew-fbi-interview_n_5e2f18a5c5b6d6767fd9bf14",
+    "1":"https:\/\/www.huffpost.com\/entry\/iraq-baghdad-rally-troops-leave_n_5e2aeef9c5b6d6767fd2bff6",
+    "2":"https:\/\/www.huffpost.com\/entry\/violence-escalates-in-beirut-lebanon-protests_n_5e24b12dc5b6321176157d47",
+    "3":"https:\/\/www.huffpost.com\/entry\/impeachment-trial-different-than-criminal-trial_n_5e224ff1c5b632117613cb3c",
+    "4":"https:\/\/www.huffpost.com\/entry\/eleven-american-troops-injured-iran-attack-iraqi-bases_n_5e212b26c5b674e44b957b31",
+    "5":"https:\/\/www.huffpost.com\/entry\/rogue-waves_n_5e200682c5b673621f707e43",
+    "6":"https:\/\/www.huffpost.com\/entry\/russian-pm-resigns-after-putin-announces-constitutional-overhaul_n_5e1f2403c5b674e44b90bd98",
+    "7":"https:\/\/www.huffpost.com\/entry\/russian-pm-resigns-after-putin-announces-constitutional-overhaul_n_5e1f2403c5b674e44b90bd98"
+  },
+  "headline":{
+    "0":"Prince Andrew Has Not Answered Jeffrey Epstein Interview Requests: Attorney",
+    "1":"Thousands Rally In Baghdad To Demand U.S. Troops Leave Iraq",
+    "2":"Violence Escalates In Beirut As Anti-Government Protesters Clash With Security Forces",
+    "3":"Here's How Trump's Impeachment Differs From A Criminal Trial",
+    "4":"11 American Troops Injured In Iran Attack On Iraqi Bases Used By U.S. Military",
+    "5":"Chilling Footage Shows How Quickly Dangerous Rogue Waves Can Strike",
+    "6":"Russian Government Resigns As Putin Plots Post-Presidency Power Grab",
+    "7":"Russian Government Resigns As Putin Plots Post-Presidency Power Grab"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS",
+    "5":"U.S. NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The British royal has been contacted by federal prosecutors and the FBI, the United States attorney in Manhattan said on Monday.",
+    "1":"The \"million-man\" march was called for by an influential Shiite cleric, though their numbers fell short of a million.",
+    "2":"The clashes in Lebanon took place amid a rapidly worsening financial crisis and an ongoing impasse over the formation of a new government.",
+    "3":"In Trump\u2019s trial, the Senate will serve as both judge and jury and the Republicans who control the chamber can forge their own rules if they have enough votes.",
+    "4":"The United States military originally said no service members had been hurt in Iran's Jan. 8 missile attack on the al-Asad and Erbil military bases in Iraq.",
+    "5":"The \"king tides\" took a deadly turn in Oregon.",
+    "6":"The resignations came hours after the president proposed new constitutional amendments to boost parliament's powers.",
+    "7":"The resignations came hours after the president proposed new constitutional amendments to boost parliament's powers."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Qassem Abdul-Zahra and Samya Kullab, AP",
+    "2":"Sarah El Deeb and Andrea Rosa, AP",
+    "3":"Eric Tucker, AP",
+    "4":"Eric Beech, Reuters",
+    "5":"Ed Mazza",
+    "6":"",
+    "7":""
+  },
+  "date":{
+    "0":"2020-01-27 00:00:00",
+    "1":"2020-01-24 00:00:00",
+    "2":"2020-01-19 00:00:00",
+    "3":"2020-01-18 00:00:00",
+    "4":"2020-01-17 00:00:00",
+    "5":"2020-01-16 00:00:00",
+    "6":"2020-01-15 00:00:00",
+    "7":"2020-01-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usacopjud",
+    "1":"---mil",
+    "2":"lbn",
+    "3":"usagovleg",
+    "4":"irn",
+    "5":"---gov",
+    "6":"rusgov",
+    "7":"---gov"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"irq",
+    "2":"---gov",
+    "3":"---jud",
+    "4":"---mil",
+    "5":"usa",
+    "6":"rusgov",
+    "7":"---leg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"171",
+    "3":"060",
+    "4":"015",
+    "5":"171",
+    "6":"083",
+    "7":"021"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-9.2,
+    "3":6.0,
+    "4":0.0,
+    "5":-9.2,
+    "6":5.0,
+    "7":3.4
+  },
+  "nouns":{
+    "0":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "prosecutors",
+      "fbi",
+      "usacopjud",
+      "~",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "attorney",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "troops",
+      "~mil",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "lebanon",
+      "lbn",
+      "lebanon",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "military",
+      "~mil",
+      "~",
+      "erbil",
+      "military bases",
+      "irqmil",
+      "iraqi",
+      "kurdistan",
+      "~",
+      "iran",
+      "irn",
+      "iran",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "5":[
+      "king",
+      "~gov",
+      "~",
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "russian",
+      "government",
+      "rusgov",
+      "russian",
+      "federation",
+      "~",
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "parliament",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors ... fbi",
+      "british"
+    ],
+    "1":[
+      "troops",
+      "iraq"
+    ],
+    "2":[
+      "lebanon",
+      "government"
+    ],
+    "3":[
+      "senate",
+      "judge"
+    ],
+    "4":[
+      "iran",
+      "military",
+      "iraq",
+      "military"
+    ],
+    "5":[
+      "king",
+      "oregon"
+    ],
+    "6":[
+      "russian government",
+      "russian government"
+    ],
+    "7":[
+      "president",
+      "parliament"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "iraq"
+    ],
+    "2":[
+      "lebanon",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "---"
+    ],
+    "4":[
+      "iran",
+      "---",
+      "iraq",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "russian federation",
+      "russian federation"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<gbr> ... contacted by <usacopjud>"
+    ],
+    "1":[
+      "leave"
+    ],
+    "2":[
+      "took"
+    ],
+    "3":[
+      "will serve"
+    ],
+    "4":[
+      "<~mil> ... hurt in ... attack",
+      "<~mil> ... hurt in ... attack"
+    ],
+    "5":[
+      "took"
+    ],
+    "6":[
+      "resigns"
+    ],
+    "7":[
+      "proposed ... boost"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usacopjud",
+      "gbr",
+      "040"
+    ],
+    "1":[
+      "---mil",
+      "irq",
+      "040"
+    ],
+    "2":[
+      "lbn",
+      "---gov",
+      "171"
+    ],
+    "3":[
+      "usagovleg",
+      "---jud",
+      "060"
+    ],
+    "4":[
+      "irn",
+      "---mil",
+      "015",
+      "irq",
+      "---mil",
+      "015"
+    ],
+    "5":[
+      "---gov",
+      "usa",
+      "171"
+    ],
+    "6":[
+      "rusgov",
+      "rusgov",
+      "083"
+    ],
+    "7":[
+      "---gov",
+      "---leg",
+      "021"
+    ]
+  }
+}

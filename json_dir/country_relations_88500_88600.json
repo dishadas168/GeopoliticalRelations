@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sentenced-to-marriage-complaint_us_55cf3a9fe4b0ab468d9d79ae",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hawaii-meth-bust_us_55cd00f1e4b064d5910af51f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/first-venture-fair-in-ath_b_7987944.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-ends-contracts-with-planned-parenthood_us_55ce6d1de4b07addcb431751",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/wisconsin-k9-dog-dies_us_55cd58f3e4b055a6daaff74b"
+  },
+  "headline":{
+    "0":"Group Files Complaint Against Judge Who Sentenced Man To Marry Girlfriend",
+    "1":"Honolulu Man Was Set To Push $400,000 Of Meth On Hawaii Streets",
+    "2":"Venture Fair in Athens Gives Greek Entrepreneurs Newfound Hope",
+    "3":"Arkansas Ends Contracts With Planned Parenthood",
+    "4":"Police Dog Dies In Squad Car After Air Conditioner Fails"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"CRIME",
+    "2":"IMPACT",
+    "3":"POLITICS",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"The judge had told the man he could go to jail for 15 days or marry his girlfriend within the month.",
+    "1":"He shipped some of it to the islands hidden with a Golden Nugget sweater.",
+    "2":"A day before the Greek government announced the referendum and four days before it imposed capital controls, the first-ever venture fair was held in Greece.",
+    "3":"Arkansas becomes the fourth state to defy the Obama administration by cutting funding for Planned Parenthood",
+    "4":"At least six police dogs have died in hot cars in the U.S. this summer."
+  },
+  "authors":{
+    "0":"",
+    "1":"Chris D'Angelo",
+    "2":"Despina Trivoli, ContributorHead of Life and Culture, HuffPost Greece",
+    "3":"",
+    "4":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2015-08-15 00:00:00",
+    "1":"2015-08-15 00:00:00",
+    "2":"2015-08-15 00:00:00",
+    "3":"2015-08-14 00:00:00",
+    "4":"2015-08-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---ppl",
+    "2":"grc",
+    "3":"usa",
+    "4":"---cop"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"grcbus",
+    "3":"usagov",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"100",
+    "2":"060",
+    "3":"120",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":6.0,
+    "3":-4.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "hawaii",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "athens",
+      "grc",
+      "greece",
+      "greek",
+      "entrepreneurs",
+      "grcbus",
+      "greece",
+      "~"
+    ],
+    "3":[
+      "arkansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "4":[
+      "police",
+      "~cop",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "man"
+    ],
+    "1":[
+      "man",
+      "hawaii"
+    ],
+    "2":[
+      "athens",
+      "greek entrepreneurs"
+    ],
+    "3":[
+      "arkansas",
+      "the ... obama administration"
+    ],
+    "4":[
+      "police",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "greece",
+      "greece"
+    ],
+    "3":[
+      "united states of america",
+      "barack obama"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had told"
+    ],
+    "1":[
+      "was ... push"
+    ],
+    "2":[
+      "gives"
+    ],
+    "3":[
+      "becomes ... defy"
+    ],
+    "4":[
+      "have died"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "drugs",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "100"
+    ],
+    "2":[
+      "grc",
+      "grcbus",
+      "060"
+    ],
+    "3":[
+      "usa",
+      "usagov",
+      "120"
+    ],
+    "4":[
+      "---cop",
+      "usa",
+      "190"
+    ]
+  }
+}

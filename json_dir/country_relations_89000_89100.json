@@ -1,0 +1,205 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2015\/08\/09\/world\/29-us-scientists-praise-iran-nuclear-deal-in-letter-to-obama.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iraq-government-vice-president_us_55c7bface4b0f1cbf1e55bfb",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestinian-stabbing-killed_us_55c79585e4b0f1cbf1e554c1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/virginia-wesleyan-rape-victim_us_55c7a759e4b0923c12bd3241"
+  },
+  "headline":{
+    "0":"29 U.S. Scientists Praise Iran Nuclear Deal in Letter to Obama",
+    "1":"Iraq's Prime Minister Unveils Plan To Trim Criticized Government",
+    "2":"IDF Soldiers Kill Palestinian Who Stabbed Israeli",
+    "3":"Virginia Wesleyan College Demands Rape Victim's Entire Sexual History"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Twenty-nine of the nation\u2019s top scientists \u2014 including Nobel laureates, veteran makers of nuclear arms and former White House",
+    "1":"A bold new plan.",
+    "2":"Violence has simmered in the West Bank and East Jerusalem.",
+    "3":"The school says these details will help establish Jane Doe's credibility."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Tyler Kingkade"
+  },
+  "date":{
+    "0":"2015-08-09 00:00:00",
+    "1":"2015-08-09 00:00:00",
+    "2":"2015-08-09 00:00:00",
+    "3":"2015-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"irn",
+    "1":"irq",
+    "2":"isrmil",
+    "3":"usaedu"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"---gov",
+    "2":"pse",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"030",
+    "2":"190",
+    "3":"100"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":4.0,
+    "2":-10.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "scientists",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "iran",
+      "irn",
+      "iran",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "iraq",
+      "irq",
+      "iraq",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "idf",
+      "soldiers",
+      "isrmil",
+      "israel",
+      "defence",
+      "forces",
+      "~",
+      "palestinian",
+      "pse",
+      "palestine"
+    ],
+    "3":[
+      "virginia",
+      "college",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iran",
+      "u.s. scientists",
+      "u.s. scientists",
+      "iran"
+    ],
+    "1":[
+      "iraq",
+      "government"
+    ],
+    "2":[
+      "idf soldiers",
+      "palestinian"
+    ],
+    "3":[
+      "virginia ... college",
+      "victim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "united states of america",
+      "united states of america",
+      "iran"
+    ],
+    "1":[
+      "iraq",
+      "---"
+    ],
+    "2":[
+      "israel defence forces",
+      "palestine"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "praise ... to",
+      "praise ... to"
+    ],
+    "1":[
+      "plan"
+    ],
+    "2":[
+      "kill"
+    ],
+    "3":[
+      "demands"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1",
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "irn",
+      "usacvl",
+      "042",
+      "usacvl",
+      "irn",
+      "043"
+    ],
+    "1":[
+      "irq",
+      "---gov",
+      "030"
+    ],
+    "2":[
+      "isrmil",
+      "pse",
+      "190"
+    ],
+    "3":[
+      "usaedu",
+      "---cvl",
+      "100"
+    ]
+  }
+}

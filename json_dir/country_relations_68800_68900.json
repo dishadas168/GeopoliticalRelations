@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-interview-violence-against-women_us_5702775ee4b0a06d58061e11",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.newsobserver.com\/news\/politics-government\/state-politics\/article70052712.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/uva-jackie-deposed-lawsuit_us_57050398e4b0537661882892",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.buzzfeed.com\/andrewkaczynski\/florida-senate-campaign-admits-to-scrubbing-candidates-wikip#.urawRXRj9B"
+  },
+  "headline":{
+    "0":"Joe Biden Explains How He Helped Expose America's 'Dirty Little Secret'",
+    "1":"Interfaith Clergy Join Forces To Overturn North Carolina's Anti-LGBT Legislation",
+    "2":"UVA's 'Jackie' From Discredited Rolling Stone Article To Be Deposed In Lawsuit",
+    "3":"GOP Senate Candidate Scrubbed Scientology Ties From Wikipedia Page"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION",
+    "2":"COLLEGE",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The vice president talked to The Huffington Post about his decades-long quest to end domestic violence and sexual assault.",
+    "1":"\u201cWe are morally outraged.\"",
+    "2":"A dean claims the magazine defamed her in the article as a villain in Jackie's case.",
+    "3":"A campaign spokesperson for Rep. David Jolly, a Republican Senate candidate in Florida, admitted to BuzzFeed News on Tuesday"
+  },
+  "authors":{
+    "0":"Melissa Jeltsen",
+    "1":"",
+    "2":"Alex Dobuzinskis, Reuters",
+    "3":""
+  },
+  "date":{
+    "0":"2016-04-07 00:00:00",
+    "1":"2016-04-07 00:00:00",
+    "2":"2016-04-06 00:00:00",
+    "3":"2016-04-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---rel",
+    "2":"---edu",
+    "3":"usamed"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---med",
+    "3":"med"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"060",
+    "2":"110",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":6.0,
+    "2":-2.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "clergy",
+      "~rel",
+      "~",
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "dean",
+      "~edu",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "spokesperson",
+      "usamed",
+      "~",
+      "buzzfeed",
+      "med",
+      "buzzfeed"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "joe biden",
+      "america"
+    ],
+    "1":[
+      "clergy",
+      "north carolina"
+    ],
+    "2":[
+      "dean",
+      "magazine"
+    ],
+    "3":[
+      "spokesperson",
+      "buzzfeed"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "joe biden",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "",
+      "buzzfeed"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "explains ... helped"
+    ],
+    "1":[
+      "join forces"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "admitted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "070"
+    ],
+    "1":[
+      "---rel",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "---edu",
+      "---med",
+      "110"
+    ],
+    "3":[
+      "usamed",
+      "med",
+      "050"
+    ]
+  }
+}

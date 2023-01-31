@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/another-day-another-death_b_5978800.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/why-south-dakotas-senate-_b_5975256.html"
+  },
+  "headline":{
+    "0":"Another Day, Another Death: A Mother Dies in Prison After Reporting Threats",
+    "1":"Why South Dakota's Senate Race is Not Like Kansas"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Latandra Ellington, a 36-year old mother of four children, died in a Florida prison last week.  Ellington had just seven months left to serve of her twenty-two month sentence for grand theft when she was found dead in her cell.",
+    "1":"Dramatic developments last week in the South Dakota Senate race have left national political observers scrambling to make sense of it."
+  },
+  "authors":{
+    "0":"Jessica S. Henry, ContributorAssociate Professor of Justice Studies",
+    "1":"Ryan Casey, ContributorJ.D. candidate, University of Washington School of Law; Comman..."
+  },
+  "date":{
+    "0":"2014-10-14 00:00:00",
+    "1":"2014-10-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"184",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-8.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "mother",
+      "children",
+      "~cvl",
+      "~",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "south dakota",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "florida",
+      "children"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "died in <&detention>"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "184"
+    ],
+    "1":[
+      "usa",
+      "usagovleg",
+      "040",
+      "usagovleg",
+      "usa",
+      "040"
+    ]
+  }
+}

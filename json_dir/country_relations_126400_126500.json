@@ -1,0 +1,201 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-is-the-deal-with-the_b_5381322.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-17_b_5381672.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-17_b_5381672.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-17_b_5381672.html"
+  },
+  "headline":{
+    "0":"What Is the Deal With the Export-Import Bank?",
+    "1":"Weekend Roundup: The World Pivots to Asia",
+    "2":"Weekend Roundup: The World Pivots to Asia",
+    "3":"Weekend Roundup: The World Pivots to Asia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"By receiving financial subsidies from the Export-Import Bank of the US, an airline with antiquated laws is getting unfair competitive advantage over American companies. American taxpayers should no longer be giving their money to foreign companies whose principles run contrary to ours.",
+    "1":"This week, watershed historical events have taken place in Asia. Narendra Modi and his modernizing Hindu nationalist party have swept to power in India. Scorned by the West over Crimea, Vladimir Putin has hastened to deepen Russia's energy and political ties with China. China seems to be creating as many enemies as friends with its new, boldly assertive posture. Appearing at a summit of non-Western nations in Asia after cementing the giant gas deal with Russia's Putin, President Xi appealed to his neighbors to keep the U.S. out of the region and leave Asia to Asians. Yet, this came on the heels of anti-China riots in Vietnam after China placed an oil rig in disputed waters. And it came just as the U.S. government indicted individual members of a People's Liberation Army cyber-espionage team for hacking into commercial secrets of American companies.",
+    "2":"This week, watershed historical events have taken place in Asia. Narendra Modi and his modernizing Hindu nationalist party have swept to power in India. Scorned by the West over Crimea, Vladimir Putin has hastened to deepen Russia's energy and political ties with China. China seems to be creating as many enemies as friends with its new, boldly assertive posture. Appearing at a summit of non-Western nations in Asia after cementing the giant gas deal with Russia's Putin, President Xi appealed to his neighbors to keep the U.S. out of the region and leave Asia to Asians. Yet, this came on the heels of anti-China riots in Vietnam after China placed an oil rig in disputed waters. And it came just as the U.S. government indicted individual members of a People's Liberation Army cyber-espionage team for hacking into commercial secrets of American companies.",
+    "3":"This week, watershed historical events have taken place in Asia. Narendra Modi and his modernizing Hindu nationalist party have swept to power in India. Scorned by the West over Crimea, Vladimir Putin has hastened to deepen Russia's energy and political ties with China. China seems to be creating as many enemies as friends with its new, boldly assertive posture. Appearing at a summit of non-Western nations in Asia after cementing the giant gas deal with Russia's Putin, President Xi appealed to his neighbors to keep the U.S. out of the region and leave Asia to Asians. Yet, this came on the heels of anti-China riots in Vietnam after China placed an oil rig in disputed waters. And it came just as the U.S. government indicted individual members of a People's Liberation Army cyber-espionage team for hacking into commercial secrets of American companies."
+  },
+  "authors":{
+    "0":"Mike Lux, ContributorPresident at Mike Lux Media",
+    "1":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "2":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "3":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost"
+  },
+  "date":{
+    "0":"2014-05-23 00:00:00",
+    "1":"2014-05-23 00:00:00",
+    "2":"2014-05-23 00:00:00",
+    "3":"2014-05-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl",
+    "1":"indgovhin",
+    "2":"rusgov",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"ind",
+    "2":"rus",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"071",
+    "1":"090",
+    "2":"060",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":7.4,
+    "1":-2.0,
+    "2":6.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "taxpayers",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "narendra modi",
+      "hindu",
+      "indgovhin",
+      "narendra",
+      "modi",
+      "~",
+      "india",
+      "ind",
+      "india"
+    ],
+    "2":[
+      "crimea",
+      "ukr",
+      "ukraine",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "china",
+      "chn",
+      "china",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american taxpayers",
+      "companies"
+    ],
+    "1":[
+      "narendra modi ... hindu",
+      "india"
+    ],
+    "2":[
+      "vladimir putin",
+      "russia"
+    ],
+    "3":[
+      "u.s. government",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "narendra modi",
+      "india"
+    ],
+    "2":[
+      "vladimir putin",
+      "russian federation"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... giving <&currency>"
+    ],
+    "1":[
+      "have swept"
+    ],
+    "2":[
+      "has ... deepen"
+    ],
+    "3":[
+      "indicted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "cyber_security",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---bus",
+      "071"
+    ],
+    "1":[
+      "indgovhin",
+      "ind",
+      "090"
+    ],
+    "2":[
+      "rusgov",
+      "rus",
+      "060"
+    ],
+    "3":[
+      "usagov",
+      "---ppl",
+      "173"
+    ]
+  }
+}

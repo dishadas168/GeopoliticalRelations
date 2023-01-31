@@ -1,0 +1,162 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lost-in-translation-brits_b_6972334.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lessons-for-entrepreneurs_1_b_6961416.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/from-life-in-prison-to-a-new-life-in-san-francisco-tech_b_6962088.html"
+  },
+  "headline":{
+    "0":"Lost in Translation: Brits v. Americans -- Whose Language Is It, Anyway?",
+    "1":"Lessons for Entrepreneurs From Lee Kuan Yew",
+    "2":"Sentenced to Life in Prison, This Man Now Has Great SF Tech Job"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"BUSINESS",
+    "2":"IMPACT"
+  },
+  "short_description":{
+    "0":"Often, people travel from the U.S. to England wrapped in a sense of comfort, thinking, \"Well, they speak the same language, so I'll be able to get by just fine.\" Or will you?",
+    "1":"While there is much to learn from this remarkable statesman and the transformative experience of Singapore that could fill many volumes, I would like to focus in the short space here on a few key lessons that entrepreneurs and companies can take from the founding and rapid growth of Singapore.",
+    "2":"Every day, men and women are released from prisons and jails across the U.S. after taking this same journey. Most incarcerated settings do not provide programs that teach relevant job skills for reentry to society. As a result, recidivism -- the rate at which people return to incarceration -- is enormous. Society blames these individuals for their failure. Had I not been fortunate enough to be a founding member of a program called The Last Mile, I too could have ended up back in prison."
+  },
+  "authors":{
+    "0":"Paula Froelich, ContributorYahoo Travel Editor in Chief, Time Magazine\u2019s Person of the Ye...",
+    "1":"Shastri Purushotma, ContributorBaha'i writer",
+    "2":"Chrisfino Kenyatta Leal, ContributorManager of Campus Services at RocketSpace"
+  },
+  "date":{
+    "0":"2015-03-31 00:00:00",
+    "1":"2015-03-30 00:00:00",
+    "2":"2015-03-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"---cop"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"sgp",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"171",
+    "2":"084"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "england",
+      "gbr",
+      "united",
+      "kingdom",
+      "england",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "entrepreneurs",
+      "companies",
+      "~bus",
+      "~",
+      "~",
+      "singapore",
+      "sgp",
+      "singapore"
+    ],
+    "2":[
+      "men",
+      "women",
+      "~cvl",
+      "~",
+      "~",
+      "prisons",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "u.s.",
+      "people",
+      "england"
+    ],
+    "1":[
+      "entrepreneurs ... companies",
+      "singapore"
+    ],
+    "2":[
+      "prisons",
+      "men ... women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "singapore"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "travel",
+      "travel"
+    ],
+    "1":[
+      "can take"
+    ],
+    "2":[
+      "<~cvl> ... released from <~cop>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "040",
+      "---ppl",
+      "gbr",
+      "040"
+    ],
+    "1":[
+      "---bus",
+      "sgp",
+      "171"
+    ],
+    "2":[
+      "---cop",
+      "---cvl",
+      "084"
+    ]
+  }
+}

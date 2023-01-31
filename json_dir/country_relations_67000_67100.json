@@ -1,0 +1,236 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-approves-rule-change-to-expand-fbi-hacking-power_us_57227e9ee4b0f309baf05c7c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hispanic-chamber-endorsement-hillary-clinton-john-kasich_us_572231d9e4b01a5ebde4b9e9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/nikki-haley-guantanamo-detainees_us_57223c15e4b0f309baf00069",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/yale-calhoun-college_us_57215c83e4b01a5ebde482ba",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-woman-card-lawmakers_us_5720fd7de4b0f309baef7028"
+  },
+  "headline":{
+    "0":"Supreme Court Approves Rule Change To Expand FBI Hacking Power",
+    "1":"U.S. Hispanic Chamber Of Commerce Has Never Endorsed A Presidential Candidate. Now It's Picking Two.",
+    "2":"Nikki Haley Called Out For Hypocrisy After Refusing To House Guantanamo Detainees",
+    "3":"Yale Keeps Residential College Named After White Supremacist",
+    "4":"Female GOP Lawmakers Don't Want To Talk About Trump's 'Woman Card'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"COLLEGE",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Democratic Senator Ron Wyden of Oregon, condemned the rule change as having \"significant consequences for Americans\u2019 privacy,\" and vowed to introduce legislation to reverse it.",
+    "1":"Hillary Clinton and John Kasich received endorsements from the business group.",
+    "2":"The governor says her state can't host terrorists, though they've already held the Charleston shooter and an al-Qaeda recruit in custody.",
+    "3":"\u201cWe cannot erase American history but we can confront it, teach it, and learn from it,\" the university president said.",
+    "4":"None had gender cards in their purses, either. Sad!"
+  },
+  "authors":{
+    "0":"Dustin Volz, Reuters",
+    "1":"Elise Foley",
+    "2":"Jessica Schulberg",
+    "3":"Nick Visser",
+    "4":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2016-04-28 00:00:00",
+    "1":"2016-04-28 00:00:00",
+    "2":"2016-04-28 00:00:00",
+    "3":"2016-04-28 00:00:00",
+    "4":"2016-04-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usabus",
+    "2":"---gov",
+    "3":"---edugov",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---pty",
+    "2":"---uaf",
+    "3":"---edugov",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"051",
+    "2":"043",
+    "3":"040",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.4,
+    "2":2.8,
+    "3":1.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "u.s.",
+      "chamber of commerce",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "presidential candidate",
+      "~pty",
+      "~"
+    ],
+    "2":[
+      "governor",
+      "~gov",
+      "~",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "university",
+      "president",
+      "~edugov",
+      "~",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "fbi"
+    ],
+    "1":[
+      "u.s. ... chamber of commerce",
+      "presidential candidate"
+    ],
+    "2":[
+      "governor",
+      "terrorists"
+    ],
+    "3":[
+      "university president",
+      "university president"
+    ],
+    "4":[
+      "lawmakers",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rule"
+    ],
+    "1":[
+      "has ... endorsed"
+    ],
+    "2":[
+      "says ... host"
+    ],
+    "3":[
+      "can ... learn"
+    ],
+    "4":[
+      "do ... want ... talk"
+    ]
+  },
+  "issues":{
+    "0":[
+      "cyber_security",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "terror",
+      "1",
+      "named_terror_group",
+      "1"
+    ],
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usacop",
+      "060"
+    ],
+    "1":[
+      "usabus",
+      "---pty",
+      "051"
+    ],
+    "2":[
+      "---gov",
+      "---uaf",
+      "043"
+    ],
+    "3":[
+      "---edugov",
+      "---edugov",
+      "040",
+      "---edugov",
+      "---edugov",
+      "040"
+    ],
+    "4":[
+      "---leg",
+      "---cvl",
+      "010"
+    ]
+  }
+}

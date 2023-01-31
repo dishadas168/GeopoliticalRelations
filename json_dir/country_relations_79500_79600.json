@@ -1,0 +1,432 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-redistricting-supreme-court_us_565c65f4e4b079b2818adf13",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/university-of-chicago-shooting-threat-a-response-to-laquan-mcdonald-video_us_565cbbb0e4b072e9d1c2dbfe",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/thinkprogress.org\/climate\/2015\/11\/25\/3725782\/scientists-scold-science-committee-chair\/",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-planned-parenthood-shooting_us_565ca9f7e4b072e9d1c2b9f0",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/students-chastise-ceos-for-failing-on-climate-change_us_565c6a63e4b072e9d1c2645c",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/planned-parenthood-missouri_us_565c9c9de4b072e9d1c2a438",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/clown-sightings-waukesha-wisconsin_us_5655cd58e4b072e9d1c14b17",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/tech-banking-parental-leave-revolution_us_565c70e8e4b072e9d1c26939",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/jessica-jones-uses-superheroes-to-expose-the-terror-of-domestic-abuse_us_565c9f47e4b079b2818b2b1d",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/a-grieving-colorado-officer-is-comforted-by-a-furry-friend_us_565a3d0ae4b079b2818a9793"
+  },
+  "headline":{
+    "0":"Supreme Court Rejects Fee Dispute In Texas Redistricting Case",
+    "1":"University Of Chicago Shooting Threat A Response To Laquan McDonald Video",
+    "2":"America\u2019s Scientists To House Science Committee: Go Away",
+    "3":"Joe Biden Tells Lawmakers To 'Do The Right Thing' On Gun Violence",
+    "4":"Students Chastise CEOs For Failing On Climate Change",
+    "5":"Planned Parenthood Sues To Prevent Missouri From Having Just One Abortion Clinic",
+    "6":"Teenage Boy Posing As Clown Causes Local Panic In Wisconsin",
+    "7":"Parental Leave Revolution Moves From Tech To Banking",
+    "8":"'Jessica Jones' Uses Superheroes To Expose The Terror Of Domestic Abuse",
+    "9":"A Grieving Colorado Officer Is Comforted By A Furry Friend"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"BUSINESS",
+    "5":"POLITICS",
+    "6":"WEIRD NEWS",
+    "7":"BUSINESS",
+    "8":"WOMEN",
+    "9":"POLITICS"
+  },
+  "short_description":{
+    "0":"The justices on Monday let stand a federal appeals court ruling that said the lawyers were not entitled to fees.",
+    "1":"Jabari R. Dean, 21, of Chicago, threatened to kill 16 white male students or staff at the school.",
+    "2":"Seven major American scientific societies sent a letter to Rep. Lamar Smith (R-TX) on Tuesday, rebuking the congressman and",
+    "3":"\"I join the President in believing this violence is not normal and this is not who we are as a country.\"",
+    "4":"The chief executives of Apple, Walmart, Amazon and Coca-Cola get called out.",
+    "5":"Republican state lawmakers had pressured the University of Missouri to end its relationship with the provider.",
+    "6":"The boy's mother claims he's just \"doing it for laughs,\" but people were still spooked.",
+    "7":"Credit Suisse offers 20 weeks of paid leave, citing competition from technology companies.",
+    "8":"What happens when a strong woman is controlled by a sadistic, violent man.",
+    "9":"Huffington Post reporter Ryan Grenoble captured this heartbreaking photo of a crying University of Colorado police officer"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Marina Fang",
+    "4":"Jo Confino",
+    "5":"Samantha Lachman",
+    "6":"Elyse Wanshel",
+    "7":"Emily Peck",
+    "8":"Melissa Jeltsen",
+    "9":"Chloe Angyal"
+  },
+  "date":{
+    "0":"2015-11-30 00:00:00",
+    "1":"2015-11-30 00:00:00",
+    "2":"2015-11-30 00:00:00",
+    "3":"2015-11-30 00:00:00",
+    "4":"2015-11-30 00:00:00",
+    "5":"2015-11-30 00:00:00",
+    "6":"2015-11-30 00:00:00",
+    "7":"2015-11-30 00:00:00",
+    "8":"2015-11-30 00:00:00",
+    "9":"2015-11-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usaedu",
+    "2":"usa",
+    "3":"usagov",
+    "4":"---edu",
+    "5":"---leg",
+    "6":"---cvl",
+    "7":"mncche",
+    "8":"---ppl",
+    "9":"framed"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"mdvedu",
+    "2":"---leg",
+    "3":"---leg",
+    "4":"---bus",
+    "5":"usaedu",
+    "6":"---cvl",
+    "7":"---bus",
+    "8":"---cvl",
+    "9":"---cop"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"138",
+    "2":"111",
+    "3":"010",
+    "4":"111",
+    "5":"170",
+    "6":"110",
+    "7":"010",
+    "8":"060",
+    "9":"171"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-7.0,
+    "2":-2.0,
+    "3":0.0,
+    "4":-2.0,
+    "5":-7.0,
+    "6":-2.0,
+    "7":0.0,
+    "8":6.0,
+    "9":-9.2
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "dean",
+      "usaedu",
+      "~",
+      "male",
+      "students",
+      "mdvedu",
+      "maldives",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "congressman",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "students",
+      "~edu",
+      "~",
+      "ceos",
+      "~bus",
+      "~"
+    ],
+    "5":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~"
+    ],
+    "6":[
+      "mother",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "7":[
+      "credit suisse",
+      "mncche",
+      "credit",
+      "suisse",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "8":[
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "9":[
+      "reporter",
+      "grenoble",
+      "framed",
+      "~",
+      "france",
+      "police officer",
+      "~cop",
+      "~",
+      "police officer",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "texas"
+    ],
+    "1":[
+      "dean",
+      "male students"
+    ],
+    "2":[
+      "american",
+      "congressman"
+    ],
+    "3":[
+      "joe biden",
+      "lawmakers"
+    ],
+    "4":[
+      "students",
+      "ceos"
+    ],
+    "5":[
+      "lawmakers",
+      "university"
+    ],
+    "6":[
+      "mother",
+      "mother"
+    ],
+    "7":[
+      "credit suisse",
+      "companies"
+    ],
+    "8":[
+      "man",
+      "woman"
+    ],
+    "9":[
+      "reporter ... grenoble",
+      "police officer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "",
+      "maldives"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "joe biden",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      ""
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "credit suisse",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ],
+    "9":[
+      "france",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dispute"
+    ],
+    "1":[
+      "threatened ... kill"
+    ],
+    "2":[
+      "<and> ... sent ... letter ... rebuking"
+    ],
+    "3":[
+      "tells"
+    ],
+    "4":[
+      "chastise"
+    ],
+    "5":[
+      "had pressured"
+    ],
+    "6":[
+      ""
+    ],
+    "7":[
+      "offers ... citing"
+    ],
+    "8":[
+      "<~cvl> ... controlled by <~ppl>"
+    ],
+    "9":[
+      "captured"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "students",
+      "1",
+      "climate_change",
+      "1"
+    ],
+    "5":[
+      "postsecondary_education",
+      "1"
+    ],
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":[
+      "postsecondary_education",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "110"
+    ],
+    "1":[
+      "usaedu",
+      "mdvedu",
+      "138"
+    ],
+    "2":[
+      "usa",
+      "---leg",
+      "111"
+    ],
+    "3":[
+      "usagov",
+      "---leg",
+      "010"
+    ],
+    "4":[
+      "---edu",
+      "---bus",
+      "111"
+    ],
+    "5":[
+      "---leg",
+      "usaedu",
+      "170"
+    ],
+    "6":[
+      "---cvl",
+      "---cvl",
+      "110"
+    ],
+    "7":[
+      "mncche",
+      "---bus",
+      "010"
+    ],
+    "8":[
+      "---ppl",
+      "---cvl",
+      "060"
+    ],
+    "9":[
+      "framed",
+      "---cop",
+      "171"
+    ]
+  }
+}

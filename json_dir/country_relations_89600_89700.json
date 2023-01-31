@@ -1,0 +1,404 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-iran-deal_us_55be3100e4b06363d5a27db5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sisi-al-jazeera-mohamed-fahmy-free_b_7920542.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-german-menace_b_7922376.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/education-department-grinnell-college_us_55bbd05ae4b06363d5a239de",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/syrian-kurds-turkey-us_us_55bce38ae4b0b23e3ce2fa09",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/syrian-kurds-turkey-us_us_55bce38ae4b0b23e3ce2fa09",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/yemen-prime-minister-returns-aden_us_55bce05ce4b06363d5a26472",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/iraqs-kurds-want-a-ceasefire-between-turkey-and-the-pkk-so-everyone-can-focus-on-fighting-isis_us_55bbf2c5e4b0b23e3ce2ec9d",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/iraq-kurds-pkk_us_55bcc9dce4b06363d5a26276"
+  },
+  "headline":{
+    "0":"John Kerry Says Iran Deal Will Make Egypt, Region, Safer",
+    "1":"It Is Time for Sisi to Set Al Jazeera Journalist Mohamed Fahmy Free",
+    "2":"The German Menace",
+    "3":"Education Department Opens Investigation Of Grinnell College, But Not Because It Asked For It",
+    "4":"Syrian Kurds Accuse Turkey Of Attacks, Ask U.S. For Explanation",
+    "5":"Syrian Kurds Accuse Turkey Of Attacks, Ask U.S. For Explanation",
+    "6":"Yemen's Exiled Prime Minister Returns To War-Torn Aden",
+    "7":"Iraq's Kurds Want A Ceasefire Between Turkey And The PKK",
+    "8":"Iraq's Kurds Ask PKK Rebels To Withdraw"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"COLLEGE",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST",
+    "7":"POLITICS",
+    "8":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Kerry also said the U.S. and Egypt are returning to a \"stronger base\" in bilateral ties.",
+    "1":"President Sisi should know that the world will be watching the court's verdict on Aug. 29, and his government's response to it. Media freedom in the region is at stake. And, as the Council of Europe has put it, \"it will be the commitment shown to free speech which determines whether or not Egypt grows -- or shrinks [--] in the eyes of the world.\"",
+    "2":"The EU was created to expand democracy, boost economic growth, and contain Germany within a democratic whole. Instead, it is destroying democracy, crushing growth, and leaving Germany's most churlish impulses to rule Europe. Before it is over, one of history's noblest experiments in enlightened statecraft could end in ruins.",
+    "3":"The small, progressive college wanted a federal review. The Education Department declined that request, but is still opening an investigation.",
+    "4":"The Kurdish militia regularly coordinates with U.S.-led forces bombing the Islamic State.",
+    "5":"The Kurdish militia regularly coordinates with U.S.-led forces bombing the Islamic State.",
+    "6":"But fighting still rages just outside the city.",
+    "7":"That way, everyone can focus on fighting ISIS.",
+    "8":"The Iraqi Kurdish leader also condemned Turkey for bombing civilians."
+  },
+  "authors":{
+    "0":"",
+    "1":"Amal Clooney, ContributorLawyer",
+    "2":"Robert Kuttner, ContributorCo-founder and co-editor, 'The American Prospect'",
+    "3":"Tyler Kingkade",
+    "4":"",
+    "5":"",
+    "6":"",
+    "7":"Akbar Shahid Ahmed",
+    "8":""
+  },
+  "date":{
+    "0":"2015-08-02 00:00:00",
+    "1":"2015-08-02 00:00:00",
+    "2":"2015-08-02 00:00:00",
+    "3":"2015-08-01 00:00:00",
+    "4":"2015-08-01 00:00:00",
+    "5":"2015-08-01 00:00:00",
+    "6":"2015-08-01 00:00:00",
+    "7":"2015-08-01 00:00:00",
+    "8":"2015-08-01 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"egygov",
+    "2":"igoeureec",
+    "3":"---govedu",
+    "4":"syr",
+    "5":"---uaf",
+    "6":"yem",
+    "7":"irq",
+    "8":"irq"
+  },
+  "actor2":{
+    "0":"irn",
+    "1":"egygovjud",
+    "2":"deu",
+    "3":"---edu",
+    "4":"usa",
+    "5":"imgmusisi",
+    "6":"yem",
+    "7":"tur",
+    "8":"turcvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"170",
+    "3":"091",
+    "4":"020",
+    "5":"050",
+    "6":"174",
+    "7":"1056",
+    "8":"111"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-7.0,
+    "3":-2.0,
+    "4":3.0,
+    "5":3.5,
+    "6":-5.0,
+    "7":null,
+    "8":-2.0
+  },
+  "nouns":{
+    "0":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "iran",
+      "irn",
+      "iran",
+      "egypt",
+      "egy",
+      "egypt"
+    ],
+    "1":[
+      "president",
+      "sisi",
+      "egygov",
+      "~",
+      "abdel",
+      "fattah",
+      "el",
+      "sisi",
+      "the court",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union",
+      "germany",
+      "deu",
+      "germany"
+    ],
+    "3":[
+      "education department",
+      "~govedu",
+      "~",
+      "college",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "syrian",
+      "turkey",
+      "syr",
+      "tur",
+      "syria",
+      "turkey",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "militia",
+      "~uaf",
+      "~",
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "6":[
+      "yemen",
+      "yem",
+      "yemen",
+      "aden",
+      "yem",
+      "yemen"
+    ],
+    "7":[
+      "iraq",
+      "irq",
+      "iraq",
+      "turkey",
+      "pkk",
+      "tur",
+      "turreb",
+      "turkey",
+      "pkk"
+    ],
+    "8":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "turkey",
+      "tur",
+      "turkey",
+      "civilians",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john kerry",
+      "iran"
+    ],
+    "1":[
+      "president sisi",
+      "---"
+    ],
+    "2":[
+      "the eu",
+      "germany"
+    ],
+    "3":[
+      "education department",
+      "college"
+    ],
+    "4":[
+      "syrian",
+      "u.s.",
+      "turkey",
+      "u.s."
+    ],
+    "5":[
+      "militia",
+      "the ... islamic state"
+    ],
+    "6":[
+      "yemen",
+      "yemen"
+    ],
+    "7":[
+      "iraq",
+      "turkey",
+      "iraq",
+      "pkk"
+    ],
+    "8":[
+      "iraqi",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john kerry",
+      "iran"
+    ],
+    "1":[
+      "abdel fattah el sisi",
+      "---"
+    ],
+    "2":[
+      "the european union",
+      "germany"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "syria",
+      "united states of america",
+      "turkey",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "the islamic state"
+    ],
+    "6":[
+      "yemen",
+      "yemen"
+    ],
+    "7":[
+      "iraq",
+      "turkey",
+      "iraq",
+      "pkk"
+    ],
+    "8":[
+      "iraq",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "should ... watching"
+    ],
+    "2":[
+      "was ... contain"
+    ],
+    "3":[
+      "opens <&investigation>"
+    ],
+    "4":[
+      "ask",
+      "ask"
+    ],
+    "5":[
+      "coordinates"
+    ],
+    "6":[
+      "exiled"
+    ],
+    "7":[
+      "want <&ceasefire>",
+      "want <&ceasefire>"
+    ],
+    "8":[
+      "condemned"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "european_union",
+      "1",
+      "id_democracy",
+      "2"
+    ],
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "irn",
+      "010"
+    ],
+    "1":[
+      "egygov",
+      "egygovjud",
+      "010"
+    ],
+    "2":[
+      "igoeureec",
+      "deu",
+      "170"
+    ],
+    "3":[
+      "---govedu",
+      "---edu",
+      "091"
+    ],
+    "4":[
+      "syr",
+      "usa",
+      "020",
+      "tur",
+      "usa",
+      "020"
+    ],
+    "5":[
+      "---uaf",
+      "imgmusisi",
+      "050"
+    ],
+    "6":[
+      "yem",
+      "yem",
+      "174"
+    ],
+    "7":[
+      "irq",
+      "tur",
+      "1056",
+      "irq",
+      "turreb",
+      "1056"
+    ],
+    "8":[
+      "irq",
+      "turcvl",
+      "111"
+    ]
+  }
+}

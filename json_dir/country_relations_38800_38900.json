@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/paul-ryan-donald-trump_us_58d7c06ae4b02a2eaab4e289",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shooting-inside-packed-cincinnati-nightclub-kills-at-least-one-person-and-wounds-14_us_58d7a6d0e4b02a2eaab4d85f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/united-airlines-defends-right-to-block-girls-in-leggings_us_58d7fa08e4b03787d3597ad9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/denis-voronenkov-murder_us_58d3d7cfe4b0b22b0d1a5cd2",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/toronto-bans-us-trips_us_58d4b7e0e4b03692bea42f43",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/men-threaten-to-shoot-muslim-women_us_58d44625e4b03787d3569be9"
+  },
+  "headline":{
+    "0":"Donald Trump Continues To Back Paul Ryan Despite Conspicuous Tweet, His Chief Of Staff Says",
+    "1":"Shooting Inside Packed Cincinnati Nightclub Kills One Person And Wounds 15",
+    "2":"United Airlines Defends Right To Block Girls In Leggings",
+    "3":"The Brazen Killing Of A Putin Critic Fuels Suspicion Of The Kremlin",
+    "4":"Toronto Cancels U.S. Class Trips Due To Trump Travel Ban Concerns",
+    "5":"In 1 Week, 2 Reports Of Men Threatening To Shoot Muslim Women"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"BUSINESS",
+    "3":"THE WORLDPOST",
+    "4":"EDUCATION",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president just wanted to help promote Judge Jeanine, apparently.",
+    "1":"Authorities believe multiple gunmen were involved in the Sunday morning shooting, which grew out of \"some kind of dispute\" inside the bar, Police Chief Eliot Isaac said.",
+    "2":"The young passengers had to follow a dress code because they were traveling as guests of employees, the company said.",
+    "3":"The former Russian member of parliament was fatally shot in broad daylight in Ukraine's capital.",
+    "4":"A U.S. girls chorus also cited the executive order as the reason for aborting to visit Scotland.",
+    "5":"More sad evidence of rising hate in America."
+  },
+  "authors":{
+    "0":"Sam Stein",
+    "1":"Joe Wessels, Reuters\/The Huffington Post",
+    "2":"Lydia O'Connor",
+    "3":"Nick Robins-Early",
+    "4":"Mary Papenfuss",
+    "5":"Christopher Mathias"
+  },
+  "date":{
+    "0":"2017-03-26 00:00:00",
+    "1":"2017-03-26 00:00:00",
+    "2":"2017-03-26 00:00:00",
+    "3":"2017-03-24 00:00:00",
+    "4":"2017-03-24 00:00:00",
+    "5":"2017-03-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"ukr",
+    "4":"usacvl",
+    "5":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---uaf",
+    "2":"---lab",
+    "3":"rusleg",
+    "4":"gbr",
+    "5":"---muscvl"
+  },
+  "event_code":{
+    "0":"032",
+    "1":"193",
+    "2":"040",
+    "3":"190",
+    "4":"042",
+    "5":"138"
+  },
+  "goldstein_score":{
+    "0":4.5,
+    "1":-10.0,
+    "2":1.0,
+    "3":-10.0,
+    "4":1.9,
+    "5":-7.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "authorities",
+      "~gov",
+      "~",
+      "gunmen",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "passengers",
+      "~cvl",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "parliament",
+      "~leg",
+      "~",
+      "russian",
+      "member of parliament",
+      "rusleg",
+      "russian",
+      "federation",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "4":[
+      "u.s.",
+      "girls",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "scotland",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "5":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "judge"
+    ],
+    "1":[
+      "authorities",
+      "gunmen"
+    ],
+    "2":[
+      "passengers",
+      "employees"
+    ],
+    "3":[
+      "ukraine",
+      "russian member of parliament"
+    ],
+    "4":[
+      "u.s. girls",
+      "scotland"
+    ],
+    "5":[
+      "men",
+      "muslim women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "ukraine",
+      "russian federation"
+    ],
+    "4":[
+      "united states of america",
+      "united kingdom"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted ... help promote"
+    ],
+    "1":[
+      "believe <~uaf> ... involved in ... shooting"
+    ],
+    "2":[
+      "had ... traveling"
+    ],
+    "3":[
+      "<rusleg> ... shot in ... ukr"
+    ],
+    "4":[
+      "cited ... visit"
+    ],
+    "5":[
+      "threatening ... shoot"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---jud",
+      "032"
+    ],
+    "1":[
+      "---gov",
+      "---uaf",
+      "193"
+    ],
+    "2":[
+      "---cvl",
+      "---lab",
+      "040"
+    ],
+    "3":[
+      "ukr",
+      "rusleg",
+      "190"
+    ],
+    "4":[
+      "usacvl",
+      "gbr",
+      "042"
+    ],
+    "5":[
+      "---ppl",
+      "---muscvl",
+      "138"
+    ]
+  }
+}

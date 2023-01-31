@@ -1,0 +1,252 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestine-a-consti_b_6808396.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/civilians-killed-by-police_b_6801510.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/civilians-killed-by-police_b_6801510.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/uc-santa-cruz-student-pro_b_6805198.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/men-need-to-check-each-other-about-violence-against-women_b_6810844.html"
+  },
+  "headline":{
+    "0":"Israel Palestine: A Constitutional Democracy",
+    "1":"The Slaughter Continues: 176 Civilians Killed by Police so Far in 2015",
+    "2":"The Slaughter Continues: 176 Civilians Killed by Police so Far in 2015",
+    "3":"UC Santa Cruz Student Protesters Cause Traffic Jam And Shut Down Campus",
+    "4":"Men Need to Check Each Other About Violence Against Women"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"COLLEGE",
+    "4":"WOMEN"
+  },
+  "short_description":{
+    "0":"The only possible solution to the problem of Israel and Palestine, it is generally assumed, is to recognize the two peoples and divide the land between them. The only question, it appears, is where to draw the line and what happens to people who end up on the wrong side.",
+    "1":"One-hundred-seventy-six civilians were killed by police in January and February, according to news clippings collected by killedbypolice.net. Of course, the greatest outrage of all is that no one really knows how many people are killed by police annually.",
+    "2":"One-hundred-seventy-six civilians were killed by police in January and February, according to news clippings collected by killedbypolice.net. Of course, the greatest outrage of all is that no one really knows how many people are killed by police annually.",
+    "3":"Millennial angst, for lack of a better term, fueled the 96 hours of demonstrations by students at UC Santa Cruz. Gen Y students are protesting on other University of California campuses against issues like 'police terror,' tuition hikes, and having to pay for education in general.",
+    "4":"John eventually voiced that he found the celebrity statement sick and that I was not being heard and the conversation shut down from there. Just like that, one man changed the flow of conversation."
+  },
+  "authors":{
+    "0":"David Moshman, ContributorIntellectual freedom activist",
+    "1":"Blake Fleetwood, ContributorFormer reporter for the New York Times and Daily News; taught ...",
+    "2":"Blake Fleetwood, ContributorFormer reporter for the New York Times and Daily News; taught ...",
+    "3":"Dieter Holger, ContributorCampus Editor-At-Large, Huffington Post",
+    "4":"Elischia Fludd, ContributorGender Justice Activist, Humanitarian, Founder of EOTO World"
+  },
+  "date":{
+    "0":"2015-03-06 00:00:00",
+    "1":"2015-03-06 00:00:00",
+    "2":"2015-03-06 00:00:00",
+    "3":"2015-03-06 00:00:00",
+    "4":"2015-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"---cop",
+    "2":"---cop",
+    "3":"---edu",
+    "4":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"usaeducop",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"190",
+    "2":"190",
+    "3":"140",
+    "4":"090"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-10.0,
+    "2":-10.0,
+    "3":-6.5,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "israel",
+      "palestine",
+      "isr",
+      "pse",
+      "israel",
+      "palestine",
+      "peoples",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "civilians",
+      "~cvl",
+      "~",
+      "civilians",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "students",
+      "~edu",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israel",
+      "peoples",
+      "palestine",
+      "peoples"
+    ],
+    "1":[
+      "police",
+      "civilians"
+    ],
+    "2":[
+      "police",
+      "people"
+    ],
+    "3":[
+      "students",
+      "---"
+    ],
+    "4":[
+      "men",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "---",
+      "palestine",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... recognize",
+      "is ... recognize"
+    ],
+    "1":[
+      "<~cvl> ... killed by <~cop>"
+    ],
+    "2":[
+      "<~ppl> ... killed by <~cop>"
+    ],
+    "3":[
+      "are protesting"
+    ],
+    "4":[
+      "need ... check"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "4":[
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isr",
+      "---ppl",
+      "051",
+      "pse",
+      "---ppl",
+      "051"
+    ],
+    "1":[
+      "---cop",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "---cop",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "---edu",
+      "usaeducop",
+      "140"
+    ],
+    "4":[
+      "---ppl",
+      "---cvl",
+      "090"
+    ]
+  }
+}

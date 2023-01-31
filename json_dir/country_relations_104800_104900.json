@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/behind-the-curtain-with-d_b_6608128.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jordan-pilot-isis-obama_n_6607084.html"
+  },
+  "headline":{
+    "0":"Behind the Curtain With Dr. Oz",
+    "1":"Jordanian Pilot's Death Adds To Worries About U.S. Fight Against ISIS"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Implying that absence of a citation in an academic journal means medical advice has no merit is a misleading premise and misses a truth that practicing physicians acknowledge -- at least half the time that we are faced with a clinical decision, strong scientific evidence is lacking.",
+    "1":""
+  },
+  "authors":{
+    "0":"Dr. Dean Ornish, ContributorFounder and president, Preventive Medicine Research Institute",
+    "1":"Akbar Shahid Ahmed and Ali Watkins"
+  },
+  "date":{
+    "0":"2015-02-03 00:00:00",
+    "1":"2015-02-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"jor"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"012"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-0.4
+  },
+  "nouns":{
+    "0":[
+      "academic",
+      "~edu",
+      "~",
+      "academic",
+      "~edu",
+      "~",
+      "academic",
+      "~edu",
+      "~",
+      "physicians",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "jordanian",
+      "jor",
+      "jordan",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "academic",
+      "physicians"
+    ],
+    "1":[
+      "jordanian",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "jordan",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "means <~hlh> ... faced"
+    ],
+    "1":[
+      "adds ... worries"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---hlh",
+      "040"
+    ],
+    "1":[
+      "jor",
+      "usa",
+      "012"
+    ]
+  }
+}

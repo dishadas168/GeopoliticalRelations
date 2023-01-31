@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-paris-confidants_us_592a1b49e4b0df57cbfbff9e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/91-seconds-spell-disaster-for-bahrain_us_592ae42ce4b07d848fdc049b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-kushner-russia_us_59298cdbe4b0df57cbfbf071"
+  },
+  "headline":{
+    "0":"Report: Trump Tells 'Confidants' U.S. Will leave Paris Climate Deal",
+    "1":"91 Seconds Spell Disaster For Bahrain",
+    "2":"Trump\u2019s White House Does Not Want To Talk About Kushner And Russia. At All."
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"On Saturday, Trump said in a Twitter post he would make a decision on whether to support the Paris climate deal next week.",
+    "1":"The clip is only a minute and a half, but the White House video of President Trump meeting the king of Bahrain last week",
+    "2":"Top aides McMaster and Cohn refuse to comment on a report that Trump\u2019s son-in-law wanted to set up a secret back channel to speak with Russia."
+  },
+  "authors":{
+    "0":"",
+    "1":"Brian Dooley, ContributorSenior Advisor, Human Rights First",
+    "2":"S.V. Date"
+  },
+  "date":{
+    "0":"2017-05-28 00:00:00",
+    "1":"2017-05-28 00:00:00",
+    "2":"2017-05-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"fra",
+    "1":"bhrgov",
+    "2":"rus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"011"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-0.1
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "bahrain",
+      "bhr",
+      "bahrain",
+      "king",
+      "bhrgov",
+      "~"
+    ],
+    "2":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "paris"
+    ],
+    "1":[
+      "president",
+      "king"
+    ],
+    "2":[
+      "white house",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "france"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "white house",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will leave"
+    ],
+    "1":[
+      "meeting"
+    ],
+    "2":[
+      "does ... want ... talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "fra",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "bhrgov",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "rus",
+      "011"
+    ]
+  }
+}

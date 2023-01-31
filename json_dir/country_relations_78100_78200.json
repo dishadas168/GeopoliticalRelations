@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/road-rage-machete-attack-filmed_us_5672cf47e4b0688701dc6629"
+  },
+  "headline":{
+    "0":"Horrifying Video Shows Road-Rage Machete Attacker Slash Driver's Face"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"Police said the man followed the victim home."
+  },
+  "authors":{
+    "0":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2015-12-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "010"
+    ]
+  }
+}

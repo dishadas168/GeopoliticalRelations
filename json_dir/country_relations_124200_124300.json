@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/whistleblower-protection_b_5510792.html"
+  },
+  "headline":{
+    "0":"The Whistleblower Protection Program Is Broken Too"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"As with the VA itself, the federal bureaucracy charged with protecting \"whistleblowers\" -- an unnecessarily disparaging appellation if there ever was one -- is itself broken.  The consequences for American workers are catastrophic."
+  },
+  "authors":{
+    "0":"Scott D. Gerber, ContributorProfessor, lawyer, writer"
+  },
+  "date":{
+    "0":"2014-06-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "bureaucracy",
+      "~gov",
+      "~",
+      "bureaucracy",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bureaucracy",
+      "bureaucracy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... broken"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "190"
+    ]
+  }
+}

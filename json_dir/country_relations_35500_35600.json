@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senators-sanctions-venezuela_us_5909de5ae4b05c397684d340",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/uber-waymo-self-driving-lawsuit-court-hearing_us_590a0726e4b02655f8433858",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/doj-hate-crime-surge-trump-question_us_5908d4e7e4b0bb2d087286d6",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/north-lake-college-texas-shooting_us_590a1483e4b0bb2d08748823",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/russia-chechen-protest-arrests_us_5908cf0de4b02655f8416dbc"
+  },
+  "headline":{
+    "0":"U.S. Senators Seek Sanctions To Address Venezuela Crisis",
+    "1":"Uber Is In Court Today, Fighting For Its Very Existence",
+    "2":"DOJ Official Dodges Questions On Trump's Role In Hate Crime Surge",
+    "3":"'Active Shooter' At Texas' North Lake College Dies In Apparent Murder-Suicide",
+    "4":"LGBTQ Activists Protesting Alleged Chechen Abuse Arrested In Russia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The bill would provide $10 million in humanitarian aid to the struggling country.",
+    "1":"The future of the company's self-driving unit hangs on the judge's decision.",
+    "2":"Democratic senators specifically asked him about the president's rhetoric and policies.",
+    "3":"Police say the gunman fatally shot one person and then killed himself.",
+    "4":"About 17 people are reported to have been detained."
+  },
+  "authors":{
+    "0":"Patricia Zengerle, Reuters",
+    "1":"Heather Somerville and Dan Levine, Reuters",
+    "2":"Christopher Mathias",
+    "3":"Andy Campbell and Sebastian Murdock",
+    "4":""
+  },
+  "date":{
+    "0":"2017-05-03 00:00:00",
+    "1":"2017-05-03 00:00:00",
+    "2":"2017-05-03 00:00:00",
+    "3":"2017-05-03 00:00:00",
+    "4":"2017-05-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---bus",
+    "2":"---leg",
+    "3":"---cop",
+    "4":"---opp"
+  },
+  "actor2":{
+    "0":"ven",
+    "1":"---jud",
+    "2":"---gov",
+    "3":"---uaf",
+    "4":"rus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"020",
+    "3":"112",
+    "4":"140"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":3.0,
+    "3":-2.0,
+    "4":-6.5
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "venezuela",
+      "ven",
+      "venezuela"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "senators",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "gunman",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "activists",
+      "~opp",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "venezuela"
+    ],
+    "1":[
+      "company",
+      "judge"
+    ],
+    "2":[
+      "senators",
+      "president"
+    ],
+    "3":[
+      "police",
+      "gunman"
+    ],
+    "4":[
+      "activists",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "venezuela"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seek ... address"
+    ],
+    "1":[
+      "hangs"
+    ],
+    "2":[
+      "asked"
+    ],
+    "3":[
+      "say <and> ... killed"
+    ],
+    "4":[
+      "protesting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "id_democracy",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "ven",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---jud",
+      "190"
+    ],
+    "2":[
+      "---leg",
+      "---gov",
+      "020"
+    ],
+    "3":[
+      "---cop",
+      "---uaf",
+      "112"
+    ],
+    "4":[
+      "---opp",
+      "rus",
+      "140"
+    ]
+  }
+}

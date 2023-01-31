@@ -1,0 +1,266 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-nazi-tourist-beaten-germany_us_59904f9ee4b09071f69a47a8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ivanka-trump-jared-kushner_us_598f3560e4b08a247274b03b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-charlottesville-protests_us_598f998ee4b09071f69a2a2b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-supremacy-inspires-terrorism_us_59908e33e4b063e2ae05809d",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-phone-call-guam-governor-tourism_us_598f1426e4b09071f699ebeb",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/trump-the-divider-in-chief_us_598f57a6e4b0ed1f464c0b2d"
+  },
+  "headline":{
+    "0":"American Tourist Punched For Giving Nazi Salute In Germany",
+    "1":"Ivanka Trump Condemns White Supremacists In Charlottesville",
+    "2":"Obama Responds To Charlottesville Violence With A Quote From Nelson Mandela",
+    "3":"How To Counter Violent Extremists",
+    "4":"Trump Tells Guam Governor Nuclear Tensions Will Mean More Tourism",
+    "5":"Trump: The Divider In Chief"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police are investigating the man for giving the banned gesture.",
+    "1":"Her father, President Donald Trump, blamed \"many sides\" for the Virginia unrest.",
+    "2":"President Donald Trump had mentioned Obama in a statement about the protests.",
+    "3":"Once again a U.S. citizen has been killed in a terrorist attack on American soil. Like the perpetrators of the recent London",
+    "4":"North Korea threatened to fire missiles near Guam. Trump says the publicity will bring tourists.",
+    "5":"As events around the world continue to spin out of control, the man who bragged \u201cI alone can fix it\u201d has once again revealed himself to the world as unqualified to be president."
+  },
+  "authors":{
+    "0":"Nick Robins-Early",
+    "1":"Alana Horowitz Satlin",
+    "2":"Paige Lavender",
+    "3":"Tom Mockaitis, ContributorProfessor of History, International Security Analyst",
+    "4":"Hilary Hanson",
+    "5":"Joe Peyronnin, ContributorHofstra Journalism Professor"
+  },
+  "date":{
+    "0":"2017-08-13 00:00:00",
+    "1":"2017-08-13 00:00:00",
+    "2":"2017-08-13 00:00:00",
+    "3":"2017-08-13 00:00:00",
+    "4":"2017-08-12 00:00:00",
+    "5":"2017-08-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"usauaf",
+    "4":"prk",
+    "5":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"usagov",
+    "3":"usacvl",
+    "4":"usagum",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"112",
+    "2":"010",
+    "3":"190",
+    "4":"130",
+    "5":"050"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":-10.0,
+    "4":-4.4,
+    "5":3.5
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "u.s.",
+      "citizen",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "terrorist",
+      "usauaf",
+      "~"
+    ],
+    "4":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "guam",
+      "usagum",
+      "guam"
+    ],
+    "5":[
+      "man",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man"
+    ],
+    "1":[
+      "president",
+      "virginia"
+    ],
+    "2":[
+      "president",
+      "obama"
+    ],
+    "3":[
+      "terrorist",
+      "u.s. citizen"
+    ],
+    "4":[
+      "north korea",
+      "guam"
+    ],
+    "5":[
+      "man",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ],
+    "3":[
+      "",
+      "united states of america"
+    ],
+    "4":[
+      "north korea",
+      "guam"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are investigating"
+    ],
+    "1":[
+      "blamed"
+    ],
+    "2":[
+      "had mentioned"
+    ],
+    "3":[
+      "<usacvl> ... killed in <usauaf>"
+    ],
+    "4":[
+      "threatened"
+    ],
+    "5":[
+      "has ... revealed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "terror",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "090"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "112"
+    ],
+    "2":[
+      "---gov",
+      "usagov",
+      "010"
+    ],
+    "3":[
+      "usauaf",
+      "usacvl",
+      "190"
+    ],
+    "4":[
+      "prk",
+      "usagum",
+      "130"
+    ],
+    "5":[
+      "---ppl",
+      "---ppl",
+      "050"
+    ]
+  }
+}

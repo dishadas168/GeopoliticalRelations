@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/morocco-hits-all-the-righ_us_5b9dd33ae4b03a1dcc8d611a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/soda-ban_us_5b9dd323e4b03a1dcc8d5df2"
+  },
+  "headline":{
+    "0":"Morocco Hits All the Right Notes for Travelers",
+    "1":"Hawaii to Cap Sizes of Sugary Drinks"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"What I enjoy most about Morocco is that it comes with few of the pre-conceived notions we have about more familiar destinations. Here, it's easy to get lost in \ufb02avors, textures and moments so unexpected that they give you pause. What's more exotic -- and memorable -- than a vacation like that?",
+    "1":"The Hawaii State Senate recently introduced a bill that would prohibit the sale of sugar-sweetened drinks in containers larger than 16 ounces anywhere in the state."
+  },
+  "authors":{
+    "0":"Edward Piegza, Contributor\nPresident and founder, Classic Journeys",
+    "1":"Dr. Lisa Young, Contributor\nInternationally-recognized nutritionist; International speaker..."
+  },
+  "date":{
+    "0":"2014-01-30 00:00:00",
+    "1":"2014-01-30 00:00:00"
+  },
+  "actor1":{
+    "0":"mar",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "morocco",
+      "mar",
+      "morocco",
+      "travelers",
+      "~cvl",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "hawaii",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "morocco",
+      "travelers"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "morocco",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hits"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mar",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "usagovleg",
+      "040",
+      "usagovleg",
+      "usa",
+      "040"
+    ]
+  }
+}

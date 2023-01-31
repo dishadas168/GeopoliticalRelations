@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/burundi-implicates-respected-journalist-in-failed-coup_us_5655d159e4b072e9d1c14d8a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/felon-voting-rights-restoration_us_5655de80e4b079b28189da1e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/laquan-mcdonald-protests_us_5655246ce4b079b28189a18f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/vatican-puts-2-journalists-on-trial-for-reporting-on-leaks_us_56548f1fe4b0879a5b0c795e",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/us-news\/2015\/nov\/24\/marco-rubio-us-must-not-demonize-police-officers",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/women-equality-in-media_us_56547bc2e4b0d4093a592255"
+  },
+  "headline":{
+    "0":"Burundi Implicates Respected Journalist In Failed Coup",
+    "1":"Governors Could Restore Voting Rights To Millions Of People If They Wanted To",
+    "2":"Protesters And Chicago Police Clash After City Releases Video Of Laquan McDonald",
+    "3":"Vatican Puts 2 Journalists On Trial For Reporting On Leaks",
+    "4":"Marco Rubio: U.S. Must Not Demonize Police Officers Amid 'Rare' Misconduct",
+    "5":"Research Shows Women Far From Equality With Men In The Media"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"BLACK VOICES",
+    "3":"MEDIA",
+    "4":"POLITICS",
+    "5":"MEDIA"
+  },
+  "short_description":{
+    "0":"Carina Tertsakian, who researches Burundi for Human Rights Watch, said Kaburahe is a respected journalist and the allegations against him are \"absurd.\"",
+    "1":"More people with past felony convictions will soon get to vote in Kentucky. But Iowans and Floridians still face many hurdles.",
+    "2":"___ 5:35 p.m. Businesses in Chicago are advising tenants to be prepared for protests as Chicago officials release a video",
+    "3":"With hours to go before the start of trial, neither they nor their lawyers had seen the court file detailing the accusations against them.",
+    "4":"Republican presidential candidate tells the Guardian that country should be \u2018vigilant\u2019 in cases of abuse, but \u2018overwhelming",
+    "5":"UN Women Executive Director Phumzile Mlambo-Ngcuka called the research \"a wake-up call to media houses and newsrooms.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Samantha Lachman",
+    "2":"",
+    "3":"Nicole Winfield, AP",
+    "4":"",
+    "5":""
+  },
+  "date":{
+    "0":"2015-11-25 00:00:00",
+    "1":"2015-11-25 00:00:00",
+    "2":"2015-11-25 00:00:00",
+    "3":"2015-11-24 00:00:00",
+    "4":"2015-11-24 00:00:00",
+    "5":"2015-11-24 00:00:00"
+  },
+  "actor1":{
+    "0":"bdi",
+    "1":"---ppl",
+    "2":"usabus",
+    "3":"---jud",
+    "4":"---pty",
+    "5":"---med"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usa",
+    "2":"---cvl",
+    "3":"---jud",
+    "4":"med",
+    "5":"igounocvl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"030",
+    "2":"020",
+    "3":"010",
+    "4":"010",
+    "5":"041"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":4.0,
+    "2":3.0,
+    "3":0.0,
+    "4":0.0,
+    "5":1.0
+  },
+  "nouns":{
+    "0":[
+      "burundi",
+      "bdi",
+      "burundi",
+      "journalist",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "businesses",
+      "usabus",
+      "~",
+      "tenants",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "lawyers",
+      "~jud",
+      "~",
+      "the court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "presidential candidate",
+      "~pty",
+      "~",
+      "the guardian",
+      "med",
+      "the",
+      "guardian"
+    ],
+    "5":[
+      "un",
+      "women",
+      "igounocvl",
+      "un",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "burundi",
+      "journalist"
+    ],
+    "1":[
+      "people",
+      "kentucky"
+    ],
+    "2":[
+      "businesses",
+      "tenants"
+    ],
+    "3":[
+      "lawyers",
+      "lawyers"
+    ],
+    "4":[
+      "presidential candidate",
+      "the guardian"
+    ],
+    "5":[
+      "media",
+      "un women",
+      "un women",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "burundi",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "the guardian"
+    ],
+    "5":[
+      "---",
+      "un",
+      "un",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "respected"
+    ],
+    "1":[
+      "will ... vote"
+    ],
+    "2":[
+      "are advising"
+    ],
+    "3":[
+      "had seen"
+    ],
+    "4":[
+      "tells"
+    ],
+    "5":[
+      "call",
+      "call"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "bdi",
+      "---med",
+      "051"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "usabus",
+      "---cvl",
+      "020"
+    ],
+    "3":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "4":[
+      "---pty",
+      "med",
+      "010"
+    ],
+    "5":[
+      "---med",
+      "igounocvl",
+      "041",
+      "igounocvl",
+      "---med",
+      "041"
+    ]
+  }
+}

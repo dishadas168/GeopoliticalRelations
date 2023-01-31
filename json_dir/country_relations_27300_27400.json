@@ -1,0 +1,246 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-to-thaw-the-climate-conflict_us_598b1845e4b08a4c247f270c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/barney-frank-bill-clinton-dont-ask-dont-tell_us_59555eb3e4b02734df3108f8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/doug-lamalfa-town-hall_us_598ad17ee4b0d793738b5778",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mark-cuban-salubris_us_598b738ae4b0d793738c6463",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/maryland-governor-welcomes-president-of-south-korea_us_5989c3f2e4b030f0e267c772"
+  },
+  "headline":{
+    "0":"How To Thaw The Climate Conflict",
+    "1":"Barney Frank: Don't Blame Bill Clinton For 'Don't Ask, Don't Tell'",
+    "2":"Constituents Clobber GOP Congressman At Town Hall: 'May You Die In Pain'",
+    "3":"Mark Cuban Slams U.S. Plan To Give Chinese Billionaire Monopoly On Cancer Drug",
+    "4":"Maryland Governor Welcomes President Of South Korea"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week\u2019s circulation of an authoritative government report on global climate change is putting some heat on America\u2019s",
+    "1":"The former congressman says the former president has been unfairly maligned.",
+    "2":"\u201cI want you to know that these are life and death decisions that you are making,\" one audience member said.",
+    "3":"The Dallas Mavericks owner wades into a growing debate over rights to taxpayer-funded pharmaceutical research.",
+    "4":"By Yeo-Ri Kim, Research Intern, East-West Center in Washington. She is a Master\u2019s candidate in Global Policy Studies at the"
+  },
+  "authors":{
+    "0":"William S. Becker, ContributorEnergy & Climate Policy Expert",
+    "1":"Sam Stein",
+    "2":"Alana Horowitz Satlin",
+    "3":"Alexander C. Kaufman",
+    "4":"East-West Center, ContributorPromoting better understanding and relations between the natio..."
+  },
+  "date":{
+    "0":"2017-08-09 00:00:00",
+    "1":"2017-08-09 00:00:00",
+    "2":"2017-08-09 00:00:00",
+    "3":"2017-08-09 00:00:00",
+    "4":"2017-08-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"---cvl",
+    "3":"cub",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---eli",
+    "2":"---leg",
+    "3":"chn",
+    "4":"korgov"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"111",
+    "2":"190",
+    "3":"031",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0,
+    "2":-10.0,
+    "3":5.2,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "former president",
+      "~eli",
+      "~"
+    ],
+    "2":[
+      "constituents",
+      "~cvl",
+      "~",
+      "congressman",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "cuban",
+      "u.s.",
+      "cub",
+      "usa",
+      "cuba",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "4":[
+      "maryland",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "south korea",
+      "kor",
+      "south",
+      "korea",
+      "president",
+      "korgov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "america"
+    ],
+    "1":[
+      "congressman",
+      "former ... president"
+    ],
+    "2":[
+      "constituents",
+      "congressman"
+    ],
+    "3":[
+      "cuban",
+      "chinese",
+      "u.s.",
+      "chinese"
+    ],
+    "4":[
+      "maryland governor",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "cuba",
+      "china",
+      "united states of america",
+      "china"
+    ],
+    "4":[
+      "united states of america",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... putting ... heat"
+    ],
+    "1":[
+      "says <~eli> ... maligned"
+    ],
+    "2":[
+      "clobber"
+    ],
+    "3":[
+      "plan ... give",
+      "plan ... give"
+    ],
+    "4":[
+      "welcomes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "climate_change",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "monopoly",
+      "1",
+      "disease",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "111"
+    ],
+    "1":[
+      "---leg",
+      "---eli",
+      "111"
+    ],
+    "2":[
+      "---cvl",
+      "---leg",
+      "190"
+    ],
+    "3":[
+      "cub",
+      "chn",
+      "031",
+      "usa",
+      "chn",
+      "031"
+    ],
+    "4":[
+      "usagov",
+      "korgov",
+      "051"
+    ]
+  }
+}

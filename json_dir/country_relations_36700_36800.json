@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-protests_us_58f7db79e4b0cb086d7dce0c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-breaks-into-drakes-home-soda-water-hoodie_us_58f76f51e4b029063d359d59",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-missouri-religious-school_us_58f781efe4b0de5bac42ca01",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/as-the-us-stops-funding-reproductive-health-services_us_58f7aec4e4b0f5cf16c7bb97",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/afghanistans-entrenched-systemic-torture_us_58f7b504e4b071c2617f01f6"
+  },
+  "headline":{
+    "0":"Mass Protests Against Venezuela's Maduro Leave 2 Students Dead",
+    "1":"Woman Breaks Into Drake\u2019s Home, Helps Herself To Soda And Fiji Water",
+    "2":"Supreme Court Shows Soft Spot For Church Denied Public Funding For Playground",
+    "3":"As The U.S. Stops Funding Reproductive Health Services, China Should Step In",
+    "4":"Afghanistan\u2019s Entrenched Systemic Torture Must Be Stopped"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Hundreds of thousands of opposition supporters joined what they called \u201cthe mother of all marches\u201d to denounce the president for eroding democracy and plunging the oil-rich economy into chaos.",
+    "1":"She was also wearing his hoodie.",
+    "2":"Even some of the more liberal justices signaled the state of Missouri may have gone too far against a religious school.",
+    "3":"Tamara Nair, Nanyang Technological University On April 4 2017, US President Donald Trump decided to not fund the United Nations",
+    "4":"Afghanistan faces its first review in 20 years under the UN Convention Against Torture at a session in Geneva next week."
+  },
+  "authors":{
+    "0":"",
+    "1":"Elyse Wanshel",
+    "2":"Cristian Farias",
+    "3":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "4":"Patricia Gossman, ContributorSenior researcher, Human Rights Watch"
+  },
+  "date":{
+    "0":"2017-04-19 00:00:00",
+    "1":"2017-04-19 00:00:00",
+    "2":"2017-04-19 00:00:00",
+    "3":"2017-04-19 00:00:00",
+    "4":"2017-04-19 00:00:00"
+  },
+  "actor1":{
+    "0":"ven",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"usagov",
+    "4":"igouno"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"fji",
+    "2":"---edu",
+    "3":"igouno",
+    "4":"afg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"070",
+    "2":"040",
+    "3":"0311",
+    "4":"036"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0,
+    "2":1.0,
+    "3":5.2,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "venezuela",
+      "maduro",
+      "ven",
+      "vengov",
+      "venezuela",
+      "nicolas",
+      "maduro",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "fiji",
+      "fji",
+      "fiji"
+    ],
+    "2":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "us president",
+      "usagov",
+      "president",
+      "of",
+      "the",
+      "united",
+      "states",
+      "the united nations",
+      "igouno",
+      "the",
+      "united",
+      "nations"
+    ],
+    "4":[
+      "afghanistan",
+      "afg",
+      "afghanistan",
+      "the un",
+      "igouno",
+      "the",
+      "un",
+      "geneva",
+      "che",
+      "switzerland"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "venezuela",
+      "students",
+      "maduro",
+      "students"
+    ],
+    "1":[
+      "woman",
+      "fiji"
+    ],
+    "2":[
+      "missouri",
+      "school"
+    ],
+    "3":[
+      "us president",
+      "the united nations"
+    ],
+    "4":[
+      "the un",
+      "afghanistan",
+      "afghanistan",
+      "the un",
+      "geneva",
+      "afghanistan",
+      "afghanistan",
+      "geneva"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "venezuela",
+      "---",
+      "nicolas maduro",
+      "---"
+    ],
+    "1":[
+      "---",
+      "fiji"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "president of the united states",
+      "the united nations"
+    ],
+    "4":[
+      "the un",
+      "afghanistan",
+      "afghanistan",
+      "the un",
+      "switzerland",
+      "afghanistan",
+      "afghanistan",
+      "switzerland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leave",
+      "leave"
+    ],
+    "1":[
+      "helps"
+    ],
+    "2":[
+      "may ... gone"
+    ],
+    "3":[
+      "decided ... fund"
+    ],
+    "4":[
+      "faces ... at",
+      "faces ... at",
+      "faces ... at",
+      "faces ... at"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":[
+      "id_torture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ven",
+      "---edu",
+      "040",
+      "vengov",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "fji",
+      "070"
+    ],
+    "2":[
+      "usa",
+      "---edu",
+      "040"
+    ],
+    "3":[
+      "usagov",
+      "igouno",
+      "0311"
+    ],
+    "4":[
+      "igouno",
+      "afg",
+      "036",
+      "afg",
+      "igouno",
+      "036",
+      "che",
+      "afg",
+      "036",
+      "afg",
+      "che",
+      "036"
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wildin-acosta-detained_us_57485bcbe4b0dacf7ad4a546",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/wildin-acosta-detained_us_57485bcbe4b0dacf7ad4a546",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/report-of-gang-rape-surfaced-on-social-media-shocks-brazil_us_57489146e4b03ede4414c68a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iraqis-flee-isis-into-syria_us_574848d1e4b03ede44147dd3",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/romania-poland-russia-putin_us_5748b69ee4b03ede4414dc4b",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/romania-poland-russia-putin_us_5748b69ee4b03ede4414dc4b",
+    "6":"https:\/\/www.huffingtonpost.comhttps:\/\/theintercept.com\/2016\/05\/26\/secret-text-in-senate-bill-would-give-fbi-warrantless-access-to-email-records\/",
+    "7":"https:\/\/www.huffingtonpost.comhttp:\/\/nypost.com\/2016\/05\/26\/gawker-founder-looking-to-sell-after-losing-hogan-judgment\/"
+  },
+  "headline":{
+    "0":"Students Want Their Classmate Released From Immigrant Detention",
+    "1":"Students Want Their Classmate Released From Immigrant Detention",
+    "2":"Gang Rape Posted To Social Media Is Forcing Brazil To Confront Violence Against Women",
+    "3":"Thousands Of Iraqis Desperate To Flee ISIS Make Dangerous Crossing Into Syria",
+    "4":"Putin Says Romania, Poland May Now Be In Russia's Crosshairs",
+    "5":"Putin Says Romania, Poland May Now Be In Russia's Crosshairs",
+    "6":"Secret Text in Senate Bill Would Give FBI Warrantless Access to Email Records",
+    "7":"Gawker Founder Looking To Sell After Losing Hogan Judgment"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS",
+    "7":"MEDIA"
+  },
+  "short_description":{
+    "0":"Classmates and a teacher of Wildin Acosta came to D.C. to call for his release from detention.",
+    "1":"Classmates and a teacher of Wildin Acosta came to D.C. to call for his release from detention.",
+    "2":"Police learned of the brutal crime after a video glorifying it surfaced on Twitter.",
+    "3":"The extremist group has reportedly stepped up executions of men and boys amid a new government offensive on Fallujah.",
+    "4":"Russian President Vladimir Putin on Friday warned Romania and Poland they could find themselves in the sights of Russian",
+    "5":"Russian President Vladimir Putin on Friday warned Romania and Poland they could find themselves in the sights of Russian",
+    "6":"A provision snuck into the still-secret text of the Senate\u2019s annual intelligence authorization would give the FBI the ability",
+    "7":"Gawker Media founder Nick Denton has begun quietly soliciting bids for the sale of his company, The Post has learned."
+  },
+  "authors":{
+    "0":"Elise Foley and Christine Conetta",
+    "1":"Elise Foley and Christine Conetta",
+    "2":"Cleuci de Oliveira, Latin America News Dispatch",
+    "3":"Stephanie Nebehay, Reuters",
+    "4":"",
+    "5":"",
+    "6":"",
+    "7":""
+  },
+  "date":{
+    "0":"2016-05-27 00:00:00",
+    "1":"2016-05-27 00:00:00",
+    "2":"2016-05-27 00:00:00",
+    "3":"2016-05-27 00:00:00",
+    "4":"2016-05-27 00:00:00",
+    "5":"2016-05-27 00:00:00",
+    "6":"2016-05-26 00:00:00",
+    "7":"2016-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"---crm",
+    "3":"---rad",
+    "4":"rusgov",
+    "5":"rusgov",
+    "6":"usagovlegspy",
+    "7":"---med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"bracvl",
+    "3":"irqgovppl",
+    "4":"rou",
+    "5":"rou",
+    "6":"usacop",
+    "7":"---bus"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040",
+    "2":"170",
+    "3":"060",
+    "4":"010",
+    "5":"130",
+    "6":"060",
+    "7":"020"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0,
+    "2":-7.0,
+    "3":6.0,
+    "4":0.0,
+    "5":-4.4,
+    "6":6.0,
+    "7":3.0
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "~edu",
+      "~",
+      "immigrant",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "teacher",
+      "~edu",
+      "~",
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "gang",
+      "~crm",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "gang",
+      "~crm",
+      "~",
+      "brazil",
+      "bra",
+      "brazil",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "extremist",
+      "~rad",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "fallujah",
+      "irq",
+      "iraq",
+      "government",
+      "irqgov",
+      "~"
+    ],
+    "4":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "romania",
+      "rou",
+      "romania",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "5":[
+      "russian president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "romania",
+      "poland",
+      "rou",
+      "pol",
+      "romania",
+      "poland",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "6":[
+      "senate",
+      "intelligence",
+      "usagovlegspy",
+      "united",
+      "states",
+      "congress",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "7":[
+      "media",
+      "~med",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "immigrant"
+    ],
+    "1":[
+      "teacher",
+      "d.c."
+    ],
+    "2":[
+      "gang",
+      "---"
+    ],
+    "3":[
+      "extremist",
+      "---"
+    ],
+    "4":[
+      "putin",
+      "romania"
+    ],
+    "5":[
+      "russian president vladimir putin",
+      "romania",
+      "russian president vladimir putin",
+      "poland"
+    ],
+    "6":[
+      "senate ... intelligence",
+      "fbi"
+    ],
+    "7":[
+      "media",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "vladimir putin",
+      "romania"
+    ],
+    "5":[
+      "vladimir putin",
+      "romania",
+      "vladimir putin",
+      "poland"
+    ],
+    "6":[
+      "united states congress",
+      "federal bureau of investigation"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want"
+    ],
+    "1":[
+      "came to"
+    ],
+    "2":[
+      "is forcing"
+    ],
+    "3":[
+      "has <['stepped',> <'up']>"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "warned",
+      "warned"
+    ],
+    "6":[
+      "would give"
+    ],
+    "7":[
+      "has ... soliciting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "2",
+      "id_immigration",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "2":[
+      "organized_crime",
+      "1",
+      "rape",
+      "1",
+      "gender_violence",
+      "1"
+    ],
+    "3":[
+      "id_extremism",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---edu",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---crm",
+      "bracvl",
+      "170"
+    ],
+    "3":[
+      "---rad",
+      "irqgovppl",
+      "060"
+    ],
+    "4":[
+      "rusgov",
+      "rou",
+      "010"
+    ],
+    "5":[
+      "rusgov",
+      "rou",
+      "130",
+      "rusgov",
+      "pol",
+      "130"
+    ],
+    "6":[
+      "usagovlegspy",
+      "usacop",
+      "060"
+    ],
+    "7":[
+      "---med",
+      "---bus",
+      "020"
+    ]
+  }
+}

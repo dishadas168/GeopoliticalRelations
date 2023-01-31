@@ -1,0 +1,172 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/federal-prosectutors-letter-trump-mueller_us_5a3d4c6de4b0b0e5a7a1fd1a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trumps-deadly-embrace-of-israel_us_5a3d22eee4b0df0de8b06489",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump_us_5a3d2872e4b06d1621b4132c"
+  },
+  "headline":{
+    "0":"Former U.S. Attorneys Warn Trump About 'Severe Repercussions' Of Firing Robert Mueller",
+    "1":"Trump's Deadly Embrace Of Israel",
+    "2":"So Donald Trump DOES Watch The News"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The bipartisan group of ex-federal prosecutors told the president it's imperative that he let the special counsel do his job.",
+    "1":"Thanks to Trump\u2019s forcing of a UN vote, it is now more clear than ever before that pretty much no one outside of Washington and Israel recognizes Israel\u2019s right to the entire city.",
+    "2":"The president told the media he signed the GOP tax bill after watching TV because he \"didn\u2019t want you folks to say that I wasn\u2019t keeping my promise.\""
+  },
+  "authors":{
+    "0":"Chris D'Angelo",
+    "1":"MJ Rosenberg, ContributorWorked on Capitol Hill for Democratic Senators and House membe...",
+    "2":"Chris D'Angelo"
+  },
+  "date":{
+    "0":"2017-12-22 00:00:00",
+    "1":"2017-12-22 00:00:00",
+    "2":"2017-12-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"isr",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"042",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.9,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "washington",
+      "israel",
+      "usa",
+      "isr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "israel",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "president"
+    ],
+    "1":[
+      "israel",
+      "washington",
+      "israel",
+      "israel",
+      "washington",
+      "israel",
+      "israel",
+      "israel"
+    ],
+    "2":[
+      "president",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "israel",
+      "united states of america",
+      "israel",
+      "israel",
+      "united states of america",
+      "israel",
+      "israel",
+      "israel"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "recognizes ... to",
+      "recognizes ... to",
+      "recognizes ... to",
+      "recognizes ... to"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "isr",
+      "usa",
+      "042",
+      "isr",
+      "isr",
+      "042",
+      "usa",
+      "isr",
+      "043",
+      "isr",
+      "isr",
+      "043"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "010"
+    ]
+  }
+}

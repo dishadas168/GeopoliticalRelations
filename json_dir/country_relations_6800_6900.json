@@ -1,0 +1,324 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/timmothy-pitzen-teen-claims-to-be_n_5ca5e6e6e4b082d775e1314c",
+    "1":"https:\/\/www.huffpost.com\/entry\/georgia-journalism-ethics-bill-first-amendment_n_5ca4b8d3e4b094d3f5c4b92e",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-attacks-democrats-michigan-rally_n_5c9d6325e4b00ba632799519",
+    "3":"https:\/\/www.huffpost.com\/entry\/ilhan-omar-trump-new-zealand-islamophobia_n_5c983a28e4b01ebeef10f797",
+    "4":"https:\/\/www.huffpost.com\/entry\/kamala-harris-tells-texas-shed-give-teachers-a-big-raise_n_5c967cdae4b057f7330ba91a",
+    "5":"https:\/\/www.huffpost.com\/entry\/new-zealand-mosque-prayer-human-chain_n_5c94e9d3e4b01ebeef0e4e5f",
+    "6":"https:\/\/www.huffpost.com\/entry\/cnn-anderson-cooper-donald-trump-john-mccain_n_5c91de31e4b0f7ed945d96cd"
+  },
+  "headline":{
+    "0":"FBI: Man Is Not Timmothy Pitzen,  6-Year-Old Boy Who Went Missing In 2011",
+    "1":"GOP Lawmakers In Georgia Introduce Bill To Enforce 'Journalism Ethics'",
+    "2":"Unchained Trump Rages In First Rally After Mueller Report Drops: 'These People Are Sick'",
+    "3":"Ilhan Omar: Trump's Islamophobic Remarks Inspire Attacks Like New Zealand Shooting",
+    "4":"Kamala Harris Tells Texas She'd Give Teachers A Big Raise",
+    "5":"New Zealanders Create Human Chain Around Mosque To Shield Muslims In Prayer",
+    "6":"Anderson Cooper: Donald Trump Is 'Punching At A Person Who Is Dead'"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"MEDIA"
+  },
+  "short_description":{
+    "0":"A 23-year-old man told authorities he is Timmothy Pitzen, who would be 14 years old now.",
+    "1":"The lawmaker spearheading HB734, state Rep. Andy Welch (R), recently complained about an interview with a reporter that he felt was unfair.",
+    "2":"\u201cThe collusion delusion is over,\u201d the president declares in Grand Rapids, Michigan.",
+    "3":"The Minnesota Democrat spoke Saturday at a Muslim civil rights banquet in California.",
+    "4":"The California Democrat has yet to roll out specifics.",
+    "5":"Last week, at least 50 people were killed in mass shootings at two mosques in Christchurch, New Zealand.",
+    "6":"The CNN host called out the president for his repeated attacks on the late Sen. John McCain (R-Ariz.)."
+  },
+  "authors":{
+    "0":"",
+    "1":"Marina Fang",
+    "2":"Nick Visser",
+    "3":"Sanjana Karanth",
+    "4":"Roque Planas",
+    "5":"Jenna Amatulli",
+    "6":"Lee Moran"
+  },
+  "date":{
+    "0":"2019-04-04 00:00:00",
+    "1":"2019-04-03 00:00:00",
+    "2":"2019-03-29 00:00:00",
+    "3":"2019-03-25 00:00:00",
+    "4":"2019-03-23 00:00:00",
+    "5":"2019-03-22 00:00:00",
+    "6":"2019-03-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---leg",
+    "2":"---gov",
+    "3":"usa",
+    "4":"usa",
+    "5":"---ppl",
+    "6":"med"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---med",
+    "2":"usa",
+    "3":"usamus",
+    "4":"---edu",
+    "5":"nzl",
+    "6":"usagovleg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"114",
+    "2":"010",
+    "3":"010",
+    "4":"060",
+    "5":"190",
+    "6":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":0.0,
+    "4":6.0,
+    "5":-10.0,
+    "6":3.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "lawmaker",
+      "~leg",
+      "~",
+      "reporter",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "grand rapids",
+      "michigan",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "minnesota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "muslim",
+      "usamus",
+      "~"
+    ],
+    "4":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "people",
+      "~ppl",
+      "~",
+      "christchurch",
+      "new zealand",
+      "nzl",
+      "nzl",
+      "new",
+      "zealand",
+      "new",
+      "zealand"
+    ],
+    "6":[
+      "cnn",
+      "med",
+      "cnn",
+      "president",
+      "~gov",
+      "~",
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "authorities"
+    ],
+    "1":[
+      "lawmaker",
+      "reporter"
+    ],
+    "2":[
+      "president",
+      "grand rapids"
+    ],
+    "3":[
+      "minnesota",
+      "muslim"
+    ],
+    "4":[
+      "texas",
+      "teachers"
+    ],
+    "5":[
+      "people",
+      "christchurch"
+    ],
+    "6":[
+      "cnn",
+      "john mccain"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      ""
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "new zealand"
+    ],
+    "6":[
+      "cnn",
+      "john mccain"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "complained"
+    ],
+    "2":[
+      "declares"
+    ],
+    "3":[
+      "spoke"
+    ],
+    "4":[
+      "'d give"
+    ],
+    "5":[
+      "were killed in <---> ... at <nzl>"
+    ],
+    "6":[
+      "called ... for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "human_rights",
+      "1"
+    ],
+    "4":[
+      "teachers",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "---leg",
+      "---med",
+      "114"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "010",
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "usamus",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "---edu",
+      "060"
+    ],
+    "5":[
+      "---ppl",
+      "nzl",
+      "190"
+    ],
+    "6":[
+      "med",
+      "usagovleg",
+      "020"
+    ]
+  }
+}

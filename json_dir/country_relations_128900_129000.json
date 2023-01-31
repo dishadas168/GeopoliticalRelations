@@ -1,0 +1,169 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obamas-asian-pivot-a-worl_b_5186421.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/patriots-day-in-a-pluralistic-nation_b_5187743.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/a-green-solution-to-overs_b_5187158.html"
+  },
+  "headline":{
+    "0":"Obama's Asian Pivot: A WorldPost Review",
+    "1":"Patriot's Day in a Pluralistic Nation",
+    "2":"A Green Solution to Overseas Hunger"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"RELIGION",
+    "2":"IMPACT"
+  },
+  "short_description":{
+    "0":"This week, U.S. President Barack Obama is visiting Asia to meet U.S. allies and assure them of America's backing as China rises to become the dominant power in the region. In light of the West's weak response to Putin's takeover of the Crimea, some Asian allies are concerned about whether the U.S. will stand steady in the event a conflict breaks out between one of its allies and China.",
+    "1":"Not many people can run like Meb, but our youth can all learn to reach for one another as fellow citizens and friends, and resist the evil that we hope has now been purged from the city of Boston on a sunny Patriot's Day.",
+    "2":"It all started when a 65-year-old retired carpenter named Fred Colgan met Damon Ogle, an engineer with a new \"green\" stove design."
+  },
+  "authors":{
+    "0":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "1":"Meryl Chertoff, ContributorExecutive Director, The Aspen Institute\u2019s Justice and Society ...",
+    "2":"Helaina Hovitz, ContributorJournalist, Writer, Editor, Author"
+  },
+  "date":{
+    "0":"2014-04-22 00:00:00",
+    "1":"2014-04-22 00:00:00",
+    "2":"2014-04-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"---eli"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"frareb",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"020",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "youth",
+      "frareb",
+      "gazteriak",
+      "citizens",
+      "~cvl",
+      "~",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "retired",
+      "~eli",
+      "~",
+      "engineer",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barack obama",
+      "u.s.",
+      "barack obama",
+      "barack obama"
+    ],
+    "1":[
+      "boston",
+      "youth"
+    ],
+    "2":[
+      "retired",
+      "engineer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america",
+      "barack obama",
+      "barack obama"
+    ],
+    "1":[
+      "united states of america",
+      "gazteriak"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visiting ... meet",
+      "visiting ... assure"
+    ],
+    "1":[
+      "<frareb> ... learn ... hope ... purged from <usa>"
+    ],
+    "2":[
+      "named ... met"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "040",
+      "usagov",
+      "usagov",
+      "030"
+    ],
+    "1":[
+      "usa",
+      "frareb",
+      "020"
+    ],
+    "2":[
+      "---eli",
+      "---cvl",
+      "040"
+    ]
+  }
+}

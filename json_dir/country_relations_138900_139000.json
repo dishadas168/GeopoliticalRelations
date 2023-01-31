@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-bangs_us_5b9dc099e4b03a1dcc8c7130",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-bangs_us_5b9dc099e4b03a1dcc8c7130"
+  },
+  "headline":{
+    "0":"Hillary Clinton's Bangs Welcome Mayor Bill DeBlasio Into Office (PHOTOS)",
+    "1":"Hillary Clinton's Bangs Welcome Mayor Bill DeBlasio Into Office (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Hillary's former cut, December 2013: Feeling d\u00e9j\u00e0 vu? That's because it was just a year ago that America watched President",
+    "1":"Hillary's former cut, December 2013: Feeling d\u00e9j\u00e0 vu? That's because it was just a year ago that America watched President"
+  },
+  "authors":{
+    "0":"Rebecca Adams",
+    "1":"Rebecca Adams"
+  },
+  "date":{
+    "0":"2014-01-02 00:00:00",
+    "1":"2014-01-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "mayor",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "mayor"
+    ],
+    "1":[
+      "america",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "welcome"
+    ],
+    "1":[
+      "watched"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---gov",
+      "051"
+    ],
+    "1":[
+      "usa",
+      "---gov",
+      "010"
+    ]
+  }
+}

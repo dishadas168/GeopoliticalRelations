@@ -1,0 +1,219 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/mueller-probe-mystery-company-supreme-court_n_5c35ba0de4b05b16bcfc162f",
+    "1":"https:\/\/www.huffpost.com\/entry\/donald-trump-tariffs-factory-move-mexico_n_5c32d851e4b0733528345866",
+    "2":"https:\/\/www.huffpost.com\/entry\/duterte-maid-sexual-assault_n_5c28b734e4b05c88b701565a",
+    "3":"https:\/\/www.huffpost.com\/entry\/lindsey-graham-vows-to-nancy-pelosi-house-democrats-no-wall-money-no-deal_n_5c265af2e4b05c88b7001234",
+    "4":"https:\/\/www.huffpost.com\/entry\/rand-paul-syria_n_5c2091f9e4b0407e907cd1be"
+  },
+  "headline":{
+    "0":"Supreme Court Rules Against Mystery Company With Possible Ties To Mueller Probe",
+    "1":"'Betrayed' Factory Boss Turns On Trump, Says Plant May Move To Mexico",
+    "2":"Philippines' Rodrigo Duterte Suggests He Sexually Assaulted Maid As A Teen",
+    "3":"Lindsey Graham Vows To Nancy Pelosi, House Democrats: 'No Wall Money, No Deal'",
+    "4":"Rand Paul Praises Trump's Syria Pullout: 'These People' Should 'Fight For Themselves'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The court declined to block a grand jury subpoena against the foreign-owned firm, a reported target of the special counsel probe.",
+    "1":"The president's steel and aluminum tariffs are \"killing\" a Michigan company, its chairman says.",
+    "2":"The controversial president says he told a priest that he snuck into his maid's room and \"touched\" her while she slept.",
+    "3":"The South Carolina senator continues to voice his support for President Trump's border wall amid the partial government shutdown.",
+    "4":"\u201cCan they not do anything?\" the senator asked about Syrians."
+  },
+  "authors":{
+    "0":"",
+    "1":"Ed Mazza",
+    "2":"Dominique Mosbergen",
+    "3":"Jenna Amatulli",
+    "4":"Amy Russo"
+  },
+  "date":{
+    "0":"2019-01-09 00:00:00",
+    "1":"2019-01-07 00:00:00",
+    "2":"2018-12-30 00:00:00",
+    "3":"2018-12-28 00:00:00",
+    "4":"2018-12-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"---leg",
+    "4":"syrppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"usabus",
+    "2":"---rel",
+    "3":"---gov",
+    "4":"syrppl"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"190",
+    "2":"010",
+    "3":"051",
+    "4":"111"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":3.4,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "the court",
+      "~jud",
+      "~",
+      "counsel",
+      "~jud",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "michigan",
+      "company",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "priest",
+      "~rel",
+      "~"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "syria",
+      "people",
+      "syrppl",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the court",
+      "the court"
+    ],
+    "1":[
+      "president",
+      "michigan company"
+    ],
+    "2":[
+      "president",
+      "priest"
+    ],
+    "3":[
+      "senator",
+      "president"
+    ],
+    "4":[
+      "syria ... people",
+      "syria ... people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "syria",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "declined ... block"
+    ],
+    "1":[
+      "are ... killing"
+    ],
+    "2":[
+      "says ... told"
+    ],
+    "3":[
+      "continues ... voice ... support"
+    ],
+    "4":[
+      "should ... fight for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "170"
+    ],
+    "1":[
+      "---gov",
+      "usabus",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "---rel",
+      "010"
+    ],
+    "3":[
+      "---leg",
+      "---gov",
+      "051"
+    ],
+    "4":[
+      "syrppl",
+      "syrppl",
+      "111"
+    ]
+  }
+}

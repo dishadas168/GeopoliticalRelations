@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/virgin-australia-pets_us_5b9d4fcbe4b03a1dcc868c67",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/croatia-travel-beauty_us_5b9d4fe1e4b03a1dcc868d47"
+  },
+  "headline":{
+    "0":"Virgin Australia Pets: Airline Introduces Frequent Flier Miles For Our Furry Friends",
+    "1":"Croatia's Beauty Is Overwhelming (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"On Monday, Virgin Australia announced that pets would now be included in the airline's Velocity frequent flier program. In",
+    "1":"Croatia joined the European Union Sunday with the hope of bringing lasting stability to a region which was defined by conflict"
+  },
+  "authors":{
+    "0":"",
+    "1":"Emi Boscamp"
+  },
+  "date":{
+    "0":"2013-07-01 00:00:00",
+    "1":"2013-07-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"hrv"
+  },
+  "actor2":{
+    "0":"aus",
+    "1":"igoeureec"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "australia",
+      "aus",
+      "australia",
+      "airline",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "croatia",
+      "hrv",
+      "croatia",
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "airline",
+      "australia"
+    ],
+    "1":[
+      "croatia",
+      "the european union"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "australia"
+    ],
+    "1":[
+      "croatia",
+      "the european union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "aus ... included in <~bus>"
+    ],
+    "1":[
+      "joined"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "aus",
+      "010"
+    ],
+    "1":[
+      "hrv",
+      "igoeureec",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flamingo-air-cincinnati-a_us_5b9b56c3e4b03a1dcc76bf99"
+  },
+  "headline":{
+    "0":"Flamingo Air, Cincinnati Airline, Offers Mile High Sex To Customers (VIDEO)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The flight, which costs $425 per hour, includes champagne, chocolate and a \"very discreet pilot,\" the Daily News reports"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-02-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usabus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "cincinnati",
+      "airline",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cincinnati airline",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usabus",
+      "---cvl",
+      "030"
+    ]
+  }
+}

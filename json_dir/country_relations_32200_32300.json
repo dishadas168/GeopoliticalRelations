@@ -1,0 +1,354 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-says-qatar-funds-terror-heres-his-record-of-trying-to-get-it-to-fund-him_us_593d6691e4b0c5a35ca06118",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-major-attack_us_593c7ac1e4b0c5a35ca020c8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-major-attack_us_593c7ac1e4b0c5a35ca020c8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/qatar-accused-of-supporting-terrorism-hires-ex-us-attorney-general-john-ashcroft_us_593c313fe4b024026879ef46",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders-movement-peoples-summit-jeremy-corbyn_us_593c05b5e4b024026879cfc6",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/us-soldiers-killed-afghanistan_us_593c19e5e4b0b13f2c6afdfa",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/us-soldiers-killed-afghanistan_us_593c19e5e4b0b13f2c6afdfa",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/emperor-akihito-abdication-bill_us_593a365ae4b024026877e73c"
+  },
+  "headline":{
+    "0":"Trump Says Qatar Funds Terror. Here's His Record Of Trying To Get It To Fund Him.",
+    "1":"Boko Haram Claims Major Attack On Key Northeast Nigerian City",
+    "2":"Boko Haram Claims Major Attack On Key Northeast Nigerian City",
+    "3":"Qatar, Accused Of Supporting Terrorism, Hires Ex-U.S. Attorney General John Ashcroft",
+    "4":"The Bernie Sanders Movement Sees Light At The End Of The Tunnel",
+    "5":"At Least Two American Soldiers Killed, Two Wounded By Afghan Commando",
+    "6":"At Least Two American Soldiers Killed, Two Wounded By Afghan Commando",
+    "7":"Japan Passes Law Allowing Emperor Akihito To Abdicate"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The president is allying himself with those blockading the tiny country, but he's made attempts to secure Qatari investments in the past.",
+    "1":"The attack on Nigeria\u2019s northeastern city of Maiduguri on Wednesday night killed at least 14 people.",
+    "2":"The attack on Nigeria\u2019s northeastern city of Maiduguri on Wednesday night killed at least 14 people.",
+    "3":"U.S. President Donald Trump recently accused Qatar of being a \u201chigh level\u201d sponsor of terrorism.",
+    "4":"Almost a year after the primary ended, the British election is giving activists new hope.",
+    "5":"An Afghan commando opened fire on the American soldiers in eastern Afghanistan, a local official said.",
+    "6":"An Afghan commando opened fire on the American soldiers in eastern Afghanistan, a local official said.",
+    "7":"The abdication is likely to take place at the end of 2018, which would mark three decades on the Chrysanthemum throne for Akihito."
+  },
+  "authors":{
+    "0":"Clayton Swisher, HuffPost",
+    "1":"",
+    "2":"",
+    "3":"Doina Chiacu and Ginger Gibson, Reuters",
+    "4":"Kim Bellware and Daniel Marans",
+    "5":"Ahmad Sultan, Reuters",
+    "6":"Ahmad Sultan, Reuters",
+    "7":"By Elaine Lies, Reuters"
+  },
+  "date":{
+    "0":"2017-06-11 00:00:00",
+    "1":"2017-06-10 00:00:00",
+    "2":"2017-06-10 00:00:00",
+    "3":"2017-06-10 00:00:00",
+    "4":"2017-06-10 00:00:00",
+    "5":"2017-06-10 00:00:00",
+    "6":"2017-06-10 00:00:00",
+    "7":"2017-06-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"ngareb",
+    "2":"nga",
+    "3":"usagov",
+    "4":"gbr",
+    "5":"usamil",
+    "6":"afgmil",
+    "7":"jpn"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"nga",
+    "2":"---ppl",
+    "3":"qat",
+    "4":"---opp",
+    "5":"afgmil",
+    "6":"usamil",
+    "7":"jpngov"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"190",
+    "2":"190",
+    "3":"112",
+    "4":"060",
+    "5":"180",
+    "6":"193",
+    "7":"08"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-10.0,
+    "2":-10.0,
+    "3":-2.0,
+    "4":6.0,
+    "5":-9.0,
+    "6":-10.0,
+    "7":5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "boko haram",
+      "ngareb",
+      "boko",
+      "haram",
+      "nigerian",
+      "nga",
+      "nigeria"
+    ],
+    "2":[
+      "maiduguri",
+      "nga",
+      "nigeria",
+      "nigeria",
+      "nga",
+      "nigeria",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "qatar",
+      "qat",
+      "qatar"
+    ],
+    "4":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "5":[
+      "american",
+      "soldiers",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "afghan",
+      "commando",
+      "afgmil",
+      "afghanistan",
+      "~"
+    ],
+    "6":[
+      "afghan",
+      "commando",
+      "afgmil",
+      "afghanistan",
+      "~",
+      "american",
+      "soldiers",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "7":[
+      "japan",
+      "jpn",
+      "japan",
+      "emperor",
+      "akihito",
+      "jpngov",
+      "~",
+      "akihito"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "boko haram",
+      "nigerian"
+    ],
+    "2":[
+      "maiduguri",
+      "people"
+    ],
+    "3":[
+      "u.s. president",
+      "qatar"
+    ],
+    "4":[
+      "british",
+      "activists"
+    ],
+    "5":[
+      "american soldiers",
+      "afghan commando"
+    ],
+    "6":[
+      "afghan commando",
+      "american soldiers",
+      "afghan commando",
+      "afghanistan"
+    ],
+    "7":[
+      "japan",
+      "emperor akihito"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "boko haram",
+      "nigeria"
+    ],
+    "2":[
+      "nigeria",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "qatar"
+    ],
+    "4":[
+      "united kingdom",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "afghanistan"
+    ],
+    "6":[
+      "afghanistan",
+      "united states of america",
+      "afghanistan",
+      "afghanistan"
+    ],
+    "7":[
+      "japan",
+      "akihito"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is allying"
+    ],
+    "1":[
+      "attack"
+    ],
+    "2":[
+      "killed"
+    ],
+    "3":[
+      "accused"
+    ],
+    "4":[
+      "is ... giving"
+    ],
+    "5":[
+      "wounded"
+    ],
+    "6":[
+      "opened fire",
+      "opened fire"
+    ],
+    "7":[
+      "allowing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "named_terror_group",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "terror",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "050"
+    ],
+    "1":[
+      "ngareb",
+      "nga",
+      "190"
+    ],
+    "2":[
+      "nga",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "usagov",
+      "qat",
+      "112"
+    ],
+    "4":[
+      "gbr",
+      "---opp",
+      "060"
+    ],
+    "5":[
+      "usamil",
+      "afgmil",
+      "180"
+    ],
+    "6":[
+      "afgmil",
+      "usamil",
+      "193",
+      "afgmil",
+      "afg",
+      "193"
+    ],
+    "7":[
+      "jpn",
+      "jpngov",
+      "08"
+    ]
+  }
+}

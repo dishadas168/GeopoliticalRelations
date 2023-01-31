@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/naturopathic-doctors_us_5b9ca118e4b03a1dcc806ec3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/talking-to-kids-about-death_us_5b9ca4ebe4b03a1dcc8083aa"
+  },
+  "headline":{
+    "0":"Naturopathic Doctors Fill in Gap in Physician Shortage",
+    "1":"Talking to Young Children About the Death of Young Children"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"With the current and impending shortage of MDs and the increasing openness to natural medicine in the general population, NDs should be high on the list of providers to bridge the gap in our imminent provider shortage.",
+    "1":"It has been many years since my own very young son died, but we think of him often, especially on gray days like today, when he was born. We have created a living legacy to him in how we talked to our children."
+  },
+  "authors":{
+    "0":"Amy Rothenberg ND, Contributor\nNaturopathic physician, writer, teacher, advocate, mother",
+    "1":"Ellen Galinsky, Contributor\nPresident, Families and Work Institute, Author, \"Mind in the M..."
+  },
+  "date":{
+    "0":"2012-12-18 00:00:00",
+    "1":"2012-12-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "doctors",
+      "~hlh",
+      "~",
+      "physician",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctors",
+      "doctors"
+    ],
+    "1":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fill"
+    ],
+    "1":[
+      "talking"
+    ]
+  },
+  "issues":{
+    "0":[
+      "shortage",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "08"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

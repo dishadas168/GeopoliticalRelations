@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mr-netanyahu-goes-to-moscow-high-stakes-are-on-the_us_58bc3642e4b0fa65b844b48f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chris-steele-trump-dossier_us_58ba650de4b0b9989417d778",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-private-religious-schools_us_58b9c6cfe4b05cf0f4007244"
+  },
+  "headline":{
+    "0":"Mr. Netanyahu Goes To Moscow -- High Stakes Are On The Line",
+    "1":"U.S. Politicians Seek To Quiz British Spy Who Wrote Russian Dossier On Donald Trump",
+    "2":"Trump Makes His First Visit To A School As President, And It's A Private Religious One"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"In the old Soviet Union, the very mention of the name Israel was tantamount to blasphemy of the highest order. Not any more",
+    "1":"Former MI6 operative Christopher Steele likely won't travel to U.S. because of security concerns.",
+    "2":"President Trump has consistently emphasized school choice plans that give children the option to attend private schools."
+  },
+  "authors":{
+    "0":"Josef Olmert, ContributorProfessor Middle Eastern Studies",
+    "1":"Mary Papenfuss",
+    "2":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2017-03-05 00:00:00",
+    "1":"2017-03-04 00:00:00",
+    "2":"2017-03-04 00:00:00"
+  },
+  "actor1":{
+    "0":"isrgov",
+    "1":"---pty",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"gbrspy",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"030",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "moscow",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "politicians",
+      "~pty",
+      "~",
+      "british",
+      "spy",
+      "gbrspy",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "netanyahu",
+      "moscow"
+    ],
+    "1":[
+      "politicians",
+      "british spy"
+    ],
+    "2":[
+      "president",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "benjamin netanyahu",
+      "russian federation"
+    ],
+    "1":[
+      "---",
+      "united kingdom"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "goes"
+    ],
+    "1":[
+      "seek"
+    ],
+    "2":[
+      "emphasized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "isrgov",
+      "rus",
+      "040"
+    ],
+    "1":[
+      "---pty",
+      "gbrspy",
+      "030"
+    ],
+    "2":[
+      "---gov",
+      "---edu",
+      "010"
+    ]
+  }
+}

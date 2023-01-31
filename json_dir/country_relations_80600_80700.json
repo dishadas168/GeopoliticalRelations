@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scott-johansen-utah-case_us_564a8764e4b045bf3df09b26",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/student-debt-relief-edmc-settlement_us_564a6006e4b08cda348a47aa",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-jim-obergefell_us_564a0e62e4b045bf3df00d6c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/use-of-force-statistics-doj_us_564a1d4ae4b06037734a24ae"
+  },
+  "headline":{
+    "0":"Utah Judge Scott Johansen Removes Himself From Gay Foster Parent Case",
+    "1":"How The Obama Administration Is Making It Harder To Shed Student Debt",
+    "2":"The Man Who Helped Make Marriage Equality Legal Endorses Hillary Clinton",
+    "3":"Black Americans Twice As Likely To Report Force In Last Police Encounter"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"A Utah judge who had ordered a baby girl taken away from her lesbian foster mothers and placed in a heterosexual home removed",
+    "1":"\"This settlement provides zero justice for the people who have been harmed by EDMC.\"",
+    "2":"Jim Obergefell was the lead plaintiff in the landmark Supreme Court case.",
+    "3":"The feds will now track how police departments handle citizen complaints."
+  },
+  "authors":{
+    "0":"",
+    "1":"Shahien Nasiripour",
+    "2":"Amanda Terkel",
+    "3":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2015-11-17 00:00:00",
+    "1":"2015-11-17 00:00:00",
+    "2":"2015-11-16 00:00:00",
+    "3":"2015-11-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usajud",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---cop"
+  },
+  "actor2":{
+    "0":"usajud",
+    "1":"---ppl",
+    "2":"usaeli",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"060",
+    "2":"051",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.0,
+    "2":3.4,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "utah",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "settlement",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "citizen",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "utah judge",
+      "utah judge"
+    ],
+    "1":[
+      "settlement",
+      "people"
+    ],
+    "2":[
+      "man",
+      "hillary clinton"
+    ],
+    "3":[
+      "police",
+      "citizen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "hillary clinton"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "removes"
+    ],
+    "1":[
+      "provides"
+    ],
+    "2":[
+      "make ... endorses"
+    ],
+    "3":[
+      "handle"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usajud",
+      "usajud",
+      "174"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "---ppl",
+      "usaeli",
+      "051"
+    ],
+    "3":[
+      "---cop",
+      "---cvl",
+      "060"
+    ]
+  }
+}

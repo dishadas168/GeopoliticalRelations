@@ -1,0 +1,139 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-gathering-ireland-cynical_us_5b9ce757e4b03a1dcc82d92a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/beautiful-paris-photos-reflections-joanna-lemanska_us_5bb24dfee4b0171db69f1b5a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/children-hate-crime_us_5bafb22ce4b0ad76926041c6"
+  },
+  "headline":{
+    "0":"The Gathering: Ireland's Cynical Play For Irish-Americans Money",
+    "1":"Paris Photos By Joanna Lemanska Capture Serene Reflections Of The City of Light (PHOTOS)",
+    "2":"What Happened When Children Were To Blame For A Hate Crime"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"CULTURE & ARTS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"For years America has viewed Ireland through a veil of fond remembrance.",
+    "1":"\"First thing that I do when a see a potentially interesting reflective surface, like puddle, window, floor, is to look around",
+    "2":"Even children in this city act first because they risk being targeted themselves. But aggression turns to hate when action supercedes rationalization, analysis, and compassion. Knowing that, we must respond to hate with what it lacks: understanding."
+  },
+  "authors":{
+    "0":"Alice Carey, Contributor\nI am a writer and Advanced Style model",
+    "1":"",
+    "2":"J.W. Harvey, Contributor\nShapeshifting creative"
+  },
+  "date":{
+    "0":"2013-03-16 00:00:00",
+    "1":"2013-03-16 00:00:00",
+    "2":"2013-03-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"fra",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"irl",
+    "1":"fra",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "ireland",
+      "irl",
+      "ireland"
+    ],
+    "1":[
+      "paris",
+      "fra",
+      "france",
+      "city of light",
+      "fra",
+      "france"
+    ],
+    "2":[
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "ireland"
+    ],
+    "1":[
+      "paris",
+      "paris"
+    ],
+    "2":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "ireland"
+    ],
+    "1":[
+      "france",
+      "france"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has viewed"
+    ],
+    "1":[
+      "capture"
+    ],
+    "2":[
+      "act <~cvl> ... targeted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "irl",
+      "010"
+    ],
+    "1":[
+      "fra",
+      "fra",
+      "171"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

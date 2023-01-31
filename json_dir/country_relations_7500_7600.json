@@ -1,0 +1,266 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/utah-hate-crime-laws_n_5c058719e4b066b5cfa4b005",
+    "1":"https:\/\/www.huffpost.com\/entry\/joe-biden-donald-trump-charlatans-demagogues_n_5c00ec51e4b0249dce737b72",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-administration-wheeler-climate-change-study_n_5bfeebcde4b0388c1770ce67",
+    "3":"https:\/\/www.huffpost.com\/entry\/paul-manafort-julian-assange-giuliani_n_5bfd975ae4b03b230fa7b70d",
+    "4":"https:\/\/www.huffpost.com\/entry\/satanic-church-settles-sabrina-lawsuit-netflix-warner-bros_n_5bf5ed4de4b0771fb6b5b6e6",
+    "5":"https:\/\/www.huffpost.com\/entry\/us-mexico-border-troops-caravan_n_5bf337d2e4b0376c9e67e213"
+  },
+  "headline":{
+    "0":"Utah's Hate Crime Law Is 'Unenforceable.' A Brutal Attack In Salt Lake City Could Change That.",
+    "1":"Joe Biden Blasts Trump Administration's \u2018Charlatans And Demagogues\u2019",
+    "2":"Trump Administration May Reshape Next Federal Climate Report: EPA Chief",
+    "3":"Giuliani Says Trump Doesn't Know If Paul Manafort Met With WikiLeaks\u2019 Julian Assange",
+    "4":"Satanic Temple Settles Lawsuit With Netflix Over 'Chilling Adventures Of Sabrina' Statue",
+    "5":"Troops Sent To U.S.-Mexico Border Under Anti-Caravan Push To Start Heading Home"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENVIRONMENT",
+    "3":"POLITICS",
+    "4":"ENTERTAINMENT",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The recent beating of an 18-year-old Latino man and his father has drawn the debate over Utah's weak hate crime statute back into the spotlight.",
+    "1":"\u201cThis is a moment to lead boldly, not to coddle dictators from the Philippines to Russia,\" said the former vice president.",
+    "2":"The EPA's Andrew Wheeler said he \"wouldn't be surprised if the Obama administration told the report's authors to take a look at the worst case scenario.\"",
+    "3":"Trump\u2019s lawyer says Manafort\u2019s lawyers told him the March 2016 meeting reported by a British newspaper never happened, but that Trump has no way of knowing.",
+    "4":"The religious organization sued Netflix and Warner Bros Entertainment for misusing its goat-headed deity.",
+    "5":"President Trump launched a high-profile troop deployment ahead of the midterms. Now it's winding down."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Lee Moran",
+    "2":"Sara Boboltz and Alexander C. Kaufman",
+    "3":"S.V. Date",
+    "4":"",
+    "5":"Elise Foley"
+  },
+  "date":{
+    "0":"2018-12-05 00:00:00",
+    "1":"2018-11-30 00:00:00",
+    "2":"2018-11-28 00:00:00",
+    "3":"2018-11-27 00:00:00",
+    "4":"2018-11-22 00:00:00",
+    "5":"2018-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov",
+    "2":"usagovenv",
+    "3":"---jud",
+    "4":"---rel",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"usagovenv",
+    "3":"gbrmedjud",
+    "4":"mncusa",
+    "5":"---mil"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"190",
+    "2":"010",
+    "3":"010",
+    "4":"173",
+    "5":"154"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":0.0,
+    "4":-5.0,
+    "5":-7.2
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "utah",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "lawyer",
+      "~jud",
+      "~",
+      "lawyers",
+      "~jud",
+      "~",
+      "british",
+      "newspaper",
+      "gbrmed",
+      "united",
+      "kingdom",
+      "~",
+      "british",
+      "newspaper",
+      "gbrmed",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "4":[
+      "religious organization",
+      "~rel",
+      "~",
+      "netflix",
+      "mncusa",
+      "netflix"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "troop",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "utah"
+    ],
+    "1":[
+      "joe biden",
+      "administration"
+    ],
+    "2":[
+      "epa",
+      "epa"
+    ],
+    "3":[
+      "lawyer",
+      "---"
+    ],
+    "4":[
+      "religious organization",
+      "netflix"
+    ],
+    "5":[
+      "president",
+      "troop"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "joe biden",
+      "---"
+    ],
+    "2":[
+      "environmental protection agency",
+      "environmental protection agency"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "netflix"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has <['drawn',> <'back']>"
+    ],
+    "1":[
+      "blasts"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "says ... told"
+    ],
+    "4":[
+      "sued ... for"
+    ],
+    "5":[
+      "launched ... deployment"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "08"
+    ],
+    "1":[
+      "usagov",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "usagovenv",
+      "usagovenv",
+      "010"
+    ],
+    "3":[
+      "---jud",
+      "gbrmedjud",
+      "010"
+    ],
+    "4":[
+      "---rel",
+      "mncusa",
+      "173"
+    ],
+    "5":[
+      "---gov",
+      "---mil",
+      "154"
+    ]
+  }
+}

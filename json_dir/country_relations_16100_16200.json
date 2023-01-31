@@ -1,0 +1,291 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hungary-viktor-orban-muslim-invaders_us_5a53b6a3e4b003133ecb014c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/we-need-more-oscar-hopefuls-like-get-out-not-another_us_5a52275ae4b0ee59d41c0b9d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/james-damore-google-lawsuit_us_5a53c4f4e4b0efe47ebb9cc9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-mississippi-anti-queer-law_us_5a53c993e4b003133ecb256e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-national-anthem_us_5a541ff3e4b003133ecb7d59",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/these-8-asian-american-movement-stories-from-the-past-year-show-us-the-way-forward_us_5a53d008e4b01e1a4b187e47",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/cliven-bundy-case_us_5a53bb2de4b0efe47ebb8b68"
+  },
+  "headline":{
+    "0":"Hungary's Leader Says Refugees Should Be Called 'Muslim Invaders'",
+    "1":"We Need More Oscar Hopefuls Like \u2018Get Out,\u2019 Not Another \u2018Mudbound\u2019",
+    "2":"Former Google Engineer Suing Company Over Perceived Discrimination Against White Men",
+    "3":"Supreme Court Refuses To Hear Early Challenge To Mississippi's Anti-Queer Law",
+    "4":"Trump Didn't Sing All The Words To The National Anthem At National Championship Game",
+    "5":"These 8 Asian American Movement Stories From The Past Year Show Us The Way Forward",
+    "6":"Judge Ends Case Over Armed Standoff In Nevada Grazing Dispute"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"BLACK VOICES",
+    "2":"TECH",
+    "3":"QUEER VOICES",
+    "4":"POLITICS",
+    "5":"WORLD NEWS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"With elections just over the horizon, Viktor Orban is ramping up his attacks on migration.",
+    "1":"Jordan Peele's film conveyed the true experience of blackness in the U.S.",
+    "2":"The writer of a controversial Google memo is accusing the company of silencing conservative viewpoints.",
+    "3":"Businesses and government workers who want to deny service to LGBTQ people for religious reasons can go right ahead.",
+    "4":"The president has focused on the anthem, attacking professional athletes who kneel in protest during the song.",
+    "5":"On several fronts, Asian American activists imposed themselves upon 2017. Here's how to continue their efforts.",
+    "6":"The judge cited multiple willful evidence violations by prosecutors in dropping the case."
+  },
+  "authors":{
+    "0":"Nick Robins-Early",
+    "1":"Jeremy Helligar, ContributorJournalist, blogger and author, \u2018Is It True What They Say Abou...",
+    "2":"Antonia Blumberg",
+    "3":"Carol Kuruvilla",
+    "4":"Doha Madani",
+    "5":"Mark Tseng-Putterman, ContributorWriter, scholar, Ph.D student in American Studies at Brown Uni...",
+    "6":"John L. Smith, Reuters"
+  },
+  "date":{
+    "0":"2018-01-09 00:00:00",
+    "1":"2018-01-09 00:00:00",
+    "2":"2018-01-09 00:00:00",
+    "3":"2018-01-09 00:00:00",
+    "4":"2018-01-09 00:00:00",
+    "5":"2018-01-08 00:00:00",
+    "6":"2018-01-08 00:00:00"
+  },
+  "actor1":{
+    "0":"hun",
+    "1":"jor",
+    "2":"mncusamed",
+    "3":"---jud",
+    "4":"---gov",
+    "5":"---opp",
+    "6":"---jud"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"usa",
+    "2":"---bus",
+    "3":"usa",
+    "4":"---cvl",
+    "5":"---opp",
+    "6":"---jud"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"010",
+    "2":"112",
+    "3":"040",
+    "4":"190",
+    "5":"170",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":-2.0,
+    "3":1.0,
+    "4":-10.0,
+    "5":-7.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "hungary",
+      "hun",
+      "hungary",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "jordan",
+      "jor",
+      "jordan",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "google",
+      "mncusamed",
+      "google",
+      "writer",
+      "mncusamed",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "supreme court",
+      "~jud",
+      "~",
+      "mississippi",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "athletes",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "6":[
+      "judge",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hungary",
+      "refugees"
+    ],
+    "1":[
+      "jordan",
+      "<u.s.>"
+    ],
+    "2":[
+      "google",
+      "company"
+    ],
+    "3":[
+      "supreme court",
+      "mississippi"
+    ],
+    "4":[
+      "president",
+      "athletes"
+    ],
+    "5":[
+      "activists",
+      "activists"
+    ],
+    "6":[
+      "judge",
+      "judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hungary",
+      "---"
+    ],
+    "1":[
+      "jordan",
+      "united states of america"
+    ],
+    "2":[
+      "google",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~ref> ... called"
+    ],
+    "1":[
+      "conveyed"
+    ],
+    "2":[
+      "is accusing"
+    ],
+    "3":[
+      "refuses ... hear"
+    ],
+    "4":[
+      "has ... attacking"
+    ],
+    "5":[
+      "imposed"
+    ],
+    "6":[
+      "cited"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "activism",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "hun",
+      "---ref",
+      "041"
+    ],
+    "1":[
+      "jor",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "mncusamed",
+      "---bus",
+      "112"
+    ],
+    "3":[
+      "---jud",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "190"
+    ],
+    "5":[
+      "---opp",
+      "---opp",
+      "170"
+    ],
+    "6":[
+      "---jud",
+      "---jud",
+      "010"
+    ]
+  }
+}

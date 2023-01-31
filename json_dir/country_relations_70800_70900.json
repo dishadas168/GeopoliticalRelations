@@ -1,0 +1,301 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/news\/morning-mix\/wp\/2016\/03\/14\/trump-trump-trump-yells-attacker-as-he-beats-hispanic-man-muslim-student\/?hpid=hp_no-name_morning-mix-story-g-duplicate:homepage\/story",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-heroin_us_56e6f98ee4b0860f99d9c920",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.phillyvoice.com\/judge-considers-resentencing-motion-kathryn-knott\/",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/germanwings-andreas-lubitz-hospital-doctor_us_56e67ce9e4b0b25c91825a6a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/islamic-state-fighter-from-us-reportedly-in-custody-in-iraq_us_56e6a0e6e4b0860f99d97407",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/kansas-city-pepper-spray-trump_us_56e51dc1e4b065e2e3d637f1",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/hundreds-of-thousands-pour-onto-brazilian-streets-to-demand-presidents-exit_us_56e5e479e4b0b25c91824ccc"
+  },
+  "headline":{
+    "0":"White Man Allegedly Yelled 'Trump' As He Beat Up Muslim And Latino Men",
+    "1":"Bill Clinton Gets Emotional Talking About Friends Lost To Drug Addiction",
+    "2":"Judge Refuses To Reconsider Jail Sentence For Philly Gay Basher",
+    "3":"Doctor Urged Psychiatric Treatment For Germanwings Co-Pilot 2 Weeks Before Crash",
+    "4":"Islamic State Fighter From U.S. Reportedly In Custody In Iraq",
+    "5":"Kansas City Police Pepper-Spray Protesters At Donald Trump Rally",
+    "6":"Hundreds Of Thousands Pour Onto Brazilian Streets To Demand President's Exit"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"QUEER VOICES",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"It was just another late Friday night at Wichita State University \u2014 so late that it might have been early Saturday.",
+    "1":"A group of women stopped him to talk about addiction when he was campaigning in Ohio.",
+    "2":"Judge Roxanne Covington on Monday denied a request to reconsider the sentence of Kathryn Knott, the Bucks County woman convicted",
+    "3":"But the physician didn't inform aviation authorities or the airline about Andreas Lubitz's illness, a report has found.",
+    "4":"WASHINGTON\/ERBIL, Iraq March 14 (Reuters) - An American fighting for Islamic State was taken into custody in northern Iraq",
+    "5":"\"When you look at the video, it looks bad,\" police Chief Darryl Fort\u00e9 told reporters.",
+    "6":"Polling firm Datafolha estimated 500,000 demonstrators in Sao Paulo on Sunday, the biggest rally in the city's history."
+  },
+  "authors":{
+    "0":"",
+    "1":"Amanda Terkel",
+    "2":"",
+    "3":"",
+    "4":"",
+    "5":"Peter Andrew Hart",
+    "6":"Daniel Flynn and Alonso Soto, Reuters"
+  },
+  "date":{
+    "0":"2016-03-14 00:00:00",
+    "1":"2016-03-14 00:00:00",
+    "2":"2016-03-14 00:00:00",
+    "3":"2016-03-14 00:00:00",
+    "4":"2016-03-14 00:00:00",
+    "5":"2016-03-13 00:00:00",
+    "6":"2016-03-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---jud",
+    "3":"---hlh",
+    "4":"irq",
+    "5":"---cop",
+    "6":"bra"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"---cvl",
+    "3":"---govbus",
+    "4":"usamus",
+    "5":"---med",
+    "6":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"100",
+    "2":"040",
+    "3":"010",
+    "4":"173",
+    "5":"010",
+    "6":"100"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0,
+    "2":1.0,
+    "3":0.0,
+    "4":-5.0,
+    "5":0.0,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "physician",
+      "~hlh",
+      "~",
+      "authorities",
+      "airline",
+      "~govbus",
+      "~",
+      "~"
+    ],
+    "4":[
+      "islamic",
+      "~mus",
+      "~",
+      "american",
+      "islamic",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "5":[
+      "police chief",
+      "~cop",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "6":[
+      "brazilian",
+      "bra",
+      "brazil",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "women",
+      "ohio"
+    ],
+    "2":[
+      "judge",
+      "woman"
+    ],
+    "3":[
+      "physician",
+      "authorities ... airline"
+    ],
+    "4":[
+      "iraq",
+      "american ... islamic"
+    ],
+    "5":[
+      "police chief",
+      "reporters"
+    ],
+    "6":[
+      "brazilian",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "iraq",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "brazil",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "beat"
+    ],
+    "1":[
+      "stopped ... talk ... campaigning"
+    ],
+    "2":[
+      "denied ... request ... reconsider"
+    ],
+    "3":[
+      "did ... inform"
+    ],
+    "4":[
+      "<usamus> ... taken into <&detention>"
+    ],
+    "5":[
+      "told"
+    ],
+    "6":[
+      "to ... demand"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "100"
+    ],
+    "2":[
+      "---jud",
+      "---cvl",
+      "040"
+    ],
+    "3":[
+      "---hlh",
+      "---govbus",
+      "010"
+    ],
+    "4":[
+      "irq",
+      "usamus",
+      "173"
+    ],
+    "5":[
+      "---cop",
+      "---med",
+      "010"
+    ],
+    "6":[
+      "bra",
+      "---gov",
+      "100"
+    ]
+  }
+}

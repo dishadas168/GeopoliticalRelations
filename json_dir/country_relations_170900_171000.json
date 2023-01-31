@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bill-maher-and-howard-dean-defend-obama-inauguration-speech_us_5bad148ae4b04234e8568e28",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/youth-unemployment-demand_us_5bb1a379e4b01857b7092560"
+  },
+  "headline":{
+    "0":"Bill Maher & Howard Dean Defend Obama Inauguration From GOP Panelists (VIDEO)",
+    "1":"Youth Unemployment Demands Action From Businesses around the World"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"\"Well, he talked about right-wing Republicans...\" Avella said. Watch the clip from Friday's \"Real Time\" above, in which the",
+    "1":"Certainly big business can't bear all of the blame about the unemployment rate among youth, but organizations must begin to invest time and effort into candidates that have promise but may not have 100 percent of the skills or the training that are required."
+  },
+  "authors":{
+    "0":"Ross Luippold",
+    "1":"Joyce Russell, Contributor\nPresident, Adecco Staffing"
+  },
+  "date":{
+    "0":"2013-01-26 00:00:00",
+    "1":"2013-01-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"frareb"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "dean",
+      "~edu",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "youth",
+      "frareb",
+      "gazteriak",
+      "businesses",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dean",
+      "obama"
+    ],
+    "1":[
+      "youth",
+      "businesses"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "gazteriak",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "defend"
+    ],
+    "1":[
+      "demands"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "unemployment",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usagov",
+      "074"
+    ],
+    "1":[
+      "frareb",
+      "---bus",
+      "100"
+    ]
+  }
+}

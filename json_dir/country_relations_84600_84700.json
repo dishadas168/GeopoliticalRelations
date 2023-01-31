@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-reaches-long-sought-agreement-on-criminal-justice-overhaul_us_560c5701e4b0dd85030aa66b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trey-gowdy-retirement_us_560bf3d5e4b0768126fff855"
+  },
+  "headline":{
+    "0":"Senate Reaches Long-Sought Agreement On Criminal Justice Overhaul",
+    "1":"Trey Gowdy Aide Plays Down Report That Congressman Will Leave Congress"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"WASHINGTON (AP) \u2014 A bipartisan group of senators has reached a long-sought agreement on changes to the criminal justice system",
+    "1":"Still, she left the door open to what Gowdy will do in 2016."
+  },
+  "authors":{
+    "0":"Stephen Ohlemacher, AP",
+    "1":"Sam Levine"
+  },
+  "date":{
+    "0":"2015-09-30 00:00:00",
+    "1":"2015-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---leg"
+  },
+  "actor2":{
+    "0":"---crmjud",
+    "1":"---leg"
+  },
+  "event_code":{
+    "0":"037",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "senators",
+      "~leg",
+      "~",
+      "criminal",
+      "justice system",
+      "~crmjud",
+      "~",
+      "~",
+      "criminal",
+      "justice system",
+      "~crmjud",
+      "~",
+      "~",
+      "criminal",
+      "justice system",
+      "~crmjud",
+      "~",
+      "~"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "criminal justice system"
+    ],
+    "1":[
+      "congressman",
+      "congressman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has reached <&treaty>"
+    ],
+    "1":[
+      "will leave"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---crmjud",
+      "037"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "040"
+    ]
+  }
+}

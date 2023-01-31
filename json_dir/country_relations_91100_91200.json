@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/greek-protesters-clash-with-police-as-parliament-debates-austerity-bill_us_55a6b97ce4b0c5f0322c3209",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/teen-teaches-english-to-migrant-workers_us_55a414efe4b0a47ac15d126b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/journalists-foia-policy_us_55a422a6e4b0a47ac15d238e"
+  },
+  "headline":{
+    "0":"Greek Protesters Clash With Police As Parliament Debates Austerity Bill",
+    "1":"Migrant Laborers In California Get Free English Classes From Local Charitable Teen",
+    "2":"Journalists Want Transparency, But Not Right Away"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"GOOD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"ATHENS, July 15 (Reuters) - Protesters threw petrol bombs at Greek police outside parliament in Athens on Wednesday as lawmakers",
+    "1":"A young woman is breaking down language barriers to give hardworking people a fair hand at a good job. California teen",
+    "2":"Reporters clash with open government advocates over the merits of a new FOIA policy."
+  },
+  "authors":{
+    "0":"Renee Maltezou and Angeliki Koutantou, Reuters",
+    "1":"Cameron Keady",
+    "2":"Alexander Howard"
+  },
+  "date":{
+    "0":"2015-07-15 00:00:00",
+    "1":"2015-07-14 00:00:00",
+    "2":"2015-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---cvl",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"grccopleg",
+    "1":"---ppl",
+    "2":"---govjud"
+  },
+  "event_code":{
+    "0":"183",
+    "1":"060",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "athens",
+      "grc",
+      "greece",
+      "parliament",
+      "grcleg",
+      "~",
+      "greek",
+      "police",
+      "grccop",
+      "greece",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "reporters",
+      "~med",
+      "~",
+      "government",
+      "advocates",
+      "~govjud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "---"
+    ],
+    "1":[
+      "woman",
+      "people"
+    ],
+    "2":[
+      "reporters",
+      "government advocates"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "threw <&weapon>"
+    ],
+    "1":[
+      "is ... give"
+    ],
+    "2":[
+      "clash"
+    ]
+  },
+  "issues":{
+    "0":[
+      "oil",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "grccopleg",
+      "183"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "---govjud",
+      "190"
+    ]
+  }
+}

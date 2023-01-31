@@ -1,0 +1,179 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/new-poll-of-cuban-america_b_5481370.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/man-gives-religion-a-bad-_1_b_5482660.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brandon-grant-pride_n_5499541.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/post_7824_b_5499455.html"
+  },
+  "headline":{
+    "0":"New Poll of Cuban Americans Confirms Growing Support for Engagement With Cuba",
+    "1":"Man Gives Religion a Bad Name",
+    "2":"Brandon Grant, Vice President of Impulse Group, Shares What Pride Means To Him",
+    "3":"Anti-Apartheid Archbishop Calls Presbyterians to Back Divestment from Israeli Occupation"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION",
+    "2":"QUEER VOICES",
+    "3":"RELIGION"
+  },
+  "short_description":{
+    "0":"A bold U.S. president now has an opportunity to establish a legacy no less historic than Nixon's opening to China, and to do so at relatively little political cost.",
+    "1":"",
+    "2":"",
+    "3":"Archbishop Desmond Tutu, the leader who more than any other human being alive is associated with the successful use of divestment to help overturn apartheid in South Africa, is calling on Presbyterians to choose divestment from the Israeli occupation."
+  },
+  "authors":{
+    "0":"William M. LeoGrande, ContributorProfessor at American University in Washington, D.C.",
+    "1":"Annie Stein, ContributorAuthor",
+    "2":"Noah Michelson",
+    "3":"Robert Naiman, ContributorPolicy Director, Just Foreign Policy"
+  },
+  "date":{
+    "0":"2014-06-17 00:00:00",
+    "1":"2014-06-17 00:00:00",
+    "2":"2014-06-16 00:00:00",
+    "3":"2014-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"cub",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"isr"
+  },
+  "actor2":{
+    "0":"cub",
+    "1":"---rel",
+    "2":"---gov",
+    "3":"---chr"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"060",
+    "2":"030",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":6.0,
+    "2":4.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "cuban",
+      "cub",
+      "cuba",
+      "cuba",
+      "cub",
+      "cuba"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "religion",
+      "~rel",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "archbishop",
+      "~chr",
+      "~",
+      "israeli",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cuban",
+      "cuban"
+    ],
+    "1":[
+      "man",
+      "religion"
+    ],
+    "2":[
+      "president",
+      "president"
+    ],
+    "3":[
+      "israeli",
+      "archbishop",
+      "archbishop",
+      "israeli"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cuba",
+      "cuba"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "israel",
+      "---",
+      "---",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "confirms ... support"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "shares ... means"
+    ],
+    "3":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "cub",
+      "cub",
+      "051"
+    ],
+    "1":[
+      "---ppl",
+      "---rel",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "030"
+    ],
+    "3":[
+      "isr",
+      "---chr",
+      "041",
+      "---chr",
+      "isr",
+      "041"
+    ]
+  }
+}

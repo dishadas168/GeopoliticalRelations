@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/workers-pay-company-performance_us_5bb2fcb8e4b0480ca66082f5"
+  },
+  "headline":{
+    "0":"90 Percent Of Employers Tie Workers' Pay To Company Performance"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Caterpillar will not break any profit records in 2013. Cancellations from mining customers have weighed on sales and profits"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-09-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---buslab"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "employers",
+      "workers",
+      "~buslab",
+      "~",
+      "~",
+      "employers",
+      "workers",
+      "~buslab",
+      "~",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employers ... workers",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pay"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---buslab",
+      "---bus",
+      "061"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ohio-early-voting-supreme-court_us_57d715a6e4b0aa4b722bef0a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/anti-muslim-attacks-eid-al-adha_us_57d80602e4b0fbd4b7bb650c"
+  },
+  "headline":{
+    "0":"Supreme Court Won't Rescue 'Golden Week' Of Early Voting In Ohio",
+    "1":"For American Muslims, A Horrifying Runup To One Of Islam's Holiest Holidays"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Ohio Democrats wanted the court to reinstate a six-day period that allowed voters to register and vote at the same time.",
+    "1":"Among multiple Islamophobic crimes, a man set a Muslim woman on fire in New York."
+  },
+  "authors":{
+    "0":"Cristian Farias",
+    "1":"Christopher Mathias"
+  },
+  "date":{
+    "0":"2016-09-13 00:00:00",
+    "1":"2016-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"usamuscvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"180"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "muslim",
+      "woman",
+      "~muscvl",
+      "~",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ohio",
+      "the court"
+    ],
+    "1":[
+      "man",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted"
+    ],
+    "1":[
+      "set ... on fire"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---jud",
+      "030"
+    ],
+    "1":[
+      "---ppl",
+      "usamuscvl",
+      "180"
+    ]
+  }
+}

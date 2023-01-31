@@ -1,0 +1,347 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/native-american-electoral-college_us_585af37ae4b0d9a5945701a1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syrian-army-all-of-aleppo_us_585c21a0e4b0d9a594578c79",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/david-clarke-jail-deaths-milwaukee_us_585b0041e4b0d9a594570f5a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-muslim-schools-vouchers_us_585acf84e4b0de3a08f3e36f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/woman-targeted-in-islamophobic-attack-delivers-powerful-message-to-her-assailant_us_585bd7dce4b0de3a08f43477",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/pontrey-oneal-jones-stab-stepmom-cowboys_us_585c1d12e4b0de3a08f4840f",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/after-my-injury-its-time-to-head-back-to-school_us_585c27f1e4b0de3a08f49b39",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/the-christian-state-captures-the-white-house_us_585c50eae4b04d7df167ce6e"
+  },
+  "headline":{
+    "0":"Native American Activist Gets Historic Vote In Electoral College",
+    "1":"Syrian Army Has Taken Back All Of Aleppo",
+    "2":"Feds Consider Civil Rights Probe Of Deadly Jail Run By Trump Ally Sheriff David Clarke",
+    "3":"How Trump's Education Department Could Actually Help Some Muslim Schools",
+    "4":"Woman Targeted In Islamophobic Attack Delivers Powerful Message To Her Assailant",
+    "5":"Man Killed Stepmom While She Watched TV, Police Say",
+    "6":"After My Injury, It\u2019s Time To Head Back To School",
+    "7":"The \u201cChristian State\u201d Captures The White House"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"RELIGION",
+    "5":"CRIME",
+    "6":"COLLEGE",
+    "7":"RELIGION"
+  },
+  "short_description":{
+    "0":"A rogue Democratic elector carried through on promise not to vote for Hillary Clinton",
+    "1":"The last group of rebels were evacuated Thursday, state television said.",
+    "2":"Four people -- including a newborn baby -- have died at Milwaukee County Jail since April.",
+    "3":"It\u2019s definitely a \u201cmixed bag,\u201d though.",
+    "4":"\"It doesn\u2019t matter what\u2019s on my head. It doesn\u2019t matter the color of my skin,\" she said in court. \"We\u2019re fighting for the same rights.\"",
+    "5":"The suspect allegedly planned to break his sister's neck before setting sights on his stepmother.",
+    "6":"A lot of people these days take a gap year between high school and college to learn, explore, and mature. Some take a year",
+    "7":"Though only 25.4 percent of U.S. Christians identify as evangelicals, the evangelical impact is profound and far-reaching"
+  },
+  "authors":{
+    "0":"Michael McLaughlin",
+    "1":"",
+    "2":"Ryan J. Reilly",
+    "3":"Rebecca Klein",
+    "4":"Hayley Miller",
+    "5":"David Moye",
+    "6":"Ian Burkhart, ContributorStudent, The Ohio State University",
+    "7":"Tim Rymel, M.Ed., ContributorAuthor | Educator | Dad"
+  },
+  "date":{
+    "0":"2016-12-22 00:00:00",
+    "1":"2016-12-22 00:00:00",
+    "2":"2016-12-22 00:00:00",
+    "3":"2016-12-22 00:00:00",
+    "4":"2016-12-22 00:00:00",
+    "5":"2016-12-22 00:00:00",
+    "6":"2016-12-22 00:00:00",
+    "7":"2016-12-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"syrmil",
+    "2":"---ppl",
+    "3":"---govedu",
+    "4":"---cvl",
+    "5":"---cop",
+    "6":"---ppl",
+    "7":"---chr"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"syr",
+    "2":"usa",
+    "3":"---musedu",
+    "4":"---uaf",
+    "5":"---med",
+    "6":"---edu",
+    "7":"usagov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"192",
+    "2":"190",
+    "3":"070",
+    "4":"010",
+    "5":"010",
+    "6":"171",
+    "7":"171"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.5,
+    "2":-10.0,
+    "3":7.0,
+    "4":0.0,
+    "5":0.0,
+    "6":-9.2,
+    "7":-9.2
+  },
+  "nouns":{
+    "0":[
+      "elector",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "syrian",
+      "army",
+      "syrmil",
+      "syria",
+      "~",
+      "aleppo",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "milwaukee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "education department",
+      "~govedu",
+      "~",
+      "muslim",
+      "schools",
+      "~musedu",
+      "~",
+      "~"
+    ],
+    "4":[
+      "woman",
+      "~cvl",
+      "~",
+      "assailant",
+      "~uaf",
+      "~"
+    ],
+    "5":[
+      "police",
+      "~cop",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "high school",
+      "college",
+      "~edu",
+      "~",
+      "~",
+      "high school",
+      "college",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "7":[
+      "christian",
+      "~chr",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "elector",
+      "hillary clinton"
+    ],
+    "1":[
+      "syrian army",
+      "aleppo"
+    ],
+    "2":[
+      "people",
+      "milwaukee"
+    ],
+    "3":[
+      "education department",
+      "muslim schools"
+    ],
+    "4":[
+      "woman",
+      "assailant"
+    ],
+    "5":[
+      "police",
+      "tv"
+    ],
+    "6":[
+      "people",
+      "high school ... college"
+    ],
+    "7":[
+      "christian",
+      "the ... white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "syria",
+      "syria"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "carried ... vote"
+    ],
+    "1":[
+      "has <&military> taken"
+    ],
+    "2":[
+      "have died"
+    ],
+    "3":[
+      "could ... help"
+    ],
+    "4":[
+      "delivers ... message"
+    ],
+    "5":[
+      "watched"
+    ],
+    "6":[
+      "take"
+    ],
+    "7":[
+      "captures"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":[
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usaeli",
+      "030"
+    ],
+    "1":[
+      "syrmil",
+      "syr",
+      "192"
+    ],
+    "2":[
+      "---ppl",
+      "usa",
+      "190"
+    ],
+    "3":[
+      "---govedu",
+      "---musedu",
+      "070"
+    ],
+    "4":[
+      "---cvl",
+      "---uaf",
+      "010"
+    ],
+    "5":[
+      "---cop",
+      "---med",
+      "010"
+    ],
+    "6":[
+      "---ppl",
+      "---edu",
+      "171"
+    ],
+    "7":[
+      "---chr",
+      "usagov",
+      "171"
+    ]
+  }
+}

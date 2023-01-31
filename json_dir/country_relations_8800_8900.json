@@ -1,0 +1,273 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-jr-2016-help-gulf-princes-emissary_us_5b0080c9e4b0a046186c8156",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sergei-skripal-poisoned-discharged-hospital_us_5afea116e4b0463cdba09e40",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-reassures-threatens-decimation-of-north-korea_us_5afe480ce4b0a0461869f225",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/jeff-sessions-uses-exceptional-power-immigration_us_5afe321be4b0a0461869e928",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/ariana-grande-calls-manchester-attack-the-worst-of-humanity_us_5afed4f9e4b0463cdba1311f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/so-states-ban-bump-stocks-now-how-do-they-enforce_us_5afef574e4b018ba2f83c189"
+  },
+  "headline":{
+    "0":"Trump Jr. Met With Emissary For Gulf Princes Offering Help With Campaign In 2016: Report",
+    "1":"Ex-Russian Spy Sergei Skripal Discharged From UK Hospital After Poisoning Incident",
+    "2":"Trump Reassures North Korea, But Threatens 'Total Decimation' Without A Deal",
+    "3":"Jeff Sessions Uses Exceptional Power Over Immigration Courts To Limit Judges' Authority",
+    "4":"Ariana Grande Calls Manchester Attack 'The Worst Of Humanity' One Year Later",
+    "5":"So States Ban Bump Stocks. Now How Do They Enforce the Law?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"ENTERTAINMENT",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The crown princes of the UAE and Saudi Arabia offered help to the Trump presidential campaign, the New York Times reports.",
+    "1":"Britain has accused Russia of being behind the nerve agent attack, but Russia has denied any involvement.",
+    "2":"The president assured Kim Jong Un he can stay in power if he gives up his nuclear arsenal.",
+    "3":"The attorney general ordered judges to stop administratively closing cases, whether they think it's best or not.",
+    "4":"\u201cI wish there was more that I could fix.\"",
+    "5":"Another concern for some gun rights activists is that the state bans do not give enough notice to residents that possessing a bump stock is, in most cases, a felony."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Mary Papenfuss",
+    "3":"Elise Foley",
+    "4":"Cole Delbyck",
+    "5":"Stateline, Editorial Partner"
+  },
+  "date":{
+    "0":"2018-05-19 00:00:00",
+    "1":"2018-05-18 00:00:00",
+    "2":"2018-05-18 00:00:00",
+    "3":"2018-05-18 00:00:00",
+    "4":"2018-05-18 00:00:00",
+    "5":"2018-05-18 00:00:00"
+  },
+  "actor1":{
+    "0":"aregov",
+    "1":"gbr",
+    "2":"---gov",
+    "3":"---gov",
+    "4":"gbr",
+    "5":"---opp"
+  },
+  "actor2":{
+    "0":"saugov",
+    "1":"rus",
+    "2":"igouno",
+    "3":"---jud",
+    "4":"tun",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"112",
+    "2":"030",
+    "3":"100",
+    "4":"041",
+    "5":"121"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":4.0,
+    "3":-5.0,
+    "4":1.0,
+    "5":-4.0
+  },
+  "nouns":{
+    "0":[
+      "uae",
+      "saudi arabia",
+      "are",
+      "sau",
+      "united",
+      "arab",
+      "emirates",
+      "saudi",
+      "arabia",
+      "crown princes",
+      "aregov",
+      "saugov",
+      "~"
+    ],
+    "1":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "un",
+      "igouno",
+      "un"
+    ],
+    "3":[
+      "attorney general",
+      "~gov",
+      "~",
+      "judges",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "ariana",
+      "tun",
+      "tunisia",
+      "manchester",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "5":[
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "britain",
+      "russia"
+    ],
+    "2":[
+      "president",
+      "un"
+    ],
+    "3":[
+      "attorney general",
+      "judges"
+    ],
+    "4":[
+      "manchester",
+      "ariana",
+      "ariana",
+      "manchester"
+    ],
+    "5":[
+      "activists",
+      "residents"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "united kingdom",
+      "russian federation"
+    ],
+    "2":[
+      "---",
+      "un"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united kingdom",
+      "tunisia",
+      "tunisia",
+      "united kingdom"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "has accused"
+    ],
+    "2":[
+      "assured"
+    ],
+    "3":[
+      "ordered"
+    ],
+    "4":[
+      "calls",
+      "calls"
+    ],
+    "5":[
+      "is"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "aregov",
+      "saugov",
+      "030",
+      "saugov",
+      "aregov",
+      "030"
+    ],
+    "1":[
+      "gbr",
+      "rus",
+      "112"
+    ],
+    "2":[
+      "---gov",
+      "igouno",
+      "030"
+    ],
+    "3":[
+      "---gov",
+      "---jud",
+      "100"
+    ],
+    "4":[
+      "gbr",
+      "tun",
+      "041",
+      "tun",
+      "gbr",
+      "041"
+    ],
+    "5":[
+      "---opp",
+      "---cvl",
+      "121"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sex-and-lies_us_5b9daa59e4b03a1dcc8b135d"
+  },
+  "headline":{
+    "0":"Sex and Lies"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"People don't cheat because they have been given permission to do it, they cheat for the opposite reason -- because it's wrong."
+  },
+  "authors":{
+    "0":"Tammy Nelson PhD, Contributor\nSex Therapist and Author of The New Monogamy"
+  },
+  "date":{
+    "0":"2013-11-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do <~ppl> ... given"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ]
+  }
+}

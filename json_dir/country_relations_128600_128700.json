@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-airlines-merger-_n_5216193.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nato-afganistan-helicopter-crash_n_5217648.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/businesses-must-connect-t_b_5219561.html"
+  },
+  "headline":{
+    "0":"American Airlines Merger Settlement Approved By U.S. Judge",
+    "1":"NATO Troops Killed In Afghanistan Helicopter Crash",
+    "2":"Businesses Must Connect to People for Real Success"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"WORLDPOST",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"Entrepreneurship is more about building a business than inventing a product. It's more about the quality of the execution, rather than the quality of the idea. Most importantly, it's more about being a proactive leader."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Marty Zwilling, ContributorVeteran Start-up Mentor; Executive"
+  },
+  "date":{
+    "0":"2014-04-26 00:00:00",
+    "1":"2014-04-26 00:00:00",
+    "2":"2014-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"igowstnatmil",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"usajud",
+    "1":"afg",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"190",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-10.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "settlement",
+      "~cvl",
+      "~",
+      "u.s.",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "nato",
+      "troops",
+      "igowstnatmil",
+      "nato",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "businesses",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "settlement",
+      "u.s. judge"
+    ],
+    "1":[
+      "nato troops",
+      "afghanistan"
+    ],
+    "2":[
+      "businesses",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "nato",
+      "afghanistan"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "approved"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "must connect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usajud",
+      "08"
+    ],
+    "1":[
+      "igowstnatmil",
+      "afg",
+      "190"
+    ],
+    "2":[
+      "---bus",
+      "---ppl",
+      "060"
+    ]
+  }
+}

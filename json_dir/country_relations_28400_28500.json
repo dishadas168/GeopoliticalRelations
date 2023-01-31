@@ -1,0 +1,327 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/celebs-express-anger-donald-trump-announces-ban-against-trans-troops_us_59789a80e4b0a8a40e8430fa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/read-the-small-print-how-nearly-200-congressmen-couldve_us_5978c62fe4b0940189700e5d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/philippines-duterte-bomb-schools_us_5978a607e4b0e201d57a2313",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/philippines-duterte-bomb-schools_us_5978a607e4b0e201d57a2313",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/how-the-uk-government-ignored-offers-to-take-in-more-lone-children_us_5978f6dfe4b0da64e87619fb",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/how-the-uk-government-ignored-offers-to-take-in-more-lone-children_us_5978f6dfe4b0da64e87619fb",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/rolling-stone-justin-trudeau_us_5978d020e4b0e201d57a8fbd"
+  },
+  "headline":{
+    "0":"Celebs Express Anger After Donald Trump Announces Ban Against Trans Troops",
+    "1":"Read The Small Print. How Nearly 200 Congressmen Could've Signed On A Bill Criminalizing Free Speech And Legitimizing Israel\u2019s Occupation Of Palestine",
+    "2":"Philippines' Duterte Threatens To Bomb Indigenous Schools",
+    "3":"Philippines' Duterte Threatens To Bomb Indigenous Schools",
+    "4":"How The U.K. Government Ignored Offers To Take In More Lone Children",
+    "5":"How The U.K. Government Ignored Offers To Take In More Lone Children",
+    "6":"Dear Rolling Stone, Not All Canadians Are In Love With Justin Trudeau"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"WORLD NEWS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"St. Vincent called the POTUS an \"odious ogre.\"",
+    "1":"Democratic legislators have been busy lately fighting efforts by President Trump and Republican legislators to bulldoze millions",
+    "2":"Rights groups are calling for the president to retract his statement.",
+    "3":"Rights groups are calling for the president to retract his statement.",
+    "4":"British charity Help Refugees is taking the\u00a0U.K.\u00a0government to court over its failure to take in more unaccompanied children",
+    "5":"British charity Help Refugees is taking the\u00a0U.K.\u00a0government to court over its failure to take in more unaccompanied children",
+    "6":"He's charming and handsome, but the prime minister has disappointed many of his own voters."
+  },
+  "authors":{
+    "0":"Julia Brucculieri",
+    "1":"Marilyn Katz, Contributoractivist, strategist and president of MK Communications",
+    "2":"Nick Robins-Early",
+    "3":"Nick Robins-Early",
+    "4":"Finbar Anderson, Refugees Deeply",
+    "5":"Finbar Anderson, Refugees Deeply",
+    "6":"Doha Madani"
+  },
+  "date":{
+    "0":"2017-07-26 00:00:00",
+    "1":"2017-07-26 00:00:00",
+    "2":"2017-07-26 00:00:00",
+    "3":"2017-07-26 00:00:00",
+    "4":"2017-07-26 00:00:00",
+    "5":"2017-07-26 00:00:00",
+    "6":"2017-07-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---leg",
+    "2":"phl",
+    "3":"---hri",
+    "4":"gbrgov",
+    "5":"gbrref",
+    "6":"---gov"
+  },
+  "actor2":{
+    "0":"vct",
+    "1":"---govleg",
+    "2":"---edu",
+    "3":"---gov",
+    "4":"---cvl",
+    "5":"gbrgovjud",
+    "6":"---cvl"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"190",
+    "2":"138",
+    "3":"020",
+    "4":"171",
+    "5":"171",
+    "6":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":-7.0,
+    "3":3.0,
+    "4":-9.2,
+    "5":-9.2,
+    "6":-2.0
+  },
+  "nouns":{
+    "0":[
+      "st. vincent",
+      "vct",
+      "saint",
+      "vincent",
+      "and",
+      "the",
+      "grenadines",
+      "potus",
+      "usagov",
+      "president",
+      "of",
+      "the",
+      "united",
+      "states"
+    ],
+    "1":[
+      "legislators",
+      "~leg",
+      "~",
+      "president",
+      "legislators",
+      "~govleg",
+      "~",
+      "~"
+    ],
+    "2":[
+      "philippines",
+      "phl",
+      "philippines",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "rights groups",
+      "~hri",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "u.k.",
+      "government",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "british",
+      "refugees",
+      "gbrref",
+      "united",
+      "kingdom",
+      "~",
+      "u.k.",
+      "government",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "6":[
+      "prime minister",
+      "~gov",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "potus",
+      "st. vincent",
+      "st. vincent",
+      "potus"
+    ],
+    "1":[
+      "legislators",
+      "president ... legislators"
+    ],
+    "2":[
+      "philippines",
+      "schools"
+    ],
+    "3":[
+      "rights groups",
+      "president"
+    ],
+    "4":[
+      "u.k. government",
+      "children"
+    ],
+    "5":[
+      "british ... refugees",
+      "---"
+    ],
+    "6":[
+      "prime minister",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "president of the united states",
+      "saint vincent and the grenadines",
+      "saint vincent and the grenadines",
+      "president of the united states"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "philippines",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united kingdom",
+      "---"
+    ],
+    "5":[
+      "united kingdom",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "have ... fighting"
+    ],
+    "2":[
+      "threatens ... bomb"
+    ],
+    "3":[
+      "are calling for"
+    ],
+    "4":[
+      "offers ... take"
+    ],
+    "5":[
+      "is ... taking"
+    ],
+    "6":[
+      "has disappointed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":[
+      "civil_society",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "refugees",
+      "1"
+    ],
+    "6":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "vct",
+      "041",
+      "vct",
+      "usagov",
+      "041"
+    ],
+    "1":[
+      "---leg",
+      "---govleg",
+      "190"
+    ],
+    "2":[
+      "phl",
+      "---edu",
+      "138"
+    ],
+    "3":[
+      "---hri",
+      "---gov",
+      "020"
+    ],
+    "4":[
+      "gbrgov",
+      "---cvl",
+      "171"
+    ],
+    "5":[
+      "gbrref",
+      "gbrgovjud",
+      "171"
+    ],
+    "6":[
+      "---gov",
+      "---cvl",
+      "110"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/making-friends_us_5b9bdbc4e4b03a1dcc7ac9ad",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/our-4th-most-fearless-tweet-finalist_us_5b9bdcf0e4b03a1dcc7ad242"
+  },
+  "headline":{
+    "0":"Lonely Mom Seeks Friends",
+    "1":"Our 4th 'Most Fearless Tweet' Finalist! (PHOTOS)"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Mothers need wing women. Someone to assure you that it is perfectly normal to bring your kid to the playground and forget his shoes. And your own shoes.",
+    "1":"On May 3, HuffPost Becoming Fearless and Toyota Corolla teamed up to announce Toyota Corolla's Most Fearless Tweet Contest"
+  },
+  "authors":{
+    "0":"The Mouthy Housewives, Contributor\nHumor Bloggers",
+    "1":""
+  },
+  "date":{
+    "0":"2012-06-19 00:00:00",
+    "1":"2012-06-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"mncjpn"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mncjpn"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "mothers",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "toyota",
+      "mncjpn",
+      "toyota",
+      "toyota",
+      "mncjpn",
+      "toyota"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mothers",
+      "mothers"
+    ],
+    "1":[
+      "toyota",
+      "toyota"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "toyota",
+      "toyota"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "teamed ... announce"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "100"
+    ],
+    "1":[
+      "mncjpn",
+      "mncjpn",
+      "010"
+    ]
+  }
+}

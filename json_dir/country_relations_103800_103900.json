@@ -1,0 +1,339 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/copenhagen-terror-attack_n_6686478.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hundreds-protest-fatal-po_n_6688456.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-libya-video_n_6688376.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/adam-schiff-aumf-isis_n_6687894.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/an-open-letter-to-governo_3_b_6666434.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/the-relevance-of-streetball-in-new-your-city_b_6669582.html",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/a-gay-dads-open-letter-to_4_b_6647686.html",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/drug-overdose-is-a-national-crisis-its-time-to-act_b_6681090.html"
+  },
+  "headline":{
+    "0":"Danish Police Shoot And Kill Man After Copenhagen Attack",
+    "1":"Hundreds Protest Fatal Police Shooting In Washington",
+    "2":"ISIS Releases Video Purporting To Show Beheading Of 21 Egyptian Christians In Libya",
+    "3":"Democratic Rep: Congress Shouldn't Give Obama A 'Blank Check' On War",
+    "4":"An Open Letter to Gov.Nikki Haley and the South Carolina House of Representatives Regarding the Closure of South Carolina State University",
+    "5":"The Relevance of Streetball in New York City",
+    "6":"A Gay Dad's Open Letter to the School Censoring a Mural of a Kiss",
+    "7":"Drug Overdose Is a National Crisis: It's Time to Act"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"LATINO VOICES",
+    "2":"WORLDPOST",
+    "3":"POLITICS",
+    "4":"BLACK VOICES",
+    "5":"BLACK VOICES",
+    "6":"QUEER VOICES",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"",
+    "4":"South Carolina State University might currently be experiencing financial issues, and the university does need a sustainability plan to lead them into the next 100 years of collegiate education, but closing the university is akin to needing a new roof and deciding to demolish the house instead. South Carolina State will not be served well by closure.",
+    "5":"As players brought life and energy to the blacktops, the courts served as the place to realize dreams. With big audiences including players' friends and families taking notice of the passion and skill evolving before their eyes, it was only a matter of time until big corporations began exploring business opportunities.",
+    "6":"Kaela Wilton is a 16-year-old student at Onoway Jr.\/Sr. High School in Alberta, Canada. For an art project, approved by her art teacher and the school principal, she depicted two young men in an affectionate kiss. After its unveiling and subsequent complaints, the school covered the mural and would not allow it to be seen.",
+    "7":"More Americans are dying of drug overdoses than traffic accidents, primarily from heroin and prescription pills like oxycodone and Vicodin. Every single day, 120 people die in the U.S. of a drug overdose."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Ariel Edwards-Levy",
+    "4":"Herron Keyon Gaston, ContributorGraduate student, Yale University",
+    "5":"Ryan 'Special FX' Williams, ContributorBall Up All Star and NYC streetball legend",
+    "6":"Rob Watson, ContributorDad, evolvequals.com blogger, LGBT activist and businessman",
+    "7":"Gary Mendell, ContributorFounder & CEO, Shatterproof"
+  },
+  "date":{
+    "0":"2015-02-15 00:00:00",
+    "1":"2015-02-15 00:00:00",
+    "2":"2015-02-15 00:00:00",
+    "3":"2015-02-15 00:00:00",
+    "4":"2015-02-14 00:00:00",
+    "5":"2015-02-14 00:00:00",
+    "6":"2015-02-14 00:00:00",
+    "7":"2015-02-14 00:00:00"
+  },
+  "actor1":{
+    "0":"dnkcop",
+    "1":"---cop",
+    "2":"imgmusisi",
+    "3":"---leg",
+    "4":"---edu",
+    "5":"---bus",
+    "6":"---edu",
+    "7":"---ppl"
+  },
+  "actor2":{
+    "0":"dnkppl",
+    "1":"usa",
+    "2":"lby",
+    "3":"usagov",
+    "4":"---edu",
+    "5":"---bus",
+    "6":"---edu",
+    "7":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"190",
+    "3":"060",
+    "4":"101",
+    "5":"090",
+    "6":"011",
+    "7":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":6.0,
+    "4":-5.0,
+    "5":-2.0,
+    "6":-0.1,
+    "7":-10.0
+  },
+  "nouns":{
+    "0":[
+      "danish",
+      "police",
+      "dnkcop",
+      "denmark",
+      "~",
+      "man",
+      "copenhagen",
+      "dnkppl",
+      "~",
+      "denmark"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "libya",
+      "lby",
+      "libya"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "4":[
+      "state university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "corporations",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "6":[
+      "school",
+      "~edu",
+      "~"
+    ],
+    "7":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "danish police",
+      "man ... copenhagen"
+    ],
+    "1":[
+      "police",
+      "washington"
+    ],
+    "2":[
+      "isis",
+      "libya"
+    ],
+    "3":[
+      "congress",
+      "obama"
+    ],
+    "4":[
+      "state university",
+      "state university"
+    ],
+    "5":[
+      "corporations",
+      "corporations"
+    ],
+    "6":[
+      "school",
+      "school"
+    ],
+    "7":[
+      "people",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "denmark",
+      "denmark"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "the islamic state",
+      "libya"
+    ],
+    "3":[
+      "---",
+      "barack obama"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... kill"
+    ],
+    "1":[
+      "shooting"
+    ],
+    "2":[
+      "purporting ... beheading"
+    ],
+    "3":[
+      "should ... give"
+    ],
+    "4":[
+      "does need ... lead"
+    ],
+    "5":[
+      "began exploring"
+    ],
+    "6":[
+      "<and> ... allow <~edu> ... seen"
+    ],
+    "7":[
+      "die"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "id_democracy",
+      "1"
+    ],
+    "4":[
+      "postsecondary_education",
+      "3"
+    ],
+    "5":null,
+    "6":[
+      "schools",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "dnkcop",
+      "dnkppl",
+      "190"
+    ],
+    "1":[
+      "---cop",
+      "usa",
+      "190"
+    ],
+    "2":[
+      "imgmusisi",
+      "lby",
+      "190"
+    ],
+    "3":[
+      "---leg",
+      "usagov",
+      "060"
+    ],
+    "4":[
+      "---edu",
+      "---edu",
+      "101"
+    ],
+    "5":[
+      "---bus",
+      "---bus",
+      "090"
+    ],
+    "6":[
+      "---edu",
+      "---edu",
+      "011"
+    ],
+    "7":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

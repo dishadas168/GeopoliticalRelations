@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/university-of-louisville-sombreros_us_56365696e4b063179912b559",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkish-security-forces-fire-tear-gas-at-protesters-in-diyarbakir_us_56364d4fe4b063179912b491"
+  },
+  "headline":{
+    "0":"University Of Louisville Sorry A Bunch Of Its Staff Wore Sombreros And Fake Mustaches",
+    "1":"Turkish Security Forces Fire Tear Gas At Protesters In Diyarbakir"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The president joined a number of employees wearing stereotypical Mexican garb.",
+    "1":"DIYARBAKIR, Turkey, Nov 1 (Reuters) - Turkish security forces fired tear gas at protesters in the mainly Kurdish southeastern"
+  },
+  "authors":{
+    "0":"Steve Bittenbender, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2015-11-01 00:00:00",
+    "1":"2015-11-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"turmil"
+  },
+  "actor2":{
+    "0":"mexlab",
+    "1":"---opp"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"175"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "mexican",
+      "mex",
+      "mexico",
+      "employees",
+      "mexlab",
+      "~"
+    ],
+    "1":[
+      "turkish",
+      "security forces",
+      "turmil",
+      "turkey",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "employees"
+    ],
+    "1":[
+      "turkish security forces",
+      "protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      ""
+    ],
+    "1":[
+      "turkey",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joined"
+    ],
+    "1":[
+      "fired <{tear> <gas}>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1",
+      "violent_unrest",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "mexlab",
+      "040"
+    ],
+    "1":[
+      "turmil",
+      "---opp",
+      "175"
+    ]
+  }
+}

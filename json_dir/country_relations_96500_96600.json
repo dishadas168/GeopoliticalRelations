@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/indian-muslims-in-the-age-of-muslim-uprisings_b_7213744.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/warren-buffett-social-med_b_7253714.html"
+  },
+  "headline":{
+    "0":"Indian Muslims in the Age of Muslim Uprisings",
+    "1":"Warren Buffett Social Media Data Offer a Business Lesson"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"There is a growing awareness among the younger Muslim elite that they are being left behind by a rapidly developing and advancing India, and the negligence of the Indian government towards Muslims means that they must fend for themselves.",
+    "1":"It has been two years since billionaire Berkshire Hathaway CEO Warren Buffett launched his Twitter account with, \"Warren is in the house.\" In just six total tweets and with more than one million followers, the Oracle of Omaha demonstrates the importance of personal branding and traditional media relations."
+  },
+  "authors":{
+    "0":"Muqtedar Khan, ContributorProfessor of Islam and Global Affairs, The University of Delaw...",
+    "1":"Jeremy Harris Lipschultz, ContributorIsaacson Professor, University of Nebraska at Omaha"
+  },
+  "date":{
+    "0":"2015-05-12 00:00:00",
+    "1":"2015-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"indgovmus",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"indgovmus",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "muslim",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "indian",
+      "government",
+      "muslims",
+      "indgovmus",
+      "india",
+      "~",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "indian government ... muslims",
+      "indian government ... muslims"
+    ],
+    "1":[
+      "media",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "india",
+      "india"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "offer"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "indgovmus",
+      "indgovmus",
+      "030"
+    ],
+    "1":[
+      "---med",
+      "---bus",
+      "030"
+    ]
+  }
+}

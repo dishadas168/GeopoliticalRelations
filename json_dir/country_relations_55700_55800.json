@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-kurds-crackdown_us_57d5aa0ce4b00642712e093e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-kurds-crackdown_us_57d5aa0ce4b00642712e093e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/france-boy-attack_us_57d5a8e6e4b06a74c9f53156",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/9-11-attacks-tribute_us_57d56d68e4b00642712defde"
+  },
+  "headline":{
+    "0":"Turkey Removes Two Dozen Elected Mayors In Kurdish Areas",
+    "1":"Turkey Removes Two Dozen Elected Mayors In Kurdish Areas",
+    "2":"France Arrests 15-Year-Old Boy Over 'Imminent Paris Attack",
+    "3":"U.S. Pays Tribute To 9\/11 Victims 15 Years After Attacks"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police fired water cannons at protesters over the removals.",
+    "1":"Police fired water cannons at protesters over the removals.",
+    "2":"The boy allegedly had ties to those who carried out a recent attack in Paris.",
+    "3":"President Barack Obama took part in a wreath-laying ceremony at the Pentagon."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Gerard Bon and Sophie Louet, Reuters",
+    "3":""
+  },
+  "date":{
+    "0":"2016-09-11 00:00:00",
+    "1":"2016-09-11 00:00:00",
+    "2":"2016-09-11 00:00:00",
+    "3":"2016-09-11 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"---cop",
+    "2":"fra",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---opp",
+    "2":"fra",
+    "3":"usamil"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"190",
+    "2":"173",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0,
+    "2":-5.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "tur",
+      "turkey",
+      "mayors",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "france",
+      "fra",
+      "france",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "3":[
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkey",
+      "mayors"
+    ],
+    "1":[
+      "police",
+      "protesters"
+    ],
+    "2":[
+      "france",
+      "france"
+    ],
+    "3":[
+      "president barack obama",
+      "pentagon"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "france",
+      "france"
+    ],
+    "3":[
+      "barack obama",
+      "united states military"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "removes"
+    ],
+    "1":[
+      "fired"
+    ],
+    "2":[
+      "arrests"
+    ],
+    "3":[
+      "took part"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1",
+      "violent_unrest",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "---gov",
+      "174"
+    ],
+    "1":[
+      "---cop",
+      "---opp",
+      "190"
+    ],
+    "2":[
+      "fra",
+      "fra",
+      "173"
+    ],
+    "3":[
+      "usagov",
+      "usamil",
+      "030"
+    ]
+  }
+}

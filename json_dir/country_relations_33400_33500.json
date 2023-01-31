@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lawyering-trumps-tweets_us_59290d5de4b0065b20b6c70d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/portland-hate-killer-ranted-about-stabbings-and-muslims_us_59297eb5e4b08861ed0cc9c1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/manchester-another-arrest_us_5927a47de4b06f608053620f"
+  },
+  "headline":{
+    "0":"Trump's Tweets Might Be Lawyered. But Who Will Babysit Him?",
+    "1":"Portland Hate Killer Ranted About Stabbings And Muslims On Facebook Amid Rising U.S. Hate Crime",
+    "2":"British Police Arrest Another Man After Manchester Attack"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\"Will a lawyer take up residence in the White House?\" wonders CNN correspondent.",
+    "1":"Jeremy Joseph Christian faces a judge Tuesday in connection with the killings.",
+    "2":"It's the tenth person to be taken into custody in connection with Monday\u2019s Manchester attack."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Brian Levin, J.D., ContributorDirector, Center for the Study of Hate and Extremism, Californ...",
+    "2":""
+  },
+  "date":{
+    "0":"2017-05-27 00:00:00",
+    "1":"2017-05-27 00:00:00",
+    "2":"2017-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---chr",
+    "2":"gbr"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---jud",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "christian",
+      "~chr",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "the white house"
+    ],
+    "1":[
+      "christian",
+      "judge"
+    ],
+    "2":[
+      "british",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "take"
+    ],
+    "1":[
+      "faces"
+    ],
+    "2":[
+      "police arrest"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usagov",
+      "171"
+    ],
+    "1":[
+      "---chr",
+      "---jud",
+      "040"
+    ],
+    "2":[
+      "gbr",
+      "---ppl",
+      "173"
+    ]
+  }
+}

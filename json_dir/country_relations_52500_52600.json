@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/clinton-corporate-vp_us_58063310e4b0b994d4c16e3b"
+  },
+  "headline":{
+    "0":"Hillary Clinton Considered CEOs Of Apple, Coca-Cola, GM And Starbucks For VP"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"As far as corporate leaders go, it's a pretty diverse bunch."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2016-10-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "ceos",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "ceos"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "considered"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---bus",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-to-prevent-disputes-in-business-relationships_b_7090462.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-mediterranean-refugee_b_7083198.html"
+  },
+  "headline":{
+    "0":"How to Prevent Disputes in Business Relationships?",
+    "1":"The Mediterranean Refugee Crisis"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"A business entails many types of relationships, all of which are crucial to its success: relationships with suppliers, customers, business partners and employees can all lead the business towards success, or weigh it down and slow it down.",
+    "1":"The civil wars that are tearing apart Libya and Syria are precipitating yet another humanitarian crisis as boat loads of desperate refugees attempt to cross the Mediterranean in order to seek asylum in the European Community. Italy, Greece and Malta are bearing the brunt of the rapidly escalating crisis of \"Mediterranean Boat People.\""
+  },
+  "authors":{
+    "0":"Dr. Michelle Rozen, ContributorCommunications Expert, Media Personality and Keynote Speaker",
+    "1":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key..."
+  },
+  "date":{
+    "0":"2015-04-18 00:00:00",
+    "1":"2015-04-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvlbuslab",
+    "1":"---ref"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~",
+      "customers",
+      "business",
+      "employees",
+      "~cvlbuslab",
+      "~",
+      "~",
+      "~",
+      "customers",
+      "business",
+      "employees",
+      "~cvlbuslab",
+      "~",
+      "~",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "refugees",
+      "~ref",
+      "~",
+      "refugees",
+      "~ref",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "customers ... business ... employees",
+      "business"
+    ],
+    "1":[
+      "refugees",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... lead"
+    ],
+    "1":[
+      "attempt ... seek <&asylum>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "humanitarian_crisis",
+      "1",
+      "refugees",
+      "1",
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvlbuslab",
+      "---bus",
+      "060"
+    ],
+    "1":[
+      "---ref",
+      "---cvl",
+      "020"
+    ]
+  }
+}

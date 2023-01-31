@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/margo-manhattan-jewelry-store_us_5ba2b732e4b0c2784da4ed47",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/science-may-make-eternal-life-sentences-a-reality_us_5ba2bc43e4b0c2784da5409b"
+  },
+  "headline":{
+    "0":"Jewelry Store Robber Ties Up Worker, Takes Off With $54K In Merchandise",
+    "1":"Science May Make Eternal Life Sentences a Reality (VIDEO)"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"The man went into Margo Manhattan jewelry store on Friday afternoon and asked a 53-year-old female employee to show him some",
+    "1":"While some researchers are looking for the fountain of youth, others are thinking that life extension will change the way we punish criminals. Philosophers and engineers are now exploring the possibility of making a life sentence in prison last hundreds -- and theoretically thousands -- of years."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Gabriel Mizrahi, Contributor\nWriter"
+  },
+  "date":{
+    "0":"2014-04-12 00:00:00",
+    "1":"2014-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "engineers",
+      "~cvl",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "employee"
+    ],
+    "1":[
+      "engineers",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... asked"
+    ],
+    "1":[
+      "are ... exploring"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---lab",
+      "020"
+    ],
+    "1":[
+      "---cvl",
+      "---cop",
+      "090"
+    ]
+  }
+}

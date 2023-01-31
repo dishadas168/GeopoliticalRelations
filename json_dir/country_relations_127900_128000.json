@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-legislative-religious-groups_n_5268823.html"
+  },
+  "headline":{
+    "0":"Religious Groups Condemn Supreme Court Ruling On Government Prayer"
+  },
+  "category":{
+    "0":"RELIGION"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Yasmine Hafiz"
+  },
+  "date":{
+    "0":"2014-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---reljud"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "religious groups",
+      "supreme court",
+      "~reljud",
+      "~",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "religious groups ... supreme court",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ruling"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---reljud",
+      "---gov",
+      "060"
+    ]
+  }
+}

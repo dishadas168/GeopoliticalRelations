@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/over-two-million-comments_us_5bb151abe4b09bbe9a5e7d16",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/overcoming-unconscious-bi_us_5bb3093ce4b0480ca66238c8"
+  },
+  "headline":{
+    "0":"Over Two Million Comments Filed Against the Keystone XL Tar Sands Pipeline",
+    "1":"Overcoming Unconscious Biases Against Female Bosses"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"In a chilly March wind, protesters marched along the snow-splashed streets of Washington to deliver more than two million comments opposed to building the Canadian-backed Keystone XL tar sands pipeline.",
+    "1":"Counterproductive gender biases keep gender equality stagnating: women lead only 4.2 percent of our largest pubic corporations, make up only 14 percent of top officers in corporate America and fill a measly 18 percent of board seats."
+  },
+  "authors":{
+    "0":"Rocky Kistner, Guest Writer\nGuest Writer",
+    "1":"John Gerzema, Contributor\nChairman & CEO"
+  },
+  "date":{
+    "0":"2014-03-08 00:00:00",
+    "1":"2014-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "corporations",
+      "~bus",
+      "~",
+      "corporations",
+      "~bus",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "washington"
+    ],
+    "1":[
+      "women",
+      "corporations"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "marched"
+    ],
+    "1":[
+      "<and> ... lead"
+    ]
+  },
+  "issues":{
+    "0":[
+      "oil",
+      "1"
+    ],
+    "1":[
+      "womens_movement",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usa",
+      "140"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "060"
+    ]
+  }
+}

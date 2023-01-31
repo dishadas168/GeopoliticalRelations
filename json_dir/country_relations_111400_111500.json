@@ -1,0 +1,162 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dont-make-excuses-for-a-g_b_6108840.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/usaid-leads-as-the-united_b_6171546.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/abdul-rahman-peter-kassig-beheaded-isis_n_5948302.html"
+  },
+  "headline":{
+    "0":"Don't Make Excuses for a Genocidal Criminal: On Ghulam Azam",
+    "1":"USAID Leads as the United States Strengthens Its Commitment to the LGBT Community",
+    "2":"ISIS Claims It Has Beheaded Another American Hostage"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"QUEER VOICES",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Ghulam Azam, a war criminal, died in a Bangladeshi prison on October 23 while serving a 90-year sentence.",
+    "1":"While this is only a beginning in studying this issue, it seems clear that giving people their rights and allowing them to participate fully in society, particularly economic society, is beneficial to countries.",
+    "2":""
+  },
+  "authors":{
+    "0":"Sabbir Khan, ContributorPolitical analyst, Columnist & Journalist",
+    "1":"Peter D. Rosenstein, Contributornon-profit consultant, public speaker and political activist",
+    "2":"Eline Gordts"
+  },
+  "date":{
+    "0":"2014-11-17 00:00:00",
+    "1":"2014-11-17 00:00:00",
+    "2":"2014-11-16 00:00:00"
+  },
+  "actor1":{
+    "0":"bgdcop",
+    "1":"usagovdev",
+    "2":"imgmusisi"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"usa",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"184",
+    "1":"060",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-8.0,
+    "1":6.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "criminal",
+      "~crm",
+      "~",
+      "bangladeshi",
+      "prison",
+      "bgdcop",
+      "bangladesh",
+      "~"
+    ],
+    "1":[
+      "usaid",
+      "usagovdev",
+      "united",
+      "states",
+      "agency",
+      "for",
+      "international",
+      "development",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bangladeshi prison",
+      "criminal"
+    ],
+    "1":[
+      "usaid",
+      "the united states"
+    ],
+    "2":[
+      "isis",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "bangladesh",
+      "---"
+    ],
+    "1":[
+      "united states agency for international development",
+      "united states of america"
+    ],
+    "2":[
+      "the islamic state",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "died in <&detention>"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "has beheaded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "foreign_aid",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "bgdcop",
+      "---crm",
+      "184"
+    ],
+    "1":[
+      "usagovdev",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "imgmusisi",
+      "usa",
+      "190"
+    ]
+  }
+}

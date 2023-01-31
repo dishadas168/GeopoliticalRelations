@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sun-sand-and-root-canal_us_5b9c8de9e4b03a1dcc7fbfb0",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/thehill.com\/blogs\/global-affairs\/terrorism\/269141-gaza-violence-leads-lawmakers-to-call-for-twitter-shuttering"
+  },
+  "headline":{
+    "0":"Costa Rica's Medical Tourism Boom",
+    "1":"Gaza Violence Leads Lawmakers To Call For Shuttering Terror Groups On Twitter"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"Costa Rica competes for medical tourists with the likes of India, Brazil, Panama and Mexico, and its proximity to the United",
+    "1":"The past week's violence in Gaza has rekindled calls for Twitter to shutter the accounts of U.S.-labeled terror groups such"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-26 00:00:00",
+    "1":"2012-11-25 00:00:00"
+  },
+  "actor1":{
+    "0":"cri",
+    "1":"psegza"
+  },
+  "actor2":{
+    "0":"indcvl",
+    "1":"---leg"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "costa rica",
+      "cri",
+      "costa",
+      "rica",
+      "tourists",
+      "~cvl",
+      "~",
+      "india",
+      "brazil",
+      "panama",
+      "mexico",
+      "ind",
+      "bra",
+      "pan",
+      "mex",
+      "india",
+      "brazil",
+      "panama",
+      "mexico"
+    ],
+    "1":[
+      "gaza",
+      "psegza",
+      "gaza",
+      "lawmakers",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "costa rica",
+      "---",
+      "costa rica",
+      "---",
+      "costa rica",
+      "---",
+      "costa rica",
+      "---"
+    ],
+    "1":[
+      "gaza",
+      "lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "costa rica",
+      "---",
+      "costa rica",
+      "---",
+      "costa rica",
+      "---",
+      "costa rica",
+      "---"
+    ],
+    "1":[
+      "gaza",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "competes",
+      "competes",
+      "competes",
+      "competes"
+    ],
+    "1":[
+      "leads"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "cri",
+      "indcvl",
+      "110",
+      "cri",
+      "bracvl",
+      "110",
+      "cri",
+      "pancvl",
+      "110",
+      "cri",
+      "mexcvl",
+      "110"
+    ],
+    "1":[
+      "psegza",
+      "---leg",
+      "060"
+    ]
+  }
+}

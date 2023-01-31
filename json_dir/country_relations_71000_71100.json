@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ohio-voting-age_us_56e34618e4b0b25c91820c61",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/california-assisted-suicide-right-to-die-law_us_56e2f534e4b0860f99d8cce1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-canada-low-carbon-economy_us_56e1b719e4b0860f99d82116"
+  },
+  "headline":{
+    "0":"17-Year-Olds Should Be Allowed To Vote In Ohio Primary, Judge Rules",
+    "1":"California Gives Terminally Ill Residents The Right To Die On Their Own Terms",
+    "2":"US And Canada Promise To Lead World To Low-Carbon Economy"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Decision comes just days before the state's primary contest, but the secretary of state says he will appeal it.",
+    "1":"It's an option for patients with no more than six months to live.",
+    "2":"This story originally appeared in The Guardian, and is republished here as part of the Climate Desk collaboration. The US"
+  },
+  "authors":{
+    "0":"Kim Palmer, Reuters",
+    "1":"Ryan Grenoble",
+    "2":"Suzanne Goldenberg, The Guardian"
+  },
+  "date":{
+    "0":"2016-03-11 00:00:00",
+    "1":"2016-03-11 00:00:00",
+    "2":"2016-03-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cvl",
+    "2":"can"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"060",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":6.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state"
+    ],
+    "1":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "us",
+      "canada",
+      "usa",
+      "can",
+      "united",
+      "states",
+      "of",
+      "america",
+      "canada"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "secretary of state",
+      "secretary of state"
+    ],
+    "1":[
+      "california",
+      "residents"
+    ],
+    "2":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the us secretary of state",
+      "the us secretary of state"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... will appeal"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "020"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "can",
+      "030",
+      "can",
+      "usa",
+      "030"
+    ]
+  }
+}

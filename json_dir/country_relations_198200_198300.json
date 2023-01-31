@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/auto-loan-scams_us_5b9b8910e4b03a1dcc786900",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/david-beckham-hm-ad_us_5b9b88f4e4b03a1dcc7867cd"
+  },
+  "headline":{
+    "0":"FTC Charges Two California Companies In Auto Loan Scam",
+    "1":"David Beckham H&M Ad Doesn't Get Banned, Women Everywhere Rejoice (PHOTOS, VIDEO)"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"For more information on fraudulent car loan scams and suggestions about how to negotiate with your lender if you are struggling",
+    "1":"David Beckham\u2019s bulge has been the subject of an official inquiry. The heavily tattooed athlete has also had to defend himself"
+  },
+  "authors":{
+    "0":"Loren Berlin",
+    "1":"Nicki Gostin"
+  },
+  "date":{
+    "0":"2012-04-04 00:00:00",
+    "1":"2012-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovbus",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"usabus",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"074"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":8.5
+  },
+  "nouns":{
+    "0":[
+      "ftc",
+      "usagovbus",
+      "federal",
+      "trade",
+      "commission",
+      "california",
+      "companies",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "athlete",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ftc",
+      "california companies"
+    ],
+    "1":[
+      "athlete",
+      "athlete"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal trade commission",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "charges"
+    ],
+    "1":[
+      "has ... defend"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagovbus",
+      "usabus",
+      "112"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "074"
+    ]
+  }
+}

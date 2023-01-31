@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/saveup-jackpot-debt-saving_us_5b9bc132e4b03a1dcc7a1505"
+  },
+  "headline":{
+    "0":"SaveUp $2 Million Jackpot Rewards Saving, Debt-Paying"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"Credit unions have also been using this strategy to encourage customers to squirrel away money. Starting in June Maryland"
+  },
+  "authors":{
+    "0":"Catherine New"
+  },
+  "date":{
+    "0":"2012-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "credit unions",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "credit unions",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... encourage"
+    ]
+  },
+  "issues":{
+    "0":[
+      "labor_unions",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "051"
+    ]
+  }
+}

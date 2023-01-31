@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-missile-launch_us_59aef55ee4b0354e440d382e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/republicans-donald-trump-daca-deal_us_59bacbdee4b02da0e1403890"
+  },
+  "headline":{
+    "0":"North Korea Fires Another Missile Over Japan As Tensions Mount",
+    "1":"Republicans Find More Ways To Avoid Criticizing Trump\u2019s Dealmaking With Democrats"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The latest provocation comes days after the U.N. Security Council passed the toughest sanctions on Pyongyang to date.",
+    "1":"Deal or no deal, many GOP lawmakers say they support the president."
+  },
+  "authors":{
+    "0":"Nick Robins-Early and Jesselyn Cook",
+    "1":"Igor Bobic and Matt Fuller"
+  },
+  "date":{
+    "0":"2017-09-14 00:00:00",
+    "1":"2017-09-14 00:00:00"
+  },
+  "actor1":{
+    "0":"igouno",
+    "1":"---leg"
+  },
+  "actor2":{
+    "0":"prk",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "u.n. security council",
+      "igouno",
+      "u.n.",
+      "security",
+      "council",
+      "pyongyang",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "1":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.n. security council",
+      "pyongyang"
+    ],
+    "1":[
+      "lawmakers",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "u.n. security council",
+      "north korea"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "passed"
+    ],
+    "1":[
+      "say ... support"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "igouno",
+      "prk",
+      "08"
+    ],
+    "1":[
+      "---leg",
+      "---gov",
+      "050"
+    ]
+  }
+}

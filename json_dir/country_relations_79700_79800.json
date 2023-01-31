@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/putin-orders-sanctions-against-turkey-after-warplane-downed_us_565a2087e4b072e9d1c218df",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/-breeding-intolerance-tur_b_8669812.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/poland-roman-polanski_us_56585cd1e4b079b2818a6261",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-russia-erdogan_us_56584e06e4b079b2818a61be",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/belgium-terrorism-charges_us_56588423e4b072e9d1c1e9e8"
+  },
+  "headline":{
+    "0":"Putin Orders Sanctions Against Turkey After Warplane Downed",
+    "1":"Breeding Intolerance: Turkish Soccer Fans Disrespect Islamic State Victims",
+    "2":"Poland Won't Extradite Roman Polanski To The United States",
+    "3":"Erdogan Warns Russia Not To 'Play With Fire'",
+    "4":"Belgium Charges Man With Involvement In 'Terrorist Attacks'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"ENTERTAINMENT",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"ANKARA, Turkey (AP) -- Russian President Vladimir Putin on Saturday called for sanctions against Turkey, following the downing",
+    "1":"Turkish fans twice in two months disrupted moments of silence for victims of Islamic State attacks in Ankara and Paris in a demonstration of the kind of intolerance bred by religiously-cloaked authoritarianism in countries like Turkey and Saudi Arabia.",
+    "2":"WARSAW, Poland (AP) \u2014 Poland will not extradite Oscar-winning filmmaker Roman Polanski to the U.S. in an almost 40-year-old",
+    "3":"Tensions are running high between Russia and Turkey.",
+    "4":"Belgian authorities have charged a man with involvement in \"terrorist attacks\" as investigations continue into the massacre"
+  },
+  "authors":{
+    "0":"Suzan Fraser and Jim Heintz, AP",
+    "1":"James Dorsey, ContributorSenior fellow, S. Rajaratnam School of International Studies",
+    "2":"MONIKA SCISLOWSKA, AP",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2015-11-28 00:00:00",
+    "1":"2015-11-28 00:00:00",
+    "2":"2015-11-27 00:00:00",
+    "3":"2015-11-27 00:00:00",
+    "4":"2015-11-27 00:00:00"
+  },
+  "actor1":{
+    "0":"rusgov",
+    "1":"tur",
+    "2":"pol",
+    "3":"turgov",
+    "4":"belgov"
+  },
+  "actor2":{
+    "0":"tur",
+    "1":"turcvl",
+    "2":"usa",
+    "3":"rus",
+    "4":"---ppl"
+  },
+  "event_code":{
+    "0":"1312",
+    "1":"160",
+    "2":"063",
+    "3":"130",
+    "4":"112"
+  },
+  "goldstein_score":{
+    "0":-5.8,
+    "1":-4.0,
+    "2":7.4,
+    "3":-4.4,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "russian president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "1":[
+      "turkish",
+      "tur",
+      "turkey",
+      "victims",
+      "~cvl",
+      "~",
+      "ankara",
+      "paris",
+      "tur",
+      "fra",
+      "turkey",
+      "france",
+      "turkey",
+      "saudi arabia",
+      "tur",
+      "sau",
+      "turkey",
+      "saudi",
+      "arabia"
+    ],
+    "2":[
+      "poland",
+      "pol",
+      "poland",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "belgian",
+      "authorities",
+      "belgov",
+      "belgium",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian president vladimir putin",
+      "turkey"
+    ],
+    "1":[
+      "turkish",
+      "---",
+      "turkish",
+      "---",
+      "turkish",
+      "---"
+    ],
+    "2":[
+      "poland",
+      "the united states"
+    ],
+    "3":[
+      "erdogan",
+      "russia"
+    ],
+    "4":[
+      "belgian authorities",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vladimir putin",
+      "turkey"
+    ],
+    "1":[
+      "turkey",
+      "---",
+      "turkey",
+      "---",
+      "turkey",
+      "---"
+    ],
+    "2":[
+      "poland",
+      "united states of america"
+    ],
+    "3":[
+      "recep tayyip erdogan",
+      "russian federation"
+    ],
+    "4":[
+      "belgium",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called for sanctions"
+    ],
+    "1":[
+      "disrupted",
+      "disrupted",
+      "disrupted"
+    ],
+    "2":[
+      "wo ... extradite"
+    ],
+    "3":[
+      "warns"
+    ],
+    "4":[
+      "have charged"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "terror",
+      "1",
+      "id_atrocity",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "rusgov",
+      "tur",
+      "1312"
+    ],
+    "1":[
+      "tur",
+      "turcvl",
+      "160",
+      "tur",
+      "fracvl",
+      "160",
+      "tur",
+      "turcvl",
+      "160",
+      "tur",
+      "saucvl",
+      "160"
+    ],
+    "2":[
+      "pol",
+      "usa",
+      "063"
+    ],
+    "3":[
+      "turgov",
+      "rus",
+      "130"
+    ],
+    "4":[
+      "belgov",
+      "---ppl",
+      "112"
+    ]
+  }
+}

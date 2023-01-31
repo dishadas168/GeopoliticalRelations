@@ -1,0 +1,302 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/doubling-down-on-doklam_us_59a45542e4b0cb7715bfd7a7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-associate-moscow-presidency_us_59a44902e4b0821444c4ea4c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-mexico-aid-hurricane-harvey_us_59a492bbe4b050afa90c3600",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-mexico-aid-hurricane-harvey_us_59a492bbe4b050afa90c3600",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/tillerson-trump-speaks-for-himself_us_59a2cedde4b06d67e3383487",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/hurricane-harvey-continues-to-drench-texas-and-small_us_59a33b08e4b0a62d0987b055",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/harvey-houston-floods_us_59a2b577e4b0821444c3c322"
+  },
+  "headline":{
+    "0":"Doubling Down On Doklam",
+    "1":"Trump Associate Tried To Broker Moscow Deal So That 'Our Boy Can Become President'",
+    "2":"Trump Administration Hasn't Decided Whether To Accept Harvey Help From Mexico",
+    "3":"Trump Administration Hasn't Decided Whether To Accept Harvey Help From Mexico",
+    "4":"Rex Tillerson Says Trump Speaks Only For Himself On American Values",
+    "5":"Hurricane Harvey Continues To Drench Texas, And Small Businesses Are Stepping Up To Help Small Businesses",
+    "6":"Houston Faces Catastrophic Flooding And Rain As Tropical Storm Harvey Lingers"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"BUSINESS",
+    "6":"GREEN"
+  },
+  "short_description":{
+    "0":"By Angel Sharma China and India are gearing up for what could be a global showdown to test each other\u2019s strength as the leading",
+    "1":"And Trump's personal lawyer reportedly asked a top aide to Russian President Vladimir Putin for help.",
+    "2":"The Mexican government provided crucial supplies, food and medical aid in previous U.S. disasters.",
+    "3":"The Mexican government provided crucial supplies, food and medical aid in previous U.S. disasters.",
+    "4":"The secretary of state doesn't give a direct answer when asked if he was distancing himself from the president.",
+    "5":"As a kid growing up in my family\u2019s auto repair, paint and body business in Houston, Texas, my dad would always have our shop",
+    "6":"Five people have reportedly died in the Houston area, according to the National Weather Service."
+  },
+  "authors":{
+    "0":"Fellowship Program @YPFP, ContributorYoung Professionals in Foreign Policy",
+    "1":"Willa Frej and Marina Fang",
+    "2":"Jessica Schulberg",
+    "3":"Jessica Schulberg",
+    "4":"Arthur Delaney",
+    "5":"Helen Callier, Contributor@BradlinkLLC President, and an SBA award winning small busines...",
+    "6":"Eline Gordts, David Lohr, Nick Robins-Early, and Roque Planas"
+  },
+  "date":{
+    "0":"2017-08-28 00:00:00",
+    "1":"2017-08-28 00:00:00",
+    "2":"2017-08-28 00:00:00",
+    "3":"2017-08-28 00:00:00",
+    "4":"2017-08-27 00:00:00",
+    "5":"2017-08-27 00:00:00",
+    "6":"2017-08-27 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"---jud",
+    "2":"---gov",
+    "3":"mexgov",
+    "4":"usagov",
+    "5":"---bus",
+    "6":"---ppl"
+  },
+  "actor2":{
+    "0":"ind",
+    "1":"rusgov",
+    "2":"mex",
+    "3":"usa",
+    "4":"---gov",
+    "5":"---bus",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"020",
+    "2":"033",
+    "3":"070",
+    "4":"110",
+    "5":"200",
+    "6":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.0,
+    "2":5.2,
+    "3":7.0,
+    "4":-2.0,
+    "5":-10.0,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "india",
+      "chn",
+      "ind",
+      "china",
+      "india"
+    ],
+    "1":[
+      "lawyer",
+      "~jud",
+      "~",
+      "russian president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "3":[
+      "mexican",
+      "government",
+      "mexgov",
+      "mexico",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "businesses",
+      "~bus",
+      "~",
+      "businesses",
+      "~bus",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "lawyer",
+      "russian president vladimir putin"
+    ],
+    "2":[
+      "administration",
+      "mexico"
+    ],
+    "3":[
+      "mexican government",
+      "u.s."
+    ],
+    "4":[
+      "secretary of state",
+      "president"
+    ],
+    "5":[
+      "businesses",
+      "businesses"
+    ],
+    "6":[
+      "people",
+      "houston"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "---",
+      "vladimir putin"
+    ],
+    "2":[
+      "---",
+      "mexico"
+    ],
+    "3":[
+      "mexico",
+      "united states of america"
+    ],
+    "4":[
+      "the us secretary of state",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "asked"
+    ],
+    "2":[
+      "has ... decided ... help"
+    ],
+    "3":[
+      "provided ... aid"
+    ],
+    "4":[
+      "does ... give ... asked ... distancing ... from"
+    ],
+    "5":[
+      "are <['stepping',> <'up']> ... help"
+    ],
+    "6":[
+      "have ... died"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "natural_disaster",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "ind",
+      "030",
+      "ind",
+      "chn",
+      "030"
+    ],
+    "1":[
+      "---jud",
+      "rusgov",
+      "020"
+    ],
+    "2":[
+      "---gov",
+      "mex",
+      "033"
+    ],
+    "3":[
+      "mexgov",
+      "usa",
+      "070"
+    ],
+    "4":[
+      "usagov",
+      "---gov",
+      "110"
+    ],
+    "5":[
+      "---bus",
+      "---bus",
+      "200"
+    ],
+    "6":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

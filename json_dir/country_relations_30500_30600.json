@@ -1,0 +1,347 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/angela-merkel-trump-g20-climate_us_5956b8bde4b0da2c73238d40",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/will-congress-confront-trump-administrations-syria_us_5955aca4e4b0c85b96c66091",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mosul-is-liberated-from-isis-but-mission-is-not-accomplished_us_5955677ae4b0c85b96c66041",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/after-the-mayors-defeat-lampedusian-voters-face-a_us_595655f8e4b0326c0a8d0f8e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/this-american-muslim-journalist-is-actually-seeking-out-people-who-fear-him_us_595698e2e4b0da2c732353fa",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/mosul-mosque-recaptured-from-isis_us_5954d214e4b05c37bb7c27ee",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/qinghai-china-renewables-week_us_5954d053e4b02734df3020c7",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/trump-putin-meeting_us_59554047e4b05c37bb7cedc4"
+  },
+  "headline":{
+    "0":"Angela Merkel Vows G20 Won\u2019t Bow To Trump On Climate Change",
+    "1":"Will Congress Confront Trump Administration's Syria War 'Adhocracy?'",
+    "2":"Mosul Is Liberated From ISIS, But Mission Is Not Accomplished Yet",
+    "3":"After The Mayor's Defeat, Lampedusian Voters Face A Global Media Backlash",
+    "4":"This American Muslim Is Actually Seeking Out People Who Fear Him",
+    "5":"In Symbolic Victory, Iraqi Forces Capture Historic Mosul Mosque From ISIS",
+    "6":"Chinese Province Larger Than Texas Just Ran For An Entire Week On Only Renewable Energy",
+    "7":"President Donald Trump Set To Meet With Russia's Putin Next Week"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"RELIGION",
+    "5":"WORLD NEWS",
+    "6":"WORLD NEWS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Ahead of the G20 summit, the German leader leaves no doubt about her commitment to the Paris pact.",
+    "1":"For a statement that was intended to read like a bright red line, this week\u2019s White House statement on Syria created more",
+    "2":"The timing of the ISIS advance to Mosul could not have been worse.",
+    "3":"Daniela DeBono, European University Institute Giusi Nicolini, the Nobel Prize-nominated, Olof Palme Prize-winning and UNESCO",
+    "4":"\"I like to think we are all against the same things in America, [we] just really suck at communicating,\" said Aymann Ismail.",
+    "5":"The insurgents blew up the medieval mosque and its landmark leaning minaret a week ago.",
+    "6":"Qinghai province used only wind, solar and hydroelectric power to supply its population of 5.8 million.",
+    "7":"The two leaders will meet on the sidelines of the G20 summit in Germany."
+  },
+  "authors":{
+    "0":"Kaeli Subberwal",
+    "1":"Jon Rainwater, ContributorExecutive Director, Peace Action Education Fund",
+    "2":"Abbas Kadhim, ContributorSenior Foreign Policy Fellow, FPI-SAIS, Johns Hopkins University",
+    "3":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "4":"Carol Kuruvilla",
+    "5":"",
+    "6":"Dominique Mosbergen",
+    "7":""
+  },
+  "date":{
+    "0":"2017-06-30 00:00:00",
+    "1":"2017-06-30 00:00:00",
+    "2":"2017-06-30 00:00:00",
+    "3":"2017-06-30 00:00:00",
+    "4":"2017-06-30 00:00:00",
+    "5":"2017-06-29 00:00:00",
+    "6":"2017-06-29 00:00:00",
+    "7":"2017-06-29 00:00:00"
+  },
+  "actor1":{
+    "0":"deu",
+    "1":"---leg",
+    "2":"imgmusisi",
+    "3":"---cvl",
+    "4":"usamus",
+    "5":"irq",
+    "6":"chn",
+    "7":"---gov"
+  },
+  "actor2":{
+    "0":"fra",
+    "1":"syrgov",
+    "2":"irq",
+    "3":"---med",
+    "4":"---ppl",
+    "5":"irq",
+    "6":"---cvl",
+    "7":"rus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"08",
+    "3":"040",
+    "4":"030",
+    "5":"171",
+    "6":"060",
+    "7":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":5.0,
+    "3":1.0,
+    "4":4.0,
+    "5":-9.2,
+    "6":6.0,
+    "7":1.0
+  },
+  "nouns":{
+    "0":[
+      "german",
+      "deu",
+      "germany",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "administration",
+      "syria",
+      "syrgov",
+      "~",
+      "syria"
+    ],
+    "2":[
+      "mosul",
+      "irq",
+      "iraq",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "3":[
+      "voters",
+      "~cvl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "4":[
+      "american",
+      "muslim",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "mosul",
+      "irq",
+      "iraq",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "6":[
+      "qinghai",
+      "chn",
+      "china",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "russia",
+      "putin",
+      "rus",
+      "rusgov",
+      "russian",
+      "federation",
+      "vladimir",
+      "putin"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "german",
+      "paris"
+    ],
+    "1":[
+      "congress",
+      "administration ... syria"
+    ],
+    "2":[
+      "isis",
+      "mosul"
+    ],
+    "3":[
+      "voters",
+      "media"
+    ],
+    "4":[
+      "american muslim",
+      "people"
+    ],
+    "5":[
+      "iraqi",
+      "iraqi"
+    ],
+    "6":[
+      "qinghai",
+      "population"
+    ],
+    "7":[
+      "president",
+      "russia",
+      "president",
+      "putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "france"
+    ],
+    "1":[
+      "---",
+      "syria"
+    ],
+    "2":[
+      "the islamic state",
+      "iraq"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "iraq",
+      "iraq"
+    ],
+    "6":[
+      "china",
+      "---"
+    ],
+    "7":[
+      "---",
+      "russian federation",
+      "---",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leaves"
+    ],
+    "1":[
+      "confront"
+    ],
+    "2":[
+      "<irq> ... liberated from <imgmusisi>"
+    ],
+    "3":[
+      "face"
+    ],
+    "4":[
+      "is ... seeking"
+    ],
+    "5":[
+      "capture"
+    ],
+    "6":[
+      "used ... supply"
+    ],
+    "7":[
+      "set ... meet",
+      "set ... meet"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "election",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "renewable_energy",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "deu",
+      "fra",
+      "040"
+    ],
+    "1":[
+      "---leg",
+      "syrgov",
+      "040"
+    ],
+    "2":[
+      "imgmusisi",
+      "irq",
+      "08"
+    ],
+    "3":[
+      "---cvl",
+      "---med",
+      "040"
+    ],
+    "4":[
+      "usamus",
+      "---ppl",
+      "030"
+    ],
+    "5":[
+      "irq",
+      "irq",
+      "171"
+    ],
+    "6":[
+      "chn",
+      "---cvl",
+      "060"
+    ],
+    "7":[
+      "---gov",
+      "rus",
+      "040",
+      "---gov",
+      "rusgov",
+      "040"
+    ]
+  }
+}

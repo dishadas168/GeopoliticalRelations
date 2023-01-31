@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/garrison-keillor-misconduct-mpr-news_us_5a67be98e4b002283007ab54",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/american-isis-suspect-transfer-aclu-trump-administration_us_5a675fb8e4b0e5630073f28c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/florida-felony-disenfranchisement_us_5a62060fe4b074ce7a07ab01"
+  },
+  "headline":{
+    "0":"Garrison Keillor's Former Station Reports He Was Fired For More Than Touching A Woman's Back",
+    "1":"Trump Administration Must Warn ACLU Before Sending American ISIS Suspect To Another Country, Judge Says",
+    "2":"Florida Takes Big Step Toward Expanding Voting Rights To Over 1.5 Million People"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"An investigation reveals allegations of misconduct going back to 1998.",
+    "1":"Judge Tanya S. Chutkan ordered the U.S. government to provide 72 hours of notice before transferring the detainee, who is being detained in Iraq.",
+    "2":"The state has some of the country's harshest laws disenfranchising felons. That could change in November."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Jessica Schulberg",
+    "2":"Sam Levine"
+  },
+  "date":{
+    "0":"2018-01-24 00:00:00",
+    "1":"2018-01-24 00:00:00",
+    "2":"2018-01-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"---jud",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"usagov",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"100",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "garrison",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "garrison",
+      "garrison"
+    ],
+    "1":[
+      "judge",
+      "u.s. government"
+    ],
+    "2":[
+      "florida",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reports <~mil> ... fired for"
+    ],
+    "1":[
+      "ordered"
+    ],
+    "2":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---mil",
+      "111"
+    ],
+    "1":[
+      "---jud",
+      "usagov",
+      "100"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "171"
+    ]
+  }
+}

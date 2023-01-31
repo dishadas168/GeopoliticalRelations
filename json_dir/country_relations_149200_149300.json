@@ -1,0 +1,159 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/molasses-spill-coral-reef_us_5bb14295e4b09bbe9a5d70bd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bringing-eric-home_us_5bb1b349e4b01857b70a4fbf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/family-friendly-brunei_us_5b9d7f0de4b03a1dcc88c1c6"
+  },
+  "headline":{
+    "0":"Molasses Spill Causing Coral Reef Death",
+    "1":"Bringing Eric Home",
+    "2":"Going for Gold in Family Friendly Brunei (PHOTOS)"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"IMPACT",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Robert Richmond, University of Hawaii marine biology professor and director of Kewalo Marine Laboratory, told reporters that",
+    "1":"I don't think I will ever forget the call I received on Saturday morning, May 21, 2011. An employee of mine called me at home to tell me that Eric was involved in a serious hang-gliding accident the day before. Disbelief and sadness filled me.",
+    "2":"Brunei is surrounded by the Malaysian state of Sarawak, with Sabah to the north, and the rest of the island belongs to Indonesia (Kalimantan). Tip to tip it's a modest 180 km. There is no heavy industry, little pollution, and a population of 400,000."
+  },
+  "authors":{
+    "0":"Gabriela Aoun",
+    "1":"Maggie Sergio, Contributor\nWriter, Conservationist and Concerned Citizen of the Planet",
+    "2":"Carolyn O'Donnell, Contributor\nWords with a dash of hot and itchy"
+  },
+  "date":{
+    "0":"2013-09-14 00:00:00",
+    "1":"2013-09-14 00:00:00",
+    "2":"2013-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"---lab",
+    "2":"mys"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---lab",
+    "2":"brn"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "hawaii",
+      "professor",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "richmond",
+      "university",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "brunei",
+      "brn",
+      "brunei",
+      "darussalam",
+      "sarawak",
+      "mys",
+      "malaysia",
+      "malaysian",
+      "mys",
+      "malaysia",
+      "indonesia",
+      "idn",
+      "indonesia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hawaii ... professor",
+      "reporters"
+    ],
+    "1":[
+      "employee",
+      "employee"
+    ],
+    "2":[
+      "sarawak",
+      "brunei"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "malaysia",
+      "brunei darussalam"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "called ... tell"
+    ],
+    "2":[
+      "<brn> ... surrounded by <mys>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "2"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---lab",
+      "---lab",
+      "010"
+    ],
+    "2":[
+      "mys",
+      "brn",
+      "190"
+    ]
+  }
+}

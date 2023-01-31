@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-im-glad-i-lived-in-ch_us_5b9baa9ee4b03a1dcc796f82",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.beautifulstranger.tv\/snaps\/emma-c"
+  },
+  "headline":{
+    "0":"Why I'm Glad I Lived In China",
+    "1":"Ballet Dancer's Street Style: From The Stylelist Network"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Whether you teach English or work a corporate job, living in China will almost certainly allow you to reform yourself financially if, that is, you're willing to live like a local.",
+    "1":"From Beautiful Stranger: Occupation:\u00a0 Ballet Dancer Home:\u00a0 Currently resides in Basel, Switzerland; hails from London, England"
+  },
+  "authors":{
+    "0":"Robert Schrader, Contributor\nWriter, Photographer, World Traveler",
+    "1":""
+  },
+  "date":{
+    "0":"2012-05-07 00:00:00",
+    "1":"2012-05-07 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"che"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"051"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "basel",
+      "switzerland",
+      "che",
+      "che",
+      "switzerland",
+      "switzerland",
+      "london",
+      "england",
+      "gbr",
+      "gbr",
+      "united",
+      "kingdom",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "china"
+    ],
+    "1":[
+      "basel",
+      "london"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "china"
+    ],
+    "1":[
+      "switzerland",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "hails"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "chn",
+      "08"
+    ],
+    "1":[
+      "che",
+      "gbr",
+      "051",
+      "che",
+      "gbr",
+      "051"
+    ]
+  }
+}

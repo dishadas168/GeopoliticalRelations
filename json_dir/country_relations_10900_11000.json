@@ -1,0 +1,225 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yulia-skripal-released-hospital_us_5acc835de4b07a3485e8048d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sinclair-internal-email_us_5acd046be4b0259339ddff48",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-company-warned-panama-president-of-repercussions-in-hotel-row_us_5acc375ee4b07a3485e7b4ba",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/topless-protester-says-cosby-disempowered-womens-bodies-for-decades_us_5accfa7ee4b0e37659b149a0",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-kim-jong-un_us_5acb9359e4b07a3485e7028c"
+  },
+  "headline":{
+    "0":"Poisoned Daughter Of Russian Spy Released From Hospital",
+    "1":"Internal Email: Sinclair CEO Tells Employees Not To Let \u2018Extremists\u2019 Bully Them",
+    "2":"Trump Company Warned Panama President Of 'Repercussions' In Hotel Row",
+    "3":"Topless Protester Says Bill Cosby 'Disempowered Women's Bodies For Decades'",
+    "4":"Trump Says He'll Meet With Kim Jong Un In May Or Early June"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"MEDIA",
+    "2":"POLITICS",
+    "3":"WOMEN",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\u201cThis is not the end of her treatment but marks a significant milestone.\u201d",
+    "1":"He described recent criticism of the company as \u201cpolitically motivated attacks.\"",
+    "2":"The Trump Organization used the presidency to pressure a foreign head of state, critics say.",
+    "3":"Nicolle Rochelle, who appeared on \"The Cosby Show\" in the 1990s, said she wanted to make Cosby \"uncomfortable.\"",
+    "4":"North Korea has told the United States it is prepared to discuss the denuclearization of the Korean Peninsula when Kim meets Trump, according to a U.S. official."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Maxwell Strachan",
+    "2":"Mary Papenfuss",
+    "3":"Alanna Vagianos",
+    "4":""
+  },
+  "date":{
+    "0":"2018-04-10 00:00:00",
+    "1":"2018-04-10 00:00:00",
+    "2":"2018-04-10 00:00:00",
+    "3":"2018-04-10 00:00:00",
+    "4":"2018-04-09 00:00:00"
+  },
+  "actor1":{
+    "0":"russpy",
+    "1":"---bus",
+    "2":"meareb",
+    "3":"---opp",
+    "4":"prk"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---lab",
+    "2":"---gov",
+    "3":"---cvl",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"010",
+    "2":"170",
+    "3":"010",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":-7.0,
+    "3":0.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "spy",
+      "russpy",
+      "russian",
+      "federation",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "ceo",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "extremists",
+      "~rad",
+      "~"
+    ],
+    "2":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "head of state",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "protester",
+      "~opp",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian spy",
+      "hospital"
+    ],
+    "1":[
+      "ceo",
+      "employees"
+    ],
+    "2":[
+      "organization",
+      "head of state"
+    ],
+    "3":[
+      "protester",
+      "women"
+    ],
+    "4":[
+      "north korea",
+      "the united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "tanzim",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "north korea",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "released"
+    ],
+    "1":[
+      "tells"
+    ],
+    "2":[
+      "used ... pressure"
+    ],
+    "3":[
+      "says"
+    ],
+    "4":[
+      "has told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "disease",
+      "1"
+    ],
+    "1":[
+      "id_extremism",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "russpy",
+      "---hlh",
+      "084"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "010"
+    ],
+    "2":[
+      "meareb",
+      "---gov",
+      "170"
+    ],
+    "3":[
+      "---opp",
+      "---cvl",
+      "010"
+    ],
+    "4":[
+      "prk",
+      "usa",
+      "010"
+    ]
+  }
+}

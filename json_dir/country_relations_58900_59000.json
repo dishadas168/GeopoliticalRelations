@@ -1,0 +1,212 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nicholas-young-fbi-arrest-isis_us_57a2089be4b0e2e15eb80154",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/thousands-of-yazidis-missing-captive-amid-ongoing-genocideun_us_57a1e339e4b0693164c34759",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/transit-policeman-charged-with-trying-to-help-islamic-state_us_57a20351e4b0e2e15eb7f967",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/syrian-refugees-can-either-feed-their-kids-or-send-them-to-school-report_us_57a201d4e4b0e2e15eb7f805"
+  },
+  "headline":{
+    "0":"Cop Who Allegedly Plotted To Assist ISIS Had Ties To Convicted Terrorists",
+    "1":"Thousands Of Yazidis Missing, Captive Amid Ongoing Genocide: UN",
+    "2":"Metro Transit Police Officer In D.C Charged With Helping Islamic State",
+    "3":"Syrian Refugees Can Either Feed Their Kids Or Send Them To School: Report"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"CRIME",
+    "3":"IMPACT"
+  },
+  "short_description":{
+    "0":"Undercover FBI agents were talking to Nicholas Young for years before he was arrested.",
+    "1":"The Islamic State is using many for sexual slavery or forcing them to fight for the militant group, investigators say.",
+    "2":"'The allegations in this case are profoundly disturbing.\"",
+    "3":"Government leaders are urging donors to deliver on pledges to provide schooling for refugees in Lebanon, Turkey and Jordan."
+  },
+  "authors":{
+    "0":"Andy Campbell",
+    "1":"",
+    "2":"",
+    "3":"Alex Whiting, Reuters"
+  },
+  "date":{
+    "0":"2016-08-03 00:00:00",
+    "1":"2016-08-03 00:00:00",
+    "2":"2016-08-03 00:00:00",
+    "3":"2016-08-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"imgmusisi",
+    "2":"---cop",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---uaf",
+    "2":"---mus",
+    "3":"lbnref"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"111",
+    "2":"112",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-2.0,
+    "2":-2.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "police officer",
+      "~cop",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "3":[
+      "government",
+      "~gov",
+      "~",
+      "lebanon",
+      "turkey",
+      "jordan",
+      "lbn",
+      "tur",
+      "jor",
+      "lebanon",
+      "turkey",
+      "jordan",
+      "refugees",
+      "lbnref",
+      "turref",
+      "jorref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "fbi"
+    ],
+    "1":[
+      "the islamic state",
+      "militant"
+    ],
+    "2":[
+      "police officer",
+      "islamic"
+    ],
+    "3":[
+      "government",
+      "refugees",
+      "government",
+      "refugees",
+      "government",
+      "refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "the islamic state",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "",
+      "---",
+      "",
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "were talking <usacop> ... arrested"
+    ],
+    "1":[
+      "is ... forcing ... fight for"
+    ],
+    "2":[
+      "charged"
+    ],
+    "3":[
+      "are ... provide",
+      "are ... provide",
+      "are ... provide"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usacop",
+      "173"
+    ],
+    "1":[
+      "imgmusisi",
+      "---uaf",
+      "111"
+    ],
+    "2":[
+      "---cop",
+      "---mus",
+      "112"
+    ],
+    "3":[
+      "---gov",
+      "lbnref",
+      "060",
+      "---gov",
+      "turref",
+      "060",
+      "---gov",
+      "jorref",
+      "060"
+    ]
+  }
+}

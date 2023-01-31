@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/erdogan-trump-gulen_us_58739c0ee4b02b5f8589e1cb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/germany-russia-fake-news_us_5873be18e4b043ad97e4bad3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-nuclear-missile_us_58739d79e4b043ad97e482c4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/california-state-travel-anti-lgbtq_us_5873baa5e4b043ad97e4b3e8"
+  },
+  "headline":{
+    "0":"Turkey's Erdogan Aims To Capitalize On A Trump Presidency",
+    "1":"German Government Closely Watching Reports Of Russian Fake News Campaign",
+    "2":"Pakistan Claims To Test Fire First Submarine-Launched Nuclear Capable Missile",
+    "3":"California Bans Its Employees From Traveling To States With Anti-LGBTQ Laws"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The Turkish President wants better ties and an extradition of exiled cleric Fethullah Gulen.",
+    "1":"Intelligence agency reports claimed there were Russian efforts to affect Germany's upcoming election.",
+    "2":"The military said the missile was fired from an undisclosed location in the Indian Ocean.",
+    "3":"\ud83d\ude4c  \ud83d\ude4c  \ud83d\ude4c"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2017-01-09 00:00:00",
+    "1":"2017-01-09 00:00:00",
+    "2":"2017-01-09 00:00:00",
+    "3":"2017-01-09 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"deugov",
+    "2":"---",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"turelimus",
+    "1":"rus",
+    "2":"---mil",
+    "3":"---lab"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"015",
+    "3":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "president",
+      "turgov",
+      "turkey",
+      "~",
+      "fethullah gulen",
+      "turelimus",
+      "fethullah",
+      "gulen"
+    ],
+    "1":[
+      "german",
+      "government",
+      "deugov",
+      "germany",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "military",
+      "~mil",
+      "~",
+      "indian ocean",
+      "---",
+      "indian",
+      "ocean"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "employees",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish president",
+      "fethullah gulen"
+    ],
+    "1":[
+      "german government",
+      "russian"
+    ],
+    "2":[
+      "---",
+      "military"
+    ],
+    "3":[
+      "california",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "fethullah gulen"
+    ],
+    "1":[
+      "germany",
+      "russian federation"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... extradition"
+    ],
+    "1":[
+      "closely watching"
+    ],
+    "2":[
+      "<~mil> ... fired from <--->"
+    ],
+    "3":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "turelimus",
+      "100"
+    ],
+    "1":[
+      "deugov",
+      "rus",
+      "010"
+    ],
+    "2":[
+      "---",
+      "---mil",
+      "015"
+    ],
+    "3":[
+      "usa",
+      "---lab",
+      "172"
+    ]
+  }
+}

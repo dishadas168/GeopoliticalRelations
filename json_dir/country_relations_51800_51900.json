@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-paypal-wood-bowl_us_5810bcc8e4b08582f88d045f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-hillary-clintons-historic-candidacy-means-to-this-102-year-old-woman_us_58100484e4b02b1d9e63a9de",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/latest-airstrikes-in-syria-target-elementary-school_us_58109be0e4b08582f88ce1f9"
+  },
+  "headline":{
+    "0":"Sad North Carolina Bigots Asked Paypal To Give Them Back Their Bowl",
+    "1":"What Hillary Clinton's Historic Candidacy Means To This 102-Year-Old Woman",
+    "2":"Latest Airstrikes In Syria Target Elementary School"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"This ridiculousness gives new meaning to the term \"jilted lover.\"",
+    "1":"It's one thing to watch it. It's another to see your grandmother witness it.",
+    "2":"At least seven children died in rebel-held Idlib province."
+  },
+  "authors":{
+    "0":"Noah Michelson",
+    "1":"Chloe Angyal",
+    "2":""
+  },
+  "date":{
+    "0":"2016-10-26 00:00:00",
+    "1":"2016-10-26 00:00:00",
+    "2":"2016-10-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaeli",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"syr"
+  },
+  "event_code":{
+    "0":"021",
+    "1":"030",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":4.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "children",
+      "~cvl",
+      "~",
+      "idlib",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north carolina",
+      "north carolina"
+    ],
+    "1":[
+      "hillary clinton",
+      "woman"
+    ],
+    "2":[
+      "children",
+      "idlib"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ],
+    "2":[
+      "---",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked ... give"
+    ],
+    "1":[
+      "means"
+    ],
+    "2":[
+      "died"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "021"
+    ],
+    "1":[
+      "usaeli",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "---cvl",
+      "syr",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flint-water-crisis-epa_us_56a16670e4b076aadcc601a4",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.cnn.com\/2016\/01\/19\/politics\/hillary-clinton-emails-server-classified-ig-report\/index.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mitch-mcconnell-obama-campaign-finance_us_569ffe9fe4b0404eb8f01924"
+  },
+  "headline":{
+    "0":"Flint Water Crisis Forces EPA Official To Resign",
+    "1":"Hillary Clinton's Private Email Server Contained Highly Classified Intel: Report",
+    "2":"Mitch McConnell Freaks At Obama's Latest Idea"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The EPA said it will take greater control after failures by local and state government.",
+    "1":"Washington (CNN) --\u00a0The emails on Hillary Clinton's private server contained classified intelligence from some of the U.S",
+    "2":"The Senate majority leader really doesn't want the White House to require campaign finance disclosure"
+  },
+  "authors":{
+    "0":"Arthur Delaney",
+    "1":"",
+    "2":"Michael McAuliff"
+  },
+  "date":{
+    "0":"2016-01-21 00:00:00",
+    "1":"2016-01-20 00:00:00",
+    "2":"2016-01-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovenv",
+    "1":"usaeli",
+    "2":"usagovleg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---spy",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"170",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "intelligence",
+      "~spy",
+      "~"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "epa",
+      "government"
+    ],
+    "1":[
+      "hillary clinton",
+      "intelligence"
+    ],
+    "2":[
+      "senate",
+      "the ... white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "environmental protection agency",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ],
+    "2":[
+      "united states congress",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... will take ... control"
+    ],
+    "1":[
+      "contained"
+    ],
+    "2":[
+      "does ... want"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagovenv",
+      "---gov",
+      "015"
+    ],
+    "1":[
+      "usaeli",
+      "---spy",
+      "170"
+    ],
+    "2":[
+      "usagovleg",
+      "usagov",
+      "030"
+    ]
+  }
+}

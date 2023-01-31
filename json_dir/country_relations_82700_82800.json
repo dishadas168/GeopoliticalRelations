@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/thinkprogress.org\/lgbt\/2015\/10\/23\/3715789\/bob-mcnair-houston-donation-return\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fbi-doesnt-allow-huffington-post-reporter-into-directors-talk_us_562a549ae4b0ec0a38943040",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/emmett-sullivan-deferred-prosecution_us_5629406ae4b0443bb5634407"
+  },
+  "headline":{
+    "0":"Texans Owner Demands Houston\u2019s LGBT Opponents Refund His $10,000 Contribution",
+    "1":"FBI Doesn't Allow Huffington Post Reporter Into Director's Talk",
+    "2":"Federal Judge Rips DOJ For Letting Corporate Lawbreakers Off Easy"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Earlier this month, billionaire Bob McNair, owner of the Houston Texans NFL team, donated $10,000 to the Campaign for Houston",
+    "1":"Other journalists were permitted to cover it.",
+    "2":"Deals that favor rehabilitation over prison can be a big break for defendants, but the government increasingly gives them to companies."
+  },
+  "authors":{
+    "0":"",
+    "1":"Michael Calderone",
+    "2":"Kim Bellware"
+  },
+  "date":{
+    "0":"2015-10-23 00:00:00",
+    "1":"2015-10-23 00:00:00",
+    "2":"2015-10-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usacop",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---med",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"08",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":5.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "government",
+      "~gov",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "houston",
+      "houston"
+    ],
+    "1":[
+      "fbi",
+      "reporter"
+    ],
+    "2":[
+      "government",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "donated"
+    ],
+    "1":[
+      "does ... allow"
+    ],
+    "2":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "070"
+    ],
+    "1":[
+      "usacop",
+      "---med",
+      "08"
+    ],
+    "2":[
+      "---gov",
+      "---bus",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/we-dont-need-double-stand_b_7457350.html"
+  },
+  "headline":{
+    "0":"We Don't Need Double Standards for Iranian-Americans"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"As Iranian-Americans, we and our community leaders should have the self-confidence to speak out against all forms of injustice perpetrated against the Iranian people, especially when lives are at stake. That is a unifying cause worthy all of us."
+  },
+  "authors":{
+    "0":"Marjan Keypour Greenblatt, ContributorCo-Founder, Alliance for Rights of All Minorities (ARAM)"
+  },
+  "date":{
+    "0":"2015-05-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"irnppl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "iranian",
+      "people",
+      "irnppl",
+      "iran",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "iranian ... people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... speak"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "irnppl",
+      "010"
+    ]
+  }
+}

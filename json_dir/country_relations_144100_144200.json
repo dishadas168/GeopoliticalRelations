@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cosmetic-surgery-tourism_us_5b9da538e4b03a1dcc8ab84c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chronic-disease_us_5b9da4eee4b03a1dcc8ab38d"
+  },
+  "headline":{
+    "0":"Some Brits Find A Way To Make Cosmetic Surgery Part Of Their Vacation",
+    "1":"The Biggest Medical Discovery of Our Lifetimes: Finding the Cure for Chronic Disease"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Medical tourism has long been a thing around the world. India, Costa Rica and Germany, among others, have been offering everything",
+    "1":"Many people are searching for functional medicine doctors because they're unsatisfied with what conventional medicine offers. They're unhappy with the way conventional doctors think about their health. They're discouraged by the focus conventional medicine places on just suppressing symptoms."
+  },
+  "authors":{
+    "0":"",
+    "1":"Mark Hyman, MD, Contributor\nPracticing Physician"
+  },
+  "date":{
+    "0":"2013-11-08 00:00:00",
+    "1":"2013-11-07 00:00:00"
+  },
+  "actor1":{
+    "0":"ind",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"cri",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "india",
+      "costa rica",
+      "germany",
+      "ind",
+      "cri",
+      "deu",
+      "india",
+      "costa",
+      "rica",
+      "germany"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "people",
+      "doctors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "are searching"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ind",
+      "cri",
+      "030",
+      "ind",
+      "deu",
+      "030",
+      "cri",
+      "ind",
+      "030",
+      "cri",
+      "deu",
+      "030",
+      "deu",
+      "ind",
+      "030",
+      "deu",
+      "cri",
+      "030"
+    ],
+    "1":[
+      "---ppl",
+      "---hlh",
+      "090"
+    ]
+  }
+}

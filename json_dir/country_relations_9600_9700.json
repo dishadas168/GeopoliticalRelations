@@ -1,0 +1,226 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-giuliani-stormy-daniels-payment_us_5aec758ee4b0c4f19321f909",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-dianne-feinstein_us_5aecc0e2e4b0c4f1932287c9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/atlanta-season-2-episode-10_us_5aec989ee4b041fd2d267334",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ireland-gay-wedding-cake-case_us_5aeb1ab4e4b0c4f1931f9b7c",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/anthony-brindisi-tenney-new-york_us_5aeb710fe4b0ab5c3d636cb4"
+  },
+  "headline":{
+    "0":"Trump Throws Rudy Giuliani Under The Bus: 'He'll Get His Facts Straight'",
+    "1":"Obama Backs Sen. Dianne Feinstein As She Faces Challenge From The Left",
+    "2":"How A FUBU Jersey On 'Atlanta' Reveals The Unique Pain Black Kids Experience At School",
+    "3":"Northern Ireland's Gay Cake Row Is Reportedly Taking An Emotional Toll On Activist",
+    "4":"Meet The Pro-Gun Democrat Taking On Congress\u2019 Mini-Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BLACK VOICES",
+    "3":"QUEER VOICES",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president contradicted his lead attorney in remarks Friday.",
+    "1":"Feinstein's leading opponent, state lawmaker Kevin de Le\u00f3n, has campaigned as a progressive alternative to the longtime Democratic senator.",
+    "2":"Fly clothing, one source of pride in a world that hates blackness, is also one of the first forms of respectability politics black children are exposed to and a cause of bullying.",
+    "3":"Ashers Baking Company rejected Gareth Lee's \"Support Gay Marriage\" cake order in 2014.",
+    "4":"Anthony Brindisi, a moderate Democrat, is hoping to oust a GOP bomb thrower in New York\u2019s Trump country."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Mollie Reilly",
+    "2":"Taryn Finley and Julia Craven",
+    "3":"Lin Taylor, Reuters",
+    "4":"Igor Bobic"
+  },
+  "date":{
+    "0":"2018-05-04 00:00:00",
+    "1":"2018-05-04 00:00:00",
+    "2":"2018-05-04 00:00:00",
+    "3":"2018-05-03 00:00:00",
+    "4":"2018-05-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"usa",
+    "3":"irl",
+    "4":"ita"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---leg",
+    "2":"---edu",
+    "3":"---opp",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"100",
+    "2":"050",
+    "3":"171",
+    "4":"174"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0,
+    "2":3.5,
+    "3":-9.2,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "attorney",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "jersey",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "ireland",
+      "irl",
+      "ireland",
+      "activist",
+      "~opp",
+      "~"
+    ],
+    "4":[
+      "brindisi",
+      "ita",
+      "italy",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "attorney"
+    ],
+    "1":[
+      "lawmaker",
+      "lawmaker"
+    ],
+    "2":[
+      "jersey",
+      "school"
+    ],
+    "3":[
+      "ireland",
+      "activist"
+    ],
+    "4":[
+      "brindisi",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "ireland",
+      "---"
+    ],
+    "4":[
+      "italy",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "contradicted"
+    ],
+    "1":[
+      "has campaigned"
+    ],
+    "2":[
+      "reveals"
+    ],
+    "3":[
+      "is ... taking"
+    ],
+    "4":[
+      "is ... hoping ... oust"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---jud",
+      "110"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "100"
+    ],
+    "2":[
+      "usa",
+      "---edu",
+      "050"
+    ],
+    "3":[
+      "irl",
+      "---opp",
+      "171"
+    ],
+    "4":[
+      "ita",
+      "usa",
+      "174"
+    ]
+  }
+}

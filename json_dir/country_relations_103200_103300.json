@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/homeland-security-chief-j_0_n_6730310.html"
+  },
+  "headline":{
+    "0":"Jeh Johnson Agrees With Obama's Refusal To Call ISIS 'Radical Islam'"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Zach Carter"
+  },
+  "date":{
+    "0":"2015-02-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "jeh johnson",
+      "usagov",
+      "jeh",
+      "johnson",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jeh johnson",
+      "jeh johnson"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jeh johnson",
+      "jeh johnson"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "agrees with"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "030"
+    ]
+  }
+}

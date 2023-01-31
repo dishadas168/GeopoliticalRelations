@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hailey-clauson-urban-outfitters_us_5b9b702de4b03a1dcc778ac9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/japan-earthquake-tsunami-anniversary_us_5bb1902be4b01857b7080605"
+  },
+  "headline":{
+    "0":"Hailey Clauson Urban Outfitters Lawsuit Headed To Court",
+    "1":"Japan Earthquake Anniversary: Where Did Your Donation Go? (And How You Can Still Help)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"Clauson also recently attracted media buzz with a questionable photo shoot for Pop magazine, which shows her being \"strangled",
+    "1":"U.S. donors gave a total of $352.2 million to three major charities -- the Red Cross, World Vision and Save the Children"
+  },
+  "authors":{
+    "0":"Ellie Krupnick",
+    "1":"Jessica Prois"
+  },
+  "date":{
+    "0":"2012-03-12 00:00:00",
+    "1":"2012-03-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "urban outfitters",
+      "mncusa",
+      "urban",
+      "outfitters",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "court",
+      "urban outfitters",
+      "urban outfitters",
+      "court"
+    ],
+    "1":[
+      "u.s.",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "urban outfitters",
+      "urban outfitters",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "headed to",
+      "headed to"
+    ],
+    "1":[
+      "gave"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "mncusa",
+      "043",
+      "mncusa",
+      "---jud",
+      "042"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "060"
+    ]
+  }
+}

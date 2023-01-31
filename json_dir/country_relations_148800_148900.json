@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/early-education-playing-to-win_us_5b9d8630e4b03a1dcc891b78"
+  },
+  "headline":{
+    "0":"Early Education: Playing to Win"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Several U.S. Senators and Representatives joined a group of children and their parents on the grounds of the U.S. Capitol today to participate in an eye-catching event: playing a spirited game of Chutes and Ladders on a jumbo-sized game board."
+  },
+  "authors":{
+    "0":"Helen Blank, Contributor\nDirector of Child Care and Early Learning at the National Wome..."
+  },
+  "date":{
+    "0":"2013-09-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg"
+  },
+  "actor2":{
+    "0":"usacvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "representatives",
+      "~leg",
+      "~",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "usacvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators ... representatives",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joined"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usacvl",
+      "040"
+    ]
+  }
+}

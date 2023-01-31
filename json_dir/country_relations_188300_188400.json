@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/stress-reduction_us_5b9c009fe4b03a1dcc7bad7c"
+  },
+  "headline":{
+    "0":"Compassion: Shifting The Balance From Bad to Good Stress"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"We generally think of stress as a big, bad, disease-causing, killer. Yet mother nature didn't give us the stress response to kill us. She gave us the stress response to help us stay alive!"
+  },
+  "authors":{
+    "0":"James R. Doty, M.D., Contributor\nProfessor of Neurosurgery, Stanford University School of Medic..."
+  },
+  "date":{
+    "0":"2012-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "did ... give ... kill"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

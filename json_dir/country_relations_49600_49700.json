@@ -1,0 +1,221 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-police-officer-fatally-shot_us_583215d8e4b099512f836fc1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/india-train-derails_us_5831b117e4b099512f834e59",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dozens-killed-in-aleppo-bombing-including-family-of-6_us_5831a66ee4b058ce7aab9298",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hamilton-cast-message-mike-pence_us_58307f94e4b058ce7aab74ec",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/missing-kansas-newborn-texas_us_5830cd50e4b099512f83415b"
+  },
+  "headline":{
+    "0":"Texas Police Officer Fatally Shot During Traffic Stop",
+    "1":"India Train Derailment Kills At Least 146 People, Rescuers End Search",
+    "2":"Dozens Killed In Aleppo Bombing, Including Family Of 6",
+    "3":"Here\u2019s What The \u2018Hamilton\u2019 Cast Told Mike Pence",
+    "4":"Missing Kansas Newborn Found In Texas After Mother's Killing"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"The San Antonio police officer was sitting in a squad car when he was shot twice, the city's police chief said.",
+    "1":"The packed train suddenly rolled of the tracks, causing a devastating crash.",
+    "2":"Hundreds of people have been killed since Tuesday in a government push to quash rebels in eastern Aleppo.",
+    "3":"Actor Brandon Victor Dixon appealed to the incoming vice president to \"work on behalf of all of us.\"",
+    "4":"Two people were taken into custody at the Dallas home where the baby was found."
+  },
+  "authors":{
+    "0":"Jim Forsyth, Reuters",
+    "1":"",
+    "2":"Angus McDowall, Reuters",
+    "3":"Daniel Marans",
+    "4":""
+  },
+  "date":{
+    "0":"2016-11-20 00:00:00",
+    "1":"2016-11-20 00:00:00",
+    "2":"2016-11-20 00:00:00",
+    "3":"2016-11-19 00:00:00",
+    "4":"2016-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"ind",
+    "2":"---gov",
+    "3":"---eli",
+    "4":"---ppl"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"---gov",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"190",
+    "3":"020",
+    "4":"173"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":3.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "police officer",
+      "~cop",
+      "~",
+      "police chief",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "india",
+      "ind",
+      "india",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "actor",
+      "~eli",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police officer",
+      "police officer"
+    ],
+    "1":[
+      "india",
+      "people"
+    ],
+    "2":[
+      "government",
+      "people"
+    ],
+    "3":[
+      "actor",
+      "president"
+    ],
+    "4":[
+      "people",
+      "dallas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "india",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was <~cop> ... shot"
+    ],
+    "1":[
+      "kills"
+    ],
+    "2":[
+      "<~ppl> ... killed ... in <~gov>"
+    ],
+    "3":[
+      "appealed"
+    ],
+    "4":[
+      "were taken into <&detention>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "2"
+    ],
+    "1":[
+      "public_transit",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cop",
+      "190"
+    ],
+    "1":[
+      "ind",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "---eli",
+      "---gov",
+      "020"
+    ],
+    "4":[
+      "---ppl",
+      "usa",
+      "173"
+    ]
+  }
+}

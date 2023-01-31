@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/antibiotics_us_5b9c811be4b03a1dcc7f43c0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/david-petraeus-affair_us_5b9c824be4b03a1dcc7f4e00"
+  },
+  "headline":{
+    "0":"It's Get Smart About Antibiotics Week!",
+    "1":"David Petraeus Affair: Why Do Powerful Men Cheat More Than Powerful Women?"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"DIVORCE"
+  },
+  "short_description":{
+    "0":"We are entering cold and flu season, and it's natural to want to do everything possible to keep our families healthy. So it's understandable that many people want their doctors to give them antibiotics. After all, they have an infection and antibiotics treat infections, right?",
+    "1":"Gen. David Petraeus' resignation and admission of an extramarital affair Friday caught plenty of people off guard, but for"
+  },
+  "authors":{
+    "0":"Claire McCarthy, M.D., Contributor\nPediatrician at Boston Children's Hospital, Assistant Professo...",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-12 00:00:00",
+    "1":"2012-11-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---mil"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "gen.",
+      "david petraeus",
+      "~mil",
+      "~",
+      "david",
+      "petraeus",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "doctors"
+    ],
+    "1":[
+      "gen. david petraeus",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want"
+    ],
+    "1":[
+      "caught"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---hlh",
+      "030"
+    ],
+    "1":[
+      "---mil",
+      "---ppl",
+      "171"
+    ]
+  }
+}

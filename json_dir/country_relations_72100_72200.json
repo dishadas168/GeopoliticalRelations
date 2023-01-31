@@ -1,0 +1,367 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/10-ways-to-spot-a-truly-e_b_9116134.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/quick-thoughts-on-the-ira_b_9343540.html",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/Cr8YF5",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/nurses-for-bernie-south-carolina_us_56d1e45ee4b0871f60eba14f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-south-carolina_us_56d0d009e4b03260bf76eced",
+    "5":"https:\/\/www.huffingtonpost.comhttp:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2016\/02\/26\/hillary-clinton-bernie-sanders-south-carolina-primary\/80979574\/",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/washington-state-gunman-wife_us_56d209c9e4b0871f60eba560",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/three-presidents-facing-n_b_9335546.html",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/could-barack-obama-give-t_b_9334352.html"
+  },
+  "headline":{
+    "0":"10 Ways to Spot a Truly Exceptional Employee",
+    "1":"Quick Thoughts on the Iranian Elections",
+    "2":"This Horse Hasn't Been Let Out Of His Stall In YEARS",
+    "3":"The Huffington Post To Interview Nurses Supporting Bernie Sanders In South Carolina",
+    "4":"How Hillary Clinton Changed Her South Carolina Playbook",
+    "5":"Hillary Clinton Aiming For Rout In South Carolina",
+    "6":"Washington State Gunman Killed Wife, Her 2 Sons, Neighbor",
+    "7":"Three Presidents Facing North Korea - A Review of U.S. Foreign Policy",
+    "8":"Could Barack Obama Give the Guantanamo Naval Base Back to Cuba?"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"WORLDPOST",
+    "2":"GREEN",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"CRIME",
+    "7":"WORLDPOST",
+    "8":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Dealing with difficult people is frustrating and exhausting for most. Exceptional employees control their interactions with toxic people by keeping their feelings in check.",
+    "1":"The stunning setback of the hardliners in the elections is precisely why they opposed the Iran nuclear deal. They knew that if successful, the Rouhani faction would benefit electorally from the significant achievement of resolving the nuclear issue and reducing tensions with United States.",
+    "2":"Not many people have seen him since his glory days as a Tennessee walking horse.",
+    "3":"National Nurses United endorsed the presidential candidate last year.",
+    "4":"Voters say she's connecting with them on a more personal level than before.",
+    "5":"Hillary Clinton doesn\u2019t want to just beat Bernie Sanders in South Carolina\u2019s Saturday primary.",
+    "6":"The man fatally shot himself in front of police after an hours-long standoff.",
+    "7":"The North Korean government ensured an interesting start to 2016: on January 6, the secluded regime purportedly detonated a hydrogen bomb, although experts say it was more likely a boosted fission weapon.",
+    "8":"What exactly, if anything, is the Obama administration planning in regard to the continuation of the Guantanamo Naval Base in Cuba? We will certainly know by the end of the year."
+  },
+  "authors":{
+    "0":"Dr. Travis Bradberry, ContributorAuthor of #1 bestselling book, Emotional Intelligence 2.0, and...",
+    "1":"Trita Parsi, ContributorPresident, National Iranian American Council",
+    "2":"",
+    "3":"Sam Levine",
+    "4":"Samantha Lachman",
+    "5":"",
+    "6":"",
+    "7":"Young Professionals in Foreign Policy, ContributorYPFP Fellowship Program",
+    "8":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key..."
+  },
+  "date":{
+    "0":"2016-02-28 00:00:00",
+    "1":"2016-02-28 00:00:00",
+    "2":"2016-02-27 00:00:00",
+    "3":"2016-02-27 00:00:00",
+    "4":"2016-02-27 00:00:00",
+    "5":"2016-02-27 00:00:00",
+    "6":"2016-02-27 00:00:00",
+    "7":"2016-02-27 00:00:00",
+    "8":"2016-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"irngov",
+    "2":"---ppl",
+    "3":"---hlh",
+    "4":"---cvl",
+    "5":"usaeli",
+    "6":"---ppl",
+    "7":"---gov",
+    "8":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"usa",
+    "3":"---pty",
+    "4":"---cvl",
+    "5":"usa",
+    "6":"---ppl",
+    "7":"---gov",
+    "8":"---mil"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060",
+    "2":"010",
+    "3":"051",
+    "4":"0311",
+    "5":"138",
+    "6":"190",
+    "7":"030",
+    "8":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0,
+    "2":0.0,
+    "3":3.4,
+    "4":5.2,
+    "5":-7.0,
+    "6":-10.0,
+    "7":4.0,
+    "8":6.0
+  },
+  "nouns":{
+    "0":[
+      "employees",
+      "~lab",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "rouhani",
+      "irngov",
+      "hassan",
+      "rouhani",
+      "united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "nurses",
+      "~hlh",
+      "~",
+      "presidential candidate",
+      "~pty",
+      "~"
+    ],
+    "4":[
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "south carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "7":[
+      "government",
+      "~gov",
+      "~",
+      "regime",
+      "~gov",
+      "~"
+    ],
+    "8":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "naval base",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employees",
+      "people"
+    ],
+    "1":[
+      "rouhani",
+      "united states"
+    ],
+    "2":[
+      "people",
+      "tennessee"
+    ],
+    "3":[
+      "nurses",
+      "presidential candidate"
+    ],
+    "4":[
+      "voters",
+      "voters"
+    ],
+    "5":[
+      "hillary clinton",
+      "south carolina"
+    ],
+    "6":[
+      "man",
+      "man"
+    ],
+    "7":[
+      "government",
+      "government"
+    ],
+    "8":[
+      "barack obama",
+      "naval base"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "hassan rouhani",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "hillary clinton",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "control"
+    ],
+    "1":[
+      "would benefit"
+    ],
+    "2":[
+      "have seen"
+    ],
+    "3":[
+      "endorsed"
+    ],
+    "4":[
+      "say ... 's connecting with"
+    ],
+    "5":[
+      "does ... want ... beat"
+    ],
+    "6":[
+      "shot"
+    ],
+    "7":[
+      "ensured"
+    ],
+    "8":[
+      "give"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "security_services",
+      "1"
+    ],
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "irngov",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "---ppl",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---hlh",
+      "---pty",
+      "051"
+    ],
+    "4":[
+      "---cvl",
+      "---cvl",
+      "0311"
+    ],
+    "5":[
+      "usaeli",
+      "usa",
+      "138"
+    ],
+    "6":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "7":[
+      "---gov",
+      "---gov",
+      "030"
+    ],
+    "8":[
+      "usagov",
+      "---mil",
+      "060"
+    ]
+  }
+}

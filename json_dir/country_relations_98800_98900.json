@@ -1,0 +1,204 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/leaning-in-at-the-pentagon_b_7069454.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-the-media-can-learn_b_7069910.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/never-to-be-forgotten-a-year_b_7061838.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/never-to-be-forgotten-a-year_b_7061838.html"
+  },
+  "headline":{
+    "0":"Leaning In At The Pentagon",
+    "1":"What the Media Can Learn From the Airline Industry",
+    "2":"Never To Be Forgotten - A Year On From Chibok",
+    "3":"Never To Be Forgotten - A Year On From Chibok"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"MEDIA",
+    "2":"WORLDPOST",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Women need to encourage, mentor and challenge other women. Despite what hardships they may have experienced in their own careers, women should pull other women up with them, rather than paying the hardship forward.",
+    "1":"Airlines have taken a fundamentally different approach to the market. Rather than continue to battle one another to the bottom with discount pricing, the industry is now widely practicing what's called \"capacity discipline.\" They have effectively curbed supply in order to fuel demand, and it's working. But how doesthis relate to the publishing industry?",
+    "2":"On April 14th 2014, a ruthless militia kidnapped over 200 of Nigeria's young girls from their school in Chibok in the dead of night. A year on, the girls have yet to be released by Boko Haram, nor rescued by our security forces, leaving their families waiting and praying for answers.",
+    "3":"On April 14th 2014, a ruthless militia kidnapped over 200 of Nigeria's young girls from their school in Chibok in the dead of night. A year on, the girls have yet to be released by Boko Haram, nor rescued by our security forces, leaving their families waiting and praying for answers."
+  },
+  "authors":{
+    "0":"Kelsey L. Campbell, ContributorLaw student; Veteran",
+    "1":"Joshua Macht, ContributorPublisher of the Harvard Business Review",
+    "2":"Toyin Ojora-Saraki, ContributorFounder-President, The Wellbeing Foundation Africa",
+    "3":"Toyin Ojora-Saraki, ContributorFounder-President, The Wellbeing Foundation Africa"
+  },
+  "date":{
+    "0":"2015-04-15 00:00:00",
+    "1":"2015-04-15 00:00:00",
+    "2":"2015-04-14 00:00:00",
+    "3":"2015-04-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"---uaf",
+    "3":"ngareb"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"ngacvl",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040",
+    "2":"181",
+    "3":"084"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0,
+    "2":-9.0,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "airline",
+      "industry",
+      "~bus",
+      "~",
+      "~"
+    ],
+    "2":[
+      "militia",
+      "~uaf",
+      "~",
+      "nigeria",
+      "girls",
+      "ngacvl",
+      "nigeria",
+      "~",
+      "chibok",
+      "nga",
+      "nigeria",
+      "school",
+      "ngaedu",
+      "~"
+    ],
+    "3":[
+      "girls",
+      "~cvl",
+      "~",
+      "boko haram",
+      "ngareb",
+      "boko",
+      "haram",
+      "security forces",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "women"
+    ],
+    "1":[
+      "media",
+      "airline industry"
+    ],
+    "2":[
+      "militia",
+      "nigeria ... girls"
+    ],
+    "3":[
+      "boko haram",
+      "girls",
+      "security forces",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "nigeria"
+    ],
+    "3":[
+      "boko haram",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should pull"
+    ],
+    "1":[
+      "can learn"
+    ],
+    "2":[
+      "kidnapped"
+    ],
+    "3":[
+      "<~cvl> ... rescued <released> by <ngareb>",
+      "<~cvl> ... rescued by <~mil>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":[
+      "named_terror_group",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "171"
+    ],
+    "1":[
+      "---med",
+      "---bus",
+      "040"
+    ],
+    "2":[
+      "---uaf",
+      "ngacvl",
+      "181"
+    ],
+    "3":[
+      "ngareb",
+      "---cvl",
+      "084",
+      "---mil",
+      "---cvl",
+      "073"
+    ]
+  }
+}

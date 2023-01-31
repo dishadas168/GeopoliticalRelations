@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/james-comey-confirm-investigation-trump-russia-fbi_us_58cfe036e4b0ec9d29dd728c"
+  },
+  "headline":{
+    "0":"FBI Director Confirms Agency Is Investigating Ties Between Trump And Russia"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"It is the first official confirmation of the investigation."
+  },
+  "authors":{
+    "0":"Jessica Schulberg"
+  },
+  "date":{
+    "0":"2017-03-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop"
+  },
+  "actor2":{
+    "0":"rus"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is investigating"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "rus",
+      "090"
+    ]
+  }
+}

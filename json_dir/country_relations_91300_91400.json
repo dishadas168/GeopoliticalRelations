@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/man-dies-after-police-pepper-spray-during-arrest-in-alabama_us_55a1c399e4b0b8145f72e7cd"
+  },
+  "headline":{
+    "0":"Man Dies After Police Use Pepper Spray During Arrest In Alabama"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"He began having breathing problems after officers pepper sprayed him during a struggle, officials say."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-07-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "alabama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dies"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

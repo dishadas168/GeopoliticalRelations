@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/abu-khattala-the-career-a_b_5564117.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/americas-tragic-turn-in-g_b_5587493.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/before-bringing-gaza-to-i_b_5582834.html"
+  },
+  "headline":{
+    "0":"Abu Khattala: The Career and Arrest of the Jihadi Behind the Benghazi Attack",
+    "1":"America's Tragic Turn in Germany and Japan",
+    "2":"Before Unleashing Gaza-Like Airstrikes on Iraq, Congress Must Vote"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"On Monday, June 16, three FBI agents, several Navy SEALs and approximately 24 Delta Force commandos captured the terrorist most wanted by the Obama administration in a classic snatch-and-grab \"rendition\" operation in Benghazi, Libya.",
+    "1":"It's taken a long time for Germany and Japan to recover from the Second World War. After enduring the indignity of military occupation, they regained sovereignty only by guaranteeing against future threats to peace. Germany's new constitution only authorized military force in self-defense or in collaboration with collective security agreements. Japan's Article Nine went further, \"forever renounc[ing] ... the threat or use of force as a means of settling international disputes.\" But this post-war settlement is unraveling before our eyes. The Obama administration must learn to distinguish the urgent from the truly fundamental. Unless it rethinks our traditional post-war partnerships, it risks an authoritarian Japan and a profoundly alienated Germany -- destroying one of the greatest legacies of the twentieth century.",
+    "2":"In the early hours of Friday morning, Gaza's Ark - the boat preparing to sail from Gaza in defiance of the Israeli blockade on Palestinian exports - was hit by an Israeli missile and caught fire. When dawn broke Friday morning, little was left of the boat."
+  },
+  "authors":{
+    "0":"Brian Glyn Williams, ContributorProfessor of Islamic History, U. Mass Dartmouth; author, 'Infe...",
+    "1":"Bruce Ackerman, ContributorProfessor of law and political science, Yale; Author 'We the P...",
+    "2":"Robert Naiman, ContributorPolicy Director, Just Foreign Policy"
+  },
+  "date":{
+    "0":"2014-07-15 00:00:00",
+    "1":"2014-07-15 00:00:00",
+    "2":"2014-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"deu",
+    "2":"isr"
+  },
+  "actor2":{
+    "0":"lbyuaf",
+    "1":"---mil",
+    "2":"psegza"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"08",
+    "2":"193"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":5.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "navy",
+      "commandos",
+      "~mil",
+      "~",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~",
+      "benghazi",
+      "libya",
+      "lby",
+      "lby",
+      "libya",
+      "libya"
+    ],
+    "1":[
+      "germany",
+      "deu",
+      "germany",
+      "military force",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "gaza",
+      "psegza",
+      "gaza",
+      "israeli",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "navy ... commandos",
+      "---"
+    ],
+    "1":[
+      "germany",
+      "military force"
+    ],
+    "2":[
+      "israeli",
+      "gaza"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "germany",
+      "---"
+    ],
+    "2":[
+      "israel",
+      "gaza"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "captured"
+    ],
+    "1":[
+      "authorized"
+    ],
+    "2":[
+      "<psegza> <&weapon> ... hit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "lbyuaf",
+      "171",
+      "---mil",
+      "lbyuaf",
+      "171"
+    ],
+    "1":[
+      "deu",
+      "---mil",
+      "08"
+    ],
+    "2":[
+      "isr",
+      "psegza",
+      "193"
+    ]
+  }
+}

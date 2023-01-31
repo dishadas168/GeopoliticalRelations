@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/erika-perdue-dallas-socialite_us_5ba29e75e4b0c2784da38f45"
+  },
+  "headline":{
+    "0":"Erika Perdue, Dallas Socialite, Arrested For Allegedly Trading Child Pornography From Mansion"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"Perdue allegedly confessed to agents that she has been distributing child pornography since 1999, ABC reports. Court documents"
+  },
+  "authors":{
+    "0":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2012-06-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dallas",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "173"
+    ]
+  }
+}

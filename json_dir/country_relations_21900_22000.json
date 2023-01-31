@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unaccompanied-minors-abortion_us_59e6714ce4b00905bdad4f3b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/newsweek-sex-discrimination-matt-mcallester_us_59e4ffe9e4b0a2324d1cbc94",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/syrian-militias-capture-raqqa_us_59e5ecafe4b0ca9f483ac527"
+  },
+  "headline":{
+    "0":"Undocumented Minors Who Suffered Rape May Be Denied Abortions In Government Custody",
+    "1":"Newsweek Journalists Weigh Sex Discrimination Suit Against Magazine",
+    "2":"U.S.-Backed Syrian Militias Take Back Raqqa From ISIS"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The Trump administration won't allow a teen girl in its custody to get an abortion, and won't say if it's using the same tactics to pressure and block rape victims from terminating their pregnancies.",
+    "1":"Fingers are being pointed at Matt McAllester, the magazine\u2019s recently departed global editor-in-chief.",
+    "2":"The city was one of the terror group's last remaining strongholds."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Walker Bragman",
+    "2":""
+  },
+  "date":{
+    "0":"2017-10-18 00:00:00",
+    "1":"2017-10-18 00:00:00",
+    "2":"2017-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---med",
+    "2":"syruaf"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"syr"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"040",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "girl",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "journalists",
+      "~med",
+      "~",
+      "magazine",
+      "~med",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "syrian",
+      "militias",
+      "syruaf",
+      "syria",
+      "~",
+      "raqqa",
+      "syr",
+      "syria",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "girl"
+    ],
+    "1":[
+      "journalists",
+      "journalists"
+    ],
+    "2":[
+      "syrian militias",
+      "raqqa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "syria",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... allow"
+    ],
+    "1":[
+      "weigh"
+    ],
+    "2":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":[
+      "rape",
+      "1"
+    ],
+    "1":[
+      "discrimination",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "040"
+    ],
+    "2":[
+      "syruaf",
+      "syr",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/online-dating-find-your-f_us_5b9d2cc8e4b03a1dcc852d36",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/barack-obamas-morehouse_us_5bade29fe4b0bb1705fb4536",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/content-marketing-experts_us_5bad21afe4b04234e857039c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/new-american-airlines-pla_us_5b9d2ceee4b03a1dcc8530ac"
+  },
+  "headline":{
+    "0":"Online Dating: Find Your FaceMate Matches Mates By Facial Features",
+    "1":"Barack Obama's Morehouse Moment",
+    "2":"Warning: Population of Content Marketing Experts Surging Out of Control",
+    "3":"New American Airlines Planes Give Foreign Carriers Serious Competition"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"BLACK VOICES",
+    "2":"COMEDY",
+    "3":"TRAVEL"
+  },
+  "short_description":{
+    "0":"But does the science work? Kerri Johnson, an assistant psychology professor at UCLA, told Good Morning America that \"there",
+    "1":"Barack Obama visited Morehouse College on Sunday to give a refrain on the responsibility of Morehouse Men and black America to find dignity and progress in self-reliance, a refrain that has simultaneously proven exciting and excruciating for African Americans over the last four years.",
+    "2":"The world population of Content Marketing Experts is exploding at an unsustainable pace -- 12 times the growth of the population as a whole, and nearly twice as fast as One Direction fan blogs, according to recent pretend census data.",
+    "3":"Delta, too, has reconfigured many of its trans-continental 767's and 757's with lie-flat business class seats and in-seat"
+  },
+  "authors":{
+    "0":"",
+    "1":"Jarrett L. Carter, Contributor\nFounding Editor, HBCUDigest.com",
+    "2":"Keith Blanchard, Contributor\nCEO, Teamstream Productions",
+    "3":"George Hobica, Contributor\nSyndicated travel writer and founder, Airfarewatchdog.com"
+  },
+  "date":{
+    "0":"2013-05-19 00:00:00",
+    "1":"2013-05-19 00:00:00",
+    "2":"2013-05-19 00:00:00",
+    "3":"2013-05-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"usabus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---cvl",
+    "3":"---mil"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"043",
+    "2":"183",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":2.8,
+    "2":-10.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "professor",
+      "~edu",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "college",
+      "~edu",
+      "~",
+      "men",
+      "america",
+      "usappl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "american",
+      "airlines",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "carriers",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "professor",
+      "america"
+    ],
+    "1":[
+      "college",
+      "barack obama",
+      "barack obama",
+      "college"
+    ],
+    "2":[
+      "population",
+      "population"
+    ],
+    "3":[
+      "american airlines",
+      "carriers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "visited",
+      "visited"
+    ],
+    "2":[
+      "is exploding"
+    ],
+    "3":[
+      "give"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "usagov",
+      "043",
+      "usagov",
+      "---edu",
+      "042"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "183"
+    ],
+    "3":[
+      "usabus",
+      "---mil",
+      "060"
+    ]
+  }
+}

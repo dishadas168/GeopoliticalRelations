@@ -1,0 +1,199 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-republicans-family-detention-centers_us_58dd5584e4b05eae031e39f6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-congress-opposition_us_58dd52c6e4b05eae031e2ecf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israel-west-bank-settlement_us_58dd641ee4b05eae031e5b61",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/daniel-ramirez-medina-released_us_58dc4a05e4b08194e3b727d6"
+  },
+  "headline":{
+    "0":"Texas Republicans Hope To Give Child Care Licenses To Family Detention Centers",
+    "1":"Venezuela Opposition Cries Foul After Court Takeover Of Congress",
+    "2":"Israeli Cabinet Approves First West Bank Settlement In 20 years",
+    "3":"Authorities Release Dreamer Arrested In Seattle Last Month"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Mothers and children may be separated without the licenses, a private prison executive said.",
+    "1":"Opposition leaders accused President Maduro of perpetrating a \"coup.\"",
+    "2":"The move comes as Prime Minister Netanyahu negotiates with Washington on possible curbs on settlement activity.",
+    "3":"\u201cThis is an important first step toward justice,\u201d Daniel Ramirez Medina's lawyer said."
+  },
+  "authors":{
+    "0":"Roque Planas",
+    "1":"",
+    "2":"",
+    "3":"Dan Levine, Reuters"
+  },
+  "date":{
+    "0":"2017-03-30 00:00:00",
+    "1":"2017-03-30 00:00:00",
+    "2":"2017-03-30 00:00:00",
+    "3":"2017-03-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"usacvl",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"vengov",
+    "2":"isrgov",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"021",
+    "1":"112",
+    "2":"050",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-2.0,
+    "2":3.5,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "opposition leaders",
+      "~opp",
+      "~",
+      "president maduro",
+      "vengov",
+      "nicolas",
+      "maduro"
+    ],
+    "2":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "settlement",
+      "~cvl",
+      "~",
+      "settlement",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "authorities",
+      "~gov",
+      "~",
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "texas",
+      "child"
+    ],
+    "1":[
+      "opposition leaders",
+      "president maduro"
+    ],
+    "2":[
+      "---",
+      "netanyahu",
+      "netanyahu",
+      "---"
+    ],
+    "3":[
+      "authorities",
+      "seattle"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "nicolas maduro"
+    ],
+    "2":[
+      "---",
+      "benjamin netanyahu",
+      "benjamin netanyahu",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hope ... give"
+    ],
+    "1":[
+      "accused"
+    ],
+    "2":[
+      "negotiates with",
+      "negotiates with"
+    ],
+    "3":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "021"
+    ],
+    "1":[
+      "---opp",
+      "vengov",
+      "112"
+    ],
+    "2":[
+      "usacvl",
+      "isrgov",
+      "050",
+      "isrgov",
+      "usacvl",
+      "050"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "173"
+    ]
+  }
+}

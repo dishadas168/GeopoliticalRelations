@@ -1,0 +1,181 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mayors-renewable-energy-climate-change-trump_us_5951e5e2e4b0da2c731e1d85",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/now-ron-johnson-wants-to-kill-me_us_595192a6e4b0f078efd98438",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/top-gop-senator-challenges-trump-arms-deals-over-mideast-mismanagement_us_59513858e4b0da2c731d54a7",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/brazil-president-charged-corruption_us_5951945ce4b05c37bb78e0f7"
+  },
+  "headline":{
+    "0":"Mayors Have Message For Donald Trump: If You Won\u2019t Lead U.S. Climate Fight, We Will",
+    "1":"Now My Senator Wants To Kill Me!",
+    "2":"Top GOP Senator Challenges Trump Arms Deals Over Qatar Crisis",
+    "3":"Brazil's President Michel Temer Charged With Corruption"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Mayors of more than 1,400 cities passed resolutions this week supporting a transition to 100 percent renewable energy and other climate initiatives.",
+    "1":"As if I had only been more careful, then I would have been able to avoid this seven-year battle with cancer.",
+    "2":"The Trump-friendly lawmaker\u2019s move threatens planned sales to Saudi Arabia and shows bipartisan anger with the administration's Mideast mismanagement.",
+    "3":"The country's top prosecutor has charged the president with accepting bribes."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Jeff Simpson, ContributorProgressive Midwesterner",
+    "2":"Akbar Shahid Ahmed",
+    "3":"Ricardo Brito and Brad Brooks, Reuters"
+  },
+  "date":{
+    "0":"2017-06-27 00:00:00",
+    "1":"2017-06-27 00:00:00",
+    "2":"2017-06-26 00:00:00",
+    "3":"2017-06-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"---leg",
+    "3":"---jud"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---leg",
+    "2":"sau",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"138",
+    "2":"130",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-7.0,
+    "2":-4.4,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "mayors",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "prosecutor",
+      "~jud",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayors",
+      "<u.s.>"
+    ],
+    "1":[
+      "senator",
+      "senator"
+    ],
+    "2":[
+      "lawmaker",
+      "saudi arabia"
+    ],
+    "3":[
+      "prosecutor",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "saudi arabia"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... lead"
+    ],
+    "1":[
+      "wants ... kill"
+    ],
+    "2":[
+      "<and> ... threatens"
+    ],
+    "3":[
+      "has <prosecutor> charged"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "138"
+    ],
+    "2":[
+      "---leg",
+      "sau",
+      "130"
+    ],
+    "3":[
+      "---jud",
+      "---gov",
+      "173"
+    ]
+  }
+}

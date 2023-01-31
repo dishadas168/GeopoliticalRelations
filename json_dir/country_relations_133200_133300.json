@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/moving-out-of-poverty-mental-health-issues-kids_us_5b9de9cbe4b03a1dcc8e98f9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ethan-rediske-act_us_5b9de946e4b03a1dcc8e8e61"
+  },
+  "headline":{
+    "0":"Moving Out Of Poverty Linked To Kids' Mental Health (STUDY)",
+    "1":"Florida Education Boss' Letter Deeply Offends Mother Of Recently Deceased Child"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"The girls seemed like they were helped a lot by moving and the boys were hurt a lot,\" Ronald Kessler told Reuters Health",
+    "1":"Florida Education Commissioner Pam Stewart sent a letter to state teachers Monday, informing them that despite \u201cpolitical"
+  },
+  "authors":{
+    "0":"",
+    "1":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2014-03-05 00:00:00",
+    "1":"2014-03-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "reuters",
+      "med",
+      "reuters"
+    ],
+    "1":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "teachers",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ],
+    "1":[
+      "florida",
+      "teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seemed <~cvl> ... helped ... by <--->"
+    ],
+    "1":[
+      "sent ... letter"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "usa",
+      "---edu",
+      "040"
+    ]
+  }
+}

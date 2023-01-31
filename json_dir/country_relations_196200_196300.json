@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-take-your-child-to-work-2012_us_5b9ba134e4b03a1dcc7923ed"
+  },
+  "headline":{
+    "0":"Michelle Obama Take Your Child To Work Day 2012: Answering The Tough Questions! (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"On to the interrogation: a young girl asked FLOTUS what she liked to do on her birthday, and Michelle answered that she likes"
+  },
+  "authors":{
+    "0":"Jessica Misener"
+  },
+  "date":{
+    "0":"2012-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cvl",
+      "171"
+    ]
+  }
+}

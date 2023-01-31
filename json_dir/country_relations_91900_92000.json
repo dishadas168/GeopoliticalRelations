@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-decision-for-the-ages_b_7731226.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lessons-learned-from-the-_6_b_7724342.html"
+  },
+  "headline":{
+    "0":"A Decision for the Ages",
+    "1":"Lessons Learned From the American Independence"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"The Supreme Court's decision in Obergefell v. Hodges establishing nationwide marriage equality will likely go down in history as one of the Court's great landmark rulings. The tone of the majority opinion is strikingly vivid, emotionally intelligent, and personal.",
+    "1":"On July 4, 1776, the United States declared independence from Britain and a vigorous new democracy was born. This year, we celebrate our 239th birthday, and our Founding Fathers are probably doing somersaults from the grave and sputtering in wonderment, \"Who knew?\""
+  },
+  "authors":{
+    "0":"John Lewis and Stuart Gaffney, Contributors",
+    "1":"Glen McDaniel, ContributorFreelance writer"
+  },
+  "date":{
+    "0":"2015-07-05 00:00:00",
+    "1":"2015-07-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"1044"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "supreme court",
+      "~jud",
+      "~",
+      "the court",
+      "~jud",
+      "~",
+      "the court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "supreme court"
+    ],
+    "1":[
+      "the united states",
+      "britain"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... go"
+    ],
+    "1":[
+      "declared independence"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "gbr",
+      "1044"
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/superfruit-defends-todrick-hall_us_59b44cabe4b0bef3378ce0d7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/in-syrias-war-mental-health-is-the-last-priority_us_59b316f9e4b0dfaafcf810f7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ten-toxic-people-who-need-to-disappear-for-the-public_us_59a5d3dee4b0d81379a81bef",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/clinton-bush-carter-obama-harvey-irma-relief_us_59b1d3abe4b0b5e53105160d"
+  },
+  "headline":{
+    "0":"Out Pentatonix Duo Superfruit Defends Friend Todrick Hall Amidst Taylor Swift Backlash",
+    "1":"In Syria\u2019s War, \u2018Mental Health Is The Last Priority\u2019",
+    "2":"The 10 Most Toxic People For Minority Communities In The United States",
+    "3":"All The Living Former U.S. Presidents Rally To Help Hurricane Victims"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLD NEWS",
+    "2":"LATINO VOICES",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cPeople are always going to disagree with you.\u201d",
+    "1":"Zaher Sahloul, a physician with the Syrian American Medical Society (SAMS), discusses the state of mental healthcare in Syria",
+    "2":"Whether explicitly or implicitly, a number of government officials aid the oppression of minority groups in America.",
+    "3":"Bill Clinton, Barack Obama, George  H.W. Bush, George W. Bush and Jimmy Carter come together for the One America Appeal."
+  },
+  "authors":{
+    "0":"Pollo Del Mar , ContributorDrag queen on the SF social, political, editorial and fundrais...",
+    "1":"Alexandra Bradford, Syria Deeply",
+    "2":"Grace Virtue, ContributorPublic Affairs Professional",
+    "3":"Doha Madani"
+  },
+  "date":{
+    "0":"2017-09-09 00:00:00",
+    "1":"2017-09-08 00:00:00",
+    "2":"2017-09-08 00:00:00",
+    "3":"2017-09-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"syr",
+    "2":"---gov",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---hlh",
+    "2":"usa",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"040",
+    "2":"060",
+    "3":"070"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":6.0,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "physician",
+      "~hlh",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "government officials",
+      "~gov",
+      "~",
+      "government officials",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "u.s.",
+      "presidents",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "syria",
+      "physician",
+      "physician",
+      "syria"
+    ],
+    "2":[
+      "government officials",
+      "america"
+    ],
+    "3":[
+      "u.s. presidents",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "syria",
+      "---",
+      "---",
+      "syria"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... going ... disagree"
+    ],
+    "1":[
+      "discusses",
+      "discusses"
+    ],
+    "2":[
+      "aid"
+    ],
+    "3":[
+      "to help"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "natural_disaster",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "110"
+    ],
+    "1":[
+      "syr",
+      "---hlh",
+      "040",
+      "---hlh",
+      "syr",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "060"
+    ],
+    "3":[
+      "usagov",
+      "---cvl",
+      "070"
+    ]
+  }
+}

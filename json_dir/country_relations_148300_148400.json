@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/satisfries_us_5b9d8ac7e4b03a1dcc894edb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/first-ladies-michelle-obama_us_5b9d8b03e4b03a1dcc8950e1",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.newyorker.com\/online\/blogs\/elements\/2013\/09\/youngest-kid-smartest-kid.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/male-sexuality_us_5b9d89a3e4b03a1dcc8943b8"
+  },
+  "headline":{
+    "0":"Burger King 'Satisfries,' New Lower-Calorie French Fries, Leave Us Decently 'Satisfried'",
+    "1":"First Ladies Come For UN General Assembly, Get To Hang With Michelle Obama (PHOTOS)",
+    "2":"Against Redshirting: Why It Pays To Be The Youngest Kid In Class",
+    "3":"Male Sexuality May Explain Why Men Cheat More Than Women"
+  },
+  "category":{
+    "0":"FOOD & DRINK",
+    "1":"STYLE & BEAUTY",
+    "2":"PARENTING",
+    "3":"DIVORCE"
+  },
+  "short_description":{
+    "0":"Satisfrying? Good enough.",
+    "1":"The UN General Assembly is a serious affair... but we often get distracted by the fashionable sideshow that is the first",
+    "2":"When the Harvard sociologist Hilary Levey Friedman was expecting her first child, one thing worried her: her due date, January",
+    "3":"When it came to self-control, there was no discernible difference between men and women. Paul Eastwick, the study's co-author"
+  },
+  "authors":{
+    "0":"Carey Polis",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2013-09-24 00:00:00",
+    "1":"2013-09-24 00:00:00",
+    "2":"2013-09-24 00:00:00",
+    "3":"2013-09-23 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"igounoeli",
+    "2":"---edu",
+    "3":"mdv"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---cvl",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190",
+    "2":"030",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "burger king",
+      "french",
+      "mncusa",
+      "fra",
+      "burger",
+      "king",
+      "france",
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "first ladies",
+      "un general assembly",
+      "igounoeli",
+      "~",
+      "un",
+      "general",
+      "assembly",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "sociologist",
+      "~edu",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "male",
+      "mdv",
+      "maldives",
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "burger king",
+      "burger king",
+      "french",
+      "burger king"
+    ],
+    "1":[
+      "first ladies ... un general assembly",
+      "obama"
+    ],
+    "2":[
+      "sociologist",
+      "child"
+    ],
+    "3":[
+      "male",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "burger king",
+      "burger king",
+      "france",
+      "burger king"
+    ],
+    "1":[
+      "un general assembly",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "maldives",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leave",
+      "leave"
+    ],
+    "1":[
+      "get ... hang"
+    ],
+    "2":[
+      "was expecting"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "usa",
+      "040",
+      "fra",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "igounoeli",
+      "usagov",
+      "190"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "030"
+    ],
+    "3":[
+      "mdv",
+      "---ppl",
+      "010"
+    ]
+  }
+}

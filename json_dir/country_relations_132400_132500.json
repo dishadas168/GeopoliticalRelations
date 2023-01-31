@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jerusalem-my-spiritual-travels_us_5b9dec97e4b03a1dcc8ed894"
+  },
+  "headline":{
+    "0":"My Spiritual Travels in Jerusalem"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Many travelers come to Jerusalem as a spiritual pilgrimage. But even if you're not religious, the city is an monumental place to visit -- especially with a seasoned guide, who can explain the city's complicated history."
+  },
+  "authors":{
+    "0":"La Carmina, Contributor\nTravel TV host, fashion blogger at lacarmina.com and @lacarmina"
+  },
+  "date":{
+    "0":"2014-03-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"isr"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "travelers",
+      "~cvl",
+      "~",
+      "jerusalem",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "travelers",
+      "jerusalem"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "come to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "isr",
+      "040"
+    ]
+  }
+}

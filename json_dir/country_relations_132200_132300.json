@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/animals-rights-activists-tactics_us_5baebea2e4b014374e2edadd"
+  },
+  "headline":{
+    "0":"Animal Rights Activists Shift Tactics, Targeting Individual Scientists & Businesses"
+  },
+  "category":{
+    "0":"SCIENCE"
+  },
+  "short_description":{
+    "0":"Personal attacks, in particular, appear to be on the rise. The report looks at 220 reported illegal incidents within the"
+  },
+  "authors":{
+    "0":"David Freeman"
+  },
+  "date":{
+    "0":"2014-03-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp"
+  },
+  "actor2":{
+    "0":"---cvlbus"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "scientists",
+      "businesses",
+      "~cvlbus",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "scientists ... businesses"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tactics ... targeting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvlbus",
+      "190"
+    ]
+  }
+}

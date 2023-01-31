@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mayor-de-blasio-chokehold-response_n_5602183.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/israeli-soldiers-killed_n_5602171.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israel-foreign-journalists-gaza-responsible-palestine_n_5602562.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-malaysia-airlines-crash_n_5599102.html"
+  },
+  "headline":{
+    "0":"Mayor De Blasio Postpones Italian Vacation In Light Of Man's Chokehold Death",
+    "1":"Palestinian Militants Kill 2 Israeli Soldiers In Tunnel Attack",
+    "2":"Israel Sends Warning To Foreign Journalists",
+    "3":"Obama: At Least One American Citizen Was Killed In Malaysia Airlines Crash"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"WORLDPOST",
+    "2":"MEDIA",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "authors":{
+    "0":"Emily Thomas",
+    "1":"Eline Gordts",
+    "2":"",
+    "3":"Paige Lavender"
+  },
+  "date":{
+    "0":"2014-07-19 00:00:00",
+    "1":"2014-07-19 00:00:00",
+    "2":"2014-07-19 00:00:00",
+    "3":"2014-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"pseuaf",
+    "2":"isr",
+    "3":"mysbus"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"isrmil",
+    "2":"---med",
+    "3":"usacvl"
+  },
+  "event_code":{
+    "0":"120",
+    "1":"190",
+    "2":"130",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-10.0,
+    "2":-4.4,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "~gov",
+      "~",
+      "italian",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "palestinian",
+      "militants",
+      "pseuaf",
+      "palestine",
+      "~",
+      "israeli",
+      "soldiers",
+      "isrmil",
+      "israel",
+      "~"
+    ],
+    "2":[
+      "israel",
+      "isr",
+      "israel",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "american",
+      "citizen",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "malaysia",
+      "airlines",
+      "mysbus",
+      "malaysia",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor",
+      "italian"
+    ],
+    "1":[
+      "palestinian militants",
+      "israeli soldiers"
+    ],
+    "2":[
+      "israel",
+      "journalists"
+    ],
+    "3":[
+      "malaysia airlines",
+      "american citizen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "italy"
+    ],
+    "1":[
+      "palestine",
+      "israel"
+    ],
+    "2":[
+      "israel",
+      "---"
+    ],
+    "3":[
+      "malaysia",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "postpones"
+    ],
+    "1":[
+      "kill"
+    ],
+    "2":[
+      "warning"
+    ],
+    "3":[
+      "<usacvl> ... killed in <mysbus>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "ita",
+      "120"
+    ],
+    "1":[
+      "pseuaf",
+      "isrmil",
+      "190"
+    ],
+    "2":[
+      "isr",
+      "---med",
+      "130"
+    ],
+    "3":[
+      "mysbus",
+      "usacvl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-drag-queens-have-the-power-to-change-your-life_b_7178250.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-night-i-was-ready-to-_b_7177368.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lets-take-us-nukes-off-ha_b_7174346.html"
+  },
+  "headline":{
+    "0":"How Drag Queens Have the Power to Change Your Life",
+    "1":"The Night I Was Ready to Riot",
+    "2":"Let's Take U.S. Nukes Off Hair-Trigger Alert Before We Blow Up the Planet"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week's episode features Johann, a South African man who grew up closeted and lonely until he discovered the gay community in a place he could never have imagined as a child: at a screening of Drag Race, hosted by Seattle performer Ben DeLaCreme.",
+    "1":"The night I was ready to riot was in the spring of 1979 in Chicago. Chicago's \"finest\" had been on the move for weeks, having fun attacking the gay community. Gay clubs were harassed regularly, almost one a week.",
+    "2":"President Obama would make the world a much safer place if he took U.S. land-based nuclear missiles off hair-trigger alert. He has called the policy a \"dangerous relic of the Cold War,\" and a number of high-ranking military officers and government officials agree. So why hasn't Obama done anything about it?"
+  },
+  "authors":{
+    "0":"Matt Baume, ContributorWriter, photographer, explainer of the strange and wonderful",
+    "1":"James Peron, ContributorPresident, Moorfield Storey Institute",
+    "2":"Elliott Negin, ContributorSenior Writer, Union of Concerned Scientists"
+  },
+  "date":{
+    "0":"2015-04-30 00:00:00",
+    "1":"2015-04-30 00:00:00",
+    "2":"2015-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"190",
+    "2":"1711"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":-10.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "seattle",
+      "man",
+      "man",
+      "seattle"
+    ],
+    "1":[
+      "chicago",
+      "community"
+    ],
+    "2":[
+      "president obama",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hosted by",
+      "hosted by"
+    ],
+    "1":[
+      "had ... attacking"
+    ],
+    "2":[
+      "would ... took <&weapon>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "nuclear_weapons",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "042",
+      "---ppl",
+      "usa",
+      "043"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "1711"
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/robert-menendez-ukraine_n_5743958.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/oil-industrys-image-is-ta_b_5744736.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/uk-jewish-leaders-rally_n_5737826.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/will-israel-attack-irans-_b_5741784.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/will-israel-attack-irans-_b_5741784.html"
+  },
+  "headline":{
+    "0":"Senator Says It's Time To Arm Ukraine",
+    "1":"Oil Industry's Image Is Tarnished in Louisiana, Green Activist Says",
+    "2":"London Rally Will Push Zero-Tolerance Of Anti-Semitism, Islamophobia",
+    "3":"Will Israel Attack Iran's Nuclear Installation?",
+    "4":"Will Israel Attack Iran's Nuclear Installation?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"GREEN",
+    "2":"RELIGION",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Israel has previously threatened to carry out attacks against Iran's nuclear installations. Nevertheless, the major dilemma is whether Israel would realistically attack Iran's nuclear facilities.",
+    "4":"Israel has previously threatened to carry out attacks against Iran's nuclear installations. Nevertheless, the major dilemma is whether Israel would realistically attack Iran's nuclear facilities."
+  },
+  "authors":{
+    "0":"Matt Sledge",
+    "1":"Susan Buchanan, ContributorBusiness Writer",
+    "2":"",
+    "3":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "4":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council"
+  },
+  "date":{
+    "0":"2014-08-31 00:00:00",
+    "1":"2014-08-31 00:00:00",
+    "2":"2014-08-30 00:00:00",
+    "3":"2014-08-30 00:00:00",
+    "4":"2014-08-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usa",
+    "2":"gbr",
+    "3":"isr",
+    "4":"isr"
+  },
+  "actor2":{
+    "0":"ukr",
+    "1":"---bus",
+    "2":"usareb",
+    "3":"irn",
+    "4":"irn"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"180",
+    "2":"100",
+    "3":"190",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.0,
+    "2":-5.0,
+    "3":-10.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "activist",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "london",
+      "gbr",
+      "united",
+      "kingdom",
+      "zero",
+      "usareb",
+      "secret",
+      "organization",
+      "zero"
+    ],
+    "3":[
+      "israel",
+      "isr",
+      "israel",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "4":[
+      "israel",
+      "isr",
+      "israel",
+      "iran",
+      "irn",
+      "iran"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "ukraine"
+    ],
+    "1":[
+      "louisiana",
+      "industry"
+    ],
+    "2":[
+      "london",
+      "zero"
+    ],
+    "3":[
+      "israel",
+      "iran"
+    ],
+    "4":[
+      "israel",
+      "iran"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "ukraine"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "secret organization zero"
+    ],
+    "3":[
+      "israel",
+      "iran"
+    ],
+    "4":[
+      "israel",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "<~bus> ... tarnished in <usa>"
+    ],
+    "2":[
+      "will push"
+    ],
+    "3":[
+      "attack"
+    ],
+    "4":[
+      "would ... attack"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "ukr",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "---bus",
+      "180"
+    ],
+    "2":[
+      "gbr",
+      "usareb",
+      "100"
+    ],
+    "3":[
+      "isr",
+      "irn",
+      "190"
+    ],
+    "4":[
+      "isr",
+      "irn",
+      "190"
+    ]
+  }
+}

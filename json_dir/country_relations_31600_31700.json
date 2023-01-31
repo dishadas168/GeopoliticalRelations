@@ -1,0 +1,181 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-smart-people-handle-toxic-people_us_5945b362e4b0940f84fe2f39",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-3-things-senator-elizabeth-warren-wants-women-to_us_59447cd1e4b0940f84fe2e8d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pentagon-troops-afghanistan_us_59434f22e4b0f15cd5ba5784",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/attorneys-general-opioid-investigation_us_5944192ce4b01eab7a2d6c3f"
+  },
+  "headline":{
+    "0":"How Smart People Handle Toxic People",
+    "1":"The 3 Things Senator Elizabeth Warren Wants Women To Do To Save Our Middle Class",
+    "2":"Pentagon Reportedly To Send Nearly 4,000 More Troops To Afghanistan",
+    "3":"State Attorneys General Probe Drug Companies Over Opioid Marketing And Sales Practices"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"WOMEN",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"You are in control of far more than you realize.",
+    "1":"We need to live our values, to be the kind of nation that invests in opportunity, not just for some of us, but for all of",
+    "2":"\u201cWe are not winning in Afghanistan right now,\u201d Defense Secretary Jim Mattis had said.",
+    "3":"The news comes two weeks after Ohio's attorney general sued five drug manufacturers for misrepresenting the risks of opioids."
+  },
+  "authors":{
+    "0":"Dr. Travis Bradberry, ContributorTalentSmart, President and 'Emotional Intelligence 2.0,' Coauthor",
+    "1":"Saqi Mehta, Contributoris an advocate of diversity in tech + ReigningIt Cofounder. Ti...",
+    "2":"Nick Visser",
+    "3":""
+  },
+  "date":{
+    "0":"2017-06-18 00:00:00",
+    "1":"2017-06-17 00:00:00",
+    "2":"2017-06-16 00:00:00",
+    "3":"2017-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---leg",
+    "2":"usamil",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"afg",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"030",
+    "2":"154",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":4.0,
+    "2":-7.2,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "3":[
+      "ohio",
+      "attorney general",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "manufacturers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "senator",
+      "women"
+    ],
+    "2":[
+      "pentagon",
+      "afghanistan"
+    ],
+    "3":[
+      "ohio ... attorney general",
+      "manufacturers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states military",
+      "afghanistan"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "handle"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "reportedly ... send <&military>"
+    ],
+    "3":[
+      "sued ... for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "---leg",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "usamil",
+      "afg",
+      "154"
+    ],
+    "3":[
+      "usagov",
+      "---bus",
+      "173"
+    ]
+  }
+}

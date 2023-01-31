@@ -1,0 +1,313 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cleveland-protesters-gop-convention_us_576c0799e4b0795798cb541c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/company-pays-employees-to-vacation-tech-free_us_576d5348e4b0f16832395581",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brexit-could-cause-uk-charities-to-lose-over-200-million-every-year_us_576d6105e4b017b379f5c67b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/lindsay-lohan-eu-twitter_us_576ce939e4b0f16832392a21",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/obama-brexit_us_576d3742e4b017b379f5a0c4",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/storm-lashes-china-dead_us_576d0ad7e4b0dbb1bbba3017",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/capitol-protest-gun-control_us_576b4c89e4b065534f48f331"
+  },
+  "headline":{
+    "0":"Protesters Fight Cleveland's Plan To Restrict Free Speech During GOP Convention",
+    "1":"This Company Pays Its Employees $7,500 To Vacation Tech-Free",
+    "2":"Brexit Could Cause UK Charities To Lose Over $200 Million Every Year",
+    "3":"Lindsay Lohan Turns Roving EU Reporter On Social Media",
+    "4":"Obama Says U.S. Respects Britain's Decision To Leave EU",
+    "5":"Deadly Storm Lashes Eastern China",
+    "6":"Protesters Gather Outside U.S. Capitol To Push For Vote On Guns"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TRAVEL",
+    "2":"IMPACT",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"The city proposes to lock down an area over three square miles.",
+    "1":"\"The vast majority of employees are incredibly relaxed and calm after they get back.\"",
+    "2":"Oxfam Great Britain got 39 million British Pounds from the EU in 2014.",
+    "3":"The London resident backed Britain to remain in the EU while live-tweeting the results.",
+    "4":"The president had urged Britons to remain in the union.",
+    "5":"Authorities say it killed 98 people and injured hundreds more.",
+    "6":"A huge crowd gathered to show support for Democrats staging a sit-in."
+  },
+  "authors":{
+    "0":"Kim Bellware",
+    "1":"Madeline Diamond",
+    "2":"Eleanor Goldberg",
+    "3":"Lee Moran",
+    "4":"Sam Levine",
+    "5":"",
+    "6":"Paige Lavender"
+  },
+  "date":{
+    "0":"2016-06-24 00:00:00",
+    "1":"2016-06-24 00:00:00",
+    "2":"2016-06-24 00:00:00",
+    "3":"2016-06-24 00:00:00",
+    "4":"2016-06-24 00:00:00",
+    "5":"2016-06-24 00:00:00",
+    "6":"2016-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---bus",
+    "2":"igoeureec",
+    "3":"gbrcvl",
+    "4":"usagov",
+    "5":"---gov",
+    "6":"---opp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---lab",
+    "2":"ngoxfm",
+    "3":"gbr",
+    "4":"usa",
+    "5":"---ppl",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"061",
+    "2":"071",
+    "3":"050",
+    "4":"010",
+    "5":"015",
+    "6":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.4,
+    "2":7.4,
+    "3":3.5,
+    "4":0.0,
+    "5":0.0,
+    "6":1.0
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "cleveland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "oxfam",
+      "great britain",
+      "ngoxfm",
+      "gbr",
+      "oxfam",
+      "united",
+      "kingdom",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ],
+    "3":[
+      "london",
+      "resident",
+      "gbrcvl",
+      "united",
+      "kingdom",
+      "~",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ],
+    "4":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "authorities",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "6":[
+      "protesters",
+      "~opp",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "cleveland"
+    ],
+    "1":[
+      "company",
+      "employees"
+    ],
+    "2":[
+      "the eu",
+      "oxfam"
+    ],
+    "3":[
+      "london resident",
+      "britain"
+    ],
+    "4":[
+      "obama",
+      "<u.s.>"
+    ],
+    "5":[
+      "authorities",
+      "people"
+    ],
+    "6":[
+      "protesters",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "the european union",
+      "oxfam"
+    ],
+    "3":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "4":[
+      "barack obama",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fight"
+    ],
+    "1":[
+      "pays"
+    ],
+    "2":[
+      "got <&currency> ... from"
+    ],
+    "3":[
+      "backed"
+    ],
+    "4":[
+      "says"
+    ],
+    "5":[
+      "say <and> ... killed"
+    ],
+    "6":[
+      "gather"
+    ]
+  },
+  "issues":{
+    "0":[
+      "human_rights",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "european_union",
+      "1"
+    ],
+    "3":[
+      "european_union",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usa",
+      "190"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "061"
+    ],
+    "2":[
+      "igoeureec",
+      "ngoxfm",
+      "071"
+    ],
+    "3":[
+      "gbrcvl",
+      "gbr",
+      "050"
+    ],
+    "4":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "5":[
+      "---gov",
+      "---ppl",
+      "015"
+    ],
+    "6":[
+      "---opp",
+      "usa",
+      "040"
+    ]
+  }
+}

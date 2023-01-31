@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/health-consequences-of-economic-isolation_b_6401472.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/24-year-old-trans-man-die_b_6401542.html"
+  },
+  "headline":{
+    "0":"Not That Healthy",
+    "1":"24-Year-Old Trans Man Dies By Suicide in Pittsburgh"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Poor governance, marked by rising income inequality, corruption and lack of accountability, additionally challenges the sustainability of Cuba's universal health-care scheme. Havana ranks 75th in the annually-published Global Peace Index, a metric that attempts to quantify effective governance in a variety of sectors, putting it on par with troubled countries like Djibouti, Nepal and Malawi.",
+    "1":"I remember reading about his death, but he was misgendered in the original article.  I had no idea he was part of our community."
+  },
+  "authors":{
+    "0":"Vinay Gupta, ContributorCritical Care Physician, Brigham & Women's Hospital",
+    "1":"Sue Kerr, ContributorFounder and editor, Pittsburgh Lesbian Correspondents"
+  },
+  "date":{
+    "0":"2014-12-31 00:00:00",
+    "1":"2014-12-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"cub",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "governance",
+      "~gov",
+      "~",
+      "governance",
+      "~gov",
+      "~",
+      "cuba",
+      "cub",
+      "cuba"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "pittsburgh",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governance",
+      "cuba"
+    ],
+    "1":[
+      "man",
+      "pittsburgh"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "cuba"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "challenges"
+    ],
+    "1":[
+      "dies"
+    ]
+  },
+  "issues":{
+    "0":[
+      "corruption",
+      "1"
+    ],
+    "1":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "cub",
+      "110"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

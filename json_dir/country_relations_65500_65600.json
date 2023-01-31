@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nurse-shark-wont-release-arm_us_5739b94ae4b077d4d6f37368"
+  },
+  "headline":{
+    "0":"Woman With Shark Attached To Her Arm Rushed To Hospital"
+  },
+  "category":{
+    "0":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"This was no catch and release here."
+  },
+  "authors":{
+    "0":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2016-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hospital",
+      "woman",
+      "woman",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rushed to",
+      "rushed to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---cvl",
+      "043",
+      "---cvl",
+      "---hlh",
+      "042"
+    ]
+  }
+}

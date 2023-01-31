@@ -1,0 +1,238 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-media-iran-nuclear-deal_us_55b8ccd4e4b0074ba5a6ca2f",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/firstlook.org\/theintercept\/2015\/07\/28\/dylan-roof-terrorist-animal-rights-activists-free-minks\/",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/firstlook.org\/theintercept\/2015\/07\/28\/dylan-roof-terrorist-animal-rights-activists-free-minks\/",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/guantanamo-bay-poll_us_55b8fa9ae4b0224d8834beda",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/suspicious-packages-oregon_us_55b72d64e4b0074ba5a60aaa"
+  },
+  "headline":{
+    "0":"John Kerry Meets Privately With Washington Bureau Chiefs To Discuss Iran Nuclear Deal",
+    "1":"OUTRAGEOUS! Animal Rights Activists Prosecuted As 'Terrorists'",
+    "2":"OUTRAGEOUS! Animal Rights Activists Prosecuted As 'Terrorists'",
+    "3":"Almost No One Believes Obama Is Actually Going To Close Gitmo",
+    "4":"Suspicious Packages Sent To Oregon Government Buildings"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"And then he'll have to try to convince the Senate.",
+    "1":"The FBI on Friday announced the arrests in Oakland of two animal rights activists, Joseph Buddenberg and Nicole Kissane, and",
+    "2":"The FBI on Friday announced the arrests in Oakland of two animal rights activists, Joseph Buddenberg and Nicole Kissane, and",
+    "3":"Both supporters and opponents of the prison suspect it'll outlive Obama's presidency.",
+    "4":"SALEM, Ore. (AP) \u2014 Authorities in Oregon are investigating suspicious packages sent to government buildings around the"
+  },
+  "authors":{
+    "0":"Michael Calderone",
+    "1":"",
+    "2":"",
+    "3":"Ariel Edwards-Levy",
+    "4":""
+  },
+  "date":{
+    "0":"2015-07-29 00:00:00",
+    "1":"2015-07-29 00:00:00",
+    "2":"2015-07-29 00:00:00",
+    "3":"2015-07-29 00:00:00",
+    "4":"2015-07-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---opp",
+    "2":"usacop",
+    "3":"---cop",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---uaf",
+    "2":"---opp",
+    "3":"---cop",
+    "4":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"173",
+    "2":"010",
+    "3":"110",
+    "4":"090"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0,
+    "2":0.0,
+    "3":-2.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "activists",
+      "~opp",
+      "~",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "4":[
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "authorities",
+      "usagov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john kerry",
+      "washington"
+    ],
+    "1":[
+      "activists",
+      "terrorists"
+    ],
+    "2":[
+      "fbi",
+      "activists"
+    ],
+    "3":[
+      "prison",
+      "prison"
+    ],
+    "4":[
+      "authorities",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john kerry",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "meets"
+    ],
+    "1":[
+      "prosecuted"
+    ],
+    "2":[
+      "announced"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "are investigating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---opp",
+      "---uaf",
+      "173"
+    ],
+    "2":[
+      "usacop",
+      "---opp",
+      "010"
+    ],
+    "3":[
+      "---cop",
+      "---cop",
+      "110"
+    ],
+    "4":[
+      "usagov",
+      "---gov",
+      "090"
+    ]
+  }
+}

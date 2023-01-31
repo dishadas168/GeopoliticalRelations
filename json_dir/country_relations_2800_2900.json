@@ -1,0 +1,340 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/ilhan-omar-derek-chauvin-trial-trauma-minneapolis_n_606a2dffc5b6c00165c29a8f",
+    "1":"https:\/\/www.huffpost.com\/entry\/kim-reynolds-gun-bill-iowa_n_60684a2dc5b66c4ab6b2f038",
+    "2":"https:\/\/www.huffpost.com\/entry\/biden-administration-migrant-kids-texas-facility_n_60637e23c5b6fd3650daeb5e",
+    "3":"https:\/\/www.huffpost.com\/entry\/asian-american-woman-assaulted-nypd-seeks-suspect_n_6062fb89c5b67ad387231073",
+    "4":"https:\/\/www.huffpost.com\/entry\/derek-chauvin-update-trial-details-george-floyd-killing_n_605b45fec5b65d1c28117f34",
+    "5":"https:\/\/www.huffpost.com\/entry\/biden-afghanistan-troops_n_605ccf30c5b67593e056ac7f",
+    "6":"https:\/\/www.huffpost.com\/entry\/colorado-shooting-suspect-to-make-1st-court-appearance_n_605c7398c5b67ad3871d054f",
+    "7":"https:\/\/www.huffpost.com\/entry\/virginia-first-southern-state-abolish-death-penalty_n_601da172c5b66c385ef94c43"
+  },
+  "headline":{
+    "0":"Ilhan Omar Says Derek Chauvin Trial Has \u2018Unearthed So Much Trauma\u2019 For Minneapolis",
+    "1":"Iowa GOP Gov. Kim Reynolds Signs Bill Easing Background Checks On Guns",
+    "2":"Over 4,000 Migrants, Many Kids, Crowded Into Texas Facility",
+    "3":"Elderly Asian American Woman Assaulted, NYPD Seeks Suspect",
+    "4":"Derek Chauvin Trial: What To Know About The Charges, Jurors And More",
+    "5":"Joe Biden Says He 'Can't Picture' U.S. Troops Being In Afghanistan In 2022",
+    "6":"Colorado Shooting Suspect Makes 1st Court Appearance",
+    "7":"Virginia Becomes First Southern State To Abolish The Death Penalty"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"U.S. NEWS",
+    "4":"CRIME",
+    "5":"POLITICS",
+    "6":"U.S. NEWS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"The congresswoman who represents Minneapolis told CNN about the emotions that have resurfaced during the trial of the former officer who killed George Floyd.",
+    "1":"As of July 1, people can buy handguns from private non-licensed sources such as websites, gun shows and individuals without a permit or background check.",
+    "2":"Journalists were allowed into a border detention facility in Donna, Texas, for the first time.",
+    "3":"A man repeatedly kicked a 65-year-old woman in front of witnesses who seemingly stood by. She was hospitalized with serious injuries.",
+    "4":"The former Minneapolis police officer who knelt on George Floyd's neck faces manslaughter and murder charges in the Black man's death.",
+    "5":"The president doubled down on his promise to end America's longest-running war at a Thursday press conference, though he said a May 1 deadline seemed unlikely.",
+    "6":"More than 500 people bundled in winter jackets attended a downtown Boulder candlelight vigil to mourn the 10 people gunned down at a supermarket.",
+    "7":"Capital punishment is rooted in lynchings, and Virginia has disproportionately sentenced Black people to death."
+  },
+  "authors":{
+    "0":"Sanjana Karanth",
+    "1":"DAVID PITT, AP",
+    "2":"Elliot Spagat and Nomaan Merchant, AP",
+    "3":"",
+    "4":"Hayley Miller",
+    "5":"Akbar Shahid Ahmed",
+    "6":"COLLEEN SLEVIN and PATTY NIEBERG, AP",
+    "7":"Jessica Schulberg"
+  },
+  "date":{
+    "0":"2021-04-04 00:00:00",
+    "1":"2021-04-03 00:00:00",
+    "2":"2021-03-30 00:00:00",
+    "3":"2021-03-30 00:00:00",
+    "4":"2021-03-28 00:00:00",
+    "5":"2021-03-25 00:00:00",
+    "6":"2021-03-25 00:00:00",
+    "7":"2021-03-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---ppl",
+    "2":"---med",
+    "3":"---ppl",
+    "4":"usacop",
+    "5":"---gov",
+    "6":"---ppl",
+    "7":"usa"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"---med",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"---ppl",
+    "5":"usa",
+    "6":"---ppl",
+    "7":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"061",
+    "2":"08",
+    "3":"180",
+    "4":"040",
+    "5":"0871",
+    "6":"110",
+    "7":"172"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.4,
+    "2":5.0,
+    "3":-9.0,
+    "4":1.0,
+    "5":9.0,
+    "6":-2.0,
+    "7":-5.0
+  },
+  "nouns":{
+    "0":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "websites",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "journalists",
+      "~med",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "man",
+      "~ppl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "minneapolis",
+      "police officer",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "7":[
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congresswoman",
+      "cnn"
+    ],
+    "1":[
+      "people",
+      "websites"
+    ],
+    "2":[
+      "journalists",
+      "texas"
+    ],
+    "3":[
+      "man",
+      "woman"
+    ],
+    "4":[
+      "minneapolis police officer",
+      "man"
+    ],
+    "5":[
+      "president",
+      "america"
+    ],
+    "6":[
+      "people",
+      "people"
+    ],
+    "7":[
+      "virginia",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "cnn"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "can buy"
+    ],
+    "2":[
+      "were allowed into <usa>"
+    ],
+    "3":[
+      "kicked"
+    ],
+    "4":[
+      "faces"
+    ],
+    "5":[
+      "doubled ... end <&fight>"
+    ],
+    "6":[
+      "attended ... mourn"
+    ],
+    "7":[
+      "has ... sentenced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---med",
+      "061"
+    ],
+    "2":[
+      "---med",
+      "usa",
+      "08"
+    ],
+    "3":[
+      "---ppl",
+      "---cvl",
+      "180"
+    ],
+    "4":[
+      "usacop",
+      "---ppl",
+      "040"
+    ],
+    "5":[
+      "---gov",
+      "usa",
+      "0871"
+    ],
+    "6":[
+      "---ppl",
+      "---ppl",
+      "110"
+    ],
+    "7":[
+      "usa",
+      "---ppl",
+      "172"
+    ]
+  }
+}

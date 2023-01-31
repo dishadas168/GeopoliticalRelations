@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bill-oreilly-people-trying-to-kill-me_us_5901635ce4b0026db1de1cd4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rep-cummings-calls-the-white-houses-bluff_us_5902128ee4b06feec8ac940f"
+  },
+  "headline":{
+    "0":"Bill O'Reilly: 'People Are Trying To Kill Me Right Now'",
+    "1":"Congressman Calls The White House's Bluff"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Former Fox News host compares himself to his father, who fought in World War II.",
+    "1":"It\u2019s safe to presume congressional subpoenas are imminent."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Daryel R. Dunston, ContributorPolicy Analyst | Political Commentator"
+  },
+  "date":{
+    "0":"2017-04-27 00:00:00",
+    "1":"2017-04-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---leg"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "the white house",
+      "congressman",
+      "congressman",
+      "the white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "white house",
+      "---",
+      "---",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... kill"
+    ],
+    "1":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "usagov",
+      "---leg",
+      "041",
+      "---leg",
+      "usagov",
+      "041"
+    ]
+  }
+}

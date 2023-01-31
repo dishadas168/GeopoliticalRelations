@@ -1,0 +1,231 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/will-gaza-gas-serve-as-israels-trojan-horse_b_6869974.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/netanyahu-israel-election_n_6877636.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/rand-paul-iran-obama_n_6874582.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/religion-and-womens-right_b_6873986.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/political-slugfest-on-sug_b_6874054.html"
+  },
+  "headline":{
+    "0":"Will Gaza Gas Serve as Israel's Trojan Horse?",
+    "1":"Netanyahu Implores Voters To Prevent A 'Left-Wing' Government In Israel",
+    "2":"Rand Paul: I Signed Iran Letter In Order To Help Obama",
+    "3":"Religion and Women's Rights: International Women's Day in Israel",
+    "4":"Political Slugfest on Suggestion the White House May Take an Iran Deal to the UN"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"RELIGION",
+    "4":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The development of Gaza Marine would undoubtedly be a positive step. However, the exploration of Palestinian gas reserves must not be permitted solely in return for Israel securing gas purchase agreements with neighboring countries. Such hijacking of the Palestinian gas reserves merely reinforces Israel's control of Palestinian resources.",
+    "1":"",
+    "2":"",
+    "3":"Male voices dominate many discussions about religion so two realities can be overlooked: that religion is important to many women, and that women are vital to religious institutions and practice.",
+    "4":"Reports emerged in the American media Thursday that President Obama may propose a resolution to the UN Security Council calling for the lifting of international sanctions on Iran, if an agreement is reached by the \"P5+1\" negotiating team over the country's nuclear program."
+  },
+  "authors":{
+    "0":"Tareq Baconi, ContributorPolicy Fellow at al-Shabaka: The Palestinian Policy Network",
+    "1":"",
+    "2":"Igor Bobic",
+    "3":"Katherine Marshall, ContributorSenior Fellow, Berkley Center for Religion, Peace, and World A...",
+    "4":"Joseph Braude, ContributorAuthor, broadcaster, and Middle East specialist"
+  },
+  "date":{
+    "0":"2015-03-16 00:00:00",
+    "1":"2015-03-16 00:00:00",
+    "2":"2015-03-15 00:00:00",
+    "3":"2015-03-15 00:00:00",
+    "4":"2015-03-15 00:00:00"
+  },
+  "actor1":{
+    "0":"psegza",
+    "1":"isrgov",
+    "2":"irn",
+    "3":"mdv",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"isr",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"---rel",
+    "4":"irn"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"020",
+    "2":"070",
+    "3":"190",
+    "4":"171"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.0,
+    "2":7.0,
+    "3":-10.0,
+    "4":-9.2
+  },
+  "nouns":{
+    "0":[
+      "gaza",
+      "psegza",
+      "gaza",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "1":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "voters",
+      "~cvl",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "iran",
+      "irn",
+      "iran",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "male",
+      "mdv",
+      "maldives",
+      "religion",
+      "~rel",
+      "~",
+      "religion",
+      "~rel",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "iran",
+      "irn",
+      "iran",
+      "the un",
+      "igouno",
+      "the",
+      "un"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "gaza",
+      "israel"
+    ],
+    "1":[
+      "netanyahu",
+      "voters"
+    ],
+    "2":[
+      "iran",
+      "obama"
+    ],
+    "3":[
+      "male",
+      "religion"
+    ],
+    "4":[
+      "the white house",
+      "iran"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "gaza",
+      "israel"
+    ],
+    "1":[
+      "benjamin netanyahu",
+      "---"
+    ],
+    "2":[
+      "iran",
+      "barack obama"
+    ],
+    "3":[
+      "maldives",
+      "---"
+    ],
+    "4":[
+      "white house",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "serve"
+    ],
+    "1":[
+      "implores"
+    ],
+    "2":[
+      "to help"
+    ],
+    "3":[
+      "dominate"
+    ],
+    "4":[
+      "may take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "psegza",
+      "isr",
+      "060"
+    ],
+    "1":[
+      "isrgov",
+      "---cvl",
+      "020"
+    ],
+    "2":[
+      "irn",
+      "usagov",
+      "070"
+    ],
+    "3":[
+      "mdv",
+      "---rel",
+      "190"
+    ],
+    "4":[
+      "usagov",
+      "irn",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-emma-didlake_us_55aa661fe4b0d2ded39f2cdd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-isis-attacks_us_55aa5262e4b065dfe89e8490",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-isis-attacks_us_55aa5262e4b065dfe89e8490",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/isis-used-chemical-weapons-in-syria-monitor_us_55a9b04ee4b065dfe89e82da"
+  },
+  "headline":{
+    "0":"President Obama Meets With Emma Didlake, Oldest Living U.S. Veteran",
+    "1":"Saudi Arabia Says Thwarts ISIS Attacks, Hundreds Arrested",
+    "2":"Saudi Arabia Says Thwarts ISIS Attacks, Hundreds Arrested",
+    "3":"ISIS Used Chemical Weapons In Syria: Monitor"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Obama noted that she's \"110 years young.\"",
+    "1":"RIYADH, Saudi Arabia (AP) \u2014 Saudi Arabia announced Saturday it has broken up planned Islamic State attacks in the kingdom",
+    "2":"RIYADH, Saudi Arabia (AP) \u2014 Saudi Arabia announced Saturday it has broken up planned Islamic State attacks in the kingdom",
+    "3":"The militants allegedly attacked Kurdish forces and civilians with poison gas."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2015-07-18 00:00:00",
+    "1":"2015-07-18 00:00:00",
+    "2":"2015-07-18 00:00:00",
+    "3":"2015-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"sau",
+    "2":"sau",
+    "3":"---uaf"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"imgmusisi",
+    "2":"---gov",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"190",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "kingdom",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "militants",
+      "~uaf",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "<u.s.>"
+    ],
+    "1":[
+      "saudi arabia",
+      "isis"
+    ],
+    "2":[
+      "saudi arabia",
+      "kingdom"
+    ],
+    "3":[
+      "militants",
+      "civilians"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "saudi arabia",
+      "the islamic state"
+    ],
+    "2":[
+      "saudi arabia",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "meets"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "has broken"
+    ],
+    "3":[
+      "attacked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "sau",
+      "imgmusisi",
+      "010"
+    ],
+    "2":[
+      "sau",
+      "---gov",
+      "190"
+    ],
+    "3":[
+      "---uaf",
+      "---cvl",
+      "190"
+    ]
+  }
+}

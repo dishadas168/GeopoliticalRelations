@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russian-tvs-american-face_b_6060622.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/media-md_b_6101182.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/help-out-a-school-counsel_1_b_6099292.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iraqs-sunnis-wont-fight-i_b_6067896.html"
+  },
+  "headline":{
+    "0":"Russian TV's American Face",
+    "1":"Media, M.D.",
+    "2":"Help Out a School Counselor? I'm In, With #hscc2015",
+    "3":"Iraq's Sunnis Won't Fight ISIS for U.S."
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"MEDIA",
+    "2":"COLLEGE",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"RT is rapidly transforming itself into an American-style whistle-blower, relentlessly reporting on America's democratic deficiencies and malfeasance, at home and abroad.",
+    "1":"Imagine if some media pressure was more equally applied to \"forgotten\" health issues. The increased media spotlight could affect the government's approach to funding, research, and communication about prevention -- shifts that could potentially impact thousands of lives annually.",
+    "2":"Two dozen colleges know that in order for good college counseling to occur for everyone, the college conversation has to include everyone -- which means my fellow college guide authors and suppliers of college application support have some catching up to do.",
+    "3":"Iraq's Sunnis won't fight ISIS for the U.S. says NIQASH, a non-profit media organization operating out of Berlin. Without Sunni support, America's war in Iraq cannot succeed. Here's why."
+  },
+  "authors":{
+    "0":"Jill Dougherty, ContributorWoodrow Wilson International Center for Scholars, Public Polic...",
+    "1":"David Rejeski, Contributor",
+    "2":"Patrick O'Connor, ContributorAssociate Dean of College Counseling, Cranbrook Schools; Autho...",
+    "3":"Peter Van Buren, ContributorAuthor of the forthcoming \"Hooper's War,\" \"Ghosts of Tom Joad:..."
+  },
+  "date":{
+    "0":"2014-11-04 00:00:00",
+    "1":"2014-11-04 00:00:00",
+    "2":"2014-11-04 00:00:00",
+    "3":"2014-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"rusmed",
+    "1":"---med",
+    "2":"---edu",
+    "3":"irqmus"
+  },
+  "actor2":{
+    "0":"usamed",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"imgmusisi"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"050",
+    "2":"030",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.5,
+    "2":4.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "tv",
+      "american",
+      "rusmed",
+      "usamed",
+      "russian",
+      "federation",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "colleges",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "iraq",
+      "sunnis",
+      "irqmus",
+      "iraq",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "media",
+      "government"
+    ],
+    "2":[
+      "colleges",
+      "colleges"
+    ],
+    "3":[
+      "iraq ... sunnis",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "iraq",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "could affect"
+    ],
+    "2":[
+      "know ... means"
+    ],
+    "3":[
+      "wo ... fight ... for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "5"
+    ],
+    "3":[
+      "civil_society",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "rusmed",
+      "usamed",
+      "040",
+      "usamed",
+      "rusmed",
+      "040"
+    ],
+    "1":[
+      "---med",
+      "---gov",
+      "050"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "030"
+    ],
+    "3":[
+      "irqmus",
+      "imgmusisi",
+      "111"
+    ]
+  }
+}

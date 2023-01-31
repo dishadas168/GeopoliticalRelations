@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cissy-houston-to-be-honored-with-lifetime-achievement-award_us_56017627e4b00310edf89926",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/charges-baruch-hazing-death_us_5601525ce4b08820d91a0f05",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-big-short-trailer_us_56018ac5e4b08820d91a4a69"
+  },
+  "headline":{
+    "0":"Cissy Houston To Be Honored With Lifetime Achievement Award",
+    "1":"More Charges On The Way In Connection With Baruch College Hazing Death",
+    "2":"Watch Ryan Gosling, Christian Bale And Brad Pitt Battle The American Banks In 'The Big Short' Trailer"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"COLLEGE",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Houston will be honored at the Gospel Image Awards in Charlotte.",
+    "1":"Ten more people have been charged in Pennsylvania in the hazing death of a New York City fraternity pledge.",
+    "2":"A film about how \"the American people are getting screwed by the big banks.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Julia Brucculieri"
+  },
+  "date":{
+    "0":"2015-09-22 00:00:00",
+    "1":"2015-09-22 00:00:00",
+    "2":"2015-09-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"chechr"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"112",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-2.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "charlotte",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "christian",
+      "bale",
+      "chechr",
+      "~",
+      "switzerland"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "houston",
+      "houston"
+    ],
+    "1":[
+      "pennsylvania",
+      "people"
+    ],
+    "2":[
+      "american",
+      "christian bale"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "switzerland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "honored at <---> ... in <usa>"
+    ],
+    "1":[
+      "<~ppl> ... charged in <usa> ... in <--->"
+    ],
+    "2":[
+      "watch"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "051"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "112"
+    ],
+    "2":[
+      "usa",
+      "chechr",
+      "010"
+    ]
+  }
+}

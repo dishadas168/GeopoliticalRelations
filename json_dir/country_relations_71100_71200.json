@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/democratic-debate-deporting-children_us_56e0e3ebe4b065e2e3d4d907",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/democratic-debate-deporting-children_us_56e0e3ebe4b065e2e3d4d907",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thenewcivilrightsmovement.com\/davidbadash\/breaking_federal_judge_rules_supreme_court_s_same_sex_marriage_ruling_does_not_apply_to_puerto_rico"
+  },
+  "headline":{
+    "0":"Hillary Clinton, Bernie Sanders 'Promise' They Won\u2019t Deport Children, Adults Without Criminal Records",
+    "1":"Hillary Clinton, Bernie Sanders 'Promise' They Won\u2019t Deport Children, Adults Without Criminal Records",
+    "2":"Judge Says SCOTUS Same-Sex Marriage Ruling Doesn't Apply To Puerto Rico"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Advocates got a major weapon in their fight against deportations in the next administration (unless it's Trump).",
+    "1":"Advocates got a major weapon in their fight against deportations in the next administration (unless it's Trump).",
+    "2":"In a stunning decision a federal judge has ruled that the Supreme Court's decision almost a year ago that found same-sex"
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Elise Foley",
+    "2":""
+  },
+  "date":{
+    "0":"2016-03-10 00:00:00",
+    "1":"2016-03-10 00:00:00",
+    "2":"2016-03-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"---jud",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"usagovjud"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"072",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":8.3,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "advocates",
+      "~jud",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "scotus",
+      "usagovjud",
+      "united",
+      "states",
+      "supreme",
+      "court"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "children"
+    ],
+    "1":[
+      "advocates",
+      "administration"
+    ],
+    "2":[
+      "judge",
+      "scotus"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states supreme court"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wo ... deport"
+    ],
+    "1":[
+      "got <&weapon>"
+    ],
+    "2":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---cvl",
+      "174"
+    ],
+    "1":[
+      "---jud",
+      "---gov",
+      "072"
+    ],
+    "2":[
+      "---jud",
+      "usagovjud",
+      "010"
+    ]
+  }
+}

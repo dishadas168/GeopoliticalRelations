@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mexico-new-reality-united-states_us_589f5138e4b03df370d6c9c9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tennessee-natural-marriage-defense-act_us_589f4371e4b0ab2d2b159895",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pa-legislature-plans-taking-away-teachers-sick-days_us_589e5b0ce4b0e172783a9c25"
+  },
+  "headline":{
+    "0":"Mexico Warns Its People About 'New Reality' In The United States",
+    "1":"Tennessee Bill Seeks To 'Defend Natural Marriage Between One Man And One Woman'",
+    "2":"Pennsylvania Legislature Plans To Take Away Teachers\u2019 Sick Days"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"QUEER VOICES",
+    "2":"EDUCATION"
+  },
+  "short_description":{
+    "0":"The statement came after the deportation of an Arizona mother.",
+    "1":"Lawmakers also want to bring a HB2-style bathroom bill to the state.",
+    "2":"Seriously. What did teachers ever do to you?"
+  },
+  "authors":{
+    "0":"Hilary Hanson",
+    "1":"Noah Michelson",
+    "2":"Steven Singer, ContributorHusband, father, teacher, education advocate"
+  },
+  "date":{
+    "0":"2017-02-11 00:00:00",
+    "1":"2017-02-11 00:00:00",
+    "2":"2017-02-11 00:00:00"
+  },
+  "actor1":{
+    "0":"mex",
+    "1":"usa",
+    "2":"usaleg"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"0334",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":6.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "mexico",
+      "mex",
+      "mexico",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "woman",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "2":[
+      "pennsylvania",
+      "legislature",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mexico",
+      "people"
+    ],
+    "1":[
+      "tennessee",
+      "man ... woman"
+    ],
+    "2":[
+      "pennsylvania legislature",
+      "teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "mexico",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warns"
+    ],
+    "1":[
+      "seeks ... defend"
+    ],
+    "2":[
+      "plans ... take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mex",
+      "---ppl",
+      "130"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "0334"
+    ],
+    "2":[
+      "usaleg",
+      "---edu",
+      "171"
+    ]
+  }
+}

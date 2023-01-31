@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russo-ukrainian-war-reality_b_5737412.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dismissal-of-iranian-scie_b_5736666.html"
+  },
+  "headline":{
+    "0":"Russo-Ukrainian War Now a Reality",
+    "1":"Dismissal of Iranian Science Minister Rallies Both Support and Opposition for Moderate President Rohani"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Now is the time for the West -- whether NATO, the United States, or individual European states --to provide or sell the high-tech weaponry Ukraine needs to defend itself effectively. The argument against such a move -- that it would provoke a Russian escalation--is no longer valid, now that Russia has escalated. A well-armed Ukraine could stop Putin from embarking on any of these more alarming scenarios.",
+    "1":"The impeachment of Iranian Minister of Science Reza Faraji Dana by the conservative-dominated Iranian Parliament on August 20 has been a key event for both sides -- a slip in the political tectonics that could yield seismic waves throughout the country's political landscape."
+  },
+  "authors":{
+    "0":"Alexander Motyl, ContributorUkrainian-American Political Scientist, Rutgers University",
+    "1":"Angie Ahmadi, ContributorWriter, political analyst"
+  },
+  "date":{
+    "0":"2014-08-29 00:00:00",
+    "1":"2014-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"ukr",
+    "1":"irn"
+  },
+  "actor2":{
+    "0":"ukr",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"1034",
+    "1":"150"
+  },
+  "goldstein_score":{
+    "0":null,
+    "1":-7.2
+  },
+  "nouns":{
+    "0":[
+      "nato",
+      "the united states",
+      "igowstnat",
+      "usa",
+      "nato",
+      "united",
+      "states",
+      "of",
+      "america",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "1":[
+      "iranian",
+      "irn",
+      "iran",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ukraine",
+      "ukraine"
+    ],
+    "1":[
+      "iranian",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "ukraine",
+      "ukraine"
+    ],
+    "1":[
+      "iran",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs ... defend"
+    ],
+    "1":[
+      "rallies"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ukr",
+      "ukr",
+      "1034"
+    ],
+    "1":[
+      "irn",
+      "---gov",
+      "150"
+    ]
+  }
+}

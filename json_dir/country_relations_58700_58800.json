@@ -1,0 +1,167 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-captures-fleeing-iraqis_us_57a452bbe4b03ba68011f885",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/black-lives-matter-london-airport-protest_us_57a46bb0e4b056bad21525e1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pharmaceutical-companies-are-price-gouging-vaccines-for-refugees-aid-group_us_57a3950ee4b03ba68011b5a1"
+  },
+  "headline":{
+    "0":"ISIS Captures Up To 3,000 Fleeing Iraqis, Executes 12",
+    "1":"UK Black Lives Matter Protesters Block Road To Europe's Busiest Airport",
+    "2":"Big Pharma Says It Offers Cheap Vaccines For Refugees, But It\u2019s Not Completely True"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"IMPACT"
+  },
+  "short_description":{
+    "0":"The U.N. report comes after a rights group said Islamic State fighters used civilians as human shields during clashes with Iraq Security Forces.",
+    "1":"London police arrested 10 demonstrators after some locked themselves across the road.",
+    "2":"Doctors Without Borders is petitioning Pfizer and GlaxoSmithKline to lower the prices on the shots."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Eleanor Goldberg"
+  },
+  "date":{
+    "0":"2016-08-05 00:00:00",
+    "1":"2016-08-05 00:00:00",
+    "2":"2016-08-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---hri",
+    "1":"gbr",
+    "2":"---hlh"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"---opp",
+    "2":"mncusahlh"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"173",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "rights group",
+      "~hri",
+      "~",
+      "fighters",
+      "~uaf",
+      "~",
+      "civilians",
+      "~cvl",
+      "~",
+      "iraq",
+      "security forces",
+      "irqmil",
+      "iraq",
+      "~"
+    ],
+    "1":[
+      "london",
+      "gbr",
+      "united",
+      "kingdom",
+      "demonstrators",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "doctors",
+      "~hlh",
+      "~",
+      "pfizer",
+      "glaxosmithkline",
+      "mncusahlh",
+      "mncgbrhlh",
+      "pfizer",
+      "glaxosmithkline"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rights group",
+      "fighters"
+    ],
+    "1":[
+      "london",
+      "demonstrators"
+    ],
+    "2":[
+      "doctors",
+      "pfizer",
+      "doctors",
+      "glaxosmithkline"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "---"
+    ],
+    "2":[
+      "---",
+      "pfizer",
+      "---",
+      "glaxosmithkline"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "police arrested"
+    ],
+    "2":[
+      "is petitioning",
+      "is petitioning"
+    ]
+  },
+  "issues":{
+    "0":[
+      "civil_society",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hri",
+      "---uaf",
+      "010"
+    ],
+    "1":[
+      "gbr",
+      "---opp",
+      "173"
+    ],
+    "2":[
+      "---hlh",
+      "mncusahlh",
+      "020",
+      "---hlh",
+      "mncgbrhlh",
+      "020"
+    ]
+  }
+}

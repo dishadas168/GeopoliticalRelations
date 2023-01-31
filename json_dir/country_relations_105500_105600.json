@@ -1,0 +1,351 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chris-wallace-shep-smith-netanyahu-fox-news_n_6542454.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cfes-looking-to-help-five_b_6539652.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dont-forget-me_b_6540318.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-arctic-refuge_n_6541680.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/the-enemy-of-my-enemy-isl_b_6541952.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/the-enemy-of-my-enemy-isl_b_6541952.html",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/benjamin-netanyahu-congress-speech_n_6540906.html",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/obama-india-nuclear-deal_n_6541064.html"
+  },
+  "headline":{
+    "0":"Chris Wallace, Shep Smith Criticize Netanyahu's Visit To Congress",
+    "1":"CFES Looking to Help 5 Low-Income Schools",
+    "2":"Don't Forget Me",
+    "3":"Obama To Propose Protecting 1.4 Million Acres Of U.S. Arctic Refuge",
+    "4":"The Enemy of My Enemy: Islamic State and the Internationalization of the Syrian and Iraqi Civil Wars",
+    "5":"The Enemy of My Enemy: Islamic State and the Internationalization of the Syrian and Iraqi Civil Wars",
+    "6":"After Criticism, Benjamin Netanyahu Defends Planned Speech To Congress",
+    "7":"Obama Announces Nuclear 'Breakthrough' With India"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"IMPACT",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"A national nonprofit, College For Every Student (CFES), \u00ad\u00adis searching for five schools to participate in a high-impact program that will help low-income students become college and career ready. The five schools will receive Closing the Gap awards through support from private donors.",
+    "2":"It's deeply reassuring when our president shows how he is paying attention.  Remembering. And his numbers don't lie.  Barack Obama continues to lead us away from the Great Republican Recession.",
+    "3":"",
+    "4":"Iranian military deployment increased further during the summer of 2014, despite continued Iranian denials that there were any Iranian troops stationed in Iraq. On August 21, Iran's 81st Armored Division took part in a joint Iranian-Kurdish attack to liberate Jalawla from IS militants.",
+    "5":"Iranian military deployment increased further during the summer of 2014, despite continued Iranian denials that there were any Iranian troops stationed in Iraq. On August 21, Iran's 81st Armored Division took part in a joint Iranian-Kurdish attack to liberate Jalawla from IS militants.",
+    "6":"",
+    "7":""
+  },
+  "authors":{
+    "0":"Alana Horowitz Satlin",
+    "1":"Matthew Lynch, Ed.D., ContributorAuthor of The Call to Teach and editor of The Edvocate, www.th...",
+    "2":"Paula Gordon, ContributorProducer and Host, 'The Paula Gordon Show'",
+    "3":"",
+    "4":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key...",
+    "5":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key...",
+    "6":"",
+    "7":""
+  },
+  "date":{
+    "0":"2015-01-25 00:00:00",
+    "1":"2015-01-25 00:00:00",
+    "2":"2015-01-25 00:00:00",
+    "3":"2015-01-25 00:00:00",
+    "4":"2015-01-25 00:00:00",
+    "5":"2015-01-25 00:00:00",
+    "6":"2015-01-25 00:00:00",
+    "7":"2015-01-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---edu",
+    "2":"usagov",
+    "3":"usagov",
+    "4":"irnmil",
+    "5":"irn",
+    "6":"isrgov",
+    "7":"usagov"
+  },
+  "actor2":{
+    "0":"isrgov",
+    "1":"---edu",
+    "2":"usagov",
+    "3":"usa",
+    "4":"irn",
+    "5":"---uaf",
+    "6":"---leg",
+    "7":"ind"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"090",
+    "2":"060",
+    "3":"074",
+    "4":"060",
+    "5":"035",
+    "6":"074",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":-2.0,
+    "2":6.0,
+    "3":8.5,
+    "4":6.0,
+    "5":7.0,
+    "6":8.5,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~",
+      "college",
+      "student",
+      "~edu",
+      "~",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "iranian",
+      "military",
+      "irnmil",
+      "iran",
+      "~",
+      "iranian",
+      "irn",
+      "iran",
+      "iranian",
+      "troops",
+      "irnmil",
+      "iran",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "5":[
+      "iran",
+      "irn",
+      "iran",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "6":[
+      "benjamin netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "7":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "india",
+      "ind",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "netanyahu",
+      "netanyahu",
+      "congress"
+    ],
+    "1":[
+      "student",
+      "student"
+    ],
+    "2":[
+      "barack obama",
+      "barack obama"
+    ],
+    "3":[
+      "obama",
+      "u.s."
+    ],
+    "4":[
+      "iranian military",
+      "iranian"
+    ],
+    "5":[
+      "iran",
+      "militants"
+    ],
+    "6":[
+      "benjamin netanyahu",
+      "congress"
+    ],
+    "7":[
+      "obama",
+      "india"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "benjamin netanyahu",
+      "benjamin netanyahu",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "barack obama"
+    ],
+    "3":[
+      "barack obama",
+      "united states of america"
+    ],
+    "4":[
+      "iran",
+      "iran"
+    ],
+    "5":[
+      "iran",
+      "---"
+    ],
+    "6":[
+      "benjamin netanyahu",
+      "---"
+    ],
+    "7":[
+      "barack obama",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visit",
+      "visit"
+    ],
+    "1":[
+      "is searching"
+    ],
+    "2":[
+      "continues ... lead"
+    ],
+    "3":[
+      "protecting"
+    ],
+    "4":[
+      "increased"
+    ],
+    "5":[
+      "took part ... liberate"
+    ],
+    "6":[
+      "defends"
+    ],
+    "7":[
+      "announces"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "civil_society",
+      "1",
+      "postsecondary_education",
+      "2",
+      "students",
+      "2",
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "isrgov",
+      "043",
+      "isrgov",
+      "---leg",
+      "042"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "090"
+    ],
+    "2":[
+      "usagov",
+      "usagov",
+      "060"
+    ],
+    "3":[
+      "usagov",
+      "usa",
+      "074"
+    ],
+    "4":[
+      "irnmil",
+      "irn",
+      "060"
+    ],
+    "5":[
+      "irn",
+      "---uaf",
+      "035"
+    ],
+    "6":[
+      "isrgov",
+      "---leg",
+      "074"
+    ],
+    "7":[
+      "usagov",
+      "ind",
+      "010"
+    ]
+  }
+}

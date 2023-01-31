@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-g8-white-house-tour_us_5b9bbc7fe4b03a1dcc79f37b",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/styleblazer.com\/46694\/historically-most-stylish-black-men-8-dapper-dons-who-were-made-in-the-past\/"
+  },
+  "headline":{
+    "0":"Michelle Obama Welcomes G-8 First Ladies To White House In Style (PHOTOS)",
+    "1":"A Look Back At The Most Stylish Black Men: 8 Dapper Dons Who Were Made in the Past"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"After the tour, the ladies dined on gazpacho, Maryland rockfish, greens from the White House garden and caramelized olive",
+    "1":"Let's face it, men of the former years had exceptional taste. Heading out for a stroll down Madison Avenue called for a double"
+  },
+  "authors":{
+    "0":"Jessica Misener",
+    "1":""
+  },
+  "date":{
+    "0":"2012-05-19 00:00:00",
+    "1":"2012-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "first ladies",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "first ladies",
+      "obama",
+      "obama",
+      "first ladies"
+    ],
+    "1":[
+      "men",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "welcomes ... to",
+      "welcomes ... to"
+    ],
+    "1":[
+      "face"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "usagov",
+      "042",
+      "usagov",
+      "---eli",
+      "043"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

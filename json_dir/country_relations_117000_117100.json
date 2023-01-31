@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mean-toddlers-preventing-_b_5807252.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-laid-off-cancer_n_5806194.html"
+  },
+  "headline":{
+    "0":"Mean Toddlers: Preventing Mean Girls From Developing in the Earliest Years",
+    "1":"A Woman Told Her Boss About A Devastating Cancer Diagnosis. He Responded By Firing Her."
+  },
+  "category":{
+    "0":"PARENTS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"What if girls were taught to deal appropriately with jealousy long before they ever get to middle school? As a scholar in child development (and thus, a lifelong student of human behavior), I believe they should be. It could have great payoffs later in life for girls and women.",
+    "1":""
+  },
+  "authors":{
+    "0":"Katherine Rose, ContributorAssociate Professor in Early Child Development and Education a...",
+    "1":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2014-09-12 00:00:00",
+    "1":"2014-09-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "middle school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "boss",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ],
+    "1":[
+      "woman",
+      "boss"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "010"
+    ]
+  }
+}

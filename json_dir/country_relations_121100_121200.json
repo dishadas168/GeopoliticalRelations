@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-washington-post-fails_b_5623213.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-pursuing-plan_n_5623208.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dc-handgun-ban_n_5623951.html"
+  },
+  "headline":{
+    "0":"'Washington Post' Fails in Gaza",
+    "1":"White House Pursuing Plan To Expand Immigrant Rights",
+    "2":"Federal Judge Strikes Down D.C. Handgun Ban"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Israel relies on their ability to dominate and shape media messages and images to the same extent that they depend on their military to win battles. And because the Israelis have cultivated all too compliant partners in the press and in politics, their narrative of events often trumps reality.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2014-07-26 00:00:00",
+    "1":"2014-07-26 00:00:00",
+    "2":"2014-07-26 00:00:00"
+  },
+  "actor1":{
+    "0":"med",
+    "1":"usagov",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"psegza",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"120",
+    "1":"030",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":4.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "washington post",
+      "med",
+      "washington",
+      "post",
+      "gaza",
+      "psegza",
+      "gaza"
+    ],
+    "1":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "immigrant",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "federal judge",
+      "~jud",
+      "~",
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "washington post",
+      "gaza"
+    ],
+    "1":[
+      "white house",
+      "immigrant"
+    ],
+    "2":[
+      "federal judge",
+      "<d.c.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "washington post",
+      "gaza"
+    ],
+    "1":[
+      "white house",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fails"
+    ],
+    "1":[
+      "plan"
+    ],
+    "2":[
+      "strikes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "med",
+      "psegza",
+      "120"
+    ],
+    "1":[
+      "usagov",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "---jud",
+      "usa",
+      "190"
+    ]
+  }
+}

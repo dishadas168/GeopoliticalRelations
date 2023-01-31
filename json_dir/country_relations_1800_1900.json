@@ -1,0 +1,183 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/states-automatically-mail-ballots-voters_n_61524bfbe4b06beda4731ce1",
+    "1":"https:\/\/www.huffpost.com\/entry\/coronavirus-us-travel-biden_n_614899cee4b0efa77f8313c6",
+    "2":"https:\/\/www.huffpost.com\/entry\/emmanuel-macron-biden-crisis-submarines_n_614782b2e4b0175a1832de75"
+  },
+  "headline":{
+    "0":"Here Are The States That Automatically Mail Ballots To All Voters",
+    "1":"Biden Easing Foreign Travel Restrictions, Requiring Vaccines",
+    "2":"Emmanuel Macron To Talk To Biden Amid Crisis Over Submarines"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"U.S. NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"California has joined nine other states and Washington, D.C., to mandate that every voter be mailed a ballot by default ahead of an election.",
+    "1":"President Joe Biden will ease foreign travel restrictions into the U.S. beginning in November, when his administration will require all foreign travelers flying into the country to be fully vaccinated.",
+    "2":"President Emmanuel Macron will speak with President Joe Biden after a major crisis erupted between France and the U.S. over a submarine deal with Australia."
+  },
+  "authors":{
+    "0":"Sanjana Karanth",
+    "1":"ZEKE MILLER, AP",
+    "2":"ELAINE GANLEY, AP"
+  },
+  "date":{
+    "0":"2021-09-28 00:00:00",
+    "1":"2021-09-20 00:00:00",
+    "2":"2021-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"046"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "joe biden",
+      "usagov",
+      "~",
+      "joe",
+      "biden",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "administration",
+      "~gov",
+      "~",
+      "travelers",
+      "~cvl",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "joe biden",
+      "usagov",
+      "~",
+      "joe",
+      "biden",
+      "france",
+      "u.s.",
+      "fra",
+      "usa",
+      "france",
+      "united",
+      "states",
+      "of",
+      "america",
+      "australia",
+      "aus",
+      "australia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "california"
+    ],
+    "1":[
+      "president joe biden",
+      "u.s."
+    ],
+    "2":[
+      "president",
+      "president ... joe biden"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "joe biden",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "joe biden"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has joined"
+    ],
+    "1":[
+      "will ease"
+    ],
+    "2":[
+      "will speak with"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "tourism",
+      "1",
+      "vaccination",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "usagov",
+      "046"
+    ]
+  }
+}

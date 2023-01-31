@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/my-personal-experience-on_us_5b9ddcb5e4b03a1dcc8ddf01"
+  },
+  "headline":{
+    "0":"My Personal Experience on How to Save Tens of Thousands of Dollars on College Tuition"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"Our interest in getting the best financial support possible from the best school for Abby helped me discover a way of potentially lowering college tuition by a significant amount. Read on -- it could save you tens of thousands of dollars!"
+  },
+  "authors":{
+    "0":"Bradford Pine, Contributor\nWealth Advisor"
+  },
+  "date":{
+    "0":"2014-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "school",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "070"
+    ]
+  }
+}

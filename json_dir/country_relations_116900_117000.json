@@ -1,0 +1,196 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/irans-covert-and-quiet-mi_b_5815704.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/campbell-brown-teacher-tenure_b_5807346.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/charles-clark-custodian-trinity-high-school_n_5808632.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/whats-in-a-name_13_b_5808602.html"
+  },
+  "headline":{
+    "0":"Iran's Covert and Quiet Military Build Up and Operations",
+    "1":"Lies My Corporate Ed Reformers Told Me: The Truth About Teacher Tenure and the Civil Rights Movement",
+    "2":"High School Custodian Offers Students Inspired Guidance",
+    "3":"What's in a Name?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"EDUCATION",
+    "2":"GOOD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Islamic Republic has exercised a tactical shift with regards to its mass strategic signaling when it comes to its military and ballistic capabilities, development of nuclear technologies,  covert operations, long-range missiles and ICBM capabilities.",
+    "1":"When so called \"reformers\" like Campbell Brown try to make the case that tenure extends teachers an unfair guarantee of employment unlike other public servants, she is more than stretching the truth.",
+    "2":"",
+    "3":"I, an immigrant, consider myself to be an American. But I hope being considered an American doesn't cost me my Bengali name."
+  },
+  "authors":{
+    "0":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "1":"Yohuru Williams, ContributorHistorian, professor, education activist and author of Teachin...",
+    "2":"Nadine Cheung",
+    "3":"Rahfin Faruk, ContributorTruman-Albright Fellow, Washington D.C."
+  },
+  "date":{
+    "0":"2014-09-13 00:00:00",
+    "1":"2014-09-12 00:00:00",
+    "2":"2014-09-12 00:00:00",
+    "3":"2014-09-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---mus",
+    "1":"---opp",
+    "2":"---edu",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---edu",
+    "2":"---edu",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"030",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":4.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "islamic",
+      "~mus",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "reformers",
+      "~opp",
+      "~",
+      "teacher",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "high school",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "immigrant",
+      "~cvl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "islamic",
+      "military"
+    ],
+    "1":[
+      "reformers",
+      "teacher"
+    ],
+    "2":[
+      "high school",
+      "high school"
+    ],
+    "3":[
+      "immigrant",
+      "immigrant"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... comes to"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "offers"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "nuclear_weapons",
+      "1"
+    ],
+    "1":[
+      "teachers",
+      "1",
+      "human_rights",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mus",
+      "---mil",
+      "040"
+    ],
+    "1":[
+      "---opp",
+      "---edu",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "030"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

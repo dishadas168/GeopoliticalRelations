@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/walmart-black-friday-sale-start-thanksgiving_us_5b9c7e0fe4b03a1dcc7f2978",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/millicent-owuor-twins-barack-obama-and-mitt-romney_us_5b9c7dd7e4b03a1dcc7f25cd"
+  },
+  "headline":{
+    "0":"Walmart Black Friday Sales To Start Thanksgiving Night",
+    "1":"Millicent Owuor, New Mom, Names Newborn Twins Barack Obama And Mitt Romney (PHOTO)"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"We bought deep, very deep, and we bought deep on items that matter to our customers,\" said Walmart U.S. Chief Merchandising",
+    "1":"(h\/t Buzzfeed) The BBC reported that Owuor gave birth close to the village of Kogelo where President Obama's father was born"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-08 00:00:00",
+    "1":"2012-11-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "bbc",
+      "med",
+      "bbc",
+      "village",
+      "~cvl",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "customers"
+    ],
+    "1":[
+      "bbc",
+      "village"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "bbc",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bought"
+    ],
+    "1":[
+      "reported ... gave"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "061"
+    ],
+    "1":[
+      "med",
+      "---cvl",
+      "060"
+    ]
+  }
+}

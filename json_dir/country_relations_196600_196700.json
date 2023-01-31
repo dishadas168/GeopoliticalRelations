@@ -1,0 +1,130 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/cedarfalls.patch.com\/articles\/cedar-falls-vigil-for-kenneth-j-weishuhn-jr#photo-9683340",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/infosys-homeland-security-investigate_us_5bb2bedde4b0480ca65b2418"
+  },
+  "headline":{
+    "0":"Kenneth Weishuhn, Gay Iowa Teen, Suicide Inspires Anti-Bullying Vigil",
+    "1":"Infosys Controversy: Homeland Security Investigates Indian Software Giant"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"On Friday evening, people from the community met on the corner of University Avenue and Main Street in Cedar Falls to mourn",
+    "1":"Jack Palmer, a company employee, has reportedly accused Infosys of misusing the B1 visas to send employees from India to"
+  },
+  "authors":{
+    "0":"",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-04-22 00:00:00",
+    "1":"2012-04-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---buslab"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"mncindmedlab"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"112"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "people",
+      "community",
+      "~cvl",
+      "~",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "company",
+      "employee",
+      "~buslab",
+      "~",
+      "~",
+      "infosys",
+      "employees",
+      "india",
+      "mncindmedlab",
+      "indlab",
+      "infosys",
+      "~",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "university"
+    ],
+    "1":[
+      "company employee",
+      "infosys",
+      "company employee",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "infosys",
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "met"
+    ],
+    "1":[
+      "has ... accused",
+      "has ... accused"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "---buslab",
+      "mncindmedlab",
+      "112",
+      "---buslab",
+      "indlab",
+      "112"
+    ]
+  }
+}

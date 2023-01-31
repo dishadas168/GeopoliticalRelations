@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/building-legacy-obama-res_n_5817288.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/engaged-and-enraged-peopl_b_5818136.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-war-isis_n_5818554.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hrc-trans-inclusion_b_5808146.html"
+  },
+  "headline":{
+    "0":"Powerful Court's Shift Gives Advantage To Obama",
+    "1":"Engaged and Enraged People Vow to End Alzheimer's by 2020",
+    "2":"John Kerry Says U.S. Is 'At War' With ISIS",
+    "3":"HRC Reboots Its Mission Toward Greater Trans Inclusion"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"FIFTY",
+    "2":"POLITICS",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Bea Lerner, Trish Vradenburg's mother, called at 3:00 AM one morning to complain about a strange man in her house. Trish and her husband, George, immediately went there to find only one man in the house, her husband.",
+    "2":"",
+    "3":"Last Thursday at the Southern Comfort Conference in Atlanta, HRC President Chad Griffin apologized for all the problems between HRC and the trans community for which HRC had been responsible over the years. He was specific and demanded to be held accountable. These are words the trans community has never heard before from HRC, certainly not in public."
+  },
+  "authors":{
+    "0":"",
+    "1":"Marie Marley, Contributoraward-winning author, 'Come Back Early Today: A Memoir of Love...",
+    "2":"Jennifer Bendery",
+    "3":"Dana Beyer, ContributorExecutive Director, Gender Rights Maryland"
+  },
+  "date":{
+    "0":"2014-09-14 00:00:00",
+    "1":"2014-09-14 00:00:00",
+    "2":"2014-09-14 00:00:00",
+    "3":"2014-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"tcd"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl",
+    "2":"usa",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"114",
+    "2":"010",
+    "3":"055"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "court",
+      "~jud",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "3":[
+      "chad",
+      "tcd",
+      "chad",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "court",
+      "obama"
+    ],
+    "1":[
+      "mother",
+      "man"
+    ],
+    "2":[
+      "john kerry",
+      "u.s."
+    ],
+    "3":[
+      "chad",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "john kerry",
+      "united states of america"
+    ],
+    "3":[
+      "chad",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "called ... complain"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "apologized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usagov",
+      "060"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "114"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "tcd",
+      "---cvl",
+      "055"
+    ]
+  }
+}

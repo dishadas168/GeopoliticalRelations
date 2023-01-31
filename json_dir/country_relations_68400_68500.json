@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-sec-climate-change-risk_us_56fd29e7e4b0a06d5804e38e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-officials-warn-zika-scarier-than-initially-thought_us_570c39e4e4b01422324a023e",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nbcnews.com\/news\/us-news\/director-brennan-cia-won-t-waterboard-again-even-if-ordered-n553756",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/women-men-pedicures_us_570bc5cde4b0836057a1b81c"
+  },
+  "headline":{
+    "0":"Obama\u2019s Wall Street Watchdog Does Little To Protect Investors From Climate Risk",
+    "1":"U.S. Officials Warn Zika 'Scarier' Than Initially Thought",
+    "2":"Director Brennan: CIA Won't Waterboard Again \u2014 Even if Ordered by Future President",
+    "3":"Women Tell Men Everything They Need To Know About Pedicures"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"STYLE"
+  },
+  "short_description":{
+    "0":"Other regulators are stepping up while the SEC ignores climate change.",
+    "1":"Zika, linked to numerous cases of the birth defect microcephaly in Brazil, is spreading rapidly in Latin America and the Caribbean.",
+    "2":"CIA Director John Brennan told NBC News in an exclusive interview that his agency will not engage in harsh \"enhanced interrogation",
+    "3":"Show this to the men in your life."
+  },
+  "authors":{
+    "0":"Shahien Nasiripour",
+    "1":"Timothy Gardner and Jeff Mason, Reuters",
+    "2":"",
+    "3":"James Cave"
+  },
+  "date":{
+    "0":"2016-04-12 00:00:00",
+    "1":"2016-04-12 00:00:00",
+    "2":"2016-04-11 00:00:00",
+    "3":"2016-04-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"bra",
+    "2":"usaspy",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"010",
+    "2":"100",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":0.0,
+    "2":-5.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "investors",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "brazil",
+      "bra",
+      "brazil",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "investors"
+    ],
+    "1":[
+      "brazil",
+      "america"
+    ],
+    "2":[
+      "cia",
+      "president"
+    ],
+    "3":[
+      "women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "brazil",
+      "united states of america"
+    ],
+    "2":[
+      "us intelligence community",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "does ... protect"
+    ],
+    "1":[
+      "is spreading"
+    ],
+    "2":[
+      "wo ... ordered"
+    ],
+    "3":[
+      "tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---bus",
+      "074"
+    ],
+    "1":[
+      "bra",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "usaspy",
+      "---gov",
+      "100"
+    ],
+    "3":[
+      "---cvl",
+      "---ppl",
+      "010"
+    ]
+  }
+}

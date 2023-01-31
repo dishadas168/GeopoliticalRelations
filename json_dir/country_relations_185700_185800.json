@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gay-cure-switch_us_5bafa82ce4b0ad76925f9e3d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shane-smith-eddy-moretti_us_5bb2cf28e4b0480ca65c8232",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/techcrunch.com\/2012\/08\/17\/google-files-new-patent-lawsuit-against-apple-seeks-to-block-iphone-ipad-mac-imports-to-u-s\/",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/techcrunch.com\/2012\/08\/17\/google-files-new-patent-lawsuit-against-apple-seeks-to-block-iphone-ipad-mac-imports-to-u-s\/"
+  },
+  "headline":{
+    "0":"Gay \"Cure\" Switch: Lisa Ling Tells HuffPost Live About Exclusive Conversation With Group's Changed Leader",
+    "1":"Shane Smith & Eddy Moretti Talk Youth Unemployment On HuffPost Live (VIDEO)",
+    "2":"Google Files New Patent Lawsuit Against Apple, Seeks To Block IPhone, IPad & Mac Imports To U.S.",
+    "3":"Google Files New Patent Lawsuit Against Apple, Seeks To Block IPhone, IPad & Mac Imports To U.S."
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"BUSINESS",
+    "2":"TECH",
+    "3":"TECH"
+  },
+  "short_description":{
+    "0":"Lisa Ling, the host of Our America on OWN, sat down with HuffPost Live to discuss her exclusive interview with Alan Chambers",
+    "1":"HuffPost Live president & co-creator Roy Sekoff was joined by VICE founder & CEO Shane Smith and Chief Creative Officer Eddy",
+    "2":"According to Bloomberg, Google\u2019s Motorola unit just filed a new patent-infringement lawsuit against Apple with the U.S. International",
+    "3":"According to Bloomberg, Google\u2019s Motorola unit just filed a new patent-infringement lawsuit against Apple with the U.S. International"
+  },
+  "authors":{
+    "0":"Jacob Soboroff",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2012-08-18 00:00:00",
+    "1":"2012-08-18 00:00:00",
+    "2":"2012-08-18 00:00:00",
+    "3":"2012-08-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---bus",
+    "2":"mncusamed",
+    "3":"mncusamed"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"usa",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"046",
+    "1":"040",
+    "2":"030",
+    "3":"115"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0,
+    "2":4.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chambers",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "ceo",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "google",
+      "mncusamed",
+      "google",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "google",
+      "motorola",
+      "mncusamed",
+      "mncusamed",
+      "google",
+      "motorola",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "chambers"
+    ],
+    "1":[
+      "ceo",
+      "president"
+    ],
+    "2":[
+      "google",
+      "<u.s.>"
+    ],
+    "3":[
+      "google",
+      "google"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "google",
+      "united states of america"
+    ],
+    "3":[
+      "google",
+      "google"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sat ... discuss ... with"
+    ],
+    "1":[
+      "<~gov> ... joined by <~bus>"
+    ],
+    "2":[
+      "seeks"
+    ],
+    "3":[
+      "filed ... lawsuit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---leg",
+      "046"
+    ],
+    "1":[
+      "---bus",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "mncusamed",
+      "usa",
+      "030"
+    ],
+    "3":[
+      "mncusamed",
+      "usa",
+      "115",
+      "mncusamed",
+      "usa",
+      "115"
+    ]
+  }
+}

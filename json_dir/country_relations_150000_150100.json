@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/well-dressed-women-strokes_us_5b9d7e06e4b03a1dcc88ae50"
+  },
+  "headline":{
+    "0":"'Well-Dressed' Women Might Look Too Healthy To Be Diagnosed With Stroke Symptoms"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"A study of over 15,000 people found that women were only half as likely as men to be checked for signs of heart disease, which"
+  },
+  "authors":{
+    "0":"Lauren Duca"
+  },
+  "date":{
+    "0":"2013-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "found <~cvl> ... checked"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "090"
+    ]
+  }
+}

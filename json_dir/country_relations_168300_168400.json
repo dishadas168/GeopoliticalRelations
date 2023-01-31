@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bp-spill-settlement-gulf_us_5bb13364e4b09bbe9a5c3f20"
+  },
+  "headline":{
+    "0":"BP Spill Settlement Reportedly Being Considered By U.S. Justice, Gulf States"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"BP has said it would settle on \"reasonable terms,\" but was prepared to go to trial if the demands were \"excessive and not"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-02-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"mncgbrcvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "bp",
+      "settlement",
+      "mncgbrcvl",
+      "bp",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "bp ... settlement"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "bp"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<mncgbrcvl> ... considered by <usa>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "mncgbrcvl",
+      "040"
+    ]
+  }
+}

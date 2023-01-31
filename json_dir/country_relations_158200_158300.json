@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/making-the-case-for-dating-a-bad-boy_us_5b9d3d48e4b03a1dcc85d0aa"
+  },
+  "headline":{
+    "0":"Making the Case for Dating a Bad Boy"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"\"Every man is a bad boy until he meets a good woman.\" I posted the comment to my facebook community this week and got a lot of very interesting and varied responses."
+  },
+  "authors":{
+    "0":"Kerri Zane, Contributor\nEmmy winning TV producer, Single Mom Lifestyle Expert\/Multi-ge..."
+  },
+  "date":{
+    "0":"2013-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... meets"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

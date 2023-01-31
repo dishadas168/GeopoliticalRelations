@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/suspected-arizona-highway-shooter-formally-charged_us_5602cd55e4b0fde8b0d0b1ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pope-obama-white-house_us_56029c0fe4b00310edf936c5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pope-obama-white-house_us_56029c0fe4b00310edf936c5"
+  },
+  "headline":{
+    "0":"Cops Charge Man In Arizona Highway Shootings",
+    "1":"Obama Welcomes Pope Francis To The White House",
+    "2":"Obama Welcomes Pope Francis To The White House"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police say they have connected him to just four of the 11 total shootings.",
+    "1":"Francis and Obama headed into the White House for talks. Both men see eye-to-eye on climate change and defense of the poor",
+    "2":"Francis and Obama headed into the White House for talks. Both men see eye-to-eye on climate change and defense of the poor"
+  },
+  "authors":{
+    "0":"Sebastian Murdock",
+    "1":"Philip Pullella and Jeff Mason, Reuters",
+    "2":"Philip Pullella and Jeff Mason, Reuters"
+  },
+  "date":{
+    "0":"2015-09-23 00:00:00",
+    "1":"2015-09-23 00:00:00",
+    "2":"2015-09-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"046",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":7.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "the poor",
+      "~cvl",
+      "~",
+      "the poor",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "police"
+    ],
+    "1":[
+      "obama",
+      "obama"
+    ],
+    "2":[
+      "men",
+      "the poor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... have connected"
+    ],
+    "1":[
+      "headed ... for talks"
+    ],
+    "2":[
+      "see"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "climate_change",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cop",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "usagov",
+      "046",
+      "usagov",
+      "usagov",
+      "046"
+    ],
+    "2":[
+      "---ppl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

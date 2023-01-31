@@ -1,0 +1,199 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bermuda-reverses-same-sex-marriage-law_us_5a7bbe19e4b0c6726e0f3154",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/prison-or-deportation-the-impossible-choice-for-asylum_us_5a7c0f35e4b033149e401c77",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/idaho-climate-change-science-standards_us_5a7b3945e4b08dfc92ff3380",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/child-soldiers-south-sudan-release_us_5a7b4873e4b0c6726e0ea82a"
+  },
+  "headline":{
+    "0":"Bermuda Bans Same-Sex Marriage Less Than 1 Year After Legalizing It",
+    "1":"Prison Or Deportation: The Impossible Choice For Asylum Seekers In Israel",
+    "2":"Idaho Lawmakers Are Trying Again To Scrub Climate Change From Education Standards",
+    "3":"Hundreds Of Child Soldiers Released In South Sudan"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"LGBTQ activists are calling for people to #BoycottBermuda after a law reversing same-sex marriage was passed.",
+    "1":"Starting the first of April, the government says it will give the asylum seekers the choice between prison and \u201cvoluntary\u201d deportation.",
+    "2":"State legislators are \u201cendangering us and our children,\" one climate scientist says.",
+    "3":"More than 19,000 kids have been lured into combat since the civil war erupted."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"IRIN, Editorial Partner",
+    "2":"Chris D'Angelo",
+    "3":"Jesselyn Cook"
+  },
+  "date":{
+    "0":"2018-02-08 00:00:00",
+    "1":"2018-02-08 00:00:00",
+    "2":"2018-02-07 00:00:00",
+    "3":"2018-02-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---gov",
+    "2":"---leg",
+    "3":"---cvlmil"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---refcop",
+    "2":"---cvl",
+    "3":"ssd"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"060",
+    "2":"130",
+    "3":"084"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":6.0,
+    "2":-4.4,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "government",
+      "~gov",
+      "~",
+      "asylum seekers",
+      "~ref",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "legislators",
+      "~leg",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "scientist",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "child",
+      "soldiers",
+      "~cvlmil",
+      "~",
+      "~",
+      "child",
+      "soldiers",
+      "~cvlmil",
+      "~",
+      "~",
+      "south sudan",
+      "ssd",
+      "south",
+      "sudan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "people"
+    ],
+    "1":[
+      "government",
+      "---"
+    ],
+    "2":[
+      "legislators",
+      "children"
+    ],
+    "3":[
+      "child soldiers",
+      "south sudan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "south sudan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are calling for"
+    ],
+    "1":[
+      "says ... will give"
+    ],
+    "2":[
+      "are ... endangering"
+    ],
+    "3":[
+      "released"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "2",
+      "activism",
+      "1"
+    ],
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---ppl",
+      "020"
+    ],
+    "1":[
+      "---gov",
+      "---refcop",
+      "060"
+    ],
+    "2":[
+      "---leg",
+      "---cvl",
+      "130"
+    ],
+    "3":[
+      "---cvlmil",
+      "ssd",
+      "084"
+    ]
+  }
+}

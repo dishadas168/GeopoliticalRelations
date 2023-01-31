@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bolivia-salt-flats-photos_us_5b9dd337e4b03a1dcc8d608b"
+  },
+  "headline":{
+    "0":"Epic Pictures Of Bolivia's Salt Flats Prove It's A Photographer's Wonderland"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Travelers flock to South America by the planeloads to visit Salar de Uyuni, and it's no mystery why. Below, find out what"
+  },
+  "authors":{
+    "0":"Gabriela Kruschewsky"
+  },
+  "date":{
+    "0":"2014-02-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "travelers",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "travelers",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "flock"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "040"
+    ]
+  }
+}

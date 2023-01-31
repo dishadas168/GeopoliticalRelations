@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/soon-student-loans-will-l_b_6761926.html"
+  },
+  "headline":{
+    "0":"Soon Student Loans Will Look Like the Tax Code"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Colleges make it simple for students to borrow by packaging several different types of federal loans... Sometimes, schools even give students more loans than they need. The students have to accept the package and deal with the loans when they leave, whether they graduate or not."
+  },
+  "authors":{
+    "0":"Bob Hildreth, ContributorFounder, Inversant, formerly FUEL Education"
+  },
+  "date":{
+    "0":"2015-02-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "schools",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "schools",
+      "schools"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "give"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "060"
+    ]
+  }
+}

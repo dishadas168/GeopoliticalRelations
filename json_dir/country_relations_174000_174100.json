@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/president-obama-hawaii-what-to-do-on-oahu_us_5b9c9393e4b03a1dcc7ff6dd"
+  },
+  "headline":{
+    "0":"President Obama Hawaii: What To Do On Oahu (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"As he has in past years, President Obama is set to head off on a Christmas vacation to Hawaii later this month. We've seen"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-12-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "hawaii",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "hawaii"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... head ... to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "042"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/foreign-tourists-wounded-afghanistan-ambush_us_57a339c6e4b0104052a15d35"
+  },
+  "headline":{
+    "0":"Foreign Tourists Wounded In Afghanistan Ambush"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Three Americans were among those in the convoy when it was attacked in Herat province."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"afg"
+  },
+  "event_code":{
+    "0":"180"
+  },
+  "goldstein_score":{
+    "0":-9.0
+  },
+  "nouns":{
+    "0":[
+      "tourists",
+      "~cvl",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "tourists",
+      "afghanistan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "afghanistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wounded"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "afg",
+      "180"
+    ]
+  }
+}

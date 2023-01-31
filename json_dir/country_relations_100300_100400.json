@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-super-volunteers-sexism-media-coded-language_n_6956384.html"
+  },
+  "headline":{
+    "0":"Hillary Clinton Group Warns Reporters Not To Use These Sexist Words In Their Coverage"
+  },
+  "category":{
+    "0":"MEDIA"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Catherine Taibi"
+  },
+  "date":{
+    "0":"2015-03-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"130"
+  },
+  "goldstein_score":{
+    "0":-4.4
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "reporters",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warns"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---med",
+      "130"
+    ]
+  }
+}

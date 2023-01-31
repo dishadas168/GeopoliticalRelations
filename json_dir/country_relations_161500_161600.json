@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/christian-tourists-flock_us_5b9d22c0e4b03a1dcc84c434",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bangladesh-worker-conditions_us_5bb2f3b7e4b0480ca65f6067"
+  },
+  "headline":{
+    "0":"Christian Tourists Flock to the Sea of Galilee",
+    "1":"Bangladesh Agrees To Plan To Improve Worker Conditions After Factory Collapse"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"From the Sea of Galilee (700 feet below sea level), the Jordan River flows south watering the fertile and strategic Jordan",
+    "1":"Bangladesh\u2019s government, employers and workers have agreed to a plan with the International Labour Organization that would"
+  },
+  "authors":{
+    "0":"Rick Steves, Contributor\nContributor",
+    "1":""
+  },
+  "date":{
+    "0":"2013-05-06 00:00:00",
+    "1":"2013-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---chrcvl",
+    "1":"bgdgovbuslab"
+  },
+  "actor2":{
+    "0":"isr",
+    "1":"igounolabilo"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "christian",
+      "tourists",
+      "~chrcvl",
+      "~",
+      "~",
+      "galilee",
+      "isr",
+      "israel"
+    ],
+    "1":[
+      "bangladesh",
+      "government employers",
+      "workers",
+      "bgdgovbuslab",
+      "bangladesh",
+      "~",
+      "~",
+      "international labour organization",
+      "igounolabilo",
+      "international",
+      "labour",
+      "organization"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "christian tourists",
+      "galilee"
+    ],
+    "1":[
+      "bangladesh ... government ... employers ... workers",
+      "international labour organization"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "israel"
+    ],
+    "1":[
+      "bangladesh",
+      "international labour organization"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "flock"
+    ],
+    "1":[
+      "have agreed ... with"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---chrcvl",
+      "isr",
+      "040"
+    ],
+    "1":[
+      "bgdgovbuslab",
+      "igounolabilo",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-pope-and-the-presiden_b_5922144.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/domestic-violence_b_5892034.html"
+  },
+  "headline":{
+    "0":"The Pope and the President",
+    "1":"5 Myths About Domestic Violence"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"The news media is always rife with stories about foreign countries exporting hate and animosity to the United States, but we hear very little regarding those who promote peace and religious harmony, such as Albania. The Pope's visit focused on the harmonious co-existence between Muslims and Christians in the country.",
+    "1":"To be sure, many men who hit or emotionally abuse their partners were themselves abused as kids, but many men have also risen above their brutal childhoods and broken that cycle.  Being abused doesn't automatically make you an abuser."
+  },
+  "authors":{
+    "0":"Rob Taub, ContributorWriter, Humorist & Television Commentator",
+    "1":"Ellen Hendriksen, Ph.D., ContributorHost of the award-winning Savvy Psychologist podcast and clini..."
+  },
+  "date":{
+    "0":"2014-10-06 00:00:00",
+    "1":"2014-10-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"180"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "the ... united states"
+    ],
+    "1":[
+      "men",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... exporting ... to"
+    ],
+    "1":[
+      "were ... abused"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usa",
+      "061"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "180"
+    ]
+  }
+}

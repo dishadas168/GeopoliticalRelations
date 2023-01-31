@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/abcnews.go.com\/US\/wireStory\/man-indicted-charge-pouring-boiled-water-gay-men-37941233"
+  },
+  "headline":{
+    "0":"Atlanta Man Indicted For Pouring Boiling Water On Gay Couple"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Prosecutors say a man accused of pouring boiled water on two gay men inside a suburban Atlanta apartment has been indicted"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-03-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say <~ppl> ... indicted"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "173"
+    ]
+  }
+}

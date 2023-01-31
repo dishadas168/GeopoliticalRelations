@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mischa-barton-makes-styli_us_5b9bab08e4b03a1dcc7973d7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/emma-stone-olivia-wilde-revlon_us_5b9bab8de4b03a1dcc797a9e"
+  },
+  "headline":{
+    "0":"Mischa Barton Makes Stylish Return In Cut-Out Dress: Look Of The Day",
+    "1":"Emma Stone, Olivia Wilde Headline Revlon Run\/Walk For Women 2012 In Matching Blonde Hair (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"WHAT: Let's face it, this girl hasn't graced too many best-dressed lists for the last couple of years. But with this latest",
+    "1":"The Entertainment Industry Foundation and Revlon sponsored the annual Revlon Run\/Walk for Women on Saturday, raising money"
+  },
+  "authors":{
+    "0":"Brooke Bobb",
+    "1":""
+  },
+  "date":{
+    "0":"2012-05-06 00:00:00",
+    "1":"2012-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"061"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.4
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girl",
+      "girl"
+    ],
+    "1":[
+      "industry",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ],
+    "1":[
+      "sponsored"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "061"
+    ]
+  }
+}

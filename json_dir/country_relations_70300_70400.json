@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hopes-of-religious-freedo_b_9509396.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hopes-of-religious-freedo_b_9509396.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-rally-arizona_us_56ed8ff9e4b084c672206fb7"
+  },
+  "headline":{
+    "0":"Hopes of Religious Freedom in Former Soviet Union Fall Short",
+    "1":"Hopes of Religious Freedom in Former Soviet Union Fall Short",
+    "2":"Demonstrators Block Road To Donald Trump Rally In Arizona"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Vladimir Putin's lock on Russia's leadership since 2000 has given the Russian Orthodox Church an even more commanding position in the country's religious picture. Putin has publicly called the church, which he attends, a vital part of Russian life and tradition.",
+    "1":"Vladimir Putin's lock on Russia's leadership since 2000 has given the Russian Orthodox Church an even more commanding position in the country's religious picture. Putin has publicly called the church, which he attends, a vital part of Russian life and tradition.",
+    "2":"Some of the protesters chained themselves to their cars so they couldn't be towed away."
+  },
+  "authors":{
+    "0":"Armine Sahakyan, ContributorHuman rights activist based in Armenia, Columnist with the Kyi...",
+    "1":"Armine Sahakyan, ContributorHuman rights activist based in Armenia, Columnist with the Kyi...",
+    "2":"Sam Levine and Dana Liebelson"
+  },
+  "date":{
+    "0":"2016-03-20 00:00:00",
+    "1":"2016-03-20 00:00:00",
+    "2":"2016-03-19 00:00:00"
+  },
+  "actor1":{
+    "0":"rusgov",
+    "1":"rusgov",
+    "2":"---opp"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"rus",
+    "2":"---opp"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"041",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vladimir putin",
+      "russia"
+    ],
+    "1":[
+      "putin",
+      "russian"
+    ],
+    "2":[
+      "protesters",
+      "protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vladimir putin",
+      "russian federation"
+    ],
+    "1":[
+      "vladimir putin",
+      "russian federation"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given"
+    ],
+    "1":[
+      "has ... called"
+    ],
+    "2":[
+      "chained"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "rusgov",
+      "rus",
+      "060"
+    ],
+    "1":[
+      "rusgov",
+      "rus",
+      "041"
+    ],
+    "2":[
+      "---opp",
+      "---opp",
+      "060"
+    ]
+  }
+}

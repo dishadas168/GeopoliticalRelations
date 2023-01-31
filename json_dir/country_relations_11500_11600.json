@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/china-warns-us-pandoras-box-trade_us_5abcda64e4b04a59a314fb65",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/amal-clooney-reuters-reporters_us_5abce01de4b06409775db869",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/facebook-discriminatory-housing_us_5abb89ede4b04a59a3130a37"
+  },
+  "headline":{
+    "0":"China Warns U.S. Not To Open Pandora's Box, Unleash Trade Ills On World",
+    "1":"Amal Clooney To Represent Reuters Reporters Held In Myanmar",
+    "2":"Facebook Still Allows Discriminatory Housing Ads, Despite Pledge To Crack Down: Lawsuit"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"TECH"
+  },
+  "short_description":{
+    "0":"Trump\u2019s tariffs decision provoked a warning from Beijing that it could retaliate with duties of up to $3 billion of U.S. imports.",
+    "1":"Lawyers for the two reporters on Wednesday asked the court to throw out the case, saying there was insufficient evidence to support charges against the pair.",
+    "2":"Landlords using the platform's ad technology can exclude women and families with children from viewing rental ads, according to the complaint."
+  },
+  "authors":{
+    "0":"Se Young Lee and Yawen Chen, Reuters",
+    "1":"",
+    "2":"Hayley Miller"
+  },
+  "date":{
+    "0":"2018-03-29 00:00:00",
+    "1":"2018-03-29 00:00:00",
+    "2":"2018-03-28 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"---judmed",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"020",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":3.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "reporters",
+      "~med",
+      "~",
+      "lawyers",
+      "reporters",
+      "~judmed",
+      "~",
+      "~",
+      "the court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "landlords",
+      "~bus",
+      "~",
+      "landlords",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "u.s."
+    ],
+    "1":[
+      "lawyers ... reporters",
+      "the ... court"
+    ],
+    "2":[
+      "landlords",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warns"
+    ],
+    "1":[
+      "asked"
+    ],
+    "2":[
+      "can exclude"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "usa",
+      "130"
+    ],
+    "1":[
+      "---judmed",
+      "---jud",
+      "020"
+    ],
+    "2":[
+      "---bus",
+      "---cvl",
+      "170"
+    ]
+  }
+}

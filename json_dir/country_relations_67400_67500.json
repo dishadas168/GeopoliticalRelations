@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-fires-submarine-launched-missile_us_571b6257e4b0d912d5fece59",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/georgia-shootings_us_571ae6bae4b0d912d5fecb4b"
+  },
+  "headline":{
+    "0":"North Korea Fires Submarine-Launched Missile: South Korea",
+    "1":"Gunman Kills 5 In Georgia"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"By Ju-min Park SEOUL (Reuters) - North Korea fired a submarine-launched ballistic missile off its east coast on Saturday",
+    "1":"The suspect was found dead of a self-inflicted gunshot wound."
+  },
+  "authors":{
+    "0":"",
+    "1":"Peter Andrew Hart"
+  },
+  "date":{
+    "0":"2016-04-23 00:00:00",
+    "1":"2016-04-23 00:00:00"
+  },
+  "actor1":{
+    "0":"prk",
+    "1":"---uaf"
+  },
+  "actor2":{
+    "0":"kor",
+    "1":"geo"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ],
+    "1":[
+      "gunman",
+      "~uaf",
+      "~",
+      "georgia",
+      "geo",
+      "georgia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north korea",
+      "south korea"
+    ],
+    "1":[
+      "gunman",
+      "georgia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "north korea",
+      "south korea"
+    ],
+    "1":[
+      "---",
+      "georgia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fires"
+    ],
+    "1":[
+      "kills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "prk",
+      "kor",
+      "190"
+    ],
+    "1":[
+      "---uaf",
+      "geo",
+      "190"
+    ]
+  }
+}

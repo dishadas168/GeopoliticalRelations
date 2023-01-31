@@ -1,0 +1,300 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tips-service-fees-montana-hotels_us_57b61333e4b0b51733a23aca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-russia-aleppo-ceasefire_us_57b5df2de4b0fd5a2f41b540",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/syria-russia-aleppo-ceasefire_us_57b5df2de4b0fd5a2f41b540",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.reuters.com\/investigates\/special-report\/migration\/#story\/57",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/turkey-car-bombing_us_57b5713ae4b095b2f5429350",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/opioid-funding-zika_us_57b25445e4b0863b0284716a",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/liz-cheney-wyoming-primary_us_57b405f9e4b0edfa80da4358"
+  },
+  "headline":{
+    "0":"Waiters Score Big Win Against Industry Effort To Pocket Their Tips",
+    "1":"UN Welcomes Russian Words On Aleppo Truce: Trucks 'Ready To Move'",
+    "2":"UN Welcomes Russian Words On Aleppo Truce: Trucks 'Ready To Move'",
+    "3":"Enslaved in Libya: One woman\u2019s extraordinary escape from Islamic State",
+    "4":"Two Car Bombs Kill At Least 7 And Wound Hundreds In Southeast Turkey",
+    "5":"Raiding Opioid Abuse Funding To Fight Zika Highlights Government Dysfunction",
+    "6":"Liz Cheney Claims Victory In Wyoming Primary For U.S. House Seat"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"Montana hotel workers reach a whopping $4 million settlement.",
+    "1":"Russia said on Thursday it would support a 48-hour ceasefire in Aleppo, a move the U.N. Syria envoy said would allow aid to reach besieged areas soon.",
+    "2":"Russia said on Thursday it would support a 48-hour ceasefire in Aleppo, a move the U.N. Syria envoy said would allow aid to reach besieged areas soon.",
+    "3":"Islamic State fighters in Libya have abducted at least 540 refugees in six separate ambushes over the past 18 months. Many",
+    "4":"The government blamed Kurdish militants for the attack.",
+    "5":"Congress left the White House no choice but to shift money to fight Zika. And some comes from the poorly funded opioid response.",
+    "6":"\u201cI\u2019m honored by the trust Wyoming Republicans have placed in me to serve as our next Representative in Congress.\""
+  },
+  "authors":{
+    "0":"Dave Jamieson",
+    "1":"Stephanie Nebehay, Reuters",
+    "2":"Stephanie Nebehay, Reuters",
+    "3":"",
+    "4":"",
+    "5":"Michael McAuliff",
+    "6":"By Ruffin Prevost, Reuters"
+  },
+  "date":{
+    "0":"2016-08-18 00:00:00",
+    "1":"2016-08-18 00:00:00",
+    "2":"2016-08-18 00:00:00",
+    "3":"2016-08-18 00:00:00",
+    "4":"2016-08-18 00:00:00",
+    "5":"2016-08-18 00:00:00",
+    "6":"2016-08-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"igouno",
+    "2":"rus",
+    "3":"lbyuaf",
+    "4":"---gov",
+    "5":"---leg",
+    "6":"usa"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"rus",
+    "2":"syr",
+    "3":"---ref",
+    "4":"---uaf",
+    "5":"usagov",
+    "6":"---leg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"051",
+    "2":"050",
+    "3":"181",
+    "4":"112",
+    "5":"040",
+    "6":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.4,
+    "2":3.5,
+    "3":-9.0,
+    "4":-2.0,
+    "5":1.0,
+    "6":6.0
+  },
+  "nouns":{
+    "0":[
+      "waiters",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "un",
+      "igouno",
+      "un",
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "aleppo",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "aleppo",
+      "syr",
+      "syria"
+    ],
+    "3":[
+      "libya",
+      "lby",
+      "libya",
+      "fighters",
+      "lbyuaf",
+      "~",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "4":[
+      "government",
+      "~gov",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "5":[
+      "congress",
+      "~leg",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "6":[
+      "wyoming",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "waiters",
+      "waiters"
+    ],
+    "1":[
+      "un",
+      "russian"
+    ],
+    "2":[
+      "russia",
+      "aleppo"
+    ],
+    "3":[
+      "fighters",
+      "refugees"
+    ],
+    "4":[
+      "government",
+      "militants"
+    ],
+    "5":[
+      "congress",
+      "the white house"
+    ],
+    "6":[
+      "wyoming",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "un",
+      "russian federation"
+    ],
+    "2":[
+      "russian federation",
+      "syria"
+    ],
+    "3":[
+      "",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "white house"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "score"
+    ],
+    "1":[
+      "welcomes"
+    ],
+    "2":[
+      "said ... would support"
+    ],
+    "3":[
+      "have abducted"
+    ],
+    "4":[
+      "blamed ... for ... attack"
+    ],
+    "5":[
+      "left"
+    ],
+    "6":[
+      "have ... serve"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "010"
+    ],
+    "1":[
+      "igouno",
+      "rus",
+      "051"
+    ],
+    "2":[
+      "rus",
+      "syr",
+      "050"
+    ],
+    "3":[
+      "lbyuaf",
+      "---ref",
+      "181"
+    ],
+    "4":[
+      "---gov",
+      "---uaf",
+      "112"
+    ],
+    "5":[
+      "---leg",
+      "usagov",
+      "040"
+    ],
+    "6":[
+      "usa",
+      "---leg",
+      "060"
+    ]
+  }
+}

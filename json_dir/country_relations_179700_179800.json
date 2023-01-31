@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/interactive-event-planning_us_5b9c63c8e4b03a1dcc7e4bd1"
+  },
+  "headline":{
+    "0":"9 Ways to Make Your Event Interactive"
+  },
+  "category":{
+    "0":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"If you think about it, events are the original interactive \"application.\" They're where people come together to experience an organization beyond the fundraising letter, to connect with like-minded individuals, to see a mission statement in action."
+  },
+  "authors":{
+    "0":"GDS, Contributor\nOwner"
+  },
+  "date":{
+    "0":"2012-10-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"meareb"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "organization",
+      "meareb",
+      "tanzim"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "organization"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "tanzim"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "come ... see"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "meareb",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dont-just-make-history-at_b_5837140.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ferguson-protesters-darren-wilson_n_5837340.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bill-strickland-akko-israel_b_5796838.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/a-new-aumf-what-is-the-ob_b_5815812.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hearts-minds-and-dead-sun_b_5818488.html"
+  },
+  "headline":{
+    "0":"Don't Just Make History at the People's Climate March",
+    "1":"Ferguson Protesters Disrupt Meeting With Calls To Remove Prosecutor",
+    "2":"Bill Strickland's Visit to Akko, Israel -- And His Promise",
+    "3":"A New AUMF: What Is the Obama Administration Afraid of?",
+    "4":"Hearts, Minds and Dead Sunnis in Iraq"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"IMPACT",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Next Tuesday, President Obama and 124 other world leaders will convene in New York City for a United Nations summit to address climate change.",
+    "1":"",
+    "2":"\"When people have a reason to live, they don't have a reason to die,\" Strickland said. He believes that terrorism thrives on ignorance and illiteracy, and the Akko center's courses will serve to build bridges, provide free education, and encourage dialogue among the area's religions.",
+    "3":"Either the president needs some new faces in the Office of Legal Counsel, or his team needs to do what many of his allies on Capitol Hill are calling for: Ask Congress to grant new statutory authority for the military campaign against ISIL in both Iraq and Syria. What is the administration afraid of?",
+    "4":"A critical part of America's plan to resolve all issues left unresolved after nine years of war and occupation is to divide the indigenous Sunnis from the \"foreign\" Sunnis, i.e., ISIS, and \"unite\" Iraq."
+  },
+  "authors":{
+    "0":"Adam Greenberg, ContributorU.S. Youth Delegate to the UNFCCC climate negotiations",
+    "1":"",
+    "2":"Diana Bletter, ContributorWriter, Author, 'A Remarkable Kindness' (HarperCollins, 2015),...",
+    "3":"Daniel R. DePetris, ContributorNational Security Dude, Observer of Congress, Currently Outsid...",
+    "4":"Peter Van Buren, ContributorAuthor of the forthcoming \"Hooper's War,\" \"Ghosts of Tom Joad:..."
+  },
+  "date":{
+    "0":"2014-09-17 00:00:00",
+    "1":"2014-09-17 00:00:00",
+    "2":"2014-09-16 00:00:00",
+    "3":"2014-09-16 00:00:00",
+    "4":"2014-09-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---opp",
+    "2":"isr",
+    "3":"---gov",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---rel",
+    "3":"---jud",
+    "4":"irq"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"174",
+    "2":"051",
+    "3":"100",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":-5.0,
+    "2":3.4,
+    "3":-5.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "new york city",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "protesters",
+      "~opp",
+      "~",
+      "prosecutor",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "akko",
+      "isr",
+      "israel",
+      "religions",
+      "~rel",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "counsel",
+      "~jud",
+      "~",
+      "counsel",
+      "~jud",
+      "~",
+      "counsel",
+      "~jud",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "isil",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "military",
+      "imgmusisimil",
+      "~",
+      "authority",
+      "imgmusisimilgov",
+      "~",
+      "iraq",
+      "syria",
+      "irq",
+      "syr",
+      "iraq",
+      "syria"
+    ],
+    "4":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sunnis",
+      "isis",
+      "imgmusisi",
+      "~",
+      "the",
+      "islamic",
+      "state",
+      "sunnis",
+      "imgmusisi",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "new york city"
+    ],
+    "1":[
+      "protesters",
+      "prosecutor"
+    ],
+    "2":[
+      "akko",
+      "religions"
+    ],
+    "3":[
+      "president",
+      "counsel"
+    ],
+    "4":[
+      "america",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "israel",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will convene"
+    ],
+    "1":[
+      "calls ... remove"
+    ],
+    "2":[
+      "will serve ... encourage"
+    ],
+    "3":[
+      "needs"
+    ],
+    "4":[
+      "left ... unite"
+    ]
+  },
+  "issues":{
+    "0":[
+      "climate_change",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "terror",
+      "1",
+      "literacy",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "---opp",
+      "---jud",
+      "174"
+    ],
+    "2":[
+      "isr",
+      "---rel",
+      "051"
+    ],
+    "3":[
+      "---gov",
+      "---jud",
+      "100"
+    ],
+    "4":[
+      "usa",
+      "irq",
+      "040"
+    ]
+  }
+}

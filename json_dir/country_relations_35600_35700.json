@@ -1,0 +1,226 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-mark-green_us_5908d849e4b0bb2d08728b76",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/overtime-pay_us_5908e15ee4b0bb2d08729636",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-nuclear-war_us_59089093e4b02655f840b972",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trumps-despicable-duterte-invitation_us_5907e0b5e4b05279d4edbf3b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/california-gay-conversion-therapy-challenge_us_59079dcde4b02655f83f6b60"
+  },
+  "headline":{
+    "0":"Trump's Pick For Army Secretary May Be In Trouble",
+    "1":"Republicans Have A Plan To Loosen Overtime Protections",
+    "2":"North Korea Says U.S. Bomber Flights Push Peninsula To Brink Of Nuclear War",
+    "3":"Trump\u2019s Despicable Duterte Invitation",
+    "4":"Supreme Court Keeps California's 'Gay Conversion' Therapy Ban In Place"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Sen. John McCain (R-Ariz.) said many of his comments on Muslims and LGBTQ people are \"very concerning.\"",
+    "1":"The plan, which passed the House Tuesday, would let companies pay workers with time instead of money.",
+    "2":"Washington is engaging in \"reckless military provocation.\"",
+    "3":"Recent reporting indicates that President Donald Trump has invited Rodrigo Duterte, president of the Philippines, to the",
+    "4":"The practice has been illegal in the state since 2012."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Arthur Delaney and Dave Jamieson",
+    "2":"",
+    "3":"Taylor Dibbert, Contributorfreelance writer",
+    "4":"Andrew Chung, Reuters"
+  },
+  "date":{
+    "0":"2017-05-02 00:00:00",
+    "1":"2017-05-02 00:00:00",
+    "2":"2017-05-02 00:00:00",
+    "3":"2017-05-02 00:00:00",
+    "4":"2017-05-01 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"---bus",
+    "2":"prk",
+    "3":"---gov",
+    "4":"---jud"
+  },
+  "actor2":{
+    "0":"---mus",
+    "1":"---lab",
+    "2":"usa",
+    "3":"phlgov",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"061",
+    "2":"010",
+    "3":"040",
+    "4":"1241"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.4,
+    "2":0.0,
+    "3":1.0,
+    "4":null
+  },
+  "nouns":{
+    "0":[
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain",
+      "muslims",
+      "~mus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "philippines",
+      "phl",
+      "philippines",
+      "president",
+      "phlgov",
+      "~"
+    ],
+    "4":[
+      "supreme court",
+      "~jud",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john mccain",
+      "muslims"
+    ],
+    "1":[
+      "companies",
+      "workers"
+    ],
+    "2":[
+      "north korea",
+      "<u.s.>"
+    ],
+    "3":[
+      "president",
+      "president"
+    ],
+    "4":[
+      "supreme court",
+      "california"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john mccain",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "north korea",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      ""
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "pay"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "has invited"
+    ],
+    "4":[
+      "keeps ... ban"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---mus",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "061"
+    ],
+    "2":[
+      "prk",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "phlgov",
+      "040"
+    ],
+    "4":[
+      "---jud",
+      "usa",
+      "1241"
+    ]
+  }
+}

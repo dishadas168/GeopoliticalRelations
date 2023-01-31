@@ -1,0 +1,183 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/feeding-ban-alabama_us_5bb1c0fbe4b01857b70b7b96",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/childs-cavity-is-blight-on-my-parenting-record_us_5b9dfacae4b03a1dcc8fd329",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/digging-the-dancing-king_us_5b9dfac7e4b03a1dcc8fd26a",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.businessweek.com\/articles\/2014-04-10\/the-most-hated-u-dot-s-dot-airline-is-also-the-most-profitable"
+  },
+  "headline":{
+    "0":"Pastor Banned From Feeding Homeless Because He Doesn't Have A Food Truck Permit",
+    "1":"Child's Cavity Is Blight on My Parenting Record",
+    "2":"Digging the Dancing King",
+    "3":"Spirit Airlines: The Most Successful Airline In America Is Also The Most Hated"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"PARENTING",
+    "2":"WELLNESS",
+    "3":"TRAVEL"
+  },
+  "short_description":{
+    "0":"And last summer, members of Love Wins Ministries, an organization that feeds breakfast to anyone in need on weekends in Raleigh",
+    "1":"Mothers don't like to talk about cavities because we view them as evidence of what we perceive to be bad parenting. How could we let those precious little baby teeth decay? Even the sound of the word -- \"decay\" -- makes us shudder.",
+    "2":"Who doesn't want to be that guy? As a side note, the researchers also found that men watch men dance, too, because they want",
+    "3":"Spirit Airlines (SAVE) inspires a special kind of wrath among the American traveling public: It\u2019s the industry leader in"
+  },
+  "authors":{
+    "0":"Eleanor Goldberg",
+    "1":"Sarah Smiley, Contributor\nAuthor of the memoir DINNER WITH THE SMILEYS",
+    "2":"Maria Rodale, Contributor\nCEO and Chairman of Rodale, Inc. and book author",
+    "3":""
+  },
+  "date":{
+    "0":"2014-04-12 00:00:00",
+    "1":"2014-04-11 00:00:00",
+    "2":"2014-04-11 00:00:00",
+    "3":"2014-04-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"010",
+    "3":"051"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0,
+    "3":3.4
+  },
+  "nouns":{
+    "0":[
+      "ministries",
+      "~gov",
+      "~",
+      "ministries",
+      "~gov",
+      "~",
+      "raleigh",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "mothers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "airlines",
+      "~bus",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ministries",
+      "raleigh"
+    ],
+    "1":[
+      "mothers",
+      "mothers"
+    ],
+    "2":[
+      "men",
+      "men"
+    ],
+    "3":[
+      "airlines",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "do ... talk ... view"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "inspires"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "100"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "3":[
+      "---bus",
+      "usa",
+      "051"
+    ]
+  }
+}

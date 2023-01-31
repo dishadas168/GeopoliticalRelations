@@ -1,0 +1,129 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-government-drastically-undercounted-the-number-of-civilians-killed-by-cops-in-2015_us_59dfa6a4e4b0fdad73b2e000",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-withdraws-from-un-cultural-and-educational-agency-unesco_us_59df7cb2e4b0fdad73b28470"
+  },
+  "headline":{
+    "0":"U.S. Government Drastically Undercounted The Number Of Civilians Killed By Cops In 2015",
+    "1":"U.S. Withdraws From UN's Cultural And Educational Agency UNESCO"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"U.S. police killed 1,166 people - more than three a day - in 2015, but an official government count missed a majority of the deaths, a new study shows.",
+    "1":"The withdrawal of the United States is a severe blow for the Paris-based organization which began work in 1946."
+  },
+  "authors":{
+    "0":"Ronnie Cohen, Reuters",
+    "1":"John Irish, Reuters"
+  },
+  "date":{
+    "0":"2017-10-12 00:00:00",
+    "1":"2017-10-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"igouno"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "un",
+      "unesco",
+      "igouno",
+      "igounodev",
+      "un",
+      "unesco"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. police",
+      "people"
+    ],
+    "1":[
+      "u.s.",
+      "un",
+      "u.s.",
+      "unesco"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "un",
+      "united states of america",
+      "unesco"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ],
+    "1":[
+      "withdraws",
+      "withdraws"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "igouno",
+      "08",
+      "usa",
+      "igounodev",
+      "08"
+    ]
+  }
+}

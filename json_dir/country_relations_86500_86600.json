@@ -1,0 +1,229 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mattress-company-employs-former-inmates-and-makes-sure_us_55ef030be4b002d5c076b38d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/federal-judge-orders-immediate-release-of-kim-davis_us_55ef12b7e4b03784e2769a9f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-clerk-asks-court-to-force-governor-to-let-her-deny-gay-marriages_us_55edc301e4b03784e27637ed",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/qatar-ground-troops-yemen_us_55ed7fd4e4b002d5c0764ebf",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/isis-captures-last-syrian-oil-field_us_55ed940ee4b03784e27629ba"
+  },
+  "headline":{
+    "0":"Mattress Company Employs Former Inmates, And Makes Sure They Have A Ride To Work",
+    "1":"Federal Judge Orders Immediate Release of Kentucky Clerk Kim Davis",
+    "2":"Kentucky Clerk Asks Court To Force Governor To Let Her Deny Gay Marriages",
+    "3":"Qatar Sends 1,000 Ground Troops To Yemen",
+    "4":"Monitor: ISIS Captures Last Syrian Oil Field Under Regime Control"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"A mattress company in Topeka, Kansas, is helping both its customers and employees rest easy at night. Memory Foam Liquidators",
+    "1":"The judge also ordered the defiant clerk not to interfere with the work of other deputies in Rowan County.",
+    "2":"LOUISVILLE, Ky., Sept 7 (Reuters) - Lawyers for jailed Kentucky county clerk Kim Davis said on Monday they had asked an appellate",
+    "3":"Another nation puts boots on the ground in the battle against Houthi rebels.",
+    "4":"The militant group already controls much of Syria's oil fields."
+  },
+  "authors":{
+    "0":"Eleanor Goldberg",
+    "1":"Cristian Farias",
+    "2":"Steve Bittenbender, Reuters",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2015-09-08 00:00:00",
+    "1":"2015-09-08 00:00:00",
+    "2":"2015-09-07 00:00:00",
+    "3":"2015-09-07 00:00:00",
+    "4":"2015-09-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usabus",
+    "1":"---jud",
+    "2":"usa",
+    "3":"qat",
+    "4":"---uaf"
+  },
+  "actor2":{
+    "0":"---cvllab",
+    "1":"---cop",
+    "2":"---jud",
+    "3":"yem",
+    "4":"syr"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"103",
+    "2":"020",
+    "3":"154",
+    "4":"060"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0,
+    "2":3.0,
+    "3":-7.2,
+    "4":6.0
+  },
+  "nouns":{
+    "0":[
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "company",
+      "usabus",
+      "~",
+      "customers",
+      "employees",
+      "~cvllab",
+      "~",
+      "~"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "deputies",
+      "~cop",
+      "~",
+      "deputies",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "~jud",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "qatar",
+      "qat",
+      "qatar",
+      "yemen",
+      "yem",
+      "yemen"
+    ],
+    "4":[
+      "militant",
+      "~uaf",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "customers ... employees"
+    ],
+    "1":[
+      "judge",
+      "deputies"
+    ],
+    "2":[
+      "kentucky",
+      "court"
+    ],
+    "3":[
+      "qatar",
+      "yemen"
+    ],
+    "4":[
+      "militant",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "qatar",
+      "yemen"
+    ],
+    "4":[
+      "---",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is helping"
+    ],
+    "1":[
+      "ordered ... interfere"
+    ],
+    "2":[
+      "asks"
+    ],
+    "3":[
+      "sends <&military>"
+    ],
+    "4":[
+      "controls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usabus",
+      "---cvllab",
+      "070"
+    ],
+    "1":[
+      "---jud",
+      "---cop",
+      "103"
+    ],
+    "2":[
+      "usa",
+      "---jud",
+      "020"
+    ],
+    "3":[
+      "qat",
+      "yem",
+      "154"
+    ],
+    "4":[
+      "---uaf",
+      "syr",
+      "060"
+    ]
+  }
+}

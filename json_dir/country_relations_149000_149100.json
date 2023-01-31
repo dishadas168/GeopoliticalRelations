@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-does-a-government-tr_us_5b9d8217e4b03a1dcc88e6d6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/heart-research_us_5b9d82cfe4b03a1dcc88ef56"
+  },
+  "headline":{
+    "0":"What Does a Government Travel Warning Mean for Your Trip?",
+    "1":"Take It From Tony: Investing in NIH Research Saves Lives"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"A travel warning doesn't actually prohibit anyone from traveling. It's just meant to make the traveler more aware. What these advisories fail to tell us is the reality of being on the ground. Tourism boards, national airlines and hotels will often provide current, relevant tips for travelers.",
+    "1":"Research has long been a major priority of the American Heart Association. Our organization has invested upwards of $3.5 billion into research, more than any organization outside the federal government."
+  },
+  "authors":{
+    "0":"Shermans Travel, Contributor\nHand-picked deals. Expert advice.",
+    "1":"Nancy Brown, Contributor\nCEO, American Heart Association"
+  },
+  "date":{
+    "0":"2013-09-16 00:00:00",
+    "1":"2013-09-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---govbus",
+    "1":"meareb"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mearebgov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"061"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.4
+  },
+  "nouns":{
+    "0":[
+      "national airlines",
+      "~govbus",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "government",
+      "~gov",
+      "~",
+      "organization",
+      "government",
+      "mearebgov",
+      "tanzim",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "national airlines",
+      "travelers"
+    ],
+    "1":[
+      "organization",
+      "organization ... government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "tanzim",
+      "tanzim"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... provide"
+    ],
+    "1":[
+      "has invested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "2"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---govbus",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "meareb",
+      "mearebgov",
+      "061"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/democrats-labor-civil-rights_us_55f98fb7e4b0e333e54c14ae"
+  },
+  "headline":{
+    "0":"Democrats Want To Make Labor Organizing Akin To A Civil Right"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"A proposal in Congress, backed by labor unions, would make it much riskier for employers to illegally retaliate against pro-union workers."
+  },
+  "authors":{
+    "0":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2015-09-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg"
+  },
+  "actor2":{
+    "0":"---lab"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "labor unions",
+      "~lab",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "labor unions"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would ... retaliate"
+    ]
+  },
+  "issues":{
+    "0":[
+      "labor_unions",
+      "1",
+      "retaliation",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---lab",
+      "190"
+    ]
+  }
+}

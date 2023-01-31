@@ -1,0 +1,79 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-syrian-refugees-block_us_5668d4a2e4b009377b23ce75"
+  },
+  "headline":{
+    "0":"Judge Denies Texas Request To Block Entry Of Nine Syrian Refugees"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"This is the second attempt by Texas to seek immediate court help to halt the refugees."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-12-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usajud"
+  },
+  "actor2":{
+    "0":"syrref"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "texas",
+      "usajud",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge ... texas",
+      "syrian refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "request"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usajud",
+      "syrref",
+      "020"
+    ]
+  }
+}

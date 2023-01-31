@@ -1,0 +1,279 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-asks-nations-to-provide-more-traveler-data-or-face-sanctions_us_5967f60ce4b0d6341fe7c062",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-off-the-record-press_us_59677c34e4b0a0c6f1e662de",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/can-the-us-and-india-create-an-enduring-entente_us_5967654de4b051f16255e622",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/eight-things-you-need-to-know-about-president-trumps_us_59677038e4b07b5e1d96ed8f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-july-13-2017_us_59679f5de4b0524d8fa7fb9d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/sure-trump-must-have-macron-envy_us_5967b403e4b09e26b6d76636"
+  },
+  "headline":{
+    "0":"U.S. Asks Nations To Provide More Traveler Data Or Face Sanctions",
+    "1":"Trump Speaks Off The Record To Reporters Amid Solo News Conference Drought",
+    "2":"Can the U.S. And India Create An Enduring Entente?",
+    "3":"8 Things You Need To Know About President Trump\u2019s New Cuba Policy",
+    "4":"News Roundup for July 13, 2017",
+    "5":"Trump May Return From France With \"Macron Envy\""
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The new requirements are the latest in a series of steps the Trump administration says it is taking to better protect the U.S. from terrorist attack.",
+    "1":"The White House later decided to allow portions on the record, leaving journalists in an awkward spot.",
+    "2":"India\u2019s Prime Minister Narendra Modi made a working or \u201cno frills\u201d trip to Washington. It was a chance for him to meet President",
+    "3":"On June 16, 2017, President Donald Trump announced his new Cuba policy in a speech in Miami, declaring that he was \u201ccanceling",
+    "4":"News comes and news goes. 1. Two U.S. volunteers died fighting the Islamic State group in Syria last week. They had joined",
+    "5":"President Trump arrived in Paris this morning to a \u201creception extraordinaire\u201d from newly elected French President Emmanuel"
+  },
+  "authors":{
+    "0":"Arshad Mohammed and Mica Rosenberg, Reuters",
+    "1":"Michael Calderone",
+    "2":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "3":"William M. LeoGrande, ContributorProfessor of Government at American University",
+    "4":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "5":"Marc Ginsberg, ContributorFmr. U.S. ambassador to Morocco and White House Mid East advis..."
+  },
+  "date":{
+    "0":"2017-07-13 00:00:00",
+    "1":"2017-07-13 00:00:00",
+    "2":"2017-07-13 00:00:00",
+    "3":"2017-07-13 00:00:00",
+    "4":"2017-07-13 00:00:00",
+    "5":"2017-07-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"ind",
+    "3":"---gov",
+    "4":"usa",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"usa",
+    "3":"cub",
+    "4":"syr",
+    "5":"fragov"
+  },
+  "event_code":{
+    "0":"021",
+    "1":"040",
+    "2":"036",
+    "3":"010",
+    "4":"190",
+    "5":"040"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":1.0,
+    "2":4.0,
+    "3":0.0,
+    "4":-10.0,
+    "5":1.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "traveler",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "india",
+      "narendra modi",
+      "ind",
+      "indgov",
+      "india",
+      "narendra",
+      "modi",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "cuba",
+      "cub",
+      "cuba",
+      "miami",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "french",
+      "president",
+      "fragov",
+      "france",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "traveler"
+    ],
+    "1":[
+      "the white house",
+      "journalists"
+    ],
+    "2":[
+      "india",
+      "washington",
+      "narendra modi",
+      "washington"
+    ],
+    "3":[
+      "president",
+      "cuba"
+    ],
+    "4":[
+      "u.s.",
+      "syria"
+    ],
+    "5":[
+      "president",
+      "french president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "white house",
+      "---"
+    ],
+    "2":[
+      "india",
+      "united states of america",
+      "narendra modi",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "cuba"
+    ],
+    "4":[
+      "united states of america",
+      "syria"
+    ],
+    "5":[
+      "---",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asks ... provide"
+    ],
+    "1":[
+      "decided ... leaving"
+    ],
+    "2":[
+      "made ... trip",
+      "made ... trip"
+    ],
+    "3":[
+      "announced"
+    ],
+    "4":[
+      "died fighting"
+    ],
+    "5":[
+      "arrived ... to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1",
+      "sanctions",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "021"
+    ],
+    "1":[
+      "usagov",
+      "---med",
+      "040"
+    ],
+    "2":[
+      "ind",
+      "usa",
+      "036",
+      "indgov",
+      "usa",
+      "036"
+    ],
+    "3":[
+      "---gov",
+      "cub",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "syr",
+      "190"
+    ],
+    "5":[
+      "---gov",
+      "fragov",
+      "040"
+    ]
+  }
+}

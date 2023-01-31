@@ -1,0 +1,134 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fishing-boat-rescue-alaska_us_57986105e4b01180b530ea1a",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.latimes.com\/nation\/la-na-texas-birth-certificates-20160725-snap-story.html"
+  },
+  "headline":{
+    "0":"46 Rescued From Sinking Fishing Vessel Off Alaska's Aleutian Islands",
+    "1":"Texas, Facing A Lawsuit, Makes It Easier For U.S.-Born Children Of Immigrants To Get Brith Certificates"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The crew of Alaska Juris issued a distress alert to the Coast Guard and put on survival suits before leaving their ship.",
+    "1":"Last year, a group of Central American and Mexican immigrant parents sued Texas in federal court, claiming that the state"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-07-27 00:00:00",
+    "1":"2016-07-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usacvl"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"usajud"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "coast guard",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "american",
+      "mexican",
+      "immigrant",
+      "usacvl",
+      "mexcvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mexico",
+      "~",
+      "federal court",
+      "~jud",
+      "~",
+      "texas",
+      "federal court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "alaska",
+      "coast guard"
+    ],
+    "1":[
+      "american",
+      "texas ... federal court",
+      "mexican",
+      "texas ... federal court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america",
+      "mexico",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... issued"
+    ],
+    "1":[
+      "sued",
+      "sued"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---mil",
+      "060"
+    ],
+    "1":[
+      "usacvl",
+      "usajud",
+      "173",
+      "mexcvl",
+      "usajud",
+      "173"
+    ]
+  }
+}

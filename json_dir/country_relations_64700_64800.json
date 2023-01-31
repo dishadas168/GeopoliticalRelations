@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-dc-hotel_us_574716bee4b0dacf7ad4213a"
+  },
+  "headline":{
+    "0":"Donald Trump's Own Website Contradicts His D.C. Hotel Brag"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Come on, Donald."
+  },
+  "authors":{
+    "0":"Sam Levine"
+  },
+  "date":{
+    "0":"2016-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "website",
+      "~med",
+      "~",
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "website",
+      "d.c."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "contradicts"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usa",
+      "110"
+    ]
+  }
+}

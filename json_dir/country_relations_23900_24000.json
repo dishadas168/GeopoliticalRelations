@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marriott-act-for-america_us_59c56704e4b0cdc773313f82",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/why-arts-organizations-in-atlanta-must-engage-their-local-representatives_us_59c2be26e4b063b253178270",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/iran-nuclear-agreement-cannot-be-americas-moving-target_us_59c3c41fe4b0ffc2dedb5b5d"
+  },
+  "headline":{
+    "0":"Marriott Faces Pressure To Cancel Event Hosted By Anti-Islam Group",
+    "1":"Why Arts Organizations In Atlanta Must Engage Their Local Representatives",
+    "2":"Iran Nuclear Agreement Cannot Be Trump\u2019s Moving Target"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"ACT for America's founder claims the \"Islamic coalition\" is waging war on the U.S.",
+    "1":"We contribute to the local economy, we employ industry professionals and artists and we help drive sales at local service industry businesses.",
+    "2":"Trump\u2019s harrying at the UN has impaired America\u2019s reputation."
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"Lara Smith, ContributorManaging Director, Dad's Garage Theatre",
+    "2":"Hossein Askari, ContributorProfessor of Business and International Affairs at George Wash..."
+  },
+  "date":{
+    "0":"2017-09-22 00:00:00",
+    "1":"2017-09-21 00:00:00",
+    "2":"2017-09-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"igouno"
+  },
+  "actor2":{
+    "0":"---mus",
+    "1":"---leg",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"190",
+    "2":"180"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-9.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "islamic",
+      "~mus",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "representatives",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "the un",
+      "igouno",
+      "the",
+      "un",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "islamic"
+    ],
+    "1":[
+      "atlanta",
+      "representatives"
+    ],
+    "2":[
+      "the un",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "the un",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "claims ... is ... waging war"
+    ],
+    "1":[
+      "must engage"
+    ],
+    "2":[
+      "has impaired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---mus",
+      "112"
+    ],
+    "1":[
+      "usa",
+      "---leg",
+      "190"
+    ],
+    "2":[
+      "igouno",
+      "usa",
+      "180"
+    ]
+  }
+}

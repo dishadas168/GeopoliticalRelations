@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iraq-declares-a-brilliant-victory-in-mosul-what-are_us_5963be8ce4b0911162fc2e04",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-russian-brokered-ceasefire-deal-takes-effect-in-southwest-syria_us_5962169fe4b0d5b458eafe0f"
+  },
+  "headline":{
+    "0":"Iraq Declares A Brilliant Victory In Mosul: What Are The Lessons?",
+    "1":"U.S.-Russian Brokered Ceasefire Deal Takes Effect In Southwest Syria"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Three years ago, I was visiting Iraq as the self-declared Islamic State in Iraq and Syria (ISIS) was advancing fast in territories",
+    "1":"\u201cThe situation is relatively calm,\u201d said a spokesman for the Alwiyat al-Furqan rebel group in the Quneitra area."
+  },
+  "authors":{
+    "0":"Abbas Kadhim, ContributorSenior Foreign Policy Fellow, FPI-SAIS, Johns Hopkins University",
+    "1":"Ellen Francis, Reuters"
+  },
+  "date":{
+    "0":"2017-07-10 00:00:00",
+    "1":"2017-07-09 00:00:00"
+  },
+  "actor1":{
+    "0":"irq",
+    "1":"---reb"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"013",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "iraq",
+      "irq",
+      "iraq",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "rebel group",
+      "~reb",
+      "~",
+      "spokesman",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iraq",
+      "iraq"
+    ],
+    "1":[
+      "rebel group",
+      "spokesman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iraq",
+      "iraq"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "declares ... victory"
+    ],
+    "1":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "irq",
+      "irq",
+      "013"
+    ],
+    "1":[
+      "---reb",
+      "---med",
+      "010"
+    ]
+  }
+}

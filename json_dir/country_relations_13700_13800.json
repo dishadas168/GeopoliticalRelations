@@ -1,0 +1,136 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/andy-slavitt-united-states-of-care-interview-congress-states_us_5a8744c3e4b00bc49f43edcd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/orrin-hatch-rob-porter-wives-apologized_us_5a8a9215e4b004fc3193f78b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dems-media-more-chaos-than-russia_us_5a88fdc1e4b00bc49f44ea00"
+  },
+  "headline":{
+    "0":"Why The Nation\u2019s Premier Health Care Wonk Has Given Up On Congress",
+    "1":"Orrin Hatch Reportedly Apologizes To Rob Porter's Ex-Wives",
+    "2":"Media, Democrats Have Created 'More Chaos' Than Russians, Says White House Spokesman"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Andy Slavitt isn\u2019t afraid of all politics -- just the current politics in Washington, D.C.",
+    "1":"The senator, who once employed Porter, explained why he defended him against domestic abuse allegations.",
+    "2":"Twitter: \"That's exactly what the Russian troll farm tweets say.\""
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Willa Frej",
+    "2":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2018-02-19 00:00:00",
+    "1":"2018-02-19 00:00:00",
+    "2":"2018-02-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---leg",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"074",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":8.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "premier",
+      "~gov",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "media",
+      "~med",
+      "~",
+      "spokesman",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "premier",
+      "congress"
+    ],
+    "1":[
+      "senator",
+      "senator"
+    ],
+    "2":[
+      "media",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has <['given',> <'up']>"
+    ],
+    "1":[
+      "explained ... defended"
+    ],
+    "2":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---leg",
+      "08"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "074"
+    ],
+    "2":[
+      "---med",
+      "---med",
+      "010"
+    ]
+  }
+}

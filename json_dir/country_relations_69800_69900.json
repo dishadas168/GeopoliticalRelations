@@ -1,0 +1,81 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-110_b_9546494.html"
+  },
+  "headline":{
+    "0":"Weekend Roundup: Between Engagement and Terror"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"This week we witnessed a world coming together and a world falling apart, a world between engagement and terror. For the first time in nearly 90 years, an American president visited Cuba, turning upside down the anti-Yanqui narrative that has been the raison d'\u00eatre of one of the Western Hemisphere's most longest-lasting dictatorships. In Brussels, it appears that some children of Muslim immigrants expressed their explosive alienation in terror attacks in the very city many of them grew up, which also happens to be the capital of Europe. (continued)"
+  },
+  "authors":{
+    "0":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost"
+  },
+  "date":{
+    "0":"2016-03-26 00:00:00"
+  },
+  "actor1":{
+    "0":"cub"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "american president",
+      "usagov",
+      "president",
+      "of",
+      "the",
+      "united",
+      "states",
+      "cuba",
+      "cub",
+      "cuba"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cuba",
+      "american president",
+      "american president",
+      "cuba"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cuba",
+      "president of the united states",
+      "president of the united states",
+      "cuba"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visited",
+      "visited"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "cub",
+      "usagov",
+      "043",
+      "usagov",
+      "cub",
+      "042"
+    ]
+  }
+}

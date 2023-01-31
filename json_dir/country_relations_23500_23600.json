@@ -1,0 +1,222 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-administration-piss-off-uk_us_59cb6918e4b05063fe0dce99",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-voters-life-expectancy_us_59cbb619e4b05063fe0e303b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/muslim-surgeon-manchester-stabbed_us_59ca0ca3e4b01cc57ff507ad",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/top-us-general-says-north-koreas-military-posture-unchanged-amid-tensions_us_59ca8a55e4b0cdc773353790",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/justice-department-voter-fraud-panel-senate-democrats_us_59cac748e4b02aef6cd5eb62"
+  },
+  "headline":{
+    "0":"Trump Administration Finds A New Way To Fight With The UK",
+    "1":"Less Healthy Americans Were More Likely To Vote Trump, Research Finds",
+    "2":"Muslim Surgeon Who Treated Manchester Attack Victims Stabbed In Hate Crime",
+    "3":"Top U.S. General Says North Korea's Military Posture Unchanged Amid Tensions",
+    "4":"7 Senators Demand To Know If DOJ Is Involved With Trump Voter Fraud Probe"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"HEALTHY LIVING",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"May said she was \"disappointed\" with the U.S. decision to massively tax a key Northern Ireland job creator.",
+    "1":"\"People are voting for the president and party that are promising to enact policies that are very likely to further harm their health.\"",
+    "2":"Dr. Nasser Kurdy said he has \"totally forgiven\" his assailant.",
+    "3":"Recent threats between Washington and Pyongyang have stirred fears that a miscalculation could lead to action with untold ramifications.",
+    "4":"These Democrats aren't buying that the Justice Department is independent from the president's commission."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Erin Schumaker",
+    "2":"Willa Frej",
+    "3":"Idrees Ali and Christine Kim, Reuters",
+    "4":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-09-27 00:00:00",
+    "1":"2017-09-27 00:00:00",
+    "2":"2017-09-26 00:00:00",
+    "3":"2017-09-26 00:00:00",
+    "4":"2017-09-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"egy",
+    "3":"usa",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"---gov",
+    "2":"---uaf",
+    "3":"prk",
+    "4":"usagov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"030",
+    "2":"056",
+    "3":"042",
+    "4":"012"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":4.0,
+    "2":7.0,
+    "3":1.9,
+    "4":-0.4
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "the uk",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "nasser",
+      "egy",
+      "egypt",
+      "assailant",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "washington",
+      "pyongyang",
+      "usa",
+      "prk",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north",
+      "korea"
+    ],
+    "4":[
+      "senators",
+      "~leg",
+      "~",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "the uk"
+    ],
+    "1":[
+      "people",
+      "president"
+    ],
+    "2":[
+      "nasser",
+      "assailant"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "senators",
+      "doj"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "egypt",
+      "---"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "---",
+      "united states department of justice"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "finds ... fight"
+    ],
+    "1":[
+      "are voting"
+    ],
+    "2":[
+      "said ... has ... forgiven"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "demand <usagov> ... involved"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "gbr",
+      "190"
+    ],
+    "1":[
+      "---ppl",
+      "---gov",
+      "030"
+    ],
+    "2":[
+      "egy",
+      "---uaf",
+      "056"
+    ],
+    "3":[
+      "usa",
+      "prk",
+      "042",
+      "prk",
+      "usa",
+      "042"
+    ],
+    "4":[
+      "---leg",
+      "usagov",
+      "012"
+    ]
+  }
+}

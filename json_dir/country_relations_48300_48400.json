@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-talks-us-aleppo-rebel-withdrawal_us_5845b9a5e4b055b3139891f1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/japan-pm-visit-pearl-harbor-obama_us_58455f49e4b09e21702f84a8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/spain-streets-renamed_us_58446829e4b09e21702f40a3"
+  },
+  "headline":{
+    "0":"Russia Wants To Start Talks With U.S. On Aleppo Rebel Withdrawal",
+    "1":"Japan PM Will Visit Pearl Harbor With Obama",
+    "2":"Spanish Streets Named After Fascist Leaders Will Soon Honor Women Instead"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Syrian government forces are on the cusp of recapturing the city.",
+    "1":"Shinzo Abe will be the first Japanese premier to to so.",
+    "2":"Though Francisco Franco\u2019s totalitarian Spanish regime was toppled nearly 40 years ago, its legacy is still present in the"
+  },
+  "authors":{
+    "0":"Ellen Francis, Suleiman Al-Khalidi and Maria Kiselyova, Reuters",
+    "1":"",
+    "2":"Annalisa Merelli, Quartz"
+  },
+  "date":{
+    "0":"2016-12-05 00:00:00",
+    "1":"2016-12-05 00:00:00",
+    "2":"2016-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"jpn",
+    "2":"esp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"046",
+    "1":"042",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.9,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "japan",
+      "jpn",
+      "japan",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "spanish",
+      "esp",
+      "spain",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "u.s."
+    ],
+    "1":[
+      "japan",
+      "obama"
+    ],
+    "2":[
+      "spanish",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "united states of america"
+    ],
+    "1":[
+      "japan",
+      "barack obama"
+    ],
+    "2":[
+      "spain",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... start talks"
+    ],
+    "1":[
+      "will visit"
+    ],
+    "2":[
+      "will ... honor"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "usa",
+      "046"
+    ],
+    "1":[
+      "jpn",
+      "usagov",
+      "042"
+    ],
+    "2":[
+      "esp",
+      "---cvl",
+      "051"
+    ]
+  }
+}

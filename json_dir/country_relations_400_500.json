@@ -1,0 +1,268 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/christopher-schurr-patrick-lyoya-traffic-stops-shooting_n_62c46ad3e4b0a21d842c5c75",
+    "1":"https:\/\/www.huffpost.com\/entry\/mariah-carey-latto-2022-bet-awards-performance_n_62b913bae4b0c77098be0ee2",
+    "2":"https:\/\/www.huffpost.com\/entry\/marjorie-taylor-greene-reporter-go-back-to-your-country_n_62b3db50e4b0cdccbe669351",
+    "3":"https:\/\/www.huffpost.com\/entry\/chipper-truck-cafe-grubhub-hostage_n_62b38196e4b04a617365121e",
+    "4":"https:\/\/www.huffpost.com\/entry\/calvin-university-professor-joe-kuilema-gay-marriage-lgbtq_n_62aca02de4b06169ca988191",
+    "5":"https:\/\/www.huffpost.com\/entry\/christian-herschel-walker-absent-baby-daddies-viral-video-rants_n_62ad36bce4b06594c1d67750"
+  },
+  "headline":{
+    "0":"Patrick Lyoya\u2019s Death Casts A Light On How Police Mishandle Traffic Stops",
+    "1":"Mariah Carey Brings Big, Big Energy To Latto's 2022 BET Awards Performance",
+    "2":"Rep. Marjorie Taylor Greene Tells Reporter To \u2018Go Back To Your Country\u2019",
+    "3":"Woman Allegedly Being Held Hostage Gets Rescued Thanks To Grubhub Note",
+    "4":"An Elite Christian College Has Become The Latest Battleground In America\u2019s Culture Wars",
+    "5":"Rants By Herschel Walker's Son On Absent Fathers Go Viral At Awkward Moment"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police reform advocates say the case shows why cops should stop pulling people over for minor infractions.",
+    "1":"The \"Queen of Christmas\" joined the \"Queen of Da Souf\" on stage at this year's award ceremony.",
+    "2":"\u201cYou have mass stabbings, lady,\" the GOP congresswoman told a reporter who compared U.K. gun statistics to those in the U.S.",
+    "3":"The woman placing the order asked restaurant employees to \u201ccall the police\u201d and have them come with the delivery, but \u201cplease don\u2019t make it obvious.\u201d",
+    "4":"The saga that unfolded after a professor officiated a same-sex wedding has exposed deep rifts over how the school treats members of the LGBTQ community -- and how its church interprets the Bible.",
+    "5":"\"Get home and raise your kids!\" Christian Walker lectures men as the public learns his own dad has three other children."
+  },
+  "authors":{
+    "0":"Phillip Jackson",
+    "1":"Ruth Etiesit Samuel",
+    "2":"Josephine Harvey",
+    "3":"David Moye",
+    "4":"Jonathan Cohn",
+    "5":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2022-07-05 00:00:00",
+    "1":"2022-06-27 00:00:00",
+    "2":"2022-06-23 00:00:00",
+    "3":"2022-06-22 00:00:00",
+    "4":"2022-06-19 00:00:00",
+    "5":"2022-06-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"'mamohato_",
+    "2":"---leg",
+    "3":"---cvl",
+    "4":"jpn",
+    "5":"---chr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"'mamohato_",
+    "2":"---med",
+    "3":"---lab",
+    "4":"---educvl",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040",
+    "2":"010",
+    "3":"020",
+    "4":"050",
+    "5":"111"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0,
+    "2":0.0,
+    "3":3.0,
+    "4":3.5,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "advocates",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "2":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "saga",
+      "jpn",
+      "japan",
+      "community",
+      "~cvl",
+      "~",
+      "school",
+      "community",
+      "~educvl",
+      "~",
+      "~"
+    ],
+    "5":[
+      "christian",
+      "~chr",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocates",
+      "people"
+    ],
+    "1":[
+      "queen",
+      "queen"
+    ],
+    "2":[
+      "congresswoman",
+      "reporter"
+    ],
+    "3":[
+      "woman",
+      "employees"
+    ],
+    "4":[
+      "saga",
+      "school ... community"
+    ],
+    "5":[
+      "christian",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "queen",
+      "queen"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "japan",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... pulling"
+    ],
+    "1":[
+      "joined"
+    ],
+    "2":[
+      "told"
+    ],
+    "3":[
+      "asked"
+    ],
+    "4":[
+      "has exposed"
+    ],
+    "5":[
+      "lectures"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "postsecondary_education",
+      "1",
+      "schools",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "171"
+    ],
+    "1":[
+      "'mamohato_",
+      "'mamohato_",
+      "040"
+    ],
+    "2":[
+      "---leg",
+      "---med",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---lab",
+      "020"
+    ],
+    "4":[
+      "jpn",
+      "---educvl",
+      "050"
+    ],
+    "5":[
+      "---chr",
+      "---ppl",
+      "111"
+    ]
+  }
+}

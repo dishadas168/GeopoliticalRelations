@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mike-flynn-turkey-lobbyist_us_58c1c515e4b0d1078ca55f09",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.washingtonblade.com\/2017\/03\/08\/devos-meets-with-lgbt-groups-over-withdrawal-of-trans-student-protections\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-hotel-lawsuit_us_58c19053e4b0ed71826ac039"
+  },
+  "headline":{
+    "0":"Michael Flynn Concealed Foreign Lobbying Work From Justice Department",
+    "1":"DeVos Meets With LGBTQ Groups Over Trans Student Protections",
+    "2":"This D.C. Restaurant Just Sued Trump And His Hotel For Unfair Competition"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Trump didn't know his national security adviser was helping Turkey during the campaign, the White House says.",
+    "1":"Representatives from a trio of LGBT organizations and families with transgender kids met Wednesday with Education Secretary",
+    "2":"The president's ownership of the hotel and its restaurants gives it an unfair advantage over other local businesses, the plaintiffs say."
+  },
+  "authors":{
+    "0":"Christina Wilkie and Paul Blumenthal",
+    "1":"",
+    "2":"Paul Blumenthal"
+  },
+  "date":{
+    "0":"2017-03-09 00:00:00",
+    "1":"2017-03-09 00:00:00",
+    "2":"2017-03-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---govmil",
+    "1":"---leg",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"tur",
+    "1":"---govedu",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"040",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "national security adviser",
+      "~govmil",
+      "~",
+      "turkey",
+      "tur",
+      "turkey",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "representatives",
+      "~leg",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "businesses",
+      "~bus",
+      "~",
+      "businesses",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "national security adviser",
+      "turkey"
+    ],
+    "1":[
+      "representatives",
+      "education secretary"
+    ],
+    "2":[
+      "president",
+      "businesses"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "turkey"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was helping"
+    ],
+    "1":[
+      "met"
+    ],
+    "2":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "2"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---govmil",
+      "tur",
+      "070"
+    ],
+    "1":[
+      "---leg",
+      "---govedu",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "---bus",
+      "060"
+    ]
+  }
+}

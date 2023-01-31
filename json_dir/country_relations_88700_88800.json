@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senators-obama-iran-deal_us_55cb6670e4b0923c12beceb7"
+  },
+  "headline":{
+    "0":"Here Are The Wobbly Democrats Who Could Make Or Break The Iran Deal"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The White House still needs five senators to promise to protect the nuclear agreement."
+  },
+  "authors":{
+    "0":"Jessica Schulberg and Ryan Grim"
+  },
+  "date":{
+    "0":"2015-08-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---leg"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "senators",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "senators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---leg",
+      "100"
+    ]
+  }
+}

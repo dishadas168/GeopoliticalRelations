@@ -1,0 +1,222 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-merkel-news-conference_us_58cc1ec7e4b00705db4f3f91",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-legislators-remove-robert-e-lee-martin-luther-king-day_us_58cc5dfce4b00705db4fac00",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hannity-travel-ban-judge_us_58cb5edae4b00705db4e006b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/kidnapped-woman-escape-trunk_us_58cc3ff4e4b0be71dcf4c855",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/athlete-ally-open-letter-texas_us_58cab633e4b00705db4cd838"
+  },
+  "headline":{
+    "0":"Trump Had Stopped Focusing On Claim Obama Wiretapped Him -- Till A German Reporter Asked About It",
+    "1":"Arkansas Legislators Vote To Remove Gen. Robert E. Lee From MLK Holiday",
+    "2":"Sean Hannity Suggests Travel Ban Judge Did 'Weed' And 'Blow' With Barack Obama",
+    "3":"Dramatic Surveillance Video Shows Kidnapped Woman Escape Car Trunk",
+    "4":"Athletes Speak Out Against Transphobic Texas Bill"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"MEDIA",
+    "3":"CRIME",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The president revived the claim in a joint news conference with German Chancellor Angela Merkel.",
+    "1":"It's about time.",
+    "2":"Radio host pushes right-wing conspiracy theory.",
+    "3":"The kidnapper had been driving to ATMs, withdrawing money from his victim's account.",
+    "4":"\u201cWe\u2019re committed to upholding the very values that sport instills in each of us.\""
+  },
+  "authors":{
+    "0":"S.V. Date",
+    "1":"Philip Lewis",
+    "2":"Ed Mazza",
+    "3":"Ryan Grenoble",
+    "4":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2017-03-17 00:00:00",
+    "1":"2017-03-17 00:00:00",
+    "2":"2017-03-17 00:00:00",
+    "3":"2017-03-17 00:00:00",
+    "4":"2017-03-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usaleg",
+    "2":"---jud",
+    "3":"---crm",
+    "4":"---cvl"
+  },
+  "actor2":{
+    "0":"deugov",
+    "1":"---mil",
+    "2":"usagov",
+    "3":"---cvl",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"174",
+    "2":"190",
+    "3":"08",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0,
+    "2":-10.0,
+    "3":5.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "angela merkel",
+      "deugov",
+      "angela",
+      "merkel"
+    ],
+    "1":[
+      "arkansas",
+      "legislators",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "gen.",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "kidnapper",
+      "~crm",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "athletes",
+      "~cvl",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "angela merkel"
+    ],
+    "1":[
+      "arkansas legislators",
+      "gen."
+    ],
+    "2":[
+      "judge",
+      "barack obama"
+    ],
+    "3":[
+      "kidnapper",
+      "victim"
+    ],
+    "4":[
+      "athletes",
+      "texas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "angela merkel"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "revived"
+    ],
+    "1":[
+      "vote ... remove"
+    ],
+    "2":[
+      "<and> ... blow"
+    ],
+    "3":[
+      "had ... withdrawing"
+    ],
+    "4":[
+      "speak"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "deugov",
+      "030"
+    ],
+    "1":[
+      "usaleg",
+      "---mil",
+      "174"
+    ],
+    "2":[
+      "---jud",
+      "usagov",
+      "190"
+    ],
+    "3":[
+      "---crm",
+      "---cvl",
+      "08"
+    ],
+    "4":[
+      "---cvl",
+      "usa",
+      "010"
+    ]
+  }
+}

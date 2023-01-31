@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/report-polish-minister-s_n_5519017.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nothing-good-will-come-of_b_5517534.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/marijuana-cubans-need-to_b_5517577.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obamas-pentagon-bungling-_b_5517578.html"
+  },
+  "headline":{
+    "0":"Report: Polish Minister Says U.S. Political Ties Are Worthless",
+    "1":"Nothing Good Will Come of This",
+    "2":"Marijuana: Cubans Need to Talk About It",
+    "3":"Obama's Pentagon Bungling Shipments for Our Troops"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"LATINO VOICES",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"With the kidnapping, Netanyahu has been reborn. Playing the victim card and confronting enemies is what he loves most and does best. The kidnappers have given the Prime Minister an undeserved second wind. No longer \"the obstacle to peace,\" he has become \"the defender of his victim people.\"",
+    "2":"Although the media does not talk about it, it doesn't need advertising to be popular. It is smelled at parties, seen in the air at some public concerts, and detected in the half-closed eyes of more than a few who appear on national television itself.",
+    "3":"Once again, Barack Obama is showing his lack of serious concern for the military. Instead of court martialing Bowe Bergdahl, who presumably went AWOL in Afghanistan, Obama traded five high-level Taliban terrorists from Guantanamo Bay, for his release."
+  },
+  "authors":{
+    "0":"Nick Robins-Early",
+    "1":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'",
+    "2":"Yoani Sanchez, ContributorPublisher of 14ymedio, independent newspaper in Cuba",
+    "3":"Ken Blackwell, ContributorFellow of The National Academy of Public Administration and th..."
+  },
+  "date":{
+    "0":"2014-06-22 00:00:00",
+    "1":"2014-06-21 00:00:00",
+    "2":"2014-06-21 00:00:00",
+    "3":"2014-06-21 00:00:00"
+  },
+  "actor1":{
+    "0":"polgov",
+    "1":"---crm",
+    "2":"cub",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"cub",
+    "3":"afgrebuaf"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"010",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":0.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "polish",
+      "minister",
+      "polgov",
+      "poland",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "kidnappers",
+      "~crm",
+      "~",
+      "prime minister",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "cubans",
+      "cub",
+      "cuba"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "taliban",
+      "terrorists",
+      "afgrebuaf",
+      "taliban",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "polish minister",
+      "<u.s.>"
+    ],
+    "1":[
+      "kidnappers",
+      "prime minister"
+    ],
+    "2":[
+      "cubans",
+      "cubans"
+    ],
+    "3":[
+      "obama",
+      "taliban terrorists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "poland",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "cuba",
+      "cuba"
+    ],
+    "3":[
+      "barack obama",
+      "taliban"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "have given"
+    ],
+    "2":[
+      "need ... talk"
+    ],
+    "3":[
+      "traded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "drugs",
+      "1"
+    ],
+    "3":[
+      "named_terror_group",
+      "1",
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "polgov",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---crm",
+      "---gov",
+      "060"
+    ],
+    "2":[
+      "cub",
+      "cub",
+      "010"
+    ],
+    "3":[
+      "usagov",
+      "afgrebuaf",
+      "060"
+    ]
+  }
+}

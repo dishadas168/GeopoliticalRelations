@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/historic-workers-protecti_us_5bafbda4e4b0ad7692612a25"
+  },
+  "headline":{
+    "0":"Historic Workers' Protection Bill Passes in Senate, Will Protect Many in Asian American & Pacific Islander Community"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Cendana is the first openly gay and youngest-ever Executive Director of the Asian Pacific American Labor Alliance (APALA"
+  },
+  "authors":{
+    "0":"Gregory Cendana, Contributor\nExecutive Director, Asian Pacific American Labor Alliance, AFL..."
+  },
+  "date":{
+    "0":"2013-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleglab"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"074"
+  },
+  "goldstein_score":{
+    "0":8.5
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "workers",
+      "usagovleglab",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "workers",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will protect"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagovleglab",
+      "---cvl",
+      "074"
+    ]
+  }
+}

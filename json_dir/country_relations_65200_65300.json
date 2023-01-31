@@ -1,0 +1,237 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/oklahoma-introduces-measure-to-impeach-obama_us_573f34a7e4b0613b512a12fb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bangladesh-doctor-murdered-in-suspected-islamist-attack_us_573f0f10e4b045cc9a70a8ef",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/fivethirtyeight.com\/features\/men-are-sabotaging-the-online-reviews-of-tv-shows-aimed-at-women\/?ex_cid=story-twitter",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/Iz1nDf",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-policies-black-women_us_573ccba5e4b0aee7b8e8d691"
+  },
+  "headline":{
+    "0":"Oklahoma Introduces Measure To Impeach Obama Over Transgender Bathroom Rights",
+    "1":"Bangladesh Homeopathic Doctor Hacked To Death In Suspected Islamist Attack",
+    "2":"Men Are Sabotaging The Online Reviews Of TV Shows Aimed At Women",
+    "3":"Airbnb Slapped With Suit For Alleged Discrimination Against Black Guests",
+    "4":"How Hillary Clinton Plans To Help Women Of Color"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"WOMEN",
+    "3":"BUSINESS",
+    "4":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"State lawmakers also want to take down the U.S. attorney general and the U.S. secretary of education.",
+    "1":"The doctor was attacked while on his way to a weekly free clinic he operated.",
+    "2":"We can quibble about where it stands in the TV canon, but \u201cSex and the City\u201d has seven Emmys and a suite of Golden Globes",
+    "3":"An African-American man who claims he was subjected to race-based discrimination while using Airbnb slapped the company with",
+    "4":"Policy Advisor Maya Harris says Clinton\u2019s plans \u201cwould make a real difference in the lives of many women of color.\u201d"
+  },
+  "authors":{
+    "0":"",
+    "1":"Ruma Paul, Reuters",
+    "2":"",
+    "3":"",
+    "4":"Rahel Gebreyes"
+  },
+  "date":{
+    "0":"2016-05-20 00:00:00",
+    "1":"2016-05-20 00:00:00",
+    "2":"2016-05-19 00:00:00",
+    "3":"2016-05-19 00:00:00",
+    "4":"2016-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"bgdhlh",
+    "2":"---ppl",
+    "3":"---ppl",
+    "4":"usaeli"
+  },
+  "actor2":{
+    "0":"usagovgovedu",
+    "1":"---mus",
+    "2":"---med",
+    "3":"---bus",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"1823",
+    "2":"160",
+    "3":"180",
+    "4":"033"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-10.0,
+    "2":-4.0,
+    "3":-9.0,
+    "4":5.2
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "u.s.",
+      "attorney general",
+      "u.s.",
+      "secretary of education",
+      "usagovgovedu",
+      "usagovgovedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "bangladesh",
+      "doctor",
+      "bgdhlh",
+      "bangladesh",
+      "~",
+      "islamist",
+      "~mus",
+      "~"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "tv",
+      "~med",
+      "~",
+      "tv",
+      "~med",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "man",
+      "~ppl",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "4":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "u.s."
+    ],
+    "1":[
+      "bangladesh ... doctor",
+      "islamist"
+    ],
+    "2":[
+      "men",
+      "tv"
+    ],
+    "3":[
+      "man",
+      "company"
+    ],
+    "4":[
+      "hillary clinton",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "bangladesh",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... take"
+    ],
+    "1":[
+      "hacked to death"
+    ],
+    "2":[
+      "are sabotaging"
+    ],
+    "3":[
+      "slapped"
+    ],
+    "4":[
+      "plans ... help"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "discrimination",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usagovgovedu",
+      "171",
+      "---leg",
+      "usagovgovedu",
+      "171"
+    ],
+    "1":[
+      "bgdhlh",
+      "---mus",
+      "1823"
+    ],
+    "2":[
+      "---ppl",
+      "---med",
+      "160"
+    ],
+    "3":[
+      "---ppl",
+      "---bus",
+      "180"
+    ],
+    "4":[
+      "usaeli",
+      "---cvl",
+      "033"
+    ]
+  }
+}

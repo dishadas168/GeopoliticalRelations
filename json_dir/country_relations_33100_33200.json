@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-paris-agreement_us_592dae29e4b0c0608e8bb885",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/exxon-mobil-shareholders-climate-vote_us_592d803de4b053f2d2ae3fa6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-voter-purge_us_592da9ace4b0c0608e8baf3d"
+  },
+  "headline":{
+    "0":"Donald Trump Reportedly Plans To Withdraw From Paris Climate Deal",
+    "1":"Exxon Shareholders Push Company To Be More Transparent About Climate Risks",
+    "2":"Supreme Court To Weigh In On Tactic For Kicking People Off Voter Rolls"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The U.S. would join Syria and Nicaragua in rejecting the historic pact to address global warming.",
+    "1":"Meanwhile, President Donald Trump reportedly plans to pull the U.S. out of the historic Paris climate pact.",
+    "2":"Ohio officials are illegally targeting people for not voting, plaintiffs say."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Chris D'Angelo",
+    "2":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-05-31 00:00:00",
+    "1":"2017-05-31 00:00:00",
+    "2":"2017-05-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syria",
+      "nicaragua",
+      "syr",
+      "nic",
+      "syria",
+      "nicaragua"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "2":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "syria",
+      "u.s.",
+      "nicaragua"
+    ],
+    "1":[
+      "president",
+      "u.s."
+    ],
+    "2":[
+      "ohio",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria",
+      "united states of america",
+      "nicaragua"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would join",
+      "would join"
+    ],
+    "1":[
+      "plans <['pull',> <'out']>"
+    ],
+    "2":[
+      "are ... targeting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "climate_change",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "syr",
+      "040",
+      "usa",
+      "nic",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "190"
+    ]
+  }
+}

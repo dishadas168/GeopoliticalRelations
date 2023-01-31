@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/domestic-violence-survivo_0_n_6794914.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-supreme-court-could-kill-thousands_b_6795110.html"
+  },
+  "headline":{
+    "0":"Activists Rally For Domestic Violence Survivor Found Guilty Of Child Abduction",
+    "1":"The Supreme Court Could Kill Thousands of People This Week"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"COMEDY"
+  },
+  "short_description":{
+    "0":"",
+    "1":"This lawsuit and most of the rhetoric of those that oppose Obamacare is a blatant disrespect for lower-income Americans. Who are these Americans? They are families, college students in deep debt, people with serious health issues, senior citizens, first-generation Americans, single mothers, YOU."
+  },
+  "authors":{
+    "0":"",
+    "1":"H. Alan Scott, ContributorWriter, Comedian, Cat Owner"
+  },
+  "date":{
+    "0":"2015-03-03 00:00:00",
+    "1":"2015-03-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "child"
+    ],
+    "1":[
+      "supreme court",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "found guilty"
+    ],
+    "1":[
+      "could kill"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1",
+      "gender_violence",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "173"
+    ],
+    "1":[
+      "---jud",
+      "---ppl",
+      "190"
+    ]
+  }
+}

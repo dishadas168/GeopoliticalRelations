@@ -1,0 +1,181 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jebs-demise-and-hillarys_b_9283682.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/amanda-kahlow-mit_us_56c8c5e4e4b0928f5a6c203a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/serbia-hostages-killed-isis-libya_us_56c880f9e4b0928f5a6c0c9c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sergey-aleksashenko-russia-economy-interview_us_56c62e7be4b0928f5a6b4586"
+  },
+  "headline":{
+    "0":"Jeb's Demise and Hillary's Win Shows How People Really See Obama and 'Dubbya'",
+    "1":"Artificial Intelligence Might Just Disrupt Know-It-All White Men",
+    "2":"Serbia: 2 Hostages Killed In U.S. Airstrikes On ISIS In Libya",
+    "3":"What Russia's Failing Economy Means For Putin's Legacy And Military Ambitions"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Jeb's embrace of his brother cost him dearly, while Hillary's support of Obama helped her campaign recover.",
+    "1":"Robots will likely terminate at least one aspect of male privilege in business.",
+    "2":"The Serbian Embassy staff members were abducted in Libya in November.",
+    "3":"The WorldPost spoke with Sergey Aleksahenko, former deputy chairman of the Russian Central Bank."
+  },
+  "authors":{
+    "0":"John A. Tures, ContributorPolitical science professor, LaGrange College in Georgia",
+    "1":"Alexander C. Kaufman",
+    "2":"",
+    "3":"Alexandra Ma"
+  },
+  "date":{
+    "0":"2016-02-21 00:00:00",
+    "1":"2016-02-20 00:00:00",
+    "2":"2016-02-20 00:00:00",
+    "3":"2016-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---spy",
+    "2":"lby",
+    "3":"rus"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl",
+    "2":"srbgovlab",
+    "3":"rusgov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"160",
+    "2":"181",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.0,
+    "2":-9.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "intelligence",
+      "~spy",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "serbian",
+      "embassy",
+      "staff members",
+      "srbgovlab",
+      "serbia",
+      "~",
+      "~",
+      "libya",
+      "lby",
+      "libya"
+    ],
+    "3":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "obama"
+    ],
+    "1":[
+      "intelligence",
+      "men"
+    ],
+    "2":[
+      "libya",
+      "serbian embassy staff members"
+    ],
+    "3":[
+      "russia",
+      "putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "libya",
+      "serbia"
+    ],
+    "3":[
+      "russian federation",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "see"
+    ],
+    "1":[
+      "might ... disrupt"
+    ],
+    "2":[
+      "<srbgovlab> ... abducted in <lby> ... in <--->"
+    ],
+    "3":[
+      "means"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usagov",
+      "010"
+    ],
+    "1":[
+      "---spy",
+      "---ppl",
+      "160"
+    ],
+    "2":[
+      "lby",
+      "srbgovlab",
+      "181"
+    ],
+    "3":[
+      "rus",
+      "rusgov",
+      "030"
+    ]
+  }
+}

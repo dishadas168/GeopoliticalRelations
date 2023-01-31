@@ -1,0 +1,221 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/munich-terror-threat_us_56868836e4b014efe0da83ea",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-erdogan-hitler_us_56868bc6e4b06fa688826be0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-erdogan-hitler_us_56868bc6e4b06fa688826be0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/tonya-couch-extradicted-affluenza-teen_us_5684f63de4b014efe0da3fee"
+  },
+  "headline":{
+    "0":"Munich Train Stations Reopen After New Year's Eve Terror Threat",
+    "1":"Turkey's President Calls Hitler's Germany Example Of Effective Government",
+    "2":"Turkey's President Calls Hitler's Germany Example Of Effective Government",
+    "3":"Tonya Couch, Mother Of Fugitive 'Affluenza' Teen, Extradited To U.S."
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"CRIME"
+  },
+  "short_description":{
+    "0":"Germany was warned of an imminent attack at midnight by between five and seven Islamic State militants from Syria and Iraq.",
+    "1":"Erdogan wants to change the Turkish constitution to turn the ceremonial role of president into that of a chief executive.",
+    "2":"Erdogan wants to change the Turkish constitution to turn the ceremonial role of president into that of a chief executive.",
+    "3":"Ethan Couch's deportation was delayed by a Mexican judge."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"MARK J. TERRILL and ANDREW DALTON, AP"
+  },
+  "date":{
+    "0":"2016-01-01 00:00:00",
+    "1":"2016-01-01 00:00:00",
+    "2":"2016-01-01 00:00:00",
+    "3":"2015-12-31 00:00:00"
+  },
+  "actor1":{
+    "0":"syruaf",
+    "1":"deugov",
+    "2":"turgov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"deu",
+    "1":"turgov",
+    "2":"tur",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"041",
+    "2":"0344",
+    "3":"063"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":1.0,
+    "2":7.0,
+    "3":7.4
+  },
+  "nouns":{
+    "0":[
+      "germany",
+      "deu",
+      "germany",
+      "syria",
+      "iraq",
+      "syr",
+      "irq",
+      "syria",
+      "iraq",
+      "militants",
+      "syruaf",
+      "irquaf",
+      "~"
+    ],
+    "1":[
+      "turkey",
+      "president",
+      "turgov",
+      "turkey",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "germany",
+      "government",
+      "deugov",
+      "germany",
+      "~"
+    ],
+    "2":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "turkish",
+      "tur",
+      "turkey",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "chief executive",
+      "~gov",
+      "~",
+      "chief executive",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "mother",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "militants",
+      "germany",
+      "militants",
+      "germany"
+    ],
+    "1":[
+      "germany ... government",
+      "turkey ... president",
+      "turkey ... president",
+      "germany ... government"
+    ],
+    "2":[
+      "erdogan",
+      "turkish"
+    ],
+    "3":[
+      "mother",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "germany",
+      "",
+      "germany"
+    ],
+    "1":[
+      "germany",
+      "turkey",
+      "turkey",
+      "germany"
+    ],
+    "2":[
+      "recep tayyip erdogan",
+      "turkey"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<deu> ... warned ... by <syruaf>",
+      "<deu> ... warned ... by <syruaf>"
+    ],
+    "1":[
+      "calls",
+      "calls"
+    ],
+    "2":[
+      "wants ... change ... constitution"
+    ],
+    "3":[
+      "extradited"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "syruaf",
+      "deu",
+      "130",
+      "irquaf",
+      "deu",
+      "130"
+    ],
+    "1":[
+      "deugov",
+      "turgov",
+      "041",
+      "turgov",
+      "deugov",
+      "041"
+    ],
+    "2":[
+      "turgov",
+      "tur",
+      "0344"
+    ],
+    "3":[
+      "---cvl",
+      "usa",
+      "063"
+    ]
+  }
+}

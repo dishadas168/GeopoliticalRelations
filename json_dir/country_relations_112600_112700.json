@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/children-amidst-worlds-co_b_6008024.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/children-amidst-worlds-co_b_6008024.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-militarycivilian-divi_b_6088338.html"
+  },
+  "headline":{
+    "0":"Children Amidst World's Conflicts at Risk of Becoming a Lost Generation",
+    "1":"Children Amidst World's Conflicts at Risk of Becoming a Lost Generation",
+    "2":"The Military-Civilian Divide Just Got Bigger"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Even as the wars rage on, international relief groups and dedicated health professionals must start preparing to address the long-term needs of these children -- including restoration of their emotional health. We must create environments where the children know they are protected from exploitation and harm.",
+    "1":"Even as the wars rage on, international relief groups and dedicated health professionals must start preparing to address the long-term needs of these children -- including restoration of their emotional health. We must create environments where the children know they are protected from exploitation and harm.",
+    "2":"Military men and women take time out from their families, their loved ones, and sometimes, in the case of reservists, their jobs, on a regular basis to do important work on our behalf. They do it in wartime and in peace. They do it with news coverage or without."
+  },
+  "authors":{
+    "0":"Darby Fox, ContributorChild and Adolescent Family Therapist",
+    "1":"Darby Fox, ContributorChild and Adolescent Family Therapist",
+    "2":"Sarah Smiley, ContributorAuthor of the memoir DINNER WITH THE SMILEYS"
+  },
+  "date":{
+    "0":"2014-11-03 00:00:00",
+    "1":"2014-11-03 00:00:00",
+    "2":"2014-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---cvl",
+    "2":"---milcvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---mil"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"074",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "health professionals",
+      "~hlh",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "military",
+      "men",
+      "women",
+      "~milcvl",
+      "~",
+      "~",
+      "~",
+      "reservists",
+      "~mil",
+      "~",
+      "reservists",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "health professionals",
+      "children"
+    ],
+    "1":[
+      "children",
+      "children"
+    ],
+    "2":[
+      "military men ... women",
+      "reservists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must ... preparing ... address"
+    ],
+    "1":[
+      "know <~cvl> ... protected from <--->"
+    ],
+    "2":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "074"
+    ],
+    "2":[
+      "---milcvl",
+      "---mil",
+      "171"
+    ]
+  }
+}

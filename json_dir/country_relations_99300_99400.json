@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mitch-mcconnells-weak-hand_b_7000022.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-deja-vu-of-russias-rough-justice_b_7018132.html"
+  },
+  "headline":{
+    "0":"Mitch McConnell's Weak Hand",
+    "1":"The D\u00e9j\u00e0 Vu of Russia's Rough Justice"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Members of Congress used to respect the president's constitutional role to speak for our country with one voice in foreign affairs. But, like the recent letter from 47 Republican Senators to the Iranian mullahs, McConnell's \"just say no\" message to foreign leaders shows that those days are gone.",
+    "1":"As Europe commemorates the 70th anniversary of the end of World War II, a troll army secretly floods websites with pro-Putin propaganda while Russian government officials openly defend the indefensible. Moscow archivists are spreading misinformation to whitewash Soviet history."
+  },
+  "authors":{
+    "0":"David Doniger, ContributorDirector, NRDC Climate and Clean Air Program",
+    "1":"Alex Storozynski, ContributorAuthor, The Peasant Prince: Thaddeus Kosciuszko and the Age of..."
+  },
+  "date":{
+    "0":"2015-04-09 00:00:00",
+    "1":"2015-04-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"rus"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"sun"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "soviet",
+      "sun",
+      "soviet",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "president"
+    ],
+    "1":[
+      "moscow",
+      "soviet"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "soviet union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "used ... respect"
+    ],
+    "1":[
+      "are spreading"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---gov",
+      "051"
+    ],
+    "1":[
+      "rus",
+      "sun",
+      "010"
+    ]
+  }
+}

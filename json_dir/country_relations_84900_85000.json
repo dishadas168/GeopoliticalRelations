@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/pope-leaves-united-states_us_56084443e4b0768126fdf161",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/freddie-gray-officer-warned-medical-help_us_560762f6e4b0dd850307e4ab",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/woman-riding-sea-turtle-arrested_us_5607033de4b0768126fdcc28"
+  },
+  "headline":{
+    "0":"Pope Leaves The U.S. After Moving 6-Day Visit",
+    "1":"Baltimore Officer Warned Freddie Gray Needed Medical Help, Newspaper Reports",
+    "2":"Woman Accused Of Riding Sea Turtle Arrested In Florida"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"POLITICS",
+    "2":"CRIME"
+  },
+  "short_description":{
+    "0":"Vice President Joe Biden came to say farewell to the pontiff before his plane took off for Rome.",
+    "1":"Sept 26 (Reuters) - A Baltimore police officer charged with manslaughter over the death of black man Freddie Gray told another",
+    "2":"A Facebook photo appears to show her and another woman harassing the protected species."
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"Alex Dobuzinskis, Reuters",
+    "2":"Andy Campbell"
+  },
+  "date":{
+    "0":"2015-09-27 00:00:00",
+    "1":"2015-09-27 00:00:00",
+    "2":"2015-09-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---cop",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"---ppl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"112",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-2.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "rome",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "police officer",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "reuters",
+      "med",
+      "reuters"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "joe biden",
+      "rome"
+    ],
+    "1":[
+      "police officer",
+      "man"
+    ],
+    "2":[
+      "woman",
+      "florida"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "joe biden",
+      "italy"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "came ... say ... took"
+    ],
+    "1":[
+      "charged"
+    ],
+    "2":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "ita",
+      "171"
+    ],
+    "1":[
+      "---cop",
+      "---ppl",
+      "112"
+    ],
+    "2":[
+      "---cvl",
+      "usa",
+      "173"
+    ]
+  }
+}

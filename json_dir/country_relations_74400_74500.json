@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/butt-crack-bandit-video_us_56adca12e4b077d4fe8e6728",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/de-mistura-bets-on-russia_b_9123690.html",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/world\/national-security\/pentagon-decides-no-further-punishment-warranted-for-petraeus\/2016\/01\/30\/b503348e-c767-11e5-8965-0607e0e265ce_story.html?tid=sm_tw",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ferguson-reporters-prosecution-st-louis-county_us_56aba4d4e4b077d4fe8ddca6"
+  },
+  "headline":{
+    "0":"'Butt Crack Bandit' Caught On Camera Holding Duo At Gunpoint",
+    "1":"De Mistura Bets on Russia's Need to Withdraw Its Forces From Syria",
+    "2":"Pentagon Won't Punish David Petraeus Any Further",
+    "3":"Ferguson Moves On, But Reporters Arrested There Still Being Prosecuted"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The man with saggy pants is wanted by cops in Fort Lauderdale, Florida.",
+    "1":"",
+    "2":"Defense Secretary Ashton Carter has decided not to impose any further punishment on David H. Petraeus, the former CIA director",
+    "3":"St. Louis County won't drop spurious charges against journalists who were just doing their jobs."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Raghida Dergham, ContributorColumnist and Senior Diplomatic Correspondent, Al Hayat",
+    "2":"",
+    "3":"Cristian Farias"
+  },
+  "date":{
+    "0":"2016-01-31 00:00:00",
+    "1":"2016-01-31 00:00:00",
+    "2":"2016-01-30 00:00:00",
+    "3":"2016-01-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"rus",
+    "2":"usagovmil",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"syr",
+    "2":"usaspy",
+    "3":"---med"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"105",
+    "2":"170",
+    "3":"081"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0,
+    "2":-7.0,
+    "3":5.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "ashton carter",
+      "usagovmil",
+      "ashton",
+      "carter",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ],
+    "3":[
+      "st. louis",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "journalists",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "florida",
+      "man"
+    ],
+    "1":[
+      "russia",
+      "syria"
+    ],
+    "2":[
+      "ashton carter",
+      "cia"
+    ],
+    "3":[
+      "st. louis",
+      "journalists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ],
+    "2":[
+      "ashton carter",
+      "us intelligence community"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... wanted by <usa>"
+    ],
+    "1":[
+      "need ... withdraw"
+    ],
+    "2":[
+      "has decided ... impose"
+    ],
+    "3":[
+      "wo ... drop ... charges"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "030"
+    ],
+    "1":[
+      "rus",
+      "syr",
+      "105"
+    ],
+    "2":[
+      "usagovmil",
+      "usaspy",
+      "170"
+    ],
+    "3":[
+      "usa",
+      "---med",
+      "081"
+    ]
+  }
+}

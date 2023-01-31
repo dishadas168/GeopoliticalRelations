@@ -1,0 +1,232 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/judge-asked-to-block-trumps-decision-to-end-daca_us_59fa1891e4b01b474047dba4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-law-professor_us_59f9ec92e4b046017fb0693e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brazil-police-violence-madonna-rio_us_59f9dc68e4b0d1cf6e91f1ef",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/displaced-by-maria-puerto-rican-teachers-face-hurdles_us_59f9d13fe4b0b7f0915f6325",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/stuyvesant-teacher-three-attacks_us_59f92fade4b046017fafb466"
+  },
+  "headline":{
+    "0":"Judge Asked To Block Trump Administration's Decision To End DACA",
+    "1":"Scott Pruitt\u2019s Professor Regrets \u2018Unleashing\u2019 EPA Chief On 'Unsuspecting Public\u2019",
+    "2":"Brazilian Cops Are Killing More People Than Ever. Somebody Tell Madonna.",
+    "3":"Displaced By Maria, Puerto Rican Teachers Face Hurdles On Mainland",
+    "4":"This Teacher Has Watched 3 Deadly Attacks From Inside Stuyvesant High School"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"An injunction request in California may temporarily keep the Obama-era program in place.",
+    "1":"The teacher blasts his former law school student in an Op-Ed.",
+    "2":"The pop star posed in camouflage with Rio de Janeiro police last week amid a police violence epidemic.",
+    "3":"Changes to states\u2019 teacher certification should ease the hiring process for Puerto Rican teachers, but some have found their",
+    "4":"Sadly, it's no longer surprising."
+  },
+  "authors":{
+    "0":"Roque Planas",
+    "1":"Alexander C. Kaufman",
+    "2":"Travis Waldron",
+    "3":"Stateline, ContributorStateline provides daily reporting and analysis on trends in s...",
+    "4":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2017-11-01 00:00:00",
+    "1":"2017-11-01 00:00:00",
+    "2":"2017-11-01 00:00:00",
+    "3":"2017-11-01 00:00:00",
+    "4":"2017-11-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---edu",
+    "2":"bra",
+    "3":"---edu",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---edu",
+    "2":"---ppl",
+    "3":"---edu",
+    "4":"---edu"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"190",
+    "2":"190",
+    "3":"060",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":6.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "teacher",
+      "~edu",
+      "~",
+      "school",
+      "student",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "2":[
+      "brazilian",
+      "bra",
+      "brazil",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "teacher",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "teacher",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "administration"
+    ],
+    "1":[
+      "teacher",
+      "teacher"
+    ],
+    "2":[
+      "brazilian",
+      "people"
+    ],
+    "3":[
+      "teacher",
+      "teacher"
+    ],
+    "4":[
+      "teacher",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "brazil",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked"
+    ],
+    "1":[
+      "blasts"
+    ],
+    "2":[
+      "are killing"
+    ],
+    "3":[
+      "should ease"
+    ],
+    "4":[
+      "has watched"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1",
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "teachers",
+      "2"
+    ],
+    "4":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "020"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "190"
+    ],
+    "2":[
+      "bra",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "060"
+    ],
+    "4":[
+      "---edu",
+      "---edu",
+      "010"
+    ]
+  }
+}

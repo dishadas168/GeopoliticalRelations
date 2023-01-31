@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/divorce-questions-college-tuition_us_5b9b949ce4b03a1dcc78caa9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/health-care-reform-insurance-raises_us_5b9b908fe4b03a1dcc78a465",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-drinking-colombia_us_5b9b92bfe4b03a1dcc78be69"
+  },
+  "headline":{
+    "0":"Divorce Questions: How Is College Tuition Divided Among Exes?",
+    "1":"Health Care Reform: Workers May Trade Health Insurance For Raises",
+    "2":"Hillary Clinton Drinks Beer, Dances, Meets First Lady Of Colombia (PHOTOS)"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"MONEY",
+    "2":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Before you sign that divorce decree, make sure your attorney has ensured your child will receive the college education you, and they, have in mind.",
+    "1":"A minority of big companies offered extra pay to workers who waived their health benefits last year. This practice, which",
+    "2":"Check out pics of Hillary cutting loose in Colombia below! Hillary Clinton is riding a brand new image wave lately. It started"
+  },
+  "authors":{
+    "0":"Honor\u00e9e Corder, Contributor\nBest-selling author, You Must Write a Book and The Divorced Ph...",
+    "1":"Jeffrey Young",
+    "2":"Jessica Misener"
+  },
+  "date":{
+    "0":"2012-04-17 00:00:00",
+    "1":"2012-04-16 00:00:00",
+    "2":"2012-04-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---bus",
+    "2":"usaeli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---lab",
+    "2":"coleli"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "attorney",
+      "~jud",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "companies",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "colombia",
+      "col",
+      "colombia",
+      "first lady",
+      "coleli",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "attorney",
+      "child"
+    ],
+    "1":[
+      "companies",
+      "workers"
+    ],
+    "2":[
+      "hillary clinton",
+      "first lady"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "hillary clinton",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "offered"
+    ],
+    "2":[
+      "meets"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "030"
+    ],
+    "2":[
+      "usaeli",
+      "coleli",
+      "040"
+    ]
+  }
+}

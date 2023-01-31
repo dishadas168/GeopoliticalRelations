@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mosul-offensive-iraq_us_5865197ee4b0eb58648844aa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire_us_5864f6b3e4b0eb5864883e71"
+  },
+  "headline":{
+    "0":"Iraqi Forces Begin Second Phase Of Massive Mosul Offensive",
+    "1":"Syria Cease-Fire Takes Effect Between Government And Some Rebel Groups"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Security forces are in locked in a fierce battle to take back the city from ISIS.",
+    "1":"Russia announced the move, as the U.S. has been sidelined in recent negotiations."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-12-29 00:00:00",
+    "1":"2016-12-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"syr"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"192",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "security forces",
+      "~mil",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "syria",
+      "syr",
+      "syria",
+      "government",
+      "~gov",
+      "~",
+      "rebel",
+      "~reb",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "security forces",
+      "isis"
+    ],
+    "1":[
+      "syria",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "syria",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... take <&town>"
+    ],
+    "1":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "imgmusisi",
+      "192"
+    ],
+    "1":[
+      "syr",
+      "---gov",
+      "171"
+    ]
+  }
+}

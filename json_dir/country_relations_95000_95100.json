@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rewarding-brand-switchers_b_7474178.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rewarding-brand-switchers_b_7474178.html"
+  },
+  "headline":{
+    "0":"Rewarding Brand Switchers at the Expense of Loyal Customers Will Ruin Your Business",
+    "1":"Rewarding Brand Switchers at the Expense of Loyal Customers Will Ruin Your Business"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Mobile service providers are doing it. Banks are doing it. Just about every company, run by people without marketing brains, is rewarding brand switchers at the expense of their loyal customers. That is what is happening under the guise of attracting new business.",
+    "1":"Mobile service providers are doing it. Banks are doing it. Just about every company, run by people without marketing brains, is rewarding brand switchers at the expense of their loyal customers. That is what is happening under the guise of attracting new business."
+  },
+  "authors":{
+    "0":"Ira Kalb, ContributorAssistant Professor of Clinical Marketing, Marshall School of ...",
+    "1":"Ira Kalb, ContributorAssistant Professor of Clinical Marketing, Marshall School of ..."
+  },
+  "date":{
+    "0":"2015-05-30 00:00:00",
+    "1":"2015-05-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"051"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "customers",
+      "business"
+    ],
+    "1":[
+      "company",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ruin"
+    ],
+    "1":[
+      "is rewarding"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---bus",
+      "190"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "051"
+    ]
+  }
+}

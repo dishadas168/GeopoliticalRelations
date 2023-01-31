@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/morphmom-generations_b_5400750.html"
+  },
+  "headline":{
+    "0":"Meet Edie"
+  },
+  "category":{
+    "0":"WOMEN"
+  },
+  "short_description":{
+    "0":"Always reach out to other people. People like to help people. It makes them feel good. They don't have to give you the time and help -- just the fact that you asked [is important]."
+  },
+  "authors":{
+    "0":"Kathleen Smith, ContributorFounder of Morphmom.com"
+  },
+  "date":{
+    "0":"2014-06-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "like ... help"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "070"
+    ]
+  }
+}

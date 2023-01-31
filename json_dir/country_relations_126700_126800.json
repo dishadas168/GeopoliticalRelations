@@ -1,0 +1,207 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-prisoner-exchange-that-_b_5307761.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/21-reasons-why-south-australia_b_5318164.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-space-odyssey-of-luci_b_5353054.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iran-says-opec-needs-to-m_b_5353530.html"
+  },
+  "headline":{
+    "0":"A Prisoner Exchange that Could Improve Relations Between Cuba and the United States",
+    "1":"20 Reasons Why South Australia Is the Trip of a Lifetime",
+    "2":"The Space Odyssey of Lucio Fontana",
+    "3":"Iran Says OPEC Needs to Make Room for Its Oil"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TRAVEL",
+    "2":"ARTS",
+    "3":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Barack Obama should use his powers as President of the United States and pardon the three Cubans that are still imprisoned. This will have the immediate effect of freeing Alan Gross and improving relations between Washington and Havana.",
+    "1":"A team from Sydney University traveled to 10,000 Australian beaches, evaluating them on the colors of the water, cleanliness and privacy, and voted the virgin Vivonne Bay beach on South Australia's Kangaroo Island as the best in the country.",
+    "2":"For whatever reason, Italy offered few potential students, as few ambitious and gifted young Italians dedicated themselves to artistic careers in the 1950s and '60s. As a result Fontana, like Giorgio Morandi, appears today as a relatively isolated master rather than as a leader of an important movement.",
+    "3":"Iran is serious about achieving a position on the international stage that's reflective of its reserve potential, the country's oil minister, Bijan Zanganeh, told an international energy summit in Moscow."
+  },
+  "authors":{
+    "0":"Salim Lamrani, ContributorDoctor, Paris Sorbonne Paris IV University, Lecturer, Universi...",
+    "1":"Shivya Nath, ContributorTravel blogger at the-shooting-star.com.",
+    "2":"David Galenson, ContributorProfessor of Economics, University of Chicago",
+    "3":"Daniel J. Graeber, ContributorSenior Journalist, Oilprice.com"
+  },
+  "date":{
+    "0":"2014-05-19 00:00:00",
+    "1":"2014-05-19 00:00:00",
+    "2":"2014-05-19 00:00:00",
+    "3":"2014-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"ausedu",
+    "2":"ita",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"cub",
+    "1":"aus",
+    "2":"---edu",
+    "3":"rus"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"040",
+    "2":"030",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.0,
+    "2":4.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "usagov",
+      "~",
+      "cubans",
+      "cub",
+      "cuba"
+    ],
+    "1":[
+      "sydney",
+      "university",
+      "ausedu",
+      "australia",
+      "~",
+      "australian",
+      "aus",
+      "australia",
+      "south australia",
+      "aus",
+      "australia"
+    ],
+    "2":[
+      "italy",
+      "ita",
+      "italy",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "iran",
+      "irn",
+      "iran",
+      "minister",
+      "~gov",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barack obama",
+      "cubans"
+    ],
+    "1":[
+      "sydney university",
+      "australian",
+      "sydney university",
+      "australian"
+    ],
+    "2":[
+      "italy",
+      "students"
+    ],
+    "3":[
+      "minister",
+      "moscow"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "cuba"
+    ],
+    "1":[
+      "australia",
+      "australia",
+      "australia",
+      "australia"
+    ],
+    "2":[
+      "italy",
+      "---"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... pardon"
+    ],
+    "1":[
+      "<and> ... traveled",
+      "<and> ... voted"
+    ],
+    "2":[
+      "offered"
+    ],
+    "3":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "cub",
+      "08"
+    ],
+    "1":[
+      "ausedu",
+      "aus",
+      "040",
+      "ausedu",
+      "aus",
+      "030"
+    ],
+    "2":[
+      "ita",
+      "---edu",
+      "030"
+    ],
+    "3":[
+      "---gov",
+      "rus",
+      "010"
+    ]
+  }
+}

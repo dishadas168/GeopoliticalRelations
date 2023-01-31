@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_363_b_6204836.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bill-cosby-paid-off-women_n_6208660.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lobbying-for-women-in-hun_b_6203604.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Ex-NBC Employee Says Bill Cosby Paid Off Women",
+    "2":"Lobbying for Women in Hungary"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week, President Obama announced the temporary halt of deportations for an estimated 4.4 million undocumented parents of U.S. citizens and legal permanent residents. It was a welcome, if belated, move for a president who, as of April, had deported 2 million people. One might think Republicans would welcome a policy that keeps families together and rewards hard work. But the move was met with the obligatory threats of shutdowns and impeachment. \"In the days ahead, the people's House will rise to this challenge,\" thundered John Boehner. But, really, all they have to do is what President Obama suggested: simply \"pass a bill.\" If only Congress were as hardworking as the families whose lives their ugly inaction has put into limbo. Meanwhile, we lost Mike Nichols, a man who embodied the American dream: an immigrant who came here to realize his talents and left America better than he found it. Now there's a challenge to rise to.",
+    "1":"",
+    "2":"Activist Judit Hatfaludi took a position with Hungary's Feminist Network to coordinate a campaign to lobby for the pro-choice bill back in the '90s. We recently caught up about the current state of women's issues in Hungary, why the annual Pride marches are no longer like jubilees, and what she does now in her current work as a shaman."
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"",
+    "2":"John Feffer, ContributorDirector, Foreign Policy In Focus and Editor, LobeLog; Author ..."
+  },
+  "date":{
+    "0":"2014-11-23 00:00:00",
+    "1":"2014-11-23 00:00:00",
+    "2":"2014-11-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---lab",
+    "2":"---opp"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"---cvl",
+    "2":"hun"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "citizens",
+      "residents",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~"
+    ],
+    "1":[
+      "employee",
+      "~lab",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "activist",
+      "~opp",
+      "~",
+      "hungary",
+      "hun",
+      "hungary"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "u.s. citizens ... residents"
+    ],
+    "1":[
+      "employee",
+      "women"
+    ],
+    "2":[
+      "activist",
+      "hungary"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "hungary"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usacvl",
+      "010"
+    ],
+    "1":[
+      "---lab",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---opp",
+      "hun",
+      "171"
+    ]
+  }
+}

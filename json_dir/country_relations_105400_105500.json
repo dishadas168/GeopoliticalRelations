@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/man-found-with-no-opinion_b_6554578.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/will-ag-lynch-end-too-big_b_6557426.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/will-ag-lynch-end-too-big_b_6557426.html"
+  },
+  "headline":{
+    "0":"Man Found With No Opinion Whatsoever About 'American Sniper'",
+    "1":"Would an Attorney General Loretta Lynch End 'Too Big to Jail'?",
+    "2":"Would an Attorney General Loretta Lynch End 'Too Big to Jail'?"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"BUSINESS",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"In a stunning news development, a Trumbull County, Ohio resident has been discovered who claims to have no opinion whatsoever about the Clint Eastwood-directed film American Sniper.",
+    "1":"On Jan. 28, 2015, the Senate Judiciary Committee opens two days of hearings to consider President Obama's nomination of Loretta Lynch to be Attorney General of the United States. Here are some questions that senators should ask to make sure that size no longer shields a company from the rule of law.",
+    "2":"On Jan. 28, 2015, the Senate Judiciary Committee opens two days of hearings to consider President Obama's nomination of Loretta Lynch to be Attorney General of the United States. Here are some questions that senators should ask to make sure that size no longer shields a company from the rule of law."
+  },
+  "authors":{
+    "0":"Spencer Green, ContributorCo-Creator: BUMPERSTICKER: THE MUSICAL bit.ly\/1Xtqi9J",
+    "1":"Bartlett Naylor, ContributorExpert on corporate governance, financial markets and sharehol...",
+    "2":"Bartlett Naylor, ContributorExpert on corporate governance, financial markets and sharehol..."
+  },
+  "date":{
+    "0":"2015-01-27 00:00:00",
+    "1":"2015-01-27 00:00:00",
+    "2":"2015-01-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagovlegjud",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"040",
+    "2":"0234"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "resident",
+      "~cvl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "senate",
+      "judiciary",
+      "usagovlegjud",
+      "united",
+      "states",
+      "congress",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "attorney general",
+      "usagov",
+      "~"
+    ],
+    "2":[
+      "senators",
+      "~leg",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "resident",
+      "american"
+    ],
+    "1":[
+      "senate judiciary",
+      "president obama"
+    ],
+    "2":[
+      "senators",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states congress",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... claims"
+    ],
+    "1":[
+      "opens ... consider"
+    ],
+    "2":[
+      "should ask ... shields"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "110"
+    ],
+    "1":[
+      "usagovlegjud",
+      "usagov",
+      "040"
+    ],
+    "2":[
+      "---leg",
+      "---bus",
+      "0234"
+    ]
+  }
+}

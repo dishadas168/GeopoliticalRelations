@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/egypt-jail-homosexuality_us_5a1c3675e4b064948075e26d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-gop-senators-donald-trump_us_5a1acfaae4b0d4906caf5ae7"
+  },
+  "headline":{
+    "0":"Egypt Sentences 17 People To Jail For Practicing Homosexuality",
+    "1":"Trump Stands By Roy Moore, As GOP Senators Keep Their Distance"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The defendants have been given leave to appeal against the sentence for now.",
+    "1":"Tim Scott of South Carolina says Moore needs to \"move on\" rather than seek a Senate seat."
+  },
+  "authors":{
+    "0":"",
+    "1":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-11-27 00:00:00",
+    "1":"2017-11-26 00:00:00"
+  },
+  "actor1":{
+    "0":"egy",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "egypt",
+      "egy",
+      "egypt",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "south carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "egypt",
+      "people"
+    ],
+    "1":[
+      "south carolina",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "egypt",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sentences"
+    ],
+    "1":[
+      "says ... needs ... seek"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "egy",
+      "---ppl",
+      "172"
+    ],
+    "1":[
+      "usa",
+      "usagovleg",
+      "030"
+    ]
+  }
+}

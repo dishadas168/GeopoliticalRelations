@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-joint-address-congress_us_58b66849e4b060480e0cf6cf"
+  },
+  "headline":{
+    "0":"Donald Trump Urges Unity With All The Lawmakers He's Insulted For The Past Year"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"The time for trivial fights is behind us,\" the president declared in his first address to Congress, to audible laughs."
+  },
+  "authors":{
+    "0":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2017-03-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---leg"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "declared"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---leg",
+      "010"
+    ]
+  }
+}

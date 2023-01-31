@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/grading-tv-lawyers-infographic_us_56156966e4b0cf9984d80db5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jimmy-carter-mlk-dispute_us_561509b5e4b0fad1591a1331",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/fusion.net\/story\/208073\/u-s-lawmakers-call-on-el-salvador-to-free-women-wrongfully-jailed-for-illegal-abortions\/"
+  },
+  "headline":{
+    "0":"Infographic Shows How TV Lawyers Would Measure Up In A Real Court Of Law",
+    "1":"Jimmy Carter Mediating Dispute Between Martin Luther King Jr.'s Heirs",
+    "2":"U.S. Lawmakers Call On El Salvador To Free Women 'Wrongfully' Jailed For Illegal Abortions"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"How do your favorites stack up?",
+    "1":"Carter is currently undergoing treatment for cancer that has spread to his brain.",
+    "2":"Members of congress are asking Secretary of State John Kerry to lean on El Salvador\u2019s president to \u201cre-examine\u201d his government\u2019s"
+  },
+  "authors":{
+    "0":"Julia Brucculieri",
+    "1":"David Beasley, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2015-10-07 00:00:00",
+    "1":"2015-10-07 00:00:00",
+    "2":"2015-10-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---medjud",
+    "1":"usaeli",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"110",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "tv",
+      "lawyers",
+      "~medjud",
+      "~",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "jimmy carter",
+      "usaeli",
+      "jimmy",
+      "carter",
+      "king",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "el salvador",
+      "president",
+      "slvgov",
+      "el",
+      "salvador",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "tv lawyers",
+      "court"
+    ],
+    "1":[
+      "jimmy carter",
+      "king"
+    ],
+    "2":[
+      "congress",
+      "john kerry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "jimmy carter",
+      "---"
+    ],
+    "2":[
+      "---",
+      "john kerry"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would measure"
+    ],
+    "1":[
+      "dispute"
+    ],
+    "2":[
+      "are asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---medjud",
+      "---jud",
+      "010"
+    ],
+    "1":[
+      "usaeli",
+      "---gov",
+      "110"
+    ],
+    "2":[
+      "---leg",
+      "usagov",
+      "020"
+    ]
+  }
+}

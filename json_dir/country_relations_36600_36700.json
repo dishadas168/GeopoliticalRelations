@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/1-in-6-teen-girls-say-theyve-experienced-harassment-since-election-day_us_58f7a679e4b029063d365036",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bill-oreilly-book-publisher_us_58f8c9a8e4b091e58f391f1c"
+  },
+  "headline":{
+    "0":"1 In 6 Teen Girls Say They've Experienced Harassment Since Election Day",
+    "1":"Bill O\u2019Reilly's Book Publisher Says It Will Continue To Support Him"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"ARTS & CULTURE"
+  },
+  "short_description":{
+    "0":"A new report examines the sexual violence young women face in the U.S.",
+    "1":"The former Fox News host still has a platform."
+  },
+  "authors":{
+    "0":"Alanna Vagianos",
+    "1":"Maddie Crum"
+  },
+  "date":{
+    "0":"2017-04-20 00:00:00",
+    "1":"2017-04-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "publisher",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "<u.s.>"
+    ],
+    "1":[
+      "publisher",
+      "publisher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ],
+    "1":[
+      "says ... will ... support"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "050"
+    ]
+  }
+}

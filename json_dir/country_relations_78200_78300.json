@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/this-is-how-the-republican-presidential-candidates-talk-about-women_us_56717e08e4b0648fe301a758",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/scotus-los-angeles-police-brutality_us_566f574de4b0e292150ef042",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/planned-parenthood-congress-women_us_56700d8fe4b0e292150f1c70"
+  },
+  "headline":{
+    "0":"This Is How The Republican Presidential Candidates Talk About Women",
+    "1":"Supreme Court Won't Touch $5.7 Million Jury Award Against Two Cops Who Left Man Paralyzed",
+    "2":"Planned Parenthood President Blasts Congress' 'Hostility Toward Women'"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"So much ugh.",
+    "1":"The U.S. Supreme Court rejected an appeal by the city of Los Angeles and two policemen on Monday, leaving in place a $5.7",
+    "2":"Cecile Richards was shocked by the misogyny present in our legislature."
+  },
+  "authors":{
+    "0":"Alanna Vagianos",
+    "1":"LAWRENCE HURLEY, Reuters",
+    "2":"Willa Frej"
+  },
+  "date":{
+    "0":"2015-12-16 00:00:00",
+    "1":"2015-12-15 00:00:00",
+    "2":"2015-12-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"usa",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"---legcvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"1241",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":null,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "presidential candidates",
+      "~pty",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "policemen",
+      "~cop",
+      "~",
+      "policemen",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "congress",
+      "women",
+      "~legcvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "presidential candidates",
+      "women"
+    ],
+    "1":[
+      "u.s.",
+      "policemen"
+    ],
+    "2":[
+      "president",
+      "congress ... women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "talk"
+    ],
+    "1":[
+      "court rejected ... appeal"
+    ],
+    "2":[
+      "blasts"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "---cop",
+      "1241"
+    ],
+    "2":[
+      "---gov",
+      "---legcvl",
+      "190"
+    ]
+  }
+}

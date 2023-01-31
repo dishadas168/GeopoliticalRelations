@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/seth-rogen-cancel-culture_n_60ad5ceae4b0a2568318cc51",
+    "1":"https:\/\/www.huffpost.com\/entry\/martin-bashir-princess-diana-bbc-apology-william-harry_n_60ab25e2e4b0d56a83eb7858",
+    "2":"https:\/\/www.huffpost.com\/entry\/salma-hayek-covid-19-battle_n_60a61f52e4b0a256830ecf0a",
+    "3":"https:\/\/www.huffpost.com\/entry\/joe-biden-netanyahu-deescalation-cease-fire-israel_n_60a51d8ee4b063dcceb15954",
+    "4":"https:\/\/www.huffpost.com\/entry\/deadly-domestic-extremism-worst-in-25-years-fbi-white-supremacists_n_60a0591ae4b03e1dd38a5b4e"
+  },
+  "headline":{
+    "0":"Seth Rogen Tells Fellow Comedians To Get Over 'Cancel Culture'",
+    "1":"Journalist Martin Bashir Apologizes To Prince William, Prince Harry For Diana Interview Ruse",
+    "2":"Salma Hayek Reveals She Nearly Died From COVID-19",
+    "3":"Biden, In Netanyahu Call, Urges 'Significant De-escalation'",
+    "4":"America's Deadly Domestic Extremism Worst In 24 Years, Reveals New FBI Report"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"MEDIA",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Jokes are not things that necessarily are built to last,\u201d the actor said on \"Good Morning Britain.\"",
+    "1":"The former BBC broadcaster insisted his scheming didn't do anything to harm the princess.",
+    "2":"\u201cMy doctor begged me to go to the hospital because it was so bad. I said, \u2018No, thank you. I\u2019d rather die at home,'\u201d the actor told Variety.",
+    "3":"President Joe Biden asked Israeli Prime Minister Benjamin Netanyahu to move toward \u201cthe path to a cease-fire,\u201d according to the White House.",
+    "4":"Most extremist killings in 2019 were committed by white supremacists."
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Mary Papenfuss",
+    "2":"Lee Moran",
+    "3":"Ellen Knickmeyer, AP",
+    "4":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2021-05-25 00:00:00",
+    "1":"2021-05-24 00:00:00",
+    "2":"2021-05-20 00:00:00",
+    "3":"2021-05-19 00:00:00",
+    "4":"2021-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---med",
+    "2":"---hlh",
+    "3":"usagov",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"---hlh",
+    "3":"isrgov",
+    "4":"usacop"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"055",
+    "2":"040",
+    "3":"020",
+    "4":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":7.0,
+    "2":1.0,
+    "3":3.0,
+    "4":3.5
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "journalist",
+      "~med",
+      "~",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ],
+    "2":[
+      "doctor",
+      "~hlh",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "3":[
+      "president",
+      "joe biden",
+      "usagov",
+      "~",
+      "joe",
+      "biden",
+      "benjamin netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "4":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "britain"
+    ],
+    "1":[
+      "journalist",
+      "prince"
+    ],
+    "2":[
+      "doctor",
+      "doctor"
+    ],
+    "3":[
+      "president joe biden",
+      "benjamin netanyahu"
+    ],
+    "4":[
+      "america",
+      "fbi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "prince"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "joe biden",
+      "benjamin netanyahu"
+    ],
+    "4":[
+      "united states of america",
+      "federal bureau of investigation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "apologizes"
+    ],
+    "2":[
+      "begged ... go"
+    ],
+    "3":[
+      "asked"
+    ],
+    "4":[
+      "reveals"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "gbr",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "'ulukalala_lavaka_ata_",
+      "055"
+    ],
+    "2":[
+      "---hlh",
+      "---hlh",
+      "040"
+    ],
+    "3":[
+      "usagov",
+      "isrgov",
+      "020"
+    ],
+    "4":[
+      "usa",
+      "usacop",
+      "050"
+    ]
+  }
+}

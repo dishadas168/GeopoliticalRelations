@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mural-politicians-sexism-art_us_58adc65ee4b03d80af714f65",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/military-style-firearms-second-amendment_us_58aceeebe4b0d0a6ef4634f8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/aclu-milwaukee-stop-frisk_us_58addb11e4b0d0a6ef474ca8"
+  },
+  "headline":{
+    "0":"Mural Shows 37 Real And Repulsive Things Politicians Have Said About Women",
+    "1":"'Military-Style' Firearms Aren't Protected By Second Amendment, Court Rules",
+    "2":"ACLU Sues Milwaukee Over Stop-And-Frisk, Widening Challenge To Police Practice"
+  },
+  "category":{
+    "0":"ARTS & CULTURE",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Two feminist artists teamed up to show that sexism is nothing new.",
+    "1":"An appeals court upheld a Maryland ban on a wide range of popular semiautomatic weapons.",
+    "2":"Studies have found police conduct overly aggressive stop-and-frisk patrols in largely black and Latino neighborhoods."
+  },
+  "authors":{
+    "0":"Priscilla Frank",
+    "1":"Cristian Farias",
+    "2":""
+  },
+  "date":{
+    "0":"2017-02-22 00:00:00",
+    "1":"2017-02-22 00:00:00",
+    "2":"2017-02-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"---jud",
+    "2":"---cop"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"1241",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":null,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "politicians",
+      "~pty",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "appeals court",
+      "~jud",
+      "~",
+      "maryland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "neighborhoods",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "politicians",
+      "women"
+    ],
+    "1":[
+      "appeals court",
+      "maryland"
+    ],
+    "2":[
+      "police",
+      "neighborhoods"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have said"
+    ],
+    "1":[
+      "upheld ... ban"
+    ],
+    "2":[
+      "conduct"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "1241"
+    ],
+    "2":[
+      "---cop",
+      "---cvl",
+      "060"
+    ]
+  }
+}

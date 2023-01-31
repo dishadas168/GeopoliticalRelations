@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/virgin-america-seat-to-seat-flirt-flying_us_5b9d1797e4b03a1dcc845e45",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/prada-employee-lawsuit-discrimination-un_us_5b9d169ae4b03a1dcc845813"
+  },
+  "headline":{
+    "0":"Virgin America's 'Seat To Seat' Service Will Send Drinks To Your Crush, Help You Flirt While Flying",
+    "1":"Prada Employee's Lawsuit Now Involves 'Discrimination,' Aid From UN"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"The airline's new \"seat to seat\" feature allows travelers to buy drinks, snacks and meals and have them delivered to other",
+    "1":"Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. -- Do"
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Lauren Leibowitz"
+  },
+  "date":{
+    "0":"2013-04-24 00:00:00",
+    "1":"2013-04-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---lab"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"igouno"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"012"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-0.4
+  },
+  "nouns":{
+    "0":[
+      "airline",
+      "~bus",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "employee",
+      "~lab",
+      "~",
+      "un",
+      "igouno",
+      "un"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "airline",
+      "travelers"
+    ],
+    "1":[
+      "employee",
+      "un"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "un"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allows"
+    ],
+    "1":[
+      "involves"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "---lab",
+      "igouno",
+      "012"
+    ]
+  }
+}

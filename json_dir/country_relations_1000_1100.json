@@ -1,0 +1,951 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/senate-passes-huge-spending-bill_n_622b1033e4b0d1329e8325b1",
+    "1":"https:\/\/www.huffpost.com\/entry\/senate-passes-huge-spending-bill_n_622b1033e4b0d1329e8325b1",
+    "2":"https:\/\/www.huffpost.com\/entry\/nyc-sheds-vaccination-mandate-school-masks-precautions_n_62264083e4b0bd1df76fd729",
+    "3":"https:\/\/www.huffpost.com\/entry\/moldova-us-support-ukraine-russia_n_62253429e4b03bc49a9cc874",
+    "4":"https:\/\/www.huffpost.com\/entry\/utah-transgender-youth-sports_n_62238033e4b03bc49a9bb218",
+    "5":"https:\/\/www.huffpost.com\/entry\/vice-president-kamala-harris-travel-poland-romania-russia-war-ukraine_n_6222acc3e4b042f866edfabf",
+    "6":"https:\/\/www.huffpost.com\/entry\/children-dead-ukraine-war_n_62230258e4b042f866ee1a54",
+    "7":"https:\/\/www.huffpost.com\/entry\/children-dead-ukraine-war_n_62230258e4b042f866ee1a54",
+    "8":"https:\/\/www.huffpost.com\/entry\/car-into-preschool_n_6221bec1e4b0bd1df769a08e",
+    "9":"https:\/\/www.huffpost.com\/entry\/new-jersey-draftkings-betting_n_62215deae4b042f866eb4cad",
+    "10":"https:\/\/www.huffpost.com\/entry\/us-supreme-court-guantanamo-state-secrets_n_6220e233e4b0c3935752c939",
+    "11":"https:\/\/www.huffpost.com\/entry\/purdue-pharma-us-states-agree-to-new-opioid-settlement_n_6220f384e4b0b78cdda51699",
+    "12":"https:\/\/www.huffpost.com\/entry\/bc-us-state-of-the-union_n_621de629e4b0d1388f19f7a5",
+    "13":"https:\/\/www.huffpost.com\/entry\/united-nations-russia-ukraine_n_621c71a4e4b0afc668c2b418",
+    "14":"https:\/\/www.huffpost.com\/entry\/russia-ukraine-invasion-civilians_n_621a2ac9e4b06e1cc58ff766",
+    "15":"https:\/\/www.huffpost.com\/entry\/european-union-ukraine-invasion-global-reaction_n_621bf254e4b0f800ce231737",
+    "16":"https:\/\/www.huffpost.com\/entry\/ukraine-russia-un-humanitarian-aid_n_62189fd6e4b03d0c8036e328",
+    "17":"https:\/\/www.huffpost.com\/entry\/another-starbucks-store-votes-to-unionize_n_620d1275e4b0685128b0646b",
+    "18":"https:\/\/www.huffpost.com\/entry\/world-markets-russia-ukraine_n_62171853e4b0f800ce1bed3a",
+    "19":"https:\/\/www.huffpost.com\/entry\/keturah-herron-lgbtq-state-legislature_n_62164462e4b0afc668b942fc",
+    "20":"https:\/\/www.huffpost.com\/entry\/bc-us-ahmaud-arbery-hate-crimes_n_6213ab62e4b062125860c260",
+    "21":"https:\/\/www.huffpost.com\/entry\/putin-war-considering-ukraine-separatist-independence_n_6213bc3de4b0ef74d72485e8"
+  },
+  "headline":{
+    "0":"Senate Gives Final Approval To Ukraine Aid, Huge Budget Bill",
+    "1":"Senate Gives Final Approval To Ukraine Aid, Huge Budget Bill",
+    "2":"NYC Sheds Vaccination Mandate, School Masks Precautions",
+    "3":"Blinken Vows U.S. Support To Moldova As War Rages In Neighboring Ukraine",
+    "4":"Utah Gov. Spencer Cox Says He Plans To Veto Trans Sports Ban Bill",
+    "5":"Kamala Harris To Travel To Poland And Romania Amid Russian Invasion Of Ukraine",
+    "6":"840 Children Wounded So Far In Russian Invasion, Says Ukraine",
+    "7":"840 Children Wounded So Far In Russian Invasion, Says Ukraine",
+    "8":"SUV Smashes Into California Preschool, Injuring 19 Children And 1 Employee",
+    "9":"NJ Fines DraftKings $150,000 For Allowing Proxy Betting",
+    "10":"Supreme Court Sides With Government In Gitmo State Secrets Case",
+    "11":"Purdue Pharma, US States Agree To New Opioid Settlement",
+    "12":"Biden To Give First State Of The Union Address At Fraught Moment",
+    "13":"UN General Assembly, Security Council To Hold Meetings About Russia's Invasion Of Ukraine",
+    "14":"Russia Hits Ukraine Fuel Suplies, Airfields In New Attacks",
+    "15":"European Union Shuts Airspace To Russian Airlines, Will Buy Ukraine Arms",
+    "16":"UN To Scale Up Humanitarian Operations In Ukraine Following Russia's Invasion",
+    "17":"Another Starbucks Store Votes To Unionize",
+    "18":"Russian Military Action In Ukraine Causes Oil Prices To Soar",
+    "19":"Kentucky Elects First Openly LGBTQ State House Member In Special Election",
+    "20":"Closing Arguments Begin In Hate Crimes Trial Of Men Who Killed Ahmaud Arbery",
+    "21":"Putin Mulls Recognizing Separatist Eastern Ukrainian Regions"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS",
+    "8":"U.S. NEWS",
+    "9":"U.S. NEWS",
+    "10":"U.S. NEWS",
+    "11":"U.S. NEWS",
+    "12":"POLITICS",
+    "13":"WORLD NEWS",
+    "14":"WORLD NEWS",
+    "15":"WORLD NEWS",
+    "16":"WORLD NEWS",
+    "17":"BUSINESS",
+    "18":"BUSINESS",
+    "19":"POLITICS",
+    "20":"U.S. NEWS",
+    "21":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The Senate has given final congressional approval to a $13.6 billion emergency package of military and humanitarian aid for besieged Ukraine and its European allies.",
+    "1":"The Senate has given final congressional approval to a $13.6 billion emergency package of military and humanitarian aid for besieged Ukraine and its European allies.",
+    "2":"\"We did our job as New Yorkers and now we\u2019re winning,\" the mayor said on TV station NY1.",
+    "3":"The small Western-leaning former Soviet republic is coping with an influx of refugees from Ukraine and warily watching Russia\u2019s intensifying aggression",
+    "4":"\u201cI just want them to know that it\u2019s gonna be okay. We\u2019re gonna work through this,\u201d Governor Spencer Cox said of trans student athletes.",
+    "5":"The vice president is meeting with NATO allies to coordinate their support for Ukraine in the face of Russia\u2019s \u201cunprovoked and unjustified invasion.\u201d",
+    "6":"The head of Ukraine\u2019s security council called on Russia to create humanitarian corridors to allow children, women and the elderly to escape the fighting.",
+    "7":"The head of Ukraine\u2019s security council called on Russia to create humanitarian corridors to allow children, women and the elderly to escape the fighting.",
+    "8":"None of the injuries were life-threatening, police said.",
+    "9":"New Jersey gambling regulators have fined DraftKings $150,000 for allowing a Florida man to make online sports bets from his home.",
+    "10":"The Supreme Court has ruled for the U.S. government in a case involving a Guantanamo Bay detainee seeking what the government said is secret information.",
+    "11":"States agreed to sign on after the Sacklers kicked in more cash and accepted other terms, including apologizing.",
+    "12":"President Joe Biden aims to navigate the country out a pandemic, reboot his stalled domestic agenda and confront Russia\u2019s aggression.",
+    "13":"The Security Council gave a green light Sunday for the first emergency session of the General Assembly in decades.",
+    "14":"Russian forces blew up a gas pipeline in Kharkiv and an oil depot near the Zhuliany airport, according to the office of Ukrainian President Zelenskyy.",
+    "15":"The European Union is closing its airspace to Russian airlines, and spending hundreds of millions of dollars to supply weapons to Ukraine.",
+    "16":"The UN will allocate $20 million to \u201chelp with health care, shelter, food, and water and sanitation to the most vulnerable people affected by the conflict.\u201d",
+    "17":"The store in Arizona joins two in New York as the only corporate Starbucks stores with a union.",
+    "18":"Asian and European stock markets plunged and oil prices surged to nearly $100 a barrel Thursday after Russia attacked Ukraine.",
+    "19":"Keturah Herron, an activist and former ACLU strategist, helped pass Kentucky\u2019s \u201cBreonna\u2019s law,\u201d which limited the use of no-knock warrants.",
+    "20":"A jury in Georgia is hearing arguments from prosecutors and defense attorneys on whether the 2020 killing of Ahmaud Arbery was a federal hate crime.",
+    "21":"The regions have requested independence and military aid. Ukrainian authorities deny launching an offensive against the regions and accuse Russia of provocation."
+  },
+  "authors":{
+    "0":"Alan Fram, AP",
+    "1":"Alan Fram, AP",
+    "2":"",
+    "3":"Matthew Lee, AP",
+    "4":"Sam Metz and Lindsay Whitehurst, AP",
+    "5":"Sarah Ruiz-Grossman",
+    "6":"",
+    "7":"",
+    "8":"",
+    "9":"WAYNE PARRY, AP",
+    "10":"JESSICA GRESKO, AP",
+    "11":"Geoff Mulvihill and John Seewer, AP",
+    "12":"ZEKE MILLER and COLLEEN LONG, AP",
+    "13":"Edith M. Lederer, AP",
+    "14":"Yuras Karmanau, Jim Heintz, Vladimir Isachenkov and Zeke Miller, AP",
+    "15":"EMILY SCHULTHEIS and LORNE COOK, AP",
+    "16":"Edith M. Lederer, AP",
+    "17":"Dave Jamieson",
+    "18":"Joe McDonald, AP",
+    "19":"Travis Waldron",
+    "20":"RUSS BYNUM, AP",
+    "21":""
+  },
+  "date":{
+    "0":"2022-03-11 00:00:00",
+    "1":"2022-03-11 00:00:00",
+    "2":"2022-03-07 00:00:00",
+    "3":"2022-03-06 00:00:00",
+    "4":"2022-03-05 00:00:00",
+    "5":"2022-03-05 00:00:00",
+    "6":"2022-03-05 00:00:00",
+    "7":"2022-03-05 00:00:00",
+    "8":"2022-03-04 00:00:00",
+    "9":"2022-03-04 00:00:00",
+    "10":"2022-03-03 00:00:00",
+    "11":"2022-03-03 00:00:00",
+    "12":"2022-03-01 00:00:00",
+    "13":"2022-02-28 00:00:00",
+    "14":"2022-02-27 00:00:00",
+    "15":"2022-02-27 00:00:00",
+    "16":"2022-02-25 00:00:00",
+    "17":"2022-02-25 00:00:00",
+    "18":"2022-02-24 00:00:00",
+    "19":"2022-02-23 00:00:00",
+    "20":"2022-02-21 00:00:00",
+    "21":"2022-02-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"usagovleg",
+    "2":"---gov",
+    "3":"sun",
+    "4":"---gov",
+    "5":"---gov",
+    "6":"---cvl",
+    "7":"ukr",
+    "8":"usaedu",
+    "9":"---gov",
+    "10":"---jud",
+    "11":"usa",
+    "12":"usagov",
+    "13":"igouno",
+    "14":"rus",
+    "15":"igoeureec",
+    "16":"igouno",
+    "17":"usa",
+    "18":"rus",
+    "19":"ngousahri",
+    "20":"geo",
+    "21":"ukrgov"
+  },
+  "actor2":{
+    "0":"ukr",
+    "1":"ukrmil",
+    "2":"---med",
+    "3":"rus",
+    "4":"---cvl",
+    "5":"igowstnat",
+    "6":"rus",
+    "7":"rus",
+    "8":"---cvllab",
+    "9":"usappl",
+    "10":"usagovopp",
+    "11":"---cvl",
+    "12":"rus",
+    "13":"---leg",
+    "14":"ukr",
+    "15":"rusbus",
+    "16":"---ppl",
+    "17":"usa",
+    "18":"ukr",
+    "19":"usa",
+    "20":"---jud",
+    "21":"rus"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"051",
+    "2":"010",
+    "3":"010",
+    "4":"010",
+    "5":"040",
+    "6":"180",
+    "7":"020",
+    "8":"182",
+    "9":"172",
+    "10":"042",
+    "11":"050",
+    "12":"040",
+    "13":"030",
+    "14":"190",
+    "15":"172",
+    "16":"200",
+    "17":"040",
+    "18":"190",
+    "19":"08",
+    "20":"040",
+    "21":"112"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":3.4,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":1.0,
+    "6":-9.0,
+    "7":3.0,
+    "8":-9.5,
+    "9":-5.0,
+    "10":1.9,
+    "11":3.5,
+    "12":1.0,
+    "13":4.0,
+    "14":-10.0,
+    "15":-5.0,
+    "16":-10.0,
+    "17":1.0,
+    "18":-10.0,
+    "19":5.0,
+    "20":1.0,
+    "21":-2.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "military",
+      "~mil",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "military",
+      "ukrmil",
+      "~"
+    ],
+    "2":[
+      "mayor",
+      "~gov",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "soviet",
+      "sun",
+      "soviet",
+      "union",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "refugees",
+      "ukrref",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "governor",
+      "~gov",
+      "~",
+      "athletes",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "nato",
+      "igowstnat",
+      "nato",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "6":[
+      "children",
+      "~cvl",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "7":[
+      "ukraine",
+      "security council",
+      "ukr",
+      "igouno",
+      "ukraine",
+      "un",
+      "security",
+      "council",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "children",
+      "women",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "8":[
+      "california",
+      "preschool",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "children",
+      "employee",
+      "~cvllab",
+      "~",
+      "~"
+    ],
+    "9":[
+      "regulators",
+      "~gov",
+      "~",
+      "florida",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "10":[
+      "supreme court",
+      "~jud",
+      "~",
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "detainee",
+      "~opp",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "detainee",
+      "~opp",
+      "~",
+      "detainee",
+      "~opp",
+      "~"
+    ],
+    "11":[
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "settlement",
+      "~cvl",
+      "~"
+    ],
+    "12":[
+      "president",
+      "joe biden",
+      "usagov",
+      "~",
+      "joe",
+      "biden",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "13":[
+      "the security council",
+      "igouno",
+      "the",
+      "security",
+      "council",
+      "general assembly",
+      "~leg",
+      "~",
+      "general assembly",
+      "~leg",
+      "~"
+    ],
+    "14":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "kharkiv",
+      "ukr",
+      "ukraine"
+    ],
+    "15":[
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union",
+      "russian",
+      "airlines",
+      "rusbus",
+      "russian",
+      "federation",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "16":[
+      "the un",
+      "igouno",
+      "the",
+      "un",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "17":[
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "18":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "19":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "20":[
+      "georgia",
+      "geo",
+      "georgia",
+      "prosecutors",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~"
+    ],
+    "21":[
+      "ukrainian",
+      "authorities",
+      "ukrgov",
+      "ukraine",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "ukraine"
+    ],
+    "1":[
+      "senate",
+      "military"
+    ],
+    "2":[
+      "mayor",
+      "tv"
+    ],
+    "3":[
+      "soviet",
+      "russia"
+    ],
+    "4":[
+      "governor",
+      "athletes"
+    ],
+    "5":[
+      "president",
+      "nato"
+    ],
+    "6":[
+      "children",
+      "russian"
+    ],
+    "7":[
+      "ukraine",
+      "russia",
+      "security council",
+      "russia"
+    ],
+    "8":[
+      "california preschool",
+      "children ... employee"
+    ],
+    "9":[
+      "regulators",
+      "florida man"
+    ],
+    "10":[
+      "supreme court",
+      "---"
+    ],
+    "11":[
+      "us",
+      "settlement"
+    ],
+    "12":[
+      "president joe biden",
+      "russia"
+    ],
+    "13":[
+      "the security council",
+      "general assembly"
+    ],
+    "14":[
+      "russian",
+      "kharkiv"
+    ],
+    "15":[
+      "the european union",
+      "russian airlines",
+      "the european union",
+      "ukraine"
+    ],
+    "16":[
+      "the un",
+      "people"
+    ],
+    "17":[
+      "arizona",
+      "arizona"
+    ],
+    "18":[
+      "russia",
+      "ukraine"
+    ],
+    "19":[
+      "aclu",
+      "kentucky"
+    ],
+    "20":[
+      "georgia",
+      "prosecutors"
+    ],
+    "21":[
+      "ukrainian authorities",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "ukraine"
+    ],
+    "1":[
+      "united states congress",
+      ""
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "soviet union",
+      "russian federation"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "nato"
+    ],
+    "6":[
+      "---",
+      "russian federation"
+    ],
+    "7":[
+      "ukraine",
+      "russian federation",
+      "un security council",
+      "russian federation"
+    ],
+    "8":[
+      "united states of america",
+      "---"
+    ],
+    "9":[
+      "---",
+      "united states of america"
+    ],
+    "10":[
+      "---",
+      "---"
+    ],
+    "11":[
+      "united states of america",
+      "---"
+    ],
+    "12":[
+      "joe biden",
+      "russian federation"
+    ],
+    "13":[
+      "the security council",
+      "---"
+    ],
+    "14":[
+      "russian federation",
+      "ukraine"
+    ],
+    "15":[
+      "the european union",
+      "russian federation",
+      "the european union",
+      "ukraine"
+    ],
+    "16":[
+      "the un",
+      "---"
+    ],
+    "17":[
+      "united states of america",
+      "united states of america"
+    ],
+    "18":[
+      "russian federation",
+      "ukraine"
+    ],
+    "19":[
+      "american civil liberties union",
+      "united states of america"
+    ],
+    "20":[
+      "georgia",
+      "---"
+    ],
+    "21":[
+      "ukraine",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives ... approval"
+    ],
+    "1":[
+      "has given ... approval"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "is ... watching"
+    ],
+    "4":[
+      "said"
+    ],
+    "5":[
+      "is meeting"
+    ],
+    "6":[
+      "wounded"
+    ],
+    "7":[
+      "called on",
+      "called on"
+    ],
+    "8":[
+      "injuring"
+    ],
+    "9":[
+      "have fined"
+    ],
+    "10":[
+      "has ruled for"
+    ],
+    "11":[
+      "agree"
+    ],
+    "12":[
+      "aims ... confront"
+    ],
+    "13":[
+      "gave <{green> <light}>"
+    ],
+    "14":[
+      "<['blew',> <'up']>"
+    ],
+    "15":[
+      "is closing ... airspace",
+      "is ... supply <&weapon>"
+    ],
+    "16":[
+      "will allocate ... help"
+    ],
+    "17":[
+      "joins"
+    ],
+    "18":[
+      "attacked"
+    ],
+    "19":[
+      "helped pass"
+    ],
+    "20":[
+      "is hearing"
+    ],
+    "21":[
+      "<and> ... accuse"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":[
+      "students",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":[
+      "early_childhood_education",
+      "1"
+    ],
+    "9":null,
+    "10":null,
+    "11":null,
+    "12":[
+      "id_pandemic",
+      "1"
+    ],
+    "13":null,
+    "14":null,
+    "15":null,
+    "16":null,
+    "17":null,
+    "18":null,
+    "19":[
+      "activism",
+      "1"
+    ],
+    "20":null,
+    "21":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "ukr",
+      "051"
+    ],
+    "1":[
+      "usagovleg",
+      "ukrmil",
+      "051"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "010"
+    ],
+    "3":[
+      "sun",
+      "rus",
+      "010"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "010"
+    ],
+    "5":[
+      "---gov",
+      "igowstnat",
+      "040"
+    ],
+    "6":[
+      "---cvl",
+      "rus",
+      "180"
+    ],
+    "7":[
+      "ukr",
+      "rus",
+      "020",
+      "igouno",
+      "rus",
+      "020"
+    ],
+    "8":[
+      "usaedu",
+      "---cvllab",
+      "182"
+    ],
+    "9":[
+      "---gov",
+      "usappl",
+      "172"
+    ],
+    "10":[
+      "---jud",
+      "usagovopp",
+      "042"
+    ],
+    "11":[
+      "usa",
+      "---cvl",
+      "050"
+    ],
+    "12":[
+      "usagov",
+      "rus",
+      "040"
+    ],
+    "13":[
+      "igouno",
+      "---leg",
+      "030"
+    ],
+    "14":[
+      "rus",
+      "ukr",
+      "190"
+    ],
+    "15":[
+      "igoeureec",
+      "rusbus",
+      "172",
+      "igoeureec",
+      "ukr",
+      "072"
+    ],
+    "16":[
+      "igouno",
+      "---ppl",
+      "200"
+    ],
+    "17":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "18":[
+      "rus",
+      "ukr",
+      "190"
+    ],
+    "19":[
+      "ngousahri",
+      "usa",
+      "08"
+    ],
+    "20":[
+      "geo",
+      "---jud",
+      "040"
+    ],
+    "21":[
+      "ukrgov",
+      "rus",
+      "112"
+    ]
+  }
+}

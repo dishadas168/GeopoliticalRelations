@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/business-tech-daca-dreamer-trump_us_59aebcdae4b0dfaafcf2c2b2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/south-korea-north-more-missiles_us_59ad3c18e4b0354e440b85b7"
+  },
+  "headline":{
+    "0":"Business, Tech Leaders Blast Trump Plan To Drop Dreamers Program",
+    "1":"South Korea Warns That North May Launch More Missiles"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Microsoft pledged to pay the legal fees of any Dreamer employee who faces deportation.",
+    "1":"Seoul said it is talking to the U.S. about deploying aircraft carriers and strategic bombers to the peninsula."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Christine Kim and David Brunnstrom, Reuters"
+  },
+  "date":{
+    "0":"2017-09-05 00:00:00",
+    "1":"2017-09-04 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"kor"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"0311",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "employee",
+      "~lab",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "seoul",
+      "kor",
+      "south",
+      "korea",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "microsoft",
+      "employee"
+    ],
+    "1":[
+      "seoul",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "microsoft",
+      "---"
+    ],
+    "1":[
+      "south korea",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pledged ... pay"
+    ],
+    "1":[
+      "said ... is talking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---lab",
+      "0311"
+    ],
+    "1":[
+      "kor",
+      "usa",
+      "010"
+    ]
+  }
+}

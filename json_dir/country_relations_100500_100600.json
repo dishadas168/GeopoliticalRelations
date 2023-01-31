@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fbi-lagging-behind-us-ter_n_6939080.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/male-business-leaders-nee_b_6939208.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-great-synagogue-jews_n_6939002.html"
+  },
+  "headline":{
+    "0":"Report Finds FBI Urgently Needs To Improve Intelligence Capabilities",
+    "1":"Male Business Leaders Need to Support Women's Empowerment",
+    "2":"Turkey Unveils $2.5 Million Great Synagogue As Its Jewish Population Fades Away"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The Women's Empowerment Principles, a joint initiative of the UN Global Compact and UN Women, are premised on the fact that women's full participation in economic life is essential to build strong economies and establish more stable and just societies.",
+    "2":""
+  },
+  "authors":{
+    "0":"",
+    "1":"Elizabeth Broderick and Joe Keefe, Contributors",
+    "2":""
+  },
+  "date":{
+    "0":"2015-03-25 00:00:00",
+    "1":"2015-03-25 00:00:00",
+    "2":"2015-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"mdvbus",
+    "2":"tur"
+  },
+  "actor2":{
+    "0":"---spy",
+    "1":"---cvl",
+    "2":"---jew"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"102",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "intelligence",
+      "~spy",
+      "~"
+    ],
+    "1":[
+      "male",
+      "business leaders",
+      "mdvbus",
+      "maldives",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "turkey",
+      "tur",
+      "turkey",
+      "jewish",
+      "~jew",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "intelligence"
+    ],
+    "1":[
+      "male business leaders",
+      "women"
+    ],
+    "2":[
+      "turkey",
+      "jewish"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "1":[
+      "maldives",
+      "---"
+    ],
+    "2":[
+      "turkey",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs"
+    ],
+    "1":[
+      "need ... support"
+    ],
+    "2":[
+      "unveils"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---spy",
+      "100"
+    ],
+    "1":[
+      "mdvbus",
+      "---cvl",
+      "102"
+    ],
+    "2":[
+      "tur",
+      "---jew",
+      "050"
+    ]
+  }
+}

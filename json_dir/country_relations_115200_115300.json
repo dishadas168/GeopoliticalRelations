@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senator-bernie-sanders-wa_b_5926920.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michigan-republicans-obamacare_n_5924508.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/3-tips-for-starting-your_b_5884444.html"
+  },
+  "headline":{
+    "0":"Senator Bernie Sanders Warns of the Dire Consequences if the Republicans Take Over Congress",
+    "1":"Michigan Republicans Tell Voters To Call Candidate's Ailing Mother With Obamacare Gripes",
+    "2":"3 Tips for Starting Your Own Business at Any Age"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"It would be hard to argue that we have not seen some remarkable achievements in the past week or so, most notably in the form of the massive, grassroots power displayed by the hundreds of thousands of people coming together in common cause in the heart of the world's financial capital, New York City.",
+    "1":"",
+    "2":"I have learned a lot on my journey and people often ask me for tips on how to start a business. Here are three of my favorites if you are thinking about getting in line to ride the \"encore career\" roller coaster."
+  },
+  "authors":{
+    "0":"Pearl Korn, ContributorAdvocate for Improved Medicare For All",
+    "1":"Sam Levine",
+    "2":"Kate Neligan, ContributorFounder of Synergy TV Network, Equine-Assisted Life Coach, Spe..."
+  },
+  "date":{
+    "0":"2014-10-03 00:00:00",
+    "1":"2014-10-03 00:00:00",
+    "2":"2014-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---cvl",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"010",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":0.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "senator"
+    ],
+    "1":[
+      "michigan",
+      "voters"
+    ],
+    "2":[
+      "people",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "consequences ... take"
+    ],
+    "1":[
+      "tell"
+    ],
+    "2":[
+      "ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---leg",
+      "171"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---bus",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/princess-lalla-salma-morocco-photos_us_5b9d280ee4b03a1dcc84fa48"
+  },
+  "headline":{
+    "0":"Princess Lalla Salma Of Morocco Emerges As Style Star After Dutch Inauguration (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Of course, the 35-year-royal princess consort of King Mohammed VI of Morocco hasn't been noticed by media quite like her"
+  },
+  "authors":{
+    "0":"Rebecca Adams"
+  },
+  "date":{
+    "0":"2013-05-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"margov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "morocco",
+      "mar",
+      "morocco",
+      "king",
+      "mohammed vi",
+      "margov",
+      "~",
+      "mohamed",
+      "vi",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "king mohammed vi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "mohamed vi"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<margov> ... noticed by <~med>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "margov",
+      "010"
+    ]
+  }
+}

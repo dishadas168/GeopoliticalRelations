@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/woman-takes-down-planned-parenthood-protesters-with-yeast-infections-chant_us_562e7952e4b0c66bae58e6bb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/palestinians-suspicious-of-al-aqsa-surveillance-promoted-by-kerry_us_562d5454e4b0443bb564547a"
+  },
+  "headline":{
+    "0":"Woman Takes Down Planned Parenthood Protesters With 'Yeast Infections' Chant",
+    "1":"Palestinians Suspicious Of Al-Aqsa Surveillance Promoted By Kerry"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"All hail our new shero.",
+    "1":"At least 53 Palestinians have been killed in attacks and during anti-Israeli protests in the West Bank and Gaza since Oct. 1. Nine Israelis have been stabbed or shot dead by Palestinians."
+  },
+  "authors":{
+    "0":"Taylor Pittman",
+    "1":"Ali Sawafta, Reuters"
+  },
+  "date":{
+    "0":"2015-10-26 00:00:00",
+    "1":"2015-10-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"pse"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"isr"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "israelis",
+      "isr",
+      "israel",
+      "palestinians",
+      "pse",
+      "palestine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "woman",
+      "woman",
+      "protesters"
+    ],
+    "1":[
+      "palestinians",
+      "israelis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "palestine",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "takes ... protesters",
+      "takes ... protesters"
+    ],
+    "1":[
+      "isr ... shot ... by <pse>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "140",
+      "---cvl",
+      "---opp",
+      "175"
+    ],
+    "1":[
+      "pse",
+      "isr",
+      "190"
+    ]
+  }
+}

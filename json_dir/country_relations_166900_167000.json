@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nyse-disaster-plan_us_5bb2eb50e4b0480ca65ec224"
+  },
+  "headline":{
+    "0":"NYSE Readying Plan To Run Without Humans In Case Of Disaster: Report"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"NYSE Euronext is preparing to submit details of the plan to the U.S. Securities and Exchange Commission, according to the"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-03-10 00:00:00"
+  },
+  "actor1":{
+    "0":"mnc"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"035"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "nyse euronext",
+      "mnc",
+      "nyse",
+      "euronext",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nyse euronext",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "nyse euronext",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is preparing ... submit"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mnc",
+      "usa",
+      "035"
+    ]
+  }
+}

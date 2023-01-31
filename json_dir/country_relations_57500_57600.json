@@ -1,0 +1,283 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dear-teachers_us_57b9f5ffe4b07d22cc389a0b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fbi-investigating-us-ties-to-ukraine-corruption_us_57b85cdfe4b03d513688b81c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/gaziantep-bombing_us_57b8bcaae4b00d9c3a17ffde",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-israel-reconciliation_us_57b862a4e4b00d9c3a17eda3",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/joe-arpaio-criminal-charges_us_57b84c0de4b03d513688b4d8",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/chris-hedges-and-robert-scheer-assess-the-merits-of_us_57b7b797e4b07d22cc38270f"
+  },
+  "headline":{
+    "0":"Dear Teachers",
+    "1":"FBI Investigating U.S. Ties To Alleged Corruption By Former Ukraine President",
+    "2":"Deadly Blast Rocks Wedding Ceremony In Turkey's Gaziantep",
+    "3":"Turkey Approves Reconciliation Deal Ending 6-Year Feud With Israel",
+    "4":"Judge Seeks Criminal Contempt Charges Against Arizona Sheriff Joe Arpaio",
+    "5":"Chris Hedges And Robert Scheer Assess The Merits Of A Life Of Virtue In A World For Careerists"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"MEDIA"
+  },
+  "short_description":{
+    "0":"Dear Teacher, As you head back to school, I see you so fresh and eager, and I am so thankful for your energy. \u00a0Your profession",
+    "1":"The alleged scandal reportedly involves Paul Manafort, who recently resigned as chairman of the Trump campaign.",
+    "2":"President Erdogan said the suicide bomber was a child between 12 and 14 years old.",
+    "3":"Relations between the two countries crumbled in 2010 after Israeli marines stormed a Turkish ship.",
+    "4":"A federal judge recommended that prosecutors bring the charges after finding that the controversial sheriff had violated court orders stemming from a 2007 racial profiling case.",
+    "5":"In this week\u2019s episode of \u201cScheer Intelligence\u201d on KCRW, Truthdig Editor in Chief Robert Scheer speaks with Truthdig columnist"
+  },
+  "authors":{
+    "0":"Alethea Mshar, ContributorI'm a writer, a runner, and a special needs mom.",
+    "1":"Eric Walsh, Reuters",
+    "2":"Osman Orsal, Reuters",
+    "3":"",
+    "4":"David Schwartz, Reuters",
+    "5":"Robert Scheer, ContributorRobert Scheer has built a reputation for strong social and pol..."
+  },
+  "date":{
+    "0":"2016-08-21 00:00:00",
+    "1":"2016-08-20 00:00:00",
+    "2":"2016-08-20 00:00:00",
+    "3":"2016-08-20 00:00:00",
+    "4":"2016-08-20 00:00:00",
+    "5":"2016-08-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usacop",
+    "2":"turgov",
+    "3":"tur",
+    "4":"---jud",
+    "5":"---med"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"ukrgov",
+    "2":"---reb",
+    "3":"isr",
+    "4":"usacop",
+    "5":"---med"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"090",
+    "2":"010",
+    "3":"0871",
+    "4":"030",
+    "5":"046"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":-2.0,
+    "2":0.0,
+    "3":9.0,
+    "4":4.0,
+    "5":7.0
+  },
+  "nouns":{
+    "0":[
+      "teacher",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "ukraine",
+      "president",
+      "ukrgov",
+      "ukraine",
+      "~"
+    ],
+    "2":[
+      "president",
+      "erdogan",
+      "turgov",
+      "~",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "suicide bomber",
+      "~reb",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "turkey",
+      "tur",
+      "turkey",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "4":[
+      "judge",
+      "~jud",
+      "~",
+      "arizona",
+      "sheriff",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "5":[
+      "editor in chief",
+      "~med",
+      "~",
+      "columnist",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "teacher",
+      "teacher",
+      "teacher"
+    ],
+    "1":[
+      "fbi",
+      "ukraine president"
+    ],
+    "2":[
+      "president erdogan",
+      "suicide bomber"
+    ],
+    "3":[
+      "turkey",
+      "israel"
+    ],
+    "4":[
+      "judge",
+      "arizona sheriff"
+    ],
+    "5":[
+      "editor in chief",
+      "editor in chief"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "ukraine"
+    ],
+    "2":[
+      "recep tayyip erdogan",
+      "---"
+    ],
+    "3":[
+      "turkey",
+      "israel"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "head ... to",
+      "head ... to"
+    ],
+    "1":[
+      "investigating"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "ending <&fight>"
+    ],
+    "4":[
+      "seeks"
+    ],
+    "5":[
+      "speaks with"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "corruption",
+      "1"
+    ],
+    "2":[
+      "suicide_attack",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "043",
+      "---edu",
+      "---edu",
+      "042"
+    ],
+    "1":[
+      "usacop",
+      "ukrgov",
+      "090"
+    ],
+    "2":[
+      "turgov",
+      "---reb",
+      "010"
+    ],
+    "3":[
+      "tur",
+      "isr",
+      "0871"
+    ],
+    "4":[
+      "---jud",
+      "usacop",
+      "030"
+    ],
+    "5":[
+      "---med",
+      "---med",
+      "046",
+      "---med",
+      "---med",
+      "046"
+    ]
+  }
+}

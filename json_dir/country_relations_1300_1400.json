@@ -1,0 +1,306 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/january-6-republicans-overturn-election-capitol-riot_n_61d35f59e4b0bcd219561a94",
+    "1":"https:\/\/www.huffpost.com\/entry\/politicians-pay-tribute-harry-reid-death_n_61cbd65de4b061afe3a29351",
+    "2":"https:\/\/www.huffpost.com\/entry\/denver-gunman-shooting-victims_n_61cbcbcbe4b0bb04a6348939",
+    "3":"https:\/\/www.huffpost.com\/entry\/bc-us-obit-sarah-weddington_n_61c8fc2be4b0c7d8b89c088a",
+    "4":"https:\/\/www.huffpost.com\/entry\/el-salvador-frees-three-women-convicted-of-abortions_n_61c73d8ce4b0c7d8b89b7717",
+    "5":"https:\/\/www.huffpost.com\/entry\/biden-first-lady-childrens-national-hospital-christmas-eve_n_61c61bb3e4b0bb04a62ff16d",
+    "6":"https:\/\/www.huffpost.com\/entry\/biden-first-lady-childrens-national-hospital-christmas-eve_n_61c61bb3e4b0bb04a62ff16d"
+  },
+  "headline":{
+    "0":"A Year Later, GOP Lawmakers Still Won't Say If Joe Biden Is Actually President",
+    "1":"Politicians Pay Tribute To Former Senate Leader Harry Reid",
+    "2":"Police: Gunman In Denver Who Killed 5 Targeted Some Victims",
+    "3":"Sarah Weddington, Lawyer Who Argued Roe V. Wade, Dies At 76",
+    "4":"El Salvador Frees Three Women Convicted Of Abortions",
+    "5":"Biden Joins First Lady For Christmas Eve Visit To Children's Hospital",
+    "6":"Biden Joins First Lady For Christmas Eve Visit To Children's Hospital"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"Nearly all of the 147 Republicans who voted to reject the 2020 presidential election results also won't say if they regret that vote, which was based on a lie.",
+    "1":"Messages of remembrance poured in after the Democratic giant from Nevada died at 82 after a years-long battle with cancer.",
+    "2":"Authorities say a gunman who went on a deadly shooting rampage in several locations in the Denver area was targeting at least some of his victims.",
+    "3":"The Texas lawyer successfully argued the landmark reproductive rights case before the Supreme Court at 26 years old, legalizing abortion nationwide.",
+    "4":"The three are among at least 17 Salvadoran women activists consider unjustly convicted and imprisoned following obstetric emergencies.",
+    "5":"The trip marked the first time that a sitting president joined a first lady in visiting kids at the D.C. Children's National Hospital.",
+    "6":"The trip marked the first time that a sitting president joined a first lady in visiting kids at the D.C. Children's National Hospital."
+  },
+  "authors":{
+    "0":"Jennifer Bendery",
+    "1":"Sanjana Karanth",
+    "2":"COLLEEN SLEVIN, AP",
+    "3":"Jake Bleiberg, AP",
+    "4":"",
+    "5":"Alexandra Jaffe, AP",
+    "6":"Alexandra Jaffe, AP"
+  },
+  "date":{
+    "0":"2022-01-05 00:00:00",
+    "1":"2021-12-29 00:00:00",
+    "2":"2021-12-29 00:00:00",
+    "3":"2021-12-26 00:00:00",
+    "4":"2021-12-25 00:00:00",
+    "5":"2021-12-24 00:00:00",
+    "6":"2021-12-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---pty",
+    "2":"---gov",
+    "3":"usajud",
+    "4":"slv",
+    "5":"---cvlhlh",
+    "6":"---gov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"usagovleg",
+    "2":"---uaf",
+    "3":"---jud",
+    "4":"---cvl",
+    "5":"---eli",
+    "6":"---eli"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"017",
+    "2":"112",
+    "3":"110",
+    "4":"08",
+    "5":"043",
+    "6":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-2.0,
+    "3":-2.0,
+    "4":5.0,
+    "5":2.8,
+    "6":1.0
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "politicians",
+      "~pty",
+      "~",
+      "harry reid",
+      "usagovleg",
+      "harry",
+      "reid"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "gunman",
+      "~uaf",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "texas",
+      "lawyer",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "el salvador",
+      "slv",
+      "el",
+      "salvador",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "first lady",
+      "~eli",
+      "~",
+      "children",
+      "hospital",
+      "~cvlhlh",
+      "~",
+      "~"
+    ],
+    "6":[
+      "president",
+      "~gov",
+      "~",
+      "first lady",
+      "~eli",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "joe biden"
+    ],
+    "1":[
+      "politicians",
+      "harry reid"
+    ],
+    "2":[
+      "authorities",
+      "gunman"
+    ],
+    "3":[
+      "texas lawyer",
+      "supreme court"
+    ],
+    "4":[
+      "el salvador",
+      "women"
+    ],
+    "5":[
+      "children ... hospital",
+      "first lady",
+      "first lady",
+      "children ... hospital"
+    ],
+    "6":[
+      "president",
+      "first ... lady"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "joe biden"
+    ],
+    "1":[
+      "---",
+      "harry reid"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "el salvador",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "pay tribute"
+    ],
+    "2":[
+      "say ... was targeting"
+    ],
+    "3":[
+      "argued"
+    ],
+    "4":[
+      "frees"
+    ],
+    "5":[
+      "visit",
+      "visit"
+    ],
+    "6":[
+      "joined"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usagov",
+      "010"
+    ],
+    "1":[
+      "---pty",
+      "usagovleg",
+      "017"
+    ],
+    "2":[
+      "---gov",
+      "---uaf",
+      "112"
+    ],
+    "3":[
+      "usajud",
+      "---jud",
+      "110"
+    ],
+    "4":[
+      "slv",
+      "---cvl",
+      "08"
+    ],
+    "5":[
+      "---cvlhlh",
+      "---eli",
+      "043",
+      "---eli",
+      "---cvlhlh",
+      "042"
+    ],
+    "6":[
+      "---gov",
+      "---eli",
+      "040"
+    ]
+  }
+}

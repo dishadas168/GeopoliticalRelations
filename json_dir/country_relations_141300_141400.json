@@ -1,0 +1,82 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/holy-ghost-teacher-fired_us_5bafbef5e4b0ad7692614254"
+  },
+  "headline":{
+    "0":"Holy Ghost Preparatory Teacher Allegedly Fired For Getting Gay Marriage License: Report"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"A teacher at a private Catholic high school in Pennsylvania says he was fired for getting his gay marriage license on Friday"
+  },
+  "authors":{
+    "0":"Hunter Stuart"
+  },
+  "date":{
+    "0":"2013-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu"
+  },
+  "actor2":{
+    "0":"usaedu"
+  },
+  "event_code":{
+    "0":"111"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "high school",
+      "usaedu",
+      "~",
+      "teacher",
+      "usaedu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "high school",
+      "high school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <usaedu> ... fired for"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "schools",
+      "1",
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "usaedu",
+      "111"
+    ]
+  }
+}

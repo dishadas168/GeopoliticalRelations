@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/george-soros-europe_us_5bb2d2d2e4b0480ca65cc0ce",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kids-food-feeding-our-children_us_5b9c3700e4b03a1dcc7d2722",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/paternity-leave_us_5b9c3e7be4b03a1dcc7d5080"
+  },
+  "headline":{
+    "0":"George Soros To Germany: Lead Europe From Crisis Or Get Out",
+    "1":"Kids' Food: Feeding Our Children",
+    "2":"Back to Work, with Cigars"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"FOOD & DRINK",
+    "2":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"LOST DECADE\" Berlin has given its backing to the European Central Bank's new bond-buying programme to lower struggling euro",
+    "1":"I recently had a tussle on a comment thread of a Huffington Post article. First Lady Michelle Obama, as part of her \"Let's Move\" campaign, the article explained, had hosted a State Dinner for Kids at the White House.",
+    "2":"Things have changed little, if at all, for men. Companies of all sorts often offer illegally short paternity leaves, even companies without a history of blowing off other federal mandates."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Jamie Schler, Contributor\nWriter specializing in food and culture",
+    "2":"Joan Williams, Contributor\nFounding director, Center for WorkLife Law; Distinguished prof..."
+  },
+  "date":{
+    "0":"2012-09-08 00:00:00",
+    "1":"2012-09-07 00:00:00",
+    "2":"2012-09-07 00:00:00"
+  },
+  "actor1":{
+    "0":"deu",
+    "1":"usagoveli",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"---govbus",
+    "1":"usagov",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"043",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":2.8,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "berlin",
+      "deu",
+      "germany",
+      "central bank",
+      "~govbus",
+      "~"
+    ],
+    "1":[
+      "first lady",
+      "obama",
+      "usagoveli",
+      "~",
+      "barack",
+      "obama",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "2":[
+      "companies",
+      "~bus",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "berlin",
+      "central bank"
+    ],
+    "1":[
+      "first lady ... obama",
+      "the ... white house"
+    ],
+    "2":[
+      "companies",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "white house"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given ... backing"
+    ],
+    "1":[
+      "had hosted ... dinner"
+    ],
+    "2":[
+      "offer"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "deu",
+      "---govbus",
+      "051"
+    ],
+    "1":[
+      "usagoveli",
+      "usagov",
+      "043"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "030"
+    ]
+  }
+}

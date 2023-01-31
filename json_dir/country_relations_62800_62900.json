@@ -1,0 +1,298 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_453_b_10547900.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_453_b_10547900.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-yosemite-climate-change_us_5765adfae4b0fbbc8beaa73e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/belgium-terror-raids_us_57654800e4b0853f8bf11316",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/keep-guns-out-of-dangerous-hands_b_10532466.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/can-we-stop-erasing-latin_b_10531986.html",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/friday-talking-points_b_10539254.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Sunday Roundup",
+    "2":"Obama At Yosemite Warns Of Climate Change Threats To Parks",
+    "3":"Belgium Conducts Major Anti-Terror Raids",
+    "4":"Keep Guns Out Of Dangerous Hands In Orlando, In Chicago, In Every Community",
+    "5":"Can We Stop Erasing Latinos From The Orlando Massacre?",
+    "6":"Friday Talking Points -- No Magic Phrases"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"LATINO VOICES",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week started off with the horror in Orlando. It was at once a hate crime, an act of terror and another tragic example of our lack of common sense gun control. Before the victims' bodies were even identified, Donald Trump was trying to fear-bait and scapegoat, bragging that he'd somehow been proven right and doubling down on his plan to ban Muslims from entering the U.S. But Trump's disgusting attempt to capitalize on a national tragedy didn't work. According to a CBS poll, only 25 percent approved of his shameful response, while 51 percent disapproved, and nearly two-thirds rejected his Muslim ban. Meanwhile, several members of Congress walked out of the now-traditional post-massacre moment of silence, with Rep. Jim Himes (D-CT) calling them \"an abomination\" that does not \"honor the victims\" but \"mocks them.\" Senate Democrats then took over the Senate for 15 hours demanding action on gun control. Whatever the outcome, it is heartening to know that the time of silence is finally over, and that voices for reform are being heard over racist, divisive dog-whistles.",
+    "1":"This week started off with the horror in Orlando. It was at once a hate crime, an act of terror and another tragic example of our lack of common sense gun control. Before the victims' bodies were even identified, Donald Trump was trying to fear-bait and scapegoat, bragging that he'd somehow been proven right and doubling down on his plan to ban Muslims from entering the U.S. But Trump's disgusting attempt to capitalize on a national tragedy didn't work. According to a CBS poll, only 25 percent approved of his shameful response, while 51 percent disapproved, and nearly two-thirds rejected his Muslim ban. Meanwhile, several members of Congress walked out of the now-traditional post-massacre moment of silence, with Rep. Jim Himes (D-CT) calling them \"an abomination\" that does not \"honor the victims\" but \"mocks them.\" Senate Democrats then took over the Senate for 15 hours demanding action on gun control. Whatever the outcome, it is heartening to know that the time of silence is finally over, and that voices for reform are being heard over racist, divisive dog-whistles.",
+    "2":"Obama was also shooting a virtual reality video in the park, a first for the White House.",
+    "3":"Belgian prosecutors have charged three men with terror offenses.",
+    "4":"More than 280 people have been killed in the great city of Chicago since the first of the year. Thousands more are living under siege in neighborhoods where they fear sitting on their front porches or letting their kids out to play because of the threat of gun violence. No one in the United States of America should ever have to live this way.",
+    "5":"There's nothing in Chee's touching piece about the Orlando victims that gives us an idea as to who they were and why they were at Pulse that night. Nothing as to why the gunman chose to stage his gore-fest on Latin Night. Nothing about 23 of the 49 perished having roots in Puerto Rico.",
+    "6":"The tragic news from Orlando dominated the week's media, as once again someone with easy access to military-style weaponry takes dozens of lives. According to Donald Trump and John McCain, this is all Barack Obama's fault (of course). Personally, we think if you want to go back and point fingers, you'd have to include George W. Bush."
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Arianna Huffington, Contributor",
+    "2":"",
+    "3":"",
+    "4":"Sen. Dick Durbin and Rep. Robin Kelly, Contributors",
+    "5":"Charlie V\u00e1zquez, ContributorAuthor, editor and director of the Bronx Writers Center",
+    "6":"Chris Weigant, ContributorPolitical writer and blogger at ChrisWeigant.com"
+  },
+  "date":{
+    "0":"2016-06-19 00:00:00",
+    "1":"2016-06-19 00:00:00",
+    "2":"2016-06-18 00:00:00",
+    "3":"2016-06-18 00:00:00",
+    "4":"2016-06-18 00:00:00",
+    "5":"2016-06-18 00:00:00",
+    "6":"2016-06-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usagovleg",
+    "2":"usagov",
+    "3":"beljud",
+    "4":"usa",
+    "5":"usacvl",
+    "6":"usa"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"usagovleg",
+    "2":"usagov",
+    "3":"---ppl",
+    "4":"---ppl",
+    "5":"usacvl",
+    "6":"---med"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"171",
+    "2":"190",
+    "3":"112",
+    "4":"190",
+    "5":"060",
+    "6":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2,
+    "2":-10.0,
+    "3":-2.0,
+    "4":-10.0,
+    "5":6.0,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "3":[
+      "belgian",
+      "prosecutors",
+      "beljud",
+      "belgium",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "orlando",
+      "victims",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "congress"
+    ],
+    "1":[
+      "senate",
+      "senate"
+    ],
+    "2":[
+      "obama",
+      "obama"
+    ],
+    "3":[
+      "belgian prosecutors",
+      "men"
+    ],
+    "4":[
+      "chicago",
+      "people"
+    ],
+    "5":[
+      "orlando victims",
+      "orlando victims"
+    ],
+    "6":[
+      "orlando",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states congress",
+      "united states congress"
+    ],
+    "2":[
+      "barack obama",
+      "barack obama"
+    ],
+    "3":[
+      "belgium",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "united states of america"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "mocks <['walked',> <'out']> <calling>"
+    ],
+    "1":[
+      "<['took',> <'over']>"
+    ],
+    "2":[
+      "was ... shooting"
+    ],
+    "3":[
+      "have charged"
+    ],
+    "4":[
+      "<~ppl> ... killed in <usa>"
+    ],
+    "5":[
+      "'s ... gives"
+    ],
+    "6":[
+      "dominated"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---leg",
+      "041"
+    ],
+    "1":[
+      "usagovleg",
+      "usagovleg",
+      "171"
+    ],
+    "2":[
+      "usagov",
+      "usagov",
+      "190"
+    ],
+    "3":[
+      "beljud",
+      "---ppl",
+      "112"
+    ],
+    "4":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "5":[
+      "usacvl",
+      "usacvl",
+      "060"
+    ],
+    "6":[
+      "usa",
+      "---med",
+      "190"
+    ]
+  }
+}

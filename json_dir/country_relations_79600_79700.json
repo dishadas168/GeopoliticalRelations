@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/one-charged-in-murder-of-9-year-old-chicago-boy_us_565a7df8e4b08e945feb681a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-air-strikes-syria_us_565b7d1ee4b072e9d1c2376a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/coco-austin-ice-t-baby_us_565630f6e4b08e945feafda2"
+  },
+  "headline":{
+    "0":"Charges Filed In Murder Of 9-Year-Old Chicago Boy Tyshawn Lee",
+    "1":"Russian Air Strikes Kill At Least 30 In Stepped Up Raids In Syria",
+    "2":"Coco Austin And Ice-T Welcome New Baby Girl"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Chicago Police Superintendent said  that two other men are also suspected in Tyshawn Lee's murder.",
+    "1":"The air strike on Ariha in Idlib province wounded dozens more people, striking a market place, the rescue workers said.",
+    "2":"Named Chanel, naturally."
+  },
+  "authors":{
+    "0":"Jason Keyser, AP",
+    "1":"",
+    "2":"Cole Delbyck"
+  },
+  "date":{
+    "0":"2015-11-29 00:00:00",
+    "1":"2015-11-29 00:00:00",
+    "2":"2015-11-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"syr",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"180",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "chicago",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "idlib",
+      "syr",
+      "syria",
+      "people",
+      "~ppl",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "austin",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "girl",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago police",
+      "men"
+    ],
+    "1":[
+      "idlib",
+      "people"
+    ],
+    "2":[
+      "austin",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "syria",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said <~ppl> ... suspected in <--->"
+    ],
+    "1":[
+      "wounded"
+    ],
+    "2":[
+      "welcome"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---ppl",
+      "110"
+    ],
+    "1":[
+      "syr",
+      "---ppl",
+      "180"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "051"
+    ]
+  }
+}

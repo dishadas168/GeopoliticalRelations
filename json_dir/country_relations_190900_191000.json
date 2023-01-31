@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-summer-stroll-through-le-marais_us_5b9bd8fce4b03a1dcc7ab433"
+  },
+  "headline":{
+    "0":"A Summer Stroll Through Le Marais And Surrounds In Paris"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Whether you've got a family in tow or are flying solo, though, Paris's charms don't have to be marred by long lines and overwhelmingly large crowds at tourist sites. The temperate weather invites strolls through quaint neighborhoods where you can lose yourself in local color."
+  },
+  "authors":{
+    "0":"The Purple Passport, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2012-06-22 00:00:00"
+  },
+  "actor1":{
+    "0":"fra"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"180"
+  },
+  "goldstein_score":{
+    "0":-9.0
+  },
+  "nouns":{
+    "0":[
+      "paris",
+      "fra",
+      "france",
+      "tourist",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "paris",
+      "tourist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... marred by <---> ... at <~cvl>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "---cvl",
+      "180"
+    ]
+  }
+}

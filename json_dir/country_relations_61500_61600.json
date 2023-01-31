@@ -1,0 +1,211 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/after-the-massacre-in-orl_b_10760198.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/gender-neutral-canada_us_57796296e4b041646410582e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_455_b_10787940.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russia-needs-turkey-in-th_b_10793490.html"
+  },
+  "headline":{
+    "0":"Disarm Hate: The LGBTQ Community Unites With Anti-Gun Violence Activists",
+    "1":"Trudeau Says Canada Is Looking At Gender-Neutral ID Cards",
+    "2":"Sunday Roundup",
+    "3":"Russia Needs Turkey in the War on ISIS"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The massacre at Pulse, an LGBTQ club in Orlando, has galvanized the LGBTQ community and motivated many people previously uninvolved in the anti-gun violence movement to act in support of stricter gun laws.",
+    "1":"The prime minister spoke with local media at Toronto's gay pride parade.",
+    "2":"This week, the nation was reminded, in ways both good and bad, that elections matter. On Monday, a Supreme Court that will likely see multiple appointments from the next president delivered a landmark decision for reproductive rights. On Tuesday, terrorists bombed the Istanbul airport, leaving 42 dead. Right on cue, Donald Trump reminded the world why judgment and stability matter, repeating his call for more torture, saying \"you have to fight fire with fire.\" And so, as the fallout from Brexit continues in the U.K., more Republican officials here are beating the drums for Trexit, separating themselves from the toxic menace that is Trump. Utah Senator Mike Lee said he won't vote for Trump without assurances he won't \"abuse\" the Constitution, and Maine Senator Susan Collins hinted she might vote for Hillary Clinton, while Mitt Romney said he'd vote for his wife before Trump. Meanwhile, Illinois Senator Mark Kirk became the first GOP incumbent to air an anti-Trump ad. As the list of Trexiting elected officials grows, so does the #NeverTrump RNC effort to insert a \"conscience clause\" allowing delegates to vote against a candidate who violates their moral beliefs. As the convention nears, we're finding out whose conscience puts country above party -- and whose does not.",
+    "3":""
+  },
+  "authors":{
+    "0":"David F Brand, ContributorSocial Worker, Writer and Fitness Trainer committed to justice...",
+    "1":"",
+    "2":"Arianna Huffington, Contributor",
+    "3":"Raghida Dergham, ContributorColumnist and Senior Diplomatic Correspondent, Al Hayat"
+  },
+  "date":{
+    "0":"2016-07-04 00:00:00",
+    "1":"2016-07-03 00:00:00",
+    "2":"2016-07-03 00:00:00",
+    "3":"2016-07-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"canmed",
+    "2":"---uaf",
+    "3":"rus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"tur",
+    "3":"tur"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"046",
+    "2":"190",
+    "3":"100"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":7.0,
+    "2":-10.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "community",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "prime minister",
+      "~gov",
+      "~",
+      "local media",
+      "~med",
+      "~",
+      "toronto",
+      "can",
+      "canada"
+    ],
+    "2":[
+      "terrorists",
+      "~uaf",
+      "~",
+      "istanbul",
+      "tur",
+      "turkey"
+    ],
+    "3":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "turkey",
+      "tur",
+      "turkey",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "orlando",
+      "community"
+    ],
+    "1":[
+      "---",
+      "prime minister",
+      "prime minister",
+      "---"
+    ],
+    "2":[
+      "terrorists",
+      "istanbul"
+    ],
+    "3":[
+      "russia",
+      "turkey"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "turkey"
+    ],
+    "3":[
+      "russian federation",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has galvanized"
+    ],
+    "1":[
+      "spoke with",
+      "spoke with"
+    ],
+    "2":[
+      "bombed"
+    ],
+    "3":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1",
+      "lgbt",
+      "2"
+    ],
+    "1":[
+      "lgbt",
+      "2"
+    ],
+    "2":[
+      "terror",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "canmed",
+      "---gov",
+      "046",
+      "---gov",
+      "canmed",
+      "046"
+    ],
+    "2":[
+      "---uaf",
+      "tur",
+      "190"
+    ],
+    "3":[
+      "rus",
+      "tur",
+      "100"
+    ]
+  }
+}

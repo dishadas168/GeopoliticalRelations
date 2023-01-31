@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/world\/2016\/jun\/01\/anti-abortion-laws-legislation-clinics-dangerous-methods",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/theintercept.com\/2016\/05\/31\/appeals-court-delivers-devastating-blow-to-cell-phone-privacy-advocates\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mark-ruffalo-flint_us_574ef886e4b0af73af95ed47",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/fourth-circuit-trans-bathroom-appeal_us_574f08b2e4b0ed593f12e663",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/world\/2016\/may\/31\/north-korea-praises-trump-and-urges-us-voters-to-reject-dull-hillary"
+  },
+  "headline":{
+    "0":"After wave of anti-abortion laws, US sees signs of women taking drastic measures",
+    "1":"Court Delivers Devastating Blow to Cellphone-Privacy Advocates",
+    "2":"Scientists: Flint Water Safe For Bathing, Despite Mark Ruffalo's Claims",
+    "3":"Appeals Judge Wants The Supreme Court To Put An End To The Trans Bathroom Debate",
+    "4":"North Korea Praises Trump And Urges US Voters To Reject 'Dull Hillary'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TECH",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Five years into a surge of anti-abortion legislation, experts say women are increasingly turning to dangerous methods to",
+    "1":"Courts across the country are grappling with a key question for the information age: When law enforcement asks a company",
+    "2":"The actor has told residents not to trust earlier assurances.",
+    "3":"\"Virtually every civilization\u2019s norms on this issue stand in protest.\"",
+    "4":"North Korean state media has praised US presidential hopeful Donald Trump, describing him as a \u201cwise politician\u201d and \u201cfar"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Arthur Delaney",
+    "3":"Cristian Farias",
+    "4":""
+  },
+  "date":{
+    "0":"2016-06-01 00:00:00",
+    "1":"2016-06-01 00:00:00",
+    "2":"2016-06-01 00:00:00",
+    "3":"2016-06-01 00:00:00",
+    "4":"2016-05-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---eli",
+    "3":"---jud",
+    "4":"---govmed"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---jud",
+    "2":"---cvl",
+    "3":"---jud",
+    "4":"usapty"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"010",
+    "3":"030",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":4.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "advocates",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "judge",
+      "~jud",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "state media",
+      "~govmed",
+      "~",
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "politician",
+      "~pty",
+      "~",
+      "us",
+      "usapty",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "us",
+      "women"
+    ],
+    "1":[
+      "court",
+      "court"
+    ],
+    "2":[
+      "actor",
+      "residents"
+    ],
+    "3":[
+      "judge",
+      "judge"
+    ],
+    "4":[
+      "state media",
+      "us"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sees"
+    ],
+    "1":[
+      "blow"
+    ],
+    "2":[
+      "has told"
+    ],
+    "3":[
+      "wants"
+    ],
+    "4":[
+      "has praised"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "---jud",
+      "190"
+    ],
+    "2":[
+      "---eli",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---jud",
+      "---jud",
+      "030"
+    ],
+    "4":[
+      "---govmed",
+      "usapty",
+      "051"
+    ]
+  }
+}

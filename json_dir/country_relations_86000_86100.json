@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-uses-cover-of-isis-fight-to-bolster-syria-interests-project-power_us_55f76c46e4b09ecde1d987cf"
+  },
+  "headline":{
+    "0":"Russia Uses Cover Of ISIS Fight To Bolster Syria Interests, Project Power"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Russian claims of a focus on \"terrorism\" may be misleading."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2015-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"rus"
+  },
+  "actor2":{
+    "0":"syr"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fight"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "syr",
+      "190"
+    ]
+  }
+}

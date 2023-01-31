@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prenatal-depression_us_5b9c695ce4b03a1dcc7e7047"
+  },
+  "headline":{
+    "0":"Prenatal Depression Warning Signs: Here's What to Look For"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Until recently, doctors didn't even think a woman could get depressed during pregnancy, because they believed antenatal hormones protected against it. The fact is, as many as 70% of women will experience symptoms of depression during pregnancy."
+  },
+  "authors":{
+    "0":"CafeMom, Contributor\nCafeMom is the meting place for moms"
+  },
+  "date":{
+    "0":"2012-10-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "doctors",
+      "~hlh",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctors",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---cvl",
+      "040"
+    ]
+  }
+}

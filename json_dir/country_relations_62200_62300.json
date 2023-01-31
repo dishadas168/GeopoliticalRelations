@@ -1,0 +1,81 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brexit-break-up-europe_us_576da41ee4b017b379f60450"
+  },
+  "headline":{
+    "0":"Brexit Will Fundamentally Change The Future Of Europe"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Britain's vote affects over 500 million people living throughout the EU."
+  },
+  "authors":{
+    "0":"Charlotte Alfred"
+  },
+  "date":{
+    "0":"2016-06-25 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr"
+  },
+  "actor2":{
+    "0":"igoeureecppl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "people",
+      "~ppl",
+      "~",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union",
+      "people",
+      "igoeureecppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "britain",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "affects"
+    ]
+  },
+  "issues":{
+    "0":[
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "igoeureecppl",
+      "050"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iran-president-journalist-detained_n_5882690.html"
+  },
+  "headline":{
+    "0":"Iranian President Won't Say If He Will Help Detained Reporter"
+  },
+  "category":{
+    "0":"MEDIA"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-09-25 00:00:00"
+  },
+  "actor1":{
+    "0":"irngov"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "iranian",
+      "president",
+      "irngov",
+      "iran",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iranian president",
+      "reporter"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wo ... say ... will help"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "irngov",
+      "---med",
+      "070"
+    ]
+  }
+}

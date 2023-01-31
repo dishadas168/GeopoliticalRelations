@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/healthy-child-healthy-wor_1_b_5734400.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-perfect-crime-in-amer_b_5735190.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/american-moms-arent-buyin_b_5717221.html"
+  },
+  "headline":{
+    "0":"Healthy Child Healthy World Takes Center Court for Championing Children's Health",
+    "1":"The 'Perfect Crime' in America Is Killing an Unarmed Black Man and Claiming Self-Defense",
+    "2":"American Moms Aren't Buying What the NRA Is Selling"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The crime of killing someone is now turned into a battle of narratives where the only other person who could challenge the narrative is dead, and millions of people simply believe that the unarmed black man deserved his fate.",
+    "2":"The National Rifle Association is in a quandary. The organization's leadership, which is sullied by a long history of sexism and misogyny, must continue to grow its market for guns in order to protect gun manufacturers' profits."
+  },
+  "authors":{
+    "0":"LuxEco Living, ContributorEco-Rich Luxury Through Vibrant Health",
+    "1":"H. A. Goodman, ContributorColumnist published in The Cleveland Plain Dealer, The Baltimo...",
+    "2":"Shannon Watts, ContributorFounder, Moms Demand Action for Gun Sense in America"
+  },
+  "date":{
+    "0":"2014-08-29 00:00:00",
+    "1":"2014-08-29 00:00:00",
+    "2":"2014-08-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"meareb"
+  },
+  "actor2":{
+    "0":"---judcvl",
+    "1":"---ppl",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"190",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-10.0,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "court",
+      "children",
+      "~judcvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "manufacturers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "court ... children"
+    ],
+    "1":[
+      "america",
+      "man"
+    ],
+    "2":[
+      "organization",
+      "manufacturers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "tanzim",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "takes"
+    ],
+    "1":[
+      "is killing"
+    ],
+    "2":[
+      "must ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---judcvl",
+      "171"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "meareb",
+      "---bus",
+      "074"
+    ]
+  }
+}

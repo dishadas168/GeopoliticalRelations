@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.aljazeera.com\/news\/2015\/11\/award-winning-egyptian-reporter-held-unknown-charges-151130182357719.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-hawaii-election_us_565f6849e4b079b2818d1767"
+  },
+  "headline":{
+    "0":"Egypt Extends Journalist's Detention By 15 Days",
+    "1":"Supreme Court Blocks Native Hawaiians' Attempt To Form Own Government"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Egypt has extended the detention of a journalist accused of \"releasing false news aimed at spreading terror\" and \"joining",
+    "1":"Opponents said the election was racially exclusive."
+  },
+  "authors":{
+    "0":"",
+    "1":"Chloe Fox"
+  },
+  "date":{
+    "0":"2015-12-02 00:00:00",
+    "1":"2015-12-02 00:00:00"
+  },
+  "actor1":{
+    "0":"egy",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "egypt",
+      "egy",
+      "egypt",
+      "journalist",
+      "~med",
+      "~",
+      "journalist",
+      "~med",
+      "~",
+      "journalist",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "native",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "egypt",
+      "journalist"
+    ],
+    "1":[
+      "supreme court",
+      "native"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "egypt",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has extended <&detention>"
+    ],
+    "1":[
+      "blocks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "egy",
+      "---med",
+      "173"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "170"
+    ]
+  }
+}

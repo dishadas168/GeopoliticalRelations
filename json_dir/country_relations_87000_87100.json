@@ -1,0 +1,237 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fight-club-allegations-at-new-jersey-daycare-spark-outrage_us_55e6e9f2e4b0b7a9633ada42",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/texas-lieutenant-governor-wants-people-to-start-buying-lunch-for-cops_us_55e73a60e4b0aec9f355922b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-alaska-instagram_us_55e712a6e4b0aec9f355517f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/planned-parenthood-bobby-jindal_us_55e5cca5e4b0c818f6192dac",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/rick-snyder-michigan-obama-climate_us_55e5e7c6e4b0aec9f354b0fe"
+  },
+  "headline":{
+    "0":"'Fight Club' Allegations At New Jersey Daycare Spark Outrage",
+    "1":"Texas Lieutenant Governor Wants People To Start Buying Lunch For Cops",
+    "2":"Obama Visits Alaska, Makes The Rest Of America Jealous Through Instagram",
+    "3":"DOJ Defends Planned Parenthood Against Bobby Jindal In Court",
+    "4":"Michigan's Republican Governor Says State Will Comply With Obama's Climate Plan"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Prosecutors say workers encouraged toddlers to fight each other and filmed it",
+    "1":"Lt. Gov. Dan Patrick says the biggest problem with American policing right now is the public's lack of respect for officers.",
+    "2":"Thanks, Obama. We're really feeling that #FOMO now.",
+    "3":"The administration told a federal judge that Jindal lacks \"sufficient reasons\" to cancel Planned Parenthood's Medicaid contract.",
+    "4":"\"We need to seize the opportunity to make Michigan\u2019s energy decisions in Lansing,\" Gov. Rick Snyder said."
+  },
+  "authors":{
+    "0":"Katie Reilly, Reuters",
+    "1":"Nick Wing",
+    "2":"Dhyana Taylor",
+    "3":"Laura Bassett",
+    "4":"Kate Sheppard"
+  },
+  "date":{
+    "0":"2015-09-02 00:00:00",
+    "1":"2015-09-02 00:00:00",
+    "2":"2015-09-02 00:00:00",
+    "3":"2015-09-01 00:00:00",
+    "4":"2015-09-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usamilgov",
+    "2":"usa",
+    "3":"---gov",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---ppl",
+    "2":"usagov",
+    "3":"---jud",
+    "4":"usagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"043",
+    "3":"010",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":2.8,
+    "3":0.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "texas",
+      "lieutenant",
+      "governor",
+      "usamilgov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "federal judge",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "michigan",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "workers"
+    ],
+    "1":[
+      "texas lieutenant governor",
+      "people"
+    ],
+    "2":[
+      "alaska",
+      "obama",
+      "obama",
+      "alaska"
+    ],
+    "3":[
+      "administration",
+      "federal judge"
+    ],
+    "4":[
+      "michigan ... governor",
+      "michigan ... governor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "barack obama",
+      "barack obama",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "visits",
+      "visits"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---lab",
+      "010"
+    ],
+    "1":[
+      "usamilgov",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "usa",
+      "usagov",
+      "043",
+      "usagov",
+      "usa",
+      "042"
+    ],
+    "3":[
+      "---gov",
+      "---jud",
+      "010"
+    ],
+    "4":[
+      "usagov",
+      "usagov",
+      "010"
+    ]
+  }
+}

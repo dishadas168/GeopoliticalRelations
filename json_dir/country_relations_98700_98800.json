@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/40-years-after-the-cambodian-genocide-one-thing-my-parents-still-talk-about_b_7071852.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chiquis-when-the-only-one_b_7074440.html"
+  },
+  "headline":{
+    "0":"40 Years After the Cambodian Genocide, One Thing My Parents Still Talk About",
+    "1":"Chiquis: When the Only One Left to Forgive Is Yourself"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"April 17th, 2015 marks 40 years since the Khmer Rouge took Phnom Penh and unleashed a wrath of vengeance against its own people. The genocide war in Cambodia left almost 2 million people dead from execution, starvation and disease.",
+    "1":"Her mother died with unfinished business, lots, in many areas. In Forgiveness Chiquis is seeing to it that in many areas she's setting the record straight and putting and end to things past to move on to things future."
+  },
+  "authors":{
+    "0":"Sothy Eng, ContributorProfessor of Practice of Comparative and International Educati...",
+    "1":"Charles Karel Bouley, ContributorEntertainer, author, broadcaster, comic, satirist, singer, dog..."
+  },
+  "date":{
+    "0":"2015-04-16 00:00:00",
+    "1":"2015-04-16 00:00:00"
+  },
+  "actor1":{
+    "0":"khmreb",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"khm",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "khmer rouge",
+      "khmreb",
+      "khmer",
+      "rouge",
+      "phnom penh",
+      "khm",
+      "cambodia",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "khmer rouge",
+      "phnom penh"
+    ],
+    "1":[
+      "mother",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "khmer rouge",
+      "cambodia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... took"
+    ],
+    "1":[
+      "died"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "khmreb",
+      "khm",
+      "171"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "190"
+    ]
+  }
+}

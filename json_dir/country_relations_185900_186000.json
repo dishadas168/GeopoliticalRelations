@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/back-to-school-sleep_us_5b9c2368e4b03a1dcc7c905d"
+  },
+  "headline":{
+    "0":"Back To School: How To Get Kids' Sleep On Track For Fall"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"That\u2019s part of the reason a number of sleep advocates have been pushing for later school start times, a move that would not"
+  },
+  "authors":{
+    "0":"Sarah Klein"
+  },
+  "date":{
+    "0":"2012-08-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "advocates",
+      "~jud",
+      "~",
+      "advocates",
+      "~jud",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocates",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... pushing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---edu",
+      "100"
+    ]
+  }
+}

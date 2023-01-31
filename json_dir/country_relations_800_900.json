@@ -1,0 +1,279 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/climate-protests-arrest-london_n_625afa07e4b0be72bff6c2fe",
+    "1":"https:\/\/www.huffpost.com\/entry\/ed-buck-found-guilty-prison_n_62588bbfe4b066ecde11a5a9",
+    "2":"https:\/\/www.huffpost.com\/entry\/bc-eu-russia-ukraine-war-a-walk-through-bucha_n_6251c26de4b0e97a3511dafb",
+    "3":"https:\/\/www.huffpost.com\/entry\/bc-us-border-war-powers_n_624d7754e4b0587dee70d7c0",
+    "4":"https:\/\/www.huffpost.com\/entry\/sean-penn-sean-hannity_n_624d7b53e4b098174508540d",
+    "5":"https:\/\/www.huffpost.com\/entry\/tucker-carlson-awaken-church-ukrainian-american-protest-war-criminal-putin_n_624b636ce4b098174504dc38"
+  },
+  "headline":{
+    "0":"Climate Change Activists Climb Atop Oil Tanker In Mass Protests In London",
+    "1":"LA Political Donor Gets 30 Years In Prison For Fetish Deaths",
+    "2":"War Crimes Watch: A Devastating Walk Through Bucha's Horror",
+    "3":"Ex-Trump Officials Urge Texas To Declare Border 'Invasion'",
+    "4":"Sean Penn Tells Sean Hannity 'I Don't Trust Ya' And Surreal Talk About Trust Ensues",
+    "5":"Ukrainian Americans Protest California Church Talk By Putin Defender Tucker Carlson"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"CRIME",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"ENTERTAINMENT",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Hundreds of people blocked bridges across London while others scaled an oil tanker in mass protests to demand a stop to new oil and gas projects.",
+    "1":"A federal judge has sentenced a wealthy California Democratic donor to 30 years in prison for injecting two men with lethal doses of drugs.",
+    "2":"Walking through Bucha, The Associated Press spoke with two dozen witnesses of the Russian occupation.",
+    "3":"Former Trump administration officials are pressing Republican border governors to declare an \u201cinvasion\u201d along the U.S.-Mexico border.",
+    "4":"The actor visited the right-wing Fox News host for a chat about the war in Ukraine.",
+    "5":"A megachurch hosted the Kremlin-positive Fox News host \u2014 just as horrifying images of murdered civilians in Ukraine emerged."
+  },
+  "authors":{
+    "0":"",
+    "1":"BRIAN MELLEY, AP",
+    "2":"Cara Anna, AP",
+    "3":"ACACIA CORONADO and PAUL J. WEBER, AP",
+    "4":"Ron Dicker",
+    "5":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2022-04-16 00:00:00",
+    "1":"2022-04-14 00:00:00",
+    "2":"2022-04-09 00:00:00",
+    "3":"2022-04-06 00:00:00",
+    "4":"2022-04-06 00:00:00",
+    "5":"2022-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---jud",
+    "2":"rus",
+    "3":"---gov",
+    "4":"ukr",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"---cop",
+    "2":"med",
+    "3":"---gov",
+    "4":"---eli",
+    "5":"rusgov"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"172",
+    "2":"046",
+    "3":"100",
+    "4":"043",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-5.0,
+    "2":7.0,
+    "3":-5.0,
+    "4":2.8,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom",
+      "oil tanker",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "federal judge",
+      "~jud",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "associated press",
+      "med",
+      "associated",
+      "press",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "governors",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "actor",
+      "~eli",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "5":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "london"
+    ],
+    "1":[
+      "federal judge",
+      "prison"
+    ],
+    "2":[
+      "russian",
+      "associated press",
+      "associated press",
+      "russian"
+    ],
+    "3":[
+      "administration",
+      "administration"
+    ],
+    "4":[
+      "ukraine",
+      "actor",
+      "actor",
+      "ukraine"
+    ],
+    "5":[
+      "california",
+      "putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "russian federation",
+      "associated press",
+      "associated press",
+      "russian federation"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "ukraine",
+      "---",
+      "---",
+      "ukraine"
+    ],
+    "5":[
+      "united states of america",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blocked"
+    ],
+    "1":[
+      "has sentenced"
+    ],
+    "2":[
+      "spoke with",
+      "spoke with"
+    ],
+    "3":[
+      "are pressing"
+    ],
+    "4":[
+      "visited",
+      "visited"
+    ],
+    "5":[
+      "talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "gbr",
+      "170"
+    ],
+    "1":[
+      "---jud",
+      "---cop",
+      "172"
+    ],
+    "2":[
+      "rus",
+      "med",
+      "046",
+      "med",
+      "rus",
+      "046"
+    ],
+    "3":[
+      "---gov",
+      "---gov",
+      "100"
+    ],
+    "4":[
+      "ukr",
+      "---eli",
+      "043",
+      "---eli",
+      "ukr",
+      "042"
+    ],
+    "5":[
+      "usa",
+      "rusgov",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gambia-yahya-jammeh-intervention_us_587d481ae4b0d4cc08843ebe",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/germany-says-nato-concerned-about-trump-obsolete-remark_us_587d900fe4b0d4cc08846258",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/im-an-abortion-provider-in-a-red-state-the-attacks-on-reproductive-freedom-will-intensify-in-trumps-america_us_587e5a4be4b0f63fcfa347b4"
+  },
+  "headline":{
+    "0":"Gambia Voted To Oust Its Dictator, But He Isn't Going Quietly",
+    "1":"Germany Says NATO Concerned About Trump 'Obsolete' Remark",
+    "2":"I\u2019m An Abortion Provider In A Red State. The Attacks On Reproductive Freedom Will Intensify Under Trump"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"Fears are growing over what will happen when Yahya Jammeh's presidency expires this week.",
+    "1":"U.S. Secretary of State John Kerry said Trump's remarks were \u201cinappropriate\".",
+    "2":"The biggest threat facing abortion providers is that state legislatures, emboldened by a Trump administration, will try to regulate us out of existence."
+  },
+  "authors":{
+    "0":"Nick Robins-Early",
+    "1":"Tom K\u00f6rkemeier and Andreas Rinke, Reuters",
+    "2":"DeShawn Taylor"
+  },
+  "date":{
+    "0":"2017-01-17 00:00:00",
+    "1":"2017-01-17 00:00:00",
+    "2":"2017-01-17 00:00:00"
+  },
+  "actor1":{
+    "0":"gmb",
+    "1":"deu",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"igowstnat",
+    "2":"---leg"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"010",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "gambia",
+      "gmb",
+      "gambia",
+      "dictator",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "germany",
+      "deu",
+      "germany",
+      "nato",
+      "igowstnat",
+      "nato"
+    ],
+    "2":[
+      "legislatures",
+      "~leg",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "legislatures",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "gambia",
+      "dictator"
+    ],
+    "1":[
+      "germany",
+      "nato"
+    ],
+    "2":[
+      "legislatures",
+      "legislatures"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "gambia",
+      "---"
+    ],
+    "1":[
+      "germany",
+      "nato"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to oust"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "will ... regulate"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "gmb",
+      "---gov",
+      "174"
+    ],
+    "1":[
+      "deu",
+      "igowstnat",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "---leg",
+      "060"
+    ]
+  }
+}

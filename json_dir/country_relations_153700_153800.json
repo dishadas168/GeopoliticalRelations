@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.bangkokpost.com\/business\/news\/361485\/asia-s-most-gay-friendly-country"
+  },
+  "headline":{
+    "0":"Nepal: Asia's Most Gay-Friendly Country?"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"When Nepal\u2019s Supreme Court in June directed the government to introduce a third category on passports for people who identify"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-07-28 00:00:00"
+  },
+  "actor1":{
+    "0":"npljud"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "nepal",
+      "supreme court",
+      "npljud",
+      "nepal",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nepal ... supreme court",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "nepal",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "directed"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "npljud",
+      "---gov",
+      "060"
+    ]
+  }
+}

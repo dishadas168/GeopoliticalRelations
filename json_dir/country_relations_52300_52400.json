@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-corvette_us_5808cfbee4b0dd54ce388aee"
+  },
+  "headline":{
+    "0":"Joe Biden Took His \u201967 Corvette Out For A Spin, And It Was Incredible"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cI shouldn\u2019t say this on television \u2015 I like speed.\u201d"
+  },
+  "authors":{
+    "0":"Sam Levine"
+  },
+  "date":{
+    "0":"2016-10-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "corvette",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "joe biden",
+      "corvette"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "joe biden",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---mil",
+      "171"
+    ]
+  }
+}

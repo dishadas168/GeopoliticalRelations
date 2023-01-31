@@ -1,0 +1,236 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/black-latina-women-hillary-clinton_us_575ad4d9e4b00f97fba8100b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/warren-to-meet-with-clinton_us_575ab83ee4b0e39a28ad4d01",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/shooting-dallas-love-field_us_575b00d7e4b0e39a28ad7e73",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/brock-turner-aaron-persky-petition_us_57571166e4b07823f9517be0",
+    "4":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/politics\/seeking-to-exit-on-his-own-terms-bernie-sanders-comes-to-washington-thursday\/2016\/06\/09\/0b252f10-2e39-11e6-9de3-6e6e7a14000c_story.html"
+  },
+  "headline":{
+    "0":"What Black And Latina Women Want You To Know About Hillary Clinton",
+    "1":"Clinton, In Bid For Party Unity, Holds Meeting With Warren",
+    "2":"Officer Shoots Rock-Wielding Man At Dallas Airport",
+    "3":"Members Of Congress Join Chorus Calling For Judge Persky's Removal",
+    "4":"Obama to offer a formal endorsement of Clinton; president also meets with Sanders"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cIt's difficult to connect with and trust her.\u201d",
+    "1":"Democratic presidential candidate Hillary Clinton met on Friday with U.S. Senator Elizabeth Warren, a leading progressive",
+    "2":"Police say the man was involved in a domestic dispute and rushed the police officer.",
+    "3":"Multiple petitions demanding the judge's removal have topped 1 million signatures.",
+    "4":"President Obama will offer his formal endorsement of Hillary Clinton with a video to be released later on Thursday and plans"
+  },
+  "authors":{
+    "0":"Julia Craven",
+    "1":"",
+    "2":"Michael McLaughlin",
+    "3":"Tyler Kingkade",
+    "4":""
+  },
+  "date":{
+    "0":"2016-06-10 00:00:00",
+    "1":"2016-06-10 00:00:00",
+    "2":"2016-06-10 00:00:00",
+    "3":"2016-06-10 00:00:00",
+    "4":"2016-06-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usaeli",
+    "2":"---cop",
+    "3":"---leg",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"---jud",
+    "4":"usaeli"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040",
+    "2":"012",
+    "3":"020",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0,
+    "2":-0.4,
+    "3":3.0,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "police officer",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "women"
+    ],
+    "1":[
+      "hillary clinton",
+      "<u.s.>"
+    ],
+    "2":[
+      "police",
+      "man",
+      "police",
+      "man"
+    ],
+    "3":[
+      "congress",
+      "judge"
+    ],
+    "4":[
+      "president obama",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "barack obama",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "met"
+    ],
+    "2":[
+      "say <~ppl> ... involved in <--->",
+      ""
+    ],
+    "3":[
+      "chorus calling for"
+    ],
+    "4":[
+      "<and> ... offer"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":[
+      "security_services",
+      "2"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "usaeli",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---cop",
+      "---ppl",
+      "012",
+      "---cop",
+      "---ppl",
+      "010"
+    ],
+    "3":[
+      "---leg",
+      "---jud",
+      "020"
+    ],
+    "4":[
+      "usagov",
+      "usaeli",
+      "030"
+    ]
+  }
+}

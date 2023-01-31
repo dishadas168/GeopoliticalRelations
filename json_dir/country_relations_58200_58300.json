@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/robot-lawyer-helps-homeless-people-secure-housing-for-free_us_57ace943e4b007c36e4dd7c9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/steve-king-hillary-clinton_us_57acacbde4b0ba7ed23f563f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/canada-suicide-inuit_us_57aca88ce4b06e52746f7e46"
+  },
+  "headline":{
+    "0":"'Robot Lawyer' Gives Free Legal Aid To Homeless People",
+    "1":"Steve King Said Something Nice (Or At Least Not Mean) About Hillary Clinton",
+    "2":"Canada\u2019s Inuit Launch National Suicide Prevention Strategy"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The service helps users navigate complicated housing applications.",
+    "1":"Not that he supports her, of course.",
+    "2":"Canada\u2019s national Inuit\u00a0organization unveiled its highly anticipated suicide prevention strategy last week during an emotional"
+  },
+  "authors":{
+    "0":"Sarah Ruiz-Grossman",
+    "1":"Elise Foley",
+    "2":"Samia Madwar, Arctic Deeply"
+  },
+  "date":{
+    "0":"2016-08-12 00:00:00",
+    "1":"2016-08-11 00:00:00",
+    "2":"2016-08-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"can"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usaeli",
+    "2":"meareb"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"010",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "king",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "2":[
+      "canada",
+      "organization",
+      "can",
+      "meareb",
+      "canada",
+      "tanzim"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "people"
+    ],
+    "1":[
+      "king",
+      "hillary clinton"
+    ],
+    "2":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "hillary clinton"
+    ],
+    "2":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives ... aid"
+    ],
+    "1":[
+      "said"
+    ],
+    "2":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "poverty",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "070"
+    ],
+    "1":[
+      "---gov",
+      "usaeli",
+      "010"
+    ],
+    "2":[
+      "can",
+      "meareb",
+      "050",
+      "meareb",
+      "can",
+      "050"
+    ]
+  }
+}

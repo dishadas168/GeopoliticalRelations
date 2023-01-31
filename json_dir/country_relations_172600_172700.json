@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wonder_us_5b9cb1ace4b03a1dcc80f521"
+  },
+  "headline":{
+    "0":"The Ethic of Wonder"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The great Jewish philosopher, Abraham Heschel said, \"We will not perish for want of information; but only for want of appreciation... What we lack is not a will to believe but a will to wonder...\" Wonder is the feeling that overcomes us when we enter life and not just watch it."
+  },
+  "authors":{
+    "0":"Mark Nepo, Contributor\nAuthor, New York Times bestseller \u2018The Book of Awakening\u2019"
+  },
+  "date":{
+    "0":"2013-01-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---jew"
+  },
+  "actor2":{
+    "0":"---jew"
+  },
+  "event_code":{
+    "0":"011"
+  },
+  "goldstein_score":{
+    "0":-0.1
+  },
+  "nouns":{
+    "0":[
+      "jewish",
+      "~jew",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jewish",
+      "jewish"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... will"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jew",
+      "---jew",
+      "011"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/02\/18\/nyregion\/charges-dismissed-against-6-ex-employees-of-rentboycom.html?_r=1",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/coed.com\/2016\/02\/17\/girlfriend-shirt-imgur-viral-image-boyfriend-valentines-gift-shirt-with-face-im-taken-details-funny-photos\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/panasonic-same-sex-marriage_us_56c5d972e4b0c3c55053e43d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/pope-francis-visits-mexican-prison-and-us-border_us_56c4dd49e4b0c3c550538731"
+  },
+  "headline":{
+    "0":"Charges Dismissed Against Six Ex-Employees Of Rentboy.com",
+    "1":"Man's Girlfriend Gives Him Most Embarrassing Shirt Ever",
+    "2":"Panasonic Just Took A Major Step Forward On Gay Rights",
+    "3":"Pope Francis Ends Mexico Tour Blessing Migrants At U.S. Border"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WEIRD NEWS",
+    "2":"BUSINESS",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Federal authorities have dismissed charges against six former employees of the website Rentboy.com, while continuing to move",
+    "1":"A woman gives a man a custom-made shirt as a gift. Sweet or something more sinister? Let's split the difference and just",
+    "2":"Panasonic's refusal to discriminate could help advance LGBT rights in Japan.",
+    "3":"The \"People's Pontiff\" visited a prison and spoke out on immigration and drug cartels."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Minami Funakoshi, Reuters",
+    "3":"Chris McGonigal and Nick Visser"
+  },
+  "date":{
+    "0":"2016-02-18 00:00:00",
+    "1":"2016-02-18 00:00:00",
+    "2":"2016-02-18 00:00:00",
+    "3":"2016-02-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"mncjpn",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---labmed",
+    "1":"---ppl",
+    "2":"jpn",
+    "3":"---cop"
+  },
+  "event_code":{
+    "0":"016",
+    "1":"060",
+    "2":"070",
+    "3":"042"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":6.0,
+    "2":7.0,
+    "3":1.9
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "website",
+      "~med",
+      "~",
+      "employees",
+      "website",
+      "~labmed",
+      "~",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "panasonic",
+      "mncjpn",
+      "panasonic",
+      "japan",
+      "jpn",
+      "japan"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "cartels",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "employees ... website"
+    ],
+    "1":[
+      "woman",
+      "man"
+    ],
+    "2":[
+      "panasonic",
+      "japan"
+    ],
+    "3":[
+      "people",
+      "prison",
+      "people",
+      "cartels"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "panasonic",
+      "japan"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have dismissed charges"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "could help"
+    ],
+    "3":[
+      "<and> ... visited",
+      "<and> ... spoke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ],
+    "3":[
+      "id_immigration",
+      "1",
+      "drug_cartels",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---labmed",
+      "016"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "mncjpn",
+      "jpn",
+      "070"
+    ],
+    "3":[
+      "---ppl",
+      "---cop",
+      "042",
+      "---ppl",
+      "---crm",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tammy-duckworth-syria-town-hall_us_58ed7726e4b0df7e20466baf",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/when-companies-serve-their-customers-too-well-nobody_us_58edee52e4b081da6ad00940"
+  },
+  "headline":{
+    "0":"Americans Need To Know Trump's Endgame For Syria, Duckworth Tells Constituents",
+    "1":"When Companies Serve Their Customers Too Well, Nobody Wins. But You Can."
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The Illinois senator calls for answers from the White House.",
+    "1":"Is it possible for a company to be too good? Can a business outperform its competitors, spoil its customers, dominate the"
+  },
+  "authors":{
+    "0":"Kim Bellware",
+    "1":"Christopher Elliott, ContributorAuthor, How to Be the World's Smartest Traveler (and Save Time..."
+  },
+  "date":{
+    "0":"2017-04-12 00:00:00",
+    "1":"2017-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"027",
+    "1":"165"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "illinois",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "business",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "illinois senator",
+      "the ... white house"
+    ],
+    "1":[
+      "business",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls for <&solution>"
+    ],
+    "1":[
+      "dominate <spoil>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "usagov",
+      "027"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "165"
+    ]
+  }
+}

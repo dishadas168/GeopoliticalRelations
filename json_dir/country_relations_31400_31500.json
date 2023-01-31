@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nato-kosovo-cooperation_us_59492359e4b0f7875b83e5e1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/after-fifty-years-of-occupation-whats-next-an-open_us_5949436de4b09edb4c91f2bf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/macron-us-france-democrats_us_593ecf20e4b02402687bbd93",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/muslim-teen-killing-virginia_us_59483a2ee4b0edb84c14e74f"
+  },
+  "headline":{
+    "0":"NATO-Kosovo Cooperation",
+    "1":"After Fifty Years Of Occupation, What's Next: An open letter to President Mahmoud Abbas",
+    "2":"How Obama Won The French Election",
+    "3":"Killing Of Muslim Teen Was Road Rage, Not A Hate Crime, Police Say"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Kosovo Security Force (KSF) should be upgraded into a full-standing army and integrated into NATO\u2019s Partnership for Peace",
+    "1":"Dear President Abbas, Last week I sent an open letter to Prime Minister Netanyahu, criticizing him in the strongest terms",
+    "2":"A political consulting firm founded by former Obama volunteers helped Emmanuel Macron take over French politics.",
+    "3":"An El Salvadoran national is accused of beating 17-year-old Nabra Hassanen with a baseball bat."
+  },
+  "authors":{
+    "0":"David L. Phillips, ContributorDirector, Program on Peace-building and Rights, Institute for ...",
+    "1":"Alon Ben-Meir, ContributorSenior Fellow, Center for Global Affairs, NYU",
+    "2":"Nick Robins-Early",
+    "3":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2017-06-20 00:00:00",
+    "1":"2017-06-20 00:00:00",
+    "2":"2017-06-19 00:00:00",
+    "3":"2017-06-19 00:00:00"
+  },
+  "actor1":{
+    "0":"ksvmil",
+    "1":"---gov",
+    "2":"usagov",
+    "3":"---cop"
+  },
+  "actor2":{
+    "0":"igowstnat",
+    "1":"isrgov",
+    "2":"fra",
+    "3":"---mus"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"040",
+    "2":"171",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":1.0,
+    "2":-9.2,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "kosovo security force",
+      "ksvmil",
+      "kosova",
+      "security",
+      "force",
+      "army",
+      "~mil",
+      "~",
+      "nato",
+      "igowstnat",
+      "nato"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "french",
+      "fra",
+      "france"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kosovo security force",
+      "nato"
+    ],
+    "1":[
+      "president",
+      "netanyahu"
+    ],
+    "2":[
+      "obama",
+      "french"
+    ],
+    "3":[
+      "police",
+      "muslim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "kosova security force",
+      "nato"
+    ],
+    "1":[
+      "---",
+      "benjamin netanyahu"
+    ],
+    "2":[
+      "barack obama",
+      "france"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... integrated into <igowstnat>"
+    ],
+    "1":[
+      "sent ... letter"
+    ],
+    "2":[
+      "helped ... take"
+    ],
+    "3":[
+      "killing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ksvmil",
+      "igowstnat",
+      "050"
+    ],
+    "1":[
+      "---gov",
+      "isrgov",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "fra",
+      "171"
+    ],
+    "3":[
+      "---cop",
+      "---mus",
+      "190"
+    ]
+  }
+}

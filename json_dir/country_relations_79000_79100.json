@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/2016-presidential-race-hope_us_5662194be4b072e9d1c6522e"
+  },
+  "headline":{
+    "0":"Why Hope Is A Loser In This Election"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"American voters usually award the White House to an optimistic candidate. Not in 2016."
+  },
+  "authors":{
+    "0":"Howard Fineman"
+  },
+  "date":{
+    "0":"2015-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "voters",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american voters",
+      "the white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "award"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "usagov",
+      "060"
+    ]
+  }
+}

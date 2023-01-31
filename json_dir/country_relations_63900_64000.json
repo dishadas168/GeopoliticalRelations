@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/uk-eu-referendum_us_575373b7e4b0ed593f14ab24",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/switzerland-basic-income_us_575450a9e4b0eb20fa0e38dc",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/news.vice.com\/article\/edward-snowden-leaks-tried-to-tell-nsa-about-surveillance-concerns-exclusive"
+  },
+  "headline":{
+    "0":"UK 'Remain' Camp's Lead Narrows Before EU Referendum: Poll",
+    "1":"Swiss Reject Plan To Give Themselves A Guaranteed Basic Income",
+    "2":"Snowden Tried To Tell NSA About Surveillance Concerns, Documents Reveal"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The United Kingdom is holding a referendum on June 23 to decide whether Britain should leave or stay in the European Union.",
+    "1":"The radical proposal drew international attention.",
+    "2":"On the morning of May 29, 2014, an overcast Thursday in Washington, DC, the general counsel of the Office of the Director"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2016-06-05 00:00:00",
+    "1":"2016-06-05 00:00:00",
+    "2":"2016-06-04 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"che",
+    "2":"usaopp"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"che",
+    "2":"usaspy"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"031",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":5.2,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "united kingdom",
+      "gbr",
+      "united",
+      "kingdom",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ],
+    "1":[
+      "swiss",
+      "che",
+      "switzerland"
+    ],
+    "2":[
+      "snowden",
+      "usaopp",
+      "edward",
+      "snowden",
+      "nsa",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "1":[
+      "swiss",
+      "swiss"
+    ],
+    "2":[
+      "snowden",
+      "nsa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "1":[
+      "switzerland",
+      "switzerland"
+    ],
+    "2":[
+      "edward snowden",
+      "us intelligence community"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "plan ... give"
+    ],
+    "2":[
+      "tried ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "gbr",
+      "030"
+    ],
+    "1":[
+      "che",
+      "che",
+      "031"
+    ],
+    "2":[
+      "usaopp",
+      "usaspy",
+      "010"
+    ]
+  }
+}

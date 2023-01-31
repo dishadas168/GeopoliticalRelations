@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/celebration-and-destruction_b_7002758.html"
+  },
+  "headline":{
+    "0":"Celebration and Destruction"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"The peaceful transition to a new administration not only ensured the stability and growth of Nigeria's democratic system, but sets a shining example for the rest of the world. Nigerians should be very proud."
+  },
+  "authors":{
+    "0":"Margee Ensign, ContributorPresident, the American University of Nigeria (AUN)"
+  },
+  "date":{
+    "0":"2015-04-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"nga"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "nigeria",
+      "nga",
+      "nigeria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "nigeria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "nigeria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sets <ensured>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "nga",
+      "030"
+    ]
+  }
+}

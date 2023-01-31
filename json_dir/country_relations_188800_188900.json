@@ -1,0 +1,84 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/libor-investigation-justice-department_us_5bb2c9cde4b0480ca65c144e"
+  },
+  "headline":{
+    "0":"LIBOR Investigation: Justice Department Building Criminal Cases Against Barclays, Others"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Investigators in Washington and London last month struck a $450 million settlement with Barclays in a rate-rigging case, but"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "washington",
+      "london",
+      "usa",
+      "gbr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "kingdom",
+      "settlement",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "washington",
+      "settlement",
+      "london",
+      "settlement"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "united kingdom",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "struck",
+      "struck"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "190",
+      "gbr",
+      "---cvl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/lifeandstyle\/womens-blog\/2016\/mar\/21\/travelling-alone-risky-women-sexist-attitudes",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/general-mills-will-start-labeling-its-gmo-products-this-summer_us_56f003d7e4b084c67220cb94",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/eu-base-mali-attacked_us_56f04e1be4b09bf44a9e1c4f"
+  },
+  "headline":{
+    "0":"Why Is Traveling Alone Still Considered A Risky, Frivolous Pursuit For Women?",
+    "1":"General Mills Will Start Labeling Its GMO Products This Summer",
+    "2":"Gunmen Attack EU Military Training Base In Mali"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"HEALTHY LIVING",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Women around the world have spoken out about their experiences of traveling after two young Argentinian women, Mar\u00eda Coni",
+    "1":"Vermont's new law forced General Mills to change its labeling standards for everyone.",
+    "2":"BAMAKO, March 21 (Reuters) - Unidentified gunmen attacked a hotel in Mali's capital Bamako on Monday that had been converted"
+  },
+  "authors":{
+    "0":"",
+    "1":"Lisa Baertlein, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2016-03-21 00:00:00",
+    "1":"2016-03-21 00:00:00",
+    "2":"2016-03-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---reb"
+  },
+  "actor2":{
+    "0":"argcvl",
+    "1":"mncusa",
+    "2":"mli"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "argentinian",
+      "women",
+      "argcvl",
+      "argentina",
+      "~"
+    ],
+    "1":[
+      "vermont",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "general mills",
+      "mncusa",
+      "general",
+      "mills"
+    ],
+    "2":[
+      "unidentified gunmen",
+      "~reb",
+      "~",
+      "mali",
+      "bamako",
+      "mli",
+      "mli",
+      "mali",
+      "mali"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "argentinian women"
+    ],
+    "1":[
+      "vermont",
+      "general mills"
+    ],
+    "2":[
+      "unidentified gunmen",
+      "mali"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "argentina"
+    ],
+    "1":[
+      "united states of america",
+      "general mills"
+    ],
+    "2":[
+      "---",
+      "mali"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have spoken"
+    ],
+    "1":[
+      "forced"
+    ],
+    "2":[
+      "attacked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "argcvl",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "mncusa",
+      "170"
+    ],
+    "2":[
+      "---reb",
+      "mli",
+      "190",
+      "---reb",
+      "mli",
+      "190"
+    ]
+  }
+}

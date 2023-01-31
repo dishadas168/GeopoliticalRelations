@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/social-media-kids_us_5b9d0fcfe4b03a1dcc8429ec"
+  },
+  "headline":{
+    "0":"Social Media May Make Kids More Likely To Value Fame: Survey"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Which means, Uhls said, that children not only watch TV shows that value fame, they also engage in fame-seeking behaviors"
+  },
+  "authors":{
+    "0":"Catherine Pearson"
+  },
+  "date":{
+    "0":"2013-04-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "tv"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "watch"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/mira-sorvino-paul-sorvino-twitter-tribute_n_62def5c2e4b000da2403243a",
+    "1":"https:\/\/www.huffpost.com\/entry\/indiana-mall-shooting-food-court_n_62d4af0be4b0116f21bd36e7"
+  },
+  "headline":{
+    "0":"Mira Sorvino Offers Sweet Tribute To Actor Dad Paul Sorvino",
+    "1":"4 Killed After Gunman Opens Fire In Indiana Mall Food Court"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Oscar-winning actor said on social media that \u201cHe was the most wonderful father.\"",
+    "1":"Police said a man with a rifle opened fire in a food court and an armed civilian shot him. 2 others were injured."
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Associated Press, AP"
+  },
+  "date":{
+    "0":"2022-07-25 00:00:00",
+    "1":"2022-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---cop"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "court",
+      "civilian",
+      "~judcvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "media"
+    ],
+    "1":[
+      "police",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---cop",
+      "---ppl",
+      "010"
+    ]
+  }
+}

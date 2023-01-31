@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-afghanistan-strategy-obama_us_599b79d6e4b0771ecb06b421",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/beyond-rooftops-states-move-to-encourage-community_us_599b0d70e4b03b5e472cf197"
+  },
+  "headline":{
+    "0":"Trump\u2019s Vague New Afghanistan Strategy Continues An Endless War",
+    "1":"Beyond Rooftops: States Move To Encourage Community Solar"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president says he will no longer disclose how many troops will be deployed.",
+    "1":"Community solar can drastically expand the base of people and business that can access solar power. But regulating the evolving"
+  },
+  "authors":{
+    "0":"Jessica Schulberg",
+    "1":"Stateline, ContributorStateline provides daily reporting and analysis on trends in s..."
+  },
+  "date":{
+    "0":"2017-08-22 00:00:00",
+    "1":"2017-08-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"154",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-7.2,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "troops",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "community",
+      "~cvl",
+      "~",
+      "people",
+      "business",
+      "~bus",
+      "~",
+      "~",
+      "people",
+      "business",
+      "~bus",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "troops"
+    ],
+    "1":[
+      "community",
+      "people ... business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... will ... disclose <~mil> ... deployed <&military>"
+    ],
+    "1":[
+      "can ... expand"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "renewable_energy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---mil",
+      "154"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "060"
+    ]
+  }
+}

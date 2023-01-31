@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/life-lessons_us_5b9de183e4b03a1dcc8e15bb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/keystone-xl-protest_us_5bb1517be4b09bbe9a5e73aa"
+  },
+  "headline":{
+    "0":"5 Killer Life Coach Questions You Can Ask Yourself",
+    "1":"Hundreds of Students Arrested at White House Protesting Keystone XL"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The answers are within us. We have everything we need to create the lives we want. An old proverb says, \"The best time to plant a tree is 20 years ago. The second-best time is now.\" Get busy now sowing the seeds of the life you want to flourish over the coming years.",
+    "1":"I just came back from the White House, where the police are still arresting the hundreds of students who are taking part in what will likely be the largest act of youth civil disobedience at the White House in a generation."
+  },
+  "authors":{
+    "0":"Susie Moore, Contributor\nBest Selling Author, Life Coach",
+    "1":"Jamie Henn, Contributor\nCo-founder and Strategic Communications Director, 350.org and ..."
+  },
+  "date":{
+    "0":"2014-03-02 00:00:00",
+    "1":"2014-03-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm",
+    "1":"---cop"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "killer",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "killer",
+      "killer"
+    ],
+    "1":[
+      "police",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ask"
+    ],
+    "1":[
+      "are <police> ... arresting"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "---crm",
+      "020"
+    ],
+    "1":[
+      "---cop",
+      "---edu",
+      "173"
+    ]
+  }
+}

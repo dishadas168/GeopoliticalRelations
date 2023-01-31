@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sugata-mitra-spelling_us_5b9d67b4e4b03a1dcc87a127"
+  },
+  "headline":{
+    "0":"Professor Sugata Mitra On Teaching Spelling And Grammar: Phones Have Made It Unnecessary"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"That is why employers bemoan the poor literacy of so many school and college leavers,\" she said. \"This new test will mean"
+  },
+  "authors":{
+    "0":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2013-08-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "employers",
+      "~bus",
+      "~",
+      "the poor",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employers",
+      "the poor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bemoan"
+    ]
+  },
+  "issues":{
+    "0":[
+      "literacy",
+      "1",
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "110"
+    ]
+  }
+}

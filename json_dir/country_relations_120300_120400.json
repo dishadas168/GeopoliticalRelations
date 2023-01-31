@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nj-cities-working-togethe_b_5648391.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-jury-of-my-peers-the-as_b_5648268.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/michael-oren-israel-_n_5648548.html"
+  },
+  "headline":{
+    "0":"Why NJ Cities Are Working Together",
+    "1":"A Jury of My Peers: The Aspen Action Workshop",
+    "2":"Former Israeli Ambassador Suddenly Can't Hear MSNBC When Asked About Spying On John Kerry"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"IMPACT",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Crime recognizes few boundaries - urban or suburban. That's why it's so important to have police departments cooperate as regional crime fighters, especially to slow the movement of guns and drugs. But fighting crime is more than just good police work.",
+    "1":"The most important message I received during the workshop was how deeply the people in the room believed that providing savings accounts to children was a necessary and effective approach to increasing educational and economic opportunity.",
+    "2":""
+  },
+  "authors":{
+    "0":"Steven Fulop, ContributorMayor of Jersey City, New Jersey",
+    "1":"Andrea Levere, ContributorPresident, Corporation for Enterprise Development",
+    "2":"Samantha Lachman"
+  },
+  "date":{
+    "0":"2014-08-04 00:00:00",
+    "1":"2014-08-04 00:00:00",
+    "2":"2014-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---ppl",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"---cvl",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"060",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":6.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "fighters",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "ambassador",
+      "~gov",
+      "~",
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "fighters"
+    ],
+    "1":[
+      "people",
+      "children"
+    ],
+    "2":[
+      "ambassador",
+      "john kerry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "john kerry"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "cooperate"
+    ],
+    "1":[
+      "believed ... providing"
+    ],
+    "2":[
+      "ca ... hear ... asked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---uaf",
+      "050"
+    ],
+    "1":[
+      "---ppl",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "usagov",
+      "020"
+    ]
+  }
+}

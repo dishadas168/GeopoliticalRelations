@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/im-not-there-yet_b_5419624.html"
+  },
+  "headline":{
+    "0":"'I'm Not There Yet'"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"A recently retired interim police chief in Seattle replied, \"I'm not there yet\" when asked by a local reporter whether he could support an end to drug prohibition. As these leaders continue to dither, we will continue to experience a steady stream of exasperating, heartbreaking incidents."
+  },
+  "authors":{
+    "0":"Norm Stamper, Contributor34-year veteran police officer who retired as Seattle's chief ..."
+  },
+  "date":{
+    "0":"2014-05-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police chief",
+      "usacop",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police chief",
+      "reporter"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "replied ... asked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---med",
+      "020"
+    ]
+  }
+}

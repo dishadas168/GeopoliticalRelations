@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-afghanistan-hospital-bombing_us_561139b1e4b0af3706e11d17",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-claims-air-strikes-hit-10-isis-targets-in-syria_us_56110c6be4b0af3706e1197e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-claims-air-strikes-hit-10-isis-targets-in-syria_us_56110c6be4b0af3706e1197e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/doctors-without-borders-demands-investigation-of-afghan-hospital-airstrike_us_56114bd7e4b0af3706e12115",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/oregon-shooter-asked-about-religion_us_56103b22e4b0dd85030c4feb"
+  },
+  "headline":{
+    "0":"John McCain Blames Hospital Bombing Partly On U.S. Withdrawal From Afghanistan",
+    "1":"Russia Claims Air Strikes Hit 10 ISIS Targets In Syria",
+    "2":"Russia Claims Air Strikes Hit 10 ISIS Targets In Syria",
+    "3":"Doctors Without Borders Demands Investigation Of Afghan Hospital Airstrike",
+    "4":"Oregon Shooter Asked About Religion, Another Survivor Attests"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"He suggested the tragedy could have been avoided with more U.S. involvement.",
+    "1":"The Russian defense ministry says it hit a terrorist training camp and a suicide belt factory.",
+    "2":"The Russian defense ministry says it hit a terrorist training camp and a suicide belt factory.",
+    "3":"KABUL, Oct 4 (Reuters) - Medical aid group Medecins Sans Frontieres (MSF) on Sunday demanded an independent international",
+    "4":"Cheyenne Fitzgerald's recollection is consistent with other witnesses' accounts."
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Polina Devitt, Reuters",
+    "2":"Polina Devitt, Reuters",
+    "3":"",
+    "4":"Andy Campbell and Daniel Marans"
+  },
+  "date":{
+    "0":"2015-10-04 00:00:00",
+    "1":"2015-10-04 00:00:00",
+    "2":"2015-10-04 00:00:00",
+    "3":"2015-10-04 00:00:00",
+    "4":"2015-10-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"rus",
+    "2":"---gov",
+    "3":"---hlh",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"afg",
+    "1":"imgmusisi",
+    "2":"---uaf",
+    "3":"afghlh",
+    "4":"---rel"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"190",
+    "2":"015",
+    "3":"1014",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":null,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "ministry",
+      "~gov",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "doctors",
+      "~hlh",
+      "~",
+      "afghan",
+      "hospital",
+      "afghlh",
+      "afghanistan",
+      "~"
+    ],
+    "4":[
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "religion",
+      "~rel",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john mccain",
+      "afghanistan"
+    ],
+    "1":[
+      "russia",
+      "isis"
+    ],
+    "2":[
+      "ministry",
+      "terrorist"
+    ],
+    "3":[
+      "doctors",
+      "afghan hospital"
+    ],
+    "4":[
+      "oregon",
+      "religion"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john mccain",
+      "afghanistan"
+    ],
+    "1":[
+      "russian federation",
+      "the islamic state"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "afghanistan"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blames"
+    ],
+    "1":[
+      "strikes hit"
+    ],
+    "2":[
+      "says ... hit"
+    ],
+    "3":[
+      "demands <&investigation>"
+    ],
+    "4":[
+      "asked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":[
+      "terror",
+      "1"
+    ],
+    "3":[
+      "airstrike",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "afg",
+      "112"
+    ],
+    "1":[
+      "rus",
+      "imgmusisi",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "---uaf",
+      "015"
+    ],
+    "3":[
+      "---hlh",
+      "afghlh",
+      "1014"
+    ],
+    "4":[
+      "usa",
+      "---rel",
+      "020"
+    ]
+  }
+}

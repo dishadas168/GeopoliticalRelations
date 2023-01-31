@@ -1,0 +1,323 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/costa-rica-plane-crash_us_5a49474ee4b06d1621b9a206",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-supports-iran-protests_us_5a481ac6e4b06d1621b938eb",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/nigerian-prince-email-scam-louisiana-man_us_5a47cf97e4b0b0e5a7a6e121",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/us-military-transgender-troops_us_5a469718e4b0b0e5a7a6637b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-palestinians-protest_us_5a4655fae4b025f99e1af876",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/cops-suspended-mom-found-dead_us_5a45ad38e4b0b0e5a7a5b9d2",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/arizona-cant-ban-mexican-american-studies-anymore-judge-says_us_5a442f28e4b025f99e199496"
+  },
+  "headline":{
+    "0":"New York Family Of 5 Among 12 Killed In Costa Rica Plane Crash",
+    "1":"Donald Trump Heats Up\u00a0Feud\u00a0With Iran By Praising Anti-Government Protests",
+    "2":"Alleged 'Nigerian Prince' Email Scammer Arrested In Louisiana",
+    "3":"U.S. Military Set To Allow Recruitment Of Trans People Despite Trump's Wishes",
+    "4":"Thousands Of Palestinians Protest Trump",
+    "5":"NYPD Officers Suspended After Witnesses Say They Didn't Check On Woman Later Found Dead",
+    "6":"Arizona Can't Ban Mexican-American Studies Anymore, Judge Says"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"QUEER VOICES",
+    "4":"WORLD NEWS",
+    "5":"CRIME",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"A family of 4 from Florida also perished Sunday when a Nature Air flight crashed into a mountain.",
+    "1":"Iranian officials call Trump's support of protesters in the country \"deceitful\" and \"opportunist.\"",
+    "2":"He does not appear to be Nigerian or a prince.",
+    "3":"The president attempted in July to impose a ban on transgender troops.",
+    "4":"Protesters took to the streets of Gaza and the West Bank for a fourth day in a row.",
+    "5":"The victim's 2-year-old daughter was later discovered crying near her mother's body.",
+    "6":"The permanent injunction follows a two-week bench trial that found Republican-backed ethnic studies restrictions unconstitutional."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Carla Herreria",
+    "2":"Hilary Hanson",
+    "3":"Sebastian Murdock",
+    "4":"Jonathan Allen, Reuters",
+    "5":"Mary Papenfuss",
+    "6":"Roque Planas"
+  },
+  "date":{
+    "0":"2017-12-31 00:00:00",
+    "1":"2017-12-31 00:00:00",
+    "2":"2017-12-30 00:00:00",
+    "3":"2017-12-29 00:00:00",
+    "4":"2017-12-29 00:00:00",
+    "5":"2017-12-29 00:00:00",
+    "6":"2017-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"nga",
+    "3":"---gov",
+    "4":"---opp",
+    "5":"---cvl",
+    "6":"usa"
+  },
+  "actor2":{
+    "0":"cri",
+    "1":"irn",
+    "2":"usa",
+    "3":"---mil",
+    "4":"pse",
+    "5":"---cvl",
+    "6":"mex"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"041",
+    "2":"173",
+    "3":"170",
+    "4":"171",
+    "5":"110",
+    "6":"172"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":-5.0,
+    "3":-7.0,
+    "4":-9.2,
+    "5":-2.0,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "costa rica",
+      "cri",
+      "costa",
+      "rica"
+    ],
+    "1":[
+      "iranian",
+      "irn",
+      "iran",
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "nigerian",
+      "nga",
+      "nigeria",
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "troops",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "protesters",
+      "~opp",
+      "~",
+      "gaza",
+      "psegza",
+      "gaza",
+      "west bank",
+      "pse",
+      "palestine"
+    ],
+    "5":[
+      "victim",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "6":[
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mexican",
+      "american",
+      "mex",
+      "usa",
+      "mexico",
+      "united",
+      "states",
+      "of",
+      "america",
+      "judge",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "new york",
+      "costa rica"
+    ],
+    "1":[
+      "protesters",
+      "iranian",
+      "iranian",
+      "protesters"
+    ],
+    "2":[
+      "nigerian",
+      "louisiana"
+    ],
+    "3":[
+      "president",
+      "troops"
+    ],
+    "4":[
+      "protesters",
+      "west bank"
+    ],
+    "5":[
+      "victim",
+      "victim"
+    ],
+    "6":[
+      "arizona",
+      "mexican",
+      "arizona",
+      "arizona"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "costa rica"
+    ],
+    "1":[
+      "---",
+      "iran",
+      "iran",
+      "---"
+    ],
+    "2":[
+      "nigeria",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "palestine"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "mexico",
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ],
+    "1":[
+      "call",
+      "call"
+    ],
+    "2":[
+      "arrested"
+    ],
+    "3":[
+      "attempted ... impose"
+    ],
+    "4":[
+      "took"
+    ],
+    "5":[
+      "was ... crying"
+    ],
+    "6":[
+      "ca ... ban",
+      "ca ... ban"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "lgbt",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "cri",
+      "190"
+    ],
+    "1":[
+      "---opp",
+      "irn",
+      "041",
+      "irn",
+      "---opp",
+      "041"
+    ],
+    "2":[
+      "nga",
+      "usa",
+      "173"
+    ],
+    "3":[
+      "---gov",
+      "---mil",
+      "170"
+    ],
+    "4":[
+      "---opp",
+      "pse",
+      "171"
+    ],
+    "5":[
+      "---cvl",
+      "---cvl",
+      "110"
+    ],
+    "6":[
+      "usa",
+      "mex",
+      "172",
+      "usa",
+      "usa",
+      "172"
+    ]
+  }
+}

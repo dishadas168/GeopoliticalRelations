@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jetblue-flying-it-forward_n_6735524.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/five-questions-for-lavern_b_6738648.html"
+  },
+  "headline":{
+    "0":"JetBlue Gives Passengers Free Flights, Just For Being Nice",
+    "1":"Five Questions for LaVerne Evans Srinivasan"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"EDUCATION"
+  },
+  "short_description":{
+    "0":"",
+    "1":"LaVerne Evans Srinivasan, the new Vice President of Education Programs at Carnegie Corporation of New York, speaks with Deanna Lee, the Corporation's Chief Communications and Digital Strategies Officer, about finding inspiration and innovation."
+  },
+  "authors":{
+    "0":"Suzy Strutner",
+    "1":"Carnegie Corporation of New York, ContributorPhilanthropic foundation focused on Andrew Carnegie's prioriti..."
+  },
+  "date":{
+    "0":"2015-02-24 00:00:00",
+    "1":"2015-02-24 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usabus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"046"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "jetblue",
+      "mncusa",
+      "jetblue",
+      "passengers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "corporation",
+      "usabus",
+      "~",
+      "corporation",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jetblue",
+      "passengers"
+    ],
+    "1":[
+      "corporation",
+      "corporation",
+      "corporation",
+      "corporation"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jetblue",
+      "---"
+    ],
+    "1":[
+      "---",
+      "",
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "speaks with",
+      "speaks with"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---bus",
+      "usabus",
+      "046",
+      "usabus",
+      "---bus",
+      "046"
+    ]
+  }
+}

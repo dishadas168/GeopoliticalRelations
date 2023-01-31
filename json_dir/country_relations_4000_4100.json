@@ -1,0 +1,362 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/louis-dejoy-postmaster-donations-gop_n_5f55a5cfc5b6946f3eb4081e",
+    "1":"https:\/\/www.huffpost.com\/entry\/ron-johnson-citizen-soldiers-vigilantes_n_5f4d8bdcc5b697186e3a14d3",
+    "2":"https:\/\/www.huffpost.com\/entry\/pakistan-karachi-monsoon-flooding_n_5f4a6bfdc5b6cf66b2b8a656",
+    "3":"https:\/\/www.huffpost.com\/entry\/hurricane-laura-texas-louisiana-no-power-water_n_5f4ab220c5b6cf66b2b8d224",
+    "4":"https:\/\/www.huffpost.com\/entry\/mom-creates-alphabet-poster-to-teach-kids-about-racism_l_5f47efbac5b64f17e13a7110",
+    "5":"https:\/\/www.huffpost.com\/entry\/trump-disaster-response-red-vs-blue_n_5f47fa1bc5b6cf66b2b4d29c",
+    "6":"https:\/\/www.huffpost.com\/entry\/morning-joe-host-scarborough-melania-trump-shameless_n_5f468527c5b6cf66b2b1a8a8",
+    "7":"https:\/\/www.huffpost.com\/entry\/covid-reopening-states_n_5f42b2d9c5b6763e5dc49b54"
+  },
+  "headline":{
+    "0":"Louis DeJoy Reportedly Pressured Former Employees To Donate To GOP, Then Reimbursed Them",
+    "1":"GOP Sen. Ron Johnson Touts 'Citizen Soldiers' To 'Overwhelm Rioters'",
+    "2":"Monsoon Rains Wreak Havoc Across Pakistan, Killing At Least 63 People",
+    "3":"Weeks Without Power Or Water Lie Ahead As Laura Cleanup Begins",
+    "4":"Mom Creates ABC Poster To Teach Kids About Race And Privilege",
+    "5":"During Disasters, Red States Get The Red Carpet. Blue States Get Threats.",
+    "6":"'Morning Joe' Host Gets Personal, Calls Melania Trump 'Absolutely Shameless'",
+    "7":"Emails Show Businesses Held Sway Over State Reopening Plans"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"U.S. NEWS",
+    "4":"PARENTING",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cWhen we got our bonuses, let\u2019s just say they were bigger, they exceeded expectations,\" a former employee told The Washington Post.",
+    "1":"Two protesters were killed in Kenosha because \"citizens took matters into their own hands,\" the Wisconsin senator told CNN's Dana Bash.",
+    "2":"Major flooding and widespread power outages have hit the coastal city of Karachi as authorities scramble to evacuate residents.",
+    "3":"President Trump toured the damage in Louisiana and Texas on Saturday as the death toll from the hurricane rose to 16.",
+    "4":"This Portland mom designed a poster that she hopes will help parents and teachers educate children about racism, allyship and more.",
+    "5":"The California wildfires and Hurricane Laura highlight the disparities in the Trump administration\u2019s disaster responses.",
+    "6":"MSNBC's Joe Scarborough wondered why the first lady didn't criticize the president when she called for civility during her speech at the RNC.",
+    "7":"A review of thousands of pages of emails showed how industries pressured governors to reopen the economy in spite of COVID-19."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"Mary Papenfuss",
+    "2":"Muhammad Farooq, AP",
+    "3":"Gerald Herbert and Nomaan Merchant, AP",
+    "4":"Brittany Wong",
+    "5":"Chris D'Angelo",
+    "6":"David Moye",
+    "7":"David A. Lieb, AP"
+  },
+  "date":{
+    "0":"2020-09-07 00:00:00",
+    "1":"2020-09-01 00:00:00",
+    "2":"2020-08-29 00:00:00",
+    "3":"2020-08-29 00:00:00",
+    "4":"2020-08-28 00:00:00",
+    "5":"2020-08-27 00:00:00",
+    "6":"2020-08-26 00:00:00",
+    "7":"2020-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"---leg",
+    "2":"pak",
+    "3":"---gov",
+    "4":"usa",
+    "5":"usa",
+    "6":"---eli",
+    "7":"---bus"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"med",
+    "2":"---ppl",
+    "3":"usa",
+    "4":"---edu",
+    "5":"---gov",
+    "6":"---gov",
+    "7":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"190",
+    "3":"040",
+    "4":"070",
+    "5":"010",
+    "6":"111",
+    "7":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":1.0,
+    "4":7.0,
+    "5":0.0,
+    "6":-2.0,
+    "7":-7.0
+  },
+  "nouns":{
+    "0":[
+      "employee",
+      "~lab",
+      "~",
+      "washington post",
+      "med",
+      "washington",
+      "post"
+    ],
+    "1":[
+      "protesters",
+      "~opp",
+      "~",
+      "senator",
+      "~leg",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "2":[
+      "pakistan",
+      "pak",
+      "pakistan",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "louisiana",
+      "texas",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "portland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "portland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "teachers",
+      "~edu",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "first lady",
+      "~eli",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "7":[
+      "industries",
+      "~bus",
+      "~",
+      "governors",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employee",
+      "washington post"
+    ],
+    "1":[
+      "senator",
+      "cnn"
+    ],
+    "2":[
+      "pakistan",
+      "people"
+    ],
+    "3":[
+      "president",
+      "louisiana"
+    ],
+    "4":[
+      "portland",
+      "teachers"
+    ],
+    "5":[
+      "california",
+      "administration"
+    ],
+    "6":[
+      "first lady",
+      "president"
+    ],
+    "7":[
+      "industries",
+      "governors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "washington post"
+    ],
+    "1":[
+      "---",
+      "cnn"
+    ],
+    "2":[
+      "pakistan",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "killing"
+    ],
+    "3":[
+      "toured"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "highlight"
+    ],
+    "6":[
+      "did ... criticize"
+    ],
+    "7":[
+      "pressured"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "natural_disaster",
+      "1"
+    ],
+    "3":[
+      "natural_disaster",
+      "1"
+    ],
+    "4":[
+      "teachers",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "5":[
+      "natural_disaster",
+      "2"
+    ],
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---leg",
+      "med",
+      "010"
+    ],
+    "2":[
+      "pak",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "040",
+      "---gov",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "usa",
+      "---edu",
+      "070"
+    ],
+    "5":[
+      "usa",
+      "---gov",
+      "010"
+    ],
+    "6":[
+      "---eli",
+      "---gov",
+      "111"
+    ],
+    "7":[
+      "---bus",
+      "---gov",
+      "170"
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/north-korea-wont-surrender-us-sanctions_n_5d1325f0e4b0a394186afd8a",
+    "1":"https:\/\/www.huffpost.com\/entry\/jeffrey-epstein-plea-deal-upheld_n_5d1229f6e4b07ae90da437e9",
+    "2":"https:\/\/www.huffpost.com\/entry\/south-bend-bar-shooting-pete-buttigieg-town-hall_n_5d0fa7eae4b0aa375f4e4a64",
+    "3":"https:\/\/www.huffpost.com\/entry\/crash-randolph-new-hampshire_n_5d0dfa10e4b07ae90d9da098",
+    "4":"https:\/\/www.huffpost.com\/entry\/philadelphia-oil-refinery-fire_n_5d0ca6ace4b07ae90d9b6859",
+    "5":"https:\/\/www.huffpost.com\/entry\/netherlands-malaysia-airlines-mh17-suspects_n_5d0a1c1ee4b06ad4d25909e1",
+    "6":"https:\/\/www.huffpost.com\/entry\/jonathan-aledda-acquitted-attempted-manslaughter_n_5d08d609e4b0ea7c4a4fb119",
+    "7":"https:\/\/www.huffpost.com\/entry\/israel-golan-heights-trump_n_5d06b855e4b0985c419fa6d0",
+    "8":"https:\/\/www.huffpost.com\/entry\/notre-dame-first-mass-hard-hats_n_5d061b0fe4b0dc17ef0b4880",
+    "9":"https:\/\/www.huffpost.com\/entry\/massachusetts-attorney-general-boston-museum-fine-arts-racism_n_5d02b73ee4b0985c419a645d",
+    "10":"https:\/\/www.huffpost.com\/entry\/thousands-of-protesters-take-to-hong-kong-streets-against-extradition-law_n_5cfd2a65e4b02ee34778b27b"
+  },
+  "headline":{
+    "0":"North Korea Says It Won't 'Surrender' To U.S.-Led Sanctions",
+    "1":"Jeffrey Epstein's Unusually Light Plea Deal Must Stand, Justice Department Says",
+    "2":"South Bend Shooting Occurs On Day Of Pete Buttigieg\u2019s Event On Officer-Involved Shooting",
+    "3":"7 Dead After Motorcycles And Pickup Truck Collide In Randolph, New Hampshire",
+    "4":"Massive Fire Erupts At Oil Refinery In South Philadelphia",
+    "5":"Netherlands To Prosecute Suspects In Malaysia Airlines Flight MH17 Airliner Downing",
+    "6":"Florida Cop Acquitted Of Attempted Manslaughter In Shooting Of Unarmed Caretaker",
+    "7":"Israel Announces Golan Heights Settlement To Be Named After Trump",
+    "8":"Worshippers In Hard-Hats Attend First Mass At Notre-Dame Since Blaze",
+    "9":"Massachusetts Attorney General Probes Racism Allegations Against Boston Museum",
+    "10":"Thousands Of Protesters Take To Hong Kong Streets Against Extradition Law"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"U.S. NEWS",
+    "2":"U.S. NEWS",
+    "3":"U.S. NEWS",
+    "4":"U.S. NEWS",
+    "5":"WORLD NEWS",
+    "6":"U.S. NEWS",
+    "7":"WORLD NEWS",
+    "8":"WORLD NEWS",
+    "9":"U.S. NEWS",
+    "10":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The country accused Washington of harboring a \"wild dream ... to bring us to our knees.\"",
+    "1":"Some of his victims still want their day in court.",
+    "2":"The violence unfolded the same day the 2020 presidential candidate was set to address a different deadly shooting in the Indiana city that occurred last week.",
+    "3":"Police said a 2016 Dodge 2500 pickup truck collided with several riders on U.S. 2 on Friday evening.",
+    "4":"No evacuations were ordered, but firefighters asked nearby residents to shelter in place.",
+    "5":"Three Russians and a Ukrainian face murder charges for the downing of flight MH17 over eastern Ukraine in 2014, in which 298 people were killed.",
+    "6":"Jonathan Aledda allegedly tried to shoot an autistic man holding a toy he mistook for a gun. He hit the man's therapist instead.",
+    "7":"Israeli Prime Minister Benjamin Netanyahu unveiled a sign Sunday calling a settlement in the disputed Golan Heights territory \"Trump Heights.\"",
+    "8":"Several priests and a small congregation gathered at the Paris cathedral on Saturday.",
+    "9":"A teacher accused staffers at the Boston Museum of Fine Arts of racially profiling her students during a field trip.",
+    "10":"Protesters oppose the government-backed legislation that would allow people to be extradited to mainland China to face charges."
+  },
+  "authors":{
+    "0":"",
+    "1":"Sara Boboltz",
+    "2":"Amy Russo",
+    "3":"",
+    "4":"",
+    "5":"",
+    "6":"Reuters\/HuffPost, Reuters",
+    "7":"Sanjana Karanth",
+    "8":"",
+    "9":"Amy Russo",
+    "10":"Christopher Bodeen, AP"
+  },
+  "date":{
+    "0":"2019-06-26 00:00:00",
+    "1":"2019-06-25 00:00:00",
+    "2":"2019-06-23 00:00:00",
+    "3":"2019-06-22 00:00:00",
+    "4":"2019-06-21 00:00:00",
+    "5":"2019-06-19 00:00:00",
+    "6":"2019-06-18 00:00:00",
+    "7":"2019-06-16 00:00:00",
+    "8":"2019-06-16 00:00:00",
+    "9":"2019-06-14 00:00:00",
+    "10":"2019-06-09 00:00:00"
+  },
+  "actor1":{
+    "0":"prk",
+    "1":"---cvl",
+    "2":"---pty",
+    "3":"---cop",
+    "4":"---gov",
+    "5":"ukr",
+    "6":"shaftoe_",
+    "7":"isrgov",
+    "8":"---rel",
+    "9":"---edu",
+    "10":"---opp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"usa",
+    "3":"usa",
+    "4":"---cvl",
+    "5":"ukr",
+    "6":"---ppl",
+    "7":"---cvl",
+    "8":"fra",
+    "9":"usa",
+    "10":"hkg"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"030",
+    "2":"010",
+    "3":"010",
+    "4":"020",
+    "5":"112",
+    "6":"190",
+    "7":"041",
+    "8":"040",
+    "9":"112",
+    "10":"171"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":4.0,
+    "2":0.0,
+    "3":0.0,
+    "4":3.0,
+    "5":-2.0,
+    "6":-10.0,
+    "7":1.0,
+    "8":1.0,
+    "9":-2.0,
+    "10":-9.2
+  },
+  "nouns":{
+    "0":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "presidential candidate",
+      "~pty",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "firefighters",
+      "~gov",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "ukrainian",
+      "ukr",
+      "ukraine",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "6":[
+      "jonathan",
+      "shaftoe_",
+      "jonathan",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "7":[
+      "benjamin netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "settlement",
+      "~cvl",
+      "~"
+    ],
+    "8":[
+      "priests",
+      "~rel",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "9":[
+      "teacher",
+      "~edu",
+      "~",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "10":[
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "hong kong",
+      "hkg",
+      "hong",
+      "kong"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north korea",
+      "u.s."
+    ],
+    "1":[
+      "victims",
+      "court"
+    ],
+    "2":[
+      "presidential candidate",
+      "indiana"
+    ],
+    "3":[
+      "police",
+      "u.s."
+    ],
+    "4":[
+      "firefighters",
+      "residents"
+    ],
+    "5":[
+      "ukrainian",
+      "ukrainian"
+    ],
+    "6":[
+      "jonathan",
+      "man"
+    ],
+    "7":[
+      "benjamin netanyahu",
+      "settlement"
+    ],
+    "8":[
+      "priests",
+      "paris"
+    ],
+    "9":[
+      "teacher",
+      "boston"
+    ],
+    "10":[
+      "protesters",
+      "hong kong"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "north korea",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "ukraine",
+      "ukraine"
+    ],
+    "6":[
+      "jonathan",
+      "---"
+    ],
+    "7":[
+      "benjamin netanyahu",
+      "---"
+    ],
+    "8":[
+      "---",
+      "france"
+    ],
+    "9":[
+      "---",
+      "united states of america"
+    ],
+    "10":[
+      "---",
+      "hong kong"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... wo ... surrender"
+    ],
+    "1":[
+      "want"
+    ],
+    "2":[
+      "was ... address"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "asked"
+    ],
+    "5":[
+      "charges"
+    ],
+    "6":[
+      "tried ... shoot"
+    ],
+    "7":[
+      "unveiled ... calling"
+    ],
+    "8":[
+      "gathered"
+    ],
+    "9":[
+      "accused"
+    ],
+    "10":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "10":null
+  },
+  "events":{
+    "0":[
+      "prk",
+      "usa",
+      "08"
+    ],
+    "1":[
+      "---cvl",
+      "---jud",
+      "030"
+    ],
+    "2":[
+      "---pty",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---cop",
+      "usa",
+      "010"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "020"
+    ],
+    "5":[
+      "ukr",
+      "ukr",
+      "112"
+    ],
+    "6":[
+      "shaftoe_",
+      "---ppl",
+      "190"
+    ],
+    "7":[
+      "isrgov",
+      "---cvl",
+      "041"
+    ],
+    "8":[
+      "---rel",
+      "fra",
+      "040"
+    ],
+    "9":[
+      "---edu",
+      "usa",
+      "112"
+    ],
+    "10":[
+      "---opp",
+      "hkg",
+      "171"
+    ]
+  }
+}

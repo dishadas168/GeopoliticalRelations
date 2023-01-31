@@ -1,0 +1,268 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/justice-department-arizona_us_5702b720e4b083f5c6085933",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/eu-migrant-deportations_us_5701f2d9e4b0daf53af0003e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/greece-evacuating-idomeni-border-camp_us_570297a8e4b083f5c60835b8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-email-fbi_us_57011b5ae4b083f5c607eec9",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/-terrorist-wears-prada_b_9601994.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/the-dawn-of-personalisati_b_9606574.html"
+  },
+  "headline":{
+    "0":"The DOJ Is Investigating Arizona's Election Mess",
+    "1":"EU Launches Operation To Deport Migrants To Turkey",
+    "2":"Greek Authorities Prepare To Evacuate Crowded Migrant Camp",
+    "3":"Hillary Clinton Says She Hasn't Been Interviewed By FBI Yet",
+    "4":"The Terrorist Wears Prada",
+    "5":"Personalisation in the Age of the Customer"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"WORLDPOST",
+    "5":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Some voters waited five hours to cast their ballot during the state's primary last month.",
+    "1":"Under the EU-Turkey deal, Ankara will take back all migrants and refugees, including Syrians, who enter Greece illegally.",
+    "2":"They say they can no longer meet the needs of thousands of migrants and refugees in Idomeni.",
+    "3":"\"We made clear that I'm happy to answer any questions that anybody might have. And I stand by that.\"",
+    "4":"PRAGUE -- So we are on a date. On a grassy hilltop behind Prague's historic castle. And this little girl comes frolicking in our direction, sees me, stops dead and starts running back screaming for her parents who are somewhere in the distance. Only she doesn't quite make it back unscathed: she trips, falls down flat, gets up and limps back to shelter. We snigger. And then my Czech date mimes, \"Mama, I saw a terrorist.\"",
+    "5":"Earlier this year, the Brazilian TAM airlines came up with an ingenious way to improve passenger engagement levels with its inflight magazine. It had discovered that people on its flights spent less than 3% of their time in the air flicking through the magazine and less than 11% could even remember what they\u2019d read."
+  },
+  "authors":{
+    "0":"Samantha Lachman and Ryan J. Reilly",
+    "1":"Dasha Afanasieva and Karolina Tagaris, Reuters",
+    "2":"Alexandros Kalafatis, HuffPost Greece",
+    "3":"Igor Bobic",
+    "4":"Saksham Sharda , ContributorWriter, Journalist, Fashion Policeman",
+    "5":"Advertising Week, ContributorThe world\u2019s premier annual gathering of marketing and communic..."
+  },
+  "date":{
+    "0":"2016-04-04 00:00:00",
+    "1":"2016-04-04 00:00:00",
+    "2":"2016-04-04 00:00:00",
+    "3":"2016-04-03 00:00:00",
+    "4":"2016-04-03 00:00:00",
+    "5":"2016-04-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"tur",
+    "2":"grcgov",
+    "3":"usaeli",
+    "4":"cze",
+    "5":"brabus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvlref",
+    "2":"---cvl",
+    "3":"usacop",
+    "4":"---uaf",
+    "5":"---med"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"171",
+    "2":"030",
+    "3":"010",
+    "4":"010",
+    "5":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.2,
+    "2":4.0,
+    "3":0.0,
+    "4":0.0,
+    "5":6.0
+  },
+  "nouns":{
+    "0":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "ankara",
+      "tur",
+      "turkey",
+      "migrants",
+      "refugees",
+      "~cvlref",
+      "~",
+      "~"
+    ],
+    "2":[
+      "greek",
+      "authorities",
+      "grcgov",
+      "greece",
+      "~",
+      "migrant",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "4":[
+      "czech",
+      "cze",
+      "czech",
+      "republic",
+      "terrorist",
+      "~uaf",
+      "~"
+    ],
+    "5":[
+      "brazilian",
+      "airlines",
+      "brabus",
+      "brazil",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doj",
+      "arizona"
+    ],
+    "1":[
+      "ankara",
+      "migrants ... refugees"
+    ],
+    "2":[
+      "greek authorities",
+      "migrant"
+    ],
+    "3":[
+      "hillary clinton",
+      "fbi"
+    ],
+    "4":[
+      "czech",
+      "terrorist"
+    ],
+    "5":[
+      "brazilian ... airlines",
+      "magazine"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states department of justice",
+      "united states of america"
+    ],
+    "1":[
+      "turkey",
+      "---"
+    ],
+    "2":[
+      "greece",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "federal bureau of investigation"
+    ],
+    "4":[
+      "czech republic",
+      "---"
+    ],
+    "5":[
+      "brazil",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is investigating"
+    ],
+    "1":[
+      "will take"
+    ],
+    "2":[
+      "prepare"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "mimes ... saw"
+    ],
+    "5":[
+      "<['came',> <'up']> ... improve"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "terror",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "090"
+    ],
+    "1":[
+      "tur",
+      "---cvlref",
+      "171"
+    ],
+    "2":[
+      "grcgov",
+      "---cvl",
+      "030"
+    ],
+    "3":[
+      "usaeli",
+      "usacop",
+      "010"
+    ],
+    "4":[
+      "cze",
+      "---uaf",
+      "010"
+    ],
+    "5":[
+      "brabus",
+      "---med",
+      "060"
+    ]
+  }
+}

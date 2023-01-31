@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.jsonline.com\/sponsoredarticles\/bridal\/shoeselection-tips-to-help-brides-avoid-wedding-day-foot-pain8058030812-164423536.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/james-holmes-schizophrenia-mental-health_us_5b9c0ff2e4b03a1dcc7c1857"
+  },
+  "headline":{
+    "0":"Shoe Selection Tips To Help Brides Avoid Wedding Day Foot Pain",
+    "1":"James Holmes, Colorado Shooting Suspect, Saw Psychiatrist Who Specializes In Schizophrenia: What Is It?"
+  },
+  "category":{
+    "0":"WEDDINGS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"(ARA) - The man of your dreams, a stunning dress and the most darling shoes to go with it - you have everything you need",
+    "1":"To be clear, there has been no official word yet on why Holmes was seeking Fenton's care, or if he had been diagnosed, or"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2012-07-31 00:00:00",
+    "1":"2012-07-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "psychiatrist",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "colorado",
+      "psychiatrist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "shoes ... go"
+    ],
+    "1":[
+      "saw"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---hlh",
+      "010"
+    ]
+  }
+}

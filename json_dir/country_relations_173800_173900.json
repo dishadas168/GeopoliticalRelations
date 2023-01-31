@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/alaska-animal-photos_us_5b9ca721e4b03a1dcc809790"
+  },
+  "headline":{
+    "0":"5 Unexpected (and Strange!) Alaskan Creatures"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Most people come to Alaska for the whales, the bears and the soaring eagles. And rightly so! These majestic creatures are the stuff of legends."
+  },
+  "authors":{
+    "0":"Lindblad Expeditions, Contributor\nPioneers in expedition travel"
+  },
+  "date":{
+    "0":"2012-12-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "alaska"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "come to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "040"
+    ]
+  }
+}

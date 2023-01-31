@@ -1,0 +1,213 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/payday-hound-online-payday-lenders_us_5b9ba86ee4b03a1dcc796029",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kenlie-tiggeman-southwests_us_5b9baa96e4b03a1dcc796edd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/marriage-advice_us_5b9ba8c4e4b03a1dcc7962fb",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/johanna-johnson-luxor_us_5b9ba8c4e4b03a1dcc796304",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/no-mothers-day_us_5b9ba8c4e4b03a1dcc796316"
+  },
+  "headline":{
+    "0":"Payday Hound Comparison Site Points To Alleged Illegal Lender, Offshore Loans",
+    "1":"Kenlie Tiggeman, Southwest's 'Too Fat To Fly' Passenger, Sues Airline (VIDEO)",
+    "2":"Marriage Advice: 8 Questions To Ask Yourself Before Saying 'I Do'",
+    "3":"Get Ready for Gatsby Wear! Johanna Johnson's Luxurious New Collection",
+    "4":"Why Some Mothers Plan To Disappear On Mother's Day"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"TRAVEL",
+    "2":"WEDDINGS",
+    "3":"STYLE & BEAUTY",
+    "4":"PARENTING"
+  },
+  "short_description":{
+    "0":"The newly launched Payday Hound website advertises itself as offering \"impartial and informed\" reviews, comparing the rates",
+    "1":"video platformvideo managementvideo solutionsvideo player Tiggeman is fighting for an industry standards. \"If you're telling",
+    "2":"Keep in touch! Check out HuffPost Weddings on Facebook, Twitter and Pinterest. One of my male clients from DC met a woman",
+    "3":"This week, New Zealander Johanna Johnson unveiled her \"Luxor\" collection at Mercedes-Benz Fashion Week in Australia -- apparently she was cherry picked by MB, joining designers like Narciso Rodriguez and Monique Lhuillier who have presented in previous years.",
+    "4":"To shine a light on the missing, the charity Every Mother Counts is asking healthy, present mothers everywhere to \"disappear\" this Mother's Day."
+  },
+  "authors":{
+    "0":"Catherine New",
+    "1":"",
+    "2":"",
+    "3":"Susan Michals, Contributor\nL.A. Based Art\/Culture\/Lifestyle Writer",
+    "4":"Lisa Belkin, Contributor\nSenior Columnist, The Huffington Post"
+  },
+  "date":{
+    "0":"2012-05-04 00:00:00",
+    "1":"2012-05-04 00:00:00",
+    "2":"2012-05-03 00:00:00",
+    "3":"2012-05-03 00:00:00",
+    "4":"2012-05-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---cvl",
+    "2":"mdv",
+    "3":"nzl",
+    "4":"---cvl"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---bus",
+    "2":"---cvl",
+    "3":"egy",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"173",
+    "2":"040",
+    "3":"050",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0,
+    "2":1.0,
+    "3":3.5,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "website",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "passenger",
+      "~cvl",
+      "~",
+      "airline",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "male",
+      "mdv",
+      "maldives",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "new zealander",
+      "nzl",
+      "new",
+      "zealand",
+      "luxor",
+      "egy",
+      "egypt",
+      "australia",
+      "aus",
+      "australia"
+    ],
+    "4":[
+      "mother",
+      "~cvl",
+      "~",
+      "mothers",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "website",
+      "website"
+    ],
+    "1":[
+      "passenger",
+      "airline"
+    ],
+    "2":[
+      "male",
+      "woman"
+    ],
+    "3":[
+      "new zealander",
+      "luxor"
+    ],
+    "4":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "maldives",
+      "---"
+    ],
+    "3":[
+      "new zealand",
+      "egypt"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "advertises"
+    ],
+    "1":[
+      "sues"
+    ],
+    "2":[
+      "met"
+    ],
+    "3":[
+      "unveiled"
+    ],
+    "4":[
+      "is ... asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "050"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "173"
+    ],
+    "2":[
+      "mdv",
+      "---cvl",
+      "040"
+    ],
+    "3":[
+      "nzl",
+      "egy",
+      "050"
+    ],
+    "4":[
+      "---cvl",
+      "---cvl",
+      "020"
+    ]
+  }
+}

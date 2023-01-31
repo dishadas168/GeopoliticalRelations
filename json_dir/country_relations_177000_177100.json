@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hidden-gems-wisconsin-tribal-architecture_us_5b9c7dd3e4b03a1dcc7f254e"
+  },
+  "headline":{
+    "0":"Hidden Gems: Architecture In Wisconsin's Tribal Nations"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"When people think of Native American buildings, they might think teepees or other temporary structures, but in Wisconsin native structures were always more sophisticated and designed to last."
+  },
+  "authors":{
+    "0":"Peter Greenberg, Contributor\nCBS News Travel Editor"
+  },
+  "date":{
+    "0":"2012-11-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"usacvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "native",
+      "american",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "native",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "native american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usacvl",
+      "040"
+    ]
+  }
+}

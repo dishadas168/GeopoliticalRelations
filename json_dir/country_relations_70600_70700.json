@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marco-rubio-delegates_us_56e8c47fe4b0b25c9183d48a",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/global-development\/2016\/mar\/16\/berta-caceres-bertha-honduras-not-first-human-rights-defender-assassinated",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/merrick-garland-lame-duck_us_56e9a842e4b0b25c91843849",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/house-republicans-refugees-bill_us_56e983b5e4b065e2e3d81550"
+  },
+  "headline":{
+    "0":"Most Of Marco Rubio\u2019s Delegates Will Probably Still Have To Vote For Him",
+    "1":"Bertha C\u00e1ceres: 'My mother\u2019s is not the first assassination. I don\u2019t want another'",
+    "2":"Senate GOP Could Consider Obama's Supreme Court Nominee In Lame-Duck Period",
+    "3":"House Republicans Want To Strip Power Over Refugees From Obama"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"LATINO VOICES",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Rubio hadn't amassed enough delegates to substantially affect the race.",
+    "1":"The daughter of Berta C\u00e1ceres, the Honduran human rights defender who was murdered this month, has spoken out about the country\u2019s volatility and called on Europe and the US to stop investing in the controversial Agua Zarca dam.",
+    "2":"Will all the GOP senators who lose their reelection bids sit it out?",
+    "3":"One lawmaker claimed the president is \"vindictive\" and might send Syrian refugees to states as punishment."
+  },
+  "authors":{
+    "0":"Natalie Jackson",
+    "1":"",
+    "2":"Amanda Terkel and Jennifer Bendery",
+    "3":"Elise Foley"
+  },
+  "date":{
+    "0":"2016-03-16 00:00:00",
+    "1":"2016-03-16 00:00:00",
+    "2":"2016-03-16 00:00:00",
+    "3":"2016-03-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"hnd",
+    "2":"usagovleg",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"usa",
+    "2":"usagov",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"020",
+    "2":"040",
+    "3":"110"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.0,
+    "2":1.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "delegates",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "honduran",
+      "hnd",
+      "honduras",
+      "the us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "delegates",
+      "delegates"
+    ],
+    "1":[
+      "honduran",
+      "the ... us"
+    ],
+    "2":[
+      "senate",
+      "obama"
+    ],
+    "3":[
+      "lawmaker",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "honduras",
+      "united states of america"
+    ],
+    "2":[
+      "united states congress",
+      "barack obama"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... vote"
+    ],
+    "1":[
+      "has ... called on"
+    ],
+    "2":[
+      "could consider"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "human_rights",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---leg",
+      "030"
+    ],
+    "1":[
+      "hnd",
+      "usa",
+      "020"
+    ],
+    "2":[
+      "usagovleg",
+      "usagov",
+      "040"
+    ],
+    "3":[
+      "---leg",
+      "---gov",
+      "110"
+    ]
+  }
+}

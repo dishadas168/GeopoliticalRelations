@@ -1,0 +1,263 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/african-elephants-china-extinction_us_5846f110e4b016eb81d83284",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-donald-trump_us_58471842e4b0ebac580706ba",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mark-meadows-freedom-caucus-chairman_us_584632c4e4b055b313990f4b",
+    "3":"https:\/\/www.huffingtonpost.comhttps:\/\/www.aclu.org\/news\/aclu-and-lgbt-groups-call-obama-grant-clemency-chelsea-manning",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/nearly-all-bodies-identified-in-oakland-warehouse-fire_us_5845f953e4b028b323390156",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/orange-country-sheriff-deputies-jail-informant_us_5845d6e6e4b02f60b0246c93"
+  },
+  "headline":{
+    "0":"African Elephants May Need China To Save Them From Extinction",
+    "1":"John McCain: 'Outrageous' That Reporters Ask Me About Donald Trump",
+    "2":"House Freedom Caucus Elects Mark Meadows Chairman",
+    "3":"ACLU And LGBT Groups Call On Obama To Grant Clemency To Chelsea Manning",
+    "4":"Oakland Fire Is Deadliest In U.S. Since 2003",
+    "5":"Orange County Sheriff's Deputies' Once-Secret Log On Jail Informants Reveals Rampant Misconduct"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"QUEER VOICES",
+    "4":"CRIME",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Netflix documentary \"The Ivory Game\" exposes the dark underworld of the ivory trade and Beijing's role in shaping the destiny of these animals.",
+    "1":"The Republican senator plans to avoid talking about the Republican president-elect until next year.",
+    "2":"The man who helped push Boehner out is now heading the most conservative group in Congress.",
+    "3":"WASHINGTON \u2014 The American Civil Liberties Union and over a dozen LGBT groups sent a letter to President Barack Obama today",
+    "4":"As officials finish recovering bodies, the district attorney is exploring the possibility of criminal liability.",
+    "5":"The deputies' notes reveal deeply disturbing and unconstitutional behavior by members of law enforcement in county jails."
+  },
+  "authors":{
+    "0":"Eric Olander and Cobus van Staden, The China Africa Project",
+    "1":"Jennifer Bendery",
+    "2":"Matt Fuller",
+    "3":"",
+    "4":"Lydia O'Connor",
+    "5":"Matt Ferner"
+  },
+  "date":{
+    "0":"2016-12-07 00:00:00",
+    "1":"2016-12-06 00:00:00",
+    "2":"2016-12-06 00:00:00",
+    "3":"2016-12-06 00:00:00",
+    "4":"2016-12-06 00:00:00",
+    "5":"2016-12-06 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"---leg",
+    "2":"---ppl",
+    "3":"usa",
+    "4":"---jud",
+    "5":"---cop"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"---gov",
+    "2":"---leg",
+    "3":"usagov",
+    "4":"---crm",
+    "5":"---cop"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010",
+    "2":"060",
+    "3":"040",
+    "4":"090",
+    "5":"050"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0,
+    "2":6.0,
+    "3":1.0,
+    "4":-2.0,
+    "5":3.5
+  },
+  "nouns":{
+    "0":[
+      "netflix",
+      "mncusa",
+      "netflix",
+      "beijing",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "4":[
+      "attorney",
+      "~jud",
+      "~",
+      "criminal",
+      "~crm",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "5":[
+      "deputies",
+      "~cop",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "netflix",
+      "beijing"
+    ],
+    "1":[
+      "senator",
+      "president"
+    ],
+    "2":[
+      "man",
+      "congress"
+    ],
+    "3":[
+      "american",
+      "president barack obama"
+    ],
+    "4":[
+      "attorney",
+      "criminal"
+    ],
+    "5":[
+      "deputies",
+      "deputies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "netflix",
+      "china"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "barack obama"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "exposes"
+    ],
+    "1":[
+      "plans ... talking"
+    ],
+    "2":[
+      "is ... heading"
+    ],
+    "3":[
+      "sent ... letter"
+    ],
+    "4":[
+      "is ... exploring"
+    ],
+    "5":[
+      "reveal"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "lgbt",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "chn",
+      "050"
+    ],
+    "1":[
+      "---leg",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---leg",
+      "060"
+    ],
+    "3":[
+      "usa",
+      "usagov",
+      "040"
+    ],
+    "4":[
+      "---jud",
+      "---crm",
+      "090"
+    ],
+    "5":[
+      "---cop",
+      "---cop",
+      "050"
+    ]
+  }
+}

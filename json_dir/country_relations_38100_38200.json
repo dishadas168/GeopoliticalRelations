@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-egypt-human-rights_us_58e2a47ce4b0d0b7e163b368",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-metro-explosion-st-petersburg_us_58e23f11e4b0b3918c84dbfd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-shrine-sufi-killings_us_58e10aa3e4b0b3918c8434e5"
+  },
+  "headline":{
+    "0":"Human Rights Abuses In Egypt Are 'Best Discussed Privately,' White House Says",
+    "1":"Deadly Explosion Hits St. Petersburg Metro, Russian Media Reports",
+    "2":"Twenty Tortured And Killed At Pakistani Sufi Shrine, Police Say"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"President Trump had previously criticized Obama for not publicly condemning Egypt's human rights record.",
+    "1":"Russian state media report that at least ten people may have been killed.",
+    "2":"\u201cThere are bruises and wounds inflicted by a club and dagger on the bodies of victims,\u201d a doctor told reporters."
+  },
+  "authors":{
+    "0":"Christina Wilkie",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2017-04-03 00:00:00",
+    "1":"2017-04-03 00:00:00",
+    "2":"2017-04-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"rusgovmed",
+    "2":"---hlh"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"190",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "russian",
+      "state media",
+      "rusgovmed",
+      "russian",
+      "federation",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "doctor",
+      "~hlh",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "obama"
+    ],
+    "1":[
+      "russian state media",
+      "people"
+    ],
+    "2":[
+      "doctor",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "russian federation",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had ... criticized"
+    ],
+    "1":[
+      "report <~ppl> ... killed"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "human_rights",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usagov",
+      "111"
+    ],
+    "1":[
+      "rusgovmed",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "---hlh",
+      "---med",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/summer-safety-tips-for-your-children_b_5418242.html"
+  },
+  "headline":{
+    "0":"Summer Safety Tips for Your Children"
+  },
+  "category":{
+    "0":"PARENTS"
+  },
+  "short_description":{
+    "0":"The New York Society for the Prevention of Cruelty to Children (NYSPCC), the first child protection agency in the world, wants all children to have a safe and happy summer. Here are our tips for keeping children safe."
+  },
+  "authors":{
+    "0":"Mary L. Pulido, Ph.D., ContributorExecutive Director, The New York Society for the Prevention of..."
+  },
+  "date":{
+    "0":"2014-05-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "child",
+      "~cvl",
+      "~",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ]
+  }
+}

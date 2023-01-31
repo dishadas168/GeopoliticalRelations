@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/girls-education-advocacy-in-malalas-hometown_us_57dda872e4b08cb1409632a5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire-russia_us_57de952ae4b0071a6e07cc1d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire-russia_us_57de952ae4b0071a6e07cc1d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-birther-over_us_57de95cde4b08cb140963f2f"
+  },
+  "headline":{
+    "0":"In Malala\u2019s Hometown, A Young Activist Advocates For Girls\u2019 Education",
+    "1":"Russia Says Syria's Ceasefire Under Threat After U.S. Airstrikes",
+    "2":"Russia Says Syria's Ceasefire Under Threat After U.S. Airstrikes",
+    "3":"Mike Pence: The Birther Issue Is Over"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"As a teenager, Neelam Ibrar Chattan began working to promote peace in Pakistan\u2019s conflict-torn Swat Valley. Now 23, she\u2019s",
+    "1":"Moscow is stepping up a war of words with Washington.",
+    "2":"Moscow is stepping up a war of words with Washington.",
+    "3":"For over five years, his running mate Donald Trump fueled racist conspiracies that Obama was not born in the U.S."
+  },
+  "authors":{
+    "0":"Sonia Narang and Ameera Butt, Women & Girls Hub",
+    "1":"",
+    "2":"",
+    "3":"Laura Barr\u00f3n-L\u00f3pez"
+  },
+  "date":{
+    "0":"2016-09-19 00:00:00",
+    "1":"2016-09-18 00:00:00",
+    "2":"2016-09-18 00:00:00",
+    "3":"2016-09-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"rus",
+    "2":"rus",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"syr",
+    "2":"usa",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"012",
+    "2":"138",
+    "3":"120"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-0.4,
+    "2":-7.0,
+    "3":-4.0
+  },
+  "nouns":{
+    "0":[
+      "activist",
+      "~opp",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activist",
+      "girls"
+    ],
+    "1":[
+      "russia",
+      "syria"
+    ],
+    "2":[
+      "moscow",
+      "washington"
+    ],
+    "3":[
+      "<u.s.>",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ],
+    "2":[
+      "russian federation",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "advocates"
+    ],
+    "1":[
+      "says ... threat"
+    ],
+    "2":[
+      "is <['stepping',> <'up',> <'-> <*> <&fight>                                            <[138]>         <#> <step_up']>"
+    ],
+    "3":[
+      "<usagov>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "020"
+    ],
+    "1":[
+      "rus",
+      "syr",
+      "012"
+    ],
+    "2":[
+      "rus",
+      "usa",
+      "138"
+    ],
+    "3":[
+      "usa",
+      "usagov",
+      "120"
+    ]
+  }
+}

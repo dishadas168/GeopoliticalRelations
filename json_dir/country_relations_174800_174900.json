@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/newtown-gun-control-parenting-issue_us_5b9ca001e4b03a1dcc80629a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-normal-day_us_5b9c9f85e4b03a1dcc8061ff",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/talking-to-your-child-abo_us_5b9ca055e4b03a1dcc806689",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/how-to-talk-to-your-kids-sandy-hook_us_5b9ca030e4b03a1dcc80655c"
+  },
+  "headline":{
+    "0":"Gun Control Is A Parenting Issue",
+    "1":"A Normal Day",
+    "2":"Talking to Your Child About the School Shooting in Newtown, CT",
+    "3":"How to Talk to Your Kids About the Connecticut School Tragedy"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING",
+    "2":"PARENTING",
+    "3":"PARENTING"
+  },
+  "short_description":{
+    "0":"More than a dozen children went to elementary school this morning and were dead before lunch. White House spokesman Jay Carney says today is not the day to talk about gun control. I disagree. That's all we should talk about today. We are heartbroken, yes. But saying that will fix nothing. It won't bring anyone back, and it won't keep this from happening again. And of course we know the parents of Newtown could have been any one of us. That's important to remember, but it isn't enough, because the knowing doesn't change the fact that we could still be next. So we can't just do as we did after Columbine, after Virginia Tech, after Aurora. We can't just grieve and hold our children close. We have to demand that our country earn the right to call itself a civilized nation.",
+    "1":"In Connecticut this morning, other mothers said goodbye to their children, or didn't, believing it was just an ordinary day. They sent them off to an elementary school that looks much like my own on paper. They didn't expect this.",
+    "2":"This heartbreaking tragedy really strikes close to home for parents of young children. And, it's normal to worry about how to have a conversation with your child about this tragic event.",
+    "3":"It is likely that many children will hear about this tragedy on television, online, in school, on the bus. What parents can do is prepare themselves to field questions and provide honest yet helpful answers. Here are just a few helpful hints to consider."
+  },
+  "authors":{
+    "0":"Lisa Belkin, Contributor\nSenior Columnist, The Huffington Post",
+    "1":"Allison Tate, Contributor\nWriter, mother of four",
+    "2":"Mary L. Pulido, Ph.D., Contributor\nExecutive Director, The New York Society for the Prevention of...",
+    "3":"GalTime, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2012-12-14 00:00:00",
+    "1":"2012-12-14 00:00:00",
+    "2":"2012-12-14 00:00:00",
+    "3":"2012-12-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---edu",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---mededu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"010",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "mothers",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "school",
+      "~edu",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "children",
+      "~cvl",
+      "~",
+      "television",
+      "~med",
+      "~",
+      "television",
+      "~med",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "school"
+    ],
+    "1":[
+      "mothers",
+      "mothers"
+    ],
+    "2":[
+      "school",
+      "child"
+    ],
+    "3":[
+      "children",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... went"
+    ],
+    "1":[
+      "did <said>"
+    ],
+    "2":[
+      "talking"
+    ],
+    "3":[
+      "will hear"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":[
+      "schools",
+      "1",
+      "public_transit",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---mededu",
+      "040"
+    ]
+  }
+}

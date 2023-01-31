@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-suicide-bombings-iraq_us_5734847ce4b077d4d6f2323e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-suicide-bombings-iraq_us_5734847ce4b077d4d6f2323e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tribes-working-to-protect-butterflies_us_5733514fe4b096e9f09359cd",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/employers-publicly-disclose-workers-injuries_us_57338ccee4b0436a18b5bf54"
+  },
+  "headline":{
+    "0":"ISIS Suicide Blasts Claim More Iraqi Lives After Deadliest Day In Baghdad This Year",
+    "1":"ISIS Suicide Blasts Claim More Iraqi Lives After Deadliest Day In Baghdad This Year",
+    "2":"Native American Tribes Dedicating Land, Food To Protect Monarch Butterflies",
+    "3":"Employers Will Have To Publicly Disclose Their Workers' Injuries Now. They Aren't Happy About It."
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"GOOD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"At least 80 people died in ISIS bombings in the Iraqi capital on Wednesday.",
+    "1":"At least 80 people died in ISIS bombings in the Iraqi capital on Wednesday.",
+    "2":"Tribal leaders in Oklahoma have vowed to plant nectar-producing plants for the butterflies whose numbers have dwindled.",
+    "3":"The Occupational Safety and Health Administration plans to post the workplace injury data on its website, just like a public-health grade for a restaurant."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2016-05-12 00:00:00",
+    "1":"2016-05-12 00:00:00",
+    "2":"2016-05-11 00:00:00",
+    "3":"2016-05-11 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"---ppl",
+    "2":"usacvl",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"imgmusisi",
+    "2":"---gov",
+    "3":"---lab"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"190",
+    "2":"074",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":8.5,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "iraqi",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "iraqi",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "native",
+      "american",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "monarch",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "employers",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "iraqi"
+    ],
+    "1":[
+      "people",
+      "isis",
+      "people",
+      "iraqi"
+    ],
+    "2":[
+      "native american",
+      "monarch"
+    ],
+    "3":[
+      "employers",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "iraq"
+    ],
+    "1":[
+      "---",
+      "the islamic state",
+      "---",
+      "iraq"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "claim"
+    ],
+    "1":[
+      "died",
+      "died"
+    ],
+    "2":[
+      "land ... protect"
+    ],
+    "3":[
+      "will ... disclose"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "irq",
+      "110"
+    ],
+    "1":[
+      "---ppl",
+      "imgmusisi",
+      "190",
+      "---ppl",
+      "irq",
+      "190"
+    ],
+    "2":[
+      "usacvl",
+      "---gov",
+      "074"
+    ],
+    "3":[
+      "---bus",
+      "---lab",
+      "010"
+    ]
+  }
+}

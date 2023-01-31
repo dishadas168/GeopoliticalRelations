@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.thedodo.com\/why-is-the-government-killing-the-last-of-americas-iconic-wild-horses-1508214057.html?utm_source=HuffPost"
+  },
+  "headline":{
+    "0":"The Government Is Killing The Last Of America's Majestic Wild Horses"
+  },
+  "category":{
+    "0":"GREEN"
+  },
+  "short_description":{
+    "0":"You're running. It seems like it's been days \u2026 and it has. You're strong and powerful but your legs hurt so badly because"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-12-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is killing"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "190"
+    ]
+  }
+}

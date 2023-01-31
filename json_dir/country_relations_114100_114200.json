@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-some-syrians-are-agai_b_6000436.html"
+  },
+  "headline":{
+    "0":"Why Some Syrians Are Against Strikes on ISIS"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"U.S.-led airstrikes aimed at ISIS are being met with resistance in Syria. Some ask why it took the death of U.S. journalist James Foley for Washington to intervene."
+  },
+  "authors":{
+    "0":"Worldcrunch, ContributorInternational news site"
+  },
+  "date":{
+    "0":"2014-10-16 00:00:00"
+  },
+  "actor1":{
+    "0":"syr"
+  },
+  "actor2":{
+    "0":"imgmusisi"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syria",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<imgmusisi> ... met ... in syr"
+    ]
+  },
+  "issues":{
+    "0":[
+      "airstrike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "syr",
+      "imgmusisi",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/spider-man-marvel-rumors_n_6323030.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/update-verizons-cfo-stick_b_6323924.html"
+  },
+  "headline":{
+    "0":"Sony Hack Reveals Spider-Man, Marvel Plans You Already Knew",
+    "1":"Update: Verizon's CFO Sticks His Foot in His Mouth Over Title II and Investment -- Where's the Investigations?"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"On Dec. 9, 2014, Verizon's CFO Francis Shammo was speaking at the UBS 42nd Annual Global Media & Communications Conference for investors and made a comment -- even if the networks were to be reclassified as \"Title II\" in the Net Neutrality proceedings, it would not harm or influence investment."
+  },
+  "authors":{
+    "0":"Christopher Rosen",
+    "1":"Bruce Kushnick, ContributorExecutive Director, New Networks Institute"
+  },
+  "date":{
+    "0":"2014-12-14 00:00:00",
+    "1":"2014-12-14 00:00:00"
+  },
+  "actor1":{
+    "0":"mncjpn",
+    "1":"mncusamed"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"mncchemedbus"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "sony",
+      "mncjpn",
+      "sony",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "verizon",
+      "mncusamed",
+      "verizon",
+      "investors",
+      "~bus",
+      "~",
+      "ubs",
+      "media",
+      "investors",
+      "mncchemedbus",
+      "ubs",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sony",
+      "man"
+    ],
+    "1":[
+      "verizon",
+      "ubs ... media ... investors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sony",
+      "---"
+    ],
+    "1":[
+      "verizon",
+      "ubs"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reveals"
+    ],
+    "1":[
+      "<and> ... speaking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncjpn",
+      "---ppl",
+      "050"
+    ],
+    "1":[
+      "mncusamed",
+      "mncchemedbus",
+      "010"
+    ]
+  }
+}

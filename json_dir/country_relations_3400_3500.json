@@ -1,0 +1,316 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/arnold-schwarznegger-biden-appeared-to-be-in-the-center_n_5fde2336c5b60f828856a9f1",
+    "1":"https:\/\/www.huffpost.com\/entry\/biden-judicial-nominees-police-reform_n_5fd115a3c5b61d81b33b6df5",
+    "2":"https:\/\/www.huffpost.com\/entry\/chris-cuomo-donald-trump-coronavirus-response_n_5fdb20edc5b6aa861e5be9a6",
+    "3":"https:\/\/www.huffpost.com\/entry\/need-coronavirus-day-of-mourning_n_5fd80e36c5b62f31c1ffaf69",
+    "4":"https:\/\/www.huffpost.com\/entry\/laura-benanti-joe-biden-christmas-tribute_n_5fd29be7c5b68ce171868526",
+    "5":"https:\/\/www.huffpost.com\/entry\/trump-executions-spreading-coronavirus_n_5fce9022c5b6636e09278857",
+    "6":"https:\/\/www.huffpost.com\/entry\/georgia-florida-lawyer-illegal-registration_n_5fc97a96c5b626e08a289ec2"
+  },
+  "headline":{
+    "0":"Arnold Schwarzenegger: 'Biden Was Successful Because He Appeared To Be In The Center'",
+    "1":"To Reform Police, Biden Judicial Nominees Must Come From Beyond Prosecutor's Table",
+    "2":"MSNBC's Chris Hayes Defines Trump\u2019s COVID-19 Failings With Damning 4-Word Epithet",
+    "3":"We Need A National Day Of Mourning For COVID-19 Victims",
+    "4":"Laura Benanti Celebrates Joe Biden With 2020 Twist On A Holiday Classic",
+    "5":"This Is How Trump\u2019s Executions Are Spreading The Coronavirus",
+    "6":"Georgia Investigating Florida Lawyer Accused Of Illegal Vote Registration"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"ENTERTAINMENT",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cPeople that are in the center create the action,\" the former California governor told CNN.",
+    "1":"Criminal justice reform advocates want more \"background diversity\" when President-elect Joe Biden makes his picks for federal judges.",
+    "2":"CNN's Chris Cuomo, meanwhile, described the White House's pursuit of herd immunity amid the pandemic as \"the stuff of a horror film.\"",
+    "3":"Over 300,000 people have died of the coronavirus in the U.S. And as thousands more die each day, Americans have not had the chance to collectively mourn.",
+    "4":"The Tony-winning actor and singer known for her Melania Trump impersonations offers her Christmas wish for a \"man with a plan\" in the White House.",
+    "5":"The government admitted in a buried footnote of a court filing that \"some\" key staffers contracted COVID-19 after the last execution.",
+    "6":"Officials said the attorney tried to register to vote in Georgia's Senate run-off election and urged other Floridians to join him."
+  },
+  "authors":{
+    "0":"Jeremy Blum",
+    "1":"Ryan J. Reilly",
+    "2":"Lee Moran",
+    "3":"Sarah Ruiz-Grossman",
+    "4":"Curtis M. Wong",
+    "5":"Melissa Jeltsen and Jessica Schulberg",
+    "6":"Jeff Martin, AP"
+  },
+  "date":{
+    "0":"2020-12-19 00:00:00",
+    "1":"2020-12-18 00:00:00",
+    "2":"2020-12-17 00:00:00",
+    "3":"2020-12-15 00:00:00",
+    "4":"2020-12-11 00:00:00",
+    "5":"2020-12-07 00:00:00",
+    "6":"2020-12-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---jud",
+    "2":"med",
+    "3":"---ppl",
+    "4":"---eli",
+    "5":"---gov",
+    "6":"geo"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"usagov",
+    "2":"usagov",
+    "3":"usa",
+    "4":"usagovppl",
+    "5":"---jud",
+    "6":"usajud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"010",
+    "3":"190",
+    "4":"030",
+    "5":"050",
+    "6":"090"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":0.0,
+    "3":-10.0,
+    "4":4.0,
+    "5":3.5,
+    "6":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "california",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "1":[
+      "advocates",
+      "~jud",
+      "~",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "federal judges",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "cnn",
+      "med",
+      "cnn",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "~eli",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "man",
+      "usagovppl",
+      "~"
+    ],
+    "5":[
+      "government",
+      "~gov",
+      "~",
+      "court",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "6":[
+      "georgia",
+      "geo",
+      "georgia",
+      "florida",
+      "lawyer",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california governor",
+      "cnn"
+    ],
+    "1":[
+      "advocates",
+      "joe biden"
+    ],
+    "2":[
+      "cnn",
+      "the white house"
+    ],
+    "3":[
+      "people",
+      "u.s."
+    ],
+    "4":[
+      "actor",
+      "man"
+    ],
+    "5":[
+      "government",
+      "court"
+    ],
+    "6":[
+      "georgia",
+      "florida lawyer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "cnn"
+    ],
+    "1":[
+      "---",
+      "joe biden"
+    ],
+    "2":[
+      "cnn",
+      "white house"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      ""
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "georgia",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "described"
+    ],
+    "3":[
+      "have died"
+    ],
+    "4":[
+      "offers"
+    ],
+    "5":[
+      "admitted"
+    ],
+    "6":[
+      "investigating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_pandemic",
+      "1"
+    ],
+    "3":[
+      "disease",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "usagov",
+      "030"
+    ],
+    "2":[
+      "med",
+      "usagov",
+      "010"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "190"
+    ],
+    "4":[
+      "---eli",
+      "usagovppl",
+      "030"
+    ],
+    "5":[
+      "---gov",
+      "---jud",
+      "050"
+    ],
+    "6":[
+      "geo",
+      "usajud",
+      "090"
+    ]
+  }
+}

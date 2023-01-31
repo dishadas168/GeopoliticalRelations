@@ -1,0 +1,288 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-hillary-clinton-sexism-samantha-bee_us_58180631e4b0390e69d24189",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/richard-burr-supreme-court_us_5818db21e4b0390e69d2d9b7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/baltimore-bus-crash_us_58189085e4b064e1b4b4a389",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sanders-tweet-drug-company-stock-price_us_5818c92ae4b064e1b4b4f9ef",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/obama-trump-working-class_us_5819111ee4b00f11fc5c6fdc",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/obama-trump-working-class_us_5819111ee4b00f11fc5c6fdc"
+  },
+  "headline":{
+    "0":"Obama Laments That Hillary Clinton Will Continue To Face Sexism If Elected President",
+    "1":"GOP Senators No Longer Want The People To Decide On Supreme Court Justices",
+    "2":"Six Dead, 10 Hurt In Baltimore Commuter, School Bus Crash",
+    "3":"Drug Company's Stock Dips After Critical Bernie Sanders Tweet",
+    "4":"President Obama Tells Working Class Voters Not To Be 'Bamboozled' By Trump",
+    "5":"President Obama Tells Working Class Voters Not To Be 'Bamboozled' By Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cWhen men are ambitious, it\u2019s just taken for granted. When women are ambitious, \u2018Why?\u2019 That theme, I think, will continue throughout her presidency.\"",
+    "1":"That Merrick Garland talking point is now obsolete.",
+    "2":"A Baltimore school bus with no students aboard smashed into an oncoming commuter bus on Tuesday, killing at least six people",
+    "3":"The Vermont senator condemned the rising price of an Eli Lilly drug.",
+    "4":"Obama ripped into Trump's history of self-interest and stiffing workers at his businesses, expressing disbelief at Trump's appeal to working class voters.",
+    "5":"Obama ripped into Trump's history of self-interest and stiffing workers at his businesses, expressing disbelief at Trump's appeal to working class voters."
+  },
+  "authors":{
+    "0":"Marina Fang",
+    "1":"Sam Stein",
+    "2":"",
+    "3":"Daniel Marans",
+    "4":"Marina Fang",
+    "5":"Marina Fang"
+  },
+  "date":{
+    "0":"2016-11-01 00:00:00",
+    "1":"2016-11-01 00:00:00",
+    "2":"2016-11-01 00:00:00",
+    "3":"2016-11-01 00:00:00",
+    "4":"2016-11-01 00:00:00",
+    "5":"2016-11-01 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---leg",
+    "2":"---edu",
+    "3":"usaleg",
+    "4":"usagov",
+    "5":"usagov"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"mncusahlh",
+    "4":"---cvl",
+    "5":"---labbus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"030",
+    "2":"190",
+    "3":"111",
+    "4":"010",
+    "5":"180"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0,
+    "2":-10.0,
+    "3":-2.0,
+    "4":0.0,
+    "5":-9.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "hillary clinton",
+      "usagov",
+      "usaeli",
+      "barack",
+      "obama",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "senators",
+      "~leg",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "supreme court justices",
+      "usagovjud",
+      "united",
+      "states",
+      "supreme",
+      "court"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "students",
+      "~edu",
+      "~",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "vermont",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "eli lilly",
+      "mncusahlh",
+      "eli",
+      "lilly"
+    ],
+    "4":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "businesses",
+      "~bus",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "senators",
+      "people"
+    ],
+    "2":[
+      "students",
+      "people"
+    ],
+    "3":[
+      "vermont senator",
+      "eli lilly"
+    ],
+    "4":[
+      "president obama",
+      "voters"
+    ],
+    "5":[
+      "obama",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "eli lilly"
+    ],
+    "4":[
+      "barack obama",
+      "---"
+    ],
+    "5":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "want"
+    ],
+    "2":[
+      "smashed ... killing"
+    ],
+    "3":[
+      "condemned"
+    ],
+    "4":[
+      "tells"
+    ],
+    "5":[
+      "ripped"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1",
+      "public_transit",
+      "2",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ],
+    "5":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usaeli",
+      "040",
+      "usaeli",
+      "usagov",
+      "040"
+    ],
+    "1":[
+      "---leg",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "---edu",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "usaleg",
+      "mncusahlh",
+      "111"
+    ],
+    "4":[
+      "usagov",
+      "---cvl",
+      "010"
+    ],
+    "5":[
+      "usagov",
+      "---labbus",
+      "180"
+    ]
+  }
+}

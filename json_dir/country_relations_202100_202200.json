@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/suspicious-man-bustop_us_5b9b57aae4b03a1dcc76c64d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/child-vaccines_us_5b9b5974e4b03a1dcc76d24d"
+  },
+  "headline":{
+    "0":"Man At The Bus Stop! Call The Police!",
+    "1":"I Really Want to Know: What Can I Do for Parents Who Are Afraid of Vaccines?"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"Like any parent, at first, I was alarmed, just as the \"alert\" intended me to be.  There was a man at the bus stop?  And a mother noticed him and tried to talk to him, but he didn't respond?  What the heck?",
+    "1":"What if lots of infants get sick, spreading it through the daycare? What if some die? It is totally possible, in fact, with the way cases are increasing in the U.S., I worry that it's not just possible but probable that we are going to have an outbreak like this."
+  },
+  "authors":{
+    "0":"Lisa A. Tucker, Contributor\nLaw professor, travel guru, novelist",
+    "1":"Claire McCarthy, M.D., Contributor\nPediatrician at Boston Children's Hospital, Assistant Professo..."
+  },
+  "date":{
+    "0":"2012-02-22 00:00:00",
+    "1":"2012-02-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "infants",
+      "~cvl",
+      "~",
+      "infants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ],
+    "1":[
+      "infants",
+      "infants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... talk"
+    ],
+    "1":[
+      "get ... spreading"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

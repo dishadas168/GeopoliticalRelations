@@ -1,0 +1,267 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brian-schear-delta-child-seat_us_590b1e49e4b05c397686c339",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/killer-drones-in-the-empire-state_us_590a9eb6e4b03b105b44bf59",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/black-cambridge-students-call-out-schools-racial-diversity-in-compelling-photo_us_590a3ac7e4b02655f843d691",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-arctic-drilling-lawsuit_us_590a0729e4b02655f8433860",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/the-daily-show-trevor-noah-hillary-clinton_us_59097629e4b0bb2d0873257e",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/texas-voter-id-law_us_5909f13ce4b0bb2d0874050e"
+  },
+  "headline":{
+    "0":"Family Says They Were Forced Off Overbooked Delta Flight Over Child's Seat",
+    "1":"Killer Drones In The Empire State",
+    "2":"Black Cambridge Students Call Out School's Racial Diversity In Compelling Photo",
+    "3":"Lawsuit Claims Trump's Arctic Drilling Order Violates Constitution",
+    "4":"Why Trevor Noah Thinks Hillary Clinton Will Never Connect With People",
+    "5":"Texas Voter ID Law Led To Fears And Failures In 2016 Election"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"BLACK VOICES",
+    "3":"POLITICS",
+    "4":"COMEDY",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Schear family of Southern California says they were threatened with jail time and having their kids taken away.",
+    "1":"For the first time, the federal government has allowed military drones to utilize a commercial airport.",
+    "2":"But unlike #BlackMenOfYaleUniversity, these men are posing to draw attention to a problem at their school.",
+    "3":"Alaska Native and environmental advocacy groups want to block the president's freeze on an Obama-era drilling ban.",
+    "4":"The nearly 66 million people who voted for her won't like his response.",
+    "5":"Signs in polling places about the state\u2019s controversial voter ID law contained outdated rules. Poll workers gave voters incorrect information. Lines were long."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Norman Solomon, ContributorNorman Solomon is the author of a dozen books including \"War M...",
+    "2":"Zahara Hill",
+    "3":"Hayley Miller",
+    "4":"Carla Herreria",
+    "5":"Jessica Huseman, ProPublica"
+  },
+  "date":{
+    "0":"2017-05-04 00:00:00",
+    "1":"2017-05-04 00:00:00",
+    "2":"2017-05-03 00:00:00",
+    "3":"2017-05-03 00:00:00",
+    "4":"2017-05-03 00:00:00",
+    "5":"2017-05-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"usacvl",
+    "4":"usaeli",
+    "5":"---lab"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---mil",
+    "2":"---edu",
+    "3":"---gov",
+    "4":"---ppl",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"08",
+    "2":"041",
+    "3":"170",
+    "4":"0311",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":5.0,
+    "2":1.0,
+    "3":-7.0,
+    "4":5.2,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "government",
+      "~gov",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "alaska",
+      "native",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "workers",
+      "~lab",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "california"
+    ],
+    "1":[
+      "government",
+      "military"
+    ],
+    "2":[
+      "students",
+      "students"
+    ],
+    "3":[
+      "alaska native",
+      "president"
+    ],
+    "4":[
+      "hillary clinton",
+      "people"
+    ],
+    "5":[
+      "workers",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "hillary clinton",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <usa> ... threatened"
+    ],
+    "1":[
+      "has allowed <&aircraft>"
+    ],
+    "2":[
+      "call"
+    ],
+    "3":[
+      "want ... block"
+    ],
+    "4":[
+      "will ... connect with"
+    ],
+    "5":[
+      "gave <&information>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "drone",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "3":[
+      "civil_society",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "130"
+    ],
+    "1":[
+      "---gov",
+      "---mil",
+      "08"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "041",
+      "---edu",
+      "---edu",
+      "041"
+    ],
+    "3":[
+      "usacvl",
+      "---gov",
+      "170"
+    ],
+    "4":[
+      "usaeli",
+      "---ppl",
+      "0311"
+    ],
+    "5":[
+      "---lab",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/aleppo-syria-bombardments_us_57eb9c0ae4b0c2407cda8571",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-jasta-letter_us_57ebd8d3e4b082aad9b81a75"
+  },
+  "headline":{
+    "0":"Syrian Bombardments Hit Aleppo Hospital, Bakery, Residents Say",
+    "1":"Barack Obama Makes Last-Minute Push To Block Saudi 9\/11 Bill"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cThe warplane flew over us and directly started dropping its missiles on this hospital,\" a doctor says.",
+    "1":"The bill would open up U.S. officials to foreign lawsuits, the president says."
+  },
+  "authors":{
+    "0":"",
+    "1":"Max Greenwood and Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2016-09-28 00:00:00",
+    "1":"2016-09-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"sau"
+  },
+  "event_code":{
+    "0":"194",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "warplane",
+      "~mil",
+      "~",
+      "hospital",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "warplane",
+      "hospital"
+    ],
+    "1":[
+      "barack obama",
+      "saudi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "saudi arabia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... dropping <&weapon>"
+    ],
+    "1":[
+      "makes ... push"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---hlh",
+      "194"
+    ],
+    "1":[
+      "usagov",
+      "sau",
+      "100"
+    ]
+  }
+}

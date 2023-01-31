@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michigan-welfare-safety-net-jobs-social-services_us_5bb2b6dbe4b0480ca65a4606"
+  },
+  "headline":{
+    "0":"Michigan Welfare Cuts Forcing People Back To Work Or Straining Safety Net?"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The state's claim that need is declining or a raft of program cheats have been exposed may appear true when you look at certain"
+  },
+  "authors":{
+    "0":"Janell Ross"
+  },
+  "date":{
+    "0":"2012-02-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"170"
+  },
+  "goldstein_score":{
+    "0":-7.0
+  },
+  "nouns":{
+    "0":[
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "michigan",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "forcing"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "170"
+    ]
+  }
+}

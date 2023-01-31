@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/5-business-lessons-you-ca_b_10193628.html",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/news\/post-politics\/wp\/2016\/05\/27\/in-san-diego-trump-shames-local-mexican-judge-as-protesters-storm-streets\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/argentina-operation-condor-trial_us_574999c3e4b055bb117256f1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-community_b_10155638.html"
+  },
+  "headline":{
+    "0":"5 Business Lessons You Can Learn from Fitness Entrepreneur Chalene Johnson",
+    "1":"Trump Shames Local 'Mexican' Judge Involved In Trump University Lawsuit",
+    "2":"Argentina Jails Ex-Dictator For Conspiracy To Kill Leftist Dissidents",
+    "3":"North Carolina Community Takes on Anti-Muslim Activist"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"RELIGION"
+  },
+  "short_description":{
+    "0":"",
+    "1":"SAN DIEGO \u2013 As hundreds of protesters outside his rally here Friday afternoon chanted obscenities, waved Mexican flags and",
+    "2":"Under Operation Condor, dictators in Argentina, Chile, Uruguay, Paraguay, Brazil and Bolivia coordinated to hunt down opponents in the 1970s and 80s.",
+    "3":"What started as a depressing episode of Warner's visit to North Carolina turned into a rallying call for a movement against all forms of bigotry and oppression. People from different backgrounds and separated in geography, united to fight anti-Muslim bigotry and intertwine this campaign with other social justice movements."
+  },
+  "authors":{
+    "0":"AJ Agrawal, Contributor",
+    "1":"",
+    "2":"",
+    "3":"Manzoor Cheema, ContributorSocial Justice Activist"
+  },
+  "date":{
+    "0":"2016-05-29 00:00:00",
+    "1":"2016-05-28 00:00:00",
+    "2":"2016-05-28 00:00:00",
+    "3":"2016-05-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"mexjud",
+    "2":"arg",
+    "3":"usacvl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---edu",
+    "2":"---opp",
+    "3":"---opp"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"012",
+    "2":"190",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-0.4,
+    "2":-10.0,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~",
+      "entrepreneur",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "mexican",
+      "judge",
+      "mexjud",
+      "mexico",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "argentina",
+      "arg",
+      "argentina",
+      "dissidents",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "north carolina",
+      "community",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "activist",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "business",
+      "business"
+    ],
+    "1":[
+      "mexican ... judge",
+      "university"
+    ],
+    "2":[
+      "argentina",
+      "dissidents"
+    ],
+    "3":[
+      "north carolina community",
+      "activist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "mexico",
+      "---"
+    ],
+    "2":[
+      "argentina",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can learn"
+    ],
+    "1":[
+      "involved"
+    ],
+    "2":[
+      "ex-dictator ... kill"
+    ],
+    "3":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "040"
+    ],
+    "1":[
+      "mexjud",
+      "---edu",
+      "012"
+    ],
+    "2":[
+      "arg",
+      "---opp",
+      "190"
+    ],
+    "3":[
+      "usacvl",
+      "---opp",
+      "171"
+    ]
+  }
+}

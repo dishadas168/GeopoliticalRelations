@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/blacklivesmatter-the-poli_b_7428572.html"
+  },
+  "headline":{
+    "0":"#BlackLivesMatter: The Politics and History Surrounding Memorial Day"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Despite my effort, many historians continue to see only white soldiers' suffering and death during the war. But what about those who did not wear the Union blue or Confederate grey but died in the same war often alongside of white soldiers? How we might remember their death and suffering?"
+  },
+  "authors":{
+    "0":"Jim Downs, ContributorHistorian and Author"
+  },
+  "date":{
+    "0":"2015-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "historians",
+      "~edu",
+      "~",
+      "soldiers",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "historians",
+      "soldiers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "continue ... see"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---mil",
+      "010"
+    ]
+  }
+}

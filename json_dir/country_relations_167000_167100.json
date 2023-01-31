@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.laweekly.com\/2013-03-07\/news\/wells-fargo-typo-victim-dead-larry-delassus\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russell-brand-divorce-9-w_us_5b9cceb5e4b03a1dcc8209bd"
+  },
+  "headline":{
+    "0":"Wells Fargo Typo Victim Dies In Court",
+    "1":"Russell Brand Divorce: 9 Women The Comedian Has Reportedly Dated Post-Split"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"DIVORCE"
+  },
+  "short_description":{
+    "0":"On the morning of Dec. 19, 2012, in a Torrance courtroom, Larry Delassus' heart stopped as he watched his attorney argue",
+    "1":"Over the last 14 months, tabloid reports have linked the British funnyman to a number of ladies, including actresses, models"
+  },
+  "authors":{
+    "0":"",
+    "1":"Kelsey Borresen"
+  },
+  "date":{
+    "0":"2013-03-09 00:00:00",
+    "1":"2013-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusacvl",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "wells fargo",
+      "victim",
+      "mncusacvl",
+      "wells",
+      "fargo",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "tabloid",
+      "~med",
+      "~",
+      "british",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "wells fargo ... victim",
+      "court"
+    ],
+    "1":[
+      "tabloid",
+      "british"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "wells fargo",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dies"
+    ],
+    "1":[
+      "have linked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncusacvl",
+      "---jud",
+      "190"
+    ],
+    "1":[
+      "---med",
+      "gbr",
+      "060"
+    ]
+  }
+}

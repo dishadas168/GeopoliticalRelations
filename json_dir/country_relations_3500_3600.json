@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/pro-trump-lawyer-sidney-powell-mocked-for-baseless-typo-laden-lawsuits_n_5fbfe6c4c5b66bb88c652c00",
+    "1":"https:\/\/www.huffpost.com\/entry\/laverne-cox-citi-true-name-transgender-initiative_n_5fbd966ac5b68ca87f7f8c93"
+  },
+  "headline":{
+    "0":"Ex-Trump Lawyer Sidney Powell Mocked For Typo-Laden Lawsuits",
+    "1":"Laverne Cox Wants To Reframe Narrative Around Transgender Rights With New Project"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The estranged Trump campaign lawyer filed lawsuits to overturn election results in Michigan and Georgia, rife with spelling and formatting errors.",
+    "1":"The artist and activist teamed up with Citi for its \"True Name\" initiative, allowing trans and gender-nonconforming people to reflect their true selves."
+  },
+  "authors":{
+    "0":"Ja'han Jones",
+    "1":"Curtis M. Wong"
+  },
+  "date":{
+    "0":"2020-11-26 00:00:00",
+    "1":"2020-11-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---opp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "michigan",
+      "georgia",
+      "usa",
+      "geo",
+      "united",
+      "states",
+      "of",
+      "america",
+      "georgia"
+    ],
+    "1":[
+      "activist",
+      "~opp",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "michigan",
+      "lawyer",
+      "georgia"
+    ],
+    "1":[
+      "activist",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "---",
+      "georgia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "filed ... overturn",
+      "filed ... overturn"
+    ],
+    "1":[
+      "teamed ... allowing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "171",
+      "---jud",
+      "geo",
+      "171"
+    ],
+    "1":[
+      "---opp",
+      "---ppl",
+      "08"
+    ]
+  }
+}

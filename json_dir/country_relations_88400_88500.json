@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/can-this-man-tell-the-difference-between-a-kiss-from-a-woman-and-a-kiss-from-a-man_us_55ce2ab7e4b07addcb42df27"
+  },
+  "headline":{
+    "0":"Can This Man Tell The Difference Between A Kiss From A Woman And A Kiss From A Man?"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Can a straight man tell the difference between a kiss from a woman and a man? Popular YouTube vlogger Davey Wavey investigated"
+  },
+  "authors":{
+    "0":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2015-08-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "woman",
+      "man",
+      "~cvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "woman ... man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tell"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

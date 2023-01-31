@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/america-needs-a-five-star-airline_us_5b9c2d5ee4b03a1dcc7cde90"
+  },
+  "headline":{
+    "0":"America Needs A Five-Star Airline"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Why harp on one tiny aspect of airlines' customer experience? Because it's illustrative of the overall trend of poor product and service outputs by all major U.S. airlines."
+  },
+  "authors":{
+    "0":"John Nicholson, Contributor\nTravel writer, blogger, published author, and tourism evangeli..."
+  },
+  "date":{
+    "0":"2012-08-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "airline",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "airline"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---bus",
+      "100"
+    ]
+  }
+}

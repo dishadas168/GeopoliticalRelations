@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/becoming-a-second-time-mom_us_5b9de221e4b03a1dcc8e21dd"
+  },
+  "headline":{
+    "0":"Becoming a 'Second Time Mom'"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"When I found out I was pregnant with my second child, I could not imagine being a mother of two.  I could not imagine loving another child like I loved my first... to the core. I could not imagine that this new child would be anything other than a smaller version of my first child."
+  },
+  "authors":{
+    "0":"Allison O'Kelly, Contributor\nCEO and Founder, Corps Team"
+  },
+  "date":{
+    "0":"2014-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"120"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "120"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/in-the-race-to-save-the-elephants-will-the-us-or-china-step-up-first_b_7505802.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/can-angela-merkel-help-greece_b_7531284.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/louisiana-manages-to-meet_b_7530508.html"
+  },
+  "headline":{
+    "0":"In the Race to Save the Elephants, will the U.S. or China Step Up First?",
+    "1":"Can Angela Merkel Offer Hope for Greece?",
+    "2":"Louisiana Manages to Meet EPA's Ozone Standard Before an Anticipated Rule Tightening"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"WORLDPOST",
+    "2":"GREEN"
+  },
+  "short_description":{
+    "0":"This is, so far, the most monumental victory in the fight to save Africa's elephants, and a major push back against greed, status symbols and corruption.",
+    "1":"ATHENS -- Moralistic objections to helping Greece abound, denying its people a shot at achieving their own renaissance. Greater austerity is being demanded from an economy that is on its knees, owing to the heftiest dose of austerity any country has ever had to endure in peacetime. No offer of debt relief. No plan for boosting investment. And certainly, as of yet, no \"Speech of Hope\" for this fallen people.",
+    "2":"Last year, the EPA signaled that it will announce a stricter ground-level ozone standard this fall. South Louisiana and other warm, sunny places tend to be high in \"bad\" ozone. After a struggle, Baton Rouge and neighboring parishes with refineries and petrochemical plants have managed to comply with EPA's current ozone standard."
+  },
+  "authors":{
+    "0":"Jamie Joseph, ContributorWildlife Activist :: savingthewild.com",
+    "1":"Yanis Varoufakis, ContributorFormer Finance Minister of Greece",
+    "2":"Susan Buchanan, ContributorBusiness Writer"
+  },
+  "date":{
+    "0":"2015-06-08 00:00:00",
+    "1":"2015-06-08 00:00:00",
+    "2":"2015-06-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"deugov",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"grc",
+    "2":"usagovenv"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"030",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":4.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "china",
+      "usa",
+      "chn",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china"
+    ],
+    "1":[
+      "angela merkel",
+      "deugov",
+      "angela",
+      "merkel",
+      "greece",
+      "grc",
+      "greece"
+    ],
+    "2":[
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "angela merkel",
+      "greece"
+    ],
+    "2":[
+      "louisiana",
+      "epa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "angela merkel",
+      "greece"
+    ],
+    "2":[
+      "united states of america",
+      "environmental protection agency"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "offer"
+    ],
+    "2":[
+      "manages ... meet"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "chn",
+      "060",
+      "chn",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "deugov",
+      "grc",
+      "030"
+    ],
+    "2":[
+      "usa",
+      "usagovenv",
+      "040"
+    ]
+  }
+}

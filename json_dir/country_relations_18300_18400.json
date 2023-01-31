@@ -1,0 +1,234 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/theresa-may-assassination-attempt-foiled_us_5a2736dee4b044d16725b835",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-jerusalem-israel-capital-protests_us_5a278118e4b0c2117626b72d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-deutsche-bank-mueller_us_5a269325e4b07324e84082dc",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/suburban-express-racist-anti-chinese-ads_us_5a269ed1e4b086e4e5046650",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/john-conyers-sexual-misconduct-allegations_us_5a268ccde4b0f9f0203f239c"
+  },
+  "headline":{
+    "0":"British Authorities Reportedly Foil Terror Plot To Assassinate Prime Minister Theresa May",
+    "1":"Protests Erupt As Trump Recognizes Jerusalem As Israeli Capital",
+    "2":"Report: Robert Mueller Issues Subpoena For Info On Trump Bank Accounts",
+    "3":"Company Under Fire For Ad Saying 'You Won't Feel Like You're In China' On Buses",
+    "4":"Another Former Staffer Alleges That John Conyers Groped Her"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"BUSINESS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Two men were arrested late last month in connection with the scheme.",
+    "1":"People took to the streets in Gaza City, burning American flags and photos of Trump.",
+    "2":"Deutsche Bank has loaned the Trump organization millions of dollars for real estate ventures.",
+    "3":"Illinois' Suburban Express later sent an \"apology\" for its anti-Chinese email blast criticizing international students.",
+    "4":"The veteran congressman announced late Tuesday morning that he would retire from Congress."
+  },
+  "authors":{
+    "0":"Doha Madani and Dominique Mosbergen",
+    "1":"Nick Visser and Willa Frej",
+    "2":"",
+    "3":"Kimberly Yam",
+    "4":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-12-06 00:00:00",
+    "1":"2017-12-06 00:00:00",
+    "2":"2017-12-05 00:00:00",
+    "3":"2017-12-05 00:00:00",
+    "4":"2017-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"gbrgov",
+    "1":"---ppl",
+    "2":"mncdeu",
+    "3":"usa",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"gbrgovhri",
+    "1":"psegza",
+    "2":"meareb",
+    "3":"---edu",
+    "4":"---leg"
+  },
+  "event_code":{
+    "0":"186",
+    "1":"171",
+    "2":"071",
+    "3":"111",
+    "4":"08"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-9.2,
+    "2":7.4,
+    "3":-2.0,
+    "4":5.0
+  },
+  "nouns":{
+    "0":[
+      "british",
+      "authorities",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~",
+      "theresa may",
+      "gbrgovhri",
+      "theresa",
+      "may"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "gaza city",
+      "psegza",
+      "gaza",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "deutsche bank",
+      "mncdeu",
+      "deutsche",
+      "bank",
+      "organization",
+      "meareb",
+      "tanzim"
+    ],
+    "3":[
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "congressman",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "british authorities",
+      "theresa may"
+    ],
+    "1":[
+      "people",
+      "gaza city"
+    ],
+    "2":[
+      "deutsche bank",
+      "organization"
+    ],
+    "3":[
+      "illinois",
+      "students"
+    ],
+    "4":[
+      "congressman",
+      "congressman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "theresa may"
+    ],
+    "1":[
+      "---",
+      "gaza"
+    ],
+    "2":[
+      "deutsche bank",
+      "tanzim"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plot ... assassinate"
+    ],
+    "1":[
+      "took"
+    ],
+    "2":[
+      "has loaned ... millions"
+    ],
+    "3":[
+      "sent ... criticizing"
+    ],
+    "4":[
+      "announced ... would retire"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1",
+      "assassination",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "housing_prices",
+      "1"
+    ],
+    "3":[
+      "students",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "gbrgov",
+      "gbrgovhri",
+      "186"
+    ],
+    "1":[
+      "---ppl",
+      "psegza",
+      "171"
+    ],
+    "2":[
+      "mncdeu",
+      "meareb",
+      "071"
+    ],
+    "3":[
+      "usa",
+      "---edu",
+      "111"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "08"
+    ]
+  }
+}

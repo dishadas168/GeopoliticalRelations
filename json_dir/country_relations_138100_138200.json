@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/men-transformed-into-women_us_5bafc037e4b0ad7692615a41"
+  },
+  "headline":{
+    "0":"Why Men Come to Me to Be Transformed Into Women"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Grindr is infested with profiles that state: \"Masc for Masc,\" which makes me questions if gays today are using their \"masc\" as a mask."
+  },
+  "authors":{
+    "0":"Adrian Acosta, Contributor\nPhotographer, Website Creator, Drag Artist"
+  },
+  "date":{
+    "0":"2014-01-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

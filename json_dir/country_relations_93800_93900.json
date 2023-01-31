@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rebellion-in-the-ranks_b_7575278.html"
+  },
+  "headline":{
+    "0":"Rebellion in the Ranks"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"President Obama acknowledges that many lower-skilled workers will lose their jobs if they are forced to compete in a global marketplace. That's why trade adjustment assistance is needed. But Democrats are horrified by a policy that, whatever the benefits, would end up creating greater inequality."
+  },
+  "authors":{
+    "0":"Bill Schneider, ContributorProfessor, George Mason University"
+  },
+  "date":{
+    "0":"2015-06-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---lab"
+  },
+  "event_code":{
+    "0":"170"
+  },
+  "goldstein_score":{
+    "0":-7.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "acknowledges <~lab> ... forced"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---lab",
+      "170"
+    ]
+  }
+}

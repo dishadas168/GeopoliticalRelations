@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/best-of-venice-70-ijuliai_us_5bb43793e4b066f8d2565f2d"
+  },
+  "headline":{
+    "0":"Best of Venice: Julia, a True Anti-Conformist Heroine"
+  },
+  "category":{
+    "0":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The German documentary Julia tells the fascinating true life tale of a beautiful Lithuanian transexual prostitute living in Berlin, and accompanies her voyage through nearly ten years, thanks to the lens and love of filmmaker J. Jackie Baier."
+  },
+  "authors":{
+    "0":"E. Nina Rothe, Contributor\nCultural Activist"
+  },
+  "date":{
+    "0":"2013-08-31 00:00:00"
+  },
+  "actor1":{
+    "0":"deu"
+  },
+  "actor2":{
+    "0":"ltu"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "german",
+      "deu",
+      "germany",
+      "lithuanian",
+      "ltu",
+      "lithuania",
+      "berlin",
+      "deu",
+      "germany",
+      "lithuanian",
+      "ltu",
+      "lithuania"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "german",
+      "lithuanian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "lithuania"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... tells"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "deu",
+      "ltu",
+      "010"
+    ]
+  }
+}

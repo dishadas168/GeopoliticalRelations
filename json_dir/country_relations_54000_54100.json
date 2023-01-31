@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/republicans-obama-judicial-vacan_us_57e93ae6e4b0e28b2b550425",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/clinton-unlikely-voters-polls_us_57ee597ae4b024a52d2e5c2a"
+  },
+  "headline":{
+    "0":"GOP Admits Obama Judge Count Is More Important Than Fixing Judicial Crises",
+    "1":"HUFFPOLLSTER: Hillary Clinton Could Benefit From Motivating Unlikely Voters"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Republican senators are damaging an entire branch of government, and hiding behind a bogus statistic.",
+    "1":"She leads among those who say they aren't planning to vote."
+  },
+  "authors":{
+    "0":"Michael McAuliff and Jennifer Bendery",
+    "1":"Natalie Jackson and Ariel Edwards-Levy"
+  },
+  "date":{
+    "0":"2016-10-01 00:00:00",
+    "1":"2016-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usaeli"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "government"
+    ],
+    "1":[
+      "hillary clinton",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are damaging"
+    ],
+    "1":[
+      "could benefit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---gov",
+      "180"
+    ],
+    "1":[
+      "usaeli",
+      "---cvl",
+      "060"
+    ]
+  }
+}

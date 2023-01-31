@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yes-men-are-still-harassing-people-on-the-street-no-its-still-not-okay_b_7052376.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-changing-face-of-chin_b_7050956.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-cuba-relations_n_7051080.html"
+  },
+  "headline":{
+    "0":"Yes, Men Are Still Harassing People On The Street. No, It's Still Not Okay.",
+    "1":"The Changing Face of China's Military: Changes in PLA Military Diplomacy Under Xi Jinping",
+    "2":"History Now Made, The U.S. And Cuba Face A Bumpy Road Ahead"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Efforts like Stop Street Harassment's (SSH) annual International Anti-Street Harassment Week, which is happening now, are so important. While street harassment itself is a very public, visible act, the week-long campaign is a sustained moment to make visible the message that it's not okay.",
+    "1":"The PLA's increasing willingness to participate in joint exercises with other nations allows the PLA to showcase the new capabilities that have resulted from its modernization and helps the PLA maintain its security interests in the region and around the world.",
+    "2":""
+  },
+  "authors":{
+    "0":"Patrick McNeil, ContributorCivil and human rights advocate",
+    "1":"China Hands, ContributorFor Future Leaders in US-China Relations",
+    "2":""
+  },
+  "date":{
+    "0":"2015-04-13 00:00:00",
+    "1":"2015-04-12 00:00:00",
+    "2":"2015-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"chnmil",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"chnmil",
+    "2":"cub"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"08",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":5.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "pla",
+      "chnmil",
+      "peoples",
+      "liberation",
+      "army",
+      "pla",
+      "chnmil",
+      "peoples",
+      "liberation",
+      "army",
+      "pla",
+      "chnmil",
+      "peoples",
+      "liberation",
+      "army"
+    ],
+    "2":[
+      "u.s.",
+      "cuba",
+      "usa",
+      "cub",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cuba"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "men"
+    ],
+    "1":[
+      "pla",
+      "pla"
+    ],
+    "2":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "peoples liberation army",
+      "peoples liberation army"
+    ],
+    "2":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... harassing"
+    ],
+    "1":[
+      "<and> ... allows"
+    ],
+    "2":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "140"
+    ],
+    "1":[
+      "chnmil",
+      "chnmil",
+      "08"
+    ],
+    "2":[
+      "usa",
+      "cub",
+      "040",
+      "cub",
+      "usa",
+      "040"
+    ]
+  }
+}

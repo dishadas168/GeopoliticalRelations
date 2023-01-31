@@ -1,0 +1,384 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flint-michigan-bottled-water-order_us_583f2b3ae4b0c68e047e65f8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-immigrant-detention_us_583f078ae4b04fcaa4d62119",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/new-orleans-school_us_583e3b29e4b0ae0e7cdac9a3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ohio-state-attack-isis_us_583f59f8e4b09e21702ca313",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-smooth-military-ties-trump_us_583ec73de4b0c33c8e13149c",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-carrier-rexnord_us_583eee92e4b04fcaa4d5f0ca",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/university-of-chicago-offers-students-trump-101-class_us_583f5dece4b04587de5de6fe",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/flexible-hours-shouldnt-be-a-salary-tradeoff-or-a_us_583ef22ce4b002d13f7a88ad"
+  },
+  "headline":{
+    "0":"Michigan Is Still Fighting A Court Order To Provide Water To Flint",
+    "1":"Supreme Court Could Give Donald Trump Free Rein To Indefinitely Detain Immigrants",
+    "2":"In New Orleans, A School That Refuses To Allow Its Students To Fail",
+    "3":"Ohio State Attacker Appears To Have Been Inspired By ISIS, Anwar Al-Awlaki",
+    "4":"China Says It Wants Smooth Military Ties With Donald Trump",
+    "5":"There's More Than One Indiana Company That Wants To Go To Mexico",
+    "6":"University of Chicago Offers Students \"Trump 101\" Class",
+    "7":"Flexible Hours Shouldn\u2019t Be A Salary Tradeoff, Or A Woman\u2019s Burden"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"COLLEGE",
+    "7":"WOMEN"
+  },
+  "short_description":{
+    "0":"\u201cWe\u2019ve got an ongoing crisis to this day,\u201d the Natural Resources Defense Council says.",
+    "1":"The justices will decide whether immigration laws, or the Constitution itself, prevent non-citizens from being detained for years on end.",
+    "2":"A program at this charter school throws teens on the edge a lifeline",
+    "3":"The Muslim student plowed a car into people at the campus, then stabbed others.",
+    "4":"The president-elect lambasted China on the campaign trail and has suggested Japan and South Korea be allowed to develop nuclear weapons.",
+    "5":"President-elect Donald Trump has been focused on Carrier, but there are several others.",
+    "6":"If you live anywhere near a college campus these days, you\u2019ve seen it: mass panic, and mass confusion as hyper-liberal college",
+    "7":"Some people think I\u2019m entitled, maybe even naive or childish, when it comes to my views on the workplace. Let me elaborate"
+  },
+  "authors":{
+    "0":"Joseph Erbentraut",
+    "1":"Cristian Farias and Elise Foley",
+    "2":"Jennifer Shaw, The Hechinger Report",
+    "3":"Alex Dobuzinskis, Reuters",
+    "4":"",
+    "5":"Arthur Delaney",
+    "6":"Michael Sitver, Contributor21-year-old writer, developer, and entrepreneur.",
+    "7":"Taylor Coil, ContributorMarketing at Tortuga"
+  },
+  "date":{
+    "0":"2016-11-30 00:00:00",
+    "1":"2016-11-30 00:00:00",
+    "2":"2016-11-30 00:00:00",
+    "3":"2016-11-30 00:00:00",
+    "4":"2016-11-30 00:00:00",
+    "5":"2016-11-30 00:00:00",
+    "6":"2016-11-30 00:00:00",
+    "7":"2016-11-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---edu",
+    "3":"imgmusisi",
+    "4":"---gov",
+    "5":"usabus",
+    "6":"usaedu",
+    "7":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"---edu",
+    "3":"usa",
+    "4":"chn",
+    "5":"mex",
+    "6":"---edu",
+    "7":"---ppl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"08",
+    "3":"051",
+    "4":"111",
+    "5":"040",
+    "6":"030",
+    "7":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":5.0,
+    "3":3.4,
+    "4":-2.0,
+    "5":1.0,
+    "6":4.0,
+    "7":1.0
+  },
+  "nouns":{
+    "0":[
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "school",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "anwar al awlaki",
+      "imgmusisi",
+      "img",
+      "the",
+      "islamic",
+      "state",
+      "al-qaeda",
+      "in",
+      "the",
+      "arabian",
+      "peninsula"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "china",
+      "chn",
+      "china",
+      "japan",
+      "south korea",
+      "jpn",
+      "kor",
+      "japan",
+      "south",
+      "korea"
+    ],
+    "5":[
+      "indiana",
+      "company",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "6":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "7":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "michigan",
+      "court"
+    ],
+    "1":[
+      "supreme court",
+      "immigrants"
+    ],
+    "2":[
+      "school",
+      "school"
+    ],
+    "3":[
+      "isis",
+      "ohio",
+      "isis",
+      "ohio"
+    ],
+    "4":[
+      "president",
+      "china",
+      "president",
+      "japan",
+      "president",
+      "south korea"
+    ],
+    "5":[
+      "indiana company",
+      "mexico"
+    ],
+    "6":[
+      "university",
+      "students"
+    ],
+    "7":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "the islamic state",
+      "united states of america",
+      "the islamic state",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "china",
+      "---",
+      "japan",
+      "---",
+      "south korea"
+    ],
+    "5":[
+      "united states of america",
+      "mexico"
+    ],
+    "6":[
+      "",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... fighting"
+    ],
+    "1":[
+      "could give"
+    ],
+    "2":[
+      "refuses ... allow"
+    ],
+    "3":[
+      "<usa> ... inspired by <imgmusisi>",
+      "<usa> ... inspired by <imgmusisi>"
+    ],
+    "4":[
+      "<and> ... lambasted",
+      "<and> ... suggested",
+      "<and> ... suggested"
+    ],
+    "5":[
+      "wants ... go"
+    ],
+    "6":[
+      "offers"
+    ],
+    "7":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "nuclear_weapons",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---jud",
+      "190"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "08"
+    ],
+    "3":[
+      "imgmusisi",
+      "usa",
+      "051",
+      "img",
+      "usa",
+      "051"
+    ],
+    "4":[
+      "---gov",
+      "chn",
+      "111",
+      "---gov",
+      "jpn",
+      "020",
+      "---gov",
+      "kor",
+      "020"
+    ],
+    "5":[
+      "usabus",
+      "mex",
+      "040"
+    ],
+    "6":[
+      "usaedu",
+      "---edu",
+      "030"
+    ],
+    "7":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

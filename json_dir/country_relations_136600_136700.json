@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gps-tracking-devices-for-kids-with-autism_us_5b9dd19ae4b03a1dcc8d4728"
+  },
+  "headline":{
+    "0":"GPS Tracking Devices for Kids with Autism?"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Schumer's proposed legislation is that the federal government would pay $10 million for GPS tracking devices to be used by children with autism, worn on the wrist or in clothing. Each device would cost about $85."
+  },
+  "authors":{
+    "0":"William Stillman, Contributor\nAward-winning author of Autism and the God Connection"
+  },
+  "date":{
+    "0":"2014-01-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~gov> ... pay ... used by <~cvl>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---gov",
+      "061"
+    ]
+  }
+}

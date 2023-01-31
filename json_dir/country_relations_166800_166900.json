@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-petrakis-prenup_us_5b9cea47e4b03a1dcc82ecfd"
+  },
+  "headline":{
+    "0":"Elizabeth Petrakis, Millionaire's Wife, Gets Prenup Thrown Out"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"In a rare move, a Brooklyn appellate court has decided that a prenuptial agreement between a Long Island woman and her millionaire"
+  },
+  "authors":{
+    "0":"Katie Bindley"
+  },
+  "date":{
+    "0":"2013-03-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "appellate court",
+      "~jud",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "appellate court",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has decided"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cvl",
+      "030"
+    ]
+  }
+}

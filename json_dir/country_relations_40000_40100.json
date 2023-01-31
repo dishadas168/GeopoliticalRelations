@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dakota-access-pipeline-protesters-facebook-searches_us_58c186c5e4b054a0ea68a431"
+  },
+  "headline":{
+    "0":"Prosecutors Withdraw Warrant To Search Dakota Access Protesters' Facebook Accounts"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The ACLU argued investigators were intruding on political speech."
+  },
+  "authors":{
+    "0":"Michael McLaughlin"
+  },
+  "date":{
+    "0":"2017-03-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"usaopp"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "dakota",
+      "protesters",
+      "usaopp",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "dakota ... protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warrant ... search"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usaopp",
+      "090"
+    ]
+  }
+}

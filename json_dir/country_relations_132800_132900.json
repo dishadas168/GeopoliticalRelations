@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/thegrio.com\/2014\/03\/08\/nick-cannon-nfl-stars-warren-moon-and-jarvis-green-victimized-in-nba-scam\/"
+  },
+  "headline":{
+    "0":"Nick Cannon, NFL Stars Warren Moon And Jarvis Green Victimized In NBA Scam"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Prosecutors charged a Los Angeles man with nearly a dozen felonies in connection with an alleged scheme to fraudulently sell"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-03-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"112"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "charged"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "112"
+    ]
+  }
+}

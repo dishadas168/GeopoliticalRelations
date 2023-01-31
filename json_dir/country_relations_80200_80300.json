@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/video-appears-to-show-greek-coast-guard-attempting-to-sink-boat-of-syrian-refugees_us_5651e71ce4b0879a5b0b5ed2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/maziar-bahari-iran-journalists-crackdown_us_56460911e4b060377348aee4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-refugees_us_5650a4e0e4b0d4093a57ffa6"
+  },
+  "headline":{
+    "0":"Video Appears To Show Greek Coast Guard Attempting To Sink Boat Of Syrian Refugees",
+    "1":"Formerly Jailed Journalist Explains Iran's Recent Crackdown On Dissent",
+    "2":"Joe Biden: Turning Away Refugees Is Giving ISIS What They Want"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Greek coast guard has denied the allegations, and insists they were working with Turkish crews to rescue the boat.",
+    "1":"Maziar Bahari's memoir was the basis of Jon Stewart's film \"Rosewater.\"",
+    "2":"\"To turn them away and say there is no way you can ever get here would play right into the terrorists\u2019 hands.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Charlotte Alfred",
+    "2":"Sam Levine"
+  },
+  "date":{
+    "0":"2015-11-22 00:00:00",
+    "1":"2015-11-21 00:00:00",
+    "2":"2015-11-21 00:00:00"
+  },
+  "actor1":{
+    "0":"grcmil",
+    "1":"---med",
+    "2":"---ref"
+  },
+  "actor2":{
+    "0":"grcmil",
+    "1":"irn",
+    "2":"imgmusisi"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "greek",
+      "coast guard",
+      "grcmil",
+      "greece",
+      "~",
+      "turkish",
+      "tur",
+      "turkey"
+    ],
+    "1":[
+      "journalist",
+      "~med",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "2":[
+      "refugees",
+      "~ref",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "greek coast guard",
+      "greek coast guard"
+    ],
+    "1":[
+      "journalist",
+      "iran"
+    ],
+    "2":[
+      "refugees",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "greece",
+      "greece"
+    ],
+    "1":[
+      "---",
+      "iran"
+    ],
+    "2":[
+      "---",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "explains"
+    ],
+    "2":[
+      "is giving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "grcmil",
+      "grcmil",
+      "100"
+    ],
+    "1":[
+      "---med",
+      "irn",
+      "010"
+    ],
+    "2":[
+      "---ref",
+      "imgmusisi",
+      "060"
+    ]
+  }
+}

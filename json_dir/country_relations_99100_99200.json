@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/priorities-for-romania-strengthening-the-rule-of-law-and-advancing-economic-freedom_b_7049460.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cbs-you-already-have-a-ve_b_7049526.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/yemen-war-saudi-arabia-ceasefire_n_7049570.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_384_b_7047056.html"
+  },
+  "headline":{
+    "0":"Priorities for Romania: Strengthening the Rule of Law and Advancing Economic Freedom",
+    "1":"CBS, You Already Have  a Very Smart, Experienced, Talented Person to Replace Bob Schieffer at Face the Nation",
+    "2":"Saudi Arabia Dismisses Iran Calls For Yemen Ceasefire",
+    "3":"Sunday Roundup"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"MEDIA",
+    "2":"WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"In order to increase economic freedom for its citizens and enable them to achieve higher standards of living, Romania needs to continue its efforts to eradicate corruption and establish an independent and efficient judicial system.",
+    "1":"Besides the fact that it is about time a woman took the helm at one of these Sunday morning shows that are hosted by men (women are more than 50% of the population!!), CBS has the perfect person right in front their eyes to take over at Face the Nation!  Norah O'Donnell!",
+    "2":"",
+    "3":"This week delivered a prelude to today's announcement of Hillary Clinton's campaign for president, thus beginning our long national nightmare of breathless fluctuations in swing state polls, manufactured scandals, and faux outrage over faux stories. But it doesn't have to be that way; when the media serves up an unending stream of nothing-burgers (extra Benghazi on that?), we can demand more substantive fare. Like the fact that the 2016 race could be shaping up as a referendum on another war, this one with a country twice as big as Iraq, or that this week the Senate Foreign Relations Committee continued deal-making on legislation that could scuttle the Iran nuclear deal. There are plenty of real scandals to debate -- the declining middle class, our broken justice system, income inequality, the list goes on. So when the fake ones are served up, what we need is a political version of Amazon's Dash Button -- a Who Cares Button. Watch for it as part of HuffPost's 2016 coverage!"
+  },
+  "authors":{
+    "0":"Natasha Srdoc, ContributorAuthor, Economist, Co-Founder, Adriatic Institute and Internat...",
+    "1":"Greta Van Susteren, ContributorHost, Fox News' 'On the Record With Greta Van Susteren'",
+    "2":"",
+    "3":"Arianna Huffington, Contributor"
+  },
+  "date":{
+    "0":"2015-04-12 00:00:00",
+    "1":"2015-04-12 00:00:00",
+    "2":"2015-04-12 00:00:00",
+    "3":"2015-04-12 00:00:00"
+  },
+  "actor1":{
+    "0":"rou",
+    "1":"---ppl",
+    "2":"sau",
+    "3":"---med"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"yem",
+    "3":"lby"
+  },
+  "event_code":{
+    "0":"101",
+    "1":"043",
+    "2":"0256",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":2.8,
+    "2":null,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "romania",
+      "rou",
+      "romania",
+      "judicial system",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "saudi arabia",
+      "iran",
+      "sau",
+      "irn",
+      "saudi",
+      "arabia",
+      "iran",
+      "yemen",
+      "yem",
+      "yemen"
+    ],
+    "3":[
+      "media",
+      "~med",
+      "~",
+      "benghazi",
+      "lby",
+      "libya"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "romania",
+      "judicial system"
+    ],
+    "1":[
+      "men",
+      "woman"
+    ],
+    "2":[
+      "saudi arabia",
+      "yemen",
+      "iran",
+      "yemen"
+    ],
+    "3":[
+      "media",
+      "benghazi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "romania",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "saudi arabia",
+      "yemen",
+      "iran",
+      "yemen"
+    ],
+    "3":[
+      "---",
+      "libya"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs ... establish"
+    ],
+    "1":[
+      "<~cvl> ... hosted by"
+    ],
+    "2":[
+      "calls for <&ceasefire>",
+      "calls for <&ceasefire>"
+    ],
+    "3":[
+      "serves"
+    ]
+  },
+  "issues":{
+    "0":[
+      "corruption",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "rou",
+      "---jud",
+      "101"
+    ],
+    "1":[
+      "---ppl",
+      "---cvl",
+      "043"
+    ],
+    "2":[
+      "sau",
+      "yem",
+      "0256",
+      "irn",
+      "yem",
+      "0256"
+    ],
+    "3":[
+      "---med",
+      "lby",
+      "060"
+    ]
+  }
+}

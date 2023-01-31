@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/state-department-russian-meddling_us_5a9cb149e4b089ec353bc61e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/gay-catholic-priests-vatican_us_5a9d79b2e4b0a0ba4ad6a1d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/angelo-caloia-vatican-bank-embezzlement-scandal_us_5a9b9d60e4b0a0ba4ad4135b"
+  },
+  "headline":{
+    "0":"State Department Has Spent None Of The $120 Million Allocated To Fight Russian Interference",
+    "1":"Italian Cardinal Sends List Of Purportedly Gay Catholic Clergy To Vatican",
+    "2":"Vatican Bank\u2019s Ex-Chief Indicted For Embezzlement And Money Laundering"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Secretary of State Rex Tillerson has cast doubt on his own agency's ability to combat foreign governments.",
+    "1":"A male escort's list reportedly contains texts and photos from Italian priests and seminarians.",
+    "2":"Vatican prosecutors have indicted Angelo Caloia and his lawyer over embezzlement losses of more than $60 million."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"Carol Kuruvilla",
+    "2":"Philip Pullella, Reuters"
+  },
+  "date":{
+    "0":"2018-03-05 00:00:00",
+    "1":"2018-03-05 00:00:00",
+    "2":"2018-03-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"mdv",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"itarel",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"170",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-7.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "governments",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "male",
+      "mdv",
+      "maldives",
+      "italian",
+      "priests",
+      "itarel",
+      "italy",
+      "~"
+    ],
+    "2":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "lawyer",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "secretary of state",
+      "governments"
+    ],
+    "1":[
+      "male",
+      "italian priests"
+    ],
+    "2":[
+      "prosecutors",
+      "prosecutors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the us secretary of state",
+      "---"
+    ],
+    "1":[
+      "maldives",
+      "italy"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... combat"
+    ],
+    "1":[
+      "contains"
+    ],
+    "2":[
+      "have indicted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "190"
+    ],
+    "1":[
+      "mdv",
+      "itarel",
+      "170"
+    ],
+    "2":[
+      "---jud",
+      "---jud",
+      "173"
+    ]
+  }
+}

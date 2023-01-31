@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/247wallst.com\/special-report\/2015\/09\/22\/10-cities-where-you-dont-want-to-get-sick\/",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.ibtimes.com\/al-jazeera-america-will-not-recognize-union-nlrb-elections-underway-2118695"
+  },
+  "headline":{
+    "0":"10 Cities Where You Don\u2019t Want to Get Sick",
+    "1":"Al Jazeera America Won't Recognize Employee Union"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"About 440,000 people die in the United States each year as a result of a preventable hospital error. Despite the precautions",
+    "1":"After several weeks, the management at Al Jazeera America (AJAM) has decided not to recognize the union drive announced by"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2015-09-30 00:00:00",
+    "1":"2015-09-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usahlh",
+    "1":"---lab"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"051"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "hospital",
+      "~hlh",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "employee",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "---"
+    ],
+    "1":[
+      "america",
+      "employee"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "die"
+    ],
+    "1":[
+      "wo ... recognize"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usahlh",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "---lab",
+      "051"
+    ]
+  }
+}

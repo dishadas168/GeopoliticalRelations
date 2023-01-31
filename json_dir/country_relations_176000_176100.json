@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/frank-mugisha-uganda-gay-activist-bill-death-penalty_us_5bafadbde4b0ad76925fed19",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/insidemovies.ew.com\/2012\/12\/02\/star-wars-rick-mccallum-leaving-lucasfilm\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/man-tries-to-break-into-judges-office-twice-video_us_5ba2a686e4b0c2784da3d6ef"
+  },
+  "headline":{
+    "0":"Frank Mugisha, Ugandan Gay Activist: If Anti-Gay Bill Passes, I'd Be 'Sentenced To Death'",
+    "1":"Rick McCallum & Lucasfilm: 'Star Wars' Producer Is Leaving Company",
+    "2":"Man Tries To Break Into Judge's Office Twice (VIDEO)"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"ENTERTAINMENT",
+    "2":"CRIME"
+  },
+  "short_description":{
+    "0":"But Mugisha implored people to keep up the pressure. Though some U.S. LGBT activists have called upon the Obama administration",
+    "1":"Producer Rick McCallum \u2014 who was instrumental in the resurrection of the Star Wars franchise, from the \u201cSpecial Edition\u201d re",
+    "2":"State Superior Court Judge Correale Stevens jokes that he can't understand why someone would want to break into his office"
+  },
+  "authors":{
+    "0":"Michelangelo Signorile, Columnist",
+    "1":"",
+    "2":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2012-12-02 00:00:00",
+    "1":"2012-12-02 00:00:00",
+    "2":"2012-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---bus",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---bus",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"040",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":1.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "producer",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "the obama administration"
+    ],
+    "1":[
+      "producer",
+      "producer"
+    ],
+    "2":[
+      "man",
+      "judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have called upon"
+    ],
+    "1":[
+      "is leaving"
+    ],
+    "2":[
+      "tries ... break"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usagov",
+      "020"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "040"
+    ],
+    "2":[
+      "---ppl",
+      "---jud",
+      "190"
+    ]
+  }
+}

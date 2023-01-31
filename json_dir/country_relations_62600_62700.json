@@ -1,0 +1,316 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/california-close-to-rolling-out-2-billion-plan-to-house-homeless-people_us_57685740e4b015db1bca5210",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dump-trump-unruh-rules_us_57675d8ae4b0fbbc8beac99c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bushmaster-sandy-hook-lawsuit_us_57681d81e4b0fbbc8beb152a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/james-baker-ohio-gun-shop-owner-killed_us_5767fbbde4b015db1bc9dc0a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/world-bank-allows-tanzania-to-sidestep-rule-protecting-indigenous-groups_us_57607769e4b09c926cfd6b1c",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/orlando-shooter-911-calls_us_5768028ee4b015db1bc9e5f5",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/tennessee-anti-gay-sign_us_57682a71e4b015db1bca13ec"
+  },
+  "headline":{
+    "0":"California Close To Rolling Out $2 Billion Plan To House Homeless People",
+    "1":"Dump Trumpers Think They Need Just 57 Votes To Win",
+    "2":"Maker Of Gun Used In Newtown Massacre Claims Overreach In Lawsuit",
+    "3":"Ohio Gun Shop Owner Is Shot And Killed During Gun Safety Class",
+    "4":"World Bank Allows Tanzania To Sidestep Rule Protecting Indigenous Groups",
+    "5":"Orlando Shooter Told Police 'I Did The Shootings'",
+    "6":"Days After Orlando, Church Defends Its Horrific Anti-Gay Sign"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"BUSINESS",
+    "5":"CRIME",
+    "6":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"It will involve a 1 percent tax hike for millionaires.",
+    "1":"Anti-Trump Republican delegates want a \"conscience\" clause as an out from any obligation to vote for him.",
+    "2":"The families of nine people who died in the attack sued Bushmaster in 2014 in Connecticut Superior Court in Bridgeport.",
+    "3":"Students were performing drills when a weapon discharged, shooting James Baker, 64.",
+    "4":"A loophole in the World Bank's policy protecting indigenous communities could allow governments around the world to displace locals in the path of agricultural development without restoring their livelihoods.",
+    "5":"The FBI has released transcripts of Omar Mateen's 911 calls during last weekend's mass shooting.",
+    "6":"The Tennessee pastor said he's \"not trying to kill\" LGBT people, but save them instead."
+  },
+  "authors":{
+    "0":"Eleanor Goldberg",
+    "1":"S.V. Date",
+    "2":"",
+    "3":"Nina Golgowski",
+    "4":"Sasha Chavkin and Dana Ullman",
+    "5":"Alana Horowitz Satlin",
+    "6":"Curtis M. Wong"
+  },
+  "date":{
+    "0":"2016-06-21 00:00:00",
+    "1":"2016-06-20 00:00:00",
+    "2":"2016-06-20 00:00:00",
+    "3":"2016-06-20 00:00:00",
+    "4":"2016-06-20 00:00:00",
+    "5":"2016-06-20 00:00:00",
+    "6":"2016-06-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---leg",
+    "2":"---ppl",
+    "3":"---edu",
+    "4":"igounodevwbk",
+    "5":"usa",
+    "6":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---leg",
+    "2":"usajud",
+    "3":"usaeli",
+    "4":"---gov",
+    "5":"---cop",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030",
+    "2":"173",
+    "3":"190",
+    "4":"08",
+    "5":"010",
+    "6":"015"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0,
+    "2":-5.0,
+    "3":-10.0,
+    "4":5.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "delegates",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "connecticut",
+      "superior court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "students",
+      "~edu",
+      "~",
+      "james baker",
+      "usaeli",
+      "james",
+      "baker"
+    ],
+    "4":[
+      "world bank",
+      "igounodevwbk",
+      "world",
+      "bank",
+      "world bank",
+      "igounodevwbk",
+      "world",
+      "bank",
+      "governments",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "6":[
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "people"
+    ],
+    "1":[
+      "delegates",
+      "delegates"
+    ],
+    "2":[
+      "people",
+      "connecticut superior court"
+    ],
+    "3":[
+      "students",
+      "james baker"
+    ],
+    "4":[
+      "world bank",
+      "governments"
+    ],
+    "5":[
+      "orlando",
+      "police"
+    ],
+    "6":[
+      "tennessee",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "james baker"
+    ],
+    "4":[
+      "world bank",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plan"
+    ],
+    "1":[
+      "want ... vote"
+    ],
+    "2":[
+      "sued ... in  ... court"
+    ],
+    "3":[
+      "were ... shooting"
+    ],
+    "4":[
+      "could allow"
+    ],
+    "5":[
+      "told"
+    ],
+    "6":[
+      "said ... 's ... kill"
+    ]
+  },
+  "issues":{
+    "0":[
+      "poverty",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "students",
+      "1"
+    ],
+    "4":[
+      "int_financial_inst",
+      "1",
+      "agriculture",
+      "1"
+    ],
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "030"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "030"
+    ],
+    "2":[
+      "---ppl",
+      "usajud",
+      "173"
+    ],
+    "3":[
+      "---edu",
+      "usaeli",
+      "190"
+    ],
+    "4":[
+      "igounodevwbk",
+      "---gov",
+      "08"
+    ],
+    "5":[
+      "usa",
+      "---cop",
+      "010"
+    ],
+    "6":[
+      "usa",
+      "---ppl",
+      "015"
+    ]
+  }
+}

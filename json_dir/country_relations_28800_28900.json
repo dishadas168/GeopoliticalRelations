@@ -1,0 +1,223 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/judge-says-protestors-cant-block-door-to-kentuckys-last-abortion-clinic_us_597212f2e4b09e5f6cced8f8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/immigration-raids-to-target-teenaged-suspected-gang-members_us_597263ffe4b09e5f6ccf55ac",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/exxon-sues-us-russia-sanctions-fine-tillerson_us_59716e36e4b09e5f6cce6318",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/what-if-even-the-best-republicans-or-democrats_us_5971db52e4b06b511b02c27b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/anthony-scaramucci-cnn_us_59726cfde4b09e5f6ccf6441"
+  },
+  "headline":{
+    "0":"Judge Says Protestors Can't Block Door To Kentucky's Last Abortion Clinic",
+    "1":"U.S. Immigration Raids To Target Teenaged Suspected Gang Members",
+    "2":"Exxon Fires Back Over Fine For Violating Russia Sanctions While Tillerson At Helm",
+    "3":"Politicians Must Offer Their Constituents The Same Sympathy They Offer One Another",
+    "4":"Trump 'Loved' His New Communications Director's Feud With CNN"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"MEDIA"
+  },
+  "short_description":{
+    "0":"The emergency court order comes before hundreds of anti-abortion protestors are set to descend on Kentucky.",
+    "1":"The raids are set to begin on Sunday and continue through Wednesday.",
+    "2":"Exxon sued the government over the $2 million fine, despite making $7.84 billion in profit last year.",
+    "3":"Voters are worthy of the consideration and deference granted to their elected officials.",
+    "4":"Anthony Scaramucci's stock with the president reportedly soared after the network's flawed story forced three journalists to resign."
+  },
+  "authors":{
+    "0":"Catherine Pearson",
+    "1":"Julia Edwards Ainsley, Reuters",
+    "2":"Yeganeh Torbati and Ernest Scheyder, Reuters",
+    "3":"P.L. Thomas, ContributorP.L. Thomas , professor of education (Furman University, Green...",
+    "4":"Michael Calderone"
+  },
+  "date":{
+    "0":"2017-07-21 00:00:00",
+    "1":"2017-07-21 00:00:00",
+    "2":"2017-07-21 00:00:00",
+    "3":"2017-07-21 00:00:00",
+    "4":"2017-07-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"mncusa",
+    "3":"---pty",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---crm",
+    "2":"---gov",
+    "3":"---cvl",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"173",
+    "3":"030",
+    "4":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":-5.0,
+    "3":4.0,
+    "4":-7.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "gang",
+      "~crm",
+      "~"
+    ],
+    "2":[
+      "exxon",
+      "mncusa",
+      "exxon",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "politicians",
+      "~pty",
+      "~",
+      "constituents",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "kentucky"
+    ],
+    "1":[
+      "u.s.",
+      "gang"
+    ],
+    "2":[
+      "exxon",
+      "government"
+    ],
+    "3":[
+      "politicians",
+      "constituents"
+    ],
+    "4":[
+      "president",
+      "journalists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "exxon",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "raids ... target"
+    ],
+    "2":[
+      "sued"
+    ],
+    "3":[
+      "must offer"
+    ],
+    "4":[
+      "soared ... forced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1",
+      "organized_crime",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "---crm",
+      "190"
+    ],
+    "2":[
+      "mncusa",
+      "---gov",
+      "173"
+    ],
+    "3":[
+      "---pty",
+      "---cvl",
+      "030"
+    ],
+    "4":[
+      "---gov",
+      "---med",
+      "170"
+    ]
+  }
+}

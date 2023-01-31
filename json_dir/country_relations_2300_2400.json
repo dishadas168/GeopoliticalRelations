@@ -1,0 +1,325 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/sandy-weyer-arrested-capitol-riot-photographer-attack_n_60da4e15e4b07b25f60e4cb3",
+    "1":"https:\/\/www.huffpost.com\/entry\/blinken-israel-yair-lapid-meet-rome_n_60d8d304e4b066ff5abbad09",
+    "2":"https:\/\/www.huffpost.com\/entry\/biden-blitz-against-illegal-guns_n_60d28a28e4b0da66c2d90330",
+    "3":"https:\/\/www.huffpost.com\/entry\/police-reform-backlash-gop-states_n_60ce8800e4b0dd01742820e7",
+    "4":"https:\/\/www.huffpost.com\/entry\/remains-carlisle-indian-industrial-school-disinterred_n_60cf71cae4b0c101b70e50dd",
+    "5":"https:\/\/www.huffpost.com\/entry\/ruben-gallego-republican-terror-riot_n_60cc4f5be4b0dd017425d217"
+  },
+  "headline":{
+    "0":"'Mace Her!': Woman Accused Of Filming Capitol Attack On NYT Photographer Is Arrested",
+    "1":"Blinken Meets With New Israeli Counterpart As Both Governments Try To Reset Relations",
+    "2":"Joe Biden Launches Blitz Against Illegal Guns In Response To Spike In Shootings",
+    "3":"Some GOP States Give Police More Power Amid Calls For Defunding And Accountability",
+    "4":"Remains Of 10 Native American Kids To Be Disinterred From Ex-Boarding School",
+    "5":"Congressman Reveals True Terror Of Republicans Now Downplaying Capitol Riot"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"U.S. NEWS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Sandra Weyer of Pennsylvania reportedly went to Washington, D.C., on Jan. 6 on a bus organized by GOP state Sen. Doug Mastriano's campaign.",
+    "1":"The U.S. secretary of state and Yair Lapid met in Rome as part of a push to create a lasting alliance between the two countries.",
+    "2":"\u201cWe will make sure you can\u2019t sell death and mayhem on our streets,\" the president said in his administration's most visible response yet to concerns about crime.",
+    "3":"Lawmakers pushed back against the police-reform movement in Arizona, Iowa, Oklahoma, Tennessee and Wyoming, according to an Associated Press review of legislation.",
+    "4":"The children died more than a century ago at the former Carlisle Indian Industrial School in Pennsylvania. Their remains will be returned to their relatives.",
+    "5":"Arizona Rep. Ruben Gallego said many GOP lawmakers now \"treating Capitol Police like s**t\" were frightened during the insurrection."
+  },
+  "authors":{
+    "0":"Josephine Harvey",
+    "1":"Laurie Kellman, Matthew Lee and Ellen Knickmeyer, AP",
+    "2":"Kevin Robillard and Sanjana Karanth",
+    "3":"FARNOUSH AMIRI, AP",
+    "4":"",
+    "5":"Lee Moran"
+  },
+  "date":{
+    "0":"2021-06-29 00:00:00",
+    "1":"2021-06-27 00:00:00",
+    "2":"2021-06-23 00:00:00",
+    "3":"2021-06-20 00:00:00",
+    "4":"2021-06-20 00:00:00",
+    "5":"2021-06-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---leg",
+    "4":"---cvl",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"ita",
+    "2":"---gov",
+    "3":"usa",
+    "4":"usaedu",
+    "5":"---leg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"010",
+    "3":"110",
+    "4":"190",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":0.0,
+    "3":-2.0,
+    "4":-10.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "u.s.",
+      "secretary of state",
+      "usa",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "rome",
+      "ita",
+      "italy"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "arizona",
+      "iowa",
+      "oklahoma",
+      "tennessee",
+      "wyoming",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "children",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "lawmakers",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pennsylvania",
+      "pennsylvania"
+    ],
+    "1":[
+      "u.s.",
+      "rome",
+      "secretary of state",
+      "rome"
+    ],
+    "2":[
+      "president",
+      "president"
+    ],
+    "3":[
+      "lawmakers",
+      "arizona"
+    ],
+    "4":[
+      "children",
+      "---"
+    ],
+    "5":[
+      "arizona",
+      "lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "italy",
+      "the us secretary of state",
+      "italy"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ],
+    "1":[
+      "met",
+      "met"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "pushed ... against"
+    ],
+    "4":[
+      "died"
+    ],
+    "5":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":[
+      "public_transit",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "schools",
+      "1"
+    ],
+    "5":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "ita",
+      "040",
+      "usagov",
+      "ita",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "3":[
+      "---leg",
+      "usa",
+      "110",
+      "---leg",
+      "usa",
+      "110",
+      "---leg",
+      "usa",
+      "110",
+      "---leg",
+      "usa",
+      "110",
+      "---leg",
+      "usa",
+      "110"
+    ],
+    "4":[
+      "---cvl",
+      "usaedu",
+      "190"
+    ],
+    "5":[
+      "usa",
+      "---leg",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-civilians-flee-detention_us_581338f7e4b064e1b4b19f45",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/james-comey-backlash_us_5816d31ce4b0390e69d0ecf7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clintons-campaign-fbi-video_us_58163d3ee4b0990edc31d008",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/jennifer-lopez-hillary-clinton_us_581604d9e4b0990edc31c099"
+  },
+  "headline":{
+    "0":"Civilians Fleeing Through ISIS Minefields Face Detention, Prison-Like Conditions In Northern Iraq",
+    "1":"Former Attorney General Eric Holder: FBI Director James Comey 'Violated' Justice Department Policies",
+    "2":"Hillary Clinton's Campaign 'Puzzled And Outraged' By FBI Director's Shake-Up Of Election",
+    "3":"Hillary Clinton Joins Jennifer Lopez Onstage To Encourage Voters To 'Get Loud'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Kurdish authorities say they're protecting camps and cities from ISIS operatives.",
+    "1":"And the first member of Congress called on the FBI director to resign.",
+    "2":"Her spokesman says James Comey\u2019s \u201cunbelievably vague\u201d letter to lawmakers was a gift to Republicans.",
+    "3":"She also took a jab at Donald Trump, naturally."
+  },
+  "authors":{
+    "0":"Sophia Jones",
+    "1":"Nico Pitney",
+    "2":"Dave Jamieson",
+    "3":"Julia Brucculieri"
+  },
+  "date":{
+    "0":"2016-10-31 00:00:00",
+    "1":"2016-10-31 00:00:00",
+    "2":"2016-10-30 00:00:00",
+    "3":"2016-10-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"---med",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"imgmusisispy",
+    "1":"usacop",
+    "2":"---leg",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"152",
+    "1":"020",
+    "2":"010",
+    "3":"051"
+  },
+  "goldstein_score":{
+    "0":-7.2,
+    "1":3.0,
+    "2":0.0,
+    "3":3.4
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "isis",
+      "operatives",
+      "imgmusisispy",
+      "the",
+      "islamic",
+      "state",
+      "~"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "member of congress",
+      "~leg",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "2":[
+      "spokesman",
+      "~med",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "isis operatives"
+    ],
+    "1":[
+      "congress",
+      "fbi"
+    ],
+    "2":[
+      "spokesman",
+      "lawmakers"
+    ],
+    "3":[
+      "hillary clinton",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... 're protecting <&town>"
+    ],
+    "1":[
+      "called on"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "onstage ... encourage"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "imgmusisispy",
+      "152"
+    ],
+    "1":[
+      "---leg",
+      "usacop",
+      "020"
+    ],
+    "2":[
+      "---med",
+      "---leg",
+      "010"
+    ],
+    "3":[
+      "usaeli",
+      "---cvl",
+      "051"
+    ]
+  }
+}

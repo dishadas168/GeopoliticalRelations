@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/myanmar-rohingya-rebel-leader-vows-to-fight-aung-san-suu-kyi_us_58dfb372e4b0ba35959562b5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/myanmar-rohingya-rebel-leader-vows-to-fight-aung-san-suu-kyi_us_58dfb372e4b0ba35959562b5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-second-in-command-killed_us_58dfa990e4b0c777f787cf04",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/deporting-refugees-is-wrong-the-case-of-chamroeun_us_58df0c7ce4b03c2b30f6a673"
+  },
+  "headline":{
+    "0":"Rohingya Rebel Leader Vows To Keep Fighting Myanmar's Aung San Suu Kyi Unless She Protects Minority Muslims",
+    "1":"Rohingya Rebel Leader Vows To Keep Fighting Myanmar's Aung San Suu Kyi Unless She Protects Minority Muslims",
+    "2":"Iraqi Intelligence Says Islamic State's Second-In-Command Has Been Killed",
+    "3":"8 Cambodian Refugees in Minnesota Prove Why Deportations Must be Stopped"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"A UN report issued last month said Myanmar\u2019s security forces have committed mass killings and gang rapes against Rohingya during their campaign against the insurgents.",
+    "1":"A UN report issued last month said Myanmar\u2019s security forces have committed mass killings and gang rapes against Rohingya during their campaign against the insurgents.",
+    "2":"Ayad al-Jumaili, the man believed to be the deputy of Islamic State\u2019s leader Abu Bakr al-Baghdadi, has reportedly been killed.",
+    "3":"These men have served their sentences and were leading otherwise regular lives with spouses, children, and jobs when they were detained."
+  },
+  "authors":{
+    "0":"Antoni Slodkowski, Reuters",
+    "1":"Antoni Slodkowski, Reuters",
+    "2":"",
+    "3":"Vichet Chhuon, ContributorAssociate Professor at University of Minnesota"
+  },
+  "date":{
+    "0":"2017-04-01 00:00:00",
+    "1":"2017-04-01 00:00:00",
+    "2":"2017-04-01 00:00:00",
+    "3":"2017-04-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---reb",
+    "1":"igouno",
+    "2":"irqspy",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"mmr",
+    "1":"mmrmil",
+    "2":"---mus",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"015",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":0.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "rebel leader",
+      "~reb",
+      "~",
+      "myanmar",
+      "mmr",
+      "myanmar"
+    ],
+    "1":[
+      "un",
+      "igouno",
+      "un",
+      "un",
+      "igouno",
+      "un",
+      "myanmar",
+      "security forces",
+      "mmrmil",
+      "myanmar",
+      "~",
+      "gang",
+      "~crm",
+      "~",
+      "insurgents",
+      "~reb",
+      "~",
+      "insurgents",
+      "~reb",
+      "~"
+    ],
+    "2":[
+      "iraqi",
+      "intelligence",
+      "irqspy",
+      "iraq",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rebel leader",
+      "myanmar"
+    ],
+    "1":[
+      "un",
+      "myanmar ... security forces"
+    ],
+    "2":[
+      "iraqi intelligence",
+      "islamic"
+    ],
+    "3":[
+      "men",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "myanmar"
+    ],
+    "1":[
+      "un",
+      "myanmar"
+    ],
+    "2":[
+      "iraq",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vows ... fighting"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "says <~mus> ... killed"
+    ],
+    "3":[
+      "<and> ... leading"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1",
+      "organized_crime",
+      "1",
+      "rape",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---reb",
+      "mmr",
+      "190"
+    ],
+    "1":[
+      "igouno",
+      "mmrmil",
+      "010"
+    ],
+    "2":[
+      "irqspy",
+      "---mus",
+      "015"
+    ],
+    "3":[
+      "---ppl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

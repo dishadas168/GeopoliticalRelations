@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/midwives4all-professional_b_6827242.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/this-week-in-world-war-i_b_6543040.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/is-early-reading-a-problem_b_6822274.html"
+  },
+  "headline":{
+    "0":"Midwives4All: Professionals Who Put Women First Have The Power To Change The Future",
+    "1":"This Week in World War I, March 7-13, 1915",
+    "2":"Is Early Reading a Problem?"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"EDUCATION"
+  },
+  "short_description":{
+    "0":"Today, on International Women's Day, Sweden is speaking out in support of every woman's right to a midwife. The midwifery profession and workforce have the power to save thousands of lives each year.",
+    "1":"The military strategy in the 1914 campaign had been straightforward. German forces had intended to sweep from the northwest into northern France in an attempt to break through the French lines and encircle the French army in a broad enveloping movement.",
+    "2":"Giving each child the earliest best possible shot at learning to read is an admirable and worthwhile goal, but demanding that each and every child meet a One Size Fits All standard is not, particularly when that standard has not taken into account the realities and varieties of early child development."
+  },
+  "authors":{
+    "0":"Margot Wallstr\u00f6m, ContributorSwedish Minister for Foreign Affairs",
+    "1":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key...",
+    "2":"Peter Greene, ContributorTeacher and writer; blogger, curmudgucation.blogspot.com"
+  },
+  "date":{
+    "0":"2015-03-08 00:00:00",
+    "1":"2015-03-07 00:00:00",
+    "2":"2015-03-07 00:00:00"
+  },
+  "actor1":{
+    "0":"swe",
+    "1":"deu",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvlhlh",
+    "1":"fra",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"090",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "sweden",
+      "swe",
+      "sweden",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "midwife",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "german",
+      "deu",
+      "germany",
+      "france",
+      "fra",
+      "france",
+      "french",
+      "fra",
+      "france",
+      "french",
+      "army",
+      "framil",
+      "france",
+      "~"
+    ],
+    "2":[
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sweden",
+      "---"
+    ],
+    "1":[
+      "german",
+      "france"
+    ],
+    "2":[
+      "child",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sweden",
+      "---"
+    ],
+    "1":[
+      "germany",
+      "france"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is speaking"
+    ],
+    "1":[
+      "had intended ... sweep ... into"
+    ],
+    "2":[
+      "giving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "swe",
+      "---cvlhlh",
+      "010"
+    ],
+    "1":[
+      "deu",
+      "fra",
+      "090"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

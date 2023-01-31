@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/he-for-she-throughout-history_b_5932598.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_355_b_5932832.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/east-ukraine-ceasefire_n_5934416.html"
+  },
+  "headline":{
+    "0":"He For She Throughout History",
+    "1":"Sunday Roundup",
+    "2":"Ukraine's Military Says Separatists Violate Month-Old Ceasefire"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Many historical women whose accomplishments we are aware of today had to battle society's perceptions of women's proper place. Some women were fortunate enough to have the support of a man in their endeavors -- the \"He for She\" paradigm Emma Watson recently spoke of at the U.N.",
+    "1":"This week included the holiest day on the Jewish calendar, Yom Kippur -- The Day of Atonement. This ritual of self-examination and seeking forgiveness is one we could all benefit from. And as this week's headlines demonstrate, there is certainly no shortage of opportunities for public figures to do so. The day after the head of the Secret Service resigned, it was revealed that, just last week, a man impersonating a Congressman had gotten backstage at an event attended by President Obama. In Texas, health officials disclosed that the doctors who saw the first Ebola patient diagnosed in the U.S. initially sent him home, thinking he had a low-level infection. And while Friday's jobs numbers delivered the lowest unemployment rate since 2008, participation in the labor force is at its lowest level in 36 years. No matter which religious traditions you embrace, there's never a bad time for sober reflection on how we, as individuals and as a country, could be doing better.",
+    "2":""
+  },
+  "authors":{
+    "0":"Jill S. Tietjen, ContributorPast President, National Women's Hall of Fame",
+    "1":"Arianna Huffington, Contributor",
+    "2":""
+  },
+  "date":{
+    "0":"2014-10-06 00:00:00",
+    "1":"2014-10-05 00:00:00",
+    "2":"2014-10-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---govhlh",
+    "2":"ukrmil"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh",
+    "2":"---reb"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "health officials",
+      "~govhlh",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "ukraine",
+      "military",
+      "ukrmil",
+      "ukraine",
+      "~",
+      "separatists",
+      "~reb",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "women"
+    ],
+    "1":[
+      "health officials",
+      "doctors"
+    ],
+    "2":[
+      "ukraine ... military",
+      "separatists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "ukraine",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had ... battle"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "2"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "---govhlh",
+      "---hlh",
+      "010"
+    ],
+    "2":[
+      "ukrmil",
+      "---reb",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-hurricanes-climate-change_us_59bae097e4b02da0e1406513",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/10-worst-provisions-in-the-republican-appropriations_us_59ba9215e4b0390a1564db62",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-why-trumps-sanctions-wont-work_us_59baaba0e4b02c642e4a147e"
+  },
+  "headline":{
+    "0":"Trump Marveled At Historic Hurricanes \u2014 Until Someone Brought Up Climate Change",
+    "1":"10 Worst Provisions In The Republican Appropriations Bill",
+    "2":"Why Trump\u2019s Sanctions Against Venezuela Won\u2019t Work"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"\u201cWe\u2019ve had bigger storms than this,\u201d the president told reporters Thursday, walking backing earlier assessments of Harvey and Irma.",
+    "1":"Last week, Democratic leaders in Congress negotiated with President Trump to ensure that our government stays fully funded",
+    "2":"The administration's approach to sanctioning the South American country will strike its citizens more than its leadership."
+  },
+  "authors":{
+    "0":"Chris D'Angelo",
+    "1":"Rep. Jan Schakowsky, ContributorProudly representing the 9th District of Illinois in the House...",
+    "2":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ..."
+  },
+  "date":{
+    "0":"2017-09-14 00:00:00",
+    "1":"2017-09-14 00:00:00",
+    "2":"2017-09-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---leg",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"050",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.5,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "citizens",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "reporters"
+    ],
+    "1":[
+      "president",
+      "congress",
+      "congress",
+      "president"
+    ],
+    "2":[
+      "administration",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "negotiated with",
+      "negotiated with"
+    ],
+    "2":[
+      "will strike"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "---leg",
+      "050",
+      "---leg",
+      "---gov",
+      "050"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "190"
+    ]
+  }
+}

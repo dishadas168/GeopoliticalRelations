@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/libya-the-muslim-brotherhoods-last-stand_b_5618001.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nigeria---is-religion-use_b_5615524.html"
+  },
+  "headline":{
+    "0":"Libya: The Muslim Brotherhood's Last Stand?",
+    "1":"Nigeria: Is Religion Used as an Excuse to Rape?"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Holding on to power in Libya is crucial to the Muslim Brotherhood's survival, as well as for Libya's vast oil riches to bankroll any comeback for them in the region. The recent parliamentary elections in Libya dealt a heavy blow to the Muslim Brotherhood and their allies.",
+    "1":"One hundred days ago, Boko Haram, a diffuse Islamic sect, abducted 243 girls from a school in Chibok, Borno State, in northeast Nigeria They carted them off to unknown forest locations where they are still being held. Some who escaped told of gang rapes. So much for religion."
+  },
+  "authors":{
+    "0":"Sasha Toperich, ContributorSenior Fellow, Center for Transatlantic Relations, Johns Hopki...",
+    "1":"Evelyn Leopold, ContributorVeteran journalist reporting from the United Nations"
+  },
+  "date":{
+    "0":"2014-07-25 00:00:00",
+    "1":"2014-07-24 00:00:00"
+  },
+  "actor1":{
+    "0":"lby",
+    "1":"ngarebmus"
+  },
+  "actor2":{
+    "0":"---mus",
+    "1":"ngaeducvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"181"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "libya",
+      "lby",
+      "libya",
+      "muslim",
+      "~mus",
+      "~"
+    ],
+    "1":[
+      "boko haram",
+      "islamic",
+      "ngarebmus",
+      "boko",
+      "haram",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "chibok",
+      "borno state",
+      "nga",
+      "nga",
+      "nigeria",
+      "nigeria",
+      "school",
+      "ngaedu",
+      "ngaedu",
+      "~",
+      "nigeria",
+      "nga",
+      "nigeria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "libya",
+      "muslim"
+    ],
+    "1":[
+      "boko haram ... islamic",
+      "---",
+      "boko haram ... islamic",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "libya",
+      "---"
+    ],
+    "1":[
+      "boko haram",
+      "---",
+      "boko haram",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dealt ... blow"
+    ],
+    "1":[
+      "abducted",
+      "abducted"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1",
+      "named_terror_group",
+      "1"
+    ],
+    "1":[
+      "named_terror_group",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "lby",
+      "---mus",
+      "110"
+    ],
+    "1":[
+      "ngarebmus",
+      "ngaeducvl",
+      "181",
+      "ngarebmus",
+      "ngaeducvl",
+      "181",
+      "ngarebmus",
+      "ngacvl",
+      "181"
+    ]
+  }
+}

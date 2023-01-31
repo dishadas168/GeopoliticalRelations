@@ -1,0 +1,457 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/british-prime-minister-says-brexit-will-wound-uk-economy_us_57cb685ce4b0e60d31df6e59",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lesbian-farmers-rush-limbaugh_us_57c879d6e4b0e60d31ddf5c0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/on-this-labor-day-hillary_b_11849720.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/seeking-spheres-of-influe_b_11860336.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/michigan-supreme-court-straight-ticket-voting_us_57c9e31ae4b0e60d31df336d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/us-china-paris-climate-deal_us_57c9cf8de4b0a22de095fb52",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/philippines-lawlesness-blast_us_57ca344ae4b0a22de096209a",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/us-china-g20_us_57cb3852e4b0e60d31df6bd9",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/turkey-tanks-roll-into-syria_us_57cb2cade4b0e60d31df6b5b",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-peshawar-bombings-christians_us_57cacea5e4b0a22de0963177"
+  },
+  "headline":{
+    "0":"British Prime Minister Says Brexit Will Wound U.K. Economy",
+    "1":"These Lesbian Farmers Aren't Here To Take Over America. They Want To Grow It.",
+    "2":"On This Labor Day, Hillary Clinton And The Democrats Fight For Workers While Donald Trump And The GOP Wage War",
+    "3":"Seeking spheres of influence, Russia, China imitate America",
+    "4":"Michigan Begs Supreme Court To Reinstate Ban On 'Straight-Ticket' Voting",
+    "5":"U.S., China Formally Join Paris Climate Pact",
+    "6":"Philippines President Declares 'State Of Lawlessness' After Bombing Kills 14",
+    "7":"Row On Tarmac An Awkward G20 Start For U.S. And China",
+    "8":"Turkish Tanks Roll Into Syria, Opening New Line Of Attack",
+    "9":"Bombs Kill At least 12, Wound Dozens At Pakistan Court"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"QUEER VOICES",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"THE WORLDPOST",
+    "7":"POLITICS",
+    "8":"THE WORLDPOST",
+    "9":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\"I won't pretend it's going to be all plain sailing,\" May said.",
+    "1":"Rush Limbaugh seems to thinks queer farmers are a threat to rural America. He's wrong.",
+    "2":"We are the wealthiest country in the world at the wealthiest moment in our history. Shamefully, we have tens of millions of people living in poverty.",
+    "3":"",
+    "4":"A lower court found the ban disproportionately affected black voters.",
+    "5":"\u201cThere\u2019s no conflict between a healthy economy and a healthy planet,\u201d President Barack Obama said this week.",
+    "6":"The explosion comes as the government battles militants, drugs and corruption.",
+    "7":"A Chinese official attempted to prevent his national security adviser Susan Rice from walking to the motorcade",
+    "8":"Turkey is hoping to drive out Islamic State militants and check the advance of U.S.-backed Syrian Kurdish fighters.",
+    "9":"The attacks occurred hours after militants killed two people in a Christian neighborhood in the same region."
+  },
+  "authors":{
+    "0":"William James, Reuters",
+    "1":"Joseph Erbentraut",
+    "2":"Nancy Altman, ContributorFounding Co-director, Social Security Works",
+    "3":"Bruce Fein, ContributorConstitutional Lawyer and Author",
+    "4":"Cristian Farias",
+    "5":"Chris D'Angelo and Kate Sheppard",
+    "6":"Karen Lema and Enrico Dela Cruz, Reuters",
+    "7":"",
+    "8":"Umit Ozdal and John Davison, Reuters",
+    "9":"Jibran Ahmad, Reuters"
+  },
+  "date":{
+    "0":"2016-09-04 00:00:00",
+    "1":"2016-09-04 00:00:00",
+    "2":"2016-09-04 00:00:00",
+    "3":"2016-09-04 00:00:00",
+    "4":"2016-09-03 00:00:00",
+    "5":"2016-09-03 00:00:00",
+    "6":"2016-09-03 00:00:00",
+    "7":"2016-09-03 00:00:00",
+    "8":"2016-09-03 00:00:00",
+    "9":"2016-09-03 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"---agr",
+    "2":"usaeli",
+    "3":"rus",
+    "4":"---jud",
+    "5":"fra",
+    "6":"---gov",
+    "7":"chn",
+    "8":"tur",
+    "9":"---uaf"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"usa",
+    "2":"---lab",
+    "3":"usa",
+    "4":"---cvl",
+    "5":"usa",
+    "6":"---uaf",
+    "7":"usagov",
+    "8":"syruaf",
+    "9":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171",
+    "2":"111",
+    "3":"010",
+    "4":"050",
+    "5":"057",
+    "6":"190",
+    "7":"120",
+    "8":"090",
+    "9":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":-2.0,
+    "3":0.0,
+    "4":3.5,
+    "5":8.0,
+    "6":-10.0,
+    "7":-4.0,
+    "8":-2.0,
+    "9":-10.0
+  },
+  "nouns":{
+    "0":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "farmers",
+      "~agr",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "3":[
+      "russia",
+      "china",
+      "rus",
+      "chn",
+      "russian",
+      "federation",
+      "china",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "court",
+      "~jud",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "u.s.",
+      "china",
+      "usa",
+      "chn",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "6":[
+      "government",
+      "~gov",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "7":[
+      "chinese",
+      "chn",
+      "china",
+      "susan rice",
+      "usagov",
+      "susan",
+      "rice"
+    ],
+    "8":[
+      "turkey",
+      "tur",
+      "turkey",
+      "militants",
+      "~uaf",
+      "~",
+      "syrian",
+      "fighters",
+      "syruaf",
+      "syria",
+      "~"
+    ],
+    "9":[
+      "militants",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "christian",
+      "neighborhood",
+      "~chrcvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "british",
+      "british"
+    ],
+    "1":[
+      "farmers",
+      "america"
+    ],
+    "2":[
+      "hillary clinton",
+      "workers"
+    ],
+    "3":[
+      "russia",
+      "america",
+      "china",
+      "america"
+    ],
+    "4":[
+      "court",
+      "voters"
+    ],
+    "5":[
+      "paris",
+      "u.s.",
+      "paris",
+      "china",
+      "u.s.",
+      "paris",
+      "china",
+      "paris"
+    ],
+    "6":[
+      "government",
+      "militants"
+    ],
+    "7":[
+      "chinese",
+      "susan rice"
+    ],
+    "8":[
+      "turkey",
+      "syrian ... fighters"
+    ],
+    "9":[
+      "militants",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "hillary clinton",
+      "---"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america",
+      "china",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "france",
+      "united states of america",
+      "france",
+      "china",
+      "united states of america",
+      "france",
+      "china",
+      "france"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "china",
+      "susan rice"
+    ],
+    "8":[
+      "turkey",
+      "syria"
+    ],
+    "9":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "are ... take"
+    ],
+    "2":[
+      "fight for"
+    ],
+    "3":[
+      "imitate",
+      "imitate"
+    ],
+    "4":[
+      "found ... affected"
+    ],
+    "5":[
+      "join <&treaty>",
+      "join <&treaty>",
+      "join <&treaty>",
+      "join <&treaty>"
+    ],
+    "6":[
+      "battles"
+    ],
+    "7":[
+      "attempted ... prevent"
+    ],
+    "8":[
+      "is hoping ... check"
+    ],
+    "9":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1",
+      "agriculture",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "corruption",
+      "1"
+    ],
+    "7":null,
+    "8":null,
+    "9":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "gbr",
+      "010"
+    ],
+    "1":[
+      "---agr",
+      "usa",
+      "171"
+    ],
+    "2":[
+      "usaeli",
+      "---lab",
+      "111"
+    ],
+    "3":[
+      "rus",
+      "usa",
+      "010",
+      "chn",
+      "usa",
+      "010"
+    ],
+    "4":[
+      "---jud",
+      "---cvl",
+      "050"
+    ],
+    "5":[
+      "fra",
+      "usa",
+      "057",
+      "fra",
+      "chn",
+      "057",
+      "usa",
+      "fra",
+      "057",
+      "chn",
+      "fra",
+      "057"
+    ],
+    "6":[
+      "---gov",
+      "---uaf",
+      "190"
+    ],
+    "7":[
+      "chn",
+      "usagov",
+      "120"
+    ],
+    "8":[
+      "tur",
+      "syruaf",
+      "090"
+    ],
+    "9":[
+      "---uaf",
+      "---ppl",
+      "190"
+    ]
+  }
+}

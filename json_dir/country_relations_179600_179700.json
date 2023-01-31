@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/uk-sees-sports-tourism-bump_us_5b9c70e7e4b03a1dcc7eaa6c"
+  },
+  "headline":{
+    "0":"U.K. Sees Sports Tourism Bump"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Don't thank the Olympics -- at least not yet. The U.K. has seen a huge surge in the number of people visiting the country"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-10-23 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.k.",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has seen"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---ppl",
+      "010"
+    ]
+  }
+}

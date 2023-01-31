@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/warning-to-police-at-ferg_b_6204384.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-43_b_6201760.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-43_b_6201760.html"
+  },
+  "headline":{
+    "0":"Warning to Police at Ferguson Protests: Protesters Win Millions for Police Misconduct",
+    "1":"Weekend Roundup: Is China Outpacing Mexico on the Rule of Law?",
+    "2":"Weekend Roundup: Is China Outpacing Mexico on the Rule of Law?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Police officers should approach Ferguson protesters with caution and fully respect their constitutional rights. That is the clear message from recent court awards and settlements against police force abuses against demonstrators.",
+    "1":"On the same day this week that President Obama announced a measure that could give legal protection to 5 million undocumented immigrants, massive protests raged across Mexico against the impunity and corruption that led to the horrific massacre of 43 students. From Mexico City, Sergio Sarmiento, Elena Poniatowska and Homero Aridjis chronicle the events and ponder what's next. Anthropologist Claudio Lomnitz examines the causes behind Mexico's corrosive impunity. \n\nMeanwhile, as Xin Chunying writes from Beijing, China is also seeking to establish the rule of law through steadily boosting the role of the National People's Congress. While stifling dissent, China's President Xi is taking on both \"tigers and flies\" in his no-holds-barred assault from the top down on corruption. \n\nCan China's effort succeed without active public engagement? Can Mexico learn from China and move from angry protest to systemic change? (continued)",
+    "2":"On the same day this week that President Obama announced a measure that could give legal protection to 5 million undocumented immigrants, massive protests raged across Mexico against the impunity and corruption that led to the horrific massacre of 43 students. From Mexico City, Sergio Sarmiento, Elena Poniatowska and Homero Aridjis chronicle the events and ponder what's next. Anthropologist Claudio Lomnitz examines the causes behind Mexico's corrosive impunity. \n\nMeanwhile, as Xin Chunying writes from Beijing, China is also seeking to establish the rule of law through steadily boosting the role of the National People's Congress. While stifling dissent, China's President Xi is taking on both \"tigers and flies\" in his no-holds-barred assault from the top down on corruption. \n\nCan China's effort succeed without active public engagement? Can Mexico learn from China and move from angry protest to systemic change? (continued)"
+  },
+  "authors":{
+    "0":"Bill Quigley, ContributorLaw Professor, Loyola University New Orleans",
+    "1":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "2":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost"
+  },
+  "date":{
+    "0":"2014-11-22 00:00:00",
+    "1":"2014-11-22 00:00:00",
+    "2":"2014-11-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"chngov",
+    "2":"mex"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"swzreb",
+    "2":"chn"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"171",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "police officers",
+      "~cop",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "china",
+      "president",
+      "chngov",
+      "china",
+      "~",
+      "tigers",
+      "swzreb",
+      "tigers"
+    ],
+    "2":[
+      "mexico",
+      "mex",
+      "mexico",
+      "china",
+      "chn",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police officers",
+      "protesters"
+    ],
+    "1":[
+      "china ... president",
+      "tigers"
+    ],
+    "2":[
+      "mexico",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "china",
+      "tigers"
+    ],
+    "2":[
+      "mexico",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should approach"
+    ],
+    "1":[
+      "barred <taking>"
+    ],
+    "2":[
+      "<and> ... learn"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "corruption",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---opp",
+      "040"
+    ],
+    "1":[
+      "chngov",
+      "swzreb",
+      "171"
+    ],
+    "2":[
+      "mex",
+      "chn",
+      "040"
+    ]
+  }
+}

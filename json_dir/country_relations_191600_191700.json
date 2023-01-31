@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/shes-not-your-mothers-wedding-photographer_us_5b9bb659e4b03a1dcc79cb60",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/george-washington-bridge-carpoolers-ticketed_us_5b9bd928e4b03a1dcc7ab52c"
+  },
+  "headline":{
+    "0":"She's Not Your Mother's Wedding Photographer",
+    "1":"George Washington Bridge Carpoolers Allegedly Targeted By Port Authority Police"
+  },
+  "category":{
+    "0":"WEDDINGS",
+    "1":"MONEY"
+  },
+  "short_description":{
+    "0":"Women photographers are leading the way with gorgeous blogs, styled shoots and Pinterest boards. They are Team Nikon and Team Canon. Wedding album manufacturers and gallery wrap houses court them.",
+    "1":"\"In order to pad their pensions and lifestyle, they're taking bread out of our children's mouths,\" carpooler Leonor Javier"
+  },
+  "authors":{
+    "0":"Amy Haberland, Contributor\nPhotography is my life. I've had a camera for as long as I can...",
+    "1":"Katie Bindley"
+  },
+  "date":{
+    "0":"2012-06-14 00:00:00",
+    "1":"2012-06-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "blogs",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "blogs"
+    ],
+    "1":[
+      "washington",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are leading"
+    ],
+    "1":[
+      "targeted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "---cop",
+      "190"
+    ]
+  }
+}

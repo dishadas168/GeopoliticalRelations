@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/divorce-stories_us_5b9cd295e4b03a1dcc8223c7"
+  },
+  "headline":{
+    "0":"Divorce Stories: Australian Woman Cites Ghost In Order To Keep House In Divorce Settlement"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"According to the South Australia news site Adelaide Now, a 52-year-old woman told lawyers, a property valuer and a judge"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-02-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "lawyers",
+      "judge",
+      "~jud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "lawyers ... judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---jud",
+      "010"
+    ]
+  }
+}

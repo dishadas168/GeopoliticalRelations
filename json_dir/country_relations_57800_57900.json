@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-lead-virginia_us_57b33cb3e4b0c75f49d86a83",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/physician-assisted-suicide-colorado_us_57b2b82ee4b0863b028487ed"
+  },
+  "headline":{
+    "0":"Hillary Clinton Expands Her Lead In Virginia",
+    "1":"Colorado To Vote On Physician-Assisted Suicide In November"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The former red state seems to be feeling blue.",
+    "1":"If approved, Colorado would join California, Oregon, Washington, Montana and Vermont as states that allow some form of physician-assisted suicide."
+  },
+  "authors":{
+    "0":"Grace Sparks and Samantha Neal",
+    "1":"By Keith Coffman, Reuters"
+  },
+  "date":{
+    "0":"2016-08-16 00:00:00",
+    "1":"2016-08-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "california",
+      "oregon",
+      "washington",
+      "montana",
+      "vermont",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "virginia"
+    ],
+    "1":[
+      "colorado",
+      "colorado"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "expands"
+    ],
+    "1":[
+      "would join"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "040",
+      "usa",
+      "usa",
+      "040",
+      "usa",
+      "usa",
+      "040",
+      "usa",
+      "usa",
+      "040",
+      "usa",
+      "usa",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2012\/05\/26\/business\/replacements-limiteds-stand-for-gay-marriage-draws-repercussions.html?ref=business"
+  },
+  "headline":{
+    "0":"Replacements Limited, North Carolina Company, Sees Customer Blowback After Supporting Gay Marriage"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"In the months leading up to North Carolina\u2019s vote this month to ban gay marriage, most of the state\u2019s business leaders were"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usabus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "north carolina",
+      "company",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "customer",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north carolina company",
+      "customer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sees"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usabus",
+      "---cvl",
+      "010"
+    ]
+  }
+}

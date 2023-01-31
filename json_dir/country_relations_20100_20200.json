@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-alabama-senate-sexual-misconduct_us_5a050f4be4b01d21c83da941",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/la-sex-crime-task-force_us_5a05338de4b0e37d2f36ae18",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ed-westwick-sexual-assault_us_5a04313ae4b0f76b05c38eb3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-conan-obrien-misses-president_us_5a040c45e4b03deac08b32de"
+  },
+  "headline":{
+    "0":"Roy Moore Fundraises Off Report That He Molested A 14-Year-Old Girl",
+    "1":"Los Angeles Launches Task Force To Prosecute Hollywood Sex Crimes",
+    "2":"Second Woman Accuses Actor Ed Westwick Of Sexual Assault",
+    "3":"Bill Clinton Reveals What He Misses Most About Being President"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"ENTERTAINMENT",
+    "3":"COMEDY"
+  },
+  "short_description":{
+    "0":"The Senate candidate from Alabama has denied the accusations of four women who were teens at the time.",
+    "1":"L.A.'s district attorney is creating an expert team to take police investigations to the next step.",
+    "2":"The former \"Gossip Girl\" star is already under police investigation for a rape allegation.",
+    "3":"\"For three or four weeks, I was totally lost.\""
+  },
+  "authors":{
+    "0":"Philip Lewis",
+    "1":"Mary Papenfuss",
+    "2":"Ron Dicker",
+    "3":"Lee Moran"
+  },
+  "date":{
+    "0":"2017-11-10 00:00:00",
+    "1":"2017-11-10 00:00:00",
+    "2":"2017-11-09 00:00:00",
+    "3":"2017-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"---jud",
+    "2":"---cvl",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"---eli",
+    "3":"usaeli"
+  },
+  "event_code":{
+    "0":"016",
+    "1":"171",
+    "2":"112",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-9.2,
+    "2":-2.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "attorney",
+      "~jud",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "3":[
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "women"
+    ],
+    "1":[
+      "attorney",
+      "police"
+    ],
+    "2":[
+      "woman",
+      "actor"
+    ],
+    "3":[
+      "bill clinton",
+      "bill clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "bill clinton",
+      "bill clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has denied ... accusations"
+    ],
+    "1":[
+      "is ... take"
+    ],
+    "2":[
+      "accuses"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---cvl",
+      "016"
+    ],
+    "1":[
+      "---jud",
+      "---cop",
+      "171"
+    ],
+    "2":[
+      "---cvl",
+      "---eli",
+      "112"
+    ],
+    "3":[
+      "usaeli",
+      "usaeli",
+      "050"
+    ]
+  }
+}

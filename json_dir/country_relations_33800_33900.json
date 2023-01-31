@@ -1,0 +1,163 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-blames-us-protest-violence_us_5922f25be4b03b485cb34917",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/election-season-offers-a-reminder-that-kenya-remains_us_5922faa7e4b0e8f558bb2860",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/africa-must-reboot-its-health-systems-to-cope-with_us_59230082e4b0b28a33f62e1b"
+  },
+  "headline":{
+    "0":"Turkey Blames U.S. For Violence It Helped Spark At D.C. Protest",
+    "1":"Election Season Offers A Reminder That Kenya Remains Deeply Sexist",
+    "2":"Africa Must Reboot Its Health Systems To Cope With Non-communicable Diseases"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Turkish security guards kicked and beat up protesters last week.",
+    "1":"Beatrice Akala, University of Johannesburg Kenyan folk stories celebrate women as strong, fierce heroines of the distant",
+    "2":"Neo Tapela, Harvard Medical School When it comes to killer diseases in Africa many people think of infectious diseases like"
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "2":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ..."
+  },
+  "date":{
+    "0":"2017-05-22 00:00:00",
+    "1":"2017-05-22 00:00:00",
+    "2":"2017-05-22 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"zafedu",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---cvl",
+    "2":"---crm"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"051",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.4,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "tur",
+      "turkey",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "johannesburg",
+      "kenyan",
+      "zaf",
+      "ken",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "kenya",
+      "university",
+      "zafedu",
+      "kenedu",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "killer",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish",
+      "protesters"
+    ],
+    "1":[
+      "university",
+      "women",
+      "university",
+      "women"
+    ],
+    "2":[
+      "people",
+      "killer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "",
+      "---",
+      "",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... beat"
+    ],
+    "1":[
+      "celebrate",
+      "celebrate"
+    ],
+    "2":[
+      "comes to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "tur",
+      "---opp",
+      "190"
+    ],
+    "1":[
+      "zafedu",
+      "---cvl",
+      "051",
+      "kenedu",
+      "---cvl",
+      "051"
+    ],
+    "2":[
+      "---ppl",
+      "---crm",
+      "040"
+    ]
+  }
+}

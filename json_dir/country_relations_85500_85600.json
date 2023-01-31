@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-syrian-refugees_us_55fec570e4b00310edf7641e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/life-sentence-for-dad-who-threw-daughter-from-cliff_us_55fc9cb4e4b0fde8b0ce74a7"
+  },
+  "headline":{
+    "0":"Hillary Clinton Calls On United States To Accept 65,000 Syrian Refugees",
+    "1":"Life Sentence For Dad Who Threw Daughter From Cliff"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"The Obama administration has committed to taking in 10,000.",
+    "1":"Prosecutors said he didn't want to pay child support; he said she died in an accident."
+  },
+  "authors":{
+    "0":"Samantha Lachman",
+    "1":"Michael McLaughlin"
+  },
+  "date":{
+    "0":"2015-09-20 00:00:00",
+    "1":"2015-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"0333",
+    "1":"0311"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":5.2
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "syrian",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "syrian"
+    ],
+    "1":[
+      "prosecutors",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls ... accept <&refugee>"
+    ],
+    "1":[
+      "said ... did ... want ... pay"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "syr",
+      "0333"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "0311"
+    ]
+  }
+}

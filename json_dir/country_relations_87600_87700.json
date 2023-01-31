@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/heres-a-reminder-that-some-lawmakers-are-still-fighting-for-womens-equality_us_55de0012e4b08cd3359e4a04",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/curtis-smith-dead-white-house_us_55dcd406e4b08cd3359db5a0"
+  },
+  "headline":{
+    "0":"Here's A Reminder That Some Lawmakers Are Still Fighting For Women's Equality",
+    "1":"Man Previously Arrested For Climbing White House Wall Killed After Attacking Sheriff"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Aug. 26 is Women's Equality Day.",
+    "1":"He had a criminal record that included arrests for assault and burglary."
+  },
+  "authors":{
+    "0":"Ashley Alman",
+    "1":""
+  },
+  "date":{
+    "0":"2015-08-26 00:00:00",
+    "1":"2015-08-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "sheriff",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "women"
+    ],
+    "1":[
+      "man",
+      "sheriff"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... fighting for"
+    ],
+    "1":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---cvl",
+      "111"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "173"
+    ]
+  }
+}

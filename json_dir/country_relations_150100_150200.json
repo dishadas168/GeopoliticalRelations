@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/reverse-aging-survey_us_5b9d7d63e4b03a1dcc88a4b1"
+  },
+  "headline":{
+    "0":"Women Would Give Up Sex, Social Media And More To Reverse Aging, Survey Reveals"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"The beauty company polled its online audience to find out what modern conveniences and beauty standards women would ditch"
+  },
+  "authors":{
+    "0":"Lauren Leibowitz"
+  },
+  "date":{
+    "0":"2013-09-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would <['give',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "08"
+    ]
+  }
+}

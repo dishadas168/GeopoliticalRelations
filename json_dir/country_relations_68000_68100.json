@@ -1,0 +1,244 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-facebook-zuckerberg_us_5712b1bde4b06f35cb6fce7d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-military-isis_us_5712cc4ce4b0018f9cba43cf",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/04\/16\/world\/middleeast\/saudi-arabia-warns-ofeconomic-fallout-if-congress-passes-9-11-bill.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-recruitment-tactics_us_571265afe4b06f35cb6fc595",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/california-lawmakers-uc-davis-chancellor-resign_us_57113bdfe4b0060ccda34418"
+  },
+  "headline":{
+    "0":"Trump Dismisses Possible Facebook Plot Because 'I'm One Of Their Great Stars'",
+    "1":"U.S. Plans To Step Up Military Campaign Against ISIS",
+    "2":"Saudi Arabia Warns Of Economic Fallout If Congress Passes 9\/11 Bill",
+    "3":"Why People Join Nigeria's Boko Haram",
+    "4":"California Lawmakers Want UC Davis Chancellor To Resign"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"COLLEGE"
+  },
+  "short_description":{
+    "0":"He was responding to a report that Facebook employees considered asking their CEO whether they should try to prevent a Trump presidency.",
+    "1":"The Obama administration is preparing to broaden its military campaign against the Islamic State in Iraq and Syria by increasing",
+    "2":"Saudi Arabia has told the Obama administration and members of Congress that it will sell off hundreds of billions of dollars",
+    "3":"Former members of the militant group offer some answers.",
+    "4":"SAN FRANCISCO (Reuters) - A California lawmaker on Thursday joined at least three of his colleagues in seeking the resignation"
+  },
+  "authors":{
+    "0":"Peter Andrew Hart",
+    "1":"",
+    "2":"",
+    "3":"Charlotte Alfred",
+    "4":"Curtis Skinner, Reuters"
+  },
+  "date":{
+    "0":"2016-04-16 00:00:00",
+    "1":"2016-04-16 00:00:00",
+    "2":"2016-04-16 00:00:00",
+    "3":"2016-04-16 00:00:00",
+    "4":"2016-04-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"usa",
+    "2":"sau",
+    "3":"---ppl",
+    "4":"usaleg"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"imgmusisimil",
+    "2":"usagovleg",
+    "3":"nga",
+    "4":"---gov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"031",
+    "2":"010",
+    "3":"040",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":5.2,
+    "2":0.0,
+    "3":1.0,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "employees",
+      "~lab",
+      "~",
+      "ceo",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "military",
+      "imgmusisimil",
+      "~"
+    ],
+    "2":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "congress",
+      "~leg",
+      "~",
+      "the obama administration",
+      "members of congress",
+      "usagovleg",
+      "barack",
+      "obama",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "nigeria",
+      "boko haram",
+      "nga",
+      "ngareb",
+      "nigeria",
+      "boko",
+      "haram"
+    ],
+    "4":[
+      "california",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "chancellor",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employees",
+      "ceo"
+    ],
+    "1":[
+      "u.s.",
+      "military"
+    ],
+    "2":[
+      "saudi arabia",
+      "the obama administration ... members of congress"
+    ],
+    "3":[
+      "people",
+      "nigeria",
+      "people",
+      "boko haram"
+    ],
+    "4":[
+      "california lawmakers",
+      "chancellor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      ""
+    ],
+    "2":[
+      "saudi arabia",
+      "barack obama"
+    ],
+    "3":[
+      "---",
+      "nigeria",
+      "---",
+      "boko haram"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "considered asking"
+    ],
+    "1":[
+      "plans <['step',> <'up']>"
+    ],
+    "2":[
+      "has told"
+    ],
+    "3":[
+      "join",
+      "join"
+    ],
+    "4":[
+      "want"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "named_terror_group",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "---bus",
+      "020"
+    ],
+    "1":[
+      "usa",
+      "imgmusisimil",
+      "031"
+    ],
+    "2":[
+      "sau",
+      "usagovleg",
+      "010"
+    ],
+    "3":[
+      "---ppl",
+      "nga",
+      "040",
+      "---ppl",
+      "ngareb",
+      "040"
+    ],
+    "4":[
+      "usaleg",
+      "---gov",
+      "030"
+    ]
+  }
+}

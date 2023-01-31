@@ -1,0 +1,128 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/an-open-letter-to-general-motors-on-expectations-and-women-in-advertising_b_7285840.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/succession-planning-for-b_b_7293834.html"
+  },
+  "headline":{
+    "0":"An Open Letter to General Motors on Expectations and Women in Advertising",
+    "1":"Succession Planning for Business: What You Need to Know Now About the Call You Never Want to Make"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Welcome to 2015, where women are some of the most powerful executives in business, women are regularly dominating in school, and a woman is a serious candidate for the presidency of the United States. Welcome to the future, where women are more.",
+    "1":"Psychics aren't the only people asked to predict the future. When it comes to succession planning, lawyers ask their business clients to do it all the time. My discussions about succession planning often start out somewhat reminiscent of Alice's chat with the Cheshire Cat in Lewis Carroll's Alice in Wonderland."
+  },
+  "authors":{
+    "0":"Chelsea Stone, ContributorFeminist",
+    "1":"Eliot M. Wagonheim, ContributorLawyer, writer, educator, and strategist. Counsel to innovator..."
+  },
+  "date":{
+    "0":"2015-05-26 00:00:00",
+    "1":"2015-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "lawyers",
+      "~jud",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "school"
+    ],
+    "1":[
+      "lawyers",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... dominating"
+    ],
+    "1":[
+      "ask"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "190"
+    ],
+    "1":[
+      "---jud",
+      "---bus",
+      "020"
+    ]
+  }
+}

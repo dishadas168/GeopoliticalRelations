@@ -1,0 +1,228 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/anjem-choudary-guilty_us_57b33367e4b0863b0284dfb2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/11-tweets-that-sum-up-the-absurdity-of-the-burkini-ban_us_57b37670e4b0b42c38aeedf9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/milwaukee-police-shooting_us_57b15f76e4b071840411cb56",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/former-bush-cabinet-hillary-clinton_us_57b1ad34e4b007c36e4f32dc",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/yemen-school-airstrike_us_57b1938fe4b007c36e4f2f67"
+  },
+  "headline":{
+    "0":"Radical Islamist Preacher Anjem Choudary Found Guilty Of Supporting ISIS",
+    "1":"11 Tweets That Sum Up The Absurdity of The Burkini Ban",
+    "2":"Milwaukee Declares Curfew After Violent Protests Over Police Shooting",
+    "3":"Another Former Bush Cabinet Secretary Endorses Hillary Clinton",
+    "4":"UN Secretary-General Condemns Saudi Airstrike On Yemen School That Killed 10 Children"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"RELIGION",
+    "2":"BLACK VOICES",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Choudary was convicted of using online lectures and messages to encourage support for the group.",
+    "1":"The full body swimsuit worn by  some Muslim women has been outlawed in three French cities.",
+    "2":"Police rescued one shooting victim. An officer was also injured when a rock smashed a patrol car windshield.",
+    "3":"The list of Republicans jumping ship from Donald Trump keeps growing.",
+    "4":"More than two dozen children were also wounded in the attack."
+  },
+  "authors":{
+    "0":"",
+    "1":"Antonia Blumberg",
+    "2":"By Brendan O'Brien, Reuters",
+    "3":"Willa Frej",
+    "4":""
+  },
+  "date":{
+    "0":"2016-08-16 00:00:00",
+    "1":"2016-08-16 00:00:00",
+    "2":"2016-08-15 00:00:00",
+    "3":"2016-08-15 00:00:00",
+    "4":"2016-08-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---musrel",
+    "1":"fra",
+    "2":"---cop",
+    "3":"---gov",
+    "4":"sau"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"---muscvl",
+    "2":"---cvl",
+    "3":"usaeli",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"172",
+    "2":"073",
+    "3":"051",
+    "4":"195"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":7.4,
+    "3":3.4,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "islamist",
+      "preacher",
+      "~musrel",
+      "~",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~",
+      "french",
+      "fra",
+      "france"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "cabinet secretary",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "4":[
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "islamist preacher",
+      "isis"
+    ],
+    "1":[
+      "french",
+      "muslim women"
+    ],
+    "2":[
+      "police",
+      "victim"
+    ],
+    "3":[
+      "cabinet secretary",
+      "hillary clinton"
+    ],
+    "4":[
+      "saudi",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "france",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "hillary clinton"
+    ],
+    "4":[
+      "saudi arabia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "found guilty"
+    ],
+    "1":[
+      "<~muscvl> ... outlawed in <fra>"
+    ],
+    "2":[
+      "rescued"
+    ],
+    "3":[
+      "endorses"
+    ],
+    "4":[
+      "airstrike ... killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_extremism",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "airstrike",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---musrel",
+      "imgmusisi",
+      "173"
+    ],
+    "1":[
+      "fra",
+      "---muscvl",
+      "172"
+    ],
+    "2":[
+      "---cop",
+      "---cvl",
+      "073"
+    ],
+    "3":[
+      "---gov",
+      "usaeli",
+      "051"
+    ],
+    "4":[
+      "sau",
+      "---cvl",
+      "195"
+    ]
+  }
+}

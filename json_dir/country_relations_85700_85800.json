@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-birth-control_us_55fb6a8be4b08820d918230a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/students-confederate-flag_us_55fb0422e4b08820d917c4e7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/man-stabs-himself-while-stealing-phone-walmart_us_55f9b85de4b00310edf55e3c"
+  },
+  "headline":{
+    "0":"America, The Next Hobby Lobby Case Is Heading For The Supreme Court",
+    "1":"Students Suspended For Clothing Displaying Confederate Flag",
+    "2":"Man Stabs Himself While Trying To Steal Phone, Police Say"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"The justices could again weigh women's health care against religious liberty.",
+    "1":"The students were protesting a new school policy banning vehicles with Confederate symbols from its parking lot.",
+    "2":"Besides attempting to steal a phone, the suspect is accused of taking a towel which he wrapped around his bleeding arm."
+  },
+  "authors":{
+    "0":"Cristian Farias",
+    "1":"",
+    "2":"David Moye"
+  },
+  "date":{
+    "0":"2015-09-18 00:00:00",
+    "1":"2015-09-17 00:00:00",
+    "2":"2015-09-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---edu",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---edu",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"140",
+    "2":"182"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":-6.5,
+    "2":-9.5
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "supreme court"
+    ],
+    "1":[
+      "students",
+      "students"
+    ],
+    "2":[
+      "man",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is heading for"
+    ],
+    "1":[
+      "were protesting"
+    ],
+    "2":[
+      "stabs"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---jud",
+      "042"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "140"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "182"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hindu-priest-bangladesh_us_5775da69e4b0a629c1a9705c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/coal-ash-bokoshe-oklahoma_us_57719b72e4b017b379f70f0a"
+  },
+  "headline":{
+    "0":"Hindu Priest Hacked To Death In Bangladesh",
+    "1":"The EPA Could Have Protected These People From Breathing Coal Dust Every Day. So Why Didn't It?"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"Muslim-majority Bangladesh has seen a surge in attacks on activists and minorities.",
+    "1":"After a billion-gallon spill of coal ash in Tennessee, the agency sought to regulate the often-toxic byproduct of burning coal. It largely failed."
+  },
+  "authors":{
+    "0":"",
+    "1":"Kristen Lombardi, Center for Public Integrity"
+  },
+  "date":{
+    "0":"2016-07-01 00:00:00",
+    "1":"2016-06-30 00:00:00"
+  },
+  "actor1":{
+    "0":"bgd",
+    "1":"usagovenv"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"074"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5
+  },
+  "nouns":{
+    "0":[
+      "bangladesh",
+      "bgd",
+      "bangladesh",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bangladesh",
+      "activists"
+    ],
+    "1":[
+      "epa",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "bangladesh",
+      "---"
+    ],
+    "1":[
+      "environmental protection agency",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has seen"
+    ],
+    "1":[
+      "could ... protected"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":[
+      "coal",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "bgd",
+      "---opp",
+      "010"
+    ],
+    "1":[
+      "usagovenv",
+      "---ppl",
+      "074"
+    ]
+  }
+}

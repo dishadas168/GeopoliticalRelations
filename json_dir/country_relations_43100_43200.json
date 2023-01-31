@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-new-iran-sanctions_us_589479fde4b09bd304babafa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/milwaukee-sheriff-david-clarke-sued_us_5893ed7be4b0c1284f253cd2"
+  },
+  "headline":{
+    "0":"U.S. Rolls Out New Iran Sanctions To 'Counter Iranian Military Activity'",
+    "1":"Suit Accuses Milwaukee Sheriff Of Abuse Of Power In Airport Incident"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"\"Nothing is off the table,\" President Donald Trump said.",
+    "1":"Passenger claims he was harassed for shaking his head at the tough-talking lawman."
+  },
+  "authors":{
+    "0":"Arshad Mohammed, Matt Spetalnick and Jonathan Landay, Reuters",
+    "1":"Ed Mazza"
+  },
+  "date":{
+    "0":"2017-02-03 00:00:00",
+    "1":"2017-02-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"irnmil",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"140"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-6.5
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "iran",
+      "usa",
+      "irn",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iran",
+      "iranian",
+      "military",
+      "irnmil",
+      "iran",
+      "~"
+    ],
+    "1":[
+      "passenger",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "iranian military",
+      "iran",
+      "iranian military"
+    ],
+    "1":[
+      "passenger",
+      "passenger"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "iran",
+      "iran",
+      "iran"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sanctions ... counter",
+      "sanctions ... counter"
+    ],
+    "1":[
+      "claims <~cvl> ... harassed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "irnmil",
+      "110",
+      "irn",
+      "irnmil",
+      "110"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "140"
+    ]
+  }
+}

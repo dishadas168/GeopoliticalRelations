@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/peter-madsen-kim-wall_us_59f71d21e4b03cd20b82e4ae",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fbi-whitefish-puerto-rico_us_59f763cfe4b0aec1467976c1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/in-a-state-ranking-49th-in-education-where-can-i-send-my-daughter-to-learn_us_59f4c35ae4b03cd20b81f03e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-paul-manafort-surrender_us_59f714d3e4b03cd20b82d7fa",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/somalia-hotel-attack_us_59f5cbd5e4b03cd20b821f2b"
+  },
+  "headline":{
+    "0":"Danish Submarine Owner Admits Dismembering Body Of Swedish Journalist",
+    "1":"FBI Reportedly Investigating Whitefish Puerto Rico Contract",
+    "2":"New Orleans' School System Has Failed Its Students Post-Katrina",
+    "3":"Trump Responds To Paul Manafort Charges \u2014 By Making It About 'Crooked Hillary'",
+    "4":"Islamist Attack On Somali Hotel Kills At Least 29, Police Say"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"BLACK VOICES",
+    "3":"POLITICS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"He still denies killing her.",
+    "1":"FEMA, multiple congressional committees and local auditors have reportedly begun requesting documents about the deal.",
+    "2":"Many of the parents and children who've returned after being battered and displaced by the hurricane still feel abandoned by our city.",
+    "3":"The president has repeatedly called investigations into possible collusion between his campaign and Russia \"a witch hunt.\"",
+    "4":"Islamist militants al Shabaab claimed responsibility for this weekend\u2019s attack."
+  },
+  "authors":{
+    "0":"Julie Astrid Thomsen, Reuters",
+    "1":"",
+    "2":"Lamont Douglas, ContributorFather, Public education advocate",
+    "3":"Marina Fang",
+    "4":"Abdi Sheikh and Feisal Omar, Reuters"
+  },
+  "date":{
+    "0":"2017-10-30 00:00:00",
+    "1":"2017-10-30 00:00:00",
+    "2":"2017-10-30 00:00:00",
+    "3":"2017-10-30 00:00:00",
+    "4":"2017-10-29 00:00:00"
+  },
+  "actor1":{
+    "0":"dnk",
+    "1":"usacop",
+    "2":"usaedu",
+    "3":"---gov",
+    "4":"---mus"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usapri",
+    "2":"---edu",
+    "3":"rus",
+    "4":"---cop"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"090",
+    "2":"120",
+    "3":"041",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-2.0,
+    "2":-4.0,
+    "3":1.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "danish",
+      "dnk",
+      "denmark",
+      "journalist",
+      "~med",
+      "~",
+      "journalist",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico"
+    ],
+    "2":[
+      "new orleans",
+      "school",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "islamist",
+      "~mus",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "danish",
+      "journalist"
+    ],
+    "1":[
+      "fbi",
+      "puerto rico"
+    ],
+    "2":[
+      "new orleans ... school",
+      "students"
+    ],
+    "3":[
+      "president",
+      "russia"
+    ],
+    "4":[
+      "islamist",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "denmark",
+      "---"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "puerto rico"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "admits"
+    ],
+    "1":[
+      "investigating"
+    ],
+    "2":[
+      "has failed"
+    ],
+    "3":[
+      "has ... called"
+    ],
+    "4":[
+      "kills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "dnk",
+      "---med",
+      "050"
+    ],
+    "1":[
+      "usacop",
+      "usapri",
+      "090"
+    ],
+    "2":[
+      "usaedu",
+      "---edu",
+      "120"
+    ],
+    "3":[
+      "---gov",
+      "rus",
+      "041"
+    ],
+    "4":[
+      "---mus",
+      "---cop",
+      "190"
+    ]
+  }
+}

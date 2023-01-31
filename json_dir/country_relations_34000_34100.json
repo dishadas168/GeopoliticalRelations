@@ -1,0 +1,223 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turning-the-page-on-hate-trumps-counter-extremism_us_5920a45de4b0e8f558bb2719",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/south-korean-president-bodyguard_us_591f59bbe4b03b485cb19755",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/comey-testify-senate_us_591f788ae4b034684b0c8077",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/marijuana-earl-blumenauer-sessions-congress_us_591f105ae4b094cdba53a04b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/us-government-abruptly-removes-damning-detention_us_591f736de4b07617ae4cbc15"
+  },
+  "headline":{
+    "0":"Trump\u2019s Counter-Extremism Effort Should Address Saudi Textbooks",
+    "1":"People Think They\u2019ve Found Topless Pics Of Hunky South Korean Presidential Bodyguard",
+    "2":"Ex-FBI Chief Comey To Testify To Senate Panel In Public Session",
+    "3":"Congress' Weed Guy Grapples With The Trump Administration",
+    "4":"U.S. Government Abruptly Removes Damning Detention Inspection Report From Its Website"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WEIRD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president will have to address incitement in Riyadh\u2019s government-published textbooks.",
+    "1":"The internet did some sleuthing. Now, everyone's convinced these are Choi Young-jae's abs.",
+    "2":"Comey was fired by President Trump last week amid an agency probe into alleged Russian meddling in the U.S. election.",
+    "3":"Earl Blumenauer tries to pass the peace pipe between Washington and the cannabis industry",
+    "4":"On May 9, 2017, the Orange County Board of Supervisors voted to increase its contract with U.S. Immigration & Customs Enforcement"
+  },
+  "authors":{
+    "0":"David Andrew Weinberg, ContributorAnti-Defamation League, Washington Representative for Internat...",
+    "1":"Carla Herreria",
+    "2":"",
+    "3":"Eliot Nelson",
+    "4":"Christina Fialho, ContributorCo-Founder\/Executive Director, Freedom for Immigrants (formerl..."
+  },
+  "date":{
+    "0":"2017-05-20 00:00:00",
+    "1":"2017-05-20 00:00:00",
+    "2":"2017-05-19 00:00:00",
+    "3":"2017-05-19 00:00:00",
+    "4":"2017-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"---leg",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"sau",
+    "1":"---ppl",
+    "2":"rus",
+    "3":"---gov",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"190",
+    "3":"190",
+    "4":"174"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "riyadh",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "south korean",
+      "kor",
+      "south",
+      "korea"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "website",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "riyadh"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "president",
+      "russian"
+    ],
+    "3":[
+      "congress",
+      "administration"
+    ],
+    "4":[
+      "u.s. government",
+      "website"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "saudi arabia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "russian federation"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... address"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "fired by <~gov> ... into ... rus"
+    ],
+    "3":[
+      "grapples"
+    ],
+    "4":[
+      "removes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "sau",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "rus",
+      "190"
+    ],
+    "3":[
+      "---leg",
+      "---gov",
+      "190"
+    ],
+    "4":[
+      "usagov",
+      "---med",
+      "174"
+    ]
+  }
+}

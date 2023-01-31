@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-four-things-midlife-divorce_us_5b9df117e4b03a1dcc8f2e52",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-china-tour-style-print-outfits_us_5b9df129e4b03a1dcc8f31ad"
+  },
+  "headline":{
+    "0":"4 Things I Know for Sure About Choosing Midlife Divorce",
+    "1":"Michelle Obama Continues China Tour In Printastic Outfits"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"The recent stats on midlife divorce are startling. People over 50 are divorcing in higher numbers than ever before. And women are leading the charge -- filing in greater numbers than men.  The \"gray divorce\" rate has doubled for this population in the last two decades.",
+    "1":"On Day 3 of her visit in Beijing, Obama addressed students at the Stanford Center at Peking University wearing a Carolina"
+  },
+  "authors":{
+    "0":"Abby Rodman, Contributor\nPsychotherapist. Amazon #1 Bestselling Author. Wife. Mom. Step...",
+    "1":"Dana Oliver"
+  },
+  "date":{
+    "0":"2014-03-24 00:00:00",
+    "1":"2014-03-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "students",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "men"
+    ],
+    "1":[
+      "obama",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are leading"
+    ],
+    "1":[
+      "addressed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "---edu",
+      "010"
+    ]
+  }
+}

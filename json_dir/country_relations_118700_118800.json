@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ferguson-school-counselors_n_5701062.html"
+  },
+  "headline":{
+    "0":"How Ferguson Schools Are Helping Their Students Deal With Trauma"
+  },
+  "category":{
+    "0":"PARENTS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2014-08-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "schools",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "schools",
+      "schools"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are helping"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "070"
+    ]
+  }
+}

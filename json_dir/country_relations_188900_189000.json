@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/homeless-children-white-house-obama_us_5bb19674e4b01857b70877ce",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/wells-fargo-enters-into-1_us_5bb2c9aee4b0480ca65c0fbc"
+  },
+  "headline":{
+    "0":"Homeless Children Advocates At White House Discussion Want More Obama Help",
+    "1":"Wells Fargo Enters Into $175 Million Discrimination Settlement"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The catch is that to receive that help, you need to qualify as \"homeless.\" And while the Department of Education applies",
+    "1":"The United States Department of Justice has announced that Wells Fargo has entered into a $175 million settlement agreement as a result of allegations that it discriminated against black and Hispanic mortgage applicants."
+  },
+  "authors":{
+    "0":"Saki Knafo",
+    "1":"Anna Cuevas, Contributor\n#1 Bestselling Author; Founder, AskaLoanModGuru.com"
+  },
+  "date":{
+    "0":"2012-07-14 00:00:00",
+    "1":"2012-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvljud",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"mncusa"
+  },
+  "event_code":{
+    "0":"023",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "advocates",
+      "~cvljud",
+      "~",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "wells fargo",
+      "mncusa",
+      "wells",
+      "fargo",
+      "settlement",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children advocates",
+      "obama"
+    ],
+    "1":[
+      "the united states",
+      "wells fargo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "united states of america",
+      "wells fargo"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... help"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "poverty",
+      "1"
+    ],
+    "1":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvljud",
+      "usagov",
+      "023"
+    ],
+    "1":[
+      "usa",
+      "mncusa",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/from-the-steps-of-the-united-states-supreme-court_b_7182938.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chuck-schumer-currency-trade-china_n_7192708.html"
+  },
+  "headline":{
+    "0":"From the Steps of the United States Supreme Court",
+    "1":"Schumer Warns Obama's Trade Agenda May Die Without A China Currency-Manipulation Crackdown"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The atmosphere was electric and the excitement and anticipation palpable, as over a thousand LGBT people from all across the country gathered in Washington D.C. for the historic marriage equality arguments before the United States Supreme Court last Tuesday.",
+    "1":""
+  },
+  "authors":{
+    "0":"Stuart Gaffney and John Lewis, Contributors",
+    "1":"Michael McAuliff"
+  },
+  "date":{
+    "0":"2015-05-03 00:00:00",
+    "1":"2015-05-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"chn"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the united states",
+      "supreme court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "china",
+      "chn",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "washington d.c.",
+      "people",
+      "the ... united states supreme court"
+    ],
+    "1":[
+      "obama",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gathered",
+      "gathered"
+    ],
+    "1":[
+      "may die"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "2"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "040",
+      "---ppl",
+      "usajud",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "chn",
+      "190"
+    ]
+  }
+}

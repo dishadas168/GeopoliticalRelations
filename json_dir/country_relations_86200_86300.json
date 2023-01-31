@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/clueless-dudes-try-to-understand-tampons-in-hysterical-video_us_55f31d5fe4b077ca094ef287",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mistrial-for-alabama-officer-charged-after-assaulting-indian-man_us_55f34c51e4b077ca094f3942"
+  },
+  "headline":{
+    "0":"Clueless Dudes Try To Understand Tampons In Hysterical Video",
+    "1":"Mistrial For Alabama Officer Charged After Assaulting Indian Man"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"In \"Men Explain Tampons\" from Facts., men awkwardly inspect women's sanitary products, everything from tampons to sanitary",
+    "1":"Sept 11 (Reuters) - A U.S. judge declared a mistrial on Friday in the case of an Alabama policeman on trial for violating"
+  },
+  "authors":{
+    "0":"Ron Dicker",
+    "1":"Letitia Stein, Reuters"
+  },
+  "date":{
+    "0":"2015-09-11 00:00:00",
+    "1":"2015-09-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usacop"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "reuters",
+      "med",
+      "reuters",
+      "alabama",
+      "policeman",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "women"
+    ],
+    "1":[
+      "reuters",
+      "alabama policeman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "reuters",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "inspect"
+    ],
+    "1":[
+      "declared"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "090"
+    ],
+    "1":[
+      "med",
+      "usacop",
+      "010"
+    ]
+  }
+}

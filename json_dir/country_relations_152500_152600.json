@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-new-stars-of-european_us_5b9d6b5be4b03a1dcc87cb66"
+  },
+  "headline":{
+    "0":"The New Stars of European Travel"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Could it be that American travelers are passing over Western Europe's traditional tourist trail in favor of newer, less-traveled destinations in southern and eastern Europe?"
+  },
+  "authors":{
+    "0":"minube, Contributor\nCommunity of over 2 million international travelers"
+  },
+  "date":{
+    "0":"2013-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "travelers",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "tourist",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american travelers",
+      "tourist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are passing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---cvl",
+      "08"
+    ]
+  }
+}

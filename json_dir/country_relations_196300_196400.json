@@ -1,0 +1,102 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-jimmy-fallon-visit-unc_us_5b9b9dcbe4b03a1dcc791303",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/4-steps-to-take-if-you-ar_us_5b9b9d5be4b03a1dcc790f45"
+  },
+  "headline":{
+    "0":"Obama, Jimmy Fallon Visit UNC, Talk The President's Thrift-Shopping Past (VIDEO)",
+    "1":"4 Steps to Take If You Are a Victim of Identity Theft"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"MONEY"
+  },
+  "short_description":{
+    "0":"Alas, Jimmy failed to follow up with our burning fashion questions. He did, however, discuss home decor with the president",
+    "1":"What do you own that's more valuable than money and more precious than jewels, but can't be locked up in a safe? Your identity. And thieves will do anything to take it."
+  },
+  "authors":{
+    "0":"",
+    "1":"Women & Co, Contributor\nPersonal finance source for women"
+  },
+  "date":{
+    "0":"2012-04-25 00:00:00",
+    "1":"2012-04-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---crm"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---crm"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "thieves",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "president"
+    ],
+    "1":[
+      "thieves",
+      "thieves"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "talk"
+    ],
+    "1":[
+      "will ... take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "---crm",
+      "---crm",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/this-is-what-happens-when-people-say-no-to-violence-against-women_b_5810922.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/this-is-what-happens-when-people-say-no-to-violence-against-women_b_5810922.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-arms-moderate-syria_b_5812958.html"
+  },
+  "headline":{
+    "0":"This Is What Happens When People Say No to Violence Against Women",
+    "1":"This Is What Happens When People Say No to Violence Against Women",
+    "2":"Obama Arms Moderate Syrian Rebel"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"WOMEN",
+    "2":"COMEDY"
+  },
+  "short_description":{
+    "0":"We wish Ray Rice had never assaulted Janay. We wish all the factors that led to his decision to be abusive and violent did not exist. We wish that all the people in Ray's life who had concerns about his behavior had done more to support him by challenging that behavior.",
+    "1":"We wish Ray Rice had never assaulted Janay. We wish all the factors that led to his decision to be abusive and violent did not exist. We wish that all the people in Ray's life who had concerns about his behavior had done more to support him by challenging that behavior.",
+    "2":"As part of his plan to degrade and destroy ISIS, President Obama has begun arming a moderate Syrian rebel.  Earlier this week the CIA certified that Husni al-Ziad, a middle-aged accountant living in Hama, was a \"moderate rebel.\""
+  },
+  "authors":{
+    "0":"Phoebe K. Schreiner, ContributorVP\/US Country Director of @breakthrough, a global #humanrights...",
+    "1":"Phoebe K. Schreiner, ContributorVP\/US Country Director of @breakthrough, a global #humanrights...",
+    "2":"Steven Clifford, ContributorFormer CEO, King Broadcasting Company"
+  },
+  "date":{
+    "0":"2014-09-15 00:00:00",
+    "1":"2014-09-15 00:00:00",
+    "2":"2014-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"syrreb"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"050",
+    "2":"062"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.5,
+    "2":7.4
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "syrian",
+      "rebel",
+      "syrreb",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "women"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "president obama",
+      "syrian rebel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say"
+    ],
+    "1":[
+      "had ... support"
+    ],
+    "2":[
+      "has ... arming"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "050"
+    ],
+    "2":[
+      "usagov",
+      "syrreb",
+      "062"
+    ]
+  }
+}

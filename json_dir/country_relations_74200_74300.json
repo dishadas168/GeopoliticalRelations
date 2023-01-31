@@ -1,0 +1,201 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-us-mosque_us_56b23196e4b04f9b57d807d7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-us-mosque_us_56b23196e4b04f9b57d807d7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kerry-washington-entertainment-weekly_us_56b2381ce4b08069c7a5b19d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/blackrock-ceo-quarterly-earnings_us_56b0d474e4b0655877f72c4f"
+  },
+  "headline":{
+    "0":"Obama Makes Historic Visit To U.S. Mosque",
+    "1":"Obama Makes Historic Visit To U.S. Mosque",
+    "2":"Kerry Washington Says Women Constantly Face The 'Pressure To Be Extraordinary'",
+    "3":"BlackRock CEO Wants Companies To Stop Quarterly Earnings Estimates"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Obama wants to highlight the American right to freedom of religion for all, including Muslims.",
+    "1":"Obama wants to highlight the American right to freedom of religion for all, including Muslims.",
+    "2":"The \"Scandal\" actress tells Entertainment Weekly about feeling the need to be \"twice as good.\"",
+    "3":"They force investors -- and in turn, CEOs -- to focus too much on the short-term, Larry Fink says."
+  },
+  "authors":{
+    "0":"Roberta Rampton, Reuters",
+    "1":"Roberta Rampton, Reuters",
+    "2":"Carly Ledbetter",
+    "3":"Ben Walsh"
+  },
+  "date":{
+    "0":"2016-02-03 00:00:00",
+    "1":"2016-02-03 00:00:00",
+    "2":"2016-02-03 00:00:00",
+    "3":"2016-02-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usagov",
+    "2":"usa",
+    "3":"mncusabus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usarelmus",
+    "2":"---cvl",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"010",
+    "2":"100",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":0.0,
+    "2":-5.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "religion",
+      "~rel",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "religion",
+      "muslims",
+      "~relmus",
+      "~",
+      "~"
+    ],
+    "2":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "blackrock",
+      "ceo",
+      "mncusabus",
+      "blackrock",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "u.s."
+    ],
+    "1":[
+      "obama",
+      "---"
+    ],
+    "2":[
+      "washington",
+      "women"
+    ],
+    "3":[
+      "blackrock ceo",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "blackrock",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "makes ... visit"
+    ],
+    "1":[
+      "wants ... highlight"
+    ],
+    "2":[
+      "says ... face ... pressure"
+    ],
+    "3":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "human_rights",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "usagov",
+      "usarelmus",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "100"
+    ],
+    "3":[
+      "mncusabus",
+      "---bus",
+      "030"
+    ]
+  }
+}

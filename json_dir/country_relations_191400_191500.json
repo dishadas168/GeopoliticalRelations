@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/our-favorite-black-tv-and-movie-dads_us_5badb742e4b0bb1705fa8dcc"
+  },
+  "headline":{
+    "0":"Our Favorite Black TV and Movie Dads"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"It's Father's Day, and it's time for all of us Daddy's girls and boys to celebrate the man that was partly responsible for"
+  },
+  "authors":{
+    "0":"Michelle Marques"
+  },
+  "date":{
+    "0":"2012-06-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to celebrate"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---ppl",
+      "051"
+    ]
+  }
+}

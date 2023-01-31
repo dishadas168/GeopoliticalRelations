@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dave-rubin-the-rubin-report_us_55b93fb5e4b095423d0dbad5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/steve-oney-arrested_us_55b949a9e4b0b8499b18419a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/huffpost-whats-working-honor-roll-anonymous-messaging-app-provides-suicide-intervention-on-college-campus_us_55b8416ee4b0224d88347433"
+  },
+  "headline":{
+    "0":"Comedian And LGBT Advocate Dave Rubin Brings 'The Rubin Report' To Ora TV",
+    "1":"Tennessee Man Arrested After Being Caught With Firearms, Ammo In Vehicle Near U.S. Capitol",
+    "2":"HuffPost What's Working Honor Roll: Anonymous Messaging App Provides Suicide Intervention On College Campuses"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"The out comedian and political commentator's acclaimed show is getting a new digital home.",
+    "1":"WASHINGTON, July 29 (Reuters) - The U.S. Capitol Police said on Wednesday that they arrested a Tennessee man who was driving",
+    "2":"Students see Yik Yak as a safe place to express themselves."
+  },
+  "authors":{
+    "0":"Curtis M. Wong",
+    "1":"",
+    "2":"Aaron Barksdale"
+  },
+  "date":{
+    "0":"2015-07-30 00:00:00",
+    "1":"2015-07-29 00:00:00",
+    "2":"2015-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usacop",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usappl",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"173",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "advocate",
+      "~jud",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "tennessee",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocate",
+      "tv"
+    ],
+    "1":[
+      "u.s. ... police",
+      "tennessee man"
+    ],
+    "2":[
+      "students",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "brings ... report"
+    ],
+    "1":[
+      "said ... arrested"
+    ],
+    "2":[
+      "see ... express"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "usacop",
+      "usappl",
+      "173"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "110"
+    ]
+  }
+}

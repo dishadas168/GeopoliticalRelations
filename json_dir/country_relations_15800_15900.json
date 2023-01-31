@@ -1,0 +1,272 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/janice-dean-internet-troll-fat-legs_us_5a58ffe7e4b04f3c55a24b7b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/new-yorker-cover-trump-shithole-countries_us_5a590b51e4b04f3c55a262a7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/republicans-trump-shithole_us_5a5815b4e4b02cebbfda6179",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/santa-monica-well-being-index_us_5a572e08e4b0a300f905fa58",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/paul-ryan-shithole-trump_us_5a58e99ae4b04f3c55a22efb",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/aflac-lawsuit-employees_us_5a57d79be4b04df054f7561f"
+  },
+  "headline":{
+    "0":"Fox News Meteorologist Slams Woman Who Said Her Legs Are 'Too Fat'",
+    "1":"New Yorker Cover Puts Trump 'In The Hole' After 'Racist' Comment",
+    "2":"Few Republicans Acknowledged Trump's 'Shithole' Slur",
+    "3":"A California City Measured Residents\u2019 Well-Being For 4 Years. What Lawmakers Discovered Surprised Them.",
+    "4":"Paul Ryan Calls Trump 'Shithole' Comments 'Very Unfortunate, Unhelpful'",
+    "5":"Insurance Giant Aflac Reportedly Sued For Worker Exploitation"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"ARTS & CULTURE",
+    "2":"POLITICS",
+    "3":"IMPACT",
+    "4":"POLITICS",
+    "5":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Janice Dean wants young girls to know: \"It\u2019s OK to be yourself, to show who you are.\"",
+    "1":"The president reportedly referred to groups of immigrants as coming from \"shithole countries.\"",
+    "2":"The president had reportedly been complaining about immigrants from Haiti, El Salvador and other countries.",
+    "3":"Santa Monica officials decided to look at more than just economic prosperity when gauging their citizens' success.",
+    "4":"The House Speaker refrained from pointed criticism, but said the president's comments reminded him of the oppression his own family once faced.",
+    "5":"The company calls the allegations \"baseless.\""
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Sara Boboltz",
+    "2":"Carla Herreria",
+    "3":"Oliver Balch, On assignment for HuffPost",
+    "4":"Matt Fuller",
+    "5":"Antonia Blumberg"
+  },
+  "date":{
+    "0":"2018-01-12 00:00:00",
+    "1":"2018-01-12 00:00:00",
+    "2":"2018-01-12 00:00:00",
+    "3":"2018-01-12 00:00:00",
+    "4":"2018-01-12 00:00:00",
+    "5":"2018-01-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"usa",
+    "4":"---leg",
+    "5":"mncusa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"hticvl",
+    "3":"---cvl",
+    "4":"---gov",
+    "5":"---lab"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"114",
+    "3":"010",
+    "4":"010",
+    "5":"173"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":-2.0,
+    "3":0.0,
+    "4":0.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "dean",
+      "~edu",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "haiti",
+      "el salvador",
+      "hti",
+      "slv",
+      "haiti",
+      "el",
+      "salvador",
+      "immigrants",
+      "hticvl",
+      "slvcvl",
+      "~"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "house speaker",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "aflac",
+      "mncusa",
+      "aflac",
+      "worker",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dean",
+      "girls"
+    ],
+    "1":[
+      "president",
+      "immigrants"
+    ],
+    "2":[
+      "president",
+      "immigrants",
+      "president",
+      "immigrants"
+    ],
+    "3":[
+      "california",
+      "residents"
+    ],
+    "4":[
+      "house speaker",
+      "president"
+    ],
+    "5":[
+      "aflac",
+      "worker"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "",
+      "---",
+      ""
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "aflac",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "referred"
+    ],
+    "2":[
+      "had ... complaining",
+      "had ... complaining"
+    ],
+    "3":[
+      "measured"
+    ],
+    "4":[
+      "said"
+    ],
+    "5":[
+      "sued for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ],
+    "2":[
+      "id_immigration",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "hticvl",
+      "114",
+      "---gov",
+      "slvcvl",
+      "114"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "010"
+    ],
+    "4":[
+      "---leg",
+      "---gov",
+      "010"
+    ],
+    "5":[
+      "mncusa",
+      "---lab",
+      "173"
+    ]
+  }
+}

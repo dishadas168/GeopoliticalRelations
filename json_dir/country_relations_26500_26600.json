@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.huffingtonpost.co.uk\/entry\/barcelona-terror-attacks-boy-7-missing-amid-rampage-that-killed-13_uk_5996a2b3e4b01f6e801dc634",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/world-solidarity-barcelona-spain-attack-photos_us_5996f363e4b0a2608a6bd62b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-attacks-in-spain-are-why-trumps-travel-ban-is_us_599702c3e4b03b5e472ceed6",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/nonprofits-mar-a-lago-trump_us_599735e9e4b0a2608a6c44de",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/vermont-automatic-voter-registration_us_59970776e4b0e8cc855d58e8"
+  },
+  "headline":{
+    "0":"Families Begin To Identify Victims Of Spain Terror Attacks",
+    "1":"Photos Show The World Mourning In Solidarity With Spain",
+    "2":"The Attacks In Spain Demonstrate Why Trump's Travel Ban Is Irresponsible",
+    "3":"Major Nonprofits Cancel Mar-a-Lago Fundraisers After Charlottesville",
+    "4":"New Evidence This Simple Reform Would Get A Lot More People Registered To Vote"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Fourteen people were killed in two attacks including a van rampage in Barcelona\u2019s Las Ramblas walkway on Thursday, and more",
+    "1":"From New York City to Moscow, communities pay tribute to Spain's attack victims.",
+    "2":"The president's infantile approach to curbing terrorism has taken yet another intellectual blow.",
+    "3":"\"Mar-a-Lago ... has increasingly become a source of controversy and pain for many of our volunteers, employees and supporters,\" said the American Red Cross.",
+    "4":"Vermont tried it and saw a big increase in registered voters -- and it's not even an election year."
+  },
+  "authors":{
+    "0":"",
+    "1":"Chris McGonigal",
+    "2":"Tracy Walder, ContributorFormer CIA officer and FBI special agent turned educator",
+    "3":"Ryan Grenoble",
+    "4":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-08-18 00:00:00",
+    "1":"2017-08-18 00:00:00",
+    "2":"2017-08-18 00:00:00",
+    "3":"2017-08-18 00:00:00",
+    "4":"2017-08-18 00:00:00"
+  },
+  "actor1":{
+    "0":"esp",
+    "1":"---cvl",
+    "2":"---gov",
+    "3":"ngohlhirc",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"espcvl",
+    "2":"---edu",
+    "3":"usa",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"017",
+    "2":"171",
+    "3":"010",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-9.2,
+    "3":0.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "barcelona",
+      "esp",
+      "spain"
+    ],
+    "1":[
+      "communities",
+      "~cvl",
+      "~",
+      "spain",
+      "victims",
+      "espcvl",
+      "spain",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "intellectual",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "employees",
+      "~lab",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "red cross",
+      "ngohlhirc",
+      "red",
+      "cross",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "vermont",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barcelona",
+      "people"
+    ],
+    "1":[
+      "communities",
+      "spain ... victims"
+    ],
+    "2":[
+      "president",
+      "intellectual"
+    ],
+    "3":[
+      "red cross",
+      "american"
+    ],
+    "4":[
+      "vermont",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "spain",
+      "---"
+    ],
+    "1":[
+      "---",
+      "spain"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "red cross",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... killed in <esp>"
+    ],
+    "1":[
+      "pay tribute"
+    ],
+    "2":[
+      "has taken"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "<and> ... saw"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "terror",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "esp",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "espcvl",
+      "017"
+    ],
+    "2":[
+      "---gov",
+      "---edu",
+      "171"
+    ],
+    "3":[
+      "ngohlhirc",
+      "usa",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "---cvl",
+      "010"
+    ]
+  }
+}

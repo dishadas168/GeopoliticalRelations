@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fake-pilot-arrested-at-tu_us_5b9c544ce4b03a1dcc7dd591"
+  },
+  "headline":{
+    "0":"Fake Pilot Arrested At Turin Airport (VIDEO)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Filippo Vanni, Turin police spokesman, told reporters that the impression was impressive. An unidentified Italian man was"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-09-24 00:00:00"
+  },
+  "actor1":{
+    "0":"itacopmed"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "turin",
+      "police",
+      "spokesman",
+      "itacopmed",
+      "italy",
+      "~",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turin police spokesman",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "itacopmed",
+      "---med",
+      "010"
+    ]
+  }
+}

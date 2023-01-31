@@ -1,0 +1,161 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marriage-showdown-texas-v-supreme-court_b_7298420.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/marriage-showdown-texas-v-supreme-court_b_7298420.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-decline-of-the-united_b_7286358.html"
+  },
+  "headline":{
+    "0":"Marriage Showdown: Texas v. Supreme Court",
+    "1":"Marriage Showdown: Texas v. Supreme Court",
+    "2":"The Decline of the United States"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"QUEER VOICES",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Texas is setting itself up for a showdown with the Supreme Court. A bill to defy the court's rulings died in the House last week, but anti-gay politicians could find a sneaky way to revive it. Meanwhile, the Attorney General of Texas refuses to say if he'll obey the Supreme Court's ruling in June.",
+    "1":"Texas is setting itself up for a showdown with the Supreme Court. A bill to defy the court's rulings died in the House last week, but anti-gay politicians could find a sneaky way to revive it. Meanwhile, the Attorney General of Texas refuses to say if he'll obey the Supreme Court's ruling in June.",
+    "2":"America has tried, and continues to try, to push President Putin and Russia out of a competitive role in world politics. But Russian counter moves can move America out of its position of world leader."
+  },
+  "authors":{
+    "0":"Matt Baume, ContributorWriter, photographer, explainer of the strange and wonderful",
+    "1":"Matt Baume, ContributorWriter, photographer, explainer of the strange and wonderful",
+    "2":"Dr. Ichak Kalderon Adizes , ContributorPresident of the Adizes Institute and is recognized by Leaders..."
+  },
+  "date":{
+    "0":"2015-05-16 00:00:00",
+    "1":"2015-05-16 00:00:00",
+    "2":"2015-05-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"usagov",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---pty",
+    "1":"---jud",
+    "2":"rusgov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"08",
+    "2":"100"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":5.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "1":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "attorney general",
+      "usagov",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president putin",
+      "russia",
+      "rusgov",
+      "rus",
+      "vladimir",
+      "putin",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "politicians",
+      "politicians"
+    ],
+    "1":[
+      "attorney general",
+      "supreme court"
+    ],
+    "2":[
+      "america",
+      "president putin",
+      "america",
+      "president putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "vladimir putin",
+      "united states of america",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could ... revive"
+    ],
+    "1":[
+      "refuses ... say ... 'll obey"
+    ],
+    "2":[
+      "<and> ... push",
+      "<and> ... push"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---pty",
+      "030"
+    ],
+    "1":[
+      "usagov",
+      "---jud",
+      "08"
+    ],
+    "2":[
+      "usa",
+      "rusgov",
+      "100",
+      "usa",
+      "rus",
+      "100"
+    ]
+  }
+}

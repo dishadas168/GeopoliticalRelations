@@ -1,0 +1,312 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-brennan-trump-cia-response_us_58841430e4b096b4a2325374",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hispanic-lawmakers-trump-inauguration_us_58829367e4b096b4a231d9b2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-cia-iraq-oil_us_5883ccf5e4b096b4a23243b2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/john-lewis-to-atlanta-we-cannot-afford-to-be-silent_us_5883d141e4b08f5134b6214b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-accusers-womens-march_us_5883d14be4b0e3a7356989c6",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/womens-march-dc_us_58837044e4b096b4a231ee7e",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/senate-confirms-john-kelly-as-trumps-homeland-security-secretary_us_58829e01e4b070d8cad29fe4"
+  },
+  "headline":{
+    "0":"Former CIA Director John Brennan Says 'Trump Should Be Ashamed Of Himself'",
+    "1":"Hispanic Lawmakers To Trump: \u2018Get Used To Seeing Our Faces\u2019",
+    "2":"President Trump Just Told The CIA The U.S. Should Have Stolen Iraq's Oil",
+    "3":"John Lewis To Atlanta: We Cannot Afford To Be Silent",
+    "4":"These Women Are Marching Because The Man They Accused Of Sexual Assault Is Now President",
+    "5":"Hundreds Of Thousands Of Protesters Welcome Donald Trump To Washington",
+    "6":"Senate Confirms John Kelly As Trump's Homeland Security Secretary"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president spoke to CIA agents in unprepared remarks that included a suggestion to violate international law.",
+    "1":"Hours after the inauguration, lawmakers said they would try to protect Dreamers from the new president's policies.",
+    "2":"The president just advocated for a clear violation of international law.",
+    "3":"An estimated 60,000 people gathered in Atlanta today to participate in the Atlanta March for Social Justice and Women. Part",
+    "4":"Politics is personal for some of the women protesting Donald Trump in D.C.",
+    "5":"Pussy power!",
+    "6":"Eighty-eight senators approved Kelly and just 11 opposed him."
+  },
+  "authors":{
+    "0":"Annum Masroor",
+    "1":"Laura Barr\u00f3n-L\u00f3pez",
+    "2":"Matt Fuller",
+    "3":"Kristi York Wooten, ContributorFounder of SustenanceGroup.org; Journalist covering music, hum...",
+    "4":"Dana Liebelson",
+    "5":"Amanda Terkel",
+    "6":"Patricia Zengerle, Reuters"
+  },
+  "date":{
+    "0":"2017-01-22 00:00:00",
+    "1":"2017-01-21 00:00:00",
+    "2":"2017-01-21 00:00:00",
+    "3":"2017-01-21 00:00:00",
+    "4":"2017-01-21 00:00:00",
+    "5":"2017-01-21 00:00:00",
+    "6":"2017-01-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"---gov",
+    "3":"---ppl",
+    "4":"---cvl",
+    "5":"usa",
+    "6":"---leg"
+  },
+  "actor2":{
+    "0":"usaspy",
+    "1":"---gov",
+    "2":"usaspy",
+    "3":"usa",
+    "4":"---ppl",
+    "5":"---opp",
+    "6":"---leg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"074",
+    "2":"010",
+    "3":"040",
+    "4":"140",
+    "5":"042",
+    "6":"110"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5,
+    "2":0.0,
+    "3":1.0,
+    "4":-6.5,
+    "5":1.9,
+    "6":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ],
+    "1":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "women",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "senators",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "cia"
+    ],
+    "1":[
+      "lawmakers",
+      "president"
+    ],
+    "2":[
+      "president",
+      "cia"
+    ],
+    "3":[
+      "people",
+      "atlanta"
+    ],
+    "4":[
+      "women",
+      "man"
+    ],
+    "5":[
+      "washington",
+      "protesters",
+      "protesters",
+      "washington"
+    ],
+    "6":[
+      "senators",
+      "senators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "us intelligence community"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "us intelligence community"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "spoke"
+    ],
+    "1":[
+      "said ... would ... protect"
+    ],
+    "2":[
+      "told"
+    ],
+    "3":[
+      "gathered"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "welcome ... to",
+      "welcome ... to"
+    ],
+    "6":[
+      "approved ... opposed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usaspy",
+      "010"
+    ],
+    "1":[
+      "---leg",
+      "---gov",
+      "074"
+    ],
+    "2":[
+      "---gov",
+      "usaspy",
+      "010"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "---cvl",
+      "---ppl",
+      "140"
+    ],
+    "5":[
+      "usa",
+      "---opp",
+      "042",
+      "---opp",
+      "usa",
+      "043"
+    ],
+    "6":[
+      "---leg",
+      "---leg",
+      "110"
+    ]
+  }
+}

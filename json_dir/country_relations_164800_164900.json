@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/art-deco-weekend-miami-is_us_5b9cf94ce4b03a1dcc836b8b"
+  },
+  "headline":{
+    "0":"Art Deco Weekend Miami Is the Bee's Knees"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Every January, Art Deco Weekend turns South Beach into a sea of fringe and pincurls. Over 300,000 people gather in Miami's historic district to celebrate the Jazz Age."
+  },
+  "authors":{
+    "0":"La Carmina, Contributor\nTravel TV host, fashion blogger at lacarmina.com and @lacarmina"
+  },
+  "date":{
+    "0":"2013-04-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "miami",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "miami"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gather"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "040"
+    ]
+  }
+}

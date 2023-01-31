@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/zimbabwe-mugabe-says-mandela-too-soft-on-whites_us_5bade301e4b0bb1705fb4899"
+  },
+  "headline":{
+    "0":"Zimbabwe's Mugabe Says Nelson Mandela Too Soft On Whites, In Documentary"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Dali Tambo, the son of South African anti-apartheid hero Oliver Tambo, produced the documentary, which will be broadcast"
+  },
+  "authors":{
+    "0":"Agence France Presse, Agence France Presse"
+  },
+  "date":{
+    "0":"2013-05-26 00:00:00"
+  },
+  "actor1":{
+    "0":"zwe"
+  },
+  "actor2":{
+    "0":"zafeli"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "zimbabwe",
+      "zwe",
+      "zimbabwe",
+      "nelson mandela",
+      "zafeli",
+      "nelson",
+      "mandela"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "zimbabwe",
+      "nelson mandela"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "zimbabwe",
+      "nelson mandela"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "zwe",
+      "zafeli",
+      "010"
+    ]
+  }
+}

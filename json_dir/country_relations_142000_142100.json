@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/pro-lgbt-companies-holiday-shopping_us_5bafbea5e4b0ad7692613a42"
+  },
+  "headline":{
+    "0":"Pro-LGBT Companies That Have Supported The LGBT Community"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Who companies and their CEOs are (or aren't) looking out for (ahem... Chick-fil-A....) is something we want certainly want"
+  },
+  "authors":{
+    "0":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2013-11-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have supported"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "050"
+    ]
+  }
+}

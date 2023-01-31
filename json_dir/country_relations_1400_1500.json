@@ -1,0 +1,321 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/capitol-rioter-bragged-infamy-prison-sentence_n_61ba251be4b0317f6dcfeadb",
+    "1":"https:\/\/www.huffpost.com\/entry\/joe-biden-aaron-rodgers-message_n_61bc3ae4e4b0bf370339424d",
+    "2":"https:\/\/www.huffpost.com\/entry\/anjanette-young-chicago-police-settlement_n_61b8f410e4b0ea2ae70d21ff",
+    "3":"https:\/\/www.huffpost.com\/entry\/phil-waldron-mark-meadows-powerpoint-overthrow-trump_n_61b53f5ee4b0030da7d5fbc3",
+    "4":"https:\/\/www.huffpost.com\/entry\/unmitigated-liars-charles-michael-flynn-jan-6-earl-matthews_n_61ae9740e4b0f76117b2a654",
+    "5":"https:\/\/www.huffpost.com\/entry\/ap-cb-haiti-us-hostages-freed_n_61ae2516e4b07fe2012a89a1",
+    "6":"https:\/\/www.huffpost.com\/entry\/stacey-abrams-georgia-governor-2022_n_61a7da0de4b025be1af267d8"
+  },
+  "headline":{
+    "0":"Capitol Rioter Who Bragged About Her 'Infamy' Sentenced To Prison",
+    "1":"Joe Biden Gives Green Bay Packers Fan A Blunt Message For Unvaxxed Aaron Rodgers",
+    "2":"Chicago Expected To Pay Woman $2.9 Million Over Botched Police Raid",
+    "3":"Player In PowerPoint Election Overthrow Plot Reportedly Talked Often With Mark Meadows",
+    "4":"Former DC Guard Official Rips 'Unmitigated' Jan. 6 Lies Of Michael Flynn's Brother",
+    "5":"U.S. Religious Group Says Haitian Gang Releases 3 More Hostages",
+    "6":"Stacey Abrams Announces Run For Georgia Governor In 2022"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"WORLD NEWS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Can't wait to tell my grandkids i was here!\" Gracyn Courtright posted on Instagram on Jan. 6.",
+    "1":"The president told a woman in a Packers jacket to tell the quarterback one thing during a tour of tornado-hit Kentucky.",
+    "2":"Officers refused to let Anjanette Young get dressed, instead handcuffing her while she repeatedly told them they were at the wrong address.",
+    "3":"Retired Army colonel Phil Waldron also told The Washington Post that he briefed several members of Congress on \"options\" the night before Jan. 6.",
+    "4":"Col. Earl Matthews accuses Lt. Gen. Charles Flynn and Lt. Gen. Walter Piatt of lying to Congress about what transpired the day rioters breached the Capitol.",
+    "5":"A religious group based in Ohio has announced that a violent gang in Haiti has released three more hostages, while another 12 remain abducted.",
+    "6":"The voting rights activist will likely face off against the current Republican governor, Brian Kemp."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly",
+    "1":"Lee Moran",
+    "2":"DON BABWIN, AP",
+    "3":"Mary Papenfuss",
+    "4":"Mary Papenfuss",
+    "5":"PETER SMITH and EVENS SANON, AP",
+    "6":"Ryan Grenoble"
+  },
+  "date":{
+    "0":"2021-12-17 00:00:00",
+    "1":"2021-12-17 00:00:00",
+    "2":"2021-12-14 00:00:00",
+    "3":"2021-12-12 00:00:00",
+    "4":"2021-12-07 00:00:00",
+    "5":"2021-12-06 00:00:00",
+    "6":"2021-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---mil",
+    "4":"---mil",
+    "5":"---rel",
+    "6":"---opp"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"med",
+    "4":"---millegopp",
+    "5":"hticrm",
+    "6":"---gov"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"010",
+    "2":"0311",
+    "3":"010",
+    "4":"112",
+    "5":"010",
+    "6":"040"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":5.2,
+    "3":0.0,
+    "4":-2.0,
+    "5":0.0,
+    "6":1.0
+  },
+  "nouns":{
+    "0":[
+      "rioter",
+      "~opp",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "woman",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "colonel",
+      "~mil",
+      "~",
+      "washington post",
+      "med",
+      "washington",
+      "post",
+      "congress",
+      "~leg",
+      "~",
+      "members of congress",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "col.",
+      "~mil",
+      "~",
+      "lt.",
+      "gen.",
+      "congress",
+      "rioters",
+      "~millegopp",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    "5":[
+      "religious group",
+      "~rel",
+      "~",
+      "haitian",
+      "gang",
+      "hticrm",
+      "haiti",
+      "~"
+    ],
+    "6":[
+      "activist",
+      "~opp",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rioter",
+      "prison"
+    ],
+    "1":[
+      "president",
+      "woman"
+    ],
+    "2":[
+      "chicago",
+      "woman"
+    ],
+    "3":[
+      "colonel",
+      "washington post"
+    ],
+    "4":[
+      "col.",
+      "lt. gen. ... congress ... rioters"
+    ],
+    "5":[
+      "religious group",
+      "haitian gang"
+    ],
+    "6":[
+      "activist",
+      "governor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "washington post"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "haiti"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sentenced"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "expected ... pay"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "accuses"
+    ],
+    "5":[
+      "says"
+    ],
+    "6":[
+      "will ... face"
+    ]
+  },
+  "issues":{
+    "0":[
+      "violent_unrest",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "violent_unrest",
+      "1"
+    ],
+    "5":[
+      "organized_crime",
+      "1"
+    ],
+    "6":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cop",
+      "172"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "0311"
+    ],
+    "3":[
+      "---mil",
+      "med",
+      "010"
+    ],
+    "4":[
+      "---mil",
+      "---millegopp",
+      "112"
+    ],
+    "5":[
+      "---rel",
+      "hticrm",
+      "010"
+    ],
+    "6":[
+      "---opp",
+      "---gov",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-opioid-addiction_us_572910e9e4b016f37893f21e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bart-johnson-alabama-death-sentence_us_5727b53ee4b0b49df6ac0c17",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-garland-scotus_us_572814c0e4b016f378936384",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-fifth-grade-teacher_us_5728ef45e4b0bc9cb044cb52",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/muslim-woman-attacked_us_57289b7ae4b0bc9cb0447aed",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/marco-rubio-darren-soto_us_571fc63de4b0b49df6a96855"
+  },
+  "headline":{
+    "0":"Hillary Clinton Tells The Story Of The Young Woman Who Moved Obama On The Heroin Epidemic",
+    "1":"Supreme Court Gives Prisoner Rare Second Chance To Fight Alabama's Death Sentencing Scheme",
+    "2":"Obama Takes Supreme Court Fight To Republican Senators' Home Turf",
+    "3":"Obama Honors His Fifth Grade Teacher: 'She Taught Me I Had Something To Say'",
+    "4":"Police Are Looking For An Alleged Trump Supporter Who Attacked A Muslim Woman",
+    "5":"Congressional Candidate Was Once Pranked By Marco Rubio For Hitting On College Students"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"President Obama met Jessica Grubb's family in October. It stuck with him.",
+    "1":"The state's judicial override regime may soon be on the chopping block.",
+    "2":"\" Let the American people see Judge Garland,\" Obama said.",
+    "3":"\"She reinforced that essential value of empathy that my mother and my grandparents had taught me. That is something that I carry with me every day as President.\"",
+    "4":"The assailant allegedly called the woman a \"terrorist.\"",
+    "5":"A hired actress from Florida State University passed the amorous lawmaker a fake \"secret admirer\" note."
+  },
+  "authors":{
+    "0":"Paige Lavender",
+    "1":"Kim Bellware",
+    "2":"",
+    "3":"Sam Levine",
+    "4":"Christopher Mathias",
+    "5":"Laura Bassett"
+  },
+  "date":{
+    "0":"2016-05-03 00:00:00",
+    "1":"2016-05-03 00:00:00",
+    "2":"2016-05-03 00:00:00",
+    "3":"2016-05-03 00:00:00",
+    "4":"2016-05-03 00:00:00",
+    "5":"2016-05-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"---jud",
+    "2":"usappl",
+    "3":"usagov",
+    "4":"---cvluaf",
+    "5":"usaedu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---jud",
+    "3":"---edu",
+    "4":"---uaf",
+    "5":"---leg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"010",
+    "3":"051",
+    "4":"041",
+    "5":"08"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":0.0,
+    "3":3.4,
+    "4":1.0,
+    "5":5.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "judge",
+      "~jud",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "teacher",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "assailant",
+      "~uaf",
+      "~",
+      "woman",
+      "terrorist",
+      "~cvluaf",
+      "~",
+      "~"
+    ],
+    "5":[
+      "florida",
+      "state university",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "lawmaker",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "woman"
+    ],
+    "1":[
+      "supreme court",
+      "alabama"
+    ],
+    "2":[
+      "american people",
+      "judge"
+    ],
+    "3":[
+      "obama",
+      "teacher"
+    ],
+    "4":[
+      "woman ... terrorist",
+      "assailant",
+      "assailant",
+      "woman ... terrorist"
+    ],
+    "5":[
+      "florida state university",
+      "lawmaker"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "barack obama",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "see"
+    ],
+    "3":[
+      "honors"
+    ],
+    "4":[
+      "called",
+      "called"
+    ],
+    "5":[
+      "passed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "drugs",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "teachers",
+      "1"
+    ],
+    "4":[
+      "terror",
+      "1"
+    ],
+    "5":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "usappl",
+      "---jud",
+      "010"
+    ],
+    "3":[
+      "usagov",
+      "---edu",
+      "051"
+    ],
+    "4":[
+      "---cvluaf",
+      "---uaf",
+      "041",
+      "---uaf",
+      "---cvluaf",
+      "041"
+    ],
+    "5":[
+      "usaedu",
+      "---leg",
+      "08"
+    ]
+  }
+}

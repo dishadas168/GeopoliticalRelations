@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-russia-investigation_us_59186108e4b0fe039b353c78",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-canadian-economy-hinges-on-nato-cooperation_us_5918be65e4b0bd90f8e6a6a1"
+  },
+  "headline":{
+    "0":"Sen. Mike Lee Says Trump Is 'Fully Cooperating' With Russia Investigation",
+    "1":"US-Canada Relations Hinge On NAFTA Cooperation"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"But the president just fired FBI Director James Comey for pursuing it.",
+    "1":"The state of American-Canadian relations is at a critical point. U.S. President Donald Trump campaigned on an \u201cAmerica first"
+  },
+  "authors":{
+    "0":"Zach Carter",
+    "1":"Corey Savard, ContributorJournalist and Digital Content Specialist"
+  },
+  "date":{
+    "0":"2017-05-14 00:00:00",
+    "1":"2017-05-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "fbi"
+    ],
+    "1":[
+      "u.s. president",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fired"
+    ],
+    "1":[
+      "campaigned"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usacop",
+      "190"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "100"
+    ]
+  }
+}

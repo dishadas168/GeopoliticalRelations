@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-rob-porter-fbi-christopher-wray_us_5a831c42e4b01467fcf24a7a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb"
+  },
+  "headline":{
+    "0":"FBI Chief Disputes White House Claims On When It Heard Of Rob Porter Allegations",
+    "1":"The Education Department Officially Won't Deal With Transgender Students Experiencing Bathroom Discrimination"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Christopher Wray said the FBI turned in a partial report about the domestic abuse accusations nearly a year ago.",
+    "1":"Transgender students who are not allowed to use the bathroom that corresponds with their gender identity will not be receiving any help from federal officials."
+  },
+  "authors":{
+    "0":"S.V. Date",
+    "1":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2018-02-13 00:00:00",
+    "1":"2018-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"---govedu"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "education department",
+      "~govedu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "white house"
+    ],
+    "1":[
+      "education department",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "white house"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "disputes"
+    ],
+    "1":[
+      "wo ... deal"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1",
+      "students",
+      "1",
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usagov",
+      "110"
+    ],
+    "1":[
+      "---govedu",
+      "---edu",
+      "050"
+    ]
+  }
+}

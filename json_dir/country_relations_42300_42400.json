@@ -1,0 +1,204 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-strikes-afghanistan_us_58a0a8c9e4b094a129ec0990",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mexico-protests-trump_us_58a0ca77e4b0ab2d2b164587",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-and-public-school-visits-a-brief-guidereleased_us_58a0daa5e4b0e172783a9e07",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/understanding-the-needs-of-nursing-mothers_us_58802277e4b0aa1c47ac283b"
+  },
+  "headline":{
+    "0":"U.S. Airstrikes In Afghanistan Kill At Least 18 Civilians: UN Report",
+    "1":"Thousands Protest Donald Trump Across Mexico",
+    "2":"Betsy DeVos And Public School Visits: A Brief Guide",
+    "3":"Understanding The Needs Of Nursing Mothers"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"EDUCATION",
+    "3":"PARENTS"
+  },
+  "short_description":{
+    "0":"The U.S. military says it is investigating the allegations.",
+    "1":"The march comes days after hundreds of undocumented immigrants were arrested in the U.S.",
+    "2":"U.S. Secretary of Education Betsy DeVos has started visiting public schools. On Friday, February 10, 2017, she was met by",
+    "3":"The World Health Organization recommends a minimum of six months of breastfeeding for infants.\u00a0In the United States,\u00a074 percent"
+  },
+  "authors":{
+    "0":"Josh Smith, Reuters",
+    "1":"Lydia O'Connor",
+    "2":"Mercedes Schneider, ContributorPublic school teacher, education activist, PhD",
+    "3":"Shannon Fisher, ContributorRadio Talk Show Host.  Social & Political Commentator."
+  },
+  "date":{
+    "0":"2017-02-12 00:00:00",
+    "1":"2017-02-12 00:00:00",
+    "2":"2017-02-12 00:00:00",
+    "3":"2017-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usagovedu",
+    "3":"igounohlhwho"
+  },
+  "actor2":{
+    "0":"igounocvl",
+    "1":"---cvl",
+    "2":"---edu",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"173",
+    "2":"042",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0,
+    "2":1.9,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "civilians",
+      "un",
+      "igounocvl",
+      "~",
+      "un"
+    ],
+    "1":[
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "u.s.",
+      "secretary of education",
+      "usagovedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "world health organization",
+      "igounohlhwho",
+      "world",
+      "health",
+      "organization",
+      "infants",
+      "~cvl",
+      "~",
+      "infants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "civilians ... un"
+    ],
+    "1":[
+      "<u.s.>",
+      "immigrants"
+    ],
+    "2":[
+      "u.s. secretary of education",
+      "schools"
+    ],
+    "3":[
+      "world health organization",
+      "infants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "un"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "world health organization",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ],
+    "1":[
+      "<~cvl> ... arrested in <usa>"
+    ],
+    "2":[
+      "has ... visiting"
+    ],
+    "3":[
+      "recommends"
+    ]
+  },
+  "issues":{
+    "0":[
+      "airstrike",
+      "1"
+    ],
+    "1":[
+      "id_immigration",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "igounocvl",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "173"
+    ],
+    "2":[
+      "usagovedu",
+      "---edu",
+      "042"
+    ],
+    "3":[
+      "igounohlhwho",
+      "---cvl",
+      "020"
+    ]
+  }
+}

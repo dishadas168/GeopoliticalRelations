@@ -1,0 +1,219 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iraq-islamic-state-hawija_us_59d5da39e4b0380b6c9a3ef3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iraq-islamic-state-hawija_us_59d5da39e4b0380b6c9a3ef3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/low-income-pregnant-women-need-help-in-indiana_us_59d474f9e4b0218923e62ec8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/catalan-independence-spain_us_59d4fc63e4b04b9f9206c848",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/australia-gun-control-las-vegas_us_59d46dd0e4b06226e3f48587"
+  },
+  "headline":{
+    "0":"Iraqi Forces Capture Islamic State's Last Stronghold In Northern Iraq",
+    "1":"Iraqi Forces Capture Islamic State's Last Stronghold In Northern Iraq",
+    "2":"Low-Income Pregnant Women Need Help In Indiana -- And This Group Offers It",
+    "3":"Catalonia Plans To Declare Independence From Spain On Monday",
+    "4":"Australia Offers To Help The U.S. With Gun Law Reform"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"IMPACT",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"ISIS militants continue to control the border town of al-Qaim and the region surrounding it, but the area under their control is shrinking.",
+    "1":"ISIS militants continue to control the border town of al-Qaim and the region surrounding it, but the area under their control is shrinking.",
+    "2":"Healthier Moms and Babies provides education on prenatal care and much more.",
+    "3":"BARCELONA\/MADRID, Oct 4 (Reuters) - Catalonia will move on Monday to declare independence from Spain following Oct. 1\u2032s banned",
+    "4":"\"What we can offer is our experience. But at the end of the day it's going to be up to [U.S.] legislators and lawmakers, and the public, to change the laws.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Alessandra Freitas",
+    "3":"",
+    "4":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2017-10-05 00:00:00",
+    "1":"2017-10-05 00:00:00",
+    "2":"2017-10-05 00:00:00",
+    "3":"2017-10-04 00:00:00",
+    "4":"2017-10-04 00:00:00"
+  },
+  "actor1":{
+    "0":"irq",
+    "1":"imgmusisiuaf",
+    "2":"---cvl",
+    "3":"esp",
+    "4":"aus"
+  },
+  "actor2":{
+    "0":"irqmus",
+    "1":"imgmusisiuaf",
+    "2":"usa",
+    "3":"esp",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"192",
+    "1":"190",
+    "2":"103",
+    "3":"1044",
+    "4":"033"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":-10.0,
+    "2":-5.0,
+    "3":-5.0,
+    "4":5.2
+  },
+  "nouns":{
+    "0":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "islamic",
+      "~mus",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "isis",
+      "militants",
+      "imgmusisiuaf",
+      "the",
+      "islamic",
+      "state",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "catalonia",
+      "esp",
+      "spain",
+      "spain",
+      "esp",
+      "spain"
+    ],
+    "4":[
+      "australia",
+      "aus",
+      "australia",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iraqi",
+      "---"
+    ],
+    "1":[
+      "isis militants",
+      "isis militants"
+    ],
+    "2":[
+      "women",
+      "indiana"
+    ],
+    "3":[
+      "catalonia",
+      "catalonia"
+    ],
+    "4":[
+      "australia",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iraq",
+      "---"
+    ],
+    "1":[
+      "the islamic state",
+      "the islamic state"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "spain",
+      "spain"
+    ],
+    "4":[
+      "australia",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "capture <&stronghold>"
+    ],
+    "1":[
+      "continue ... control ... surrounding"
+    ],
+    "2":[
+      "need help"
+    ],
+    "3":[
+      "will ... declare independence"
+    ],
+    "4":[
+      "offers ... help"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "irq",
+      "irqmus",
+      "192"
+    ],
+    "1":[
+      "imgmusisiuaf",
+      "imgmusisiuaf",
+      "190"
+    ],
+    "2":[
+      "---cvl",
+      "usa",
+      "103"
+    ],
+    "3":[
+      "esp",
+      "esp",
+      "1044"
+    ],
+    "4":[
+      "aus",
+      "usa",
+      "033"
+    ]
+  }
+}

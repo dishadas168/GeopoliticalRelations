@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_347_b_5664914.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/armenia-and-its-russian-imperialism-problem_b_5658169.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Armenia and Its Russian-Imperialism Problem"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"This week we went back to the future as President Obama authorized air strikes in Iraq, along with humanitarian airdrops of food and water to thousands of Yazidis besieged by Islamic State fighters. The White House emphasized the military action's limited scope. \"I will not allow the United States to be dragged into fighting another war in Iraq,\" said the President. But, of course, even though the U.S. formally withdrew our forces from Iraq in 2011, this is not another war; it's a continuation of the Iraq War, which should be renamed The War of Unintended Consequences. Though this week's air strikes, however warranted, should serve as a sobering rebuke to the kind of thinking that led us into Iraq in the first place, the same voices that headed that ill-conceived charge are still front and center -- like Paul Wolfowitz, who on Tuesday claimed that America had \"won\" the war in Iraq \"in 2009.\" I guess someone forgot to tell Iraq.",
+    "1":"Earlier this summer, a minor kerfuffle over an exhibition of artworks by famed Armenian filmmaker Sergei Parajanov (1924-1990) underscored a more serious problem facing Armenian culture and Armenia in general -- and, by extension, many of the former Soviet republics."
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Christopher Atamian, ContributorWriter\/Producer\/Director"
+  },
+  "date":{
+    "0":"2014-08-10 00:00:00",
+    "1":"2014-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"arm"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"arm"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "armenian",
+      "arm",
+      "armenia",
+      "armenian",
+      "arm",
+      "armenia",
+      "armenia",
+      "arm",
+      "armenia",
+      "soviet",
+      "sun",
+      "soviet",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "military"
+    ],
+    "1":[
+      "armenian",
+      "armenian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "armenia",
+      "armenia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "emphasized"
+    ],
+    "1":[
+      "<and> ... underscored ... facing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---mil",
+      "010"
+    ],
+    "1":[
+      "arm",
+      "arm",
+      "040"
+    ]
+  }
+}

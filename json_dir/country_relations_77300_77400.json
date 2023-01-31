@@ -1,0 +1,394 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/severe-storm-death-toll-tornadoes-texas_us_567f4e05e4b014efe0d86773",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-hits-isis-targets-with-17-airstrikes-on-christmas-day_us_567fdde5e4b014efe0d86b69",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/higher-one-repay-millions_us_56802738e4b06fa688805b43",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iran-prefers-bernie-sande_b_8881650.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/iran-prefers-bernie-sande_b_8881650.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/obama-says-6-us-troops-killed-in-afghanistan-were-outstanding_us_567e09dde4b014efe0d8480a",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/palestinian-knife-attack_us_567ea795e4b06fa688803545",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/migrant-children-explain-why-they-traveled-to-the-us-alone_us_567ea785e4b014efe0d84d02",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/myanmar-landslide-jade-mine_us_567e9d0ae4b014efe0d84be4"
+  },
+  "headline":{
+    "0":"Severe Weather Death Toll Reaches 25 As New Tornadoes Hit Texas",
+    "1":"U.S. Hits ISIS Targets With 17 Airstrikes On Christmas Day",
+    "2":"Higher One Must Repay Millions To Students Over 'Deceptive' Financial Aid Practices",
+    "3":"Iran Prefers Bernie Sanders for President in 2016",
+    "4":"Iran Prefers Bernie Sanders for President in 2016",
+    "5":"Obama Says 6 U.S. Troops Killed In Afghanistan Were 'Outstanding'",
+    "6":"Israeli Forces Shoot Dead 2 Palestinians Accused Of Attempted Attacks",
+    "7":"Migrant Children Explain Why They Traveled To The U.S. Alone",
+    "8":"Dozens Feared Dead In Second Landslide In Myanmar's Jade Mining Region"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS",
+    "2":"COLLEGE",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"THE WORLDPOST",
+    "7":"LATINO VOICES",
+    "8":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Seven people were killed in the greater Dallas area after a storm system brought tornadoes and flooding.",
+    "1":"WASHINGTON (AP) \u2014 The Pentagon says the United States hit Islamic State group targets in Iraq and Syria with 17 airstrikes",
+    "2":"Regulators say the campus debit card giant failed to tell students how to avoid fees related to their financial aid.",
+    "3":"Tehran would rather see a Democrat than a Republican as the next U.S. president. At one time there were minimal differences between the parties' views on Iran, but in the last few years the gap has widened.",
+    "4":"Tehran would rather see a Democrat than a Republican as the next U.S. president. At one time there were minimal differences between the parties' views on Iran, but in the last few years the gap has widened.",
+    "5":"KANOEHE BAY, HAWAII, Dec 25 (Reuters) - President Barack Obama called the six U.S. troops killed in Afghanistan on Monday",
+    "6":"At least 126 Palestinians and 20 Israelis have been killed in the past 12 weeks.",
+    "7":"A total of 10,588 unaccompanied children crossed the U.S.-Mexico border in October and November, federal statistics show.",
+    "8":"Myanmar's multi-billion dollar jade industry is controlled by its powerful military."
+  },
+  "authors":{
+    "0":"Lisa Maria Garza, Reuters",
+    "1":"",
+    "2":"JASON LANGE & SARAH N. LYNCH, Reuters",
+    "3":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "4":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "5":"",
+    "6":"",
+    "7":"Seth Robbins, AP",
+    "8":""
+  },
+  "date":{
+    "0":"2015-12-27 00:00:00",
+    "1":"2015-12-27 00:00:00",
+    "2":"2015-12-27 00:00:00",
+    "3":"2015-12-27 00:00:00",
+    "4":"2015-12-27 00:00:00",
+    "5":"2015-12-26 00:00:00",
+    "6":"2015-12-26 00:00:00",
+    "7":"2015-12-26 00:00:00",
+    "8":"2015-12-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usamil",
+    "2":"---gov",
+    "3":"irn",
+    "4":"irn",
+    "5":"usagov",
+    "6":"isr",
+    "7":"---cvl",
+    "8":"---mil"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"---edu",
+    "3":"---gov",
+    "4":"usagov",
+    "5":"usa",
+    "6":"pse",
+    "7":"usa",
+    "8":"mmrbus"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"112",
+    "2":"010",
+    "3":"051",
+    "4":"010",
+    "5":"010",
+    "6":"190",
+    "7":"040",
+    "8":"060"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":3.4,
+    "4":0.0,
+    "5":0.0,
+    "6":-10.0,
+    "7":1.0,
+    "8":6.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "syria",
+      "irq",
+      "syr",
+      "iraq",
+      "syria"
+    ],
+    "2":[
+      "regulators",
+      "~gov",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "iran",
+      "irn",
+      "iran",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "tehran",
+      "irn",
+      "iran",
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "5":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "israeli",
+      "isr",
+      "israel",
+      "palestinians",
+      "pse",
+      "palestine"
+    ],
+    "7":[
+      "migrant",
+      "children",
+      "~cvl",
+      "~",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "8":[
+      "myanmar",
+      "industry",
+      "mmrbus",
+      "myanmar",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dallas",
+      "people"
+    ],
+    "1":[
+      "pentagon",
+      "the ... united states"
+    ],
+    "2":[
+      "regulators",
+      "students"
+    ],
+    "3":[
+      "iran",
+      "president"
+    ],
+    "4":[
+      "tehran",
+      "u.s. president"
+    ],
+    "5":[
+      "obama",
+      "<u.s.>"
+    ],
+    "6":[
+      "israeli",
+      "palestinians"
+    ],
+    "7":[
+      "migrant children",
+      "u.s."
+    ],
+    "8":[
+      "military",
+      "myanmar ... industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states military",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "iran",
+      "---"
+    ],
+    "4":[
+      "iran",
+      "united states of america"
+    ],
+    "5":[
+      "barack obama",
+      "united states of america"
+    ],
+    "6":[
+      "israel",
+      "palestine"
+    ],
+    "7":[
+      "---",
+      "united states of america"
+    ],
+    "8":[
+      "---",
+      "myanmar"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... killed in <usa>"
+    ],
+    "1":[
+      "says ... hit"
+    ],
+    "2":[
+      "say ... failed ... tell"
+    ],
+    "3":[
+      "prefers"
+    ],
+    "4":[
+      "would ... see"
+    ],
+    "5":[
+      "says"
+    ],
+    "6":[
+      "shoot"
+    ],
+    "7":[
+      "explain ... traveled"
+    ],
+    "8":[
+      "<mmrbus> ... controlled by <~mil>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ],
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "usamil",
+      "usa",
+      "112",
+      "usamil",
+      "usa",
+      "112"
+    ],
+    "2":[
+      "---gov",
+      "---edu",
+      "010"
+    ],
+    "3":[
+      "irn",
+      "---gov",
+      "051"
+    ],
+    "4":[
+      "irn",
+      "usagov",
+      "010"
+    ],
+    "5":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "6":[
+      "isr",
+      "pse",
+      "190"
+    ],
+    "7":[
+      "---cvl",
+      "usa",
+      "040"
+    ],
+    "8":[
+      "---mil",
+      "mmrbus",
+      "060"
+    ]
+  }
+}

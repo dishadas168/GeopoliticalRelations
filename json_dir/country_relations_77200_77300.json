@@ -1,0 +1,236 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/puerto-rico-police-killings_us_56816308e4b0b958f659e9c3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jennifer-lawrence-quietly-visits-childrens-hospital-for-the-holidays_us_5681553ee4b0b958f659dd06",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.seattletimes.com\/seattle-news\/times-watchdog\/minorities-exploited-by-warren-buffetts-mobile-home-empire-clayton-homes\/",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mosquito-virus-may-have-caused-brain-damage-in-thousands-of-babies_us_56815e5ae4b0b958f659e589",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.washingtonpost.com\/sf\/investigative\/2015\/12\/26\/a-year-of-reckoning-police-fatally-shoot-nearly-1000\/"
+  },
+  "headline":{
+    "0":"Puerto Rico Policeman Kills Three Fellow Officers",
+    "1":"Jennifer Lawrence Quietly Visits Children's Hospital For The Holidays",
+    "2":"Minorities Exploited By Warren Buffett\u2019s Mobile-Home Empire",
+    "3":"Mosquito Virus May Have Caused Brain Damage In Thousands Of Babies",
+    "4":"Police Fatally Shoot Nearly 1,000 Civilians In 2015"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"GOOD NEWS",
+    "2":"BUSINESS",
+    "3":"HEALTHY LIVING",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"SAN JUAN, Puerto Rico (AP) \u2014 A Puerto Rico policeman fatally shot two high-ranking officers and a policewoman on Monday following",
+    "1":"It's the third year the star has visited the hospital.",
+    "2":"The company is controlled by Warren Buffett, one of the world\u2019s richest men, but its methods hardly match Buffett\u2019s honest",
+    "3":"Some doctors are advising Brazilian women to delay pregnancy until mosquito season ends.",
+    "4":"Nearly a thousand times this year, an American police officer has shot and killed a civilian."
+  },
+  "authors":{
+    "0":"Danica Coto, AP",
+    "1":"Kimberly Yam",
+    "2":"",
+    "3":"ADRIANA GOMEZ LICON, AP",
+    "4":""
+  },
+  "date":{
+    "0":"2015-12-28 00:00:00",
+    "1":"2015-12-28 00:00:00",
+    "2":"2015-12-28 00:00:00",
+    "3":"2015-12-28 00:00:00",
+    "4":"2015-12-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usapricop",
+    "1":"---cvlhlh",
+    "2":"---ppl",
+    "3":"---hlh",
+    "4":"---cop"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usa",
+    "2":"---bus",
+    "3":"bracvl",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"043",
+    "2":"060",
+    "3":"020",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":2.8,
+    "2":6.0,
+    "3":3.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "puerto rico",
+      "policeman",
+      "usapricop",
+      "puerto",
+      "rico",
+      "~",
+      "policewoman",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "lawrence",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "hospital",
+      "~cvlhlh",
+      "~",
+      "~"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "doctors",
+      "~hlh",
+      "~",
+      "brazilian",
+      "women",
+      "bracvl",
+      "brazil",
+      "~"
+    ],
+    "4":[
+      "police",
+      "~cop",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "puerto rico ... policeman",
+      "policewoman"
+    ],
+    "1":[
+      "children ... hospital",
+      "lawrence",
+      "lawrence",
+      "children ... hospital"
+    ],
+    "2":[
+      "men",
+      "company"
+    ],
+    "3":[
+      "doctors",
+      "brazilian women"
+    ],
+    "4":[
+      "police",
+      "civilians"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "puerto rico",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "brazil"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "shot"
+    ],
+    "1":[
+      "visits",
+      "visits"
+    ],
+    "2":[
+      "<~bus> ... controlled by <~ppl>"
+    ],
+    "3":[
+      "are advising"
+    ],
+    "4":[
+      "shoot"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "2"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usapricop",
+      "---cop",
+      "190"
+    ],
+    "1":[
+      "---cvlhlh",
+      "usa",
+      "043",
+      "usa",
+      "---cvlhlh",
+      "042"
+    ],
+    "2":[
+      "---ppl",
+      "---bus",
+      "060"
+    ],
+    "3":[
+      "---hlh",
+      "bracvl",
+      "020"
+    ],
+    "4":[
+      "---cop",
+      "---cvl",
+      "190"
+    ]
+  }
+}

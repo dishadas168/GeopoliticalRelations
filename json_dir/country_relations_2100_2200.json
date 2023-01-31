@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/dan-gelber-miami-beach-florida-desantis-covid-pied-piper_n_610733c9e4b0fd216c26e6f3",
+    "1":"https:\/\/www.huffpost.com\/entry\/crew-merrick-garland-investigation-trump-weaponize-justice-department_n_610603bde4b0048f361e0715",
+    "2":"https:\/\/www.huffpost.com\/entry\/eviction-moratorium-congress-struggle-exten_n_61041aebe4b00fa7af825f8a",
+    "3":"https:\/\/www.huffpost.com\/entry\/jim-jordan-jan-6-reporter_n_6101f317e4b0fd216c21ca7c"
+  },
+  "headline":{
+    "0":"Miami Beach Mayor Rips Ron DeSantis As 'Pied Piper' Of COVID-19, Leading State 'Off A Cliff'",
+    "1":"Watchdog Group Calls For Probe Of Trump's 'Weaponization' Of Justice Department",
+    "2":"Pelosi Says Biden Administration Should Extend Eviction Moratorium",
+    "3":"'I Think After?' Reporter Grills Jim Jordan On When He Spoke To Trump On Jan. 6"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Mayor Dan Gelber went after the GOP governor as his state tallies the highest daily number of cases of the entire pandemic.",
+    "1":"Citizens for Responsibility and Ethics in Washington responds to revelations that Trump ordered the DOJ to call election results fraudulent.",
+    "2":"Only three days before its expiration, the White House had said it would not extend the moratorium and that Congress should do it.",
+    "3":"The Ohio Republican said he wasn't sure if he'd spoken to Trump before, during or after the insurrection at the U.S. Capitol."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Mary Papenfuss",
+    "2":"Tara Golshan and Arthur Delaney",
+    "3":"Josephine Harvey"
+  },
+  "date":{
+    "0":"2021-08-02 00:00:00",
+    "1":"2021-08-01 00:00:00",
+    "2":"2021-07-30 00:00:00",
+    "3":"2021-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usacvl",
+    "2":"usagov",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"---leg",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"100",
+    "2":"010",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "~gov",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "citizens",
+      "usacvl",
+      "~",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ],
+    "2":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor",
+      "mayor"
+    ],
+    "1":[
+      "citizens",
+      "doj"
+    ],
+    "2":[
+      "the white house",
+      "congress"
+    ],
+    "3":[
+      "ohio",
+      "ohio"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "",
+      "united states department of justice"
+    ],
+    "2":[
+      "white house",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ],
+    "1":[
+      "responds ... ordered"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_pandemic",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "040"
+    ],
+    "1":[
+      "usacvl",
+      "usagov",
+      "100"
+    ],
+    "2":[
+      "usagov",
+      "---leg",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "usa",
+      "010"
+    ]
+  }
+}

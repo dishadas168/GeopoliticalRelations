@@ -1,0 +1,261 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-lies-isis-bashar-assad_us_5977a0a2e4b0a8a40e833afa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/protesters-obamacare-repeal-senate_us_5977b667e4b0c95f375fa645",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jared-kushner-russian-flag_us_597638dbe4b0e201d576f5b5",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-republicans-protect-president_us_597547efe4b09e5f6cd03ff4",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/a-mothers-plea-to-congress-dont-fail-our-children_us_59762c54e4b0c6616f7ce3fa",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/improve-relations-with-russia-it-poses-little-military_us_59765ed4e4b01cf1c4bb72ab"
+  },
+  "headline":{
+    "0":"Trump Tells 2 Blatant Lies About ISIS And Bashar Assad As Lebanese Leader Listens",
+    "1":"As Senate Advances On Obamacare Repeal, Protesters Fight For Medicaid",
+    "2":"Protester Trolls Jared Kushner, Asks Him To Sign Russian Flag",
+    "3":"Donald Trump Is Super Sad That Republicans Won't 'Protect Their President'",
+    "4":"A Mother\u2019s Plea to Congress: Don\u2019t Fail Our Children",
+    "5":"Improve Relations With Russia -- It Poses Little Military Threat To The US And Europe, Despite Election Meddling"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"PARENTS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president even disparaged the efforts of the U.S. military.",
+    "1":"Many health care advocates were arrested at a Senate building, including several disabled activists.",
+    "2":"Congressional committees are questioning the president's son-in-law this week about his meetings with Russians.",
+    "3":"The president also claims he carried GOP lawmakers \"over the line on my back.\"",
+    "4":"As a mother of a child with a severe heart condition, I feel it's important to say that this push to rid the country of the ACA, no matter what, misses the point.",
+    "5":"Washington must deal with Russia despite the latter\u2019s misbehavior."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"Kaeli Subberwal",
+    "2":"Hayley Miller",
+    "3":"Ed Mazza",
+    "4":"Jennifer Page, ContributorChildren's Hospital Los Angeles Trustee",
+    "5":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills"
+  },
+  "date":{
+    "0":"2017-07-25 00:00:00",
+    "1":"2017-07-25 00:00:00",
+    "2":"2017-07-24 00:00:00",
+    "3":"2017-07-24 00:00:00",
+    "4":"2017-07-24 00:00:00",
+    "5":"2017-07-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---jud",
+    "2":"---opp",
+    "3":"---gov",
+    "4":"---cvlleg",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"usamil",
+    "1":"usagovleg",
+    "2":"---opp",
+    "3":"---gov",
+    "4":"---cvl",
+    "5":"rus"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"173",
+    "2":"020",
+    "3":"110",
+    "4":"120",
+    "5":"050"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0,
+    "2":3.0,
+    "3":-2.0,
+    "4":-4.0,
+    "5":3.5
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ],
+    "1":[
+      "advocates",
+      "~jud",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "2":[
+      "protester",
+      "~opp",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "congress",
+      "~leg",
+      "~",
+      "mother",
+      "congress",
+      "~cvlleg",
+      "~",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "u.s. military"
+    ],
+    "1":[
+      "advocates",
+      "senate"
+    ],
+    "2":[
+      "protester",
+      "protester"
+    ],
+    "3":[
+      "president",
+      "president"
+    ],
+    "4":[
+      "mother ... congress",
+      "children"
+    ],
+    "5":[
+      "washington",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states military"
+    ],
+    "1":[
+      "---",
+      "united states congress"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "disparaged"
+    ],
+    "1":[
+      "were arrested at <usagovleg>"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "do ... fail"
+    ],
+    "5":[
+      "must deal"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usamil",
+      "111"
+    ],
+    "1":[
+      "---jud",
+      "usagovleg",
+      "173"
+    ],
+    "2":[
+      "---opp",
+      "---opp",
+      "020"
+    ],
+    "3":[
+      "---gov",
+      "---gov",
+      "110"
+    ],
+    "4":[
+      "---cvlleg",
+      "---cvl",
+      "120"
+    ],
+    "5":[
+      "usa",
+      "rus",
+      "050"
+    ]
+  }
+}

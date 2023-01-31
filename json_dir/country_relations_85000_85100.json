@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mo-rocca-francis-mass_us_5606d8eee4b0768126fdc46a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/taxes-roads-and-bridges_b_8201624.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mark-kirk-chicago-tribune_us_560578cde4b0768126fd43e0"
+  },
+  "headline":{
+    "0":"Mo Rocca's Starring Role In Pope's Mass Thrills LGBT Advocates",
+    "1":"Taxes, Roads and Bridges",
+    "2":"Senator Mark Kirk's Campaign Pre-Emptively Bashes Chicago Tribune Ahead Of Negative Story"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"POLITICS",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"Activists hailed the symbolism of the openly gay reporter's participation while calling for more systemic change in the church.",
+    "1":"The Highway Trust Fund Bill being considered in Congress has given Senator Grassley an opportunity to let everyone see how tenacious he can be.  Surprisingly, his persistence has nothing to do with highways or bridges, although the uninformed might think that was what a bill with such a name was concerned.",
+    "2":"Newspaper stands by reporter the campaign calls \"biased.\""
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Christopher Brauchli, ContributorLawyer",
+    "2":"Michael Calderone"
+  },
+  "date":{
+    "0":"2015-09-26 00:00:00",
+    "1":"2015-09-26 00:00:00",
+    "2":"2015-09-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---leg",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---leg",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"060",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":6.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "reporter",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "newspaper",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "reporter"
+    ],
+    "1":[
+      "congress",
+      "congress"
+    ],
+    "2":[
+      "newspaper",
+      "newspaper"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hailed"
+    ],
+    "1":[
+      "has given"
+    ],
+    "2":[
+      "stands by"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---med",
+      "051"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "---med",
+      "051"
+    ]
+  }
+}

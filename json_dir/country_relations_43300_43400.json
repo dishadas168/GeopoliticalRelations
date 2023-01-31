@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israeli-settlers-illegal-outpost_us_5891eb86e4b0522c7d3e209e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/democrats-gorsuch-vote-tally_us_58913a4be4b0c90eff0101b9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/stream-protection-rule-coal_us_5891385fe4b02772c4ea2a31"
+  },
+  "headline":{
+    "0":"Violence Erupts As Israeli Police Evict Settlers From Illegal West Bank Outpost",
+    "1":"Here's How Senate Democrats Plan To Vote On Trump Supreme Court Nominee Neil Gorsuch",
+    "2":"House Republicans Vote To Overturn Rule Protecting Waterways From Mining"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cA Jew doesn\u2019t evict a Jew!\u201d",
+    "1":"It will take 60 votes in the Senate to confirm him.",
+    "2":"President Trump has promised to revive the coal industry, but it may not be so simple."
+  },
+  "authors":{
+    "0":"",
+    "1":"Igor Bobic",
+    "2":"Nick Visser"
+  },
+  "date":{
+    "0":"2017-02-01 00:00:00",
+    "1":"2017-02-01 00:00:00",
+    "2":"2017-02-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---jew",
+    "1":"usagovleg",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---jew",
+    "1":"---jud",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"030",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":4.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "jew",
+      "~jew",
+      "~",
+      "jew",
+      "~jew",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jew",
+      "jew"
+    ],
+    "1":[
+      "senate",
+      "supreme court"
+    ],
+    "2":[
+      "president",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states congress",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "does ... evict"
+    ],
+    "1":[
+      "to vote"
+    ],
+    "2":[
+      "has promised ... revive"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "coal",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jew",
+      "---jew",
+      "174"
+    ],
+    "1":[
+      "usagovleg",
+      "---jud",
+      "030"
+    ],
+    "2":[
+      "---gov",
+      "---bus",
+      "030"
+    ]
+  }
+}

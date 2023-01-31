@@ -1,0 +1,308 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/angelina-jolie-africa-summit_n_7585514.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nicaragua-campesinos-protest-china-canal_n_7582414.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/iran-welcomes-shell-bp-to_b_7582000.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iran-welcomes-shell-bp-to_b_7582000.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/publish-women-year_n_7585028.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/elections-herald-an-incre_b_7585422.html",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/be-a-part-of-the-festival_b_7586282.html"
+  },
+  "headline":{
+    "0":"Angelina Jolie's Powerful Speech On What Women Really Need From Men",
+    "1":"Nicaraguan Campesinos Tell Ortega To Take His Canal And Shove It",
+    "2":"Iran Welcomes Shell, BP, Total and American Oil Companies",
+    "3":"Iran Welcomes Shell, BP, Total and American Oil Companies",
+    "4":"For One Year, This Publisher Will Only Release Books By Women",
+    "5":"Elections Herald an Increase in Women MPs in Turkey, But More Progress Is Needed",
+    "6":"Be a Part of the Festival Revelry in Bhutan"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"WORLDPOST",
+    "4":"ARTS",
+    "5":"IMPACT",
+    "6":"TRAVEL"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"In an unprecedented move, Iranian leaders have welcomed American oil companies to enter Iran, upon the condition that sanctions are lifted. This move suggests that the Islamic Republic is putting its economic interests ahead of its revolutionary ideological interests.",
+    "3":"In an unprecedented move, Iranian leaders have welcomed American oil companies to enter Iran, upon the condition that sanctions are lifted. This move suggests that the Islamic Republic is putting its economic interests ahead of its revolutionary ideological interests.",
+    "4":"",
+    "5":"The Turkish Parliament will soon welcome the highest number of women Members of Parliament (MPs) in its history after parliamentary elections held on 7 June 2015. According to initial estimates, the number of women MPs elected to the Turkish Parliament increased from 79 to 98.",
+    "6":"Alluringly known as the land of the thunder dragon, Bhutan has been capturing the imagination of adventurous travellers since opening its gates to visitors in the '70s with the promise of Himalayan mountains blanketed in pristine forest."
+  },
+  "authors":{
+    "0":"Zeba Blay",
+    "1":"",
+    "2":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "3":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "4":"Maddie Crum",
+    "5":"UN Women, ContributorUN Women is the UN organization dedicated to gender equality a...",
+    "6":"Jacada Travel, ContributorThe Experts in Inspired, Luxury Travel to Latin America, Afric..."
+  },
+  "date":{
+    "0":"2015-06-15 00:00:00",
+    "1":"2015-06-15 00:00:00",
+    "2":"2015-06-15 00:00:00",
+    "3":"2015-06-15 00:00:00",
+    "4":"2015-06-15 00:00:00",
+    "5":"2015-06-15 00:00:00",
+    "6":"2015-06-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"nic",
+    "2":"irn",
+    "3":"irn",
+    "4":"---med",
+    "5":"turleg",
+    "6":"btn"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"nic",
+    "2":"---bus",
+    "3":"usabus",
+    "4":"---cvl",
+    "5":"---cvlleg",
+    "6":"---cvl"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"171",
+    "2":"051",
+    "3":"051",
+    "4":"084",
+    "5":"051",
+    "6":"171"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-9.2,
+    "2":3.4,
+    "3":3.4,
+    "4":7.0,
+    "5":3.4,
+    "6":-9.2
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "nicaraguan",
+      "nic",
+      "nicaragua"
+    ],
+    "2":[
+      "iran",
+      "irn",
+      "iran",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "iranian",
+      "irn",
+      "iran",
+      "american",
+      "companies",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "4":[
+      "publisher",
+      "~med",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "turkish",
+      "parliament",
+      "turleg",
+      "turkey",
+      "~",
+      "parliament",
+      "mps",
+      "~leg",
+      "~",
+      "~",
+      "women",
+      "members of parliament",
+      "mps",
+      "~cvlleg",
+      "~",
+      "~",
+      "~",
+      "women",
+      "members of parliament",
+      "mps",
+      "~cvlleg",
+      "~",
+      "~",
+      "~"
+    ],
+    "6":[
+      "bhutan",
+      "btn",
+      "bhutan",
+      "travellers",
+      "~cvl",
+      "~",
+      "travellers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "men"
+    ],
+    "1":[
+      "nicaraguan",
+      "nicaraguan"
+    ],
+    "2":[
+      "iran",
+      "companies"
+    ],
+    "3":[
+      "iranian",
+      "american ... companies"
+    ],
+    "4":[
+      "publisher",
+      "women"
+    ],
+    "5":[
+      "turkish parliament",
+      "women members of parliament ... mps"
+    ],
+    "6":[
+      "bhutan",
+      "travellers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "nicaragua",
+      "nicaragua"
+    ],
+    "2":[
+      "iran",
+      "---"
+    ],
+    "3":[
+      "iran",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "turkey",
+      "---"
+    ],
+    "6":[
+      "bhutan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "tell ... take"
+    ],
+    "2":[
+      "welcomes"
+    ],
+    "3":[
+      "have welcomed"
+    ],
+    "4":[
+      "will ... release"
+    ],
+    "5":[
+      "will ... welcome"
+    ],
+    "6":[
+      "has ... capturing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "election",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---ppl",
+      "100"
+    ],
+    "1":[
+      "nic",
+      "nic",
+      "171"
+    ],
+    "2":[
+      "irn",
+      "---bus",
+      "051"
+    ],
+    "3":[
+      "irn",
+      "usabus",
+      "051"
+    ],
+    "4":[
+      "---med",
+      "---cvl",
+      "084"
+    ],
+    "5":[
+      "turleg",
+      "---cvlleg",
+      "051"
+    ],
+    "6":[
+      "btn",
+      "---cvl",
+      "171"
+    ]
+  }
+}

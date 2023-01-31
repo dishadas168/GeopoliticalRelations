@@ -1,0 +1,190 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/white-house-budget-epa_us_58ca746be4b0be71dcf1ad3d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/danny-glover-protest-in-the-age-of-trump_us_58cac574e4b00705db4d150a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ricardo-medina-jr-guilty-manslaughter_us_58caf10ae4b0be71dcf2dd4e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/gay-refugee-lawyer-muslim-ban_us_58c81df1e4b0598c669a1292"
+  },
+  "headline":{
+    "0":"White House Budget Proposes Sweeping Cuts To EPA, Environmental Programs",
+    "1":"Danny Glover: There's 'Great Opportunity' To Take Progressive Action To A New Level",
+    "2":"Former 'Power Rangers' Star Ricardo Medina Jr. Pleads Guilty To Manslaughter",
+    "3":"The Gay Refugee Lawyer Who Helped Fight The Muslim Ban"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cWe\u2019re not spending money on that anymore. We consider that to be a waste of your money,\" Trump's budget director said.",
+    "1":"The legendary actor recently joined Bernie Sanders for a pro-union protest in Mississippi.",
+    "2":"The actor faces up to six years in state prison.",
+    "3":"Luis Mancheno says America saved his life. Now he wants to make sure it saves other people too."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Brennan Williams",
+    "2":"Julia Brucculieri",
+    "3":"Christopher Mathias and Omar Kasrawi"
+  },
+  "date":{
+    "0":"2017-03-16 00:00:00",
+    "1":"2017-03-16 00:00:00",
+    "2":"2017-03-16 00:00:00",
+    "3":"2017-03-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---eli",
+    "2":"---eli",
+    "3":"---refjud"
+  },
+  "actor2":{
+    "0":"usagovenv",
+    "1":"usa",
+    "2":"---cop",
+    "3":"---mus"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"040",
+    "2":"040",
+    "3":"110"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":1.0,
+    "2":1.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "mississippi",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~",
+      "state prison",
+      "~cop",
+      "~",
+      "state prison",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "refugee",
+      "lawyer",
+      "~refjud",
+      "~",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "white house",
+      "epa"
+    ],
+    "1":[
+      "actor",
+      "mississippi"
+    ],
+    "2":[
+      "actor",
+      "state prison"
+    ],
+    "3":[
+      "refugee lawyer",
+      "muslim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "environmental protection agency"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "proposes"
+    ],
+    "1":[
+      "joined"
+    ],
+    "2":[
+      "faces"
+    ],
+    "3":[
+      "fight ... ban"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "lgbt",
+      "1",
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagovenv",
+      "020"
+    ],
+    "1":[
+      "---eli",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---eli",
+      "---cop",
+      "040"
+    ],
+    "3":[
+      "---refjud",
+      "---mus",
+      "110"
+    ]
+  }
+}

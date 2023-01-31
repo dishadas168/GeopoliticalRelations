@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-times-fires-columnist-after-anti-semitic-sexist-rant_us_597e98b2e4b02a8434b73cdd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-maduro-sanctions_us_597f836ae4b00bb8ff389fb7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-election-clashes_us_597ec10ce4b02a8434b760a8"
+  },
+  "headline":{
+    "0":"Sunday Times Fires Columnist Over Anti-Semitic, Sexist Story",
+    "1":"Venezuela's President Maduro Mocks Trump After U.S. Sanctions",
+    "2":"Deadly Clashes Erupt As Venezuela Holds Widely Boycotted Election"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Writer Kevin Myers derided two female BBC presenters who earn less than their male counterparts.",
+    "1":"The move follows Sunday\u2019s election of a legislative superbody that Washington denounced as a \u201csham\u201d vote.",
+    "2":"Authorities said 10 people were killed in the confrontations, which made Sunday one of the deadliest days since massive protests started in early April."
+  },
+  "authors":{
+    "0":"Rebecca Shapiro",
+    "1":"",
+    "2":"By Alexandra Ulmer and Anggy Polanco, Reuters"
+  },
+  "date":{
+    "0":"2017-07-31 00:00:00",
+    "1":"2017-07-31 00:00:00",
+    "2":"2017-07-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"ven",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"111",
+    "2":"015"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "writer",
+      "~med",
+      "~",
+      "bbc",
+      "med",
+      "bbc"
+    ],
+    "1":[
+      "venezuela",
+      "president maduro",
+      "ven",
+      "vengov",
+      "venezuela",
+      "nicolas",
+      "maduro",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "writer",
+      "bbc"
+    ],
+    "1":[
+      "venezuela",
+      "u.s.",
+      "president maduro",
+      "u.s."
+    ],
+    "2":[
+      "authorities",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "bbc"
+    ],
+    "1":[
+      "venezuela",
+      "united states of america",
+      "nicolas maduro",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "derided"
+    ],
+    "1":[
+      "mocks",
+      "mocks"
+    ],
+    "2":[
+      "said <~ppl> ... killed in <--->"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "sanctions",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "med",
+      "111"
+    ],
+    "1":[
+      "ven",
+      "usa",
+      "111",
+      "vengov",
+      "usa",
+      "111"
+    ],
+    "2":[
+      "---gov",
+      "---ppl",
+      "015"
+    ]
+  }
+}

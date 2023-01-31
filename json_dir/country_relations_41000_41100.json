@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-white-helmets-oscars_us_589b960fe4b0c1284f2a7b69",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/zootopia-oscar-best-animated-feature_us_58a5e6c1e4b037d17d25c528",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/muslim-activists-promise-to-help-rebuild-second-vandalized-jewish-cemetery_us_58b45abfe4b0780bac2be211",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-state-of-the-union-lunch_us_58b48257e4b0a8a9b78527be"
+  },
+  "headline":{
+    "0":"A Moving Doc About Syrian Heroes Just Won Netflix Its First Oscar",
+    "1":"The Anti-Discrimination 'Zootopia' Just Won Best Animated Feature At The Oscars",
+    "2":"Muslim Activists Promise To Help Rebuild Second Vandalized Jewish Cemetery",
+    "3":"Trump Will Lunch With The 'Enemy' Ahead Of His Congressional Address"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS",
+    "3":"MEDIA"
+  },
+  "short_description":{
+    "0":"A Syrian cinematographer who worked on the film was not allowed into the U.S. for the award show at the last minute.",
+    "1":"The Disney film offered children a relevant lesson in the dangers of stereotyping.",
+    "2":"\u201cWe must stand together against these acts of racism, anti-Semitism, and Islamophobia,\u201d activist said.",
+    "3":"The president is also inviting some media guests who may be friendlier."
+  },
+  "authors":{
+    "0":"Maxwell Strachan",
+    "1":"Maxwell Strachan",
+    "2":"Carol Kuruvilla",
+    "3":"Michael Calderone"
+  },
+  "date":{
+    "0":"2017-02-27 00:00:00",
+    "1":"2017-02-27 00:00:00",
+    "2":"2017-02-27 00:00:00",
+    "3":"2017-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"syr",
+    "1":"mncusa",
+    "2":"---musopp",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---jew",
+    "3":"---med"
+  },
+  "event_code":{
+    "0":"124",
+    "1":"030",
+    "2":"033",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":4.0,
+    "2":5.2,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "syrian",
+      "syr",
+      "syria",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "disney",
+      "mncusa",
+      "disney",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "muslim",
+      "activists",
+      "~musopp",
+      "~",
+      "~",
+      "jewish",
+      "~jew",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syrian",
+      "u.s."
+    ],
+    "1":[
+      "disney",
+      "children"
+    ],
+    "2":[
+      "muslim activists",
+      "jewish"
+    ],
+    "3":[
+      "president",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "united states of america"
+    ],
+    "1":[
+      "disney",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was"
+    ],
+    "1":[
+      "offered"
+    ],
+    "2":[
+      "promise ... help"
+    ],
+    "3":[
+      "is ... inviting"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "usa",
+      "124"
+    ],
+    "1":[
+      "mncusa",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "---musopp",
+      "---jew",
+      "033"
+    ],
+    "3":[
+      "---gov",
+      "---med",
+      "040"
+    ]
+  }
+}

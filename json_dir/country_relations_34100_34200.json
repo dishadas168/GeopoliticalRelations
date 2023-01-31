@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/attackers-sentenced-to-3-years-in-prison-for-hate-crime-against-sikh-man_us_591f3527e4b034684b0c2fc6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-supreme-court-sanctions_us_591e1f48e4b034684b0aee89",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/www.dnainfo.com\/chicago\/20170518\/little-italy\/st-ignatius-teacher-fired-gay-religion-okcupid-profile"
+  },
+  "headline":{
+    "0":"Attackers Sentenced To 3 Years In Prison For Hate Crime Against Sikh Man",
+    "1":"U.S. Slaps Sanctions On Venezuela's Supreme Court Judges",
+    "2":"Catholic School Teacher Says He Was Fired After Students Outed Him As Gay"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"\u201cI hope that you will learn about me and my community and one day consider me you brother too,\u201d the victim told his assailants in court.",
+    "1":"WASHINGTON (Reuters) - The Trump administration imposed sanctions on the chief judge and seven other members of Venezuela\u2019s",
+    "2":"CHICAGO\u00a0\u2014 A religion teacher at one of the city\u2019s most prestigious private high schools said he was harassed and threatened"
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2017-05-19 00:00:00",
+    "1":"2017-05-18 00:00:00",
+    "2":"2017-05-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"venjud",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"163",
+    "2":"015"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-6.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "victim",
+      "~cvl",
+      "~",
+      "assailants",
+      "~uaf",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "venezuela",
+      "ven",
+      "venezuela",
+      "judge",
+      "venjud",
+      "~"
+    ],
+    "2":[
+      "teacher",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "assailants"
+    ],
+    "1":[
+      "administration",
+      "judge"
+    ],
+    "2":[
+      "teacher",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "imposed sanctions"
+    ],
+    "2":[
+      "says <~edu> ... fired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "sanctions",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1",
+      "teachers",
+      "1",
+      "students",
+      "1",
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---uaf",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "venjud",
+      "163"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "015"
+    ]
+  }
+}

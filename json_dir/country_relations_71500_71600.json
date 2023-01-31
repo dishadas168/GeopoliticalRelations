@@ -1,0 +1,232 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/police-seek-cute-handsome-suspect_us_56daa73fe4b0ffe6f8e99adb",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/world\/2016\/mar\/05\/islamic-state-trains-purer-child-killers-in-doctrine-of-hate",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-zaman-protests-tear-gas_us_56daf8a5e4b0ffe6f8e99e7e",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.vocativ.com\/news\/292870\/gay-refugees-face-death-threats-abuse-in-netherlands\/",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.vocativ.com\/news\/292870\/gay-refugees-face-death-threats-abuse-in-netherlands\/"
+  },
+  "headline":{
+    "0":"Police Seek 'Cute,' 'Handsome' And 'Well Dressed' Con Man",
+    "1":"How Islamic State is training child killers in doctrine of hate",
+    "2":"Turkish Police Fire Tear Gas At Newspaper As EU Officials Lament Press Record",
+    "3":"The Horrible Things Gay Refugees Face In The Netherlands",
+    "4":"The Horrible Things Gay Refugees Face In The Netherlands"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"QUEER VOICES",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"He allegedly made several high dollar purchases using cloned credit cards.",
+    "1":"A new generation of Isis recruits is being developed in the Islamic State\u2019s \u201ccaliphate\u201d, indoctrinated with religious concepts",
+    "2":"Protests began after authorities seized control of the country's biggest newspaper.",
+    "3":"The Dutch parliament is calling on the country\u2019s government to offer emergency housing for gay refugees, who for months have",
+    "4":"The Dutch parliament is calling on the country\u2019s government to offer emergency housing for gay refugees, who for months have"
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"",
+    "2":"Ayla Jean Yackley, Reuters",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2016-03-05 00:00:00",
+    "1":"2016-03-05 00:00:00",
+    "2":"2016-03-05 00:00:00",
+    "3":"2016-03-05 00:00:00",
+    "4":"2016-03-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---mus",
+    "2":"---gov",
+    "3":"---ref",
+    "4":"nldleg"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvlcrm",
+    "2":"---med",
+    "3":"nld",
+    "4":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030",
+    "2":"192",
+    "3":"040",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0,
+    "2":-9.5,
+    "3":1.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "islamic",
+      "~mus",
+      "~",
+      "child",
+      "killers",
+      "~cvlcrm",
+      "~",
+      "~"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "newspaper",
+      "~med",
+      "~",
+      "newspaper",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "refugees",
+      "~ref",
+      "~",
+      "netherlands",
+      "nld",
+      "netherlands"
+    ],
+    "4":[
+      "dutch",
+      "parliament",
+      "nldleg",
+      "netherlands",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man"
+    ],
+    "1":[
+      "islamic",
+      "child killers"
+    ],
+    "2":[
+      "authorities",
+      "newspaper"
+    ],
+    "3":[
+      "refugees",
+      "netherlands"
+    ],
+    "4":[
+      "dutch parliament",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "netherlands"
+    ],
+    "4":[
+      "netherlands",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seek"
+    ],
+    "1":[
+      "is ... training"
+    ],
+    "2":[
+      "seized control"
+    ],
+    "3":[
+      "face"
+    ],
+    "4":[
+      "is calling on"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "lgbt",
+      "1",
+      "refugees",
+      "1"
+    ],
+    "4":[
+      "lgbt",
+      "1",
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "030"
+    ],
+    "1":[
+      "---mus",
+      "---cvlcrm",
+      "030"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "192"
+    ],
+    "3":[
+      "---ref",
+      "nld",
+      "040"
+    ],
+    "4":[
+      "nldleg",
+      "---gov",
+      "020"
+    ]
+  }
+}

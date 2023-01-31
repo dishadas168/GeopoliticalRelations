@@ -1,0 +1,201 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/al-franken-says-trumps-russia-mess-is-bigger-than-flynn_us_58a38a73e4b094a129f031da",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/analysis-north-korea-gives-donald-trump-a-nuclear-crisis-from-hell_us_58a23d32e4b094a129ee2fed",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/netanyahu-non-committal-on-palestinian-statehood-as-he-heads-to-us_us_58a1de9de4b03df370d8a95d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/oklahoma-lawmaker-wants-men-to-approve-abortion-calls-women-hosts_us_58a1eaf5e4b094a129ed7fac"
+  },
+  "headline":{
+    "0":"Al Franken Says Trump's Russia Mess Is Bigger Than Flynn",
+    "1":"Analysis: North Korea Gives Donald Trump A Nuclear Crisis From Hell",
+    "2":"Netanyahu Non-Committal On Palestinian Statehood As He Heads To U.S.",
+    "3":"Oklahoma Lawmaker Wants Men To Approve Abortion, Calls Women 'Hosts'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"\u201cThe American people also deserve to know the full extent of the President and his team\u2019s ties to Russia. Let\u2019s give them that information,\u201d the Minnesota senator said.",
+    "1":"George W. Bush invaded Iraq to remove its \u2013 ultimately nonexistent \u2013 weapons of mass destruction. Barack Obama used cyber",
+    "2":"Hours before Netanyahu's departure for Washington, Public Security Minister Gilad Erdan told Army Radio that \"all members of the security cabinet, and foremost the prime minister, oppose a Palestinian state\".",
+    "3":"This is real life!"
+  },
+  "authors":{
+    "0":"Michael McAuliff",
+    "1":"Peter Apps, Reuters",
+    "2":"Luke Baker, Reuters",
+    "3":"Jenavieve Hatch"
+  },
+  "date":{
+    "0":"2017-02-14 00:00:00",
+    "1":"2017-02-13 00:00:00",
+    "2":"2017-02-13 00:00:00",
+    "3":"2017-02-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"usaeli",
+    "2":"isrgovenv",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"usaleg",
+    "1":"irq",
+    "2":"---mil",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"192",
+    "2":"010",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.5,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "minnesota",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "george w. bush",
+      "usaeli",
+      "george",
+      "w.",
+      "bush",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "gilad erdan",
+      "isrgovenv",
+      "gilad",
+      "erdan",
+      "army",
+      "~mil",
+      "~",
+      "cabinet",
+      "~gov",
+      "~",
+      "cabinet",
+      "prime minister",
+      "~gov",
+      "~",
+      "~",
+      "palestinian",
+      "pse",
+      "palestine"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "minnesota senator",
+      "minnesota senator"
+    ],
+    "1":[
+      "george w. bush",
+      "iraq"
+    ],
+    "2":[
+      "gilad erdan",
+      "army"
+    ],
+    "3":[
+      "women",
+      "men",
+      "men",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "george w. bush",
+      "iraq"
+    ],
+    "2":[
+      "gilad erdan",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "give <&information>"
+    ],
+    "1":[
+      "invaded"
+    ],
+    "2":[
+      "told"
+    ],
+    "3":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "wmd",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "usaleg",
+      "010"
+    ],
+    "1":[
+      "usaeli",
+      "irq",
+      "192"
+    ],
+    "2":[
+      "isrgovenv",
+      "---mil",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---ppl",
+      "041",
+      "---ppl",
+      "---cvl",
+      "041"
+    ]
+  }
+}

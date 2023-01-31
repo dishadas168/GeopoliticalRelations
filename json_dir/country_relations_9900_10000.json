@@ -1,0 +1,269 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/migrant-caravan-crosses-into-us-despite-trump-administrations-threats_us_5ae60066e4b02baed1bb3e70",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/israel-gaza-border-protests-teen-killed_us_5ae4631ae4b055fd7fcc2140",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israel-kills-three-gaza-border-protests_us_5ae35c04e4b02baed1ba1c33",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/israel-kills-three-gaza-border-protests_us_5ae35c04e4b02baed1ba1c33",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/fbi-congress-letter-rob-porter-white-house-reports_us_5ae244e7e4b02baed1b86dee",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/michigan-gop-politician-conspiracy-theories-muslim-opponent_us_5ae33305e4b02baed1b9cd07"
+  },
+  "headline":{
+    "0":"Migrant Caravan Arrives At U.S. Border, Despite Trump\u2019s Threats",
+    "1":"Palestinian Teen Dies After Being Shot By Israeli Forces In Gaza Protests",
+    "2":"Israeli Forces Kill 3 Gaza Border Protesters, Wound 400",
+    "3":"Israeli Forces Kill 3 Gaza Border Protesters, Wound 400",
+    "4":"White House Knew About Rob Porter Allegations A Year Ago: FBI Letter",
+    "5":"Michigan GOP Politician Is Spreading Conspiracy Theories About His Muslim Opponent"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The White House mobilized the National Guard, threatened prosecution and likened the asylum-seekers to a national security threat. They\u2019re coming anyway.",
+    "1":"Israeli forces have killed 42 Palestinians since Gaza residents began staging protests along the border fence on March 30.",
+    "2":"Israeli troops have killed 41 Palestinians and wounded more than 5,000 others since the protests began on March 30.",
+    "3":"Israeli troops have killed 41 Palestinians and wounded more than 5,000 others since the protests began on March 30.",
+    "4":"The letter to Congress contradicts the White House's account of the spousal abuse scandal.",
+    "5":"Abdul El-Sayed\u2019s team says Republican leaders haven\u2019t done enough to condemn Patrick Colbeck\u2019s statements."
+  },
+  "authors":{
+    "0":"Matt Ferner and Roque Planas",
+    "1":"Nidal al-Mughrabi, Reuters",
+    "2":"Nidal al-Mughrabi, Reuters",
+    "3":"Nidal al-Mughrabi, Reuters",
+    "4":"Doha Madani",
+    "5":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2018-04-29 00:00:00",
+    "1":"2018-04-28 00:00:00",
+    "2":"2018-04-27 00:00:00",
+    "3":"2018-04-27 00:00:00",
+    "4":"2018-04-27 00:00:00",
+    "5":"2018-04-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"isr",
+    "2":"isr",
+    "3":"isrmil",
+    "4":"---leg",
+    "5":"usapty"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"pse",
+    "2":"---opp",
+    "3":"pse",
+    "4":"usagov",
+    "5":"---mus"
+  },
+  "event_code":{
+    "0":"150",
+    "1":"190",
+    "2":"190",
+    "3":"190",
+    "4":"110",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":-7.2,
+    "1":-10.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":-2.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "national guard",
+      "~mil",
+      "~",
+      "asylum seekers",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "israeli",
+      "isr",
+      "israel",
+      "palestinians",
+      "pse",
+      "palestine",
+      "gaza",
+      "residents",
+      "psegzacvl",
+      "gaza",
+      "~"
+    ],
+    "2":[
+      "israeli",
+      "isr",
+      "israel",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "israeli",
+      "troops",
+      "isrmil",
+      "israel",
+      "~",
+      "palestinians",
+      "pse",
+      "palestine"
+    ],
+    "4":[
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "5":[
+      "michigan",
+      "politician",
+      "usapty",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "national guard"
+    ],
+    "1":[
+      "israeli",
+      "palestinians"
+    ],
+    "2":[
+      "israeli",
+      "protesters"
+    ],
+    "3":[
+      "israeli troops",
+      "palestinians"
+    ],
+    "4":[
+      "congress",
+      "the ... white house"
+    ],
+    "5":[
+      "michigan ... politician",
+      "muslim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "israel",
+      "palestine"
+    ],
+    "2":[
+      "israel",
+      "---"
+    ],
+    "3":[
+      "israel",
+      "palestine"
+    ],
+    "4":[
+      "---",
+      "white house"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... mobilized"
+    ],
+    "1":[
+      "have killed"
+    ],
+    "2":[
+      "kill"
+    ],
+    "3":[
+      "have killed"
+    ],
+    "4":[
+      "contradicts"
+    ],
+    "5":[
+      "is spreading"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---mil",
+      "150"
+    ],
+    "1":[
+      "isr",
+      "pse",
+      "190"
+    ],
+    "2":[
+      "isr",
+      "---opp",
+      "190"
+    ],
+    "3":[
+      "isrmil",
+      "pse",
+      "190"
+    ],
+    "4":[
+      "---leg",
+      "usagov",
+      "110"
+    ],
+    "5":[
+      "usapty",
+      "---mus",
+      "010"
+    ]
+  }
+}

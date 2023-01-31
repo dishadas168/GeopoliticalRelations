@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/irving-mayor-defends-school-and-cops_us_55f9dbc0e4b08820d917310e",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.philly.com\/philly\/blogs\/entertainment\/celebrities_gossip\/Will-and-Jada-Pinkett-Smith-donate-150000-to-Million-Man-March.html#5VSeEjSBZVw57gcZ.99",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/fraternity-hazing-michael-deng-murder-charges_us_55f76df8e4b09ecde1d988f6"
+  },
+  "headline":{
+    "0":"Irving Mayor Defends School And Cops, Doesn't Apologize For Arrest Of Muslim Teen Over Clock",
+    "1":"Will And Jada Pinkett Smith Donate $150,000 To Million Man March Event",
+    "2":"5 Fraternity Brothers Face Murder Charges For Hazing Death"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"COLLEGE"
+  },
+  "short_description":{
+    "0":"\"To the best of my knowledge, they followed protocol,\" the mayor said.",
+    "1":"On Tuesday, Minister Louis Farrakhan spoke at Philadelphia\u2019s Tindley Temple United Methodist Church to mobilize support for",
+    "2":"32 other students from Baruch College also face criminal charges."
+  },
+  "authors":{
+    "0":"Matt Ferner",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2015-09-16 00:00:00",
+    "1":"2015-09-15 00:00:00",
+    "2":"2015-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usa",
+    "2":"---crm"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"010",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "~gov",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "minister",
+      "~gov",
+      "~",
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "college",
+      "~edu",
+      "~",
+      "students",
+      "college",
+      "~edu",
+      "~",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor",
+      "school"
+    ],
+    "1":[
+      "minister",
+      "philadelphia"
+    ],
+    "2":[
+      "college",
+      "criminal"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "defends"
+    ],
+    "1":[
+      "spoke"
+    ],
+    "2":[
+      "face"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---edu",
+      "074"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---crm",
+      "040"
+    ]
+  }
+}

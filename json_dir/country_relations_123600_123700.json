@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/stop-the-next-iraq-war-be_b_5537774.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-party-and-the-army-ci_b_5533144.html"
+  },
+  "headline":{
+    "0":"Stop the Next Iraq War Before It Starts",
+    "1":"The Party and the Army: Civil-Military Relations in Cuba"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"President Obama has promised not to send \"combat troops\" to Iraq, but it's hard to see how the U.S. military personnel he is sending there can avoid combat, given that they are being dropped into the middle of a civil war.",
+    "1":"Today, eight ministries are led by career military officers, three of whom are still on active duty."
+  },
+  "authors":{
+    "0":"William Hartung, ContributorWriter and Foreign Policy Expert",
+    "1":"William M. LeoGrande, ContributorProfessor at American University in Washington, D.C."
+  },
+  "date":{
+    "0":"2014-06-27 00:00:00",
+    "1":"2014-06-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---mil"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"154",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-7.2,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "ministries",
+      "~gov",
+      "~",
+      "military officers",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "iraq"
+    ],
+    "1":[
+      "military officers",
+      "ministries"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "iraq"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has promised ... send <&military>"
+    ],
+    "1":[
+      "<~gov> ... led by <~mil>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "irq",
+      "154"
+    ],
+    "1":[
+      "---mil",
+      "---gov",
+      "060"
+    ]
+  }
+}

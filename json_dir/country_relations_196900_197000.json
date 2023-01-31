@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bullying_us_5b9b95f0e4b03a1dcc78d733"
+  },
+  "headline":{
+    "0":"Yes, We Are Talking About It More!  That's the Good News about Bullying"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"The media's recent focus on bullying has given untold numbers of victims -- past and present -- a voice to share their experiences, now that they finally realize that they are not alone."
+  },
+  "authors":{
+    "0":"Signe Whitson, Contributor\nSigne Whitson is an author and national educator on bullying p..."
+  },
+  "date":{
+    "0":"2012-04-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "060"
+    ]
+  }
+}

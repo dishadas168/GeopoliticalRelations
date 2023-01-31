@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/court-trump-dreamer-documents_us_5a2b2a9ce4b0a290f050e603",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-cnn-abc-corrections_us_5a2b12f1e4b073789f69e7b0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/only-the-good-jews-get-to-go_us_5a2c6ac0e4b022ec613b82fb"
+  },
+  "headline":{
+    "0":"Supreme Court Blocks Release Of Documents In Trump Dreamer Case",
+    "1":"Donald Trump Lashes Out At CNN, ABC Over Reporting Errors",
+    "2":"Only The 'Good Jews' Get To Go"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"U.S. Supreme Court granted a request by Trump\u2019s administration to block the immediate release of documents concerning his decision to end the DACA program.",
+    "1":"The president criticized the \"fake news media\" during a Florida rally.",
+    "2":"No Democrats were invited, Jewish or otherwise. No heads of major Jewish congregations who\u2019d dared criticize him or his administration."
+  },
+  "authors":{
+    "0":"Lawrence Hurley, Reuters",
+    "1":"Mollie Reilly",
+    "2":"Janis Ian, ContributorSongwriter, author, performer"
+  },
+  "date":{
+    "0":"2017-12-09 00:00:00",
+    "1":"2017-12-09 00:00:00",
+    "2":"2017-12-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usajud",
+    "1":"---gov",
+    "2":"---jew"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usamed",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"111",
+    "2":"111"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "supreme court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "jewish",
+      "~jew",
+      "~",
+      "jewish",
+      "~jew",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. supreme court",
+      "administration"
+    ],
+    "1":[
+      "president",
+      "---"
+    ],
+    "2":[
+      "jewish",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "granted ... request"
+    ],
+    "1":[
+      "criticized"
+    ],
+    "2":[
+      "criticize"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usajud",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "usamed",
+      "111"
+    ],
+    "2":[
+      "---jew",
+      "---gov",
+      "111"
+    ]
+  }
+}

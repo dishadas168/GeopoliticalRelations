@@ -1,0 +1,267 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-elector-hang-gays_us_583506b8e4b09b6055ff9280",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-senate-republicans-opposition_us_583478b7e4b01ba68ac2e1b0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/china-trump-africa-policy_us_58346052e4b030997bc145ea",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iranian-soldiers-syria_us_5834435de4b030997bc12f7f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/philippines-us-reduce-joint-military-exercises_us_58344fb4e4b030997bc1353b",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-tpp_us_58341fd6e4b099512f848db9"
+  },
+  "headline":{
+    "0":"Donald Trump Elector In Montana Under Fire For Saying Hang Gays 'Where They Can Be Seen'",
+    "1":"Willing To Oppose Trump, Some Senate Republicans Gain Leverage",
+    "2":"China Is Poised To Benefit From Trump\u2019s Ambiguous Africa Policy",
+    "3":"More Than 1,000 Iranian Soldiers Have Died Fighting In Syria",
+    "4":"Philippines, U.S. Militaries Agree To Reduce Joint Exercises, Philippine General Says",
+    "5":"Trump Vows To Back Out Of The Trans-Pacific Partnership, Effectively Killing It"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"I come from a different era.\"",
+    "1":"A small number of influential Republicans in the Senate are threatening to block appointments to Trump\u2019s administration, derail his thaw with Russia and prevent the planned wall on the border with Mexico.",
+    "2":"By neglecting to propose a clear approach toward the continent, the future U.S. president may end up boosting Beijing.",
+    "3":"It's a sizable increase from just a few months ago.",
+    "4":"President Rodrigo Duterte has hinted at a \"separation\" from the U.S.",
+    "5":"Japanese Prime Minister Shinzo Abe said the trade deal \"has no meaning\" without the U.S."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Ginger Gibson and Richard Cowan, Reuters",
+    "2":"Eric Olander and Cobus van Staden, The China Africa Project",
+    "3":"Bozorgmehr Sharafedin, Reuters",
+    "4":"",
+    "5":"Alana Horowitz Satlin"
+  },
+  "date":{
+    "0":"2016-11-23 00:00:00",
+    "1":"2016-11-22 00:00:00",
+    "2":"2016-11-22 00:00:00",
+    "3":"2016-11-22 00:00:00",
+    "4":"2016-11-22 00:00:00",
+    "5":"2016-11-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagovleg",
+    "2":"usagov",
+    "3":"irnmil",
+    "4":"---gov",
+    "5":"jpneli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"chn",
+    "3":"syr",
+    "4":"usa",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170",
+    "2":"060",
+    "3":"190",
+    "4":"020",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0,
+    "2":6.0,
+    "3":-10.0,
+    "4":3.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "elector",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "administration",
+      "~gov",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "2":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "beijing",
+      "chn",
+      "china"
+    ],
+    "3":[
+      "iranian",
+      "soldiers",
+      "irnmil",
+      "iran",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "shinzo abe",
+      "jpneli",
+      "shinzo",
+      "abe",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "elector",
+      "elector"
+    ],
+    "1":[
+      "senate",
+      "administration"
+    ],
+    "2":[
+      "u.s. president",
+      "beijing"
+    ],
+    "3":[
+      "iranian soldiers",
+      "syria"
+    ],
+    "4":[
+      "president",
+      "<u.s.>"
+    ],
+    "5":[
+      "shinzo abe",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states congress",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "china"
+    ],
+    "3":[
+      "iran",
+      "syria"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "shinzo abe",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gays <~cvl> ... seen"
+    ],
+    "1":[
+      "are threatening ... block"
+    ],
+    "2":[
+      "may ... boosting"
+    ],
+    "3":[
+      "have died fighting"
+    ],
+    "4":[
+      "has hinted"
+    ],
+    "5":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "usagovleg",
+      "---gov",
+      "170"
+    ],
+    "2":[
+      "usagov",
+      "chn",
+      "060"
+    ],
+    "3":[
+      "irnmil",
+      "syr",
+      "190"
+    ],
+    "4":[
+      "---gov",
+      "usa",
+      "020"
+    ],
+    "5":[
+      "jpneli",
+      "usa",
+      "010"
+    ]
+  }
+}

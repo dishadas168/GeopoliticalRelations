@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dollar-shave-club-bought-many-dollars-unilever_us_578f841ae4b07c722ebd11f1"
+  },
+  "headline":{
+    "0":"Dollar Shave Club Just Got Bought For Many Many Many Dollars"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"A big day for the men's grooming company."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "'s grooming"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---bus",
+      "030"
+    ]
+  }
+}

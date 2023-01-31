@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tim-kaine-hillary-clinton-aumf_us_580e5dfae4b02444efa4b1cf"
+  },
+  "headline":{
+    "0":"Hillary Clinton Will Push Congress To Finally Declare War On ISIS, Says Tim Kaine"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"It\u2019s time for Congress to get back in the game,\" the VP pick said."
+  },
+  "authors":{
+    "0":"Laura Barr\u00f3n-L\u00f3pez"
+  },
+  "date":{
+    "0":"2016-10-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli"
+  },
+  "actor2":{
+    "0":"---leg"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will push"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---leg",
+      "100"
+    ]
+  }
+}

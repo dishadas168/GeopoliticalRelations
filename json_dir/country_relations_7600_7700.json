@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/fire-deaths-rise-to-71-ahead-of-trumps-california-visit_n_5bef97a1e4b0b84243e28051",
+    "1":"https:\/\/www.huffpost.com\/entry\/trump-asylum-ban-minors_n_5be9db3fe4b0caeec2bc7f07"
+  },
+  "headline":{
+    "0":"Fire Deaths Rise To 71 With More Than 1,000 Missing",
+    "1":"Trump Asylum Ban Will Extend To Thousands Of Unaccompanied Immigrant Minors"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"On Saturday, President Donald Trump will visit the scene of the deadliest U.S. wildfire in a century.",
+    "1":"An administration official told reporters on Friday that the \"suspension does not apply\" to unaccompanied minors. It does."
+  },
+  "authors":{
+    "0":"Kathleen Ronayne and Sudhin Thanawala, Associated Press",
+    "1":"Elise Foley"
+  },
+  "date":{
+    "0":"2018-11-17 00:00:00",
+    "1":"2018-11-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "u.s."
+    ],
+    "1":[
+      "administration",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will visit"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "---gov",
+      "---med",
+      "010"
+    ]
+  }
+}

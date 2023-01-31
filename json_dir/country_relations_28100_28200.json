@@ -1,0 +1,388 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mother-trailer-jennifer-lawrence_us_597f3bcae4b02a4ebb76e6de",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/naacp-travel-advisory-missouri_us_597f39e7e4b02a4ebb76e48c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/fighting-a-culture-war_us_597e1504e4b0c69ef7052919",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/konstanz-nightclub-shooting-germany_us_597d9422e4b02a8434b6e44a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/nissan-launches-anti-union-blitz-ahead-of-pivotal-election-in-the-south_us_597e11d0e4b02a8434b7019d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/jeff-sessions-assault-on-gay-workers-revealed-yet-another-lie-he-told-at-confirmation-hearings_us_597c8d94e4b02a8434b6b2f3",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/the-exxon-treasury-fight-and-the-roots-of-russiagate_us_597de928e4b0c69ef70528ff",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/collins-murkowski-health-care_us_597ddfede4b0da64e879a910",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/bernies-vote-on-sanctions-was-about-protecting-the-iran-deal-from-trump_us_597df7f8e4b0da64e879b55e"
+  },
+  "headline":{
+    "0":"Jennifer Lawrence Cries Bloody Murder In The First 'Mother!' Teaser",
+    "1":"NAACP Warns Minorities, Women Heading To Missouri: 'They May Not Be Safe'",
+    "2":"Fighting A Culture War",
+    "3":"Gunman Kills One, Wounds Four In Shooting At German Nightclub",
+    "4":"Nissan Launches Anti-Union Blitz Ahead Of Pivotal UAW Election",
+    "5":"Jeff Sessions' Assault On Gay Workers Revealed Yet Another Lie He Told At Confirmation Hearings",
+    "6":"The Exxon-Treasury Fight And The Roots Of Russiagate",
+    "7":"Collins And Murkowski Receive Thanks From Constituents For Health Care Stance",
+    "8":"Bernie's Vote On Sanctions Was About Protecting The Iran Deal From Trump"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"BLACK VOICES",
+    "2":"QUEER VOICES",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"QUEER VOICES",
+    "6":"POLITICS",
+    "7":"POLITICS",
+    "8":"POLITICS"
+  },
+  "short_description":{
+    "0":"We still don't know much about Darren Aronofsky's upcoming movie.",
+    "1":"The organization wants people to know their civil rights may be violated in the Show Me State.",
+    "2":"\"The military has given many trans people I\u2019ve met a purpose and a way out.\"",
+    "3":"The gunman was shot by police and later died at a hospital.",
+    "4":"As the United Auto Workers seek a foothold in the region, the automaker is telling its Mississippi employees that a \"yes\" vote could jeopardize everything they have.",
+    "5":"The attorney general vowed to \"ensure\" civil rights protections for LGBTQ people.",
+    "6":"Putin and Exxon have aimed relentlessly at ending U.S. sanctions, but scandal and Congress have now tied Trump's hands.",
+    "7":"The two GOP senators consistently opposed party leaders' efforts to repeal and replace the Affordable Care Act, often in the face of sexist attacks.",
+    "8":"These narratives that Senator Sanders is working to benefit Russia, perhaps because of resentment for his loss to Clinton, are nothing short of absurd."
+  },
+  "authors":{
+    "0":"Matthew Jacobs",
+    "1":"Taryn Finley",
+    "2":"Basil Soper, ContributorTrans writer, intersectional activist, double cancer, and anim...",
+    "3":"Dominique Mosbergen",
+    "4":"Dave Jamieson",
+    "5":"Michelangelo Signorile",
+    "6":"David Halperin, ContributorAttorney, advocate, writer at RepublicReport.org",
+    "7":"Marina Fang",
+    "8":"Ida Adibi, ContributorForeign Policy and Outreach Intern, National Iranian American ..."
+  },
+  "date":{
+    "0":"2017-07-31 00:00:00",
+    "1":"2017-07-31 00:00:00",
+    "2":"2017-07-30 00:00:00",
+    "3":"2017-07-30 00:00:00",
+    "4":"2017-07-30 00:00:00",
+    "5":"2017-07-30 00:00:00",
+    "6":"2017-07-30 00:00:00",
+    "7":"2017-07-30 00:00:00",
+    "8":"2017-07-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"meareb",
+    "2":"---mil",
+    "3":"---cop",
+    "4":"---bus",
+    "5":"---gov",
+    "6":"rusgov",
+    "7":"---leg",
+    "8":"---leg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"---uaf",
+    "4":"usalab",
+    "5":"---ppl",
+    "6":"mncusa",
+    "7":"---pty",
+    "8":"rus"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"030",
+    "2":"060",
+    "3":"190",
+    "4":"010",
+    "5":"0332",
+    "6":"030",
+    "7":"110",
+    "8":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":4.0,
+    "2":6.0,
+    "3":-10.0,
+    "4":0.0,
+    "5":5.2,
+    "6":4.0,
+    "7":-2.0,
+    "8":6.0
+  },
+  "nouns":{
+    "0":[
+      "lawrence",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "military",
+      "~mil",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "gunman",
+      "~uaf",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "4":[
+      "automaker",
+      "~bus",
+      "~",
+      "mississippi",
+      "employees",
+      "usalab",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "5":[
+      "attorney general",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "6":[
+      "putin",
+      "exxon",
+      "rusgov",
+      "mncusa",
+      "vladimir",
+      "putin",
+      "exxon",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "7":[
+      "senators",
+      "~leg",
+      "~",
+      "party leaders",
+      "~pty",
+      "~"
+    ],
+    "8":[
+      "senator",
+      "~leg",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawrence",
+      "mother"
+    ],
+    "1":[
+      "organization",
+      "people"
+    ],
+    "2":[
+      "military",
+      "people"
+    ],
+    "3":[
+      "police",
+      "gunman",
+      "gunman",
+      "hospital"
+    ],
+    "4":[
+      "automaker",
+      "mississippi employees"
+    ],
+    "5":[
+      "attorney general",
+      "people"
+    ],
+    "6":[
+
+    ],
+    "7":[
+      "senators",
+      "party leaders"
+    ],
+    "8":[
+      "senator",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "tanzim",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "cries"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "has given"
+    ],
+    "3":[
+      "<~uaf> ... shot by <~cop>",
+      "was ... died at <~hlh>"
+    ],
+    "4":[
+      "is telling"
+    ],
+    "5":[
+      "vowed ... ensure <&security>"
+    ],
+    "6":[
+
+    ],
+    "7":[
+      "opposed"
+    ],
+    "8":[
+      "is ... benefit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "human_rights",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "human_rights",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "6":[
+      "sanctions",
+      "1"
+    ],
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "110"
+    ],
+    "1":[
+      "meareb",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "---mil",
+      "---ppl",
+      "060"
+    ],
+    "3":[
+      "---cop",
+      "---uaf",
+      "190",
+      "---uaf",
+      "---hlh",
+      "190"
+    ],
+    "4":[
+      "---bus",
+      "usalab",
+      "010"
+    ],
+    "5":[
+      "---gov",
+      "---ppl",
+      "0332"
+    ],
+    "6":[
+      "rusgov",
+      "mncusa",
+      "030",
+      "mncusa",
+      "rusgov",
+      "030"
+    ],
+    "7":[
+      "---leg",
+      "---pty",
+      "110"
+    ],
+    "8":[
+      "---leg",
+      "rus",
+      "060"
+    ]
+  }
+}

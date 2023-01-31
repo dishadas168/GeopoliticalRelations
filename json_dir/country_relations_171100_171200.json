@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-to-visit-7-continents_us_5b9cbfc7e4b03a1dcc817760"
+  },
+  "headline":{
+    "0":"How To Visit 7 Continents In 3 Trips"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Favorable exchange rates in Argentina mean that you can drink Malbec wine, dine at mouthwatering Argentinian steakhouses and see the sights -- all for a fraction of what you'd expect to pay for similar experiences back home."
+  },
+  "authors":{
+    "0":"Fly.com, Contributor\nFly.com"
+  },
+  "date":{
+    "0":"2013-01-24 00:00:00"
+  },
+  "actor1":{
+    "0":"arg"
+  },
+  "actor2":{
+    "0":"arg"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "argentina",
+      "arg",
+      "argentina",
+      "argentinian",
+      "arg",
+      "argentina"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "argentina",
+      "argentina"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "argentina",
+      "argentina"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "exchange_rate",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "arg",
+      "arg",
+      "030"
+    ]
+  }
+}

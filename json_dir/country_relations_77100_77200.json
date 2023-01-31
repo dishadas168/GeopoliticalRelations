@@ -1,0 +1,248 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-isis-genocide_us_56833bb0e4b0b958f65ac330",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ramadi-iraq-airstrikes_us_5682c194e4b014efe0d950e2",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.wsj.com\/articles\/u-s-spy-net-on-israel-snares-congress-1451425210",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/belgium-arrests-2-suspected-of-planning-attacks-in-brussels_us_56827d5ee4b0b958f65a5a0e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mexico-security-human-rights_us_5681c198e4b0b958f65a3e4b"
+  },
+  "headline":{
+    "0":"Hillary Clinton Calls ISIS Violence Against Yazidis 'Genocide'",
+    "1":"U.S. Airstrikes Helped Retake Ramadi, But Mosul Could Be A Different Story",
+    "2":"U.S. Tried To Spy On Bibi, Ended Up Spying On Congress",
+    "3":"Belgium Arrests 2 People Suspected Of Planning Attacks In Brussels",
+    "4":"U.S. Security Aid To Mexico Dwindles Amid Human Rights Abuses"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The group has targeted and killed members of the Yazidi religion, along with Christians and other religious minorities in Iraq and Syria.",
+    "1":"Recapturing the city from ISIS was a major victory for Iraqi forces, but one that relied heavily on American support.",
+    "2":"National Security Agency\u2019s targeting of Israeli leaders also swept up the content of private conversations with U.S. lawmakers",
+    "3":"The investigation revealed \"the threat of serious attacks that would target several emblematic places in Brussels and be committed during the end-of-year holidays,\" the prosecutor's office said.",
+    "4":"The missing 43 students and escape of \"El Chapo\" Guzm\u00e1n may partly explain why the U.S. is slashing aid to Mexico."
+  },
+  "authors":{
+    "0":"Amanda Becker, Reuters",
+    "1":"Nick Robins-Early",
+    "2":"",
+    "3":"JOHN-THOR DAHLBURG, AP",
+    "4":"Roque Planas"
+  },
+  "date":{
+    "0":"2015-12-30 00:00:00",
+    "1":"2015-12-30 00:00:00",
+    "2":"2015-12-29 00:00:00",
+    "3":"2015-12-29 00:00:00",
+    "4":"2015-12-29 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"usa",
+    "2":"usaspy",
+    "3":"bel",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"irq",
+    "2":"usaleg",
+    "3":"---ppl",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"070",
+    "2":"090",
+    "3":"173",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0,
+    "2":-2.0,
+    "3":-5.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "ramadi",
+      "irq",
+      "iraq",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "israeli",
+      "isr",
+      "israel",
+      "national security agency",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "u.s.",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "belgium",
+      "bel",
+      "belgium",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "students",
+      "~edu",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mexico",
+      "mex",
+      "mexico"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "hillary clinton",
+      "hillary clinton",
+      "isis"
+    ],
+    "1":[
+      "u.s.",
+      "ramadi"
+    ],
+    "2":[
+      "national security agency",
+      "u.s. lawmakers"
+    ],
+    "3":[
+      "belgium",
+      "people"
+    ],
+    "4":[
+      "students",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "hillary clinton",
+      "hillary clinton",
+      "the islamic state"
+    ],
+    "1":[
+      "united states of america",
+      "iraq"
+    ],
+    "2":[
+      "us intelligence community",
+      "united states of america"
+    ],
+    "3":[
+      "belgium",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "helped"
+    ],
+    "2":[
+      "swept"
+    ],
+    "3":[
+      "arrests"
+    ],
+    "4":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "usaeli",
+      "041",
+      "usaeli",
+      "imgmusisi",
+      "041"
+    ],
+    "1":[
+      "usa",
+      "irq",
+      "070"
+    ],
+    "2":[
+      "usaspy",
+      "usaleg",
+      "090"
+    ],
+    "3":[
+      "bel",
+      "---ppl",
+      "173"
+    ],
+    "4":[
+      "---edu",
+      "usa",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trusting-the-crowd-and-th_b_6166406.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/deja-rule-the-health-damaging-consequences-of-reinstating-the-global-gag-rule-in-2015_b_6172460.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/its-time-to-fulfill-the-p_b_6186366.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/double-justice-in-missour_b_6186378.html"
+  },
+  "headline":{
+    "0":"Trusting the Crowd and the Machines",
+    "1":"D\u00e9j\u00e0 Rule: The Health Damaging Consequences of Reinstating the Global Gag Rule in 2015",
+    "2":"It's Time To Fulfill The Promise To End Violence Against Women",
+    "3":"Double Justice in Missouri"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"WOMEN",
+    "2":"IMPACT",
+    "3":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"The business environment of the future needs to trust people and technology and provide flexibility and choice for employees to connect with complementary skills across a network, to work together on challenges, to learn fast, unlock their passion and improve performance.",
+    "1":"We all care about women's lives, and PEPFAR under President Bush and President Obama has vastly improved the health of women and their families, while building vital healthcare system infrastructure. Let's continue the success, without being undermined by the Global Gag Rule.",
+    "2":"Globally, one in three women will experience physical or sexual violence at some point in her life. The World Health Organization has declared violence against women to be a global health problem of epidemic proportions.",
+    "3":"For the second time in two months, Governor Jay Nixon of Missouri approved the execution of an African American man sentenced to die by an all-white jury. But Missouri and this governor have absolutely no moral authority to execute anyone."
+  },
+  "authors":{
+    "0":"Despina Katsikakis, ContributorGlobally renowned expert on how to transform the workplace to ...",
+    "1":"Jennifer Sherwood, ContributorPolicy Associate, amfAR the Foundation for AIDS Research",
+    "2":"UN Women, ContributorUN Women is the UN organization dedicated to gender equality a...",
+    "3":"Diann Rust-Tierney, ContributorExecutive Director of the National Coalition to Abolish the De..."
+  },
+  "date":{
+    "0":"2014-11-19 00:00:00",
+    "1":"2014-11-19 00:00:00",
+    "2":"2014-11-19 00:00:00",
+    "3":"2014-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usaeli",
+    "2":"igounohlhwho",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"usappl"
+  },
+  "event_code":{
+    "0":"101",
+    "1":"060",
+    "2":"010",
+    "3":"08"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.0,
+    "2":0.0,
+    "3":5.0
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "president bush",
+      "president obama",
+      "usaeli",
+      "usagov",
+      "george",
+      "w.",
+      "bush",
+      "barack",
+      "obama",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "world health organization",
+      "igounohlhwho",
+      "world",
+      "health",
+      "organization",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "governor",
+      "nixon",
+      "usagov",
+      "~",
+      "richard",
+      "m.",
+      "nixon",
+      "american",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "american",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "business",
+      "employees"
+    ],
+    "1":[
+      "president bush",
+      "women",
+      "president ... obama",
+      "women"
+    ],
+    "2":[
+      "world health organization",
+      "women"
+    ],
+    "3":[
+      "governor ... nixon",
+      "american man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "george w. bush",
+      "---",
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "world health organization",
+      "---"
+    ],
+    "3":[
+      "richard m. nixon",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs ... provide"
+    ],
+    "1":[
+      "has ... improved",
+      "has ... improved"
+    ],
+    "2":[
+      "has declared"
+    ],
+    "3":[
+      "approved"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "gender_violence",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "101"
+    ],
+    "1":[
+      "usaeli",
+      "---cvl",
+      "060",
+      "usagov",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "igounohlhwho",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "usagov",
+      "usappl",
+      "08"
+    ]
+  }
+}

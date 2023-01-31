@@ -1,0 +1,238 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flint-residents-congress-snyder_us_56ead304e4b065e2e3d8af61",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/georgia-religious-liberty-bill_us_56ea4d96e4b0b25c91847e5e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-isis-genocide_us_56eaa8d9e4b0b25c9184840e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/texas-high-school-coach-black-latino-students-hang-tree_us_56eaf434e4b09bf44a9ca7f2",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/president-obama-applauds-every-brave-woman-speaking-out-against-online-harassment_us_56eab776e4b065e2e3d88f2f"
+  },
+  "headline":{
+    "0":"Flint Residents Come To Washington For Long-Awaited Confrontation With Rick Snyder",
+    "1":"Georgia Lawmakers Pass Anti-Gay 'Religious Liberty' Bill",
+    "2":"John Kerry Calls Islamic State's Atrocities Genocide",
+    "3":"Texas High School Coach Allegedly Told Black Students \u2018I\u2019m Going To Hang You In That Tree\u2019",
+    "4":"President Obama Applauds Every Brave Woman Speaking Out Against Online Harassment"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"BLACK VOICES",
+    "4":"WOMEN"
+  },
+  "short_description":{
+    "0":"\"He needs to go to jail, but only after he cleans this mess up and Flint is fixed.\"",
+    "1":"More than 300 businesses, including Delta Airlines and Coca Cola, signed a pledge decrying the Georgia legislation.",
+    "2":"While the genocide finding may make it easier for the U.S. to argue for greater action against the group, it does not create a legal obligation to do more.",
+    "3":"\u201cHe says stuff around black players just when we are by ourselves,\u201d one student says.",
+    "4":"\"Women are lifting others out of the shadows and raising our collective consciousness about a problem that affects all of us.\""
+  },
+  "authors":{
+    "0":"Tyler Tynes",
+    "1":"Rich McKay, Reuters",
+    "2":"Arshad Mohammed, Reuters",
+    "3":"Sebastian Murdock",
+    "4":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2016-03-17 00:00:00",
+    "1":"2016-03-17 00:00:00",
+    "2":"2016-03-17 00:00:00",
+    "3":"2016-03-17 00:00:00",
+    "4":"2016-03-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"---mus",
+    "3":"---edu",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"geo",
+    "2":"usagov",
+    "3":"---edu",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"110",
+    "2":"041",
+    "3":"010",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":1.0,
+    "3":0.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "residents",
+      "~cvl",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "airlines",
+      "~bus",
+      "~",
+      "businesses",
+      "airlines",
+      "~bus",
+      "~",
+      "~",
+      "georgia",
+      "geo",
+      "georgia"
+    ],
+    "2":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "3":[
+      "school",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "residents",
+      "washington"
+    ],
+    "1":[
+      "airlines",
+      "georgia"
+    ],
+    "2":[
+      "islamic",
+      "john kerry",
+      "john kerry",
+      "islamic"
+    ],
+    "3":[
+      "school",
+      "school"
+    ],
+    "4":[
+      "president obama",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "georgia"
+    ],
+    "2":[
+      "---",
+      "john kerry",
+      "john kerry",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "come to"
+    ],
+    "1":[
+      "signed ... decrying"
+    ],
+    "2":[
+      "calls",
+      "calls"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "applauds"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_atrocity",
+      "2"
+    ],
+    "3":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---bus",
+      "geo",
+      "110"
+    ],
+    "2":[
+      "---mus",
+      "usagov",
+      "041",
+      "usagov",
+      "---mus",
+      "041"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "010"
+    ],
+    "4":[
+      "usagov",
+      "---cvl",
+      "051"
+    ]
+  }
+}

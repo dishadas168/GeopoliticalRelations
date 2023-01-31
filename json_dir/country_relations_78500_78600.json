@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/person-of-interest-arrested-in-california-mosque-firebomb_us_566c8865e4b0e292150e26c6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/las-vegas-review-journal-new-mystery-owner_us_566b7d5de4b0fccee16ebd9e"
+  },
+  "headline":{
+    "0":"Person Of Interest Detained After California Mosque 'Firebombed'",
+    "1":"Las Vegas Review-Journal Removes Questions About Newspaper\u2019s New Mystery Owner"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"Riverside County sheriff's deputies called the fire at Islamic Center of Palm Springs arson.",
+    "1":"No one knows who owns Nevada's largest media outlet."
+  },
+  "authors":{
+    "0":"",
+    "1":"Michael Calderone"
+  },
+  "date":{
+    "0":"2015-12-12 00:00:00",
+    "1":"2015-12-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---mus",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"174"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "sheriff deputies",
+      "~cop",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "1":[
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "newspaper",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "islamic",
+      "sheriff ... deputies",
+      "sheriff ... deputies",
+      "islamic"
+    ],
+    "1":[
+      "las vegas",
+      "newspaper"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "removes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---mus",
+      "---cop",
+      "041",
+      "---cop",
+      "---mus",
+      "041"
+    ],
+    "1":[
+      "usa",
+      "---med",
+      "174"
+    ]
+  }
+}

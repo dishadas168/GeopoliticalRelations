@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/emile-hirsch-jail-guilty-assault_us_55d27570e4b055a6dab13997",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/man-wanted-for-throwing-pornographic-paper-airplane_us_55d367e1e4b0ab468d9e87c6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/shell-arctic-drilling_us_55d25c77e4b07addcb43d0a8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/employers-fitness-trackers_us_55cb8d27e4b0f1cbf1e72204"
+  },
+  "headline":{
+    "0":"Emile Hirsch Sentenced To 15 Days In Jail After Pleading Guilty To Assault",
+    "1":"Man Wanted For Throwing Pornographic Paper Airplane",
+    "2":"Shell Officially Allowed To Drill In The Arctic",
+    "3":"Why More Employers Are Giving Their Employees Fitness Trackers"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"WEIRD NEWS",
+    "2":"POLITICS",
+    "3":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"Hirsch's deal with prosecutors also calls for a $4,750 fine and 50 hours of community service.",
+    "1":"Police want to talk with man accused of tossing airplane made from dirty mags.",
+    "2":"The Obama administration has given the company the go-ahead, despite protests from environmental groups.",
+    "3":"Less sick days, more productivity."
+  },
+  "authors":{
+    "0":"",
+    "1":"David Moye",
+    "2":"",
+    "3":"Leigh Weingus"
+  },
+  "date":{
+    "0":"2015-08-18 00:00:00",
+    "1":"2015-08-18 00:00:00",
+    "2":"2015-08-17 00:00:00",
+    "3":"2015-08-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---cop",
+    "2":"usagov",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"---bus",
+    "3":"---lab"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"046",
+    "2":"060",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":7.0,
+    "2":6.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "employers",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "community"
+    ],
+    "1":[
+      "police",
+      "man"
+    ],
+    "2":[
+      "the obama administration",
+      "company"
+    ],
+    "3":[
+      "employers",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls for"
+    ],
+    "1":[
+      "want ... talk with"
+    ],
+    "2":[
+      "has given"
+    ],
+    "3":[
+      "are giving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cvl",
+      "020"
+    ],
+    "1":[
+      "---cop",
+      "---ppl",
+      "046"
+    ],
+    "2":[
+      "usagov",
+      "---bus",
+      "060"
+    ],
+    "3":[
+      "---bus",
+      "---lab",
+      "060"
+    ]
+  }
+}

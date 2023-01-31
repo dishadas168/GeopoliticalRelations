@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-aa-seats-protect-your_us_5b9c5d98e4b03a1dcc7e1ed1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/whats-good-for-your-healt_us_5b9c5dece4b03a1dcc7e202a"
+  },
+  "headline":{
+    "0":"How AA Seats Protect Your Seat And A Whole Lot More",
+    "1":"What's Good for Your Health Is Good for the Planet!"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Passengers think of airline seats mostly in terms of space and comfort (most often noticing the absence of both) but the news that American Airlines has grounded eight of the Boeing 757s in its fleet after some seats shifted in flight is all about safety.",
+    "1":"The good news is that more and more people are starting to see these connections and study them. The bad news is: By the"
+  },
+  "authors":{
+    "0":"Lee Negroni, Contributor\nLaw prof, author, global adventure-seeker, emerging outdoorswo...",
+    "1":"Maria Rodale, Contributor\nCEO and Chairman of Rodale, Inc. and book author"
+  },
+  "date":{
+    "0":"2012-10-04 00:00:00",
+    "1":"2012-10-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "passengers",
+      "~cvl",
+      "~",
+      "airline",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "passengers",
+      "airline"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ],
+    "1":[
+      "are ... study"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---bus",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "090"
+    ]
+  }
+}

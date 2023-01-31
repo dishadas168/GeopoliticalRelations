@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/as-anti-lgbtq-persecution-worsens-in-russia-the-us_us_58f39889e4b048372700d950",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-missile-test_us_58f2a677e4b0b9e9848c7e75",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/fake-facebook-french-election_us_58f168f4e4b0da2ff860febe",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hear-my-voice-no-judge-low-great-men-do-not-rape_us_58f1a7b8e4b0156697224f8b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-warns-against-us-military-hysteria-as-it-marks-founders-birth_us_58f19529e4b0bb9638e433f1",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/maxine-waters-donald-trump_us_58eb98d5e4b00de141053b7f"
+  },
+  "headline":{
+    "0":"As Anti-LGBTQ Persecution Worsens in Russia, The U.S. Government Must Act",
+    "1":"North Korea Attempts But Fails To Launch Missile: South Korea",
+    "2":"Facebook Cracks Down On 30,000 Fake News Accounts Ahead of French Election",
+    "3":"Hear My Voice: No, Judge Low, Great Men Do Not Rape",
+    "4":"North Korea Warns Against U.S. 'Military Hysteria' As It Marks Founder's Birth",
+    "5":"Maxine Waters' Political Career Makes Her Uniquely Suited To Take On Donald Trump"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST",
+    "2":"TECH",
+    "3":"WOMEN",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The U.S. government needs to publicly condemn the Chechen attacks as an advancement of Russia\u2019s longstanding history of anti-LGBTQ oppression.",
+    "1":"The attempt comes a day after the North held a military parade to mark the birth of the state founder.",
+    "2":"The social media company is taking out full-page newspaper ads with tips for spotting untrustworthy sites.",
+    "3":"What a great guy, the judge said, as he sentenced the convicted rapist to life in prison for his crimes.",
+    "4":"The North\u2019s warning came as leader Kim Jong Un, looking relaxed in a dark suit and laughing with aides, oversaw a military parade at Pyongyang\u2019s main Kim Il Sung square, named after his grandfather, on his birth anniversary.",
+    "5":"With decades of experience battling injustice, the congresswoman is now aiming her anger at the president."
+  },
+  "authors":{
+    "0":"Katie Sgarro, ContributorWriter, Social Entrepreneur & LGBTQ Advocate",
+    "1":"",
+    "2":"Mary Papenfuss",
+    "3":"Jan Erickson, ContributorWitch, Empath, Crone",
+    "4":"Sue-Lin Wong and Damir Sagolj, Reuters",
+    "5":"Ryan Grim, Julia Craven, and Meredith Melnick"
+  },
+  "date":{
+    "0":"2017-04-16 00:00:00",
+    "1":"2017-04-15 00:00:00",
+    "2":"2017-04-15 00:00:00",
+    "3":"2017-04-15 00:00:00",
+    "4":"2017-04-15 00:00:00",
+    "5":"2017-04-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"prk",
+    "2":"---bus",
+    "3":"---jud",
+    "4":"igouno",
+    "5":"---leg"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"kor",
+    "2":"---med",
+    "3":"---crm",
+    "4":"prkmil",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"194",
+    "2":"171",
+    "3":"172",
+    "4":"060",
+    "5":"030"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-9.2,
+    "3":-5.0,
+    "4":6.0,
+    "5":4.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "newspaper",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "judge",
+      "~jud",
+      "~",
+      "rapist",
+      "~crm",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "un",
+      "igouno",
+      "un",
+      "military",
+      "~mil",
+      "~",
+      "pyongyang",
+      "kim il sung",
+      "prk",
+      "north",
+      "korea",
+      "kim",
+      "il",
+      "sung",
+      "pyongyang",
+      "kim il sung",
+      "prk",
+      "north",
+      "korea",
+      "kim",
+      "il",
+      "sung"
+    ],
+    "5":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. government",
+      "russia"
+    ],
+    "1":[
+      "north korea",
+      "south korea"
+    ],
+    "2":[
+      "company",
+      "newspaper"
+    ],
+    "3":[
+      "judge",
+      "rapist"
+    ],
+    "4":[
+      "un",
+      "---"
+    ],
+    "5":[
+      "congresswoman",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "russian federation"
+    ],
+    "1":[
+      "north korea",
+      "south korea"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "un",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs ... condemn ... attacks"
+    ],
+    "1":[
+      "fails ... launch <&weapon>"
+    ],
+    "2":[
+      "is taking"
+    ],
+    "3":[
+      "said ... sentenced"
+    ],
+    "4":[
+      "oversaw"
+    ],
+    "5":[
+      "is ... aiming"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "rape",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "rus",
+      "111"
+    ],
+    "1":[
+      "prk",
+      "kor",
+      "194"
+    ],
+    "2":[
+      "---bus",
+      "---med",
+      "171"
+    ],
+    "3":[
+      "---jud",
+      "---crm",
+      "172"
+    ],
+    "4":[
+      "igouno",
+      "prkmil",
+      "060"
+    ],
+    "5":[
+      "---leg",
+      "---gov",
+      "030"
+    ]
+  }
+}

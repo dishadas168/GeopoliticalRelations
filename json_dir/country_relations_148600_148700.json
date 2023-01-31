@@ -1,0 +1,136 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-french-government-ban_us_5b9d87e1e4b03a1dcc892c30",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/diabetes-management_us_5b9d877fe4b03a1dcc89288b"
+  },
+  "headline":{
+    "0":"The French Government Bans Child Beauty Pageants and I Hope it Catches On",
+    "1":"Why I Gave Up Peanut Butter Cups Forever"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The French Senate voted this week to ban beauty pageants for children under 16 and to impose up to two years in prison and steep fines of up to $30,000 euros for adults who try to enter children into illegal pageants or run illegal\/underground pageants themselves.",
+    "1":"I wouldn't be here today without Western medicine, but we have a long road to the place where patients have the information they need, where doctors won't hesitate to tell it how it is, and where corporate interests have been purged from public health conversations of massive economic and social importance."
+  },
+  "authors":{
+    "0":"Deborah Cruz, Contributor\nWriter",
+    "1":"Leo Brown, Contributor\nWriter and founder of newfoodculture.com"
+  },
+  "date":{
+    "0":"2013-09-20 00:00:00",
+    "1":"2013-09-20 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "french",
+      "senate",
+      "fra",
+      "usagovleg",
+      "france",
+      "united",
+      "states",
+      "congress",
+      "children",
+      "~cvl",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "doctors",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "french",
+      "children",
+      "senate",
+      "children",
+      "french",
+      "prison",
+      "senate",
+      "prison"
+    ],
+    "1":[
+      "doctors",
+      "doctors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "---",
+      "united states congress",
+      "---",
+      "france",
+      "---",
+      "united states congress",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "voted ... ban",
+      "voted ... ban",
+      "voted ... impose",
+      "voted ... impose"
+    ],
+    "1":[
+      "wo ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "fra",
+      "---cvl",
+      "172",
+      "usagovleg",
+      "---cvl",
+      "172",
+      "fra",
+      "---cop",
+      "170",
+      "usagovleg",
+      "---cop",
+      "170"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ]
+  }
+}

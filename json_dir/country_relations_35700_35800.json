@@ -1,0 +1,296 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/shark-attack-california_us_59067272e4b02655f83e5ef4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-trumps-friend-bombs-people-fighting-isis_us_59077a52e4b05279d4edbe7f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bahrain-takes-severe-hit-at-upr-in-geneva_us_59072985e4b084f59b49fad1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bahrain-takes-severe-hit-at-upr-in-geneva_us_59072985e4b084f59b49fad1",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-rodrigo-duterte-murder-defense_us_5905e5ebe4b05c3976803691",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/delta-pilot-fight_us_59059a5ee4b05c39768025e6",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/harmful-speaker-selected-for-stanford-conference-on_us_59055dace4b084f59b49f9e1"
+  },
+  "headline":{
+    "0":"California Rescuers Use Surf-Leash Tourniquet To Help Shark Attack Victim",
+    "1":"Turkey, Trump's Friend, Bombs People Fighting ISIS, Our Enemy",
+    "2":"Bahrain Takes Severe Hit at UPR in Geneva",
+    "3":"Bahrain Takes Severe Hit at UPR in Geneva",
+    "4":"Trump Administration Defends Inviting President Who Admitted Murdering People To Washington",
+    "5":"Delta Under Fire After Pilot Appears To Hit Passenger",
+    "6":"Harmful Speaker Selected For Stanford Conference On Title IX And Sexual Violence"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"BUSINESS",
+    "6":"WOMEN"
+  },
+  "short_description":{
+    "0":"The \"back of her leg was kind of missing,\" said a witness who rushed to the rescue.",
+    "1":"This Turkish attack represents a clear failure of Donald Trump\u2019s foreign policy.",
+    "2":"Bahrain took a rare public reprimand this morning at its United Nations\u2019 Universal Periodic Review. Countries are assessed",
+    "3":"Bahrain took a rare public reprimand this morning at its United Nations\u2019 Universal Periodic Review. Countries are assessed",
+    "4":"Rodrigo Duterte has presided over thousands of extrajudicial killings -- and done some himself, he's said.",
+    "5":"The company has defended the employee, who it said was breaking up a fight.",
+    "6":"On May 1-2, Stanford University will host \u201cThe Way Forward: Title IX Advocacy in the Trump Era,\u201d a conference for activists"
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Ian Reifowitz, ContributorProfessor of History at SUNY-Empire State College",
+    "2":"Brian Dooley, ContributorSenior Advisor, Human Rights First",
+    "3":"Brian Dooley, ContributorSenior Advisor, Human Rights First",
+    "4":"Nick Baumann",
+    "5":"Alana Horowitz Satlin",
+    "6":"Heidi Howkins Lockwood, Contributorlogician, philosopher, feminist, Title IX activist, former K2 ..."
+  },
+  "date":{
+    "0":"2017-05-01 00:00:00",
+    "1":"2017-05-01 00:00:00",
+    "2":"2017-05-01 00:00:00",
+    "3":"2017-05-01 00:00:00",
+    "4":"2017-04-30 00:00:00",
+    "5":"2017-04-30 00:00:00",
+    "6":"2017-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"tur",
+    "2":"bhr",
+    "3":"bhr",
+    "4":"---gov",
+    "5":"---bus",
+    "6":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"che",
+    "3":"igouno",
+    "4":"---gov",
+    "5":"---lab",
+    "6":"---opp"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"190",
+    "2":"171",
+    "3":"171",
+    "4":"074",
+    "5":"074",
+    "6":"053"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-10.0,
+    "2":-9.2,
+    "3":-9.2,
+    "4":8.5,
+    "5":8.5,
+    "6":3.8
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "turkey",
+      "tur",
+      "turkey",
+      "people",
+      "~ppl",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "bahrain",
+      "bhr",
+      "bahrain",
+      "geneva",
+      "che",
+      "switzerland"
+    ],
+    "3":[
+      "bahrain",
+      "bhr",
+      "bahrain",
+      "united nations",
+      "igouno",
+      "united",
+      "nations"
+    ],
+    "4":[
+      "administration",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "company",
+      "~bus",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "6":[
+      "university",
+      "~edu",
+      "~",
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "victim"
+    ],
+    "1":[
+      "turkey",
+      "people"
+    ],
+    "2":[
+      "bahrain",
+      "geneva"
+    ],
+    "3":[
+      "bahrain",
+      "united nations"
+    ],
+    "4":[
+      "administration",
+      "administration"
+    ],
+    "5":[
+      "company",
+      "employee"
+    ],
+    "6":[
+      "university",
+      "activists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "turkey",
+      "---"
+    ],
+    "2":[
+      "bahrain",
+      "switzerland"
+    ],
+    "3":[
+      "bahrain",
+      "united nations"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "use ... help"
+    ],
+    "1":[
+      "bombs"
+    ],
+    "2":[
+      "takes"
+    ],
+    "3":[
+      "took"
+    ],
+    "4":[
+      "defends"
+    ],
+    "5":[
+      "has defended"
+    ],
+    "6":[
+      "will host ... conference"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "postsecondary_education",
+      "1",
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "tur",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "bhr",
+      "che",
+      "171"
+    ],
+    "3":[
+      "bhr",
+      "igouno",
+      "171"
+    ],
+    "4":[
+      "---gov",
+      "---gov",
+      "074"
+    ],
+    "5":[
+      "---bus",
+      "---lab",
+      "074"
+    ],
+    "6":[
+      "---edu",
+      "---opp",
+      "053"
+    ]
+  }
+}

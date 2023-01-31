@@ -1,0 +1,278 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/ukraine-repels-russian-attacks_n_6273ab67e4b00fbab62a8fbf",
+    "1":"https:\/\/www.huffpost.com\/entry\/mark-meadows-jan-6-panel-vilify_n_626da0dce4b029505df30a96",
+    "2":"https:\/\/www.huffpost.com\/entry\/russia-ukraine-blinken-austin_n_626442fae4b0dc52f4973590",
+    "3":"https:\/\/www.huffpost.com\/entry\/larry-nassar-victims-sue-fbi_n_62617665e4b054f7ade7924d",
+    "4":"https:\/\/www.huffpost.com\/entry\/larry-nassar-victims-sue-fbi_n_62617665e4b054f7ade7924d",
+    "5":"https:\/\/www.huffpost.com\/entry\/russia-ukraine-war-donbas_n_625e54dae4b0be72bff9d6f5"
+  },
+  "headline":{
+    "0":"Ukraine Repels Russian Attacks As Mariupol Steel Plant Battle Rages",
+    "1":"Mark Meadows Says Jan. 6 Panel Leaked Texts To 'Vilify' Him",
+    "2":"Zelenskyy Says He's Meeting With US Officials Blinken, Austin",
+    "3":"13 Nassar Victims Seeking $130 Million From FBI Over Bungled Probe",
+    "4":"13 Nassar Victims Seeking $130 Million From FBI Over Bungled Probe",
+    "5":"Russia Launches Fight For Industrial Heartland, Ukraine Says"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"U.S. NEWS",
+    "4":"U.S. NEWS",
+    "5":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Belarus President Alexander Lukashenko said he hadn\u2019t expected the Russian offensive to \u201cdrag on this way,\u201d in an interview with The Associated Press.",
+    "1":"The former Trump White House chief of staff also accused the committee of of waging a \u201csustained media campaign\u201d against him.",
+    "2":"Ukraine\u2019s president says he will meet Sunday in Kyiv with the U.S. secretary of state and secretary of defense.",
+    "3":"Thirteen sexual assault victims are seeking $10 million each from the FBI.",
+    "4":"Thirteen sexual assault victims are seeking $10 million each from the FBI.",
+    "5":"Moscow has declared the capture of the Donbas to be its main goal in the war since its attempt to seize the capital, Kyiv, failed."
+  },
+  "authors":{
+    "0":"Jon Gambrell and Cara Anna, AP",
+    "1":"Eric Tucker, AP",
+    "2":"The Associated Press, AP",
+    "3":"ED WHITE, AP",
+    "4":"ED WHITE, AP",
+    "5":"Yuras Karmanau, AP"
+  },
+  "date":{
+    "0":"2022-05-05 00:00:00",
+    "1":"2022-04-30 00:00:00",
+    "2":"2022-04-23 00:00:00",
+    "3":"2022-04-21 00:00:00",
+    "4":"2022-04-21 00:00:00",
+    "5":"2022-04-19 00:00:00"
+  },
+  "actor1":{
+    "0":"blrgov",
+    "1":"---gov",
+    "2":"ukrgov",
+    "3":"---cvl",
+    "4":"---cvl",
+    "5":"rus"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"---med",
+    "2":"ukr",
+    "3":"usacop",
+    "4":"usacop",
+    "5":"ukr"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"112",
+    "2":"040",
+    "3":"030",
+    "4":"030",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":1.0,
+    "3":4.0,
+    "4":4.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "belarus",
+      "president",
+      "blrgov",
+      "belarus",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "associated press",
+      "med",
+      "associated",
+      "press"
+    ],
+    "1":[
+      "chief of staff",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "ukraine",
+      "president",
+      "ukrgov",
+      "ukraine",
+      "~",
+      "kyiv",
+      "ukr",
+      "ukraine",
+      "state secretary",
+      "~gov",
+      "~",
+      "u.s.",
+      "secretary of state",
+      "secretary of defense",
+      "usagovmil",
+      "usagovgovmil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "~"
+    ],
+    "3":[
+      "victims",
+      "~cvl",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "4":[
+      "victims",
+      "~cvl",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "5":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "donbas",
+      "ukr",
+      "ukraine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "belarus president",
+      "russian"
+    ],
+    "1":[
+      "chief of staff",
+      "media"
+    ],
+    "2":[
+      "ukraine ... president",
+      "kyiv"
+    ],
+    "3":[
+      "victims",
+      "fbi"
+    ],
+    "4":[
+      "victims",
+      "fbi"
+    ],
+    "5":[
+      "moscow",
+      "donbas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "belarus",
+      "russian federation"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "ukraine",
+      "ukraine"
+    ],
+    "3":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "4":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "5":[
+      "russian federation",
+      "ukraine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... had ... expected"
+    ],
+    "1":[
+      "accused"
+    ],
+    "2":[
+      "says ... will meet"
+    ],
+    "3":[
+      "seeking"
+    ],
+    "4":[
+      "are seeking"
+    ],
+    "5":[
+      "has declared"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "blrgov",
+      "rus",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "---med",
+      "112"
+    ],
+    "2":[
+      "ukrgov",
+      "ukr",
+      "040"
+    ],
+    "3":[
+      "---cvl",
+      "usacop",
+      "030"
+    ],
+    "4":[
+      "---cvl",
+      "usacop",
+      "030"
+    ],
+    "5":[
+      "rus",
+      "ukr",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/boston-teachers-cultural-competency_us_5605940ce4b0dd8503077620",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/colleges-student-startups_us_560956e2e4b0768126fe21f5"
+  },
+  "headline":{
+    "0":"Boston Teachers Visit Students' Countries Of Origin To Bridge Cultural Divide",
+    "1":"Colleges Offer Free Legal Help To Students' Startups"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"COLLEGE"
+  },
+  "short_description":{
+    "0":"With students from more than 100 different countries, Boston is one of the nation's most diverse districts.",
+    "1":"MIT wants to make sure their students aren't stopped by state investigations, again."
+  },
+  "authors":{
+    "0":"Joseph Erbentraut",
+    "1":"COLLIN BINKLEY, AP"
+  },
+  "date":{
+    "0":"2015-09-28 00:00:00",
+    "1":"2015-09-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"usaedu",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "boston",
+      "teachers",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "colleges",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "boston teachers",
+      "boston teachers",
+      "students"
+    ],
+    "1":[
+      "colleges",
+      "colleges"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visit",
+      "visit"
+    ],
+    "1":[
+      "offer ... help"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usaedu",
+      "043",
+      "usaedu",
+      "---edu",
+      "042"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "030"
+    ]
+  }
+}

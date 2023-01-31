@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/google-samsung-patent_us_5bb36e4ce4b0fa920b98a6d7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-lesson-for-dr-kim-and-world-bank_us_5bb14f78e4b09bbe9a5e3ae2"
+  },
+  "headline":{
+    "0":"Google Isn't Going To Sue Samsung Like Apple",
+    "1":"A Lesson for Dr. Kim and the World Bank as It Ponders the Kosovo Coal Project"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The deal covers patents currently owned by the companies, as well as any filed in the next 10 years, the companies said in",
+    "1":"As Dr. Kim and the World Bank prepare for the Kosovo project there is one question that Kosovars should be asking: Is the World Bank willing to pay for the costs of the inevitable overrun, or like the Slovenians, will the citizens of Kosovo be stuck with the check?"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Justin Guay, Contributor\nClimate and Energy at the ClimateWorks Foundation. All Views m..."
+  },
+  "date":{
+    "0":"2014-01-26 00:00:00",
+    "1":"2014-01-26 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"igounodevwbk"
+  },
+  "actor2":{
+    "0":"mnckor",
+    "1":"ksv"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "google",
+      "mncusamed",
+      "google",
+      "samsung",
+      "mnckor",
+      "samsung"
+    ],
+    "1":[
+      "world bank",
+      "igounodevwbk",
+      "world",
+      "bank",
+      "kosovo",
+      "ksv",
+      "kosovo"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "google",
+      "samsung"
+    ],
+    "1":[
+      "world bank",
+      "kosovo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "google",
+      "samsung"
+    ],
+    "1":[
+      "world bank",
+      "kosovo"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... going"
+    ],
+    "1":[
+      "ponders"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "int_financial_inst",
+      "1",
+      "coal",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "mnckor",
+      "040"
+    ],
+    "1":[
+      "igounodevwbk",
+      "ksv",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-19_b_5460671.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-19_b_5460671.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-lewis-to-young-leade_b_5462763.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/in-the-pursuit-of-romance_b_5247364.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-america-cyberspying_b_5435962.html"
+  },
+  "headline":{
+    "0":"Weekend Roundup: The New China Faces the 'New Japanese'",
+    "1":"Weekend Roundup: The New China Faces the 'New Japanese'",
+    "2":"John Lewis to Young Leaders: Get in 'Necessary Trouble'",
+    "3":"In the Pursuit of Romance: Why Women Should Go After Men",
+    "4":"The Impending 'Peaceful War' Between China and America Over Cyberspying"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"WOMEN",
+    "4":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"A furious war of words was unleashed at the Shangri-La Dialogue security conference in Singapore last weekend. The U.S. and Japan accused China of trying to change the status quo by coercion and intimidation; the Chinese accused Japan and the U.S. of inciting instability with its \"20th century mentality\" of war and conflict. Following up on his comments in Singapore, Japanese Prime Minister Shinzo Abe  writes in The WorldPost that China ought to abide by the rule of law in the seas of Asia and calls for negotiations.  Recalling the experience of World War II, Shanghai scholar\/entrepreneur Eric X. Li  mocks Abe's pledge in Singapore that the \"new Japanese\" will help their neighbors resist Beijing. The great danger now, writes the Australian scholar Hugh White , is that the ground is being laid for a catastrophic clash since both sides in this conflict assume incorrectly that the other will back down. South Korea's Foreign Minister Yun Byung-se  fears a \"Pandora's box\" is being opened in Asia. Marking the 25 years since the Tiananmen massacre, China scholar Perry Link worries that Xi Jinping is becoming \"a Mao-like strongman.\"(continued)",
+    "1":"A furious war of words was unleashed at the Shangri-La Dialogue security conference in Singapore last weekend. The U.S. and Japan accused China of trying to change the status quo by coercion and intimidation; the Chinese accused Japan and the U.S. of inciting instability with its \"20th century mentality\" of war and conflict. Following up on his comments in Singapore, Japanese Prime Minister Shinzo Abe  writes in The WorldPost that China ought to abide by the rule of law in the seas of Asia and calls for negotiations.  Recalling the experience of World War II, Shanghai scholar\/entrepreneur Eric X. Li  mocks Abe's pledge in Singapore that the \"new Japanese\" will help their neighbors resist Beijing. The great danger now, writes the Australian scholar Hugh White , is that the ground is being laid for a catastrophic clash since both sides in this conflict assume incorrectly that the other will back down. South Korea's Foreign Minister Yun Byung-se  fears a \"Pandora's box\" is being opened in Asia. Marking the 25 years since the Tiananmen massacre, China scholar Perry Link worries that Xi Jinping is becoming \"a Mao-like strongman.\"(continued)",
+    "2":"Not every speaker tells a crowd of young leaders that their job is to get into trouble. But that's part of the message iconic civil rights warrior and now Congressman John Lewis (D-GA) conveyed to students this week.",
+    "3":"If Daisy Miller taught us anything, it's that being seduced by chiseled Italian men will lead to dying from malaria. Lizzie McGuire thought she could prove this b*tch wrong, so she went ahead, fell in love with her own Giovanelli and found that he was actually a fake. Lesson learned, right?",
+    "4":"Unlike the Cold War period -- in which the Soviet Union was isolated from the global economy -- commercial interests and trade secrets underpin the intrinsically entangled Sino-American economic relations. The higgledy-piggledy distinction between national security and corporate interests is hardly convincing to the Chinese, especially when the US revolving doors conveniently inhabit the space between government service and corporations during both Democratic and Republican administrations. Just like the Sino-American relations in commercial intercourse, economics triumphs over ideology in the partisan world of American politics. On China's side, its intertwined national and economic interests are enshrined in the peculiar institution of the State-Owned Enterprises (SOEs)."
+  },
+  "authors":{
+    "0":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "1":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "2":"Marian Wright Edelman, ContributorPresident, Children's Defense Fund",
+    "3":"Unwritten, ContributorOnline fashion and lifestyle destination",
+    "4":"Patrick Mendis, ContributorDistinguished Sr. Fellow, George Mason University"
+  },
+  "date":{
+    "0":"2014-06-06 00:00:00",
+    "1":"2014-06-06 00:00:00",
+    "2":"2014-06-06 00:00:00",
+    "3":"2014-06-05 00:00:00",
+    "4":"2014-06-05 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"usa",
+    "2":"---leg",
+    "3":"---cvl",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"jpn",
+    "1":"chn",
+    "2":"---edu",
+    "3":"---ppl",
+    "4":"---govbus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"112",
+    "2":"010",
+    "3":"040",
+    "4":"192"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":1.0,
+    "4":-9.5
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china",
+      "japanese",
+      "jpn",
+      "japan"
+    ],
+    "1":[
+      "u.s.",
+      "japan",
+      "usa",
+      "jpn",
+      "united",
+      "states",
+      "of",
+      "america",
+      "japan",
+      "china",
+      "chn",
+      "china",
+      "chinese",
+      "chn",
+      "china",
+      "japan",
+      "u.s.",
+      "jpn",
+      "usa",
+      "japan",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "congressman",
+      "~leg",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "the us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "government",
+      "~gov",
+      "~",
+      "administrations",
+      "~gov",
+      "~",
+      "government",
+      "corporations",
+      "administrations",
+      "~govbus",
+      "~",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "japanese"
+    ],
+    "1":[
+      "u.s.",
+      "china",
+      "japan",
+      "china",
+      "china",
+      "japan",
+      "china",
+      "u.s."
+    ],
+    "2":[
+      "congressman",
+      "students"
+    ],
+    "3":[
+      "women",
+      "men"
+    ],
+    "4":[
+      "the ... us",
+      "government ... corporations ... administrations"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "japan"
+    ],
+    "1":[
+      "united states of america",
+      "china",
+      "japan",
+      "china",
+      "china",
+      "japan",
+      "china",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ],
+    "1":[
+      "accused",
+      "accused",
+      "accused",
+      "accused"
+    ],
+    "2":[
+      "conveyed"
+    ],
+    "3":[
+      "should go"
+    ],
+    "4":[
+      "inhabit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "human_rights",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "chn",
+      "jpn",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "chn",
+      "112",
+      "jpn",
+      "chn",
+      "112",
+      "chn",
+      "jpn",
+      "112",
+      "chn",
+      "usa",
+      "112"
+    ],
+    "2":[
+      "---leg",
+      "---edu",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---ppl",
+      "040"
+    ],
+    "4":[
+      "usa",
+      "---govbus",
+      "192"
+    ]
+  }
+}

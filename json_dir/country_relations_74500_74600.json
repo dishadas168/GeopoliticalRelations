@@ -1,0 +1,242 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-and-hillary-clinton-lead-iowa-caucus-poll_us_56ad35ace4b0010e80ea5b58",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/computer-science-for-all_us_56abe38be4b00b033aaf3689",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/01\/30\/world\/asia\/beijing-women-legal-aid-guo-jianmei.html?emc=eta1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/chicago-police-training_us_56abc02ce4b00b033aaf0772",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/chicago-police-training_us_56abc02ce4b00b033aaf0772"
+  },
+  "headline":{
+    "0":"Donald Trump And Hillary Clinton Lead Iowa Caucus Poll",
+    "1":"Obama Wants More Girls And Kids Of Color To Learn Computer Science",
+    "2":"China Orders Leading Women's Legal Aid Center To Shut Down",
+    "3":"Chicago Announces New Police Training For Dealing With Mentally Ill",
+    "4":"Chicago Announces New Police Training For Dealing With Mentally Ill"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Ted Cruz and Bernie Sanders lag behind in the final poll before Monday's caucuses.",
+    "1":"The White House has a new plan to get students involved in the important subject.",
+    "2":"The Chinese authorities have ordered a leading women\u2019s legal aid center in Beijing to shut down operations, the center\u2019s",
+    "3":"The U.S. Justice Department is currently investigating the Chicago police's use of deadly force, among other issues.",
+    "4":"The U.S. Justice Department is currently investigating the Chicago police's use of deadly force, among other issues."
+  },
+  "authors":{
+    "0":"Janie Velencia and Natalie Jackson",
+    "1":"Rebecca Klein",
+    "2":"",
+    "3":"Mary Wisniewski, Reuters",
+    "4":"Mary Wisniewski, Reuters"
+  },
+  "date":{
+    "0":"2016-01-30 00:00:00",
+    "1":"2016-01-30 00:00:00",
+    "2":"2016-01-30 00:00:00",
+    "3":"2016-01-29 00:00:00",
+    "4":"2016-01-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usagov",
+    "2":"---cvl",
+    "3":"usa",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"chn",
+    "3":"---cop",
+    "4":"usacop"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"030",
+    "2":"043",
+    "3":"010",
+    "4":"090"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":4.0,
+    "2":2.8,
+    "3":0.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "china",
+      "chn",
+      "china",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chicago",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "iowa"
+    ],
+    "1":[
+      "obama",
+      "girls"
+    ],
+    "2":[
+      "women",
+      "china",
+      "china",
+      "women"
+    ],
+    "3":[
+      "chicago",
+      "police"
+    ],
+    "4":[
+      "u.s.",
+      "chicago police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "---",
+      "china",
+      "china",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lead"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "leading ... to",
+      "leading ... to"
+    ],
+    "3":[
+      "announces"
+    ],
+    "4":[
+      "is ... investigating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "---cvl",
+      "chn",
+      "043",
+      "chn",
+      "---cvl",
+      "042"
+    ],
+    "3":[
+      "usa",
+      "---cop",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "usacop",
+      "090"
+    ]
+  }
+}

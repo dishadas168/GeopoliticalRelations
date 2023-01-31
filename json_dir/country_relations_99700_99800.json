@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/muslims-and-jews-must-spe_b_6980220.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/for-gay-and-bi-blood-dono_b_7000510.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kansas-welfare_n_7001116.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/converging-in-mcleod-ganj_b_7004358.html"
+  },
+  "headline":{
+    "0":"Muslims and Jews must speak out when Christians are attacked",
+    "1":"For Gay and Bi Blood Donors, New Rules but Same Ban",
+    "2":"Kansas Bans Poor People From Spending Welfare On Cruise Ships",
+    "3":"Converging in McLeod Ganj: Tibet and Taiwan"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"QUEER VOICES",
+    "2":"POLITICS",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"As Christians all over the world mark one of the holiest days of their religious calendar, the Foundation for Ethnic Understanding (FFEU) and the Nusantara Foundation applaud efforts toward communication, reconciliation and cooperation among all faiths.",
+    "1":"Gay and bisexual men want to contribute to America's blood stocks and have a vital role to play in keeping America healthy. We should demand that the FDA change its policy and keep stereotypes out of blood donation sites.",
+    "2":"",
+    "3":"On a warm October day in McLeod Ganj, a town in Northern India nestled between peaks of the outer-Himalayas, the streets were bustling with life. Among the many languages that wove in and out of the bookstores and between the dumpling stands, the most prominent was Mandarin Chinese."
+  },
+  "authors":{
+    "0":"Rabbi Marc Schneier and Imam Shamsi Ali, Contributors",
+    "1":"Kelsey Louie and Sarah Kate Ellis, Contributors",
+    "2":"Arthur Delaney",
+    "3":"China Hands, ContributorFor Future Leaders in US-China Relations"
+  },
+  "date":{
+    "0":"2015-04-05 00:00:00",
+    "1":"2015-04-04 00:00:00",
+    "2":"2015-04-04 00:00:00",
+    "3":"2015-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---musjew",
+    "1":"---ppl",
+    "2":"usa",
+    "3":"chn"
+  },
+  "actor2":{
+    "0":"---chr",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"twn"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"033",
+    "2":"172",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":5.2,
+    "2":-5.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "muslims",
+      "jews",
+      "~musjew",
+      "~",
+      "~",
+      "christians",
+      "~chr",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "tibet",
+      "taiwan",
+      "chn",
+      "twn",
+      "china",
+      "taiwan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "muslims ... jews",
+      "christians"
+    ],
+    "1":[
+      "men",
+      "america"
+    ],
+    "2":[
+      "kansas",
+      "people"
+    ],
+    "3":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must speak <~chr> ... attacked"
+    ],
+    "1":[
+      "want ... contribute"
+    ],
+    "2":[
+      "bans"
+    ],
+    "3":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "2"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---musjew",
+      "---chr",
+      "015"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "033"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "172"
+    ],
+    "3":[
+      "chn",
+      "twn",
+      "040",
+      "twn",
+      "chn",
+      "040"
+    ]
+  }
+}

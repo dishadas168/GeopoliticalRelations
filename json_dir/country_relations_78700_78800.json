@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yahoo-boss-marissa-mayer-gives-birth-to-identical-twins_us_5669b2f8e4b080eddf574654",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/microsoft-presidential-election-bing_us_56686116e4b080eddf56761a"
+  },
+  "headline":{
+    "0":"Yahoo Boss Marissa Mayer Gives Birth To Identical Twin Girls",
+    "1":"Microsoft Is Trying To Predict The Next President"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"But expect her to head back into the office soon.",
+    "1":"Its new Bing Political Index will also help you compare the candidates."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Alexander Howard"
+  },
+  "date":{
+    "0":"2015-12-10 00:00:00",
+    "1":"2015-12-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"mncusa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "boss",
+      "~bus",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "boss",
+      "girls"
+    ],
+    "1":[
+      "microsoft",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "microsoft",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "is ... predict"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "mncusa",
+      "---gov",
+      "010"
+    ]
+  }
+}

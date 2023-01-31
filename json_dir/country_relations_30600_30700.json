@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jordan-edwards-police-shooting_us_595515bce4b0da2c7321b7f3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/5-myths-about-medicaid-that-i-no-longer-believe_us_595587e7e4b0f078efd9887d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/naacp-charter-schools_us_5952ea88e4b0da2c731f7cb7"
+  },
+  "headline":{
+    "0":"Nobody Was Drinking At The Party Where Police Killed Jordan Edwards",
+    "1":"5 Myths About Medicaid That I No Longer Believe",
+    "2":"Inside The NAACP\u2019s Fight To Stop Betsy DeVos From Expanding Charter Schools"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"A new report reveals that officers didn't find any contraband before one of them fatally shot the 15-year-old.",
+    "1":"Tomorrow morning, a social worker is coming to our house so we can formulate Ben\u2019s plan of care for the Children\u2019s Waiver",
+    "2":"The nation's oldest civil rights organization is gearing up for a bigger battle with education reformers."
+  },
+  "authors":{
+    "0":"Andy Campbell",
+    "1":"Alethea Mshar, ContributorI'm a writer, a runner, and a special needs mom.",
+    "2":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2017-06-29 00:00:00",
+    "1":"2017-06-29 00:00:00",
+    "2":"2017-06-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---hlh",
+    "2":"meareb"
+  },
+  "actor2":{
+    "0":"jor",
+    "1":"---hlh",
+    "2":"---opp"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "jordan",
+      "jor",
+      "jordan"
+    ],
+    "1":[
+      "social worker",
+      "~hlh",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "reformers",
+      "~opp",
+      "~",
+      "reformers",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "jordan"
+    ],
+    "1":[
+      "social worker",
+      "social worker"
+    ],
+    "2":[
+      "organization",
+      "reformers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "jordan"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "tanzim",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "is <['gearing',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "human_rights",
+      "1",
+      "education_reform",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "jor",
+      "190"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "040"
+    ],
+    "2":[
+      "meareb",
+      "---opp",
+      "030"
+    ]
+  }
+}

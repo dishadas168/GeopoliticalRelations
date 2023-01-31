@@ -1,0 +1,173 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_330_b_5179424.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cubas-culture-of-violence_b_5180610.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/politics-the-constitution_b_5180627.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Cuba's Culture of Violence: A Dangerous Spiral",
+    "2":"Politics, the Constitution and the Roberts Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week began the way so many do: with more tragic gun violence, as three people were killed in two shootings at Jewish centers in the Kansas City area, part of the 86 killed by guns in the U.S. every day. \"We are united in our condemnation of this heinous attack,\" said Attorney General Holder. \"These acts cannot be ignored.\" And yet, one year ago this month, the Senate rejected even a modest background check bill, despite the support of 90 percent of Americans. In the wake of the Kansas shootings, Michael Bloomberg's $50 million gun control effort, \"Everytown for Gun Safety,\" unveiled its first ad. We \"have another chance to stop a child from being killed,\" it said. We do, but only if we refuse to lower our expectations. As Gabriel Garc\u00eda M\u00e1rquez, who died on Thursday, wrote, \"It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams.\"",
+    "1":"A woman hits a child, who appears to be her son, on one corner. A hundred yards further on, two men get in a fight because one stepped on the other's shoe. I arrive home thinking about this aggressiveness, just under the skin, that I feel in the street.",
+    "2":"The \"conservative\" justices on the Roberts Court are often passionately restrained in their interpretation of the Constitution in precisely the cases in which a more muscular form of judicial review is most appropriate -- those involving discrimination against African Americans, women, Hispanics, religious dissenters, gays and lesbians, persons accused of crime, and denial of the right to vote to minorities and the poor. In these cases, our contemporary \"conservative\" justices often err on the side of upholding laws that even Philip Kurland would have found unconstitutional. This is, in my view, a sad state of affairs."
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Yoani Sanchez, ContributorPublisher of 14ymedio, independent newspaper in Cuba",
+    "2":"Geoffrey R. Stone, ContributorEdward H. Levi Distinguished Service Professor of Law, Univers..."
+  },
+  "date":{
+    "0":"2014-04-20 00:00:00",
+    "1":"2014-04-20 00:00:00",
+    "2":"2014-04-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---jew",
+    "1":"---cvl",
+    "2":"---cvlopp"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "jewish",
+      "~jew",
+      "~",
+      "jewish",
+      "~jew",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "court",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~",
+      "women",
+      "dissenters",
+      "~cvlopp",
+      "~",
+      "~",
+      "women",
+      "dissenters",
+      "persons",
+      "~cvlopp",
+      "~",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jewish",
+      "people",
+      "u.s.",
+      "people"
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ],
+    "2":[
+      "women ... dissenters",
+      "court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... killed in <~jew> ... in <usa>",
+      "<~ppl> ... killed in <~jew> ... in <usa>"
+    ],
+    "1":[
+      "hits"
+    ],
+    "2":[
+      "<~jud> ... restrained in <---> ... in <~cvlopp>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "discrimination",
+      "1",
+      "lgbt",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jew",
+      "---ppl",
+      "190",
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "---cvlopp",
+      "---jud",
+      "170"
+    ]
+  }
+}

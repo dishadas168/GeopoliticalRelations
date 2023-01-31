@@ -1,0 +1,162 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chinese-spy-ship-us_us_57613f05e4b05e4be8603bc7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/beauty-bloggers-orlando-tribute_us_576032dfe4b071ec19ef48b3",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.npr.org\/sections\/codeswitch\/2016\/06\/13\/481853353\/what-queer-muslims-are-saying-about-the-orlando-shooting"
+  },
+  "headline":{
+    "0":"Chinese Spy Ship 'Shadowing' U.S. Navy Vessel",
+    "1":"The Stunning Way Beauty Bloggers Are Paying Tribute To Orlando",
+    "2":"Here's What Queer Muslims Are Saying About The Orlando Shooting"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"STYLE",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"The United States is conducting joint exercises with Japan and India in the Western Pacific.",
+    "1":"",
+    "2":"Sunday began with one of the deadliest shootings in American history \u2014 at least 49 people were killed and more than 50 were"
+  },
+  "authors":{
+    "0":"Nobuhiro Kubo, Reuters",
+    "1":"Madelyn Chung, HuffPost Canada",
+    "2":""
+  },
+  "date":{
+    "0":"2016-06-15 00:00:00",
+    "1":"2016-06-14 00:00:00",
+    "2":"2016-06-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---med",
+    "2":"---mus"
+  },
+  "actor2":{
+    "0":"jpn",
+    "1":"usa",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"017",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "japan",
+      "india",
+      "jpn",
+      "ind",
+      "japan",
+      "india"
+    ],
+    "1":[
+      "bloggers",
+      "~med",
+      "~",
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "muslims",
+      "~mus",
+      "~",
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the united states",
+      "japan",
+      "the united states",
+      "india"
+    ],
+    "1":[
+      "bloggers",
+      "orlando"
+    ],
+    "2":[
+      "muslims",
+      "orlando"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "japan",
+      "united states of america",
+      "india"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is conducting",
+      "is conducting"
+    ],
+    "1":[
+      "are paying tribute"
+    ],
+    "2":[
+      "are saying"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "jpn",
+      "060",
+      "usa",
+      "ind",
+      "060"
+    ],
+    "1":[
+      "---med",
+      "usa",
+      "017"
+    ],
+    "2":[
+      "---mus",
+      "usa",
+      "010"
+    ]
+  }
+}

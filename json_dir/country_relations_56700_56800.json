@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sexist-dictionary-definitions_us_57c59757e4b0cdfc5ac93cd6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-led-coalition-planes-hit-isis-in-syria-turkey-says_us_57c5810ae4b0cdfc5ac91456",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brazils-free-school-food-program-helps-local-farmers-stay-in-business_us_57c5d30fe4b0cdfc5ac9c150"
+  },
+  "headline":{
+    "0":"It\u2019s 2016, And Even The Dictionary Is Full Of Sexist Disses",
+    "1":"US-Led Coalition Planes Hit ISIS In Syria, Turkey Says",
+    "2":"Brazil's Free School Meal Program Helps Local Farmers Stay In Business"
+  },
+  "category":{
+    "0":"ARTS & CULTURE",
+    "1":"THE WORLDPOST",
+    "2":"IMPACT"
+  },
+  "short_description":{
+    "0":"Google\u2019s dictionary results yield anti-woman example sentences, including \"nagging\" wives and \"conniving\" women.",
+    "1":"It's all part of a Turkish push in northern Syria.",
+    "2":"The program guarantees them a local market and has helped to expand formal land rights."
+  },
+  "authors":{
+    "0":"Maddie Crum",
+    "1":"",
+    "2":"Eleanor Goldberg"
+  },
+  "date":{
+    "0":"2016-08-30 00:00:00",
+    "1":"2016-08-30 00:00:00",
+    "2":"2016-08-30 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"usa",
+    "2":"bra"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"imgmusisi",
+    "2":"---agr"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"195",
+    "2":"070"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-10.0,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "google",
+      "mncusamed",
+      "google",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "brazil",
+      "bra",
+      "brazil",
+      "farmers",
+      "~agr",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "google",
+      "women"
+    ],
+    "1":[
+      "us",
+      "isis"
+    ],
+    "2":[
+      "brazil",
+      "farmers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "google",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "the islamic state"
+    ],
+    "2":[
+      "brazil",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "yield"
+    ],
+    "1":[
+      "<&aircraft> ... hit"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1",
+      "agriculture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "usa",
+      "imgmusisi",
+      "195"
+    ],
+    "2":[
+      "bra",
+      "---agr",
+      "070"
+    ]
+  }
+}

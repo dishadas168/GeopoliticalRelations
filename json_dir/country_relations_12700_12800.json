@@ -1,0 +1,420 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/activists-rally-behind-bipartisan-effort-to-have-senate-vote-on-brutal-yemen-war_us_5aa1acf4e4b086698a9bf062",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-warren-democratic-party-donation_us_5aa0e9ede4b002df2c60c878",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/new-hampshire-transgender-anti-discrimination-bill_us_5aa0c62de4b0d4f5b66d5a88",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/55-incredible-photos-of-girls-going-to-school-around-the-world_us_5aa01a8de4b002df2c6014da",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-parkland_us_5a9ffdfae4b002df2c5fbce3",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/idaho-transgender-birth-certificate-ruling_us_5a9f9c41e4b0d4f5b66b9ca5",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/kris-kobach-voter-fraud_us_5aa001eee4b002df2c5fc54a",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/gary-oldmans-son-domestic-abuse-didnt-happen_us_5a9fe846e4b0e9381c1412bf",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/google-features-12-female-artists-to-celebrate-international-womens-day_us_5a9ef2b3e4b0d4f5b66b19a6",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/mennonite-woman-jailed-for-refusing-to-testify-in-death-penalty-appeal_us_5a9f1fb0e4b0d4f5b66b436b"
+  },
+  "headline":{
+    "0":"Activists Rally Behind Bipartisan Effort To Have Senate Vote On Brutal Yemen War",
+    "1":"Elizabeth Warren Just Made Donations To Dems In All 50 States",
+    "2":"New Hampshire House Votes To Protect Transgender People From Discrimination",
+    "3":"55 Incredible Photos Of Girls Going To School Around The World",
+    "4":"Parkland Students Disappointed In Betsy DeVos' Brief Visit To Their School",
+    "5":"Idaho Transgender Community Celebrates Victory In Birth Certificate Ruling",
+    "6":"Kris Kobach Admits White House's Idea For Identifying Voter Fraud Wasn't A Good One",
+    "7":"Gary Oldman's Son Says Actor's Alleged Domestic Abuse \u2018Didn\u2019t Happen\u2019",
+    "8":"Google Features 12 Female Artists To Celebrate International Women's Day",
+    "9":"Mennonite Woman Jailed For Refusing To Testify In Death Penalty Appeal"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"QUEER VOICES",
+    "3":"WOMEN",
+    "4":"POLITICS",
+    "5":"QUEER VOICES",
+    "6":"POLITICS",
+    "7":"ENTERTAINMENT",
+    "8":"WOMEN",
+    "9":"POLITICS"
+  },
+  "short_description":{
+    "0":"Meanwhile, the Trump administration is stepping up its fight against the bill, planning a special classified briefing on Yemen for all senators next week.",
+    "1":"The senator gave $5,000 to every state Democratic Party in the country for a total of $250,000.",
+    "2":"Lawmakers voted to prohibit discrimination based on gender identity, marking another major win for transgender rights this week.",
+    "3":"Happy International Women's Day!",
+    "4":"Stoneman Douglas students said on social media that the education secretary met with few students and barely responded to their questions.",
+    "5":"A federal judge in Boise ruled this week that barring transgender people from changing the assigned gender in their birth certificates is unconstitutional.",
+    "6":"The White House wanted to check voter information against federal databases to identify people who were on voting rolls illegally.",
+    "7":"The Oscar-winning actor's ex-wife claims he assaulted her, but their eldest son insists she's lying.",
+    "8":"Happy Women's History Month!",
+    "9":"The Colorado private investigator who helped defend a condemned killer says religious beliefs prevent her from testifying for the prosecution."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"Dominique Mosbergen and Daniel Marans",
+    "2":"Dominique Mosbergen",
+    "3":"Alanna Vagianos and Damon Dahlen",
+    "4":"Marina Fang",
+    "5":"Dominique Mosbergen",
+    "6":"Sam Levine",
+    "7":"Cole Delbyck",
+    "8":"Alanna Vagianos",
+    "9":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2018-03-08 00:00:00",
+    "1":"2018-03-08 00:00:00",
+    "2":"2018-03-08 00:00:00",
+    "3":"2018-03-08 00:00:00",
+    "4":"2018-03-07 00:00:00",
+    "5":"2018-03-07 00:00:00",
+    "6":"2018-03-07 00:00:00",
+    "7":"2018-03-07 00:00:00",
+    "8":"2018-03-07 00:00:00",
+    "9":"2018-03-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---leg",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"---edu",
+    "5":"---jud",
+    "6":"usagov",
+    "7":"---eli",
+    "8":"mncusamed",
+    "9":"usa"
+  },
+  "actor2":{
+    "0":"yemleg",
+    "1":"---pty",
+    "2":"---ppl",
+    "3":"---edu",
+    "4":"---med",
+    "5":"---ppl",
+    "6":"---cvl",
+    "7":"---eli",
+    "8":"---cvl",
+    "9":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060",
+    "2":"0334",
+    "3":"040",
+    "4":"010",
+    "5":"160",
+    "6":"090",
+    "7":"015",
+    "8":"051",
+    "9":"011"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0,
+    "2":6.0,
+    "3":1.0,
+    "4":0.0,
+    "5":-4.0,
+    "6":-2.0,
+    "7":0.0,
+    "8":3.4,
+    "9":-0.1
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "yemen",
+      "yem",
+      "yemen",
+      "senators",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~",
+      "democratic party",
+      "~pty",
+      "~"
+    ],
+    "2":[
+      "new hampshire",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "students",
+      "~edu",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "education secretary",
+      "~govedu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "federal judge",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "6":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "voter",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "7":[
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "8":[
+      "google",
+      "mncusamed",
+      "google",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "9":[
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "---"
+    ],
+    "1":[
+      "senator",
+      "democratic party"
+    ],
+    "2":[
+      "new hampshire",
+      "people"
+    ],
+    "3":[
+      "girls",
+      "school"
+    ],
+    "4":[
+      "students",
+      "media"
+    ],
+    "5":[
+      "federal judge",
+      "people"
+    ],
+    "6":[
+      "the white house",
+      "voter"
+    ],
+    "7":[
+      "actor",
+      "actor"
+    ],
+    "8":[
+      "google",
+      "women"
+    ],
+    "9":[
+      "colorado",
+      "colorado"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "white house",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "google",
+      "---"
+    ],
+    "9":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is <['stepping',> <'up',> <'-> <*> <&fight>                                            <[138]>         <#> <step_up']> ... planning"
+    ],
+    "1":[
+      "gave"
+    ],
+    "2":[
+      "votes ... protect"
+    ],
+    "3":[
+      "going"
+    ],
+    "4":[
+      "said"
+    ],
+    "5":[
+      "ruled ... barring ... from"
+    ],
+    "6":[
+      "wanted ... check <&information>"
+    ],
+    "7":[
+      "claims ... assaulted"
+    ],
+    "8":[
+      "features ... celebrate"
+    ],
+    "9":[
+      "says ... prevent"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":[
+      "lgbt",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":[
+      "students",
+      "2"
+    ],
+    "5":[
+      "lgbt",
+      "1"
+    ],
+    "6":[
+      "election",
+      "1"
+    ],
+    "7":null,
+    "8":null,
+    "9":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "yemleg",
+      "030"
+    ],
+    "1":[
+      "---leg",
+      "---pty",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "0334"
+    ],
+    "3":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "4":[
+      "---edu",
+      "---med",
+      "010"
+    ],
+    "5":[
+      "---jud",
+      "---ppl",
+      "160"
+    ],
+    "6":[
+      "usagov",
+      "---cvl",
+      "090"
+    ],
+    "7":[
+      "---eli",
+      "---eli",
+      "015"
+    ],
+    "8":[
+      "mncusamed",
+      "---cvl",
+      "051"
+    ],
+    "9":[
+      "usa",
+      "usa",
+      "011"
+    ]
+  }
+}

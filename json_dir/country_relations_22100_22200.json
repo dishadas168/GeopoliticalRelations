@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/california-horror-fires-kill-at-least-40-people-in-one-week_us_59e35c70e4b03a7be58136bb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/refugees-dont-believe-burundis-leader-that-its-safe-to-go-home_us_59e22e1fe4b03a7be580fa68",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/syrian-refugees-return-from-lebanon-only-to-flee-war-yet-again_us_59e263d6e4b03a7be580fff6"
+  },
+  "headline":{
+    "0":"California 'Horror' Fires Kill At Least 40 People In One Week",
+    "1":"Refugees Don\u2019t Believe Burundi\u2019s Leader That It\u2019s Safe to Go Home",
+    "2":"Syrian Refugees Return From Lebanon Only To Flee War Yet Again"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The 40 confirmed fatalities make it the state's deadliest-ever fire event.",
+    "1":"Refugees describe ongoing repression by Burundi\u2019s security forces.",
+    "2":""
+  },
+  "authors":{
+    "0":"Heather Somerville, Reuters",
+    "1":"Tonny Onyulo, Refugees Deeply",
+    "2":"Abby Sewell, Refugees Deeply"
+  },
+  "date":{
+    "0":"2017-10-15 00:00:00",
+    "1":"2017-10-14 00:00:00",
+    "2":"2017-10-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ref",
+    "2":"syr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"bdimil",
+    "2":"lbn"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"0842"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "refugees",
+      "~ref",
+      "~",
+      "burundi",
+      "security forces",
+      "bdimil",
+      "burundi",
+      "~"
+    ],
+    "2":[
+      "syrian",
+      "syr",
+      "syria",
+      "lebanon",
+      "lbn",
+      "lebanon"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "people"
+    ],
+    "1":[
+      "refugees",
+      "burundi ... security forces"
+    ],
+    "2":[
+      "syrian",
+      "lebanon"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "burundi"
+    ],
+    "2":[
+      "syria",
+      "lebanon"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ],
+    "1":[
+      "describe"
+    ],
+    "2":[
+      "<&refugee> ... return"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---ref",
+      "bdimil",
+      "010"
+    ],
+    "2":[
+      "syr",
+      "lbn",
+      "0842"
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/seeking-energy-security-poland-welcomes-us-natural_us_59400618e4b014ae8c69e429",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sugary-drink-taxes-across-the-country-are-planting_us_593eaef8e4b0b65670e56c8c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trumps-scorched-earth-policy-will-likely-leave-us_us_593f0009e4b094fa859f1b02",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-travel-court_us_5928760be4b0065b20b67e9e"
+  },
+  "headline":{
+    "0":"Seeking Energy Security, Poland Welcomes U.S. Natural Gas But Defends Coal Power",
+    "1":"Sugary Drink Taxes Across The Country Are Planting Seeds For A Healthier Generation",
+    "2":"Trump's 'Scorched Earth' Policy Will Likely Leave Us In Tatters For Years To Come",
+    "3":"Donald Trump Maintains Losing Streak In Court Over His Travel Ban"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Samuele Furfari, Universit\u00e9 Libre de Bruxelles The first shipment of American liquefied natural gas (LNG) from Louisiana\u2019s",
+    "1":"More than 2,000 Philadelphia children from low-income families are now able to attend pre-K centers, giving them the valuable",
+    "2":"Google defines Scorched Earth Policy as \u201ca military strategy of burning or destroying buildings, crops, or other resources",
+    "3":"A federal appeals court refused to revive the president's executive order imposing travel restrictions on people from six Muslim-majority countries."
+  },
+  "authors":{
+    "0":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "1":"Nancy Brown, ContributorCEO, American Heart Association",
+    "2":"David Fagin, ContributorWriter, musician, Trump Resister, food snob",
+    "3":"Cristian Farias"
+  },
+  "date":{
+    "0":"2017-06-13 00:00:00",
+    "1":"2017-06-13 00:00:00",
+    "2":"2017-06-13 00:00:00",
+    "3":"2017-06-12 00:00:00"
+  },
+  "actor1":{
+    "0":"pol",
+    "1":"usacvl",
+    "2":"mncusamed",
+    "3":"---jud"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usacvl",
+    "2":"---mil",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"060",
+    "2":"010",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":6.0,
+    "2":0.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "poland",
+      "pol",
+      "poland",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "philadelphia",
+      "children",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "google",
+      "mncusamed",
+      "google",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "3":[
+      "court",
+      "~jud",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "poland",
+      "u.s."
+    ],
+    "1":[
+      "philadelphia children",
+      "philadelphia children"
+    ],
+    "2":[
+      "google",
+      "military"
+    ],
+    "3":[
+      "court",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "poland",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "google",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "welcomes"
+    ],
+    "1":[
+      "are ... giving"
+    ],
+    "2":[
+      "defines"
+    ],
+    "3":[
+      "refused ... revive"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_gas",
+      "1",
+      "coal",
+      "1"
+    ],
+    "1":[
+      "early_childhood_education",
+      "1"
+    ],
+    "2":[
+      "agriculture",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "pol",
+      "usa",
+      "051"
+    ],
+    "1":[
+      "usacvl",
+      "usacvl",
+      "060"
+    ],
+    "2":[
+      "mncusamed",
+      "---mil",
+      "010"
+    ],
+    "3":[
+      "---jud",
+      "---gov",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-your-mother-forgot-t_us_5b9bb3d3e4b03a1dcc79b60f"
+  },
+  "headline":{
+    "0":"What Your Mother Forgot to Tell You: On Motherhood, Mindfulness & Madness"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"Sometimes, in the sleep-deprived haze of motherhood, one forgets the obvious. I am constantly forgetting car keys, closing the clasp on my belt buckle, that the tag goes on the inside not the outside, my patience."
+  },
+  "authors":{
+    "0":"Pamela Alma Weymouth, Contributor\nPamela Alma Weymouth is a humorist, writer, live storyteller. ..."
+  },
+  "date":{
+    "0":"2012-05-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "forgot ... tell"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

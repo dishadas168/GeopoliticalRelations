@@ -1,0 +1,212 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2016\/04\/04\/leaked-documents-show-strong-business-support-for-raising-the-minimum-wage\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chuck-grassley-merrick-garland_us_5702f57ee4b083f5c608abd5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/british-museum-called-on-end-bp-contract_us_5701d2b5e4b083f5c6080524",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/everything-you-need-to-know-about-barolo_us_57028508e4b083f5c60820a7",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/muslim-and-jewish-volunteers-unite-to-aid-a-struggling-detroit-school_us_56fea80fe4b083f5c607916a"
+  },
+  "headline":{
+    "0":"Leaked Document Shows Strong Business Support For Raising Minimum Wage",
+    "1":"Chuck Grassley To Meet With Merrick Garland Despite Opposing His Nomination",
+    "2":"British Museum Urged To Sever Ties With BP",
+    "3":"Everything You Need To Know About Barolo",
+    "4":"Muslim And Jewish Volunteers Unite To Aid A Struggling Detroit School"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"ARTS & CULTURE",
+    "3":"TRAVEL",
+    "4":"RELIGION"
+  },
+  "short_description":{
+    "0":"Whenever minimum wage increases are proposed on the state or federal level, business groups tend to fight them tooth and",
+    "1":"The senator invited Garland to breakfast, but insists he won't hold hearings on his nomination to the Supreme Court.",
+    "2":"A group of leading scientists and artists have called the oil company \"a barrier to progress.\"",
+    "3":"There is a saying in Italy that sums it all up. Barolo, with its bouquet rich in nuances and full-bodied palate, is defined",
+    "4":"\"It's two faiths coming together for one cause.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Richard Cowan, Reuters",
+    "2":"Nick Visser",
+    "3":"Laura Taccani, La Dolce Vita",
+    "4":"Rahel Gebreyes"
+  },
+  "date":{
+    "0":"2016-04-04 00:00:00",
+    "1":"2016-04-04 00:00:00",
+    "2":"2016-04-04 00:00:00",
+    "3":"2016-04-04 00:00:00",
+    "4":"2016-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---leg",
+    "2":"gbr",
+    "3":"ita",
+    "4":"---jew"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---leg",
+    "2":"mncgbr",
+    "3":"ita",
+    "4":"usaedu"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"100",
+    "2":"160",
+    "3":"010",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0,
+    "2":-4.0,
+    "3":0.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "bp",
+      "mncgbr",
+      "bp"
+    ],
+    "3":[
+      "italy",
+      "ita",
+      "italy"
+    ],
+    "4":[
+      "jewish",
+      "~jew",
+      "~",
+      "detroit",
+      "school",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "business",
+      "business"
+    ],
+    "1":[
+      "senator",
+      "senator"
+    ],
+    "2":[
+      "british",
+      "bp"
+    ],
+    "3":[
+      "italy",
+      "italy"
+    ],
+    "4":[
+      "jewish",
+      "detroit school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "bp"
+    ],
+    "3":[
+      "italy",
+      "italy"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tend ... fight"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "urged ... sever ties"
+    ],
+    "3":[
+      "is ... sums"
+    ],
+    "4":[
+      "unite"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "190"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "100"
+    ],
+    "2":[
+      "gbr",
+      "mncgbr",
+      "160"
+    ],
+    "3":[
+      "ita",
+      "ita",
+      "010"
+    ],
+    "4":[
+      "---jew",
+      "usaedu",
+      "040"
+    ]
+  }
+}

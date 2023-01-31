@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/happiest-seaside-towns-ac_us_5b9bb5e4e4b03a1dcc79c75a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/photos-cartagenas-caribbe_us_5b9bb4ede4b03a1dcc79bda1"
+  },
+  "headline":{
+    "0":"Happiest Seaside Towns, According To Coastal Living Magazine (PHOTOS)",
+    "1":"Cartagena Offers The Best Of The Caribbean, Miami (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Coastal Living magazine just released its first ever list of America's happiest seaside towns. The magazine's editor-in-chief",
+    "1":"Even the taxi driver who took me to the airport this morning was gossiping. \"Eighty U.S. dollars,\" he scoffed. \"All those guys had to do was give her the money.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Robert Schrader, Contributor\nWriter, Photographer, World Traveler"
+  },
+  "date":{
+    "0":"2012-05-14 00:00:00",
+    "1":"2012-05-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"esp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "magazine",
+      "~med",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "cartagena",
+      "esp",
+      "spain",
+      "miami",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "magazine",
+      "america"
+    ],
+    "1":[
+      "cartagena",
+      "miami"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "spain",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "released"
+    ],
+    "1":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usa",
+      "084"
+    ],
+    "1":[
+      "esp",
+      "usa",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/malak-kazan-hijab-dearborn-heights-police-lawsuit_n_6534860.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/businesses-and-environmen_b_6533660.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/renewed-uscuba-relations-_b_6537518.html"
+  },
+  "headline":{
+    "0":"Muslim Woman Sues Police For Forcing Her To Remove Hijab",
+    "1":"Businesses and Environmental Groups Call on President Obama to Create Clean 'Power India' Initiative",
+    "2":"Renewed U.S.-Cuba Relations: Saving American Lives and Limbs?"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"GREEN",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"A \"Power India\" initiative would coordinate bilateral support from agencies such as the Overseas Private Investment Corporation (OPIC), U.S. Export-Import Bank, and USAID, with the goal of unlocking much needed support for clean energy projects and catalyzing the expansion of beyond-the-grid solar markets to help alleviate energy poverty.",
+    "2":"Heberprot-P is proof that the U.S. embargo, still to be lifted by an act of Congress, isn't just hurting Cubans. American lives and limbs are also, quite literally, at stake."
+  },
+  "authors":{
+    "0":"Kate Abbey-Lambertz",
+    "1":"Vrinda Manglik, ContributorCampaign Representative, Sierra Club International Climate and...",
+    "2":"Gail Reed, ContributorExecutive Editor of MEDLINE-indexed MEDICC Review journal"
+  },
+  "date":{
+    "0":"2015-01-25 00:00:00",
+    "1":"2015-01-24 00:00:00",
+    "2":"2015-01-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---muscvl",
+    "1":"---bus",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"cub"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"020",
+    "2":"180"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":3.0,
+    "2":-9.0
+  },
+  "nouns":{
+    "0":[
+      "muslim",
+      "woman",
+      "~muscvl",
+      "~",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "businesses",
+      "~bus",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "india",
+      "ind",
+      "india"
+    ],
+    "2":[
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cubans",
+      "cub",
+      "cuba"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "muslim woman",
+      "police"
+    ],
+    "1":[
+      "businesses",
+      "president obama"
+    ],
+    "2":[
+      "u.s.",
+      "cubans"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "barack obama"
+    ],
+    "2":[
+      "united states of america",
+      "cuba"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sues ... for"
+    ],
+    "1":[
+      "call on"
+    ],
+    "2":[
+      "is ... hurting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "sanctions",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---muscvl",
+      "---cop",
+      "173"
+    ],
+    "1":[
+      "---bus",
+      "usagov",
+      "020"
+    ],
+    "2":[
+      "usa",
+      "cub",
+      "180"
+    ]
+  }
+}

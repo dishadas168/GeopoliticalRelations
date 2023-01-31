@@ -1,0 +1,176 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obamas-un-end-run-around_b_6869108.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jesse-jackson-in-southern-moroco_b_6866854.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-phoenix-va-visit_n_6867142.html"
+  },
+  "headline":{
+    "0":"Obama's U.N. End Run Around Congress on Iran",
+    "1":"Jesse Jackson in Southern Morocco",
+    "2":"Obama Calls For Improved Veterans' Care During Visit To Troubled VA Hospital"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The 47 Senate Republicans who warned Iranians against any nuclear agreement with Barack Obama that a Republican successor could revoke \"with the stroke of a pen\" billed their audacious letter to the clerical regime in Tehran as a civics lesson in the American constitutional system.",
+    "1":"Widely circulating in Morocco via YouTube at the moment is the following video of American civil rights leader Jesse Jackson, president and founder of the Rainbow Push Coalition.",
+    "2":""
+  },
+  "authors":{
+    "0":"Jeffrey Laurenti, ContributorInternational affairs analyst and commentator",
+    "1":"Ahmed Charai, ContributorMoroccan media CEO and Mid-East policy advisor in Washington",
+    "2":""
+  },
+  "date":{
+    "0":"2015-03-14 00:00:00",
+    "1":"2015-03-13 00:00:00",
+    "2":"2015-03-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"---gov",
+    "2":"---hlh"
+  },
+  "actor2":{
+    "0":"irngov",
+    "1":"mar",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"010",
+    "2":"041"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "tehran",
+      "irn",
+      "iran",
+      "regime",
+      "irngov",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "morocco",
+      "mar",
+      "morocco",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "hospital",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "regime",
+      "senate",
+      "american"
+    ],
+    "1":[
+      "president",
+      "morocco"
+    ],
+    "2":[
+      "hospital",
+      "obama",
+      "obama",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "",
+      "united states congress",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "morocco"
+    ],
+    "2":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "billed",
+      "billed"
+    ],
+    "1":[
+      "circulating"
+    ],
+    "2":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "human_rights",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "irngov",
+      "170",
+      "usagovleg",
+      "usa",
+      "170"
+    ],
+    "1":[
+      "---gov",
+      "mar",
+      "010"
+    ],
+    "2":[
+      "---hlh",
+      "usagov",
+      "041",
+      "usagov",
+      "---hlh",
+      "041"
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/orlando-survivor-angel-colon-reunion-officer_us_57637b18e4b0853f8bf05ffa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/microsoft-weed-marijuana_us_5763f9bee4b015db1bc8f629",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-verrilli-muslim-ban-obamacare_us_576467d8e4b0fbbc8bea8146",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/germany-communist-party-of-turkey-trial_us_5764008fe4b015db1bc8fa15",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/calgary-church-ramadan-syrian-refugees_us_57641309e4b0fbbc8bea19bf",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/india-gujarat-riots_us_576403b1e4b015db1bc8fbcc",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/diplomats-obama-syria-assad_us_5763668ce4b0fbbc8be9e7ed",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/diplomats-obama-syria-assad_us_5763668ce4b0fbbc8be9e7ed",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/republicans-unaccompanied-minors-military-bases_us_57630892e4b09c926cfea268"
+  },
+  "headline":{
+    "0":"Orlando Survivor Angel Colon Meets Police Officer Who Saved His Life",
+    "1":"Microsoft Is Going Into The Marijuana Business",
+    "2":"Obama's Supreme Court Lawyer 'Can't Imagine' The Justices Would Back A Muslim Ban",
+    "3":"Germany Begins Trial Of Alleged Turkish And Kurdish Militants",
+    "4":"Calgary Church Hosts Interfaith Ramadan Event To Make Syrian Refugees Feel At Home",
+    "5":"India Sentences 11 To Life In Prison For Massacre Of Muslims In 2002",
+    "6":"U.S. Diplomats Rebuke Obama On Syria And Call For Strikes On Assad",
+    "7":"U.S. Diplomats Rebuke Obama On Syria And Call For Strikes On Assad",
+    "8":"House Republicans Vote To Block Military From Using Bases To Temporarily Shelter Immigrant Kids"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"TECH",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS",
+    "7":"POLITICS",
+    "8":"POLITICS"
+  },
+  "short_description":{
+    "0":"Colon, who was critically injured in the shooting, was pulled to safety by Officer Omar Delgado.",
+    "1":"Weed never looked so corporate.",
+    "2":"From his mouth to God's ears.",
+    "3":"Nine men and one woman face charges of organizing propaganda events, raising funds and recruiting for a left-wing militant group in Turkey.",
+    "4":"Muslim refugees studying English at the Canadian church celebrated Ramadan alongside Christians.",
+    "5":"The court sentenced 12 other people to seven years in jail for their role in the Gujarat riots that left 69 Muslims dead.",
+    "6":"The State Department diplomats signed an internal memo criticizing Obama's policies on Syria.",
+    "7":"The State Department diplomats signed an internal memo criticizing Obama's policies on Syria.",
+    "8":"A county commissioner in Alabama already told the government the children are \"not welcome\" there."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Damon Beres",
+    "2":"Cristian Farias",
+    "3":"Caroline Copley, Reuters",
+    "4":"Israa Hussein, HuffPost Arabi",
+    "5":"Tommy Wilkes, Reuters",
+    "6":"",
+    "7":"",
+    "8":"Elise Foley"
+  },
+  "date":{
+    "0":"2016-06-17 00:00:00",
+    "1":"2016-06-17 00:00:00",
+    "2":"2016-06-17 00:00:00",
+    "3":"2016-06-17 00:00:00",
+    "4":"2016-06-17 00:00:00",
+    "5":"2016-06-17 00:00:00",
+    "6":"2016-06-17 00:00:00",
+    "7":"2016-06-17 00:00:00",
+    "8":"2016-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"mncusa",
+    "2":"usagov",
+    "3":"---cvl",
+    "4":"canmusref",
+    "5":"---jud",
+    "6":"usagov",
+    "7":"---gov",
+    "8":"usa"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---bus",
+    "2":"---mus",
+    "3":"---uaf",
+    "4":"---chr",
+    "5":"indppl",
+    "6":"syrgov",
+    "7":"usagov",
+    "8":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"050",
+    "3":"040",
+    "4":"051",
+    "5":"172",
+    "6":"190",
+    "7":"111",
+    "8":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":3.5,
+    "3":1.0,
+    "4":3.4,
+    "5":-5.0,
+    "6":-10.0,
+    "7":-2.0,
+    "8":0.0
+  },
+  "nouns":{
+    "0":[
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police officer",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "muslim",
+      "~mus",
+      "~"
+    ],
+    "3":[
+      "men",
+      "woman",
+      "~cvl",
+      "~",
+      "~",
+      "turkey",
+      "tur",
+      "turkey",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "muslim",
+      "refugees",
+      "~musref",
+      "~",
+      "~",
+      "canadian",
+      "can",
+      "canada",
+      "muslim",
+      "refugees",
+      "canmusref",
+      "~",
+      "~",
+      "christians",
+      "~chr",
+      "~"
+    ],
+    "5":[
+      "the court",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "gujarat",
+      "ind",
+      "india"
+    ],
+    "6":[
+      "u.s.",
+      "diplomats",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "assad",
+      "syrgov",
+      "bashar",
+      "al-assad"
+    ],
+    "7":[
+      "diplomats",
+      "~gov",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "8":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "orlando",
+      "police officer"
+    ],
+    "1":[
+      "microsoft",
+      "business"
+    ],
+    "2":[
+      "obama",
+      "muslim"
+    ],
+    "3":[
+      "men ... woman",
+      "militant"
+    ],
+    "4":[
+      "muslim refugees",
+      "christians"
+    ],
+    "5":[
+      "the court",
+      "---"
+    ],
+    "6":[
+      "u.s. diplomats",
+      "assad"
+    ],
+    "7":[
+      "diplomats",
+      "obama"
+    ],
+    "8":[
+      "alabama",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "microsoft",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "bashar al-assad"
+    ],
+    "7":[
+      "---",
+      "barack obama"
+    ],
+    "8":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "meets"
+    ],
+    "1":[
+      "is going"
+    ],
+    "2":[
+      "ca ... back"
+    ],
+    "3":[
+      "face"
+    ],
+    "4":[
+      "celebrated"
+    ],
+    "5":[
+      "sentenced"
+    ],
+    "6":[
+      "strikes"
+    ],
+    "7":[
+      "signed ... criticizing"
+    ],
+    "8":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "drugs",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "refugees",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cop",
+      "040"
+    ],
+    "1":[
+      "mncusa",
+      "---bus",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "---mus",
+      "050"
+    ],
+    "3":[
+      "---cvl",
+      "---uaf",
+      "040"
+    ],
+    "4":[
+      "canmusref",
+      "---chr",
+      "051"
+    ],
+    "5":[
+      "---jud",
+      "indppl",
+      "172"
+    ],
+    "6":[
+      "usagov",
+      "syrgov",
+      "190"
+    ],
+    "7":[
+      "---gov",
+      "usagov",
+      "111"
+    ],
+    "8":[
+      "usa",
+      "---gov",
+      "010"
+    ]
+  }
+}

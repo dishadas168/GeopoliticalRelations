@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/will-the-charlie-hebdo-at_b_6434058.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/child-bomber-nigeria_n_6451540.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-gives-cuba-a-hemisp_b_6451936.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/menopause-and-sexuality_b_6408520.html"
+  },
+  "headline":{
+    "0":"Will the Charlie Hebdo Terrorist Attack Kill Intelligence Reform in the United States?",
+    "1":"Two Suspected Child Suicide Bombers Hit Northeast Nigeria Town",
+    "2":"Obama Gives Cuba a Hemispheric Coup",
+    "3":"11 Things Nobody Ever Told You About Menopause"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"FIFTY"
+  },
+  "short_description":{
+    "0":"Just as the gruesome beheadings in Syria rallied a once war-weary public to support the deployment of US troops in both Iraq and Syria, the brutal assault at Charlie Hebdo could have the effect of convincing more Americans that US intelligence should keep the power they have in order to detect a similar act of violence.",
+    "1":"",
+    "2":"The recent political witch-hunt against famed Venezuelan opposition legislator Maria Corina Machado reinforces growing concerns that democratic institutions are under concerted attack in the Western Hemisphere.",
+    "3":"Menopause\u00a0crashed my\u00a0hotness\u00a0with a thud heard in three states. Suddenly I was\u00a0more \"Ma'am\" than MILF.\u00a0Men stopped whistling at me from the street and started helping me\u00a0through the crosswalk. People\u00a0no longer commented\u00a0\"You look so much like your mother\" and started assuming we were sisters."
+  },
+  "authors":{
+    "0":"Daniel R. DePetris, ContributorNational Security Dude, Observer of Congress, Currently Outsid...",
+    "1":"",
+    "2":"Mauricio Claver-Carone, ContributorDirector, Cuba Democracy Advocates in Washington, D.C.",
+    "3":"Vikki Claflin, ContributorHumor writer, author and public speaker"
+  },
+  "date":{
+    "0":"2015-01-12 00:00:00",
+    "1":"2015-01-11 00:00:00",
+    "2":"2015-01-11 00:00:00",
+    "3":"2015-01-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---cvl",
+    "2":"usagov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"usaspy",
+    "1":"nga",
+    "2":"cub",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"195",
+    "2":"060",
+    "3":"070"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":6.0,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "terrorist",
+      "~uaf",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "intelligence",
+      "usaspy",
+      "~"
+    ],
+    "1":[
+      "child",
+      "~cvl",
+      "~",
+      "nigeria",
+      "nga",
+      "nigeria"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "cuba",
+      "cub",
+      "cuba"
+    ],
+    "3":[
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "terrorist",
+      "intelligence"
+    ],
+    "1":[
+      "child",
+      "nigeria"
+    ],
+    "2":[
+      "obama",
+      "cuba"
+    ],
+    "3":[
+      "men",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      ""
+    ],
+    "1":[
+      "---",
+      "nigeria"
+    ],
+    "2":[
+      "barack obama",
+      "cuba"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ],
+    "1":[
+      "<&aircraft> ... hit"
+    ],
+    "2":[
+      "gives"
+    ],
+    "3":[
+      "<and> ... helping"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":[
+      "suicide_attack",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "usaspy",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "nga",
+      "195"
+    ],
+    "2":[
+      "usagov",
+      "cub",
+      "060"
+    ],
+    "3":[
+      "---ppl",
+      "---ppl",
+      "070"
+    ]
+  }
+}

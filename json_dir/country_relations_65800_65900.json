@@ -1,0 +1,237 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hawaii-organic-tax-break_us_57351758e4b08f96c182c52d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-transgender-bathrooms_us_57353d73e4b060aa7819eea4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-transgender-bathrooms_us_57353d73e4b060aa7819eea4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hezbollah-mustafa-badreddine-killed_us_57354c1ce4b077d4d6f2b4ff",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/uganda-president-inauguration-walk-out-protest_us_573598dce4b060aa7819f887"
+  },
+  "headline":{
+    "0":"Hawaii May Become The First State To Help Farms Go Organic",
+    "1":"Obama Administration Warns Schools To Allow Transgender Access To Bathrooms",
+    "2":"Obama Administration Warns Schools To Allow Transgender Access To Bathrooms",
+    "3":"Hezbollah Top Commander Mustafa Badreddine Killed In Syria",
+    "4":"U.S. Officials Storm Out Of Uganda President's Inauguration"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Legislation awaiting the governor's signature would give tax breaks to farmers for the costs of organic certification.",
+    "1":"\"No student should ever have to go through the experience of feeling unwelcome at school or on a college campus.\"",
+    "2":"\"No student should ever have to go through the experience of feeling unwelcome at school or on a college campus.\"",
+    "3":"It was the group's most high profile loss since the 2008 killing of its military commander.",
+    "4":"Yoweri Museveni offended Western diplomats after calling the International Criminal Court \"useless.\""
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Tyler Kingkade",
+    "2":"Tyler Kingkade",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2016-05-13 00:00:00",
+    "1":"2016-05-13 00:00:00",
+    "2":"2016-05-13 00:00:00",
+    "3":"2016-05-13 00:00:00",
+    "4":"2016-05-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"---edu",
+    "3":"lbnrebmil",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---agr",
+    "1":"---edu",
+    "2":"---edu",
+    "3":"syr",
+    "4":"ugagov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"130",
+    "2":"040",
+    "3":"190",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-4.4,
+    "2":1.0,
+    "3":-10.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "farmers",
+      "~agr",
+      "~"
+    ],
+    "1":[
+      "obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "student",
+      "~edu",
+      "~",
+      "school",
+      "college",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "3":[
+      "hezbollah",
+      "commander",
+      "lbnrebmil",
+      "hezbollah",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "uganda",
+      "president",
+      "ugagov",
+      "uganda",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "farmers"
+    ],
+    "1":[
+      "obama administration",
+      "schools"
+    ],
+    "2":[
+      "student",
+      "student"
+    ],
+    "3":[
+      "hezbollah ... commander",
+      "syria"
+    ],
+    "4":[
+      "u.s.",
+      "uganda president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hezbollah",
+      "syria"
+    ],
+    "4":[
+      "united states of america",
+      "uganda"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would give"
+    ],
+    "1":[
+      "warns"
+    ],
+    "2":[
+      "should ... go"
+    ],
+    "3":[
+      "killed"
+    ],
+    "4":[
+      "storm"
+    ]
+  },
+  "issues":{
+    "0":[
+      "agriculture",
+      "1"
+    ],
+    "1":[
+      "schools",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1",
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "3":[
+      "named_terror_group",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---agr",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "---edu",
+      "130"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "040"
+    ],
+    "3":[
+      "lbnrebmil",
+      "syr",
+      "190"
+    ],
+    "4":[
+      "usa",
+      "ugagov",
+      "190"
+    ]
+  }
+}

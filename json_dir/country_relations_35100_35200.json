@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-koreas-new-president-will-face-challenges-from_us_59108d2ae4b046ea176aed78",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-detains-american_us_590f3826e4b0e7021e98561d"
+  },
+  "headline":{
+    "0":"South Korea's New President Will Face Challenges From All Directions",
+    "1":"North Korea Says It Has Detained Another American Citizen"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Eunjung Lim, Johns Hopkins University On May 9, South Koreans will vote for their next president. Whoever wins the election",
+    "1":"The U.S. State Department said it is aware of the latest reported detention."
+  },
+  "authors":{
+    "0":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "1":"Ju-min Park, Reuters"
+  },
+  "date":{
+    "0":"2017-05-08 00:00:00",
+    "1":"2017-05-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"prk"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usacvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "university",
+      "~edu",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "american",
+      "citizen",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "university",
+      "president"
+    ],
+    "1":[
+      "north korea",
+      "american citizen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "north korea",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will vote"
+    ],
+    "1":[
+      "says ... has detained"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "prk",
+      "usacvl",
+      "173"
+    ]
+  }
+}

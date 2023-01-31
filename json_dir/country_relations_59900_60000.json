@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bruce-rauner-teachers-illiterate_us_5792700ae4b02d5d5ed18f7d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/florida-islamic-state_us_579296d3e4b0d3568f835793"
+  },
+  "headline":{
+    "0":"Chicago Teachers Want Their Governor To Know That They Definitely Know How To Read",
+    "1":"Florida Men Charged With Attempting To Support Islamic State"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Gov. Bruce Rauner called half of Chicago teachers \"virtually illiterate\" in 2011.",
+    "1":"The men allegedly expressed support for recent mass shootings, and hoped to join ISIS."
+  },
+  "authors":{
+    "0":"Rebecca Klein",
+    "1":""
+  },
+  "date":{
+    "0":"2016-07-22 00:00:00",
+    "1":"2016-07-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"imgmusisi"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "chicago",
+      "teachers",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago teachers",
+      "governor"
+    ],
+    "1":[
+      "men",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want"
+    ],
+    "1":[
+      "<and> ... hoped ... join"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "---ppl",
+      "imgmusisi",
+      "040"
+    ]
+  }
+}

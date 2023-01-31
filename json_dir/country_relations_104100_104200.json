@@ -1,0 +1,241 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/an-open-letter-to-the-lgb_2_b_6648160.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/revenge-isis-ideologies_b_6648170.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/11-free-gifts-every-entre_b_6657158.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/letter-to-a-relic_b_6606176.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/a-bridge-too-far_2_b_6647274.html"
+  },
+  "headline":{
+    "0":"An Open letter to the LGBTQ Task Force: \"Creating Change? For Whom?\"",
+    "1":"Instead of Seeking Revenge, We Must Fight ISIS by Advancing Ideologies of Human Solidarity",
+    "2":"11 Free Gifts Every Entrepreneur Seeking Success and Balance Should Give Themselves",
+    "3":"Letter to a Relic",
+    "4":"A Bridge Too Far"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLDPOST",
+    "2":"BUSINESS",
+    "3":"QUEER VOICES",
+    "4":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"As Undocumented Queer & Trans* Youth of Color we noticed a repetitive theme in The National Conference on LGBTQ Equality. The conference created an environment where our experiences as youth of color are being told by people who don't necessarily face our situations\/struggles.",
+    "1":"The sensationalist tendencies of our contemporary global media have offered an ideal echo chamber for the warped and corrupt ideologies of these militant groups. We must better utilize this echo chamber to put forth convincing ideologies that strengthen the possibility for human solidarity.",
+    "2":"Sometimes we are so focused on our own beliefs that we forget that the only reason we are in business is because of other people. This is a humble reminder to take the time to get to know the people who are your customers and employees.",
+    "3":"After decades of fear mongering and arguments that held no basis in fact, the people of this country have decided that love is truly equal and that not allowing people to marry based on sexuality is something now relegated to the history books.",
+    "4":"Russia and Iran are in bed together and keep hammering away at the same theme--America is the enemy. America and NATO cannot afford to cede Ukraine to Russia and also cannot tolerate a nuclear armed Iran exporting terror around the globe."
+  },
+  "authors":{
+    "0":"Jonathan Perez, ContributorCo-Founder of the Immigrant Youth Coalition, Contributor",
+    "1":"HRH Prince El Hassan bin Talal, ContributorA member of the Hashemite Royal Family working to address issu...",
+    "2":"Nina Tomaro, ContributorContent Strategist, Writer, and Speaker.",
+    "3":"Eric Ulloa, ContributorActor\/Playwright",
+    "4":"Robert Caruso, ContributorServed in the Department of State and Department of Defense in..."
+  },
+  "date":{
+    "0":"2015-02-11 00:00:00",
+    "1":"2015-02-11 00:00:00",
+    "2":"2015-02-11 00:00:00",
+    "3":"2015-02-10 00:00:00",
+    "4":"2015-02-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---med",
+    "2":"---bus",
+    "3":"---ppl",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"frareb",
+    "1":"---leguaf",
+    "2":"---bus",
+    "3":"---ppl",
+    "4":"ukr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"060",
+    "3":"035",
+    "4":"124"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":6.0,
+    "3":7.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "youth",
+      "frareb",
+      "gazteriak",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "militant",
+      "~uaf",
+      "~",
+      "chamber",
+      "militant",
+      "~leguaf",
+      "~",
+      "~"
+    ],
+    "2":[
+      "entrepreneur",
+      "~bus",
+      "~",
+      "entrepreneur",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "america",
+      "nato",
+      "usa",
+      "igowstnat",
+      "united",
+      "states",
+      "of",
+      "america",
+      "nato",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "youth"
+    ],
+    "1":[
+      "media",
+      "chamber ... militant"
+    ],
+    "2":[
+      "entrepreneur",
+      "entrepreneur"
+    ],
+    "3":[
+      "people",
+      "people"
+    ],
+    "4":[
+      "america",
+      "ukraine",
+      "nato",
+      "ukraine"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "gazteriak"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "ukraine",
+      "nato",
+      "ukraine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<frareb> ... told by <~ppl>"
+    ],
+    "1":[
+      "have offered"
+    ],
+    "2":[
+      "should give"
+    ],
+    "3":[
+      "have decided ... allowing"
+    ],
+    "4":[
+      "<and>",
+      "<and>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "corruption",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "nuclear_weapons",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "frareb",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "---leguaf",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "060"
+    ],
+    "3":[
+      "---ppl",
+      "---ppl",
+      "035"
+    ],
+    "4":[
+      "usa",
+      "ukr",
+      "124",
+      "igowstnat",
+      "ukr",
+      "124"
+    ]
+  }
+}

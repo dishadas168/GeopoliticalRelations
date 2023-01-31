@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/florida-education-lawmakers-ambush-_b_5167856.html"
+  },
+  "headline":{
+    "0":"Florida Lawmakers Ambush Education"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Today, over 400,000 American Muslims constituents across the State of Florida are fighting a decisive battle against ignorance, intolerance and indifference in the Florida State Legislature. Sen. Hays has placed a special burden on our legislators to negotiate complex issues brought on by SB 864."
+  },
+  "authors":{
+    "0":"Ghazala Salam, ContributorPolitical and Social Justice Advocate"
+  },
+  "date":{
+    "0":"2014-04-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl"
+  },
+  "actor2":{
+    "0":"usaleg"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "constituents",
+      "usacvl",
+      "~",
+      "florida",
+      "legislature",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "constituents",
+      "florida ... legislature"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are fighting"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "usaleg",
+      "190"
+    ]
+  }
+}

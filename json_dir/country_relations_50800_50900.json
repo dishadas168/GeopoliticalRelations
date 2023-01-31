@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-raqqa-syria_us_581f396ce4b0aac6248500ea",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/james-comey-congress-emails_us_581f8ff5e4b0aac62485196a"
+  },
+  "headline":{
+    "0":"U.S.-Backed Syrian Rebels Launch Operation Against ISIS In Raqqa",
+    "1":"Hillary Clinton Won't Face Charges For New Emails, FBI Director Tells Congress"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Rebels announced an major assault on the militant group's de facto capital.",
+    "1":"A week after rocking the campaign,  Comey cleared the Democratic nominee."
+  },
+  "authors":{
+    "0":"",
+    "1":"Sam Stein and Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2016-11-06 00:00:00",
+    "1":"2016-11-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---reb",
+    "1":"usaeli"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"usacopleg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "rebels",
+      "~reb",
+      "~",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fbi",
+      "congress",
+      "usacopleg",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rebels",
+      "militant"
+    ],
+    "1":[
+      "hillary clinton",
+      "fbi ... congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "federal bureau of investigation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced"
+    ],
+    "1":[
+      "wo ... face"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---reb",
+      "---uaf",
+      "010"
+    ],
+    "1":[
+      "usaeli",
+      "usacopleg",
+      "040"
+    ]
+  }
+}

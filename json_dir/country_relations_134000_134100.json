@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/heart-disease_us_5b9de413e4b03a1dcc8e368e"
+  },
+  "headline":{
+    "0":"This February, America Went Red in Fight Vs. Heart Disease in Women"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Our work against heart disease continues. While we appreciate and enjoy the added attention in February, I look forward to continuing our discussion on this vital area the rest of the year, too."
+  },
+  "authors":{
+    "0":"Nancy Brown, Contributor\nCEO, American Heart Association"
+  },
+  "date":{
+    "0":"2014-02-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "040"
+    ]
+  }
+}

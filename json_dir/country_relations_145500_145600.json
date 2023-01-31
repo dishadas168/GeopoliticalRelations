@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/talking-it-out_us_5b9d9c69e4b03a1dcc8a342c"
+  },
+  "headline":{
+    "0":"Talking it Out"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Let's face it, raising children is a hard job. It's wonderful, fulfilling and life affirming, but it's also hard. For some that's a dirty little secret. For me, not so much."
+  },
+  "authors":{
+    "0":"Cory Zacker, Contributor\nFounder, Papertree Tutoring"
+  },
+  "date":{
+    "0":"2013-10-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

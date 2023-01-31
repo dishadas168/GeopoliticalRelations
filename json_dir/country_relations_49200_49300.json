@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wells-fargo-scandal-private-arbitrations_us_5837913ee4b000af95ee00e4"
+  },
+  "headline":{
+    "0":"Wells Fargo Asks Court To Dismiss Account Scandal Lawsuit"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Wells Fargo has asked a court to order dozens of customers who are suing the bank to resolve their disputes in private arbitrations, according to legal documents."
+  },
+  "authors":{
+    "0":"Suzanne Barlyn, Reuters"
+  },
+  "date":{
+    "0":"2016-11-25 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "wells fargo",
+      "mncusa",
+      "wells",
+      "fargo",
+      "court",
+      "~jud",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "wells fargo",
+      "court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "wells fargo",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has asked"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---jud",
+      "020"
+    ]
+  }
+}

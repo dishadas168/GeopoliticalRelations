@@ -1,0 +1,177 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dylann-roof-death-penalty-doj_us_5744c52de4b0dacf7ad34632",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dog-euthanized-tick-paralysis_us_574493e1e4b0613b512b6f9c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/glace-chase-dream-queen-tours_us_573f5049e4b00e09e89ef8b3",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thedailybeast.com\/articles\/2016\/05\/19\/hb2-s-other-victims-the-disabled.html?via=desktop&source=twitter"
+  },
+  "headline":{
+    "0":"Justice Department To Seek Death Penalty For Dylann Roof",
+    "1":"Sick Dog Who Was To Be Euthanized Gets Diagnosed Just In Time",
+    "2":"This Drag Queen Wants To Give You A Tour Of NYC You'll Never Forget",
+    "3":"HB2\u2019s Other Victims: The Disabled"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"GOOD NEWS",
+    "2":"QUEER VOICES",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"May 24 (Reuters) - Federal prosecutors will seek the death penalty for a white man accused of killing nine black parishioners",
+    "1":"\u201cIt was just pure grace that the people found something and decided to check it out further.\u201d",
+    "2":"Featuring \"a manic depressive total bottom desperately trying to revive a fledgling career!!\"",
+    "3":"North Carolina\u2019s discriminatory HB2 law doesn\u2019t just hurt trans people\u2014it affects people with disabilities. In recent weeks"
+  },
+  "authors":{
+    "0":"",
+    "1":"Kimberly Yam",
+    "2":"James Michael Nichols",
+    "3":""
+  },
+  "date":{
+    "0":"2016-05-24 00:00:00",
+    "1":"2016-05-24 00:00:00",
+    "2":"2016-05-24 00:00:00",
+    "3":"2016-05-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---ppl",
+    "2":"'mamohato_",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"'mamohato_",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"090",
+    "2":"031",
+    "3":"180"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":5.2,
+    "3":-9.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "3":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "man"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "queen",
+      "queen"
+    ],
+    "3":[
+      "north carolina",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "queen",
+      "queen"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will seek"
+    ],
+    "1":[
+      "<and> ... decided ... check"
+    ],
+    "2":[
+      "wants ... give"
+    ],
+    "3":[
+      "does ... hurt"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "030"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "090"
+    ],
+    "2":[
+      "'mamohato_",
+      "'mamohato_",
+      "031"
+    ],
+    "3":[
+      "usa",
+      "---ppl",
+      "180"
+    ]
+  }
+}

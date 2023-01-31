@@ -1,0 +1,223 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/putins-whack-a-mole-game_b_5780602.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/american-indians-and-aust_b_5780434.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mayor-of-latvian-capital-_b_5775232.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/americas-player-americas-_b_5766750.html"
+  },
+  "headline":{
+    "0":"Putin's Whack-a-Mole Game Extends to NATO",
+    "1":"American Indians and Australian Aborigines Traveled a Similar Path",
+    "2":"Mayor of Latvian Capital: Putin Is 'Best Thing Possible' for Latvia",
+    "3":"America's Player, America's Team"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"MEDIA",
+    "2":"POLITICS",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"On Friday, Russia's Federal Security Service (the FSB) kidnapped an Estonian intelligence officer at gunpoint, using a smoke bomb and jamming Estonian radio communications. Moscow later claimed it had captured a spy.",
+    "1":"There is a colonization connection the indigenous people of Australia and America share.",
+    "2":"The mayor of the Latvian capital city Riga, Nil Ushakov, stated yesterday in Moscow that for Latvia, \"the best thing possible right now is President Vladimir Putin.\" His presence in Moscow and his comments about Putin illustrate how far the views of many Latvians diverge from the Western mainstream on relations between Russia and the West.",
+    "3":"It's heartening that Michael Sam's signing is being seen as a football decision not just by Cowboys leadership but by a majority of fans as well. And by looking beyond the SEC All-American's sexuality and simply giving him a chance to play, the Dallas Cowboys have proven that they truly deserve to be called \"America's Team.\""
+  },
+  "authors":{
+    "0":"Kimberly Marten, ContributorInternational security expert, Russia and Eurasia watcher; Pro...",
+    "1":"Tim Giago, ContributorFounder, Native American Journalists Association",
+    "2":"Kevin M. F. Platt, ContributorAuthor, Terror and Greatness: Ivan and Peter as Russian Myt...",
+    "3":"Jesse Jackman, ContributorHusband, software engineer, geek savant, and gay adult film star"
+  },
+  "date":{
+    "0":"2014-09-07 00:00:00",
+    "1":"2014-09-07 00:00:00",
+    "2":"2014-09-06 00:00:00",
+    "3":"2014-09-06 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"usa",
+    "2":"lvagov",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"estspy",
+    "1":"aus",
+    "2":"rus",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"181",
+    "1":"040",
+    "2":"010",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":1.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "federal security service",
+      "fsb",
+      "rus",
+      "ruscop",
+      "ruscop",
+      "russian",
+      "federation",
+      "federal",
+      "security",
+      "service",
+      "federal",
+      "security",
+      "service",
+      "estonian",
+      "intelligence officer",
+      "estspy",
+      "estonia",
+      "~",
+      "estonian",
+      "est",
+      "estonia"
+    ],
+    "1":[
+      "american",
+      "australian",
+      "usa",
+      "aus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "australia"
+    ],
+    "2":[
+      "latvian",
+      "riga",
+      "lva",
+      "lva",
+      "latvia",
+      "latvia",
+      "mayor",
+      "lvagov",
+      "lvagov",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "3":[
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "estonian intelligence officer",
+      "federal security service",
+      "estonian intelligence officer"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "mayor",
+      "moscow"
+    ],
+    "3":[
+      "dallas",
+      "dallas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "estonia",
+      "federal security service",
+      "estonia"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "",
+      "russian federation"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kidnapped ... at gunpoint",
+      "kidnapped ... at gunpoint"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "stated"
+    ],
+    "3":[
+      "have <usa> ... called"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "estspy",
+      "181",
+      "ruscop",
+      "estspy",
+      "181",
+      "ruscop",
+      "estspy",
+      "181"
+    ],
+    "1":[
+      "usa",
+      "aus",
+      "040",
+      "aus",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "lvagov",
+      "rus",
+      "010",
+      "lvagov",
+      "rus",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "usa",
+      "041"
+    ]
+  }
+}

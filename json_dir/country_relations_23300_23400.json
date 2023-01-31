@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/new-research-taking-college-classes-in-high-school_us_59ce94d7e4b0f58902e5cbf4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ryan-zinke-heritage-energy-dominance_us_59cea033e4b09538b5083e85"
+  },
+  "headline":{
+    "0":"New Research: Taking College Classes In High School Can Lead To Future Success In College",
+    "1":"Ryan Zinke Snaps At Heckler During Speech On Energy Dominance"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The findings indicate that these dual enrollment classes may be another tool as California grapples with a looming shortage of college-educated workers.",
+    "1":"\u201cOur decisions will be guided by our flag and not kneel to anyone,\u201d the Interior secretary forcefully told a protester Friday."
+  },
+  "authors":{
+    "0":"EdSource, ContributorNonprofit news site focused on education policy and its effects",
+    "1":"Chris D'Angelo"
+  },
+  "date":{
+    "0":"2017-09-29 00:00:00",
+    "1":"2017-09-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---opp"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "interior secretary",
+      "~gov",
+      "~",
+      "protester",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "workers"
+    ],
+    "1":[
+      "interior secretary",
+      "protester"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "grapples"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "shortage",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---lab",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "---opp",
+      "010"
+    ]
+  }
+}

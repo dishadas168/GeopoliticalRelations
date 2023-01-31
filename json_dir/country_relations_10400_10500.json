@@ -1,0 +1,295 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/miguel-diaz-canel-cuba-president_us_5ad8d6abe4b0e4d0715e5f42",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/german-play-free-tickets-swastika_us_5ad7b9cae4b0e4d0715ceccf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/queen-elizabeth-publicly-supports-prince-charles-as-the-next-commonwealth-leader_us_5ad8b0ede4b0e4d0715e13b3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/rudy-giuliani-trump-special-counsel_us_5ad905a1e4b03c426dacb83e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mike-pompeo-nomination-democrats_us_5ad7be83e4b0e4d0715cf4d9",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/theresa-may-lgbtq-laws_us_5ad75f76e4b0e4d0715c768a",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/tammy-duckworth-proposes-legislation-to-allow-newborns-on-senate-floor_us_5ad7542de4b0e4d0715c50b0"
+  },
+  "headline":{
+    "0":"Miguel Diaz-Canel Elected President Of Cuba, Ending 60 Years Of Castro Rule",
+    "1":"German Theater Gives Free Hitler Play Tickets To People Wearing Swastikas",
+    "2":"Prince Charles Voted Next Commonwealth Leader After Queen's Endorsement",
+    "3":"Former NYC Mayor Rudy Giuliani Is Joining Trump's Legal Team",
+    "4":"Mike Pompeo Nomination Barrels Ahead Despite Growing Democratic Opposition",
+    "5":"LGBTQ Advocates Hope Theresa May's 'Regret' Over Anti-Gay Laws Will Prompt Change",
+    "6":"Senate Votes Unanimously To Allow Newborns On Chamber Floor"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"QUEER VOICES",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"The 57-year-old former vice president vowed to \"give continuity to the Cuban revolution.\"",
+    "1":"Prosecutors declined to investigate, saying the giveaway is protected as artistic expression.",
+    "2":"The selection of the Prince of Wales as the queen's successor was her \"sincere wish.\"",
+    "3":"The former prosecutor said he hopes to negotiate an end to the special counsel investigation.",
+    "4":"Leaked news of his secret trip to North Korea is increasing pressure on holdouts to support him as secretary of state.",
+    "5":"\u201cIt\u2019s time to listen, learn, and heal.\u201d",
+    "6":"Family-friendly policies \"aren\u2019t just a women\u2019s issue,\" said Sen. Tammy Duckworth. \"They are a common-sense economic issue.\""
+  },
+  "authors":{
+    "0":"Sarah Marsh and Frank Jack Daniel, Reuters",
+    "1":"Rebecca Shapiro",
+    "2":"Carly Ledbetter",
+    "3":"Ryan Grenoble",
+    "4":"Igor Bobic",
+    "5":"Meka Beresford, Reuters",
+    "6":"Alanna Vagianos and Nick Visser"
+  },
+  "date":{
+    "0":"2018-04-19 00:00:00",
+    "1":"2018-04-19 00:00:00",
+    "2":"2018-04-19 00:00:00",
+    "3":"2018-04-19 00:00:00",
+    "4":"2018-04-18 00:00:00",
+    "5":"2018-04-18 00:00:00",
+    "6":"2018-04-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"deu",
+    "2":"'ulukalala_lavaka_ata_",
+    "3":"---jud",
+    "4":"prk",
+    "5":"---jud",
+    "6":"usagovleg"
+  },
+  "actor2":{
+    "0":"cub",
+    "1":"---ppl",
+    "2":"'mamohato_",
+    "3":"---jud",
+    "4":"prk",
+    "5":"gbrgovhri",
+    "6":"---leg"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060",
+    "2":"030",
+    "3":"025",
+    "4":"102",
+    "5":"020",
+    "6":"08"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0,
+    "2":4.0,
+    "3":-0.3,
+    "4":-5.0,
+    "5":3.0,
+    "6":5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "cuban",
+      "cub",
+      "cuba"
+    ],
+    "1":[
+      "german",
+      "deu",
+      "germany",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "3":[
+      "prosecutor",
+      "~jud",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state"
+    ],
+    "5":[
+      "advocates",
+      "~jud",
+      "~",
+      "theresa may",
+      "gbrgovhri",
+      "theresa",
+      "may"
+    ],
+    "6":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "chamber",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "cuban"
+    ],
+    "1":[
+      "german",
+      "people"
+    ],
+    "2":[
+      "prince",
+      "queen"
+    ],
+    "3":[
+      "prosecutor",
+      "prosecutor"
+    ],
+    "4":[
+      "north korea",
+      "north korea"
+    ],
+    "5":[
+      "advocates",
+      "theresa may"
+    ],
+    "6":[
+      "senate",
+      "chamber"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "cuba"
+    ],
+    "1":[
+      "germany",
+      "---"
+    ],
+    "2":[
+      "prince",
+      "queen"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "north korea",
+      "north korea"
+    ],
+    "5":[
+      "---",
+      "theresa may"
+    ],
+    "6":[
+      "united states congress",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vowed ... give"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "voted"
+    ],
+    "3":[
+      "said ... hopes ... negotiate"
+    ],
+    "4":[
+      "is ... increasing pressure ... support"
+    ],
+    "5":[
+      "hope"
+    ],
+    "6":[
+      "unanimously ... allow"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "lgbt",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "cub",
+      "060"
+    ],
+    "1":[
+      "deu",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "'ulukalala_lavaka_ata_",
+      "'mamohato_",
+      "030"
+    ],
+    "3":[
+      "---jud",
+      "---jud",
+      "025"
+    ],
+    "4":[
+      "prk",
+      "prk",
+      "102"
+    ],
+    "5":[
+      "---jud",
+      "gbrgovhri",
+      "020"
+    ],
+    "6":[
+      "usagovleg",
+      "---leg",
+      "08"
+    ]
+  }
+}

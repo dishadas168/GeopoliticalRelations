@@ -1,0 +1,315 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/russian-offensive-donbas-city_n_628b4132e4b05cfc268e50b2",
+    "1":"https:\/\/www.huffpost.com\/entry\/starbucks-leaves-russian-market-shuts-stores_n_628b9804e4b05cfc268f4413",
+    "2":"https:\/\/www.huffpost.com\/entry\/trevor-reed-americans-prisoners-brittney-griner_n_628b53ace4b05cfc268e7597",
+    "3":"https:\/\/www.huffpost.com\/entry\/lawrence-odonnell-fox-news-murdoch-hate_n_62835279e4b04353eb08be6d",
+    "4":"https:\/\/www.huffpost.com\/entry\/bc-us-virus-outbreak_n_627c42ffe4b010453ae08ff9",
+    "5":"https:\/\/www.huffpost.com\/entry\/superyacht-oligarch-fiji_n_6274f045e4b03ca8363fe8c0",
+    "6":"https:\/\/www.huffpost.com\/entry\/defenders-mariupol-steel-plant-will-not-surrender_n_6274dfa2e4b009a811c1d525"
+  },
+  "headline":{
+    "0":"Russian Soldier Sentenced To Life At Kyiv War Crimes Trial",
+    "1":"Starbucks Leaving Russian Market, Shutting 130 Stores",
+    "2":"Trevor Reed: U.S. Should Do 'Absolutely Everything' To Release Americans Held Illegally",
+    "3":"Lawrence O\u2019Donnell Accuses Rupert Murdoch Of Shaping Thinking Of White Supremacist Killers",
+    "4":"COVID-19 Cases Rise While Few School Mask Mandates Return",
+    "5":"Superyacht Reportedly Owned By Russian Oligarch Is Seized In Fiji",
+    "6":"Defenders Inside Mariupol Steel Plant Refuse To Surrender To Russian Forces"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"BUSINESS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"U.S. NEWS",
+    "5":"WORLD NEWS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Earlier on his trip to Asia, Biden signed legislation granting Ukraine $40 billion more in U.S. support for its defense against the Russian attack.",
+    "1":"Starbucks' move follows McDonald's exit from the Russian market last week.",
+    "2":"\u201cWe need to do absolutely everything we can as Americans,\" Reed, a former U.S. Marine who was imprisoned in Russia, told CNN.",
+    "3":"\u201cNo one should waste their breath on the men in makeup at Fox when Rupert Murdoch is responsible for everything that they say and do,\" said the MSNBC anchor.",
+    "4":"U.S. coronavirus cases are up, leading a smattering of school districts, especially in the Northeast, to bring back mask recommendations and requirements.",
+    "5":"A judge in Fiji permitted U.S. authorities to seize the $325 million Amadea which they claim belongs to Suleiman Kerimov.",
+    "6":"President Vladimir Putin wants to present the Russian people with a battlefield triumph \u2014 or announce an escalation \u2014 in time for Victory Day on Monday."
+  },
+  "authors":{
+    "0":"Elena Becatoros, Oleksandr Stashevskyi and Ricardo Mazalan, AP",
+    "1":"DEE-ANN DURBIN, AP",
+    "2":"Marita Vlachou",
+    "3":"Lee Moran",
+    "4":"STEVE LeBLANC and MIKE CATALINI, AP",
+    "5":"ERIC TUCKER, AP",
+    "6":"Jon Gambrell and Cara Anna, AP"
+  },
+  "date":{
+    "0":"2022-05-23 00:00:00",
+    "1":"2022-05-23 00:00:00",
+    "2":"2022-05-23 00:00:00",
+    "3":"2022-05-17 00:00:00",
+    "4":"2022-05-11 00:00:00",
+    "5":"2022-05-06 00:00:00",
+    "6":"2022-05-06 00:00:00"
+  },
+  "actor1":{
+    "0":"rusmil",
+    "1":"mncusa",
+    "2":"usa",
+    "3":"usa",
+    "4":"usa",
+    "5":"fjijud",
+    "6":"rusgov"
+  },
+  "actor2":{
+    "0":"ukr",
+    "1":"rus",
+    "2":"med",
+    "3":"---crm",
+    "4":"---edu",
+    "5":"usagov",
+    "6":"rusppl"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"040",
+    "2":"010",
+    "3":"040",
+    "4":"060",
+    "5":"08",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":0.0,
+    "3":1.0,
+    "4":6.0,
+    "5":5.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "soldier",
+      "rusmil",
+      "russian",
+      "federation",
+      "~",
+      "kyiv",
+      "ukr",
+      "ukraine"
+    ],
+    "1":[
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "3":[
+      "lawrence",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "killers",
+      "~crm",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "fiji",
+      "fji",
+      "fiji",
+      "judge",
+      "fjijud",
+      "~",
+      "u.s.",
+      "authorities",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "russian",
+      "people",
+      "rusppl",
+      "russian",
+      "federation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian soldier",
+      "kyiv"
+    ],
+    "1":[
+      "starbucks",
+      "russian"
+    ],
+    "2":[
+      "u.s.",
+      "cnn"
+    ],
+    "3":[
+      "lawrence",
+      "killers"
+    ],
+    "4":[
+      "u.s.",
+      "school"
+    ],
+    "5":[
+      "judge",
+      "u.s. authorities"
+    ],
+    "6":[
+      "president vladimir putin",
+      "russian people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "ukraine"
+    ],
+    "1":[
+      "starbucks",
+      "russian federation"
+    ],
+    "2":[
+      "united states of america",
+      "cnn"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "",
+      "united states of america"
+    ],
+    "6":[
+      "vladimir putin",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sentenced"
+    ],
+    "1":[
+      "shutting <leaving>"
+    ],
+    "2":[
+      "told"
+    ],
+    "3":[
+      "thinking"
+    ],
+    "4":[
+      "are ... leading"
+    ],
+    "5":[
+      "permitted"
+    ],
+    "6":[
+      "wants ... announce"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "disease",
+      "1",
+      "schools",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "rusmil",
+      "ukr",
+      "172"
+    ],
+    "1":[
+      "mncusa",
+      "rus",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "med",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "---crm",
+      "040"
+    ],
+    "4":[
+      "usa",
+      "---edu",
+      "060"
+    ],
+    "5":[
+      "fjijud",
+      "usagov",
+      "08"
+    ],
+    "6":[
+      "rusgov",
+      "rusppl",
+      "010"
+    ]
+  }
+}

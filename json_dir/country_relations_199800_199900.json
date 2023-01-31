@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prince-charles-ideal-home-show_us_5b9b7628e4b03a1dcc77bffa"
+  },
+  "headline":{
+    "0":"Prince Charles Visits London Ideal Home Show, Meets Topiary People (PHOTOS)"
+  },
+  "category":{
+    "0":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"Prince Charles made his official rounds at the Ideal Home Show in London Friday, touring exhibits, testing furniture, and"
+  },
+  "authors":{
+    "0":"Diana N. Nguyen"
+  },
+  "date":{
+    "0":"2012-03-17 00:00:00"
+  },
+  "actor1":{
+    "0":"gbrppl"
+  },
+  "actor2":{
+    "0":"'ulukalala_lavaka_ata_"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "london",
+      "people",
+      "gbrppl",
+      "united",
+      "kingdom",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "london ... people",
+      "prince",
+      "prince",
+      "london ... people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "prince",
+      "prince",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visits",
+      "visits"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "gbrppl",
+      "'ulukalala_lavaka_ata_",
+      "043",
+      "'ulukalala_lavaka_ata_",
+      "gbrppl",
+      "042"
+    ]
+  }
+}

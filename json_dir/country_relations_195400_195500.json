@@ -1,0 +1,126 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/international-midwives-day_us_5bb1934ee4b01857b70841d7",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/bits.blogs.nytimes.com\/2012\/05\/04\/att-randall-stephenson\/"
+  },
+  "headline":{
+    "0":"Half of Women Still Give Birth Alone or Without Skilled Health Care in Tanzania -- But We Can Change That!",
+    "1":"AT&T Chief Regrets Offering Unlimited Data For iPhone"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"On International Day of the Midwife on May 5, our short film \"What I Want Is Simple\",  is airing on national television and radio in Tanzania.",
+    "1":"When Randall Stephenson, AT&T's chief executive, spoke about the state of the wireless industry at a conference this week"
+  },
+  "authors":{
+    "0":"Rose Mlay, Contributor\nFounder and National Coordinator, White Ribbon Alliance for Sa...",
+    "1":""
+  },
+  "date":{
+    "0":"2012-05-05 00:00:00",
+    "1":"2012-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"lcagov"
+  },
+  "actor2":{
+    "0":"tza",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "tanzania",
+      "tza",
+      "united",
+      "republic",
+      "of",
+      "tanzania"
+    ],
+    "1":[
+      "stephenson",
+      "at&t",
+      "chief executive",
+      "lcagov",
+      "mncusamedgov",
+      "stephenson",
+      "at&t",
+      "~",
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "tanzania"
+    ],
+    "1":[
+      "stephenson",
+      "industry",
+      "<at&t>",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united republic of tanzania"
+    ],
+    "1":[
+      "stephenson",
+      "---",
+      "at&t",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "give"
+    ],
+    "1":[
+      "spoke",
+      "spoke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "tza",
+      "060"
+    ],
+    "1":[
+      "lcagov",
+      "---bus",
+      "010",
+      "mncusamedgov",
+      "---bus",
+      "010"
+    ]
+  }
+}

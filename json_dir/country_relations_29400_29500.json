@@ -1,0 +1,67 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-intelligence-committee-to-look-into-gop-operatives-work-after-his-death_us_596906abe4b03389bb171884"
+  },
+  "headline":{
+    "0":"Senate Intelligence Committee To Investigate Work Of GOP Operative Who Died: Report"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Peter Smith killed himself in May."
+  },
+  "authors":{
+    "0":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2017-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"cymeli"
+  },
+  "actor2":{
+    "0":"cymeli"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "peter smith",
+      "cymeli",
+      "peter",
+      "smith"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "peter smith",
+      "peter smith"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "peter smith",
+      "peter smith"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "cymeli",
+      "cymeli",
+      "190"
+    ]
+  }
+}

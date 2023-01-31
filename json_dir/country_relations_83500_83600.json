@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/domestic-hate-groups-online-doj_us_561d7491e4b0c5a1ce60f874"
+  },
+  "headline":{
+    "0":"Domestic Terrorists Organizing Online Are 'Real Threat,' DOJ Warns"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"More people have died in this country in attacks by domestic extremists than in attacks associated with international terrorist groups.\""
+  },
+  "authors":{
+    "0":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2015-10-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---rad"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "extremists",
+      "~rad",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "extremists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have died"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_extremism",
+      "1",
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---rad",
+      "190"
+    ]
+  }
+}

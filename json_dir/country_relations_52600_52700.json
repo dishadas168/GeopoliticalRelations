@@ -1,0 +1,67 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-remove-shoes-white-house_us_5804d5e1e4b0162c043cdd61"
+  },
+  "headline":{
+    "0":"Michelle Obama Has The Perfect Solution For Wearing Painful Shoes"
+  },
+  "category":{
+    "0":"STYLE"
+  },
+  "short_description":{
+    "0":"\"Mrs. Obama said you can take them off.\""
+  },
+  "authors":{
+    "0":"Jamie Feldman"
+  },
+  "date":{
+    "0":"2016-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... can take"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "171"
+    ]
+  }
+}

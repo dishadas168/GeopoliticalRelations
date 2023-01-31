@@ -1,0 +1,304 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/missing-child-alexis-johnson-louisiana_us_561bde7ce4b0e66ad4c89869",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-girls-education_us_561abbfee4b0e66ad4c85078",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russian-air-assault-hits-rebels-helps-assad-regain-lost-ground_us_561a62b3e4b0082030a2e7df",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/court-in-iran-convicts-iranian-american-journalist-jason-rezaian_us_561ad711e4b0e66ad4c8543b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/native-americans-ramp-up-push-to-rebrand-columbus-day_us_561a50cce4b0082030a2e751",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/islamophone-hate-rallies-counter-protest-love_us_5617ff19e4b0e66ad4c7c191",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/reconstructionist-rabbinical-college-non-jewish-partners_us_560c63f5e4b076812700bae6"
+  },
+  "headline":{
+    "0":"Missing 6-Year-Old Texas Girl Found In Louisiana",
+    "1":"Michelle Obama Reminds Girls Not To Take Their Education For Granted",
+    "2":"Russian Air Assault Hits Rebels, Helps Assad Regain Lost Ground",
+    "3":"Court In Iran Convicts Iranian-American Journalist Jason Rezaian",
+    "4":"Native American Activists Ramp Up Push To Rebrand Columbus Day",
+    "5":"Sorry, Islamophobes: Your Anti-Muslim Rallies Ended Up Inspiring Acts Of Love And Service",
+    "6":"In Major Shift, Rabbinical School Allows Students With Non-Jewish Partners"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"MEDIA",
+    "4":"POLITICS",
+    "5":"RELIGION",
+    "6":"RELIGION"
+  },
+  "short_description":{
+    "0":"Authorities say the girl was taken by her mom's ex-boyfriend.",
+    "1":"For the International Day of the Girl, the first lady also offered some college advice.",
+    "2":"\"The Russians are using scorched earth policy,\" said one insurgent leader.",
+    "3":"DUBAI\/WASHINGTON, Oct 11 (Reuters) - A court in Iran has convicted Washington Post reporter Jason Rezaian, Iran's ISNA news",
+    "4":"\"The fact that America would honor this man is preposterous.\"",
+    "5":"After hearing about armed protests scheduled to take place around mosques, the interfaith community rallied around Muslims.",
+    "6":"A big win for interfaith couples."
+  },
+  "authors":{
+    "0":"David Lohr",
+    "1":"Marina Fang",
+    "2":"Peter Graff, Reuters",
+    "3":"",
+    "4":"Laila Kearney, Reuters",
+    "5":"Carol Kuruvilla",
+    "6":"Lauren Markoe, Religion News Service"
+  },
+  "date":{
+    "0":"2015-10-12 00:00:00",
+    "1":"2015-10-11 00:00:00",
+    "2":"2015-10-11 00:00:00",
+    "3":"2015-10-11 00:00:00",
+    "4":"2015-10-11 00:00:00",
+    "5":"2015-10-11 00:00:00",
+    "6":"2015-10-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"---reb",
+    "3":"irnjud",
+    "4":"usacvlopp",
+    "5":"---cvl",
+    "6":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu",
+    "2":"syrgov",
+    "3":"irn",
+    "4":"usa",
+    "5":"---mus",
+    "6":"---edu"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"030",
+    "2":"070",
+    "3":"173",
+    "4":"100",
+    "5":"150",
+    "6":"08"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":4.0,
+    "2":7.0,
+    "3":-5.0,
+    "4":-5.0,
+    "5":-7.2,
+    "6":5.0
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "first lady",
+      "~eli",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "rebels",
+      "~reb",
+      "~",
+      "assad",
+      "syrgov",
+      "bashar",
+      "al-assad"
+    ],
+    "3":[
+      "iran",
+      "irn",
+      "iran",
+      "court",
+      "irnjud",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "4":[
+      "native",
+      "american",
+      "activists",
+      "usacvlopp",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "columbus",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "community",
+      "~cvl",
+      "~",
+      "muslims",
+      "~mus",
+      "~"
+    ],
+    "6":[
+      "school",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "girl"
+    ],
+    "1":[
+      "first lady",
+      "college"
+    ],
+    "2":[
+      "rebels",
+      "assad"
+    ],
+    "3":[
+      "court",
+      "iran"
+    ],
+    "4":[
+      "native american activists",
+      "columbus"
+    ],
+    "5":[
+      "community",
+      "muslims"
+    ],
+    "6":[
+      "school",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "bashar al-assad"
+    ],
+    "3":[
+      "",
+      "iran"
+    ],
+    "4":[
+      "united states of america",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say <~cvl> ... taken by <--->"
+    ],
+    "1":[
+      "offered"
+    ],
+    "2":[
+      "helps"
+    ],
+    "3":[
+      "has <court> convicted"
+    ],
+    "4":[
+      "push"
+    ],
+    "5":[
+      "rallied"
+    ],
+    "6":[
+      "allows"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "activism",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "171"
+    ],
+    "1":[
+      "---eli",
+      "---edu",
+      "030"
+    ],
+    "2":[
+      "---reb",
+      "syrgov",
+      "070"
+    ],
+    "3":[
+      "irnjud",
+      "irn",
+      "173"
+    ],
+    "4":[
+      "usacvlopp",
+      "usa",
+      "100"
+    ],
+    "5":[
+      "---cvl",
+      "---mus",
+      "150"
+    ],
+    "6":[
+      "---edu",
+      "---edu",
+      "08"
+    ]
+  }
+}

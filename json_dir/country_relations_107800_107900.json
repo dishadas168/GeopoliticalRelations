@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-corrects-an-histori_b_6375998.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-city-at-the-edge-of-the_b_6379350.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/american-jews-israel-chief-rabbinate_n_6373432.html"
+  },
+  "headline":{
+    "0":"Obama Corrects a Historic Mistake",
+    "1":"A City at the Edge of the Horizon: The 2014 Kochi-Muziris Biennale",
+    "2":"Why Some American Jews Seek To Break Israel's Chief Rabbinate Monopoly"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"ARTS",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"By re-establishing diplomatic relations, the U.S. will finally recognize the Cuban government as the sovereign representative of their state. Gone is the myth -- promoted by anti-normalization exiles and the internal opposition -- of a hijacked sovereignty that the United States should not respect.",
+    "1":"The ancient port city of Muziris, perched at the mouth of the Periyar River near the tip of the Indian subcontinent, offered harbor to merchant fleets of Greece, Rome, Phoenicia, and Egypt in the earliest centuries of global maritime trade.",
+    "2":""
+  },
+  "authors":{
+    "0":"Arturo Lopez Levy, ContributorLecturer and PhD in International Studies",
+    "1":"MutualArt, ContributorWorld's largest online art information service",
+    "2":""
+  },
+  "date":{
+    "0":"2014-12-29 00:00:00",
+    "1":"2014-12-29 00:00:00",
+    "2":"2014-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"ind",
+    "2":"usajew"
+  },
+  "actor2":{
+    "0":"cubgov",
+    "1":"grcbus",
+    "2":"isr"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"030",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":4.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cuban",
+      "government",
+      "cubgov",
+      "cuba",
+      "~",
+      "sovereign",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "indian",
+      "ind",
+      "india",
+      "greece",
+      "rome",
+      "egypt",
+      "grc",
+      "ita",
+      "egy",
+      "greece",
+      "italy",
+      "egypt",
+      "merchant",
+      "grcbus",
+      "itabus",
+      "egybus",
+      "~"
+    ],
+    "2":[
+      "american",
+      "jews",
+      "usajew",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "cuban government"
+    ],
+    "1":[
+      "indian",
+      "merchant",
+      "indian",
+      "merchant",
+      "indian",
+      "merchant"
+    ],
+    "2":[
+      "american jews",
+      "israel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "cuba"
+    ],
+    "1":[
+      "india",
+      "",
+      "india",
+      "",
+      "india",
+      ""
+    ],
+    "2":[
+      "united states of america",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... recognize"
+    ],
+    "1":[
+      "offered",
+      "offered",
+      "offered"
+    ],
+    "2":[
+      "seek"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "monopoly",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "cubgov",
+      "051"
+    ],
+    "1":[
+      "ind",
+      "grcbus",
+      "030",
+      "ind",
+      "itabus",
+      "030",
+      "ind",
+      "egybus",
+      "030"
+    ],
+    "2":[
+      "usajew",
+      "isr",
+      "030"
+    ]
+  }
+}

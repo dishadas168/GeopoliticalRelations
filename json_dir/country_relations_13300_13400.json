@@ -1,0 +1,259 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ghouta-syria-bombing-post-ceaseifre_us_5a93f0abe4b01e9e56bd92da",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/church-leaders-shutter-jerusalem-holy-site-to-protest-israeli-tax-land-policies_us_5a942030e4b03b55731e4a5d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/oprah-links-gun-survivors-to-civil-rights_us_5a940ef6e4b0ee6416a524ff",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/florida-shooting-survivors-defend-sheriff_us_5a940f5ae4b03b55731e1682",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/fedex-stands-by-nra-discounts_us_5a9486a8e4b01f65f5995fc8",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/florida-republicans-sheriff-resign_us_5a930c67e4b01e9e56bce6ee"
+  },
+  "headline":{
+    "0":"Syrian Bombardment Of Rebel-Held Town Kills Family Of 9",
+    "1":"Christian Leaders Shutter Jerusalem Holy Site To Protest Israeli Tax, Land Policies",
+    "2":"Oprah Compares Florida Shooting Survivors To Civil Rights Activists",
+    "3":"Florida Survivors Defend Sheriff Against Republican Calls To Oust Him",
+    "4":"FedEx Says It Will Continue Offering NRA Members Discounts",
+    "5":"Florida House Republicans Demand Sheriff's Ouster Over Parkland Shooting Response"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"BLACK VOICES",
+    "3":"POLITICS",
+    "4":"BUSINESS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Several people also suffered symptoms consistent with chlorine gas exposure, killing one child, after an explosion.",
+    "1":"The Church of the Holy Sepulchre, where Jesus is believed to have been crucified, is temporarily closed.",
+    "2":"\u201cIt\u2019s a proud moment; it\u2019s an evolving moment for our country,\u201d she said.",
+    "3":"\"We don\u2019t know about the 999 other times where they did do things to save us,\u201d one student said.",
+    "4":"The company said it disagrees with the organization on certain policies but won't end its partnership.",
+    "5":"\"As a result of Sheriff Israel's failures, students and teachers died,\" the 74 state lawmakers wrote in a letter to Gov. Rick Scott (R)."
+  },
+  "authors":{
+    "0":"By Tom Perry, Reuters",
+    "1":"Ori Lewis, Reuters",
+    "2":"Nina Golgowski",
+    "3":"Willa Frej",
+    "4":"Doha Madani",
+    "5":"Hayley Miller"
+  },
+  "date":{
+    "0":"2018-02-26 00:00:00",
+    "1":"2018-02-26 00:00:00",
+    "2":"2018-02-26 00:00:00",
+    "3":"2018-02-26 00:00:00",
+    "4":"2018-02-26 00:00:00",
+    "5":"2018-02-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"isrchr",
+    "2":"usa",
+    "3":"usacop",
+    "4":"---bus",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"isr",
+    "2":"---opp",
+    "3":"usacop",
+    "4":"meareb",
+    "5":"---cop"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"140",
+    "2":"190",
+    "3":"174",
+    "4":"110",
+    "5":"100"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-6.5,
+    "2":-10.0,
+    "3":-5.0,
+    "4":-2.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "christian",
+      "jerusalem",
+      "isrchr",
+      "~",
+      "israel",
+      "israeli",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "florida",
+      "sheriff",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "4":[
+      "company",
+      "~bus",
+      "~",
+      "organization",
+      "meareb",
+      "tanzim"
+    ],
+    "5":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sheriff",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "child"
+    ],
+    "1":[
+      "christian ... jerusalem",
+      "israeli"
+    ],
+    "2":[
+      "florida",
+      "activists"
+    ],
+    "3":[
+      "florida ... sheriff",
+      "florida ... sheriff"
+    ],
+    "4":[
+      "company",
+      "organization"
+    ],
+    "5":[
+      "florida",
+      "sheriff"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "israel",
+      "israel"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "tanzim"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "suffered ... killing"
+    ],
+    "1":[
+      "site ... protest"
+    ],
+    "2":[
+      "shooting"
+    ],
+    "3":[
+      "calls ... oust"
+    ],
+    "4":[
+      "said ... wo <disagrees>"
+    ],
+    "5":[
+      "demand"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "human_rights",
+      "1",
+      "activism",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "isrchr",
+      "isr",
+      "140"
+    ],
+    "2":[
+      "usa",
+      "---opp",
+      "190"
+    ],
+    "3":[
+      "usacop",
+      "usacop",
+      "174"
+    ],
+    "4":[
+      "---bus",
+      "meareb",
+      "110"
+    ],
+    "5":[
+      "usa",
+      "---cop",
+      "100"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israel-children-killed-gaza-beach_n_7565512.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/costco-wtf_b_7548468.html"
+  },
+  "headline":{
+    "0":"Israel Says Attack That Killed 4 Children On Gaza Beach Was Accidental",
+    "1":"Costco, WTF?"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The Humane Society of the United States issued a report that initially made me a bit skeptical regarding Costco and hens -- so I quizzed Paul Shapiro, VP of Farm Animal Protection at HSUS about their expose of Costco, and here is how it went."
+  },
+  "authors":{
+    "0":"Eline Gordts",
+    "1":"Christian Josi, Contributor"
+  },
+  "date":{
+    "0":"2015-06-11 00:00:00",
+    "1":"2015-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mncusa"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "israel",
+      "isr",
+      "israel",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "costco",
+      "mncusa",
+      "costco",
+      "costco",
+      "mncusa",
+      "costco"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israel",
+      "children"
+    ],
+    "1":[
+      "the ... united states",
+      "costco"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "costco"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says attack"
+    ],
+    "1":[
+      "issued ... report"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "agriculture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isr",
+      "---cvl",
+      "015"
+    ],
+    "1":[
+      "usa",
+      "mncusa",
+      "010"
+    ]
+  }
+}

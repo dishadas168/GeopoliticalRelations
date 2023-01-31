@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/resident-aliens_b_5865560.html"
+  },
+  "headline":{
+    "0":"Resident Aliens"
+  },
+  "category":{
+    "0":"RELIGION"
+  },
+  "short_description":{
+    "0":"While the target audience in this case consists of Protestants, a.k.a. \"Mainline Protestants,\" many other kinds of people \"living faithfully\" in religious communities could recognize themselves in the issues involved, if not in the \"selfie\" portraits of potential \"aliens.\""
+  },
+  "authors":{
+    "0":"Martin Marty, ContributorHistorian of religion in the U.S., author of over 60 books, sp..."
+  },
+  "date":{
+    "0":"2014-09-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "communities",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could recognize"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "051"
+    ]
+  }
+}

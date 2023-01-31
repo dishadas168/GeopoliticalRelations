@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/putin-erdogan-turkey_us_57a9d2f3e4b0aae2a5a133a1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-formally-arrested-16000-coup-attempt_us_57a99558e4b0aae2a5a12965",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-gulen-extradition_us_57a9d73ae4b06adc11f15e20"
+  },
+  "headline":{
+    "0":"Putin Meets With Erdogan To Renew Ties After Turkey's Failed Coup",
+    "1":"Turkey Formally Arrested 16,000 People In Wake Of Coup Attempt",
+    "2":"Turkey Says Rising Anti-Americanism Can Be Calmed By Gulen Extradition"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Turkey and Russian are making overtures to mend ties after tense times.",
+    "1":"Authorities are investigating another 7,668, the Turkish justice minister says.",
+    "2":"\u201cIt is in the hands of the United States to stop this anti-American feeling leading to hatred.\u201d"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2016-08-09 00:00:00",
+    "1":"2016-08-09 00:00:00",
+    "2":"2016-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"tur",
+    "2":"turelimus"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"---ppl",
+    "2":"tur"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"173",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "russian",
+      "tur",
+      "rus",
+      "turkey",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "turkey",
+      "tur",
+      "turkey",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "turkey",
+      "tur",
+      "turkey",
+      "gulen",
+      "turelimus",
+      "fethullah",
+      "gulen"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "turkey",
+      "people"
+    ],
+    "2":[
+      "gulen",
+      "turkey"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "turkey",
+      "---"
+    ],
+    "2":[
+      "fethullah gulen",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "arrested"
+    ],
+    "2":[
+      "calmed by <turelimus>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "rus",
+      "050",
+      "rus",
+      "tur",
+      "050"
+    ],
+    "1":[
+      "tur",
+      "---ppl",
+      "173"
+    ],
+    "2":[
+      "turelimus",
+      "tur",
+      "010"
+    ]
+  }
+}

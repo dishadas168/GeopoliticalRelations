@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hunter-spanjer-3-year-old_us_5b9c3239e4b03a1dcc7d034a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hunter-spanjer-3-year-old_us_5b9c3239e4b03a1dcc7d034a"
+  },
+  "headline":{
+    "0":"Hunter Spanjer, 3-Year-Old Deaf Boy, Told By Preschool To Change Way He Signs His Name (VIDEO)",
+    "1":"Hunter Spanjer, 3-Year-Old Deaf Boy, Told By Preschool To Change Way He Signs His Name (VIDEO)"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"Spanjer posted a letter on Facebook that the ACLU sent to the district \"politely\" asking it to reconsider policy. Hunter's",
+    "1":"Spanjer posted a letter on Facebook that the ACLU sent to the district \"politely\" asking it to reconsider policy. Hunter's"
+  },
+  "authors":{
+    "0":"Ron Dicker",
+    "1":"Ron Dicker"
+  },
+  "date":{
+    "0":"2012-08-28 00:00:00",
+    "1":"2012-08-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"ngousahri"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"ngousahri"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "hunter",
+      "~cvl",
+      "~",
+      "preschool",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hunter",
+      "preschool"
+    ],
+    "1":[
+      "aclu",
+      "aclu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "american civil liberties union",
+      "american civil liberties union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "sent ... asking"
+    ]
+  },
+  "issues":{
+    "0":[
+      "early_childhood_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "010"
+    ],
+    "1":[
+      "ngousahri",
+      "ngousahri",
+      "020"
+    ]
+  }
+}

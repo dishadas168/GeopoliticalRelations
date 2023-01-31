@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/environemental-voter-project_us_59d54fd3e4b0cde45872c35a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/contraception-mandate-aclu_us_59d7bcbfe4b0f6eed35018c7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/drag-queens-new-york-midwest_us_59d1683ae4b06791bb115b02"
+  },
+  "headline":{
+    "0":"This Man Is Building An 'Army Of Environmental Super Voters' To Rival The NRA In Turnout",
+    "1":"ACLU Files Lawsuit After Trump Reverses Obama-Era Contraception Mandate",
+    "2":"Two Queens On What It's Like To Live And Breathe Drag In Wisconsin And New York"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Nathaniel Stinnett\u2019s two-year-old Environmental Voter Project is expanding this month into four new states: Colorado, Florida, Nevada and Pennsylvania.",
+    "1":"\"The Trump Administration is forcing women to pay for their boss\u2019s religious beliefs.\u201d",
+    "2":"Stephanie Stone and Toyota Corona talk queer culture in two very different parts of America."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Jenna Amatulli",
+    "2":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2017-10-07 00:00:00",
+    "1":"2017-10-06 00:00:00",
+    "2":"2017-10-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---gov",
+    "2":"mncjpn"
+  },
+  "actor2":{
+    "0":"---milcvl",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"150",
+    "1":"170",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-7.2,
+    "1":-7.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "army",
+      "voters",
+      "~milcvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "boss",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "toyota",
+      "mncjpn",
+      "toyota",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "army ... voters"
+    ],
+    "1":[
+      "administration",
+      "women"
+    ],
+    "2":[
+      "toyota",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "toyota",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... building <&military>"
+    ],
+    "1":[
+      "is ... forcing"
+    ],
+    "2":[
+      "talk"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---milcvl",
+      "150"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "170"
+    ],
+    "2":[
+      "mncjpn",
+      "usa",
+      "010"
+    ]
+  }
+}

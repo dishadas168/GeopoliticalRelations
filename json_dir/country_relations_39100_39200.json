@@ -1,0 +1,229 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-warren-alexander-acosta-workplace-safety_us_58d29f04e4b02d33b7479ba8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-considering-sweeping-sanctions-on-north-korea_us_58d127bfe4b0ec9d29df376b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/local-tv-interviews-trump-no-russia-questions_us_58d1445ae4b0ec9d29df7b1b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders-immigration-rally-trump_us_58d15713e4b00705db5317e9",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/chuck-schumer-gorsuch-trump_us_58d189b3e4b0be71dcf8da7c"
+  },
+  "headline":{
+    "0":"Elizabeth Warren Grills Trump's Labor Nominee Over Workplace Safety",
+    "1":"White House Considering Sweeping Sanctions On North Korea",
+    "2":"Trump Escaped 'Wiretap' And Russia Questions In Local TV Interviews",
+    "3":"Bernie Sanders To Donald Trump: Picking On The Undocumented Doesn't Make You Tough",
+    "4":"Chuck Schumer: Senate Shouldn't Vote On Neil Gorsuch While FBI Investigates Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"MEDIA",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The senator wanted to know if Alexander Acosta would enforce one of Obama's major safety reforms. Acosta wouldn't say.",
+    "1":"The new administration is giving priority to less risky options over pre-emptive military strikes.",
+    "2":"A Louisville station says the White House restricted what it could ask, while a Cincinnati station says it simply didn't ask about the two stories gripping Washington.",
+    "3":"The senator rallied in defense of all the \"hard-working, decent\" immigrants.",
+    "4":"\"There ought to be a delay,\" the Democratic leader said."
+  },
+  "authors":{
+    "0":"Dave Jamieson",
+    "1":"Matt Spetalnick and David Brunnstrom, Reuters",
+    "2":"Michael Calderone",
+    "3":"Chris D'Angelo",
+    "4":"Laura Barr\u00f3n-L\u00f3pez and Michael McAuliff"
+  },
+  "date":{
+    "0":"2017-03-22 00:00:00",
+    "1":"2017-03-21 00:00:00",
+    "2":"2017-03-21 00:00:00",
+    "3":"2017-03-21 00:00:00",
+    "4":"2017-03-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---leg",
+    "4":"usagovleg"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---mil",
+    "2":"usagov",
+    "3":"---cvl",
+    "4":"usacop"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"060",
+    "2":"010",
+    "3":"150",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":6.0,
+    "2":0.0,
+    "3":-7.2,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "louisville",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "obama"
+    ],
+    "1":[
+      "administration",
+      "military"
+    ],
+    "2":[
+      "louisville",
+      "the white house"
+    ],
+    "3":[
+      "senator",
+      "immigrants"
+    ],
+    "4":[
+      "senate",
+      "fbi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "white house"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states congress",
+      "federal bureau of investigation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted ... enforce"
+    ],
+    "1":[
+      "is ... giving"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "rallied"
+    ],
+    "4":[
+      "should ... vote"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_immigration",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usagov",
+      "170"
+    ],
+    "1":[
+      "---gov",
+      "---mil",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "usagov",
+      "010"
+    ],
+    "3":[
+      "---leg",
+      "---cvl",
+      "150"
+    ],
+    "4":[
+      "usagovleg",
+      "usacop",
+      "030"
+    ]
+  }
+}

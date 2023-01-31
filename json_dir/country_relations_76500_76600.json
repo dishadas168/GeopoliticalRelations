@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lawyers-abortion-supreme-court_us_568d4387e4b0a2b6fb6e298b",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/yNDuQP",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-gun-control-yik-yak_us_568c4929e4b0cad15e6267be"
+  },
+  "headline":{
+    "0":"More Than 100 Lawyers Tell The Supreme Court Why Their Abortions Mattered",
+    "1":"Women\u2019s Health Magazine Bans Body-Shaming Phrases From Its Covers",
+    "2":"Forget Pundits, This Is What People On Yik Yak Say About Obama's Gun Control Action"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"COLLEGE"
+  },
+  "short_description":{
+    "0":"\"I often tell people -- and I believe it to be true -- that access to a safe, legal abortion saved my life.\"",
+    "1":"For years, lifestyle publications \u2014 in particular, women\u2019s magazines \u2014 have dominated the media landscape.",
+    "2":"These posts on an app popular on college campuses provide a glimpse into how students feel about the announcement."
+  },
+  "authors":{
+    "0":"Cristian Farias",
+    "1":"",
+    "2":"Tyler Kingkade"
+  },
+  "date":{
+    "0":"2016-01-06 00:00:00",
+    "1":"2016-01-06 00:00:00",
+    "2":"2016-01-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---medcvl",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---med",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "lawyers",
+      "~jud",
+      "~",
+      "lawyers",
+      "~jud",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "women",
+      "magazines",
+      "~cvlmed",
+      "~",
+      "~",
+      "publications",
+      "women",
+      "magazines",
+      "~medcvl",
+      "~",
+      "~",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyers",
+      "lawyers"
+    ],
+    "1":[
+      "publications ... women ... magazines",
+      "media"
+    ],
+    "2":[
+      "people",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tell"
+    ],
+    "1":[
+      "have dominated"
+    ],
+    "2":[
+      "say"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "1":[
+      "---medcvl",
+      "---med",
+      "190"
+    ],
+    "2":[
+      "---ppl",
+      "usagov",
+      "010"
+    ]
+  }
+}

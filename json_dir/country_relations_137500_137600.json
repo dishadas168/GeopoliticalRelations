@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cost-to-give-birth_us_5b9dcb26e4b03a1dcc8cf9dd"
+  },
+  "headline":{
+    "0":"The Cost To Give Birth Can Vary Massively Between Hospitals (STUDY)"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"The researchers analyzing the costs of hospital childbirth determined that health care pricing in the United States too often"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-01-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "hospital",
+      "~hlh",
+      "~",
+      "hospital",
+      "~hlh",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hospital",
+      "the ... united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "determined"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "usa",
+      "030"
+    ]
+  }
+}

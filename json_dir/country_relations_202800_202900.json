@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.slate.com\/blogs\/xx_factor\/2012\/02\/15\/directv_s_premiere_of_the_slap_.html"
+  },
+  "headline":{
+    "0":"The Perils Of Modern Parenting, Australian Edition"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"It\u2019s unfortunate that only DirecTV viewers get to watch The Slap, an eight-part Australian series that premieres tonight"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-02-15 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed"
+  },
+  "actor2":{
+    "0":"aus"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "directv",
+      "mncusamed",
+      "directv",
+      "australian",
+      "aus",
+      "australia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "directv",
+      "australian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "directv",
+      "australia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "get ... watch"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "aus",
+      "010"
+    ]
+  }
+}

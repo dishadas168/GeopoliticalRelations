@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/freedomflotilla-iii-exposes-israel_b_7682228.html"
+  },
+  "headline":{
+    "0":"#FreedomFlotilla III Exposes Anti-Democratic Extremism of the Israeli 'Center'"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The #FreedomFlotilla III sailing to challenge the Gaza blockade is providing an excellent opportunity to expose the true face of anti-democratic, pro-occupation political actors in international media."
+  },
+  "authors":{
+    "0":"Robert Naiman, ContributorPolicy Director, Just Foreign Policy"
+  },
+  "date":{
+    "0":"2015-06-28 00:00:00"
+  },
+  "actor1":{
+    "0":"psegza"
+  },
+  "actor2":{
+    "0":"---eli"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "gaza",
+      "psegza",
+      "gaza",
+      "actors",
+      "~eli",
+      "~",
+      "actors",
+      "~eli",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "gaza",
+      "actors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "gaza",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is providing ... expose"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "psegza",
+      "---eli",
+      "050"
+    ]
+  }
+}

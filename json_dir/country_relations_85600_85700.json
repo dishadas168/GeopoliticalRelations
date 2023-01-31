@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-cornyn-judicial-confirmations_us_55fc3e07e4b0fde8b0ce05d8"
+  },
+  "headline":{
+    "0":"John Cornyn Blocks Judges From Getting Confirmed Because He's Mad About Other Judges He Confirmed"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"GOP senators want credit this year for judges they confirmed last year. OK!"
+  },
+  "authors":{
+    "0":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2015-09-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "judges",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "judges"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---jud",
+      "030"
+    ]
+  }
+}

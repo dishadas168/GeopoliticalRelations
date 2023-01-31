@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/is-anybody-out-there_b_6064924.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-beheaded-long-island-train_n_6065268.html"
+  },
+  "headline":{
+    "0":"Is Anybody Out There?",
+    "1":"Woman Reportedly Beheaded By Man Who Then Jumped In Front Of Train"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"It's unfortunate when an organization tasked with providing help to the needy must ask for help itself. It's even more unfortunate when the help it seeks is rooted in deliberate and systematic suppression.",
+    "1":""
+  },
+  "authors":{
+    "0":"Emre Celik, ContributorPresident, Rumi Forum",
+    "1":"Andrew Hart"
+  },
+  "date":{
+    "0":"2014-10-29 00:00:00",
+    "1":"2014-10-29 00:00:00"
+  },
+  "actor1":{
+    "0":"meareb",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"meareb",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "organization",
+      "meareb",
+      "tanzim"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "organization",
+      "organization"
+    ],
+    "1":[
+      "woman",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "tanzim",
+      "tanzim"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must ask"
+    ],
+    "1":[
+      "beheaded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "public_transit",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "meareb",
+      "meareb",
+      "020"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "190"
+    ]
+  }
+}

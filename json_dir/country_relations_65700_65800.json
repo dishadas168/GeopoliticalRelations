@@ -1,0 +1,285 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-maduro-emergency_us_57368b89e4b060aa781a741b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kenya-expels-refugees_us_57364cede4b08f96c183479d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/giving-teenagers-weapons-_b_9957126.html",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/chicago.gopride.com\/news\/article.cfm\/articleid\/75710416",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/lori-robinson-air-force_us_57363981e4b08f96c1833a00",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/alan-grayson-transgender-bathrooms_us_57364534e4b060aa781a6632"
+  },
+  "headline":{
+    "0":"Venezuela's Maduro Declares Emergency, Cites U.S., Domestic 'Threats' To His Rule",
+    "1":"Why Kenya Announced An Unrealistic But Alarming Plan To Rid The Country Of Refugees",
+    "2":"Giving Teenagers Weapons is NEVER a Solution",
+    "3":"Hillary Clinton Meets With HIV\/AIDS Activists; Promises To Expand PrEP Availability",
+    "4":"Air Force General Becomes First Woman To Lead Combatant Command",
+    "5":"Congressman Mocks The GOP's 'Great American Bathroom Controversy'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"EDUCATION",
+    "3":"QUEER VOICES",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Maduro took a similar action last year, and U.S. officials are increasingly worried that Venezuela is near a meltdown.",
+    "1":"Aid groups warn that forcing hundreds of thousands of refugees out would create instability and a humanitarian disaster.",
+    "2":"A few days ago, a story came across my news feed that I was sure was not true. Apparently, a school district in North Carolina has changed their handbook so that high schoolers are allowed to carry pepper spray with them to school.",
+    "3":"They discussed Clinton's commitment to tackling the epidemic and achieving an \"AIDS-free generation.\"",
+    "4":"The position is one of the most senior in the U.S. military.",
+    "5":"\"The party of small government wants a government small enough to fit underneath the toilet seat,\" said Democrat Alan Grayson."
+  },
+  "authors":{
+    "0":"",
+    "1":"Charlotte Alfred",
+    "2":"Abby Norman, ContributorBlogs at AbbyNorman.net and is the author of Consent Based Par...",
+    "3":"",
+    "4":"Idrees Ali, Reuters",
+    "5":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2016-05-14 00:00:00",
+    "1":"2016-05-14 00:00:00",
+    "2":"2016-05-14 00:00:00",
+    "3":"2016-05-13 00:00:00",
+    "4":"2016-05-13 00:00:00",
+    "5":"2016-05-13 00:00:00"
+  },
+  "actor1":{
+    "0":"ven",
+    "1":"---ngodev",
+    "2":"usaedu",
+    "3":"usaeli",
+    "4":"---cvl",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ref",
+    "2":"---edu",
+    "3":"---opp",
+    "4":"---uaf",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170",
+    "2":"08",
+    "3":"040",
+    "4":"060",
+    "5":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0,
+    "2":5.0,
+    "3":1.0,
+    "4":6.0,
+    "5":4.0
+  },
+  "nouns":{
+    "0":[
+      "venezuela",
+      "maduro",
+      "ven",
+      "vengov",
+      "venezuela",
+      "nicolas",
+      "maduro",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "aid groups",
+      "~ngodev",
+      "~",
+      "refugees",
+      "~ref",
+      "~",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "2":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "usaedu",
+      "~",
+      "high schoolers",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "4":[
+      "woman",
+      "~cvl",
+      "~",
+      "combatant",
+      "~uaf",
+      "~"
+    ],
+    "5":[
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "venezuela",
+      "u.s.",
+      "maduro",
+      "u.s."
+    ],
+    "1":[
+      "aid groups",
+      "refugees"
+    ],
+    "2":[
+      "school",
+      "high schoolers"
+    ],
+    "3":[
+      "hillary clinton",
+      "activists"
+    ],
+    "4":[
+      "woman",
+      "combatant"
+    ],
+    "5":[
+      "government",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "venezuela",
+      "united states of america",
+      "nicolas maduro",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "cites",
+      "cites"
+    ],
+    "1":[
+      "warn ... forcing"
+    ],
+    "2":[
+      "has <~edu> ... allowed"
+    ],
+    "3":[
+      "meets"
+    ],
+    "4":[
+      "to lead"
+    ],
+    "5":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1",
+      "humanitarian_crisis",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "2"
+    ],
+    "3":[
+      "disease",
+      "1",
+      "activism",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "ven",
+      "usa",
+      "010",
+      "vengov",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---ngodev",
+      "---ref",
+      "170"
+    ],
+    "2":[
+      "usaedu",
+      "---edu",
+      "08"
+    ],
+    "3":[
+      "usaeli",
+      "---opp",
+      "040"
+    ],
+    "4":[
+      "---cvl",
+      "---uaf",
+      "060"
+    ],
+    "5":[
+      "---gov",
+      "---gov",
+      "030"
+    ]
+  }
+}

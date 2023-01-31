@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/when-science-fiction-gets-real_b_5481022.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-mosul-iraq_n_5481290.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/solving-californias-water_b_5479569.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/house-of-cardsstyle-corru_b_5474729.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mother-love-molding-our-c_b_5397640.html"
+  },
+  "headline":{
+    "0":"When Science Fiction Gets Real",
+    "1":"A Group Too Extreme For Al Qaeda Just Took Over Iraq's Second Biggest City",
+    "2":"Solving California's Water Problems",
+    "3":"House of Cards-Style Corruption in Virginia",
+    "4":"Mother Love: Molding Our Capacity For Intimacy"
+  },
+  "category":{
+    "0":"SCIENCE",
+    "1":"WORLDPOST",
+    "2":"GREEN",
+    "3":"POLITICS",
+    "4":"PARENTS"
+  },
+  "short_description":{
+    "0":"Many science fiction writers have rather accurately predicted future technologies, including the rise of the Internet and the demise of quality television. In doing so, they have given us language and ideas that have shaped the digital age in which we live.",
+    "1":"",
+    "2":"Now, halfway through the second decade of the 21st century, we've hit the wall. California is in a drought -- some call it the third year of a drought, but it could also be called the 10th dry year out of the last 13. Even if next year brings some relief, our water problems will remain.",
+    "3":"State Senator Phil Puckett, a Democrat, announced his resignation today after 16 years in the senate. If a Republican replaces Puckett, his daughter gets a judgeship and he gets a position as Deputy Director of the state tobacco commission.",
+    "4":"The Hindus say that \"the mother's lap is the child's first classroom.\" Neuroscience helps us to understand just what is being taught and learned on this lap of love and it's importance not only to the child, but to society and mankind."
+  },
+  "authors":{
+    "0":"Robert Weiss, ContributorSenior Vice President of Clinical Development, Elements Behavi...",
+    "1":"Nick Robins-Early",
+    "2":"Peter H. Gleick, ContributorChief Scientist, President-Emeritus, Pacific Institute",
+    "3":"C. Robert Gibson, ContributorIndependent journalist published in Guardian, the Washington P...",
+    "4":"Dr. Tian Dayton, ContributorClinical Psychologist and author"
+  },
+  "date":{
+    "0":"2014-06-11 00:00:00",
+    "1":"2014-06-11 00:00:00",
+    "2":"2014-06-10 00:00:00",
+    "3":"2014-06-10 00:00:00",
+    "4":"2014-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"imgmusalq",
+    "2":"usa",
+    "3":"---leg",
+    "4":"---hin"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"irq",
+    "2":"usa",
+    "3":"usagovleg",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"192",
+    "2":"041",
+    "3":"0831",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.5,
+    "2":1.0,
+    "3":5.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "writers",
+      "~med",
+      "~",
+      "television",
+      "~med",
+      "~",
+      "television",
+      "~med",
+      "~",
+      "television",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "al qaeda",
+      "imgmusalq",
+      "al",
+      "qa'ida",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "4":[
+      "hindus",
+      "~hin",
+      "~",
+      "mother",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "writers",
+      "writers"
+    ],
+    "1":[
+      "al qaeda",
+      "iraq"
+    ],
+    "2":[
+      "california",
+      "california"
+    ],
+    "3":[
+      "senator",
+      "senate"
+    ],
+    "4":[
+      "hindus",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "al qa'ida",
+      "iraq"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "united states congress"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... predicted"
+    ],
+    "1":[
+      "took over <&town>"
+    ],
+    "2":[
+      "is ... call"
+    ],
+    "3":[
+      "announced ... resignation"
+    ],
+    "4":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "named_terror_group",
+      "1"
+    ],
+    "2":[
+      "natural_disaster",
+      "2"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "imgmusalq",
+      "irq",
+      "192"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "041"
+    ],
+    "3":[
+      "---leg",
+      "usagovleg",
+      "0831"
+    ],
+    "4":[
+      "---hin",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/boy-scouts_us_5bafa30de4b0ad76925f4ef1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/giving-mothers-a-very-special-gift_us_5bb193b4e4b01857b70848a9"
+  },
+  "headline":{
+    "0":"This Mother's Day, Let's Tell the Boy Scouts of America That It's Time to Respect All Mothers",
+    "1":"Giving Mothers a Very Special Gift"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"Last month, the Boy Scouts of America notified me that I would no longer be allowed to serve as leader of my son's Scouts troop, because I'm gay and pose a \"distraction\" to the Scouts' core values. This Mother's Day, I have a message for the Boy Scouts: I am a mother, not a distraction.",
+    "1":"What is the greatest gift we can give a mother this Mother's Day?  There are many answers, but one is a healthy life for her and her child. This Mother's Day, let's sharpen our resolve to ensure mothers everywhere have children who are born HIV-free."
+  },
+  "authors":{
+    "0":"Jennifer Tyrrell, Contributor\nFormer Boy Scouts den mother ousted for being gay",
+    "1":"Ambassador Eric Goosby, MD, Guest Writer\nUN Secretary-General\u2019s Special Envoy on Tuberculosis"
+  },
+  "date":{
+    "0":"2012-05-13 00:00:00",
+    "1":"2012-05-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "mothers",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "america"
+    ],
+    "1":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tell"
+    ],
+    "1":[
+      "sharpen ... ensure"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ]
+  }
+}

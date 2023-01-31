@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mayor-in-canada-defends-creepy-bathroom-wall-filled-with-photos-of-people_us_59610ec3e4b0d5b458eac892"
+  },
+  "headline":{
+    "0":"Mayor In Canada Defends \u2018Creepy\u2019 Bathroom Wall Filled With Photos Of Residents"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The mayor also said someone is \"leaking top secret information.\""
+  },
+  "authors":{
+    "0":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2017-07-08 00:00:00"
+  },
+  "actor1":{
+    "0":"can"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "canada",
+      "can",
+      "canada",
+      "residents",
+      "~cvl",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "canada",
+      "residents"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "canada",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "filled"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "can",
+      "---cvl",
+      "08"
+    ]
+  }
+}

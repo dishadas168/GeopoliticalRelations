@@ -1,0 +1,312 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-somali-raid-civilian-casualties_us_59a7d269e4b010ca289a5cba",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mattis-signs-order-sending-more-troops-to-afghanistan_us_59a84d48e4b0a8d1457413d6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-russia-diplomatic-facilities_us_59a83fb0e4b07e81d3560b76",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/texas-policeman-receives-touching-note-from-daughter-before-helping-hurricane-victims_us_59a83e1fe4b010ca289b15b6",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/boston-must-mull-renaming-iconic-building-to-give-civic_us_59a74a68e4b02498834a8e95",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/trump-fox-news-poll-white-supremacists-media_us_59a79a0ce4b010ca289a33b3",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-missile-guam_us_59a5ff61e4b084581a14339c"
+  },
+  "headline":{
+    "0":"U.S.-Somali Raid Kills 10 Civilians, Officials Say",
+    "1":"Mattis Signs Order Sending More Troops To Afghanistan",
+    "2":"Trump Administration Orders Russia To Close Several Diplomatic Facilities In U.S.",
+    "3":"Texas Policeman Receives Touching Note From Daughter Before Helping Hurricane Victims",
+    "4":"Boston Must Mull Renaming Iconic Building to Give Civic Dignity To Blacks",
+    "5":"Most Voters Think Trump Dislikes The Media More Than White Supremacists, Poll Finds",
+    "6":"North Korea Says Missile Test Was Threat For Guam"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"PARENTS",
+    "4":"BLACK VOICES",
+    "5":"POLITICS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The raid was carried out under the expanded powers that  President Trump granted to U.S. troops in Somalia in March.",
+    "1":"About 11,000 U.S. troops are already serving in Afghanistan.",
+    "2":"The move escalates a diplomatic tit-for-tat between the two countries.",
+    "3":"Commander Scott Holt went to South Texas to aid in rescue efforts.",
+    "4":"BOSTON \u2014 Plans are currently being considered by the little known Boston Landmarks Commission to make cosmetic changes to",
+    "5":"A majority believe the president is \u201ctearing the country apart.\u201d",
+    "6":"Kim Jong Un said the test was necessary to undertake more exercises with the Pacific as the target."
+  },
+  "authors":{
+    "0":"By Feisal Omar, Reuters",
+    "1":"",
+    "2":"Jessica Schulberg",
+    "3":"Caroline Bologna",
+    "4":"Kevin C. Peterson, ContributorWriter on Race & Politics",
+    "5":"Dominique Mosbergen",
+    "6":"Soyoung Kim and Susan Heavey, Reuters"
+  },
+  "date":{
+    "0":"2017-08-31 00:00:00",
+    "1":"2017-08-31 00:00:00",
+    "2":"2017-08-31 00:00:00",
+    "3":"2017-08-31 00:00:00",
+    "4":"2017-08-31 00:00:00",
+    "5":"2017-08-31 00:00:00",
+    "6":"2017-08-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usamil",
+    "2":"---gov",
+    "3":"---mil",
+    "4":"usa",
+    "5":"---cvl",
+    "6":"prk"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"afg",
+    "2":"rus",
+    "3":"usa",
+    "4":"usa",
+    "5":"---med",
+    "6":"usagum"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"100",
+    "3":"040",
+    "4":"040",
+    "5":"040",
+    "6":"012"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":-5.0,
+    "3":1.0,
+    "4":1.0,
+    "5":1.0,
+    "6":-0.4
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "somali",
+      "usa",
+      "som",
+      "united",
+      "states",
+      "of",
+      "america",
+      "somalia",
+      "civilians",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "troops",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "commander",
+      "~mil",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "voters",
+      "~cvl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "6":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "guam",
+      "usagum",
+      "guam"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "civilians",
+      "somali",
+      "civilians"
+    ],
+    "1":[
+      "u.s. troops",
+      "afghanistan"
+    ],
+    "2":[
+      "administration",
+      "russia"
+    ],
+    "3":[
+      "commander",
+      "texas"
+    ],
+    "4":[
+      "boston",
+      "boston"
+    ],
+    "5":[
+      "voters",
+      "media"
+    ],
+    "6":[
+      "north korea",
+      "guam"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "somalia",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "afghanistan"
+    ],
+    "2":[
+      "---",
+      "russian federation"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "north korea",
+      "guam"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kills",
+      "kills"
+    ],
+    "1":[
+      "are ... serving"
+    ],
+    "2":[
+      "orders"
+    ],
+    "3":[
+      "went"
+    ],
+    "4":[
+      "considered by <usa>"
+    ],
+    "5":[
+      "think"
+    ],
+    "6":[
+      "says ... threat"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "election",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "190",
+      "som",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "usamil",
+      "afg",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "rus",
+      "100"
+    ],
+    "3":[
+      "---mil",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "5":[
+      "---cvl",
+      "---med",
+      "040"
+    ],
+    "6":[
+      "prk",
+      "usagum",
+      "012"
+    ]
+  }
+}

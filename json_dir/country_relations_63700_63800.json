@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/fivethirtyeight.com\/features\/hillary-clinton-clinches-democratic-nomination-according-to-ap\/",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/deadline.com\/2016\/06\/eddie-murphy-netflix-soul-soul-soul-to-fake-documentary-brett-ratner-1201768252\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/virginia-school-transgender-supreme-court_us_57574bc1e4b0a3d6fbd31bcf"
+  },
+  "headline":{
+    "0":"Hillary Clinton Will Be Nominated Because More Democrats Are Voting For Her",
+    "1":"Netflix Adds Eddie Murphy To Roster For Fake Documentary",
+    "2":"Virginia School Board Ready To Take Transgender Bathroom Fight To The Supreme Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"It\u2019s an emblematically annoying ending to the Democratic campaign, one that reflects both the acrimony between Hillary Clinton",
+    "1":"Netflix is negotiating for Soul Soul Soul: The Murray Murray Story, a fake documentary that will star Eddie Murphy.",
+    "2":"The Obama administration told public schools that transgender students must be able to use the bathroom of their choice."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2016-06-07 00:00:00",
+    "1":"2016-06-07 00:00:00",
+    "2":"2016-06-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"mncusa",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"aus",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"08",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "netflix",
+      "mncusa",
+      "netflix",
+      "murray",
+      "murray",
+      "aus",
+      "aus",
+      "australia",
+      "australia"
+    ],
+    "2":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "schools",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ],
+    "1":[
+      "netflix",
+      "murray"
+    ],
+    "2":[
+      "the obama administration",
+      "schools"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ],
+    "1":[
+      "netflix",
+      "australia"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... voting"
+    ],
+    "1":[
+      "is negotiating"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "1",
+      "lgbt",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usaeli",
+      "030"
+    ],
+    "1":[
+      "mncusa",
+      "aus",
+      "08",
+      "mncusa",
+      "aus",
+      "08"
+    ],
+    "2":[
+      "usagov",
+      "---edu",
+      "010"
+    ]
+  }
+}

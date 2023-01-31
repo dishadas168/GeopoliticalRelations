@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iranian-baby-enters-us-for-surgery_us_589b2217e4b04061313a837f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/unemployment-drug-test_us_5899f21be4b0c1284f284bd7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-law-limiting-governor-powers-temporarily-blocked_us_589b4168e4b09bd304bf15a2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/congress-russia-sanctions-bill_us_589b5f85e4b04061313ae824",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-sued-fossil-fuel-companies_us_589ad222e4b0c1284f296fe7"
+  },
+  "headline":{
+    "0":"Iranian Baby Barred By Travel Ban Enters U.S. For Lifesaving Surgery",
+    "1":"Republicans Pave The Way To Drug Test Poor And Jobless",
+    "2":"North Carolina GOP's Power Grab Temporarily Blocked By Court",
+    "3":"Senators From Both Parties Move To Prevent Trump From Lifting Russia Sanctions",
+    "4":"Donald Trump's EPA Pick Sued Over Thousands Of Undisclosed Records"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Doctors treating the girl in Oregon say they're hopeful they can successfully manage her heart condition.",
+    "1":"The Obama administration previously blocked state efforts to drug test people on unemployment and food stamps.",
+    "2":"Former Gov. Pat McCrory (R) signed House Bill 17 in December before his Democratic successor took over.",
+    "3":"A new bill would require congressional oversight for changes.",
+    "4":"A media watchdog group and the ACLU are pushing Scott Pruitt to disclose his ties to the energy industry before the Senate votes to confirm him."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Arthur Delaney",
+    "2":"Julia Craven",
+    "3":"Daniel Marans",
+    "4":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2017-02-08 00:00:00",
+    "1":"2017-02-08 00:00:00",
+    "2":"2017-02-08 00:00:00",
+    "3":"2017-02-08 00:00:00",
+    "4":"2017-02-08 00:00:00"
+  },
+  "actor1":{
+    "0":"irn",
+    "1":"usagov",
+    "2":"usa",
+    "3":"---leg",
+    "4":"ngousahrimed"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---jud",
+    "3":"rus",
+    "4":"---bus"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"170",
+    "2":"170",
+    "3":"120",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-7.0,
+    "2":-7.0,
+    "3":-4.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "iranian",
+      "irn",
+      "iran",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "senators",
+      "~leg",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "media",
+      "aclu",
+      "ngousahrimed",
+      "~",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "industry",
+      "~bus",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iranian",
+      "u.s."
+    ],
+    "1":[
+      "the obama administration",
+      "people"
+    ],
+    "2":[
+      "north carolina",
+      "court"
+    ],
+    "3":[
+      "senators",
+      "russia"
+    ],
+    "4":[
+      "media ... aclu",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ],
+    "4":[
+      "american civil liberties union",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "barred"
+    ],
+    "1":[
+      "blocked"
+    ],
+    "2":[
+      "blocked"
+    ],
+    "3":[
+      "move ... prevent"
+    ],
+    "4":[
+      "are pushing ... disclose"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "sanctions",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "irn",
+      "usa",
+      "172"
+    ],
+    "1":[
+      "usagov",
+      "---ppl",
+      "170"
+    ],
+    "2":[
+      "usa",
+      "---jud",
+      "170"
+    ],
+    "3":[
+      "---leg",
+      "rus",
+      "120"
+    ],
+    "4":[
+      "ngousahrimed",
+      "---bus",
+      "010"
+    ]
+  }
+}

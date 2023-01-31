@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/diamond-jubilee-carriage_us_5b9bce9be4b03a1dcc7a6a28"
+  },
+  "headline":{
+    "0":"Diamond Jubilee Carriage Ride: The Queen, Kate Middleton & More Take A Spin (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Despite the rain, the Queen braved the weather with Prince Charles and Camilla, Duchess of Cornwall, so that Brits lining"
+  },
+  "authors":{
+    "0":"Rebecca Adams"
+  },
+  "date":{
+    "0":"2012-06-05 00:00:00"
+  },
+  "actor1":{
+    "0":"'mamohato_"
+  },
+  "actor2":{
+    "0":"'ulukalala_lavaka_ata_"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "queen",
+      "prince"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "queen",
+      "prince"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "braved"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "'mamohato_",
+      "'ulukalala_lavaka_ata_",
+      "040"
+    ]
+  }
+}

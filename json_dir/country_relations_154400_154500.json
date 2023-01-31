@@ -1,0 +1,89 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brooke-lynn-domel-teacher-sex_us_5ba2bcf1e4b0c2784da54c75"
+  },
+  "headline":{
+    "0":"Brooke Lynn Domel, Texas Teacher Accused Of Sex With Student, Formally Fired By School Board"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"Domel, a married mother of two small children, is accused of an inappropriate relationship between educator and student, a"
+  },
+  "authors":{
+    "0":"Andres Jauregui"
+  },
+  "date":{
+    "0":"2013-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "~edu",
+      "~",
+      "student",
+      "~edu",
+      "~",
+      "texas",
+      "teacher",
+      "student",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "texas teacher ... student",
+      "student"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fired"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---edu",
+      "190"
+    ]
+  }
+}

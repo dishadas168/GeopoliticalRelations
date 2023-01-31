@@ -1,0 +1,223 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/virginia-ex-offenders_us_5730e213e4b016f378969edc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/krispy-kreme-acquired-jab_us_57309e08e4b096e9f091e8c4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/new-york-times-magazine-iran-deal-journalists_us_5730a94be4b096e9f091f028",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/us-troops-afghan-mission_us_5730654fe4b096e9f091d2f5",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.voanews.com\/content\/ann-day-sandra-day-oconnor-supreme-court-justice-dies-in-car-crash\/3320417.html?utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&utm_source=snsanalytics"
+  },
+  "headline":{
+    "0":"Civic Groups Are Rushing To Register Newly Eligible Ex-Offenders In Virginia",
+    "1":"Krispy Kreme Acquired For $1.35 Billion",
+    "2":"Journalists Dispute Claim They Helped Sell White House Iran Deal",
+    "3":"Pentagon Report Reveals Confusion Among U.S. Troops Over Afghan Mission",
+    "4":"Ann Day, Sister Of Sandra Day O'Connor, Dies In Car Crash"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"MEDIA",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cI feel like a citizen now,\" John Barbee, 62, says.",
+    "1":"German firm JAB is going into the doughnut business.",
+    "2":"The New York Times Magazine editor defended the description, though he acknowledged the journalists should have been contacted for comment.",
+    "3":"\"'How far do you want to go?' is not a proper response to 'How far do you want us to go?'\"",
+    "4":"TUCSON, ARIZONA\u2014\u00a0The sister of former U.S. Supreme Court Justice Sandra Day O'Connor was killed a car crash Saturday in Arizona"
+  },
+  "authors":{
+    "0":"Samantha Lachman",
+    "1":"",
+    "2":"Michael Calderone",
+    "3":"Josh Smith, Reuters",
+    "4":""
+  },
+  "date":{
+    "0":"2016-05-09 00:00:00",
+    "1":"2016-05-09 00:00:00",
+    "2":"2016-05-09 00:00:00",
+    "3":"2016-05-09 00:00:00",
+    "4":"2016-05-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"deu",
+    "2":"---med",
+    "3":"usamil",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---bus",
+    "2":"---med",
+    "3":"usa",
+    "4":"---jud"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"040",
+    "2":"040",
+    "3":"050",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":1.0,
+    "2":1.0,
+    "3":3.5,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "civic groups",
+      "~cvl",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "german",
+      "deu",
+      "germany",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "magazine editor",
+      "~med",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "court justice",
+      "~jud",
+      "~",
+      "court justice",
+      "~jud",
+      "~",
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "civic groups",
+      "virginia"
+    ],
+    "1":[
+      "german",
+      "business"
+    ],
+    "2":[
+      "magazine editor",
+      "magazine editor"
+    ],
+    "3":[
+      "pentagon",
+      "<u.s.>"
+    ],
+    "4":[
+      "arizona",
+      "court justice"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "germany",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states military",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are rushing to"
+    ],
+    "1":[
+      "is going"
+    ],
+    "2":[
+      "defended ... acknowledged <~med> ... contacted"
+    ],
+    "3":[
+      "reveals"
+    ],
+    "4":[
+      "<~jud> ... killed ... in <usa>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "deu",
+      "---bus",
+      "040"
+    ],
+    "2":[
+      "---med",
+      "---med",
+      "040"
+    ],
+    "3":[
+      "usamil",
+      "usa",
+      "050"
+    ],
+    "4":[
+      "usa",
+      "---jud",
+      "190"
+    ]
+  }
+}

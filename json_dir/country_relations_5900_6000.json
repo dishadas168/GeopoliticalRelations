@@ -1,0 +1,383 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/kremlin-warning-russia-trump-putin-phone-call-transcripts_n_5d8e961be4b0ac3cdda8d496",
+    "1":"https:\/\/www.huffpost.com\/entry\/chuck-schumer-donald-trump-russia-election-interference-disturbing_n_5d8f9bf0e4b0e9e7604dba18",
+    "2":"https:\/\/www.huffpost.com\/entry\/new-york-times-trump-ukraine-whistleblower_n_5d8e0b55e4b0e9e7604b7903",
+    "3":"https:\/\/www.huffpost.com\/entry\/fbi-arrests-army-member-bomb-news-network_n_5d88fa36e4b0938b59324449",
+    "4":"https:\/\/www.huffpost.com\/entry\/mom-teen-arrested-school-shooting-columbine-washington_n_5d837842e4b0957256b23b77",
+    "5":"https:\/\/www.huffpost.com\/entry\/ice-microsoft-protest-new-york-arrests_n_5d7e0822e4b077dcbd5fb9fa",
+    "6":"https:\/\/www.huffpost.com\/entry\/boris-johnson-hulk-brexit_n_5d7ec6dfe4b00d69059acf69",
+    "7":"https:\/\/www.huffpost.com\/entry\/china-lifts-tariffs-soybeans-pork_n_5d7bc68ce4b03b5fc882b67f",
+    "8":"https:\/\/www.huffpost.com\/entry\/new-zealand-plans-further-restrictions-to-gun-ownership_n_5d7b5b11e4b077dcbd5c21ec"
+  },
+  "headline":{
+    "0":"Nervous Kremlin Warns U.S. Against Releasing Transcripts Of Trump's Calls With Putin",
+    "1":"Schumer: New Trump-Russia Report Among 'Most Disturbing Things We've Learned'",
+    "2":"Here's Why The New York Times Published Details On The Trump-Ukraine Whistleblower",
+    "3":"FBI Arrests U.S. Army Member Over Alleged Plot To Bomb News Network",
+    "4":"Mom Thwarts Potential School Shooting After Alerting Cops To Son\u2019s Plans",
+    "5":"Dozens Of Anti-ICE Protesters Arrested During Sit-In At NYC Microsoft Store",
+    "6":"Boris Johnson Mocked For Channeling The Hulk In Brexit Ramblings",
+    "7":"China To Lift Punitive Tariffs On U.S. Soybeans, Pork",
+    "8":"New Zealand Plans Further Restrictions To Gun Ownership"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"MEDIA",
+    "3":"POLITICS",
+    "4":"CRIME",
+    "5":"U.S. NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS",
+    "8":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Russian Foreign Minister\u00a0Sergei Lavrov says his mother taught him that sharing private conversations is \"indecent.\"",
+    "1":"New allegations have surfaced that the president told Russian officials he didn't care about election interference.",
+    "2":"Executive editor Dean Baquet is defending the decision amid criticism from readers and the whistleblower's lawyers.",
+    "3":"The soldier allegedly discussed traveling to Ukraine to join an extremist group.",
+    "4":"Authorities are commending the mother for calling police after finding his plans to target his school on the anniversary of the Columbine shooting.",
+    "5":"The demonstrators were protesting Microsoft's business ties with U.S. Immigration and Customs Enforcement.",
+    "6":"The British prime minister made the bizarre comparison as he stressed his resolve to break Britain out of the European Union by October 31.",
+    "7":"President Donald Trump also delayed a planned tariff hike on Chinese imports this week in a conciliatory gesture.",
+    "8":"The bill comes six months after a gunman killed 51 people at two mosques in Christchurch."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Amy Russo",
+    "2":"Amy Russo",
+    "3":"Antonia Blumberg and Ryan J. Reilly",
+    "4":"Nina Golgowski",
+    "5":"Dominique Mosbergen",
+    "6":"Chris York",
+    "7":"",
+    "8":""
+  },
+  "date":{
+    "0":"2019-09-28 00:00:00",
+    "1":"2019-09-28 00:00:00",
+    "2":"2019-09-27 00:00:00",
+    "3":"2019-09-23 00:00:00",
+    "4":"2019-09-19 00:00:00",
+    "5":"2019-09-15 00:00:00",
+    "6":"2019-09-15 00:00:00",
+    "7":"2019-09-13 00:00:00",
+    "8":"2019-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"rusgov",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"---mil",
+    "4":"---gov",
+    "5":"---opp",
+    "6":"gbrgov",
+    "7":"---gov",
+    "8":"---uaf"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"rus",
+    "2":"---jud",
+    "3":"ukr",
+    "4":"---cvl",
+    "5":"mncusabus",
+    "6":"gbr",
+    "7":"chn",
+    "8":"nzlppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"052",
+    "3":"040",
+    "4":"051",
+    "5":"140",
+    "6":"015",
+    "7":"120",
+    "8":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":3.5,
+    "3":1.0,
+    "4":3.4,
+    "5":-6.5,
+    "6":0.0,
+    "7":-4.0,
+    "8":-10.0
+  },
+  "nouns":{
+    "0":[
+      "sergei lavrov",
+      "rusgov",
+      "sergey",
+      "lavrov",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "dean",
+      "~edu",
+      "~",
+      "lawyers",
+      "~jud",
+      "~",
+      "lawyers",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "soldier",
+      "~mil",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "extremist",
+      "~rad",
+      "~"
+    ],
+    "4":[
+      "authorities",
+      "~gov",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "microsoft",
+      "business",
+      "mncusabus",
+      "microsoft",
+      "~"
+    ],
+    "6":[
+      "british",
+      "prime minister",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~",
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "8":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "christchurch",
+      "nzl",
+      "new",
+      "zealand"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sergei lavrov",
+      "mother"
+    ],
+    "1":[
+      "president",
+      "russian"
+    ],
+    "2":[
+      "dean",
+      "lawyers"
+    ],
+    "3":[
+      "soldier",
+      "ukraine"
+    ],
+    "4":[
+      "authorities",
+      "mother"
+    ],
+    "5":[
+      "demonstrators",
+      "microsoft ... business"
+    ],
+    "6":[
+      "british prime minister",
+      "britain"
+    ],
+    "7":[
+      "president",
+      "chinese"
+    ],
+    "8":[
+      "gunman",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sergey lavrov",
+      "---"
+    ],
+    "1":[
+      "---",
+      "russian federation"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "ukraine"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "microsoft"
+    ],
+    "6":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "7":[
+      "---",
+      "china"
+    ],
+    "8":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "defending ... decision"
+    ],
+    "3":[
+      "discussed traveling"
+    ],
+    "4":[
+      "are commending"
+    ],
+    "5":[
+      "were protesting"
+    ],
+    "6":[
+      "made ... stressed ... break"
+    ],
+    "7":[
+      "delayed"
+    ],
+    "8":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_extremism",
+      "1"
+    ],
+    "4":[
+      "security_services",
+      "1",
+      "schools",
+      "1"
+    ],
+    "5":[
+      "id_immigration",
+      "1"
+    ],
+    "6":null,
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "rusgov",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "rus",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---jud",
+      "052"
+    ],
+    "3":[
+      "---mil",
+      "ukr",
+      "040"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "051"
+    ],
+    "5":[
+      "---opp",
+      "mncusabus",
+      "140"
+    ],
+    "6":[
+      "gbrgov",
+      "gbr",
+      "015"
+    ],
+    "7":[
+      "---gov",
+      "chn",
+      "120"
+    ],
+    "8":[
+      "---uaf",
+      "nzlppl",
+      "190"
+    ]
+  }
+}

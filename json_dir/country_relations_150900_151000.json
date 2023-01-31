@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kindergarten-kids-explain-first-day-of-school_us_5b9d772de4b03a1dcc885425"
+  },
+  "headline":{
+    "0":"Kindergarten Kids Explain Their First Day Of School In Charming Pop Quiz (VIDEO)"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"These newly-minted kindergartners were so delightfully frank when asked about the first day of school -- before AND after"
+  },
+  "authors":{
+    "0":"Mandy Velez"
+  },
+  "date":{
+    "0":"2013-08-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "kindergartners",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kindergartners",
+      "kindergartners"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "were ... asked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "020"
+    ]
+  }
+}

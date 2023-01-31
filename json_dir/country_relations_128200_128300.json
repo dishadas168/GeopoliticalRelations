@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-global-search-for-edu_b_5243396.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/korea-ferry-video_n_5243240.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/islamic-scholars-approve_b_5244819.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ukraine-crisis_b_5214581.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/is-the-gates-foundation-investing-in-the-abuse-of-palestinian-prisoners_b_5230578.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/is-the-gates-foundation-investing-in-the-abuse-of-palestinian-prisoners_b_5230578.html"
+  },
+  "headline":{
+    "0":"The Global Search for Education: Ticks - World's Leading Scientists Will Meet in Oslo",
+    "1":"South Korean Sinking Ferry Videos Reportedly Capture Passengers In Their Final Moments",
+    "2":"Islamic Scholars Approve Visit to Jerusalem",
+    "3":"The Many Paradoxes of the Ukraine Crisis",
+    "4":"Is the Gates Foundation Investing in the Abuse of Palestinian Prisoners?",
+    "5":"Is the Gates Foundation Investing in the Abuse of Palestinian Prisoners?"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"WORLDPOST",
+    "5":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"A visit to Jerusalem by everyone and anyone that can is a small first step in the direction of showing solidarity with the city and its Palestinian Arab heroes.",
+    "3":"Putin may think, like Shakespeare's Macbeth, that he is so far gone in imperial crimes that it would be as tiresome to go over as back. But in fact he has bet the farm on this adventure and given the West no choice but to insist that he take this risk.",
+    "4":"Earlier this month, Palestinian human rights organizations launched a campaign calling on the Bill and Melinda Gates Foundation to divest from the controversial British security firm G4S, which they say is \"at the heart of [Israel's prison] system, installing and running security systems at Israeli jails.\"",
+    "5":"Earlier this month, Palestinian human rights organizations launched a campaign calling on the Bill and Melinda Gates Foundation to divest from the controversial British security firm G4S, which they say is \"at the heart of [Israel's prison] system, installing and running security systems at Israeli jails.\""
+  },
+  "authors":{
+    "0":"C. M. Rubin, ContributorBlogger and author, 'The Real Alice in Wonderland'",
+    "1":"Andrew Hart",
+    "2":"Daoud Kuttab, ContributorPalestinian journalist",
+    "3":"Stephen Blank, ContributorFellow, The American Foreign Policy Council",
+    "4":"Patrick O. Strickland, ContributorIndependent journalist based in the West Bank and Israel",
+    "5":"Patrick O. Strickland, ContributorIndependent journalist based in the West Bank and Israel"
+  },
+  "date":{
+    "0":"2014-05-01 00:00:00",
+    "1":"2014-05-01 00:00:00",
+    "2":"2014-05-01 00:00:00",
+    "3":"2014-04-30 00:00:00",
+    "4":"2014-04-30 00:00:00",
+    "5":"2014-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"kor",
+    "2":"isr",
+    "3":"rusgov",
+    "4":"ngousa",
+    "5":"pse"
+  },
+  "actor2":{
+    "0":"nor",
+    "1":"---cvl",
+    "2":"---musedu",
+    "3":"rusgov",
+    "4":"pse",
+    "5":"ngousa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"171",
+    "2":"043",
+    "3":"040",
+    "4":"061",
+    "5":"020"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2,
+    "2":2.8,
+    "3":1.0,
+    "4":6.4,
+    "5":3.0
+  },
+  "nouns":{
+    "0":[
+      "scientists",
+      "~cvl",
+      "~",
+      "scientists",
+      "~cvl",
+      "~",
+      "oslo",
+      "nor",
+      "norway"
+    ],
+    "1":[
+      "south korean",
+      "kor",
+      "south",
+      "korea",
+      "passengers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "islamic",
+      "scholars",
+      "~musedu",
+      "~",
+      "~",
+      "jerusalem",
+      "isr",
+      "israel"
+    ],
+    "3":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "4":[
+      "gates foundation",
+      "ngousa",
+      "gates",
+      "foundation",
+      "palestinian",
+      "pse",
+      "palestine"
+    ],
+    "5":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "gates foundation",
+      "ngousa",
+      "gates",
+      "foundation",
+      "israeli",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "scientists",
+      "oslo"
+    ],
+    "1":[
+      "south korean",
+      "passengers"
+    ],
+    "2":[
+      "jerusalem",
+      "islamic scholars",
+      "islamic scholars",
+      "jerusalem"
+    ],
+    "3":[
+      "putin",
+      "putin"
+    ],
+    "4":[
+      "gates foundation",
+      "palestinian"
+    ],
+    "5":[
+      "palestinian",
+      "gates foundation"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "norway"
+    ],
+    "1":[
+      "south korea",
+      "---"
+    ],
+    "2":[
+      "israel",
+      "---",
+      "---",
+      "israel"
+    ],
+    "3":[
+      "vladimir putin",
+      "vladimir putin"
+    ],
+    "4":[
+      "gates foundation",
+      "palestine"
+    ],
+    "5":[
+      "palestine",
+      "gates foundation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will meet"
+    ],
+    "1":[
+      "capture"
+    ],
+    "2":[
+      "visit",
+      "visit"
+    ],
+    "3":[
+      "may think <rusgov> ... gone in <--->"
+    ],
+    "4":[
+      "investing"
+    ],
+    "5":[
+      "launched ... campaign calling on"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "human_rights",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "nor",
+      "040"
+    ],
+    "1":[
+      "kor",
+      "---cvl",
+      "171"
+    ],
+    "2":[
+      "isr",
+      "---musedu",
+      "043",
+      "---musedu",
+      "isr",
+      "042"
+    ],
+    "3":[
+      "rusgov",
+      "rusgov",
+      "040"
+    ],
+    "4":[
+      "ngousa",
+      "pse",
+      "061"
+    ],
+    "5":[
+      "pse",
+      "ngousa",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/post_us_5bb143abe4b09bbe9a5d8ba6"
+  },
+  "headline":{
+    "0":"Can Louisiana Gov. Bobby Jindal Make the Big Oil Lawsuit Go Away?"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"Last week, Garret Graves, speaking for Louisiana Governor Bobby Jindal, told the nominating committee for the Southeast Louisiana Flood Protection Authority-East that the Governor would refuse to approve the reappointment of John Barry and Tim Doody."
+  },
+  "authors":{
+    "0":"Sandy Rosenthal, Contributor\nFounder of Levees.org"
+  },
+  "date":{
+    "0":"2013-09-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "louisiana",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "authority",
+      "~gov",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "louisiana governor",
+      "authority"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "010"
+    ]
+  }
+}

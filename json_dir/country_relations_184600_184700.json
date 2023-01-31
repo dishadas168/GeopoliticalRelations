@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/italys-most-stunning-natural-beauty-photos_us_5b9c2001e4b03a1dcc7c7b87"
+  },
+  "headline":{
+    "0":"The Most Stunning Faces Of Italy's Natural Beauty (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"There are plenty of very good reasons to visit Italy, but it's quite surprising that relatively few tourists recognize Italy as a true \"nature holiday\" destination."
+  },
+  "authors":{
+    "0":"Paolo Rossi, Contributor\nTravel enthusiast, charmingsardinia.com"
+  },
+  "date":{
+    "0":"2012-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"ita"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "tourists",
+      "~cvl",
+      "~",
+      "italy",
+      "ita",
+      "italy"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "tourists",
+      "italy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "italy"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "recognize"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "ita",
+      "051"
+    ]
+  }
+}

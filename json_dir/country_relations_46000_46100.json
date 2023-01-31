@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-isis-istanbul-reina-night-club-attack-a-lesson_us_586ae982e4b04d7df167d6db",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/judge-closes-hearing-on-roofs-mental-fitness-for-self-representation_us_586a7167e4b0eb58648a1508",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-baghdad-mosul_us_586a6054e4b0d9a5945c00fb"
+  },
+  "headline":{
+    "0":"The ISIS Istanbul Reina Night Club Attack: A Lesson In What Happens When One Invites Cannibals To Dinner",
+    "1":"Judge Closes Hearing On Roof's Mental Fitness For Self-Representation",
+    "2":"ISIS Kills At Least 24 In Baghdad Bombing, Cut Key Road To Mosul"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"ISIS attacked again in Turkey, this time on New Year\u2019s Eve in the Reina Night Club, one of the most well-known and crowded",
+    "1":"The judge also banned relatives of the victims from attending the hearing.",
+    "2":"The militant group is trying to hold off an enormous advance on the occupied city of Mosul."
+  },
+  "authors":{
+    "0":"Ahmet S Yayla and Anne Speckhard, Contributors",
+    "1":"Harriet McLeod, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2017-01-03 00:00:00",
+    "1":"2017-01-02 00:00:00",
+    "2":"2017-01-02 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"---jud",
+    "2":"imgmusisi"
+  },
+  "actor2":{
+    "0":"tur",
+    "1":"---cvl",
+    "2":"irq"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"172",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "baghdad",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "turkey"
+    ],
+    "1":[
+      "judge",
+      "victims"
+    ],
+    "2":[
+      "isis",
+      "baghdad"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "turkey"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "the islamic state",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "attacked"
+    ],
+    "1":[
+      "banned"
+    ],
+    "2":[
+      "kills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "tur",
+      "190"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "172"
+    ],
+    "2":[
+      "imgmusisi",
+      "irq",
+      "190"
+    ]
+  }
+}

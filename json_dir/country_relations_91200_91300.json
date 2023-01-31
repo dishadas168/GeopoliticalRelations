@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/france-store-robbery_us_55a39568e4b0a47ac15cc81d"
+  },
+  "headline":{
+    "0":"Police Free 18 People Who Were Trapped Inside French Store During Attempted Robbery"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"VILLENEUVE-LA-GARENNE, France (AP) \u2014 A group of gunmen broke into a discount clothing store near Paris on Monday, trapping"
+  },
+  "authors":{
+    "0":"THIBAULT CAMUS AND ANGELA CHARLTON, AP"
+  },
+  "date":{
+    "0":"2015-07-13 00:00:00"
+  },
+  "actor1":{
+    "0":"frauaf"
+  },
+  "actor2":{
+    "0":"fra"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "gunmen",
+      "~uaf",
+      "~",
+      "france",
+      "gunmen",
+      "frauaf",
+      "france",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "france ... gunmen",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "broke"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "frauaf",
+      "fra",
+      "190"
+    ]
+  }
+}

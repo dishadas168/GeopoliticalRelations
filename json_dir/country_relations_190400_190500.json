@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/new-travel-show-trip-flip_us_5b9be972e4b03a1dcc7b1579",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/workout-music-50-cent_us_5b9beae6e4b03a1dcc7b1ccc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/vitamin-d-weight_us_5b9be8dee4b03a1dcc7b0f29"
+  },
+  "headline":{
+    "0":"'Trip Flip,' New Travel Show, Is More Than Your Average Vacation (VIDEO)",
+    "1":"My Workout Music For Success",
+    "2":"Insufficient Vitamin D Linked With Increased Weight In Older Women: Study"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS",
+    "2":"WELLNESS"
+  },
+  "short_description":{
+    "0":"First stop: Yankee Stadium. Some people may visit New York and take in a Yankees game, but who gets to spend the day at the",
+    "1":"Music is my passion. It's allowed me to get where I am today, and\u00ad my success in the industry helped me start other projects and businesses. I don't listen to just one genre, so my music collection and playlists reflect all types of artists and music.",
+    "2":"The Journal of Women's Health study was conducted in about 4,600 older women, ages 65 and older. The researchers said that"
+  },
+  "authors":{
+    "0":"Rebecca Dolan",
+    "1":"50 Cent, Contributor\nRapper and entrepreneuer",
+    "2":""
+  },
+  "date":{
+    "0":"2012-06-28 00:00:00",
+    "1":"2012-06-27 00:00:00",
+    "2":"2012-06-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---bus",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"070",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":7.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~",
+      "businesses",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "new york"
+    ],
+    "1":[
+      "industry",
+      "industry"
+    ],
+    "2":[
+      "women",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "may visit"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "conducted in <~cvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "070"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

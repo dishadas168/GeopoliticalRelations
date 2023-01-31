@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nbcnews.com\/politics\/2016-election\/sheldon-adelson-owned-las-vegas-newspaper-endorses-rubio-n512421",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hayward-unified-college-credit_us_56b4f6cce4b04f9b57d97d8f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/vlogger-shamed-in-walmart-fitting-room-because-she-might-stretch-clothes_us_56b37e23e4b01d80b2454eba"
+  },
+  "headline":{
+    "0":"Sheldon Adelson's Newspaper Just Endorsed Marco Rubio",
+    "1":"This Middle School Is Helping Students Earn College Credits",
+    "2":"Vlogger Shamed In Walmart Fitting Room Because She Might 'Stretch' Clothes"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"The Las Vegas Review-Journal endorsed Florida Sen. Marco Rubio for the Republican nomination Friday, saying their reasons",
+    "1":"\"What better way to promote college and career readiness?\u201d",
+    "2":"The employee appears to tell her, \"Just don't try to push it.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Susan Frey, EdSource",
+    "2":"Taylor Pittman"
+  },
+  "date":{
+    "0":"2016-02-05 00:00:00",
+    "1":"2016-02-05 00:00:00",
+    "2":"2016-02-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---edu",
+    "2":"---lab"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---edu",
+    "2":"---lab"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"070",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":7.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "middle school",
+      "~edu",
+      "~",
+      "students",
+      "college",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "2":[
+      "employee",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "las vegas",
+      "las vegas"
+    ],
+    "1":[
+      "middle school",
+      "middle school"
+    ],
+    "2":[
+      "employee",
+      "employee"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "endorsed"
+    ],
+    "1":[
+      "is ... helping"
+    ],
+    "2":[
+      "appears ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1",
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "051"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "070"
+    ],
+    "2":[
+      "---lab",
+      "---lab",
+      "010"
+    ]
+  }
+}

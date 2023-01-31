@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/social-workers-charged-detroit_us_582a0db5e4b0c4b63b0dcf38",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chinas-xi-tells-donald-trump-that-cooperation-is-the-only-choice_us_5829b373e4b02d21bbc96cfe"
+  },
+  "headline":{
+    "0":"Social Workers Face Manslaughter Charges In Detroit Toddler's Death",
+    "1":"China's Xi Tells Donald Trump That Cooperation Is The Only Choice"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Prosecutors accuse two women of failing to protect 3-year-old Aaron Minor after his mother was flagged to Child Protective Services.",
+    "1":"The U.S. president-elect lambasted China throughout his campaign."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Michael Martina and Steve Holland, Reuters"
+  },
+  "date":{
+    "0":"2016-11-14 00:00:00",
+    "1":"2016-11-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"chn"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"111"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "women",
+      "mother",
+      "child",
+      "~cvl",
+      "~",
+      "~",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "women ... mother ... child"
+    ],
+    "1":[
+      "u.s. president",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "accuse"
+    ],
+    "1":[
+      "lambasted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cvl",
+      "112"
+    ],
+    "1":[
+      "usagov",
+      "chn",
+      "111"
+    ]
+  }
+}

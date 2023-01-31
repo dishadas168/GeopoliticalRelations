@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-world-bank-risks-dirt_b_5493130.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/homeless-mannequins_n_5493542.html"
+  },
+  "headline":{
+    "0":"The World Bank Risks Dirtying Its Hands in Uzbekistan",
+    "1":"People Would Rather Give To Homeless Mannequins Than To Actual Homeless People"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"In Uzbekistan, when summer turns to fall, the government forces more than a million of its citizens to drop what they are doing and pick cotton, according to independent monitors.",
+    "1":""
+  },
+  "authors":{
+    "0":"Jeff Goldstein, ContributorSenior Policy Analyst for Eurasia, Open Society Institute",
+    "1":"Eleanor Goldberg"
+  },
+  "date":{
+    "0":"2014-06-13 00:00:00",
+    "1":"2014-06-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "citizens",
+      "~cvl",
+      "~",
+      "citizens",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "citizens"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "forces"
+    ],
+    "1":[
+      "would ... give"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "poverty",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "170"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/creationism-at-its-most-e_b_5582955.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/creationism-at-its-most-e_b_5582955.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/department-of-agriculture_b_5578095.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/christie-agency-awarded-2_n_5581311.html"
+  },
+  "headline":{
+    "0":"Creationism at Its Most Extreme: Will the Scottish Parliament Respond?",
+    "1":"Creationism at Its Most Extreme: Will the Scottish Parliament Respond?",
+    "2":"Department of Agriculture Sends Misguided Fiasco of a Poultry Processing Rule to the White House",
+    "3":"Christie Administration Gave $260 Million To Company With Political Ties"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"RELIGION",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Members of a young Earth, fundamentalist Christian sect from the United States have found their way to Scotland and have been promoting their beliefs in a public elementary school. Part of their missionary work has been to distribute \"science\" books to the students.",
+    "1":"Members of a young Earth, fundamentalist Christian sect from the United States have found their way to Scotland and have been promoting their beliefs in a public elementary school. Part of their missionary work has been to distribute \"science\" books to the students.",
+    "2":"The millions of consumers who eat undercooked chicken at their peril and the beleaguered workers in these dank, overcrowded, and dangerous plants can only hope the president's people come to their senses over there and kill this misguided fiasco.",
+    "3":""
+  },
+  "authors":{
+    "0":"Michael Zimmerman, Ph.D., ContributorFounder, The Clergy Letter Project",
+    "1":"Michael Zimmerman, Ph.D., ContributorFounder, The Clergy Letter Project",
+    "2":"Rena Steinzor, ContributorProfessor, University of Maryland School of Law",
+    "3":""
+  },
+  "date":{
+    "0":"2014-07-14 00:00:00",
+    "1":"2014-07-14 00:00:00",
+    "2":"2014-07-14 00:00:00",
+    "3":"2014-07-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usachr",
+    "1":"---rel",
+    "2":"usagov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"---govagr",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010",
+    "2":"043",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0,
+    "2":2.8,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "christian",
+      "usachr",
+      "~",
+      "scotland",
+      "gbr",
+      "united",
+      "kingdom",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "missionary",
+      "~rel",
+      "~",
+      "missionary",
+      "~rel",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "department of agriculture",
+      "~govagr",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "christian",
+      "school"
+    ],
+    "1":[
+      "missionary",
+      "students"
+    ],
+    "2":[
+      "the white house",
+      "department of agriculture",
+      "department of agriculture",
+      "the white house"
+    ],
+    "3":[
+      "administration",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "white house",
+      "---",
+      "---",
+      "white house"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... promoting"
+    ],
+    "1":[
+      "has ... distribute"
+    ],
+    "2":[
+      "rule to",
+      "rule to"
+    ],
+    "3":[
+      "gave"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":[
+      "agriculture",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usachr",
+      "---edu",
+      "050"
+    ],
+    "1":[
+      "---rel",
+      "---edu",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "---govagr",
+      "043",
+      "---govagr",
+      "usagov",
+      "042"
+    ],
+    "3":[
+      "---gov",
+      "---bus",
+      "060"
+    ]
+  }
+}

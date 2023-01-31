@@ -1,0 +1,223 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-racial-bias-police_us_57e434bbe4b0e28b2b52f012",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/homecoming-queen-anthony-martinez_us_57e2cb5ce4b0e28b2b51bcd4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-steps-up-plan-to-protect-girls-from-female-genital-mutilation_us_57e42d0ee4b0e28b2b52e3da",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-mexico-young-latinos_us_57e2cbdde4b0e80b1b9fc9d6",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/wednesdays-morning-email-this-is-how-many-immigrants-trump-wants-out-of-the-us_us_57e278b0e4b08d73b82e707d"
+  },
+  "headline":{
+    "0":"Mike Pence Says We Shouldn't Talk About Racial Bias In The Wake Of Police Shootings",
+    "1":"Gender Fluid Teen Will Be Allowed To Run For Homecoming Queen",
+    "2":"U.S. Steps Up Plan To Protect Girls From Female Genital Mutilation",
+    "3":"What Hillary Clinton Told Us About Mexico And The Political Power Of Young Latinos",
+    "4":"Wednesday's Morning Email: This Is How Many Immigrants Trump Wants Out Of The U.S."
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"IMPACT",
+    "3":"LATINO VOICES",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The GOP vice presidential candidate called for people to move away \"from the rhetoric of division and embrace the rhetoric of unity.\"",
+    "1":"Anthony Martinez said school officials initially turned him down.",
+    "2":"In the U.S., 513,000 women and girls live at risk of FGM.",
+    "3":"In an exclusive Q&A with HuffPost Mexico, the Democratic nominee answered questions about U.S.-Mexican relations, the Latino vote and more.",
+    "4":"11.1 million."
+  },
+  "authors":{
+    "0":"Igor Bobic",
+    "1":"Curtis M. Wong",
+    "2":"",
+    "3":"Alfredo La Mont, HuffPost Mexico",
+    "4":"Lauren Weber"
+  },
+  "date":{
+    "0":"2016-09-22 00:00:00",
+    "1":"2016-09-22 00:00:00",
+    "2":"2016-09-22 00:00:00",
+    "3":"2016-09-22 00:00:00",
+    "4":"2016-09-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"blzgov",
+    "2":"usa",
+    "3":"usaeli",
+    "4":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"mex",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"0334",
+    "3":"010",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":6.0,
+    "3":0.0,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "presidential candidate",
+      "~pty",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "anthony martinez",
+      "blzgov",
+      "anthony",
+      "martinez",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "4":[
+      "immigrants",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "presidential candidate",
+      "people"
+    ],
+    "1":[
+      "anthony martinez",
+      "school"
+    ],
+    "2":[
+      "u.s.",
+      "girls"
+    ],
+    "3":[
+      "hillary clinton",
+      "mexico"
+    ],
+    "4":[
+      "immigrants",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "anthony martinez",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "mexico"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called for"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "plan ... protect"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---ppl",
+      "020"
+    ],
+    "1":[
+      "blzgov",
+      "---edu",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "0334"
+    ],
+    "3":[
+      "usaeli",
+      "mex",
+      "010"
+    ],
+    "4":[
+      "---cvl",
+      "usa",
+      "030"
+    ]
+  }
+}

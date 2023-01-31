@@ -1,0 +1,161 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-travelers_us_56b555b5e4b01d80b2467589",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pentagon-bush-torture-pictures-secret_us_56b52971e4b08069c7a769ad",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-goals-of-washington-a_b_9177364.html"
+  },
+  "headline":{
+    "0":"The Clintons' Arkansas Network Comes To New Hampshire",
+    "1":"Pentagon Continues To Block Release Of Bush-Era Torture Photos",
+    "2":"What Washington's Apathy Towards the Iran-Russia Alliance in Syria Means for the War"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Arkansas Travelers have been helping the Clintons since 1992.",
+    "1":"The military released 198 photos, a small part of those sought by the ACLU that purport to show damning detainee abuse.",
+    "2":"Russia is not hiding its goals in its Syrian war, and is not ambiguous about its alliance with Iran, Iranian-backed militias and the regime of Bashar al-Assad. Moscow decided from the outset that the war in Syria is a Russian war on \"Islamic terrorism,\" and will not stop until it declares victory."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Jessica Schulberg and Cristian Farias",
+    "2":"Raghida Dergham, ContributorColumnist and Senior Diplomatic Correspondent, Al Hayat"
+  },
+  "date":{
+    "0":"2016-02-06 00:00:00",
+    "1":"2016-02-06 00:00:00",
+    "2":"2016-02-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---mil",
+    "2":"rus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"ngousahri",
+    "2":"syr"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"084",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "arkansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "new hampshire",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "military",
+      "~mil",
+      "~",
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union"
+    ],
+    "2":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria",
+      "russian",
+      "islamic",
+      "rusmus",
+      "russian",
+      "federation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "arkansas",
+      "arkansas"
+    ],
+    "1":[
+      "military",
+      "aclu"
+    ],
+    "2":[
+      "moscow",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "american civil liberties union"
+    ],
+    "2":[
+      "russian federation",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "comes to"
+    ],
+    "1":[
+      "released"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---mil",
+      "ngousahri",
+      "084"
+    ],
+    "2":[
+      "rus",
+      "syr",
+      "030",
+      "rus",
+      "syr",
+      "030"
+    ]
+  }
+}

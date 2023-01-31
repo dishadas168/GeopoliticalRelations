@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/berlin-turkey-attack-trump_us_58594175e4b0b3ddfd8ea393"
+  },
+  "headline":{
+    "0":"Far-Right Politicians Rush To Take Advantage Of The Berlin Attack"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Leaders rapidly sent out statements trying to fit the tragedy to their narratives."
+  },
+  "authors":{
+    "0":"Nick Robins-Early"
+  },
+  "date":{
+    "0":"2016-12-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty"
+  },
+  "actor2":{
+    "0":"deu"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "politicians",
+      "~pty",
+      "~",
+      "berlin",
+      "deu",
+      "germany"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "politicians",
+      "berlin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "germany"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rush ... take"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "deu",
+      "171"
+    ]
+  }
+}

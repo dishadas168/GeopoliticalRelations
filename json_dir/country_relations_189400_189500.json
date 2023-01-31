@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/denise-rich-us-citizenship_us_5b9bf770e4b03a1dcc7b6e35",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/autism_us_5b9bf64ee4b03a1dcc7b68f0"
+  },
+  "headline":{
+    "0":"Denise Rich Renounces U.S. Citizenship, Will Save Tens Of Millions In Tax Dollars",
+    "1":"Your Child's Autism Cures You From Trying to Please Everyone"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"The Cook Islands, a South Pacific tax haven, offers Swiss-style secrecy for wealthy investors. July 9 (Reuters) - Denise",
+    "1":"Working in a media outlet doesn't necessarily guarantee that you are surrounded by people with high communication skills and knowledge of the human psyche."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Dafna Maor, Contributor\nGlobal Business Editor, Israeli Daily Newspaper"
+  },
+  "date":{
+    "0":"2012-07-09 00:00:00",
+    "1":"2012-07-09 00:00:00"
+  },
+  "actor1":{
+    "0":"cok",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"021"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "cook islands",
+      "cok",
+      "cook",
+      "islands",
+      "investors",
+      "~bus",
+      "~",
+      "investors",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cook islands",
+      "investors"
+    ],
+    "1":[
+      "media",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cook islands",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ],
+    "1":[
+      "does ... guarantee <~med> ... surrounded by <~ppl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "cok",
+      "---bus",
+      "030"
+    ],
+    "1":[
+      "---med",
+      "---ppl",
+      "021"
+    ]
+  }
+}

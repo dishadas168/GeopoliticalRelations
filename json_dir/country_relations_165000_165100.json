@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nerds-vs-hipsters-reddit_us_5bad1ce9e4b04234e856d366",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/second-murder-of-a-teache_us_5bb1a859e4b01857b7097097",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/searching-for-an-old-city-medellin-colombia_us_5b9cfa7be4b03a1dcc83770d"
+  },
+  "headline":{
+    "0":"Nerds vs. Hipsters: Reddit Photo Explains It All",
+    "1":"Second Murder of a Teacher in One Week",
+    "2":"Searching for an Old City in Medellin, Colombia"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"IMPACT",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"A lot of people describe themselves as nerds these days who really aren't. They're hipsters. But if you have a hard time",
+    "1":"Pakistan is today counting the costs of a week of carnage in which teachers and pupils have been violently attacked simply because they want to go to school. As pupils gathered at the Baldia Town School this morning for an awards ceremony, grenades were hurled into the building and then shots rang out.",
+    "2":"\"All the romantic relationships in Robledo revolved around El Jordan thanks to that jukebox,\" says Margarita Velez, age 72, who has spent nearly her entire life in the neighborhood."
+  },
+  "authors":{
+    "0":"",
+    "1":"Gordon Brown, Contributor\nFormer Prime Minister of the United Kingdom; UN Special Envoy ...",
+    "2":"Elyssa Pachico, Contributor\nLatin America expert, see more about me at http:\/\/linkd.in\/1mF..."
+  },
+  "date":{
+    "0":"2013-03-30 00:00:00",
+    "1":"2013-03-30 00:00:00",
+    "2":"2013-03-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"col"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"col"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"090"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "pupils",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "colombia",
+      "col",
+      "colombia",
+      "medellin",
+      "col",
+      "colombia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "pupils",
+      "pupils"
+    ],
+    "2":[
+      "colombia",
+      "colombia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "colombia",
+      "colombia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "describe"
+    ],
+    "1":[
+      "gathered"
+    ],
+    "2":[
+      "searching"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "040"
+    ],
+    "2":[
+      "col",
+      "col",
+      "090"
+    ]
+  }
+}

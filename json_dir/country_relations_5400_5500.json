@@ -1,0 +1,353 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/pennsylvania-catholic-diocese-pays-abuse-victims_n_5e0506f5e4b0b2520d136515",
+    "1":"https:\/\/www.huffpost.com\/entry\/prince-philip-leaves-hospital_n_5e0248c2e4b05b08babb32f9",
+    "2":"https:\/\/www.huffpost.com\/entry\/star-wars-the-rise-of-skywalker-box-office_n_5e007064e4b05b08bab7b846",
+    "3":"https:\/\/www.huffpost.com\/entry\/mitch-mcconnell-blasts-impeachment-says-senate-ensures-stability_n_5dfb8d34e4b0eb2264d58c2a",
+    "4":"https:\/\/www.huffpost.com\/entry\/trump-state-department-ukraine-records_n_5df46840e4b047e8889d7890",
+    "5":"https:\/\/www.huffpost.com\/entry\/trump-anti-semitism-executive-order_n_5df3be1fe4b0ca713e5efa71",
+    "6":"https:\/\/www.huffpost.com\/entry\/lev-parnas-concealed-1-million-payment-russia_n_5df1a259e4b0b75fb5377b79",
+    "7":"https:\/\/www.huffpost.com\/entry\/jersey-city-shooting-victims_n_5df11735e4b06a50a2e898d9"
+  },
+  "headline":{
+    "0":"Pennsylvania Catholic Dioceses Pay $85 Million To 564 Abuse Victims",
+    "1":"Prince Philip Leaves Hospital On Christmas Eve",
+    "2":"'Star Wars: The Rise Of Skywalker' Is A Force At The Box Office",
+    "3":"Mitch McConnell Blasts Impeachment As 'Rushed' And 'Unfair'",
+    "4":"Judge Orders State Department To Provide Withheld Ukraine Documents",
+    "5":"Trump's Anti-Semitism Order Prompts Tough Questions Among Jewish Groups",
+    "6":"Lev Parnas Concealed A $1 Million Payment From Russia, Prosecutors Say",
+    "7":"These Are The Victims Of The Jersey City Shooting"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"RELIGION"
+  },
+  "short_description":{
+    "0":"The number of victims is expected to grow as administrators review a backlog of claims.",
+    "1":"Queen Elizabeth's 98-year-old husband was released from a London hospital on Tuesday.",
+    "2":"The final chapter in the long-running film saga raked in roughly $176 million in the United States and Canada, ranking as the 12th-biggest opening of all time.",
+    "3":"The Republican senator accused Nancy Pelosi of being afraid to send \u201ctheir shoddy work product to the Senate.\u201d",
+    "4":"Officials had decided on their own not to release records from the period when Donald Trump lifted his freeze on military aid to Ukraine.",
+    "5":"The World Jewish Congress, the Anti-Defamation League and several other American Jewish groups praised the order, but more liberal-leaning groups were critical.",
+    "6":"New York prosecutors asked a judge to detain the Rudy Giuliani associate, arguing that he lied to the government about his income and is a flight risk.",
+    "7":"Six people, including two shooters, died during a shootout in New Jersey that appears to have deeply impacted a burgeoning Hasidic Jewish community."
+  },
+  "authors":{
+    "0":"Michael Rubinkam, AP",
+    "1":"Hannah McKay, Reuters",
+    "2":"Lisa Richwine, Reuters\/Variety",
+    "3":"Mary Clare Jalonick, Laurie Kellman And Zeke Miller, AP",
+    "4":"Mary Papenfuss",
+    "5":"Elana Schor, AP",
+    "6":"Sanjana Karanth",
+    "7":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2019-12-26 00:00:00",
+    "1":"2019-12-24 00:00:00",
+    "2":"2019-12-23 00:00:00",
+    "3":"2019-12-19 00:00:00",
+    "4":"2019-12-14 00:00:00",
+    "5":"2019-12-13 00:00:00",
+    "6":"2019-12-12 00:00:00",
+    "7":"2019-12-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"gbrhlh",
+    "2":"jpn",
+    "3":"---leg",
+    "4":"---jud",
+    "5":"ngojew",
+    "6":"---jud",
+    "7":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"'mamohato_",
+    "2":"usa",
+    "3":"usagovleg",
+    "4":"ukr",
+    "5":"usajew",
+    "6":"---jud",
+    "7":"usa"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"084",
+    "2":"090",
+    "3":"112",
+    "4":"1014",
+    "5":"051",
+    "6":"020",
+    "7":"190"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":7.0,
+    "2":-2.0,
+    "3":-2.0,
+    "4":null,
+    "5":3.4,
+    "6":3.0,
+    "7":-10.0
+  },
+  "nouns":{
+    "0":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "london",
+      "hospital",
+      "gbrhlh",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "2":[
+      "saga",
+      "jpn",
+      "japan",
+      "the united states",
+      "canada",
+      "usa",
+      "can",
+      "united",
+      "states",
+      "of",
+      "america",
+      "canada"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "nancy pelosi",
+      "senate",
+      "usagovleg",
+      "nancy",
+      "pelosi",
+      "united",
+      "states",
+      "congress"
+    ],
+    "4":[
+      "judge",
+      "~jud",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "5":[
+      "world jewish congress",
+      "american",
+      "jewish",
+      "ngojew",
+      "usajew",
+      "world",
+      "jewish",
+      "congress",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "judge",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "7":[
+      "people",
+      "~ppl",
+      "~",
+      "new jersey",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pennsylvania",
+      "victims"
+    ],
+    "1":[
+      "london hospital",
+      "queen"
+    ],
+    "2":[
+      "saga",
+      "the ... united states",
+      "saga",
+      "canada"
+    ],
+    "3":[
+      "senator",
+      "nancy pelosi ... senate"
+    ],
+    "4":[
+      "judge",
+      "ukraine"
+    ],
+    "5":[
+
+    ],
+    "6":[
+      "prosecutors",
+      "prosecutors"
+    ],
+    "7":[
+      "people",
+      "new jersey"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "queen"
+    ],
+    "2":[
+      "japan",
+      "united states of america",
+      "japan",
+      "canada"
+    ],
+    "3":[
+      "---",
+      "nancy pelosi united states congress"
+    ],
+    "4":[
+      "---",
+      "ukraine"
+    ],
+    "5":[
+
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dioceses pay"
+    ],
+    "1":[
+      "<'mamohato_> ... released from <gbrhlh>"
+    ],
+    "2":[
+      "raked",
+      "raked"
+    ],
+    "3":[
+      "accused"
+    ],
+    "4":[
+      "orders ... provide ... documents"
+    ],
+    "5":[
+
+    ],
+    "6":[
+      "asked"
+    ],
+    "7":[
+      "died"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "061"
+    ],
+    "1":[
+      "gbrhlh",
+      "'mamohato_",
+      "084"
+    ],
+    "2":[
+      "jpn",
+      "usa",
+      "090",
+      "jpn",
+      "can",
+      "090"
+    ],
+    "3":[
+      "---leg",
+      "usagovleg",
+      "112"
+    ],
+    "4":[
+      "---jud",
+      "ukr",
+      "1014"
+    ],
+    "5":[
+      "ngojew",
+      "usajew",
+      "051",
+      "usajew",
+      "ngojew",
+      "051"
+    ],
+    "6":[
+      "---jud",
+      "---jud",
+      "020"
+    ],
+    "7":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

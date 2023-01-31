@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/david-clarke-greg-gianforte-montana-gop_us_5a792873e4b018ad894f2810",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/after-a-boy-with-braided-hair-violated-his-dress-code-his-mom-switched-schools_us_5a79f42ae4b06505b4e8a0cf"
+  },
+  "headline":{
+    "0":"Media-Basher David Clarke Joining Reporter-Puncher Greg Gianforte At GOP Fundraiser",
+    "1":"After A Boy With Braided Hair Violated His Dress Code, His Mom Switched Schools"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Let's have a ball and build a wall!\" says a promo for the Montana event.",
+    "1":"In a quest to make a larger point about students\u2019 personal freedom, one Arizona mother pulled her son out of his school after"
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Elise Sol\u00e9, Yahoo Lifestyle"
+  },
+  "date":{
+    "0":"2018-02-06 00:00:00",
+    "1":"2018-02-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"usacvl"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "arizona",
+      "mother",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "media"
+    ],
+    "1":[
+      "arizona mother",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joining"
+    ],
+    "1":[
+      "<['pulled',> <'out']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "040"
+    ],
+    "1":[
+      "usacvl",
+      "---edu",
+      "040"
+    ]
+  }
+}

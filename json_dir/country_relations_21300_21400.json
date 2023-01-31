@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/stephen-colbert-donald-trump-obama-press-conference_us_59f18577e4b07d838d321c87"
+  },
+  "headline":{
+    "0":"Stephen Colbert Imagines The Outcome Had Obama Given Press Conferences Like Trump"
+  },
+  "category":{
+    "0":"COMEDY"
+  },
+  "short_description":{
+    "0":"\"Remember when Barack Obama would go on TV to brag about being able to read a name off a chart?\""
+  },
+  "authors":{
+    "0":"Lee Moran"
+  },
+  "date":{
+    "0":"2017-10-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "tv",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barack obama",
+      "tv"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would go"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---med",
+      "040"
+    ]
+  }
+}

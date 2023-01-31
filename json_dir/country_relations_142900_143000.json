@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.spd.org\/2013\/11\/mother-jones-covers-designed-b.php"
+  },
+  "headline":{
+    "0":"'Namaste' To Tim J. Luddy Of Mother Jones Magazine"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"When the editors of Mother Jones recently announced that longtime creative director Tim J Luddy was leaving the magazine"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-11-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "magazine"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced ... leaving"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "040"
+    ]
+  }
+}

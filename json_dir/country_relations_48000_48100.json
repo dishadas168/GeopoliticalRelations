@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gary-cohn-donald-trump_us_584ae1d8e4b0e05aded3962a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/government-shutdown-coal-miners_us_584b2804e4b04c8e2baffd09",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/michigan-judges-remove-themselves-from-recount-case_us_584b0145e4b0e05aded3d55c"
+  },
+  "headline":{
+    "0":"Donald Trump Picks Another Goldman Sachs Exec To Join His Administration",
+    "1":"Senate Democrats Give Up On Coal Miner Health Benefits, Averting Government Shutdown (UPDATE)",
+    "2":"2 Michigan Judges Trump Is Considering For Supreme Court Remove Themselves From Recount Case"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Gary Cohn has been offered the job of director of the National Economic Council.",
+    "1":"Sen. Joe Manchin said he hopes to enlist President-elect Donald Trump's help for the miners.",
+    "2":"The decision is a victory for Jill Stein, who had requested their disqualification."
+  },
+  "authors":{
+    "0":"Ben Walsh",
+    "1":"Laura Barr\u00f3n-L\u00f3pez",
+    "2":"Daniel Marans"
+  },
+  "date":{
+    "0":"2016-12-09 00:00:00",
+    "1":"2016-12-09 00:00:00",
+    "2":"2016-12-09 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"usagovleg",
+    "2":"usajud"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"08",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":5.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "goldman sachs",
+      "mncusa",
+      "goldman",
+      "sachs",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "michigan",
+      "judges",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "goldman sachs",
+      "administration"
+    ],
+    "1":[
+      "senate",
+      "government"
+    ],
+    "2":[
+      "michigan judges",
+      "supreme court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "goldman sachs",
+      "---"
+    ],
+    "1":[
+      "united states congress",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to join"
+    ],
+    "1":[
+      "<['give',> <'up']>"
+    ],
+    "2":[
+      "is considering"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---gov",
+      "040"
+    ],
+    "1":[
+      "usagovleg",
+      "---gov",
+      "08"
+    ],
+    "2":[
+      "usajud",
+      "---jud",
+      "040"
+    ]
+  }
+}

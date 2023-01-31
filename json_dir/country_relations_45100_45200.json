@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/baltimore-police-consent-decree_us_5876c5ffe4b03c8a02d561aa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/19-women-on-why-repealing-the-aca-could-hurt-women_us_5877d2cee4b0c42cb1759665",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/philippines-defers-south-china-sea_us_58777cb2e4b03c8a02d58bf7",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/kirsten-gillibrand-if-you-love-women-do-not-unwind-the-affordable-care-act_us_5877e6a9e4b0b3c7a7b0544d"
+  },
+  "headline":{
+    "0":"Baltimore Reaches Deal With Justice Department On Police Reform",
+    "1":"19 Women On Why Repealing The ACA Could Hurt Women",
+    "2":"Avoiding China's Wrath, Philippines Defers Upgrades To South China Sea",
+    "3":"Kirsten Gillibrand: If You Love Women, Do Not Unwind The Affordable Care Act"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"THE WORLDPOST",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"The DOJ had investigated Baltimore Police and found the department regularly violated civil rights.",
+    "1":"\"Welp I'm glad I got a new 10-year IUD a couple of months ago...\"",
+    "2":"President Rodrigo Duterte wants friendlier relations with Beijing.",
+    "3":"The senator made her passionate plea to protect women's health care late Thursday night on the Senate floor."
+  },
+  "authors":{
+    "0":"Ian Simpson, Reuters",
+    "1":"Jenavieve Hatch",
+    "2":"Manuel Mogato, Reuters",
+    "3":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2017-01-12 00:00:00",
+    "1":"2017-01-12 00:00:00",
+    "2":"2017-01-12 00:00:00",
+    "3":"2017-01-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---cvl",
+    "2":"---gov",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---cvl",
+    "2":"chn",
+    "3":"usagovlegcvl"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"180",
+    "2":"030",
+    "3":"074"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.0,
+    "2":4.0,
+    "3":8.5
+  },
+  "nouns":{
+    "0":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "beijing",
+      "chn",
+      "china"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doj",
+      "police"
+    ],
+    "1":[
+      "women",
+      "women"
+    ],
+    "2":[
+      "president",
+      "beijing"
+    ],
+    "3":[
+      "senator",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states department of justice",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "china"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... investigated"
+    ],
+    "1":[
+      "could hurt"
+    ],
+    "2":[
+      "wants"
+    ],
+    "3":[
+      "made ... protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "human_rights",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cop",
+      "090"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "180"
+    ],
+    "2":[
+      "---gov",
+      "chn",
+      "030"
+    ],
+    "3":[
+      "---leg",
+      "usagovlegcvl",
+      "074"
+    ]
+  }
+}

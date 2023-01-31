@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/washington-must-recognize_b_6046634.html"
+  },
+  "headline":{
+    "0":"Washington Must Recognize India as Another Great Power to Be"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"No doubt the Obama administration feels overwhelmed. Who has time for India? But make time President Obama must. India matters today. It will matter much more tomorrow, especially if Prime Minister Modi commits his political capital to eliminate barriers to entrepreneurship, investment and growth."
+  },
+  "authors":{
+    "0":"Doug Bandow, ContributorContributing writer, policy analyst"
+  },
+  "date":{
+    "0":"2014-10-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"ind"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "india",
+      "ind",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "washington",
+      "india"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must recognize"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "ind",
+      "051"
+    ]
+  }
+}

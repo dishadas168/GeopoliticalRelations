@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/airstrikes-kill-dozens-of-syrian-soldiers_us_57dd98a0e4b0071a6e07b9e1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/airstrikes-kill-dozens-of-syrian-soldiers_us_57dd98a0e4b0071a6e07b9e1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-and-rebels-cast-doubt-over-syrian-peace-deal_us_57dd53c9e4b0071a6e07ae18"
+  },
+  "headline":{
+    "0":"U.S.-Led Airstrikes Kill Dozens Of Syrian Soldiers",
+    "1":"U.S.-Led Airstrikes Kill Dozens Of Syrian Soldiers",
+    "2":"Russia And Syrian Rebels Doubt Ceasefire Will Last"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The U.S. says it halted airstrikes against suspected ISIS targets after Russia warned that Syrian soldiers may have been hit.",
+    "1":"The U.S. says it halted airstrikes against suspected ISIS targets after Russia warned that Syrian soldiers may have been hit.",
+    "2":"Moscow has accused the rebels of breaching the truce 199 times."
+  },
+  "authors":{
+    "0":"Angus McDowall and Andrew Osborn, Reuters",
+    "1":"Angus McDowall and Andrew Osborn, Reuters",
+    "2":"Angus McDowall and Katya Golubkova, Reuters"
+  },
+  "date":{
+    "0":"2016-09-17 00:00:00",
+    "1":"2016-09-17 00:00:00",
+    "2":"2016-09-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"rus"
+  },
+  "actor2":{
+    "0":"syrmil",
+    "1":"usa",
+    "2":"---reb"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"112"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "soldiers",
+      "syrmil",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syrian",
+      "soldiers",
+      "syrmil",
+      "syria",
+      "~"
+    ],
+    "2":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "rebels",
+      "~reb",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "syrian soldiers"
+    ],
+    "1":[
+      "u.s.",
+      "u.s."
+    ],
+    "2":[
+      "moscow",
+      "rebels"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "russian federation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "has accused"
+    ]
+  },
+  "issues":{
+    "0":[
+      "airstrike",
+      "1"
+    ],
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "syrmil",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "rus",
+      "---reb",
+      "112"
+    ]
+  }
+}

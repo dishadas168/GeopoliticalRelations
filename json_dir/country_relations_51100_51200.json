@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-supreme-court_us_581cabece4b0d9ce6fbb5d38",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-florida_us_581ba34de4b0d9ce6fbac490",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/two-shipwrecks-libya-kill-migrants_us_581b31aee4b0c43e6c1e3b06"
+  },
+  "headline":{
+    "0":"John McCain Isn't Backing Down From Vow To Block Clinton\u2019s Supreme Court Nominees",
+    "1":"Obama Begs Unenthusiastic Black People To Vote For Clinton, Please",
+    "2":"Two More Shipwrecks Off Libyan Coast Kill At Least 239 Migrants, U.N. Says"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Yes, Republicans are totally serious about this. Don't act surprised.",
+    "1":"The president hit Duval County, where a strong African-American turnout could get her to the White House.",
+    "2":"They were traveling towards Italy in poorly-made rubber dinghies."
+  },
+  "authors":{
+    "0":"Jonathan Cohn",
+    "1":"S.V. Date",
+    "2":""
+  },
+  "date":{
+    "0":"2016-11-04 00:00:00",
+    "1":"2016-11-03 00:00:00",
+    "2":"2016-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"usagov",
+    "2":"lby"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---ppl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"020",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":3.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "libyan",
+      "lby",
+      "libya",
+      "migrants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john mccain",
+      "supreme court"
+    ],
+    "1":[
+      "obama",
+      "people"
+    ],
+    "2":[
+      "libyan",
+      "migrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john mccain",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "libya",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is <['backing',> <'down']>"
+    ],
+    "1":[
+      "begs"
+    ],
+    "2":[
+      "kill"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---jud",
+      "08"
+    ],
+    "1":[
+      "usagov",
+      "---ppl",
+      "020"
+    ],
+    "2":[
+      "lby",
+      "---cvl",
+      "190"
+    ]
+  }
+}

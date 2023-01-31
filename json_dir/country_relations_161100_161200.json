@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/single-mom-mothers-day_us_5b9d271de4b03a1dcc84f203",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/coronavirus-france-sars-related-virus-2-ill_us_5b9d2628e4b03a1dcc84e676"
+  },
+  "headline":{
+    "0":"Single Mom Mother's Day: How To Celebrate Mother's Day After Divorce",
+    "1":"2 People In France Ill After Contact With Coronavirus Patient"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Divorce coach, Mandy Walker is the founder of the divorce support blog Since My Divorce. Contact Mandy for a free 30-minute",
+    "1":"The ARS local health authority said the two other men were in individual rooms in separate hospitals, one in Lille and the"
+  },
+  "authors":{
+    "0":"",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-05-10 00:00:00",
+    "1":"2013-05-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "authority",
+      "~gov",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "lille",
+      "fra",
+      "france",
+      "hospitals",
+      "frahlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ],
+    "1":[
+      "authority",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "'s ... celebrate"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---gov",
+      "---ppl",
+      "010"
+    ]
+  }
+}

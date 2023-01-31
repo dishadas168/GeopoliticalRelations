@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/missouri-voter-id-lawsuit_us_593ab648e4b02402687899cb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chicago-doj-police-reform_us_593af1cde4b0b13f2c6a36bc"
+  },
+  "headline":{
+    "0":"Civil Rights Groups Sue To Block Missouri Voter ID Law",
+    "1":"Trump DOJ And Chicago May Reach A Police Reform Deal With \u2018No Teeth\u2019"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"It is beyond unacceptable that the state of Missouri has launched a photo ID requirement while not sufficiently preparing, educating voters, or funding it.\"",
+    "1":"City Hall is confident it struck the best deal, but police reformers say it won't go far enough."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Kim Bellware and Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2017-06-09 00:00:00",
+    "1":"2017-06-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "doj",
+      "chicago",
+      "usagov",
+      "usa",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri",
+      "voters"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... funding"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "061"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "030",
+      "usa",
+      "usagov",
+      "030"
+    ]
+  }
+}

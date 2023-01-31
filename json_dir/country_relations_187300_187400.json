@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/severance-pay-taxes_us_5b9c1249e4b03a1dcc7c230d"
+  },
+  "headline":{
+    "0":"Severance Pay and Federal and New Jersey Taxes"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"Employers customarily award severance pay to their former employees -- but there are some income, employment and possible excise tax implications to the employer and former employee with respect to severance pay."
+  },
+  "authors":{
+    "0":"Lowell Kirschner, Contributor\nAttorney and CPA"
+  },
+  "date":{
+    "0":"2012-07-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---lab"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "employers",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "employer",
+      "employee",
+      "~buslab",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employers",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "award"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "060"
+    ]
+  }
+}

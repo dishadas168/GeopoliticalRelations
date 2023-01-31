@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-donald-trump_us_5679b055e4b06fa6887f0920",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.baltimoresun.com\/news\/maryland\/crime\/blog\/bs-md-ci-homicide-updates-20151221-story.html"
+  },
+  "headline":{
+    "0":"Hillary Clinton Tells A Fifth-Grader She's Also Had To Deal With Bullies",
+    "1":"Homicides Mount, Pushing Baltimore To Second Highest Total In City History"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"\"We shouldn't let anybody bully his way into the presidency.\"",
+    "1":"Another round of homicides over the weekend in Baltimore \u2014 and the death of a student stabbed last month in a school classroom"
+  },
+  "authors":{
+    "0":"Samantha Lachman",
+    "1":""
+  },
+  "date":{
+    "0":"2015-12-22 00:00:00",
+    "1":"2015-12-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"182"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.5
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fifth grader",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~",
+      "student",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "fifth grader"
+    ],
+    "1":[
+      "student",
+      "student"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "stabbed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---edu",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "182"
+    ]
+  }
+}

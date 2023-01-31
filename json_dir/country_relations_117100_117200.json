@@ -1,0 +1,166 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-india-should-take-al_b_5787028.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/take-a-deep-breath-and-bu_b_5785594.html"
+  },
+  "headline":{
+    "0":"Why India Should Take Al Qaeda's Threat Very Seriously",
+    "1":"Take a Deep Breath and Build a Coalition to Confront ISIS"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Even though the U.S. has downplayed the threat posed by Al Qaeda, Prime Minister Narendra Modi would be wise to take this particular instance more seriously. Unlike previous saber rattling by Al Qaeda or even Pakistan, this latest threat is more dangerous because of its timing and agenda.",
+    "1":"We can't forget that the security interests of Iraq, Saudi Arabia, Qatar, Jordan, Turkey and our NATO allies are threatened by ISIS to a much greater extent than our own. We should insist that they step forward, provide people and resources to the fight, and, most importantly, publicly align with the emerging anti-ISIS coalition."
+  },
+  "authors":{
+    "0":"Sanjay Sanghoee, ContributorAuthor and commentator",
+    "1":"David Schanzer, ContributorAssociate Professor of the Practice, Sanford School of Public ..."
+  },
+  "date":{
+    "0":"2014-09-10 00:00:00",
+    "1":"2014-09-10 00:00:00"
+  },
+  "actor1":{
+    "0":"ind",
+    "1":"imgmusisi"
+  },
+  "actor2":{
+    "0":"imgmusalq",
+    "1":"irq"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"130"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-4.4
+  },
+  "nouns":{
+    "0":[
+      "india",
+      "ind",
+      "india",
+      "al qaeda",
+      "imgmusalq",
+      "al",
+      "qa'ida"
+    ],
+    "1":[
+      "iraq",
+      "saudi arabia",
+      "qatar",
+      "jordan",
+      "turkey",
+      "nato",
+      "irq",
+      "sau",
+      "qat",
+      "jor",
+      "tur",
+      "igowstnat",
+      "iraq",
+      "saudi",
+      "arabia",
+      "qatar",
+      "jordan",
+      "turkey",
+      "nato",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "india",
+      "al qaeda"
+    ],
+    "1":[
+      "isis",
+      "iraq",
+      "isis",
+      "saudi arabia",
+      "isis",
+      "qatar",
+      "isis",
+      "jordan",
+      "isis",
+      "turkey",
+      "isis",
+      "nato"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "india",
+      "al qa'ida"
+    ],
+    "1":[
+      "the islamic state",
+      "iraq",
+      "the islamic state",
+      "saudi arabia",
+      "the islamic state",
+      "qatar",
+      "the islamic state",
+      "jordan",
+      "the islamic state",
+      "turkey",
+      "the islamic state",
+      "nato"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should take"
+    ],
+    "1":[
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>",
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>",
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>",
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>",
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>",
+      "<['irq',> <'sau',> <'qat',> <'jor',> <'tur',> <'igowstnat']> ... threatened by <imgmusisi>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ind",
+      "imgmusalq",
+      "171"
+    ],
+    "1":[
+      "imgmusisi",
+      "irq",
+      "130",
+      "imgmusisi",
+      "sau",
+      "130",
+      "imgmusisi",
+      "qat",
+      "130",
+      "imgmusisi",
+      "jor",
+      "130",
+      "imgmusisi",
+      "tur",
+      "130",
+      "imgmusisi",
+      "igowstnat",
+      "130"
+    ]
+  }
+}

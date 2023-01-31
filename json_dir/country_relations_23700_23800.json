@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/faith-leaders-graham-cassidy_us_59c94795e4b0cdc77333986b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/health-care-graham-cassidy-doctors-insurance_us_59c6f9d2e4b06ddf45f85d71"
+  },
+  "headline":{
+    "0":"'We Are Outraged': Thousands Of Faith Leaders Oppose GOP Health Care Bill",
+    "1":"Doctors, Hospitals And Insurers Ask Senate To Reject Graham-Cassidy"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The religious leaders' open letter said the bill would force \"America\u2019s most vulnerable people to face unnecessary and immoral obstacles.\"",
+    "1":"\u201cHealth care is too important to get wrong. Let\u2019s take the time to get it right.\u201d"
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"Doha Madani"
+  },
+  "date":{
+    "0":"2017-09-25 00:00:00",
+    "1":"2017-09-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---rel",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"usappl",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "religious leaders",
+      "~rel",
+      "~",
+      "america",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "doctors",
+      "hospitals",
+      "~hlh",
+      "~",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "religious leaders",
+      "america ... people"
+    ],
+    "1":[
+      "doctors ... hospitals",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... force"
+    ],
+    "1":[
+      "ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---rel",
+      "usappl",
+      "170"
+    ],
+    "1":[
+      "---hlh",
+      "usagovleg",
+      "020"
+    ]
+  }
+}

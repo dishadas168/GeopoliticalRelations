@@ -1,0 +1,374 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/white-house-aware-russian-bounties-2019_n_5efaa7a8c5b6acab284609c9",
+    "1":"https:\/\/www.huffpost.com\/entry\/donald-trump-shares-white-power-supporter-video_n_5ef88c4ac5b6ca970910e182",
+    "2":"https:\/\/www.huffpost.com\/entry\/russia-bounty-american-troops-afghanistan_n_5ef7db25c5b6ca9709108d1b",
+    "3":"https:\/\/www.huffpost.com\/entry\/russia-bounty-american-troops-afghanistan_n_5ef7db25c5b6ca9709108d1b",
+    "4":"https:\/\/www.huffpost.com\/entry\/trump-dismantle-national-monuments_n_5ef4f34dc5b63220fcca2d74",
+    "5":"https:\/\/www.huffpost.com\/entry\/george-wallace-donald-trump-lincoln-project_n_5eed35e6c5b60982f6f5bdf3",
+    "6":"https:\/\/www.huffpost.com\/entry\/mike-pence-black-lives-matter-all-lives-matter-interview_n_5eed556bc5b6c86872f8be62",
+    "7":"https:\/\/www.huffpost.com\/entry\/protests-continue-after-deaths-of-more-black-men_n_5ee661e8c5b69158227020ed"
+  },
+  "headline":{
+    "0":"White House Was Aware Of Russian Bounties In Early 2019: Report",
+    "1":"Trump Shares Video That Includes Supporter Shouting 'White Power' At Protesters",
+    "2":"Russia Offered Afghan Militants Bounties To Kill U.S. Troops: Reports",
+    "3":"Russia Offered Afghan Militants Bounties To Kill U.S. Troops: Reports",
+    "4":"Trump Has Dismantled More Monuments Than Any Protest",
+    "5":"Trump Compared To Segregationist George Wallace In Scathing Republican Ad",
+    "6":"Pressed Repeatedly To Say \u2018Black Lives Matter,\u2019 Mike Pence Says \u2018All Lives Matter\u2019",
+    "7":"Protests Continue In U.S. After Deaths Of More Black Men"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Top officials were aware a year earlier than previously reported that Russia was secretly offering bounties to the Taliban for the deaths of Americans, according to Associated Press sources.",
+    "1":"In his since-deleted tweet, the president thanked the \"great people\" of The Villages, a retirement community in Florida.",
+    "2":"A Russian military intelligence unit linked to assassination attempts in Europe had reportedly offered rewards for successful attacks on U.S. troops last year.",
+    "3":"A Russian military intelligence unit linked to assassination attempts in Europe had reportedly offered rewards for successful attacks on U.S. troops last year.",
+    "4":"The president is threatening 10-year prison sentences for anyone who vandalizes a monument. He has destroyed four himself, including one honoring Native American cultural heritage.",
+    "5":"The racist Alabama politician said \"looters\" in civil rights protests should be shot \"on sight.\" President Trump said, \"When the looting starts, the shooting starts.\"",
+    "6":"A Philadelphia news anchor asked the vice president point-blank on Friday -- Juneteenth -- whether he\u2019d be willing to say the words.",
+    "7":"Roughly 150 protesters marched outside an Atlanta Wendy\u2019s restaurant to protest the fatal shooting of Rayshard Brooks by a white police officer."
+  },
+  "authors":{
+    "0":"James LaPorta, AP",
+    "1":"Hayley Miller",
+    "2":"Eric Beech, Reuters",
+    "3":"Eric Beech, Reuters",
+    "4":"Chris D'Angelo",
+    "5":"Mary Papenfuss",
+    "6":"Dominique Mosbergen",
+    "7":"Russ Bynum and Ed White, AP"
+  },
+  "date":{
+    "0":"2020-06-30 00:00:00",
+    "1":"2020-06-28 00:00:00",
+    "2":"2020-06-27 00:00:00",
+    "3":"2020-06-27 00:00:00",
+    "4":"2020-06-25 00:00:00",
+    "5":"2020-06-20 00:00:00",
+    "6":"2020-06-20 00:00:00",
+    "7":"2020-06-14 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---gov",
+    "2":"rus",
+    "3":"rusmilspy",
+    "4":"---gov",
+    "5":"usapty",
+    "6":"usa",
+    "7":"---opp"
+  },
+  "actor2":{
+    "0":"afgreb",
+    "1":"usacvlppl",
+    "2":"afguaf",
+    "3":"usamil",
+    "4":"---cop",
+    "5":"---reb",
+    "6":"---gov",
+    "7":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"051",
+    "2":"030",
+    "3":"030",
+    "4":"130",
+    "5":"015",
+    "6":"020",
+    "7":"140"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.4,
+    "2":4.0,
+    "3":4.0,
+    "4":-4.4,
+    "5":0.0,
+    "6":3.0,
+    "7":-6.5
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "taliban",
+      "afgreb",
+      "taliban"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "villages",
+      "community",
+      "usacvl",
+      "~",
+      "~",
+      "people",
+      "usacvlppl",
+      "~"
+    ],
+    "2":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "afghan",
+      "militants",
+      "afguaf",
+      "afghanistan",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "russian",
+      "military intelligence",
+      "rusmilspy",
+      "russian",
+      "federation",
+      "~",
+      "russian",
+      "military intelligence",
+      "rusmilspy",
+      "russian",
+      "federation",
+      "~",
+      "u.s.",
+      "troops",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "5":[
+      "alabama",
+      "politician",
+      "usapty",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "looters",
+      "~reb",
+      "~"
+    ],
+    "6":[
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "7":[
+      "protesters",
+      "~opp",
+      "~",
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police officer",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "taliban"
+    ],
+    "1":[
+      "president",
+      "people"
+    ],
+    "2":[
+      "russia",
+      "afghan militants"
+    ],
+    "3":[
+      "russian military intelligence",
+      "u.s. troops"
+    ],
+    "4":[
+      "president",
+      "prison"
+    ],
+    "5":[
+      "alabama politician",
+      "looters"
+    ],
+    "6":[
+      "philadelphia",
+      "president"
+    ],
+    "7":[
+      "protesters",
+      "atlanta"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "taliban"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "russian federation",
+      "afghanistan"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ],
+    "7":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was ... offering"
+    ],
+    "1":[
+      "thanked"
+    ],
+    "2":[
+      "offered"
+    ],
+    "3":[
+      "had ... offered"
+    ],
+    "4":[
+      "is threatening"
+    ],
+    "5":[
+      "said <~reb> ... shot"
+    ],
+    "6":[
+      "asked"
+    ],
+    "7":[
+      "marched"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "assassination",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "discrimination",
+      "1",
+      "human_rights",
+      "1"
+    ],
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "afgreb",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "usacvlppl",
+      "051"
+    ],
+    "2":[
+      "rus",
+      "afguaf",
+      "030"
+    ],
+    "3":[
+      "rusmilspy",
+      "usamil",
+      "030"
+    ],
+    "4":[
+      "---gov",
+      "---cop",
+      "130"
+    ],
+    "5":[
+      "usapty",
+      "---reb",
+      "015"
+    ],
+    "6":[
+      "usa",
+      "---gov",
+      "020"
+    ],
+    "7":[
+      "---opp",
+      "usa",
+      "140"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/exercise-pregnancy_us_5b9da802e4b03a1dcc8aea7d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/wedding-speeches_us_5b9da739e4b03a1dcc8adc30"
+  },
+  "headline":{
+    "0":"Exercise During Pregnancy May Boost Babies' Brain Power, Study Shows",
+    "1":"How To Cut The Wedding Speeches Without Offending Friends And Family"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WEDDINGS"
+  },
+  "short_description":{
+    "0":"The American College of Obstetricians and Gynecologists recommends that pregnant women who have no medical or obstetric complications",
+    "1":"Xochitl Gonzalez -- etiquette expert, wedding planner and HuffPost Weddings blogger -- is here to tell us how to handle this"
+  },
+  "authors":{
+    "0":"Catherine Pearson",
+    "1":""
+  },
+  "date":{
+    "0":"2013-11-12 00:00:00",
+    "1":"2013-11-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeduhlh",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "gynecologists",
+      "~hlh",
+      "~",
+      "american",
+      "college",
+      "gynecologists",
+      "usaeduhlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "blogger",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american college ... gynecologists",
+      "women"
+    ],
+    "1":[
+      "blogger",
+      "blogger"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "recommends"
+    ],
+    "1":[
+      "is ... tell"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeduhlh",
+      "---cvl",
+      "020"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "010"
+    ]
+  }
+}

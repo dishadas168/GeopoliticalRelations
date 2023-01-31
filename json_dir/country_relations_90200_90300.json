@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_399_b_7872330.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-iran-deal_us_55b3f04de4b0a13f9d18c884"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"Joe Biden Asks Jewish Leaders To 'Look At The Facts' Of Iran Deal"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"This week brought multiple challenges to move from outrage to action. On Tuesday, the dash cam video of the violent arrest of Sandra Bland was released; authorities later said autopsy results suggested she had committed suicide while in jail. But many questions remain, including why, already this year, an estimated 651 people have been killed by police -- 172 of them African American, 142 unarmed. Less questionable is that our justice system is broken, and in ways that inescapably involve race. On Thursday there was yet another mass shooting, this time in Lafayette, Louisiana. The gunman, despite having a long criminal record, had legally obtained his weapon. Just hours before the shooting, President Obama had said the \"great frustration\" of his presidency was not being able to pass \"common-sense gun safety laws.\" As we move into the election season, it's time to put both of these critical issues on the front burner. Neither will change until we demand it.",
+    "1":"\"This is a solid, solid, very strong agreement that makes Israel safer, makes us safer, makes the region safer.\""
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Sam Levine"
+  },
+  "date":{
+    "0":"2015-07-26 00:00:00",
+    "1":"2015-07-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---jew"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "usacop",
+      "~"
+    ],
+    "1":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "jewish",
+      "~jew",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "people"
+    ],
+    "1":[
+      "joe biden",
+      "jewish"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "joe biden",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... killed by <usacop>"
+    ],
+    "1":[
+      "asks"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "usagov",
+      "---jew",
+      "020"
+    ]
+  }
+}

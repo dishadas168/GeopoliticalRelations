@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-will-meet-with-netanyahu-and-abbas_us_562393b8e4b08589ef47ba21",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/josh-lynam-impersonating-officer_us_56239f2be4b02f6a900ca200"
+  },
+  "headline":{
+    "0":"John Kerry Will Meet With Netanyahu And Abbas This Week",
+    "1":"Man Posing As Cop Arrested By Real Cop, Police Say"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"It is the first time Kerry has confirmed media reports of a meeting with both Netanyahu and Abbas.",
+    "1":"\"He pretty much did a traffic stop.\""
+  },
+  "authors":{
+    "0":"Lesley Wroughton, Reuters",
+    "1":"Steven Hoffer"
+  },
+  "date":{
+    "0":"2015-10-18 00:00:00",
+    "1":"2015-10-18 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"isrgov",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john kerry",
+      "netanyahu"
+    ],
+    "1":[
+      "man",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john kerry",
+      "benjamin netanyahu"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will meet"
+    ],
+    "1":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "isrgov",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "173"
+    ]
+  }
+}

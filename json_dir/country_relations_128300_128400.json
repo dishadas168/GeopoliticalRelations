@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hedges-v-obama_b_5234382.html"
+  },
+  "headline":{
+    "0":"Hedges v. Obama: The Supreme Court Digs Its Head Deeper Into the Sand"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"On Monday the Supreme Court declined to consider Hedges v. Obama, a constitutional claim challenging a law that could enable the indefinite military detention of U.S. citizens -- within the U.S. -- without trial, charge, or evidence of crime. The decision is remarkable both for its implications for fundamental rights and for its reflection on judicial independence."
+  },
+  "authors":{
+    "0":"Shahid Buttar, ContributorCivil rights lawyer \/ DJ & MC \/ grassroots organizer \/ Exec Di..."
+  },
+  "date":{
+    "0":"2014-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"120"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "declined"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "120"
+    ]
+  }
+}

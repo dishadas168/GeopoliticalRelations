@@ -1,0 +1,256 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/joe-biden-tough-decision-coronavirus_n_5fafebe7c5b68baab0fc9d51",
+    "1":"https:\/\/www.huffpost.com\/entry\/mary-trump-donald-trump-2024_n_5fadfdb6c5b663b496dab255",
+    "2":"https:\/\/www.huffpost.com\/entry\/robert-de-niro-donald-trump-election-loss_n_5faa7327c5b66009569e36dd",
+    "3":"https:\/\/www.huffpost.com\/entry\/biden-transgender-troops-military-ban_n_5fa95238c5b66009569ccf31",
+    "4":"https:\/\/www.huffpost.com\/entry\/harrisburg-trump-rally-defeat-extremists-proud-boys-armed-militias_n_5fa756ddc5b67c3259afbc42",
+    "5":"https:\/\/www.huffpost.com\/entry\/johnny-depp-loses-libel-case-against-british-newspaper_n_5f9fdc40c5b658b27c3c53d8"
+  },
+  "headline":{
+    "0":"Biden Faces Tough Choice Over COVID-19 Lockdowns",
+    "1":"Mary Trump Has A Surprise Prediction For Her Uncle's Post-White House Plans",
+    "2":"Robert De Niro Issues Warning About The Person Donald Trump May Have Inspired",
+    "3":"Aspiring Transgender Soldiers Call On Biden To Restore Their Right To Serve",
+    "4":"After Trump\u2019s Defeat, His Supporters Held A Heavily Armed Pity Party",
+    "5":"Johnny Depp Loses Libel Case Against British Newspaper"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The president-elect faces a decision, unlike any other incoming POTUS.",
+    "1":"It's not what the president is reportedly telling people right now.",
+    "2":"The actor predicted \"a more serious, deeper problem\" than the outgoing president.",
+    "3":"President Donald Trump announced the ban on trans military recruits in 2017.",
+    "4":"Proud Boys, white nationalists, QAnon believers, armed militias and other Trump fans gathered in Pennsylvania, the state that made Joe Biden the president-elect.",
+    "5":"The actor launched legal action against News Group Newspapers over an April 2018 article that claimed there was \"evidence\" he attacked Amber Heard."
+  },
+  "authors":{
+    "0":"Alexandra Jaffe, AP",
+    "1":"Ed Mazza",
+    "2":"Lee Moran",
+    "3":"Hugo Greenhalgh, Reuters",
+    "4":"Christopher Mathias",
+    "5":"Ashley Percival"
+  },
+  "date":{
+    "0":"2020-11-14 00:00:00",
+    "1":"2020-11-13 00:00:00",
+    "2":"2020-11-10 00:00:00",
+    "3":"2020-11-09 00:00:00",
+    "4":"2020-11-08 00:00:00",
+    "5":"2020-11-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---eli",
+    "3":"---gov",
+    "4":"---reluaf",
+    "5":"---eli"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"---mil",
+    "4":"usa",
+    "5":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"010",
+    "3":"010",
+    "4":"040",
+    "5":"112"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":1.0,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "potus",
+      "usagov",
+      "president",
+      "of",
+      "the",
+      "united",
+      "states"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "believers",
+      "militias",
+      "~reluaf",
+      "~",
+      "~",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "actor",
+      "~eli",
+      "~",
+      "newspapers",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "potus"
+    ],
+    "1":[
+      "president",
+      "people"
+    ],
+    "2":[
+      "actor",
+      "president"
+    ],
+    "3":[
+      "president",
+      "military"
+    ],
+    "4":[
+      "believers ... militias",
+      "pennsylvania"
+    ],
+    "5":[
+      "actor",
+      "newspapers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "president of the united states"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ],
+    "1":[
+      "is ... telling"
+    ],
+    "2":[
+      "predicted"
+    ],
+    "3":[
+      "announced"
+    ],
+    "4":[
+      "gathered"
+    ],
+    "5":[
+      "launched <{legal> <action}>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usagov",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---ppl",
+      "010"
+    ],
+    "2":[
+      "---eli",
+      "---gov",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "---mil",
+      "010"
+    ],
+    "4":[
+      "---reluaf",
+      "usa",
+      "040"
+    ],
+    "5":[
+      "---eli",
+      "---med",
+      "112"
+    ]
+  }
+}

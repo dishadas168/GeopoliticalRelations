@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-arab-and-iranian-disconnect_b_6240264.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-should-talk-to-north-korea-whoever-is-in-charge_b_6240502.html"
+  },
+  "headline":{
+    "0":"The Arab and Iranian Disconnect",
+    "1":"U.S. Should Talk to North Korea, Whoever Is in Charge"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Arabs should be reassured that their concerns are understood by the West. At the same time, the Iranian public needs to see the linkage between their economic woes and their government's nuclear ambitions and foreign policy.",
+    "1":"Every strategy toward the DPRK so far seems to have failed.  Anything adopted is likely to be only a second best. However, today even second best would be a major step forward. It's time for Washington to try something different."
+  },
+  "authors":{
+    "0":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'",
+    "1":"Doug Bandow, ContributorContributing writer, policy analyst"
+  },
+  "date":{
+    "0":"2014-11-29 00:00:00",
+    "1":"2014-11-29 00:00:00"
+  },
+  "actor1":{
+    "0":"irn",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"prk"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "iranian",
+      "irn",
+      "iran",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iranian",
+      "government"
+    ],
+    "1":[
+      "u.s.",
+      "north korea"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "north korea"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs ... see"
+    ],
+    "1":[
+      "should talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "irn",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "prk",
+      "010"
+    ]
+  }
+}

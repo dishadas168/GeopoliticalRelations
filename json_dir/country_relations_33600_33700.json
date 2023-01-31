@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/elite-universities-are-failing-student-mental-healthcare_us_591a7294e4b0f31b03fb9e9c"
+  },
+  "headline":{
+    "0":"Elite Universities Are Compromising Student Mental Healthcare Amid Heightened Stress Culture"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"There should be an overall awareness that not all students are privileged to stable mental health conditions."
+  },
+  "authors":{
+    "0":"Naaz Modan, ContributorContent Editor of Muslimgirl.com"
+  },
+  "date":{
+    "0":"2017-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "universities",
+      "~edu",
+      "~",
+      "student",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "universities",
+      "universities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are compromising"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "08"
+    ]
+  }
+}

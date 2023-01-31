@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/optimal-health-and-health_us_5b9dee2ce4b03a1dcc8ef4bf",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/post_us_5b9deeb5e4b03a1dcc8f0610"
+  },
+  "headline":{
+    "0":"Optimal Health and Health Disparity",
+    "1":"Florida's Supreme Court Finally Takes a Stand for Victims of Medical Malpractice"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"We know there are differences between groups of people in America that affect how often a disease affects them. Race or ethnicity",
+    "1":"As a Florida personal injury attorney who has worked hard to help injured patients and their families, I believe that this decision comes 11 years too late."
+  },
+  "authors":{
+    "0":"Dr. Michael R. Mantell, Contributor\nSenior Fitness Consultant for Behavioral Sciences, American Co...",
+    "1":"Spencer Aronfeld , Contributor\nPersonal Injury Lawyer; Author and Civil Rights Activist"
+  },
+  "date":{
+    "0":"2014-03-21 00:00:00",
+    "1":"2014-03-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usappl",
+    "1":"usajud"
+  },
+  "actor2":{
+    "0":"usappl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~"
+    ],
+    "1":[
+      "florida",
+      "supreme court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "florida ... supreme court",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      ""
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... affects"
+    ],
+    "1":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usappl",
+      "usappl",
+      "050"
+    ],
+    "1":[
+      "usajud",
+      "---cvl",
+      "171"
+    ]
+  }
+}

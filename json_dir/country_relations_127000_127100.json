@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-iran_b_5332879.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/deciphering-what-one-woman-wants-in-a-man_b_5334632.html"
+  },
+  "headline":{
+    "0":"Saudi Arabia Versus Iran",
+    "1":"Deciphering What One Woman Wants in a Man"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WOMEN"
+  },
+  "short_description":{
+    "0":"The media has recently reported an overture by Saudi Foreign Minister Saud Al-Faisal to his Iranian counterpart Jawad Zarif to visit Riyadh.",
+    "1":"When I say I want him to be funny, I mean I want a man with the wit to examine situations, find the humor in them and share them with me."
+  },
+  "authors":{
+    "0":"S. Azmat Hassan, ContributorFormer ambassador for Pakistan to Syria, Morocco, Malaysia, fo...",
+    "1":"Calee Prindle, ContributorHigh school teacher"
+  },
+  "date":{
+    "0":"2014-05-16 00:00:00",
+    "1":"2014-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"sau",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "riyadh",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "riyadh"
+    ],
+    "1":[
+      "woman",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "saudi arabia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... visit"
+    ],
+    "1":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "sau",
+      "042"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "030"
+    ]
+  }
+}

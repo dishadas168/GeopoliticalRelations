@@ -1,0 +1,226 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nigerias-media-boko-haram-journalists-crackdown_n_5603611.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/putin-russia-mh17-crash_b_5604193.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-genghis-khan-iraq-chaldean_n_5603939.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/future-of-wto-negotiation_b_5600777.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/putin-ukraine-rebels-malaysia-airliner_b_5601178.html"
+  },
+  "headline":{
+    "0":"Journalists Fear Nigeria Cracking Down On Media",
+    "1":"MH17 And The Long Term Costs Of Russia's Ukraine Incursion",
+    "2":"ISIS Is Worse Than Genghis Khan, Says Top Iraqi Christian Leader",
+    "3":"Future of WTO Negotiations Hangs in the Balance at G20 Trade Ministers' Meeting",
+    "4":"Putin Needs to Call Out Pro-Russian Rebels"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"WORLDPOST",
+    "2":"RELIGION",
+    "3":"POLITICS",
+    "4":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Courtesy of Malaysia Airlines Flight 17, Putin is now coming to terms with the blowback from his Ukrainian adventure, a hybrid non-linear political-military campaign fought largely through local proxies, and this is something that will dog him for as long as he is in power.",
+    "2":"",
+    "3":"On July 19, Trade Ministers from the G20 group of countries will convene for their annual meeting in Sydney, Australia. The meetings can be used to build consensus toward positions that can be brought back to forums where decisions can be enforced, such as the WTO. And this is exactly what the US plans to do.",
+    "4":"Mr. Putin has had many opportunities to condemn the violence, but he has failed every time. I want his words to be addressed to Girkin and other Russian citizens disturbing Ukraine, not to my president. Putin's silence, which effectively condones the terrorists' activities in eastern Ukraine, bares a grave cost.  Ending the violence has been the essence of an agreement reached in Geneva many months ago to which Russia was a signatory."
+  },
+  "authors":{
+    "0":"",
+    "1":"Mark Galeotti, ContributorProfessor of Global Affairs at NYU\u2019s Center for Global Affairs...",
+    "2":"",
+    "3":"Deborah James, ContributorDirector, International Programs at the Center for Economic an...",
+    "4":"Olga Bielkova, ContributorMember of the Ukrainian Parliament (Verkhovna Rada of Ukraine)"
+  },
+  "date":{
+    "0":"2014-07-20 00:00:00",
+    "1":"2014-07-20 00:00:00",
+    "2":"2014-07-20 00:00:00",
+    "3":"2014-07-19 00:00:00",
+    "4":"2014-07-19 00:00:00"
+  },
+  "actor1":{
+    "0":"ngamed",
+    "1":"rusgov",
+    "2":"imgmusisi",
+    "3":"---gov",
+    "4":"rusgov"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"ukr",
+    "2":"irq",
+    "3":"aus",
+    "4":"---reb"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"040",
+    "2":"010",
+    "3":"046",
+    "4":"041"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":1.0,
+    "2":0.0,
+    "3":7.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "journalists",
+      "nigeria",
+      "ngamed",
+      "~",
+      "nigeria",
+      "media",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "malaysia",
+      "airlines",
+      "mysbus",
+      "malaysia",
+      "~",
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "ukrainian",
+      "ukr",
+      "ukraine"
+    ],
+    "2":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "iraqi",
+      "irq",
+      "iraq"
+    ],
+    "3":[
+      "trade ministers",
+      "~gov",
+      "~",
+      "sydney",
+      "australia",
+      "aus",
+      "aus",
+      "australia",
+      "australia"
+    ],
+    "4":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "rebels",
+      "~reb",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "journalists ... nigeria",
+      "media"
+    ],
+    "1":[
+      "putin",
+      "ukrainian"
+    ],
+    "2":[
+      "isis",
+      "iraqi"
+    ],
+    "3":[
+      "trade ministers",
+      "sydney"
+    ],
+    "4":[
+      "putin",
+      "rebels"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "nigeria",
+      "---"
+    ],
+    "1":[
+      "vladimir putin",
+      "ukraine"
+    ],
+    "2":[
+      "the islamic state",
+      "iraq"
+    ],
+    "3":[
+      "---",
+      "australia"
+    ],
+    "4":[
+      "vladimir putin",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['cracking',> <'down']>"
+    ],
+    "1":[
+      "is ... coming to"
+    ],
+    "2":[
+      "is ... says"
+    ],
+    "3":[
+      "will convene for ... meeting"
+    ],
+    "4":[
+      "needs ... call"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "ngamed",
+      "---med",
+      "170"
+    ],
+    "1":[
+      "rusgov",
+      "ukr",
+      "040"
+    ],
+    "2":[
+      "imgmusisi",
+      "irq",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "aus",
+      "046",
+      "---gov",
+      "aus",
+      "046"
+    ],
+    "4":[
+      "rusgov",
+      "---reb",
+      "041"
+    ]
+  }
+}

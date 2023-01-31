@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dear-minnesota-football-players-stop-perpetuating_us_586d30f6e4b04d7df167d8cd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jeh-johnson-trump-daca_us_586c09dfe4b0eb58648add46",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chuck-schumer-warns-trump-a-phony-twitter-presidency-will-fail_us_586bd8e8e4b0d9a5945c98e7"
+  },
+  "headline":{
+    "0":"Dear Minnesota Football Players: Stop Perpetuating Rape Culture",
+    "1":"DHS Secretary Warns Against Using Dreamers' Personal Information To Deport Them",
+    "2":"Chuck Schumer Warns Trump A Phony 'Twitter' Presidency Will Fail"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Future victims now have to contend with the possibility that an entire community will turn against them.",
+    "1":"Jeh Johnson stressed the importance of the government's promise to people who applied for deportation relief.",
+    "2":"The Senate minority leader used his first speech to serve notice to the president-elect that Democrats intend to hold him accountable for his promises."
+  },
+  "authors":{
+    "0":"Anne Hilker, ContributorWriter, Student, and Dreamer",
+    "1":"Elise Foley",
+    "2":"Michael McAuliff"
+  },
+  "date":{
+    "0":"2017-01-04 00:00:00",
+    "1":"2017-01-03 00:00:00",
+    "2":"2017-01-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagov",
+    "2":"usagovleg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"010",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "victims",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "jeh johnson",
+      "usagov",
+      "jeh",
+      "johnson",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "victims",
+      "victims"
+    ],
+    "1":[
+      "jeh johnson",
+      "government"
+    ],
+    "2":[
+      "senate",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "jeh johnson",
+      "---"
+    ],
+    "2":[
+      "united states congress",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "stressed"
+    ],
+    "2":[
+      "used ... serve"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "110"
+    ],
+    "1":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "usagovleg",
+      "---gov",
+      "060"
+    ]
+  }
+}

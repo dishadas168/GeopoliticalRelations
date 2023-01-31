@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/companies_us_5bb2fa4fe4b0480ca6601d7c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/best-baby-sleep-tips_us_5b9d5bb8e4b03a1dcc870b87"
+  },
+  "headline":{
+    "0":"Companies With 'Cash On The Sidelines' Should Pay Workers More",
+    "1":"5 Essential Baby Sleep Tips"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"American companies have been piling up more and more cash lately, which perversely has become a talking point for why the",
+    "1":"One of the hardest parts of parenthood for me is the lack of sleep. I am like a zombie in the middle of the night. If I'm being even more honest, more often than not, the girls cry for my husband when they wake up, because they know Mama is just going to march them back to bed."
+  },
+  "authors":{
+    "0":"Slate, Slate",
+    "1":"GalTime, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2013-07-21 00:00:00",
+    "1":"2013-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "workers"
+    ],
+    "1":[
+      "girls",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should pay"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "061"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "110"
+    ]
+  }
+}

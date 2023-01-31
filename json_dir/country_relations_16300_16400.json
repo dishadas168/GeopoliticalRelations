@@ -1,0 +1,353 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/homeland-security-voter-information_us_5a5048cfe4b089e14dbae420",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/eric-trump-birthday-wishes-rnc-tweet_us_5a507cc0e4b01e1a4b15338a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/rob-bishop-patagonia_us_5a50db5fe4b01e1a4b156bca",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-jewish-lawyer-martin-wishnatsky-christian_us_5a4eef9ae4b089e14db9b489",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/michael-wolff-fire-and-fury-today_us_5a4f6e8ae4b003133ec72b89",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/singapore-gay-doctor-adoption_us_5a4fd524e4b089e14dbab510",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/dreamers-california-republicans-daca-mccarthy_us_5a4bff13e4b06d1621bb739f",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/end-the-assault-on-indigenous-peoples-and-our-land_us_5a4f977ce4b089e14dba6bc6"
+  },
+  "headline":{
+    "0":"Trump's Vote Fraud Panel Won't Give Voter Information To Homeland Security",
+    "1":"The RNC Asked For Birthday Wishes For Eric Trump, And It Didn't Go As Planned",
+    "2":"Rob Bishop Continues His Taxpayer-Funded Feud With Patagonia",
+    "3":"Turns Out Roy Moore\u2019s Jewish Lawyer Is Actually A Christian Now",
+    "4":"'Fire And Fury' Author Defends Book After Trump Slams It As 'Phony' And 'Full Of Lies'",
+    "5":"Gay Doctor Will Appeal Failed Adoption Of His Biological Son In Singapore",
+    "6":"Dreamers To California Republicans: Help Us, Please",
+    "7":"Alaska Indigenous Women to Senator Murkowski: End The Assault On Our Communities and Lands"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"QUEER VOICES",
+    "6":"POLITICS",
+    "7":"GREEN"
+  },
+  "short_description":{
+    "0":"A Justice Department lawyer said in a court filing that the data won't be transferred or used.",
+    "1":"A lot of people called out the GOP for asking them to honor a private citizen.",
+    "2":"The Utah representative accused the company's CEO of \"living in a bubble\" after he declined an invitation to testify before Congress.",
+    "3":"The Senate candidate's wife had argued they couldn't be anti-Semitic because their lawyer was a Jew. He says he accepted Christ in his 30s.",
+    "4":"Journalist Michael Wolff said it was \"extraordinary\" that the president tried to stop the publication.",
+    "5":"SINGAPORE (Reuters) - A gay Singaporean doctor is to appeal against a court\u2019s rejection of his bid to adopt his biological",
+    "6":"In the Golden State's agricultural heartland, young undocumented immigrants plead for support from their congressmen.",
+    "7":"The Alaska senator is sneakily collaborating with the Trump administration in eliminating protections and handing sacred land to corporations."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Lee Moran",
+    "2":"Chris D'Angelo",
+    "3":"Rebecca Shapiro",
+    "4":"Marina Fang",
+    "5":"",
+    "6":"Susan Ferriss, Center for Public Integrity",
+    "7":"Women\u2019s Earth and Climate Action Network, Contributorclimate justice-based initiative"
+  },
+  "date":{
+    "0":"2018-01-06 00:00:00",
+    "1":"2018-01-06 00:00:00",
+    "2":"2018-01-06 00:00:00",
+    "3":"2018-01-05 00:00:00",
+    "4":"2018-01-05 00:00:00",
+    "5":"2018-01-05 00:00:00",
+    "6":"2018-01-05 00:00:00",
+    "7":"2018-01-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"usagovleg",
+    "4":"---med",
+    "5":"sgphlh",
+    "6":"---cvl",
+    "7":"usaleg"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---ppl",
+    "2":"---bus",
+    "3":"usagovleg",
+    "4":"---med",
+    "5":"---jud",
+    "6":"---leg",
+    "7":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"041",
+    "2":"112",
+    "3":"110",
+    "4":"010",
+    "5":"020",
+    "6":"020",
+    "7":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-2.0,
+    "3":-2.0,
+    "4":0.0,
+    "5":3.0,
+    "6":3.0,
+    "7":3.5
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "private citizen",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "utah",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "company",
+      "ceo",
+      "~bus",
+      "~",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "lawyer",
+      "~jud",
+      "~",
+      "jew",
+      "~jew",
+      "~"
+    ],
+    "4":[
+      "journalist",
+      "~med",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "singaporean",
+      "doctor",
+      "sgphlh",
+      "singapore",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "6":[
+      "immigrants",
+      "~cvl",
+      "~",
+      "congressmen",
+      "~leg",
+      "~"
+    ],
+    "7":[
+      "alaska",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "lawyer"
+    ],
+    "1":[
+      "private citizen",
+      "people",
+      "people",
+      "private citizen"
+    ],
+    "2":[
+      "utah",
+      "company ... ceo"
+    ],
+    "3":[
+      "senate",
+      "senate"
+    ],
+    "4":[
+      "journalist",
+      "journalist"
+    ],
+    "5":[
+      "singaporean doctor",
+      "court"
+    ],
+    "6":[
+      "immigrants",
+      "congressmen"
+    ],
+    "7":[
+      "alaska senator",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "united states congress"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "singapore",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "called",
+      "called"
+    ],
+    "2":[
+      "accused"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "is ... appeal"
+    ],
+    "6":[
+      "plead"
+    ],
+    "7":[
+      "is ... collaborating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "lgbt",
+      "1"
+    ],
+    "6":[
+      "agriculture",
+      "1",
+      "id_immigration",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "041",
+      "---ppl",
+      "---cvl",
+      "041"
+    ],
+    "2":[
+      "usa",
+      "---bus",
+      "112"
+    ],
+    "3":[
+      "usagovleg",
+      "usagovleg",
+      "110"
+    ],
+    "4":[
+      "---med",
+      "---med",
+      "010"
+    ],
+    "5":[
+      "sgphlh",
+      "---jud",
+      "020"
+    ],
+    "6":[
+      "---cvl",
+      "---leg",
+      "020"
+    ],
+    "7":[
+      "usaleg",
+      "---gov",
+      "050"
+    ]
+  }
+}

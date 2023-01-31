@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/boston-lgbtq-communities-divided_b_5618846.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/samurai-sword-attack_n_5626756.html"
+  },
+  "headline":{
+    "0":"Boston LGBTQ Communities Divided on Israeli-Palestinian Conflict",
+    "1":"Man Seriously Injured In Samurai Sword Attack: Police"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"At a recent protest rally on the streets of Boston, just one of many that I've seen personally, watched on TV and read about, members of our community went at each other's throats, demonstrating not only how we're not monolithic when it comes to passion and politics but how LGBTQs are inextricably tied to world events.",
+    "1":""
+  },
+  "authors":{
+    "0":"Irene Monroe, ContributorNationally renowned African-American lesbian activist, scholar...",
+    "1":"Andres Jauregui"
+  },
+  "date":{
+    "0":"2014-07-28 00:00:00",
+    "1":"2014-07-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "community"
+    ],
+    "1":[
+      "man",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "injured in ... attack"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "140"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "190"
+    ]
+  }
+}

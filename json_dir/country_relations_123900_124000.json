@@ -1,0 +1,183 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-delegation-visits-myan_b_5523111.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/presbyterians-divest-from_b_5523130.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-presidency-perks_n_5523076.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mayors-immigration_n_5520234.html"
+  },
+  "headline":{
+    "0":"U.S. Delegation Visits Myanmar To Invest In Community-Based Businesses",
+    "1":"Presbyterians Divest from the Israeli Occupation: The End of the Beginning?",
+    "2":"Obama Reveals What He Loves Most About Being President",
+    "3":"Mayors Call On Congress To Tackle Illegal Immigration"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"He said that although community-based businesses are small investments, they can create job opportunities and reach the grassroots level practically. Moreover, community-based businesses can give security to a community without impacting the social environment.",
+    "1":"If there is to be a just resolution, some sufficiently potent other groups of people will have to effectively weigh in on the side of the Palestinian victims of occupation.",
+    "2":"",
+    "3":""
+  },
+  "authors":{
+    "0":"Wa Lone, ContributorJournalist and photographer",
+    "1":"Robert Naiman, ContributorPolicy Director, Just Foreign Policy",
+    "2":"Paige Lavender",
+    "3":""
+  },
+  "date":{
+    "0":"2014-06-23 00:00:00",
+    "1":"2014-06-23 00:00:00",
+    "2":"2014-06-23 00:00:00",
+    "3":"2014-06-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---ppl",
+    "2":"usagov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"psecvl",
+    "2":"usagov",
+    "3":"---leg"
+  },
+  "event_code":{
+    "0":"072",
+    "1":"040",
+    "2":"050",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":8.3,
+    "1":1.0,
+    "2":3.5,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "businesses",
+      "~bus",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "palestinian",
+      "victims",
+      "psecvl",
+      "palestine",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "mayors",
+      "~gov",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "businesses",
+      "community"
+    ],
+    "1":[
+      "people",
+      "palestinian victims"
+    ],
+    "2":[
+      "obama",
+      "obama"
+    ],
+    "3":[
+      "mayors",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "palestine"
+    ],
+    "2":[
+      "barack obama",
+      "barack obama"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can give <&security>"
+    ],
+    "1":[
+      "will ... weigh"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "call on"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "072"
+    ],
+    "1":[
+      "---ppl",
+      "psecvl",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "usagov",
+      "050"
+    ],
+    "3":[
+      "---gov",
+      "---leg",
+      "020"
+    ]
+  }
+}

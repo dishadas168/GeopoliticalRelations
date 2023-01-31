@@ -1,0 +1,125 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-52_b_6634114.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-52_b_6634114.html"
+  },
+  "headline":{
+    "0":"Weekend Roundup: ISIS Savagery Taunts the World",
+    "1":"Weekend Roundup: ISIS Savagery Taunts the World"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The savagery of the Islamic State taunted the world once again this week, striking out at both geopolitically toothless Japan and the tribal kingdom of Jordan. Islamic State fighters beheaded the journalist Kenji Goto and revealed that, in an act of unfathomable cruelty, they had burned alive a captured Jordanian pilot.\n\nLast week Japan's former defense chief Yuriko Koike wrote from Tokyo that Japan's constitutional restrictions on using force have prevented it from taking action against ISIS, and argues that that must change. Writing from Beirut, Jordanian analyst Rami Khouri has political misgivings about official support across the Arab world for the anti-ISIS coalition when the public is not consulted. From Amman, WorldPost Middle East Correspondent Sophia Jones reports both on the massive protests against ISIS and on the undercurrent of opposition in Jordan that believes the fight against ISIS \"is not our war.\" (continued)",
+    "1":"The savagery of the Islamic State taunted the world once again this week, striking out at both geopolitically toothless Japan and the tribal kingdom of Jordan. Islamic State fighters beheaded the journalist Kenji Goto and revealed that, in an act of unfathomable cruelty, they had burned alive a captured Jordanian pilot.\n\nLast week Japan's former defense chief Yuriko Koike wrote from Tokyo that Japan's constitutional restrictions on using force have prevented it from taking action against ISIS, and argues that that must change. Writing from Beirut, Jordanian analyst Rami Khouri has political misgivings about official support across the Arab world for the anti-ISIS coalition when the public is not consulted. From Amman, WorldPost Middle East Correspondent Sophia Jones reports both on the massive protests against ISIS and on the undercurrent of opposition in Jordan that believes the fight against ISIS \"is not our war.\" (continued)"
+  },
+  "authors":{
+    "0":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "1":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost"
+  },
+  "date":{
+    "0":"2015-02-07 00:00:00",
+    "1":"2015-02-07 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"---uaf"
+  },
+  "actor2":{
+    "0":"jpngov",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "jordan",
+      "jor",
+      "jordan",
+      "japan",
+      "kingdom",
+      "jpngov",
+      "japan",
+      "~"
+    ],
+    "1":[
+      "fighters",
+      "~uaf",
+      "~",
+      "journalist",
+      "~med",
+      "~",
+      "jordanian",
+      "jor",
+      "jordan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the ... islamic state",
+      "japan ... kingdom"
+    ],
+    "1":[
+      "fighters",
+      "journalist",
+      "fighters",
+      "fighters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "japan"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "taunted ... striking"
+    ],
+    "1":[
+      "<and> ... beheaded",
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "labor_strike",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "jpngov",
+      "190"
+    ],
+    "1":[
+      "---uaf",
+      "---med",
+      "190",
+      "---uaf",
+      "---uaf",
+      "050"
+    ]
+  }
+}

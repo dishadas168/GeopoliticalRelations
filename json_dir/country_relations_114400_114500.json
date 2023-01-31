@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-foreign-fighters-are-_1_b_5960574.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/detroit-mass-mob_n_5967678.html"
+  },
+  "headline":{
+    "0":"Why Foreign Fighters Are Joining ISIL (Part 2)",
+    "1":"'Mass Mobs' Are Taking Over Detroit's Catholic Churches"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"RELIGION"
+  },
+  "short_description":{
+    "0":"Whether ISIL fighters are \"brain-washed\" or self-inculcated via the internet, the ISIL brand of radical Islam is turning men into remorseless killers.",
+    "1":""
+  },
+  "authors":{
+    "0":"Robert D. Onley, ContributorFather, lawyer, writer, advocate, passionate about the future ...",
+    "1":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2014-10-13 00:00:00",
+    "1":"2014-10-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "fighters",
+      "~uaf",
+      "~",
+      "isil",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "mobs",
+      "~cvl",
+      "~",
+      "detroit",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fighters",
+      "isil"
+    ],
+    "1":[
+      "mobs",
+      "detroit"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are joining"
+    ],
+    "1":[
+      "are taking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "imgmusisi",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "171"
+    ]
+  }
+}

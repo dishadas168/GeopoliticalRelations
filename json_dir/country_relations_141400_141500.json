@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rare-earth-magnets-teen-accidentally-swallows-surgery_us_5b9db314e4b03a1dcc8bab5f"
+  },
+  "headline":{
+    "0":"Teen Swallows Rare-Earth Magnets, Undergoes Emergency Surgery"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Christin Rivas, 14, was rushed to the emergency room for an X-ray, but a doctor sent her home, telling Rivas' mother that"
+  },
+  "authors":{
+    "0":"Sara Gates"
+  },
+  "date":{
+    "0":"2013-12-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "doctor",
+      "~hlh",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctor",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sent ... telling"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/drug-companies-electronic-health-records_us_5b9dc56de4b03a1dcc8caeb2"
+  },
+  "headline":{
+    "0":"Are Drug Companies Using Your Electronic Health Records To Sell You Stuff?"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"NEW YORK, Jan 8 (Reuters) - If you went to visit your doctor and a drug company representative was sitting in the room with"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2014-01-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---hlh"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "doctor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went ... visit"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---hlh",
+      "042"
+    ]
+  }
+}

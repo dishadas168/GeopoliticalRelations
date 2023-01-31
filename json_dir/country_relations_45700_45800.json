@@ -1,0 +1,204 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-it-means-that-the-russian-ambassador-to-turkey_us_586fd7e9e4b08052400ee1f4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-european-weapons-war-crimes-iraq_us_586e435ce4b0c4be0af30277",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/elephant-born-at-disney-park_us_586e4280e4b0c4be0af30246",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/officer-caught-on-video-punching-woman-resigns_us_586ec3d5e4b02b5f8588065f"
+  },
+  "headline":{
+    "0":"What It Means That The Russian Ambassador To Turkey Was Assassinated By A Radicalized Militant Jihadi Off\u2010Duty Turkish Police Officer",
+    "1":"U.S. And European Weapons Used To Commit War Crimes In Iraq: Amnesty",
+    "2":"Meet The Adorable Newborn Elephant That Just Joined Disney's Herd",
+    "3":"Officer Caught On Video Punching Woman Resigns"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"GOOD NEWS",
+    "3":"CRIME"
+  },
+  "short_description":{
+    "0":"By Ahmet S Yayla, Ph.D. & Anne Speckhard, Ph.D. The Russian Ambassador to Turkey, Andrey Karlov, was shot and killed in an",
+    "1":"Shi\u2019ite Muslim militias have reportedly been using using weapons from Iraqi military stockpiles.",
+    "2":"Animal Kingdom announced the little girl's birth on Wednesday. They've named her Stella. \ud83d\udc18",
+    "3":"Authorities said the video \"clearly depicts\" the officer striking the woman."
+  },
+  "authors":{
+    "0":"Ahmet S Yayla, ContributorAdj. Associate Professor at Georgetown University, Fellow, Pro...",
+    "1":"",
+    "2":"Nina Golgowski",
+    "3":"David Lohr"
+  },
+  "date":{
+    "0":"2017-01-06 00:00:00",
+    "1":"2017-01-05 00:00:00",
+    "2":"2017-01-05 00:00:00",
+    "3":"2017-01-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---musuaf",
+    "2":"---gov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"rusgov",
+    "1":"irqmil",
+    "2":"---cvl",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"186",
+    "1":"175",
+    "2":"010",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-9.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "ambassador to",
+      "turkey",
+      "rusgov",
+      "turgov",
+      "russian",
+      "federation",
+      "~",
+      "turkey",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "muslim",
+      "militias",
+      "~musuaf",
+      "~",
+      "~",
+      "iraqi",
+      "military",
+      "irqmil",
+      "iraq",
+      "~"
+    ],
+    "2":[
+      "kingdom",
+      "~gov",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "authorities",
+      "~gov",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "militant",
+      "russian",
+      "militant",
+      "ambassador to"
+    ],
+    "1":[
+      "muslim militias",
+      "iraqi military"
+    ],
+    "2":[
+      "kingdom",
+      "girl"
+    ],
+    "3":[
+      "authorities",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "russian federation",
+      "---",
+      ""
+    ],
+    "1":[
+      "---",
+      "iraq"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['rusgov',> <'turgov']> ... assassinated by <~uaf>",
+      "<['rusgov',> <'turgov']> ... assassinated by <~uaf>"
+    ],
+    "1":[
+      "have ... using <&weapon>"
+    ],
+    "2":[
+      "announced"
+    ],
+    "3":[
+      "said ... depicts"
+    ]
+  },
+  "issues":{
+    "0":[
+      "assassination",
+      "1",
+      "id_extremism",
+      "1",
+      "id_jihad",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "labor_strike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "rusgov",
+      "186",
+      "---uaf",
+      "turgov",
+      "186"
+    ],
+    "1":[
+      "---musuaf",
+      "irqmil",
+      "175"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "010"
+    ]
+  }
+}

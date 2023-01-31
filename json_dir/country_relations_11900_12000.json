@@ -1,0 +1,232 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-donald-trump-feud-toxic-masculinity_us_5ab3af86e4b0decad0477504",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-bolton-foreign-policy-history_us_5aaa8f31e4b045cd0a6f7926",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-releases-schoolgirls_us_5ab2827fe4b054d118df0892",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-releases-schoolgirls_us_5ab2827fe4b054d118df0892",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-trump-abuse-women_us_5ab26996e4b008c9e5f347e3"
+  },
+  "headline":{
+    "0":"The Irony Of Joe Biden Trying To Protect Women By Threatening Donald Trump",
+    "1":"Trump's New National Security Adviser, John Bolton, Is As Dangerous As You Remembered",
+    "2":"Boko Haram Releases Over 100 Abducted Nigerian Schoolgirls",
+    "3":"Boko Haram Releases Over 100 Abducted Nigerian Schoolgirls",
+    "4":"Biden Would've 'Beat The Hell Out Of' Trump In High School For His Abuse Of Women"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Because responding to violence against women with more violence is, well, not the answer.",
+    "1":"One of the most notorious advocates for the Iraq War is set to advise the president on U.S. foreign policy.",
+    "2":"The girls had been kidnapped by the militant group a month ago.",
+    "3":"The girls had been kidnapped by the militant group a month ago.",
+    "4":"The former vice president spoke at a University of Miami anti-sexual violence rally on Tuesday."
+  },
+  "authors":{
+    "0":"Alanna Vagianos",
+    "1":"Marina Fang",
+    "2":"",
+    "3":"",
+    "4":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2018-03-22 00:00:00",
+    "1":"2018-03-22 00:00:00",
+    "2":"2018-03-21 00:00:00",
+    "3":"2018-03-21 00:00:00",
+    "4":"2018-03-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"irqjud",
+    "2":"ngareb",
+    "3":"---uaf",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagov",
+    "2":"nga",
+    "3":"---cvl",
+    "4":"usaedu"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"020",
+    "2":"084",
+    "3":"181",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":3.0,
+    "2":7.0,
+    "3":-9.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "iraq",
+      "irq",
+      "iraq",
+      "advocates",
+      "irqjud",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "boko haram",
+      "ngareb",
+      "boko",
+      "haram",
+      "nigerian",
+      "nga",
+      "nigeria"
+    ],
+    "3":[
+      "girls",
+      "~cvl",
+      "~",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "miami",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "joe biden",
+      "women"
+    ],
+    "1":[
+      "advocates",
+      "---"
+    ],
+    "2":[
+      "boko haram",
+      "nigerian"
+    ],
+    "3":[
+      "militant",
+      "girls"
+    ],
+    "4":[
+      "president",
+      "university"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "joe biden",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ],
+    "2":[
+      "boko haram",
+      "nigeria"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "trying ... protect"
+    ],
+    "1":[
+      "advise"
+    ],
+    "2":[
+      "releases"
+    ],
+    "3":[
+      "<~cvl> ... kidnapped by <~uaf>"
+    ],
+    "4":[
+      "spoke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "named_terror_group",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cvl",
+      "074"
+    ],
+    "1":[
+      "irqjud",
+      "usagov",
+      "020"
+    ],
+    "2":[
+      "ngareb",
+      "nga",
+      "084"
+    ],
+    "3":[
+      "---uaf",
+      "---cvl",
+      "181"
+    ],
+    "4":[
+      "---gov",
+      "usaedu",
+      "010"
+    ]
+  }
+}

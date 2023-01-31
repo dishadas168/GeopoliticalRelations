@@ -1,0 +1,86 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-jews-worry-that-_b_6743862.html"
+  },
+  "headline":{
+    "0":"American Jews Worry That Netanyahu's Speech Here Can Hurt Israel"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"While few American Jewish leaders will speak openly on the subject, many thoughtful Jews are worried that Prime Minister Netanyahu's planned speech in the House of Representatives on March 3rd will actually harm Israel's security interests rather than help them."
+  },
+  "authors":{
+    "0":"Robert K. Lifton, ContributorFmr. President, The American Jewish Congress and Israel Policy..."
+  },
+  "date":{
+    "0":"2015-02-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usajew"
+  },
+  "actor2":{
+    "0":"isr"
+  },
+  "event_code":{
+    "0":"180"
+  },
+  "goldstein_score":{
+    "0":-9.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "jews",
+      "netanyahu",
+      "usajew",
+      "isrgovjew",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "benjamin",
+      "netanyahu",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "jews",
+      "jews",
+      "jews"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... hurt",
+      "can ... hurt"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usajew",
+      "isr",
+      "180",
+      "isrgovjew",
+      "isr",
+      "180"
+    ]
+  }
+}

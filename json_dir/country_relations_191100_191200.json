@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/share-your-home-exchange-sharing-day_us_5b9bd9ace4b03a1dcc7aba37",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lone-star-tick-meat-allergy-bites_us_5b9be074e4b03a1dcc7ae938"
+  },
+  "headline":{
+    "0":"The Ultimate Sharing Opportunity: Home Exchange And Get Free Lodging",
+    "1":"Lone Star Tick Bites Linked With Meat Allergy"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Today, the United Kingdom will celebrate its first National Sharing Day, established by The People Who Share. This organization is a trail blazing movement dedicated to building a global marketplace of sharing.",
+    "1":"For more on the allergy, watch the ABC News report above. CNN reported that more than 1,500 people have so far been affected"
+  },
+  "authors":{
+    "0":"Shelley Miller, Contributor\nHome Exchange Expert",
+    "1":""
+  },
+  "date":{
+    "0":"2012-06-20 00:00:00",
+    "1":"2012-06-20 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"med"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "united kingdom",
+      "gbr",
+      "united",
+      "kingdom",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "cnn",
+      "med",
+      "cnn",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "united kingdom",
+      "people"
+    ],
+    "1":[
+      "cnn",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ],
+    "1":[
+      "cnn",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will celebrate"
+    ],
+    "1":[
+      "reported <~ppl> ... affected"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---ppl",
+      "051"
+    ],
+    "1":[
+      "med",
+      "---ppl",
+      "050"
+    ]
+  }
+}

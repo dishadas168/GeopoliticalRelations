@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/media-for-kids-npr_us_5b9d50cfe4b03a1dcc8694b9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/misunderstood-british-foods_us_5b9d525be4b03a1dcc86a1de",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jim-morrison-house_us_5b9d525be4b03a1dcc86a1ea"
+  },
+  "headline":{
+    "0":"Media For Kids: NPR Investigates The Impact Of Children's Entertainment (LISTEN)",
+    "1":"Most Misunderstood British Foods",
+    "2":"Jim Morrison's House In Melbourne, Florida, Offered A Modest Start To A Legendary Life (PHOTOS)"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"FOOD & DRINK",
+    "2":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"\"The quality and the content of what kids are paying attention to is worthy of serious cultural examination,\u201d she argues",
+    "1":"While Americans have welcomed all kinds of imported cuisines with open arms, a whole slew of British food has never caught on in the U.S. Maybe we're still resistant to our former colonizers. More likely, however, these foods simply got lost in translation.",
+    "2":"It's not quite we imagined -- and its worth will raise your eyebrow."
+  },
+  "authors":{
+    "0":"Emma Mustich",
+    "1":"Alison Spiegel, Contributor\nStaff Writer, Food & Travel",
+    "2":"Brie Dyas"
+  },
+  "date":{
+    "0":"2013-07-03 00:00:00",
+    "1":"2013-07-03 00:00:00",
+    "2":"2013-07-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"gbr",
+    "2":"aus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"171",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.2,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "melbourne",
+      "florida",
+      "aus",
+      "usa",
+      "australia",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "children"
+    ],
+    "1":[
+      "british",
+      "u.s."
+    ],
+    "2":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "united states of america"
+    ],
+    "2":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "investigates"
+    ],
+    "1":[
+      "has ... caught"
+    ],
+    "2":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "090"
+    ],
+    "1":[
+      "gbr",
+      "usa",
+      "171"
+    ],
+    "2":[
+      "aus",
+      "usa",
+      "030",
+      "usa",
+      "aus",
+      "030"
+    ]
+  }
+}

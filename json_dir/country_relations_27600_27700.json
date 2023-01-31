@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flake-trump_us_59873576e4b041356ec07163",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-the-fast-food-president_us_598344d9e4b0fa1575fc6830",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/nra-fist-new-york-times_us_59850119e4b041356ebfdd20",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/my-transgender-life-all-gods-children-for-believers_us_59845beee4b0bd82320296d2",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-extends-her-silk-road-to-haiti_us_5984927ae4b0bd8232029723"
+  },
+  "headline":{
+    "0":"Jeff Flake Knocks Republicans For Not Standing Up To Birthers",
+    "1":"Donald Trump Is The Fast-Food President",
+    "2":"Fist Or Fisk? NRA's Bizarre Ad Has A Confusing Message For New York Times",
+    "3":"My Transgender Life:  All God\u2019s Children - For Believers, Non-believers, Those Confused and Those Who Cannot Commit",
+    "4":"China Extends Her Silk Road To Haiti"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"QUEER VOICES",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The senator has been criticizing his party and the president, while still mostly voting with them.",
+    "1":"The Trump administration is taking the reins off low-wage employers. It's a stark reversal from the Obama years.",
+    "2":"The gun group's spokeswoman, Dana Loesch, lashed out at people who didn't get it.",
+    "3":"So, the President of the USA wants to ban transgender people from serving in the military. So, the State of Texas calls an",
+    "4":"China plans to invest $30 billion in Haiti\u2019s infrastructure according to the Haitian Press Agency (AHP). This week the Mayor"
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Dave Jamieson",
+    "2":"Carla Herreria",
+    "3":"Grace Anne Stevens, ContributorAuthor, Speaker, and Trainer on gender variance and living aut...",
+    "4":"Georgianne Nienaber, ContributorWriter and Author with special interest in international issues."
+  },
+  "date":{
+    "0":"2017-08-06 00:00:00",
+    "1":"2017-08-05 00:00:00",
+    "2":"2017-08-05 00:00:00",
+    "3":"2017-08-04 00:00:00",
+    "4":"2017-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"---med",
+    "3":"usagov",
+    "4":"chn"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---bus",
+    "2":"---ppl",
+    "3":"---ppl",
+    "4":"hti"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"171",
+    "2":"111",
+    "3":"172",
+    "4":"0311"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-9.2,
+    "2":-2.0,
+    "3":-5.0,
+    "4":5.2
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "employers",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "spokeswoman",
+      "~med",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "the usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "usagov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "china",
+      "chn",
+      "china",
+      "haiti",
+      "hti",
+      "haiti"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "president"
+    ],
+    "1":[
+      "administration",
+      "employers"
+    ],
+    "2":[
+      "spokeswoman",
+      "people"
+    ],
+    "3":[
+      "president",
+      "people"
+    ],
+    "4":[
+      "china",
+      "haiti"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "",
+      "---"
+    ],
+    "4":[
+      "china",
+      "haiti"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... criticizing"
+    ],
+    "1":[
+      "is ... taking"
+    ],
+    "2":[
+      "<['lashed',> <'out']>"
+    ],
+    "3":[
+      "wants ... ban"
+    ],
+    "4":[
+      "plans ... invest"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "lgbt",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---gov",
+      "111"
+    ],
+    "1":[
+      "---gov",
+      "---bus",
+      "171"
+    ],
+    "2":[
+      "---med",
+      "---ppl",
+      "111"
+    ],
+    "3":[
+      "usagov",
+      "---ppl",
+      "172"
+    ],
+    "4":[
+      "chn",
+      "hti",
+      "0311"
+    ]
+  }
+}

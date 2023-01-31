@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/san-bernardino-shooters-assault-rifles-california_us_5661f892e4b079b2818ea0ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/no-child-left-behind-vote_us_565fb881e4b08e945fee181c"
+  },
+  "headline":{
+    "0":"How The San Bernardino Killers Exploited A Loophole To Legally Obtain Assault-Style Rifles In California",
+    "1":"No Child Left Behind Rewrite Passes House Easily"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"It's called the \"bullet button loophole.\"",
+    "1":"The Senate is to vote on it early next week and President Barack Obama is expected to sign it."
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Jennifer C. Kerr, AP"
+  },
+  "date":{
+    "0":"2015-12-04 00:00:00",
+    "1":"2015-12-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm",
+    "1":"usagovleg"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"072",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":8.3,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "killers",
+      "~crm",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "killers",
+      "california"
+    ],
+    "1":[
+      "senate",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states congress",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "exploited ... obtain <&weapon>"
+    ],
+    "1":[
+      "is ... vote"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "usa",
+      "072"
+    ],
+    "1":[
+      "usagovleg",
+      "usagovleg",
+      "030"
+    ]
+  }
+}

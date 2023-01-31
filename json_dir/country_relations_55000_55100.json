@@ -1,0 +1,212 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cfpb-wells-fargo_us_57e1a76ee4b08d73b82e102e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/21-states-sue-over-obama-administrations-overtime-pay-law_us_57e17e73e4b0071a6e09e3d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-immigrants-new-york-bombing_us_57e06208e4b0071a6e091415",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/why-viruses-thrive-on-college-campuses_us_57e001a2e4b0071a6e086a60"
+  },
+  "headline":{
+    "0":"Here's Why Republicans Are Suddenly Demanding Tougher Bank Regulation",
+    "1":"21 States Sue Over Obama Administration's Overtime Pay Law",
+    "2":"Trump Doubles Down On Plan To Ban Immigrants Based On Country, Ideology",
+    "3":"Why Viruses Thrive On College Campuses"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"GOP senators want to know why Elizabeth Warren's consumer watchdog didn't go after Wells Fargo earlier.",
+    "1":"Nevada, Michigan, Wisconsin, Georgia and Ohio also joined the suit.",
+    "2":"Trump used the New York bombing that authorities blame on a naturalized citizen to go after refugees.",
+    "3":"\u201cPeople are definitely exposed to each other at a higher intensity\u201d in college dorms and other shared spaces."
+  },
+  "authors":{
+    "0":"Amanda Terkel and Zach Carter",
+    "1":"Daniel Wiessner, Reuters",
+    "2":"Elise Foley",
+    "3":"Rachael Rettner, LiveScience.com"
+  },
+  "date":{
+    "0":"2016-09-20 00:00:00",
+    "1":"2016-09-20 00:00:00",
+    "2":"2016-09-20 00:00:00",
+    "3":"2016-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"geo",
+    "2":"---cvl",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"112",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-2.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "wells fargo",
+      "mncusa",
+      "wells",
+      "fargo"
+    ],
+    "1":[
+      "nevada",
+      "michigan",
+      "georgia",
+      "ohio",
+      "usa",
+      "usa",
+      "geo",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "georgia",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "citizen",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "college",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "wells fargo"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "authorities",
+      "citizen"
+    ],
+    "3":[
+      "people",
+      "college"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "wells fargo"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... go"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "blame"
+    ],
+    "3":[
+      "are ... exposed ... at <~edu>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ],
+    "3":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "mncusa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "geo",
+      "040",
+      "usa",
+      "geo",
+      "040",
+      "geo",
+      "usa",
+      "040",
+      "geo",
+      "usa",
+      "040",
+      "geo",
+      "usa",
+      "040",
+      "usa",
+      "geo",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "112"
+    ],
+    "3":[
+      "---ppl",
+      "---edu",
+      "050"
+    ]
+  }
+}

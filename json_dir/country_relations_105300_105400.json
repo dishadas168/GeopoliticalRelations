@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/charter-schools-vital-to_b_6563294.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/making-progress-on-vetera_b_6563848.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/japan-isis-hostage-crisis_b_6564404.html"
+  },
+  "headline":{
+    "0":"Charter Schools Vital to DC's Educational Renaissance",
+    "1":"Making Progress On Veterans' Suicide Prevention Bill",
+    "2":"Hostage Crisis Shows How Japan Fails to Protect Its Citizens -- And What It's Doing About It"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"HEALTHY LIVING",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Public charter schools have taken firm root in Washington, DC. This year, for the first time since charter schools were introduced to the District 18 years ago, more public schools in the city are run by charters than by DC Public Schools (DCPS).",
+    "1":"An important suicide prevention bill for veterans, derailed at the end of the last Congress, is back on the fast track. The Clay Hunt Suicide Prevention for American Veterans (SAV) Act was unanimously passed by the House of Representatives earlier this month and the Senate Committee on Veterans Affairs just last week. Now, we are counting on the Senate to act quickly and send it to the president.",
+    "2":"TOKYO -- It is unacceptable for a government to be unable to protect its own citizens. That is why Abe is determined to amend, or at least reinterpret, Japan's constitution to allow for the kinds of defense maneuvers that other countries, from Israel to India, employ when their people are threatened. As U.S. Supreme Court Justice Robert Jackson once put it, a constitution is not a suicide pact."
+  },
+  "authors":{
+    "0":"Nina Rees, ContributorCEO, National Alliance for Public Charter Schools",
+    "1":"Sandra Bond Chapman, Ph.D., ContributorCognitive neuroscientist; Founder and Chief Director, Center f...",
+    "2":"Yuriko Koike, ContributorIncoming Governor of Tokyo, Japan's former Defense Minister an..."
+  },
+  "date":{
+    "0":"2015-01-28 00:00:00",
+    "1":"2015-01-28 00:00:00",
+    "2":"2015-01-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usagovleg",
+    "2":"jpn"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"08",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":5.0,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "schools",
+      "~edu",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "representatives",
+      "~leg",
+      "~",
+      "house of representatives",
+      "senate",
+      "usagovleg",
+      "~",
+      "united",
+      "states",
+      "congress"
+    ],
+    "2":[
+      "japan",
+      "jpn",
+      "japan",
+      "citizens",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "schools",
+      "washington"
+    ],
+    "1":[
+      "house of representatives ... senate",
+      "american"
+    ],
+    "2":[
+      "japan",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states congress",
+      "united states of america"
+    ],
+    "2":[
+      "japan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have taken"
+    ],
+    "1":[
+      "passed by <usagovleg>"
+    ],
+    "2":[
+      "fails ... protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "171"
+    ],
+    "1":[
+      "usagovleg",
+      "usa",
+      "08"
+    ],
+    "2":[
+      "jpn",
+      "---cvl",
+      "074"
+    ]
+  }
+}

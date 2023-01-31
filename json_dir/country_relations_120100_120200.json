@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/war-on-gaza-atie-with-ham_b_5656330.html"
+  },
+  "headline":{
+    "0":"War on Gaza a 'Tie' With Hamas"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The decision of the Palestinian leadership to sign the Rome Protocols for the International Criminal Court will impress on all, including Israel, that decision making is independent and is aimed at addressing the interests of the Palestinian people. If this becomes truly a Palestinian policy, then this could be marked as the biggest success, despite the horrible results in Gaza, which cannot be ignored."
+  },
+  "authors":{
+    "0":"Daoud Kuttab, ContributorPalestinian journalist"
+  },
+  "date":{
+    "0":"2014-08-06 00:00:00"
+  },
+  "actor1":{
+    "0":"pse"
+  },
+  "actor2":{
+    "0":"isr"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "palestinian",
+      "israel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "palestine",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will impress"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "pse",
+      "isr",
+      "010"
+    ]
+  }
+}

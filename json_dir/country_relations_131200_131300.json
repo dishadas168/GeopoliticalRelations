@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/when-you-order-at-fannys_us_5b9df2b9e4b03a1dcc8f52ef"
+  },
+  "headline":{
+    "0":"When You Order at Fanny's, Don't Forget le Fondant Au Chocolat"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Some French chefs study at schools like Le Cordon Bleu in Paris.  For others, cooking is a family affair. Fanny Jehanno falls into this second group."
+  },
+  "authors":{
+    "0":"Jerry Lanson, Contributor\nEmerson College journalism professor"
+  },
+  "date":{
+    "0":"2014-03-27 00:00:00"
+  },
+  "actor1":{
+    "0":"fra"
+  },
+  "actor2":{
+    "0":"fraedu"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "french",
+      "fra",
+      "france",
+      "paris",
+      "fra",
+      "france",
+      "schools",
+      "fraedu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "french",
+      "schools"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "study"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "fraedu",
+      "090"
+    ]
+  }
+}

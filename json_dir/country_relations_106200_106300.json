@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sears-canada-target_n_6493474.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/des-doyle-and-ryan-patric_b_6489992.html"
+  },
+  "headline":{
+    "0":"Struggling Sears Canada Offers Help To Laid-Off Target Workers",
+    "1":"Des Doyle and Ryan Patrick McGuffey Learn the Ropes With Showrunners"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"\u201cYou have Sears trying to swoop in and prey on the emotions of people who just lost their jobs.\u201d",
+    "1":"The doc offers numerous firsthand accounts of what it takes to get a TV show on the air and features a backstory that is almost as equally fascinating. Director Des Doyle and Co-Producer Ryan Patrick McGuffey, both natives of Ireland, sat down recently to discuss the arduous journey."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Alex Simon, ContributorCo-editor, The Hollywood Interview.com"
+  },
+  "date":{
+    "0":"2015-01-17 00:00:00",
+    "1":"2015-01-16 00:00:00"
+  },
+  "actor1":{
+    "0":"can",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"033",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "canada",
+      "can",
+      "canada",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "doc",
+      "~hlh",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "canada",
+      "workers"
+    ],
+    "1":[
+      "doc",
+      "tv"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "canada",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers help"
+    ],
+    "1":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "can",
+      "---lab",
+      "033"
+    ],
+    "1":[
+      "---hlh",
+      "---med",
+      "030"
+    ]
+  }
+}

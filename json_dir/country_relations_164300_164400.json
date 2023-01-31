@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brent-christensen-trent-christensen-yavette-carter-shot-idaho-pit-bull_us_5ba2c14be4b0c2784da5adf3"
+  },
+  "headline":{
+    "0":"Brent Christensen, Trent Christensen And Yavette Carter Fatally Shot At Idaho Pit Bull Business"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"A man who went to the house to buy a dog told authorities about the deaths on Friday afternoon, Semrad said, adding that"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-04-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "authorities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---gov",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bad-sports-why-a-comcast-merger_b_6881302.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hollande-valls-macron-and_b_6880436.html"
+  },
+  "headline":{
+    "0":"Bad Sports: Why a Comcast\/Time Warner Cable Merger Would Hurt Fans",
+    "1":"Hollande, Valls, Macron and Article 49-3: France Tries Harder to Reform"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Comcast and Time Warner Cable want the American People's permission to merge. The only answer for federal, state and local governments and regulators is to make a goal-line stand for sports fans and say no.",
+    "1":"France needs a decisive president with a sense of urgency and a capacity for statesmanship. Both require a willingness to be \"more confrontational\" at home, as Macron says, and more forceful abroad."
+  },
+  "authors":{
+    "0":"David Goodfriend, ContributorChairman, Sports Fans Coalition; contributor, SiriusXM, MSNBC,...",
+    "1":"Ronald Tiersky, ContributorEastman professor of political science emeritus, Amherst College"
+  },
+  "date":{
+    "0":"2015-03-18 00:00:00",
+    "1":"2015-03-18 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"fra"
+  },
+  "actor2":{
+    "0":"usappl",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "comcast",
+      "time warner cable",
+      "mncusamed",
+      "mncusa",
+      "comcast",
+      "time",
+      "warner",
+      "cable",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "france",
+      "fra",
+      "france",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "comcast",
+      "american people",
+      "comcast",
+      "american people"
+    ],
+    "1":[
+      "france",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "comcast",
+      "united states of america",
+      "comcast",
+      "united states of america"
+    ],
+    "1":[
+      "france",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want",
+      "want"
+    ],
+    "1":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "usappl",
+      "030",
+      "mncusa",
+      "usappl",
+      "030"
+    ],
+    "1":[
+      "fra",
+      "---gov",
+      "100"
+    ]
+  }
+}

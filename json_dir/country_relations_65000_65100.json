@@ -1,0 +1,295 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-vietnam_us_57424ddde4b0613b512a97f4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/childline-helpine-india-touch-screen-kiosks_us_574314dce4b045cc9a716fa2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/afghan-taliban-leader_us_57430643e4b0613b512ab4d5",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.latimes.com\/politics\/la-pol-ca-bernie-sanders-supporters-lawsuit-california-voter-confusion-20160522-snap-story.html",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/thehill.com\/blogs\/floor-action\/senate\/280767-senate-set-for-showdown-over-women-in-the-draft",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/isis-fallujah-iraq_us_5741d979e4b0613b512a8bc7"
+  },
+  "headline":{
+    "0":"Arms Embargo On Vietnam In The Balance As Obama Visits",
+    "1":"India Installs Touch-Screen Helplines To Help Curb Child Trafficking",
+    "2":"Afghan Taliban Meet To Find Successor After Leader's Death",
+    "3":"Bernie Sanders supporters sue to have California's voter registration extended until election day",
+    "4":"Senate Set For Showdown Over Women In The Draft",
+    "5":"Iraq Announces Start Of Falluja Operation, Some Residents Flee"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"IMPACT",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"HANOI, May 23 (Reuters) - U.S. President Barack Obama began his first visit to Vietnam on Monday, a trip aimed at sealing",
+    "1":"A critical move as pay phones disappear in the second largest region for trafficking.",
+    "2":"Mullah Akhtar Mansour was killed in a U.S. airstrike over the weekend.",
+    "3":"A federal lawsuit alleging widespread confusion over California's presidential primary rules asks that voter registration",
+    "4":"The Senate is heading for a showdown over women registering for the draft. Supporters of requiring women to sign up for Selective",
+    "5":"The army is asking residents to leave the city ahead of the battle."
+  },
+  "authors":{
+    "0":"",
+    "1":"Rina Chandran, Thomson Reuters Foundation",
+    "2":"James Mackenzie and Matt Spetalnick, Reuters",
+    "3":"",
+    "4":"",
+    "5":""
+  },
+  "date":{
+    "0":"2016-05-23 00:00:00",
+    "1":"2016-05-23 00:00:00",
+    "2":"2016-05-23 00:00:00",
+    "3":"2016-05-22 00:00:00",
+    "4":"2016-05-22 00:00:00",
+    "5":"2016-05-22 00:00:00"
+  },
+  "actor1":{
+    "0":"vnm",
+    "1":"ind",
+    "2":"usa",
+    "3":"usa",
+    "4":"usagovleg",
+    "5":"---mil"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---mus",
+    "3":"---cvl",
+    "4":"---cvl",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"070",
+    "2":"190",
+    "3":"020",
+    "4":"042",
+    "5":"020"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":7.0,
+    "2":-10.0,
+    "3":3.0,
+    "4":1.9,
+    "5":3.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "president barack obama",
+      "usa",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "barack",
+      "obama",
+      "vietnam",
+      "vnm",
+      "vietnam"
+    ],
+    "1":[
+      "india",
+      "ind",
+      "india",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "mullah",
+      "~mus",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "army",
+      "~mil",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vietnam",
+      "u.s.",
+      "vietnam",
+      "president barack obama",
+      "u.s.",
+      "vietnam",
+      "president barack obama",
+      "vietnam"
+    ],
+    "1":[
+      "india",
+      "child"
+    ],
+    "2":[
+      "u.s.",
+      "mullah"
+    ],
+    "3":[
+      "california",
+      "voter"
+    ],
+    "4":[
+      "senate",
+      "women"
+    ],
+    "5":[
+      "army",
+      "residents"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vietnam",
+      "united states of america",
+      "vietnam",
+      "barack obama",
+      "united states of america",
+      "vietnam",
+      "barack obama",
+      "vietnam"
+    ],
+    "1":[
+      "india",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "united states congress",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "began ... visit",
+      "began ... visit",
+      "began ... visit",
+      "began ... visit"
+    ],
+    "1":[
+      "helplines ... help"
+    ],
+    "2":[
+      "<~mus> ... killed in <usa>"
+    ],
+    "3":[
+      "asks"
+    ],
+    "4":[
+      "is heading for"
+    ],
+    "5":[
+      "is asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "airstrike",
+      "1"
+    ],
+    "3":[
+      "election",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "vnm",
+      "usa",
+      "043",
+      "vnm",
+      "usagov",
+      "043",
+      "usa",
+      "vnm",
+      "042",
+      "usagov",
+      "vnm",
+      "042"
+    ],
+    "1":[
+      "ind",
+      "---cvl",
+      "070"
+    ],
+    "2":[
+      "usa",
+      "---mus",
+      "190"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "020"
+    ],
+    "4":[
+      "usagovleg",
+      "---cvl",
+      "042"
+    ],
+    "5":[
+      "---mil",
+      "---cvl",
+      "020"
+    ]
+  }
+}

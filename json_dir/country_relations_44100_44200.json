@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/weve-been-seriously-underestimating-cervical-cancer-risks_us_58865888e4b096b4a233b9ca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/florida-cop-elderly-woman-pills-dog_us_58877771e4b096b4a234a34a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/florida-cop-elderly-woman-pills-dog_us_58877771e4b096b4a234a34a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-ear-bite_us_58864fa2e4b096b4a2339cdb",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/reince-priebus-white-house-will-fight-media-tooth-and-nail-over-trump-coverage_us_5886148ee4b096b4a232f4aa"
+  },
+  "headline":{
+    "0":"We've Been Seriously Underestimating Cervical Cancer Risks",
+    "1":"Sheriff Says Florida Cop Shoved Pills Down Elderly Woman's Throat, Stole Her Dog",
+    "2":"Sheriff Says Florida Cop Shoved Pills Down Elderly Woman's Throat, Stole Her Dog",
+    "3":"Biting Argument Over Trump May Cost Man His Ear",
+    "4":"Reince Priebus: White House Will Fight Media 'Tooth And Nail' Over Trump Coverage"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"CRIME",
+    "2":"CRIME",
+    "3":"CRIME",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"And new research indicates that black women face an even higher risk than white women.",
+    "1":"The sheriff called the deputy's alleged actions \"a disgrace... to law enforcement professionals everywhere.\"",
+    "2":"The sheriff called the deputy's alleged actions \"a disgrace... to law enforcement professionals everywhere.\"",
+    "3":"Pittsburgh police said the suspect bit off a \"significant portion\" of another man's ear.",
+    "4":"The sparring with the media has dominated Trump\u2019s first weekend in office, eclipsing debate over policy and Cabinet appointments."
+  },
+  "authors":{
+    "0":"Erin Schumaker",
+    "1":"David Lohr",
+    "2":"David Lohr",
+    "3":"Nina Golgowski",
+    "4":"Doina Chiacu and Jason Lange, Reuters"
+  },
+  "date":{
+    "0":"2017-01-24 00:00:00",
+    "1":"2017-01-24 00:00:00",
+    "2":"2017-01-24 00:00:00",
+    "3":"2017-01-23 00:00:00",
+    "4":"2017-01-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"---cop",
+    "3":"usacop",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---cop",
+    "3":"---ppl",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"041",
+    "3":"010",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":1.0,
+    "3":0.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "sheriff",
+      "~cop",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "sheriff",
+      "~cop",
+      "~",
+      "deputy",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "pittsburgh",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "women"
+    ],
+    "1":[
+      "sheriff",
+      "florida"
+    ],
+    "2":[
+      "sheriff",
+      "sheriff"
+    ],
+    "3":[
+      "pittsburgh police",
+      "man"
+    ],
+    "4":[
+      "white house",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "white house",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "called"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "will fight"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---cop",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "---cop",
+      "---cop",
+      "041",
+      "---cop",
+      "---cop",
+      "041"
+    ],
+    "3":[
+      "usacop",
+      "---ppl",
+      "010"
+    ],
+    "4":[
+      "usagov",
+      "---med",
+      "190"
+    ]
+  }
+}

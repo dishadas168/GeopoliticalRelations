@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/boeing-ryanair_us_5b9cf207e4b03a1dcc832b65",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cuba-travel-baseball-star_us_5b9cf22ae4b03a1dcc832ca1"
+  },
+  "headline":{
+    "0":"Ryanair Announces Massive $15.6 Billion Order From Boeing",
+    "1":"Cuba Travel: Baseball Star Rey Ordonez Allowed To Return Home Thanks To Obama Travel Policies"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"\"We compartmentalize that. We have a lot of people working on the 787 situation ... We're working on producing 787s as we",
+    "1":"An AP reporter found Ord\u00f3\u00f1ez hanging out in a hotel in downtown Havana, taking pictures with his fans and generally having"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2013-03-19 00:00:00",
+    "1":"2013-03-19 00:00:00"
+  },
+  "actor1":{
+    "0":"mncirl",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"cub"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "ryanair",
+      "mncirl",
+      "ryanair",
+      "boeing",
+      "mncusa",
+      "boeing"
+    ],
+    "1":[
+      "reporter",
+      "~med",
+      "~",
+      "havana",
+      "cub",
+      "cuba"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ryanair",
+      "boeing"
+    ],
+    "1":[
+      "reporter",
+      "havana"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "ryanair",
+      "boeing"
+    ],
+    "1":[
+      "---",
+      "cuba"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announces"
+    ],
+    "1":[
+      "found ... hanging"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncirl",
+      "mncusa",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "cub",
+      "190"
+    ]
+  }
+}

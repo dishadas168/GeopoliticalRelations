@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-hitler-mustache_us_57eca72fe4b082aad9b94af5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/egypt-approves-tougher-law-female-genital-mutilation-fgm_us_57ed2041e4b0c2407cdc1144",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-refugees-2017_us_57ec3dd2e4b082aad9b91e9b"
+  },
+  "headline":{
+    "0":"Mexican Literary Magazine Gives 'American Fascist' Donald Trump A Hitler Mustache",
+    "1":"Egypt Increases Jail Terms For People Who Perform Female Genital Mutilation",
+    "2":"Obama Isn't Backing Down On Welcoming Refugees"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"IMPACT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cFascista Americano\u201d",
+    "1":"The new law raises the maximum sentence from two years to seven.",
+    "2":"And they won't just be from Syria."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Ali Abdelaty, Reuters",
+    "2":"Elise Foley"
+  },
+  "date":{
+    "0":"2016-09-29 00:00:00",
+    "1":"2016-09-29 00:00:00",
+    "2":"2016-09-29 00:00:00"
+  },
+  "actor1":{
+    "0":"mexmed",
+    "1":"egy",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---ref"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060",
+    "2":"08"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0,
+    "2":5.0
+  },
+  "nouns":{
+    "0":[
+      "mexican",
+      "magazine",
+      "mexmed",
+      "mexico",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "egypt",
+      "egy",
+      "egypt",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "refugees",
+      "~ref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mexican ... magazine",
+      "american"
+    ],
+    "1":[
+      "egypt",
+      "people"
+    ],
+    "2":[
+      "obama",
+      "refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "mexico",
+      "united states of america"
+    ],
+    "1":[
+      "egypt",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "increases"
+    ],
+    "2":[
+      "is <['backing',> <'down']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mexmed",
+      "usa",
+      "060"
+    ],
+    "1":[
+      "egy",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "usagov",
+      "---ref",
+      "08"
+    ]
+  }
+}

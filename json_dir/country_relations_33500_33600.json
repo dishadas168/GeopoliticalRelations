@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/can-wonder-woman-save-us-from-donald-trump_us_592314e2e4b0e8f558bb289a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mosul-strike_us_592711a1e4b062f96a34d8f0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/queen-visits-manchester-bombing-victims-in-childrens-hospital_us_5926da11e4b0265790f58e90"
+  },
+  "headline":{
+    "0":"Can Wonder Woman Save Us From Donald Trump?",
+    "1":"U.S. Military Acknowledges More Than 100 Died In Mosul Strike",
+    "2":"Queen Elizabeth II Visits Manchester Bombing Victims In Children's Hospital"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Soon sounds of cheers will be heard for miles as women and girls swarm to movie theaters to see the new Wonder Woman movie",
+    "1":"A probe concluded that the U.S. strike in the Al-Jadida district inadvertently triggered explosives placed in the building by ISIS fighter.",
+    "2":"\"It's very interesting how everybody has united here.\""
+  },
+  "authors":{
+    "0":"Heather Arnet, ContributorCEO, Women & Girls Foundation",
+    "1":"",
+    "2":"Ron Dicker"
+  },
+  "date":{
+    "0":"2017-05-26 00:00:00",
+    "1":"2017-05-25 00:00:00",
+    "2":"2017-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usamil",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"irq",
+    "2":"knagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"015",
+    "2":"043"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":2.8
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "girls",
+      "~cvl",
+      "~",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "queen elizabeth ii",
+      "knagov",
+      "queen",
+      "elizabeth",
+      "ii",
+      "victims",
+      "~cvl",
+      "~",
+      "children",
+      "hospital",
+      "~cvlhlh",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women ... girls",
+      "women ... girls"
+    ],
+    "1":[
+      "u.s. military",
+      "mosul"
+    ],
+    "2":[
+      "victims",
+      "queen elizabeth ii",
+      "queen elizabeth ii",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states military",
+      "iraq"
+    ],
+    "2":[
+      "---",
+      "queen elizabeth ii",
+      "queen elizabeth ii",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "swarm ... see"
+    ],
+    "1":[
+      "acknowledges"
+    ],
+    "2":[
+      "visits",
+      "visits"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "usamil",
+      "irq",
+      "015"
+    ],
+    "2":[
+      "---cvl",
+      "knagov",
+      "043",
+      "knagov",
+      "---cvl",
+      "042"
+    ]
+  }
+}

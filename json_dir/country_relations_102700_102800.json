@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/poroshenko-boris-nemtsov_n_6774976.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-question-i-hope-every-2016-candidate-is-asked-_b_6764020.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/texas-fetus-lawyer_n_6764412.html"
+  },
+  "headline":{
+    "0":"Ukraine's President Says Russian Opposition Leader's Murder Linked To Separatist War",
+    "1":"The Question I Hope Every 2016 Candidate Is Asked",
+    "2":"Texas Lawmaker Proposes Giving Lawyers To Some Fetuses"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"RELIGION",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Here we are at the beginning of another presidential campaign, and like every campaign since our founding, the people who put themselves forward as possible leaders of the free world are being grilled by the media on a number of issues.",
+    "2":""
+  },
+  "authors":{
+    "0":"",
+    "1":"Daniel Darling, ContributorVice President of Communications, The Ethics and Religious Lib...",
+    "2":"Maxwell Tani"
+  },
+  "date":{
+    "0":"2015-02-28 00:00:00",
+    "1":"2015-02-27 00:00:00",
+    "2":"2015-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"ukrgov",
+    "1":"---med",
+    "2":"usaleg"
+  },
+  "actor2":{
+    "0":"rusoppreb",
+    "1":"---ppl",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"110",
+    "2":"021"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "ukraine",
+      "president",
+      "ukrgov",
+      "ukraine",
+      "~",
+      "russian",
+      "opposition leader",
+      "rusopp",
+      "russian",
+      "federation",
+      "~",
+      "separatist",
+      "~reb",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "texas",
+      "lawmaker",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "lawyers",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ukraine ... president",
+      "---"
+    ],
+    "1":[
+      "media",
+      "people"
+    ],
+    "2":[
+      "texas lawmaker",
+      "lawyers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "ukraine",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "<~ppl> ... grilled by <~med>"
+    ],
+    "2":[
+      "proposes giving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "ukrgov",
+      "rusoppreb",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "---ppl",
+      "110"
+    ],
+    "2":[
+      "usaleg",
+      "---jud",
+      "021"
+    ]
+  }
+}

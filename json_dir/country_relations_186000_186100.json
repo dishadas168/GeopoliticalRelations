@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/divorce-causes_us_5b9c2464e4b03a1dcc7c9874",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/children-antipsychotics_us_5b9c21d2e4b03a1dcc7c875f"
+  },
+  "headline":{
+    "0":"Divorce Causes: Could Your Own Divorce Cause Friends And Family To Split?",
+    "1":"Soaring Numbers of Children on Powerful Adult Psychiatric Drugs"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Is divorce contagious? On Tuesday, journalist Vicki Larson stopped by HuffPost Live via webcam to discuss her recent blog",
+    "1":"A recent blog of mine described how unethical and illegal drug company activities have driven the prescription of antipsychotic drugs to children.  Now the \"success\" of this campaign has been documented in the Archives of General Psychiatry."
+  },
+  "authors":{
+    "0":"",
+    "1":"Peter R. Breggin M.D., Contributor\nPeter R. Breggin, MD, has been called \u201cThe Conscience of Psych..."
+  },
+  "date":{
+    "0":"2012-08-14 00:00:00",
+    "1":"2012-08-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "journalist",
+      "~med",
+      "~",
+      "blog",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "blog",
+      "~med",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "journalist",
+      "journalist"
+    ],
+    "1":[
+      "blog",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "stopped ... discuss"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "drugs",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "040"
+    ],
+    "1":[
+      "---med",
+      "---bus",
+      "010"
+    ]
+  }
+}

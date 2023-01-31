@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/schwarzenegger-macron-meeting_us_594f49eae4b0da2c731c04d5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-russia-hacking_us_594e7ba2e4b05c37bb76a963",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/a-clinic-mix-up-leaves-pregnant-woman-in-dark-about-zika-risk_us_594d7fe7e4b05c37bb767c14"
+  },
+  "headline":{
+    "0":"Schwarzenegger And Macron Troll Trump Over Climate Change",
+    "1":"White House Says Its Election Commission Will Examine Hacking. That's News To The Commissioners.",
+    "2":"A Clinic Mix-Up Leaves Pregnant Woman In Dark About Zika Risk"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS",
+    "2":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"Former California governor meets in France with \"great leader\" to talk about environmental issues.",
+    "1":"Commissioners say they have no idea what the commission will look at or when it will meet.",
+    "2":"A Washington state hospital failed to inform a pregnant woman that she was likely infected with Zika virus."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Sam Levine",
+    "2":"JoNel Aleccia, Kaiser Health News"
+  },
+  "date":{
+    "0":"2017-06-25 00:00:00",
+    "1":"2017-06-24 00:00:00",
+    "2":"2017-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"usagovhlh"
+  },
+  "actor2":{
+    "0":"fra",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "france",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "election commission",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "washington",
+      "state hospital",
+      "usagovhlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "france"
+    ],
+    "1":[
+      "white house",
+      "election commission"
+    ],
+    "2":[
+      "washington state hospital",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "france"
+    ],
+    "1":[
+      "white house",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "meets"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "failed ... inform"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "fra",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "usagovhlh",
+      "---cvl",
+      "010"
+    ]
+  }
+}

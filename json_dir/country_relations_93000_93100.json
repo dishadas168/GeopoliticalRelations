@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/france-foreign-minister-polite-tourists_n_7624888.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fighting-isis-an-israeli-_b_7624890.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/morocco-democracy-monarch_b_7622374.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/university-of-rochester-investigation_n_7623774.html"
+  },
+  "headline":{
+    "0":"France's Foreign Minister Wants The French To Be Polite To Tourists",
+    "1":"Fighting ISIS: An Israeli Soldier Offers a Strategy Against The Islamic State",
+    "2":"Seven Myths About Democracy in Morocco",
+    "3":"University Security Investigated For Claim They Physically Restrained Sexual Assault Victim"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"POLITICS",
+    "2":"WORLDPOST",
+    "3":"COLLEGE"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The artistic music video \"Wrecking Ball\" featuring former Disney star Miley Cyrus has accumulated hundreds of millions of views on Youtube. This provocative clip features an almost naked Cyrus suggestively cavorting on a simulated wrecking ball and nearly licking a metal phallic symbol.",
+    "2":"Judging by media stories and think tank reports, many foreign commentators seem unable--or unwilling--to see beyond the reformist image that the Moroccan leadership seeks to project abroad.",
+    "3":""
+  },
+  "authors":{
+    "0":"Rahel Gebreyes",
+    "1":"Mark Charles Hardie, ContributorJewish Community Leader",
+    "2":"Till Bruckner, Contributorpolicy entrepreneur",
+    "3":"Tyler Kingkade"
+  },
+  "date":{
+    "0":"2015-06-22 00:00:00",
+    "1":"2015-06-22 00:00:00",
+    "2":"2015-06-22 00:00:00",
+    "3":"2015-06-21 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"isrmil",
+    "2":"---med",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"fra",
+    "1":"imgmusisi",
+    "2":"---opp",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030",
+    "2":"010",
+    "3":"170"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0,
+    "2":0.0,
+    "3":-7.0
+  },
+  "nouns":{
+    "0":[
+      "france",
+      "fra",
+      "france",
+      "french",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "israeli",
+      "soldier",
+      "isrmil",
+      "israel",
+      "~",
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "media",
+      "~med",
+      "~",
+      "commentators",
+      "~med",
+      "~",
+      "reformist",
+      "~opp",
+      "~",
+      "moroccan",
+      "mar",
+      "morocco"
+    ],
+    "3":[
+      "university",
+      "~edu",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "france",
+      "france"
+    ],
+    "1":[
+      "israeli soldier",
+      "isis"
+    ],
+    "2":[
+      "media",
+      "reformist"
+    ],
+    "3":[
+      "university",
+      "victim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "france"
+    ],
+    "1":[
+      "israel",
+      "the islamic state"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "offers"
+    ],
+    "2":[
+      "seem ... see"
+    ],
+    "3":[
+      "restrained"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "fra",
+      "030"
+    ],
+    "1":[
+      "isrmil",
+      "imgmusisi",
+      "030"
+    ],
+    "2":[
+      "---med",
+      "---opp",
+      "010"
+    ],
+    "3":[
+      "---edu",
+      "---cvl",
+      "170"
+    ]
+  }
+}

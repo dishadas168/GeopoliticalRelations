@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/college-students-cooking_us_5b9bb7b5e4b03a1dcc79d515"
+  },
+  "headline":{
+    "0":"Food 101: Why College Students Should Learn How to Cook"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"Too many students leave college without any knowledge of how to cook for themselves. Learning how to microwave instant ramen is not a cooking skill.  When we enter the real world, we need to be able to provide for ourselves."
+  },
+  "authors":{
+    "0":"Will Levitt, Contributor\nFood Writer"
+  },
+  "date":{
+    "0":"2012-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leave"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "040"
+    ]
+  }
+}

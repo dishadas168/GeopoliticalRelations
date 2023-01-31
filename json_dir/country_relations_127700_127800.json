@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/do-bullied-youth-really-c_b_5275102.html"
+  },
+  "headline":{
+    "0":"Do Bullied Youth Really Carry Weapons to School?"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"We know bullying is a common factor in many school shooting incidents, but what does the data really say? As a trained researcher, I wanted to dig deeper beyond the news reports and went searching for the study."
+  },
+  "authors":{
+    "0":"Deborah Temkin, ContributorDirector, Education Research, Child Trends"
+  },
+  "date":{
+    "0":"2014-05-07 00:00:00"
+  },
+  "actor1":{
+    "0":"frareb"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"072"
+  },
+  "goldstein_score":{
+    "0":8.3
+  },
+  "nouns":{
+    "0":[
+      "youth",
+      "frareb",
+      "gazteriak",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "youth",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "gazteriak",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "carry <&weapon>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "frareb",
+      "---edu",
+      "072"
+    ]
+  }
+}

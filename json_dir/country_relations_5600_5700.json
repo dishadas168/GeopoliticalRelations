@@ -1,0 +1,478 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/tom-hanks-mister-rogers-rita-wilson_n_5dd2ad43e4b0d2e79f90c9a0",
+    "1":"https:\/\/www.huffpost.com\/entry\/ohio-student-religious-liberty-bill_n_5dcef150e4b0d2e79f8c694f",
+    "2":"https:\/\/www.huffpost.com\/entry\/the-source-planned-parenthood-funding_n_5dcec005e4b01f982f00e4d4",
+    "3":"https:\/\/www.huffpost.com\/entry\/berlin-wall-fall-germany-30th-anniversary_n_5dc7d5cde4b0fcfb7f67c1e4",
+    "4":"https:\/\/www.huffpost.com\/entry\/lula-bolsonaro-brazil_n_5dc792b1e4b00927b2346352",
+    "5":"https:\/\/www.huffpost.com\/entry\/mississippi-ice-raid-prosecution-single-mothers_n_5dc47a61e4b0a54d438a3df5",
+    "6":"https:\/\/www.huffpost.com\/entry\/military-funds-ukraine-zelensky-cnn-joe-biden-trump_n_5dc4b937e4b02bf5793d2a1d",
+    "7":"https:\/\/www.huffpost.com\/entry\/megyn-kelly-ashley-bianco-jeffrey-epstein_n_5dc5830de4b0fcfb7f654dde",
+    "8":"https:\/\/www.huffpost.com\/entry\/muslim-women-are-claiming-their-rightful-place-in-americas-politics_n_5dc424ffe4b03ddc02f0435e",
+    "9":"https:\/\/www.huffpost.com\/entry\/bill-gates-elizabeth-warren-wealth-tax_n_5dc35c7ee4b0055138825814",
+    "10":"https:\/\/www.huffpost.com\/entry\/milwaukee-acid-attack-hate-crime_n_5dc0287ce4b0bedb2d4f9149"
+  },
+  "headline":{
+    "0":"Tom Hanks Says Mister Rogers Helps Him Fight With Rita Wilson",
+    "1":"Critics Fear Ohio Bill May Allow Students' Religious Beliefs To Trump Scientific Facts",
+    "2":"Anti-Abortion Centers Compete For Federal Funds Forfeited By Planned Parenthood",
+    "3":"Germany Commemorates 30th Anniversary Of Berlin Wall's Fall",
+    "4":"Brazil's Newly Freed Former Leader Sets Up Clash With Bolsonaro's Right-Wing Government",
+    "5":"Trump Administration Prosecutes Single Mothers Arrested In Mississippi ICE Raid",
+    "6":"Zelensky Was Set To Announce Biden Probe On CNN, Then Congress Pressed For Aid: Report",
+    "7":"Megyn Kelly Interviews Producer Fired For Accessing ABC's Hot Mic Tape On Epstein",
+    "8":"Muslim Women Are Claiming Their Rightful Place In America\u2019s Politics",
+    "9":"Mega-Billionaire Bill Gates Doesn't Want To Pay Elizabeth Warren's Wealth Tax",
+    "10":"U.S. Citizen Says He Was Splashed With Acid, Told To 'Go Back To Your Country'"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"WOMEN",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"WOMEN",
+    "8":"POLITICS",
+    "9":"POLITICS",
+    "10":"CRIME"
+  },
+  "short_description":{
+    "0":"The \"Beautiful Day in the Neighborhood\" actor said he learned a critical skill from the children's show host.",
+    "1":"The legislation could require teachers to accept scientifically inaccurate, faith-based answers to homework assignments, one Democratic lawmaker said.",
+    "2":"The Source, a network of conservative Christian pregnancy centers in Texas, is planning to offer women certain contraceptives but won't provide abortions.",
+    "3":"As the country reflects on the wall's historic toppling, German leaders have warned that democracy continues to be \"challenged\" -- and must be defended.",
+    "4":"Brazil\u2019s former leader Luiz Inacio Lula da Silva, newly freed from jail, attacked right-wing President Jair Bolsonaro for impoverishing working Brazilians.",
+    "5":"ICE said it wouldn't leave children without a parent, but it looks like U.S. Attorney Mike Hurst has a different plan.",
+    "6":"The New York Times finds more evidence of a quid pro quo: Ukraine's president was happily off the hook on the investigation once military funds were released.",
+    "7":"The journalist spoke to Ashley Bianco, a CBS producer who was fired after the network learned she had access to Amy Robach's interview with Virginia Giuffre.",
+    "8":"Ghazala Hashmi is the first Muslim person elected to Virginia\u2019s state Senate.",
+    "9":"The Microsoft co-founder also refused to say if he would vote for the senator over Donald Trump.",
+    "10":"Milwaukee police arrested a 61-year-old man in what they are investigating as a hate crime."
+  },
+  "authors":{
+    "0":"Ron Dicker",
+    "1":"Carol Kuruvilla",
+    "2":"Clarice Silber, AP",
+    "3":"",
+    "4":"Jake Spring and Anthony Boadle, Reuters",
+    "5":"Roque Planas",
+    "6":"Mary Papenfuss",
+    "7":"Jenna Amatulli",
+    "8":"Rowaida Abdelaziz",
+    "9":"Lydia O'Connor",
+    "10":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2019-11-18 00:00:00",
+    "1":"2019-11-16 00:00:00",
+    "2":"2019-11-15 00:00:00",
+    "3":"2019-11-10 00:00:00",
+    "4":"2019-11-10 00:00:00",
+    "5":"2019-11-08 00:00:00",
+    "6":"2019-11-08 00:00:00",
+    "7":"2019-11-08 00:00:00",
+    "8":"2019-11-07 00:00:00",
+    "9":"2019-11-07 00:00:00",
+    "10":"2019-11-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"usa",
+    "2":"usachr",
+    "3":"deu",
+    "4":"bra",
+    "5":"---gov",
+    "6":"ukrgov",
+    "7":"---med",
+    "8":"---muscvl",
+    "9":"mncusa",
+    "10":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"deu",
+    "4":"---gov",
+    "5":"---cvl",
+    "6":"---mil",
+    "7":"---bus",
+    "8":"usa",
+    "9":"---leg",
+    "10":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"08",
+    "2":"030",
+    "3":"017",
+    "4":"190",
+    "5":"173",
+    "6":"084",
+    "7":"010",
+    "8":"110",
+    "9":"030",
+    "10":"173"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":5.0,
+    "2":4.0,
+    "3":0.0,
+    "4":-10.0,
+    "5":-5.0,
+    "6":7.0,
+    "7":0.0,
+    "8":-2.0,
+    "9":4.0,
+    "10":-5.0
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "christian",
+      "usachr",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "germany",
+      "deu",
+      "germany",
+      "berlin",
+      "deu",
+      "germany"
+    ],
+    "4":[
+      "brazil",
+      "luiz inacio lula da silva",
+      "bra",
+      "bragov",
+      "brazil",
+      "luiz",
+      "inacio",
+      "lula",
+      "da",
+      "silva",
+      "brazil",
+      "luiz inacio lula da silva",
+      "bra",
+      "bragov",
+      "brazil",
+      "luiz",
+      "inacio",
+      "lula",
+      "da",
+      "silva",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "administration",
+      "~gov",
+      "~",
+      "mothers",
+      "~cvl",
+      "~",
+      "mississippi",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mothers",
+      "~cvl",
+      "~"
+    ],
+    "6":[
+      "ukraine",
+      "president",
+      "ukrgov",
+      "ukraine",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "7":[
+      "journalist",
+      "~med",
+      "~",
+      "producer",
+      "~bus",
+      "~"
+    ],
+    "8":[
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "9":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "10":[
+      "milwaukee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "children"
+    ],
+    "1":[
+      "ohio",
+      "students"
+    ],
+    "2":[
+      "christian",
+      "women"
+    ],
+    "3":[
+      "germany",
+      "germany"
+    ],
+    "4":[
+      "brazil",
+      "president",
+      "luiz inacio lula da silva",
+      "president"
+    ],
+    "5":[
+      "administration",
+      "mothers"
+    ],
+    "6":[
+      "ukraine ... president",
+      "military"
+    ],
+    "7":[
+      "journalist",
+      "producer"
+    ],
+    "8":[
+      "muslim women",
+      "america"
+    ],
+    "9":[
+      "microsoft",
+      "senator"
+    ],
+    "10":[
+      "milwaukee",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "",
+      "---"
+    ],
+    "3":[
+      "germany",
+      "germany"
+    ],
+    "4":[
+      "brazil",
+      "---",
+      "luiz inacio lula da silva",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "ukraine",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "united states of america"
+    ],
+    "9":[
+      "microsoft",
+      "---"
+    ],
+    "10":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... learned"
+    ],
+    "1":[
+      "may allow"
+    ],
+    "2":[
+      "wo ... planning ... offer"
+    ],
+    "3":[
+      "commemorates ... anniversary"
+    ],
+    "4":[
+      "attacked",
+      "attacked"
+    ],
+    "5":[
+      "prosecutes"
+    ],
+    "6":[
+      "was <~mil> ... released"
+    ],
+    "7":[
+      "spoke"
+    ],
+    "8":[
+      "are claiming"
+    ],
+    "9":[
+      "refused ... say ... would vote"
+    ],
+    "10":[
+      "police arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---edu",
+      "08"
+    ],
+    "2":[
+      "usachr",
+      "---cvl",
+      "030"
+    ],
+    "3":[
+      "deu",
+      "deu",
+      "017"
+    ],
+    "4":[
+      "bra",
+      "---gov",
+      "190",
+      "bragov",
+      "---gov",
+      "190"
+    ],
+    "5":[
+      "---gov",
+      "---cvl",
+      "173"
+    ],
+    "6":[
+      "ukrgov",
+      "---mil",
+      "084"
+    ],
+    "7":[
+      "---med",
+      "---bus",
+      "010"
+    ],
+    "8":[
+      "---muscvl",
+      "usa",
+      "110"
+    ],
+    "9":[
+      "mncusa",
+      "---leg",
+      "030"
+    ],
+    "10":[
+      "usa",
+      "---ppl",
+      "173"
+    ]
+  }
+}

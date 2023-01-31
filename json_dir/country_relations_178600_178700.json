@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chris-rocks-message-for-white-voters-kimmel-brooklyn-video_us_5bad0c16e4b04234e85633b4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/open-letter-to-the-ethiop_us_5bb19d2de4b01857b708d238"
+  },
+  "headline":{
+    "0":"Chris Rock's Message For White Voters On 'Jimmy Kimmel Live' In Brooklyn (VIDEO)",
+    "1":"Open Letter to the Ethiopian Adoption Community"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"With election day nearly upon us, Brooklyn native Chris Rock wanted to take an opportunity to address white voters while",
+    "1":"Many adoptive mothers of Ethiopian-born children \"chat\" in private online venues and express strong desires to see heads of adoption agencies imprisoned. Mothers continue to feel angry and saddened every time a new story further illustrates what sometimes transpires to get a child out of Africa."
+  },
+  "authors":{
+    "0":"Christine Friar",
+    "1":"Dina McQueen, Contributor\nWriter"
+  },
+  "date":{
+    "0":"2012-11-03 00:00:00",
+    "1":"2012-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "native",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "mothers",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "native",
+      "native"
+    ],
+    "1":[
+      "mothers",
+      "mothers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted ... address"
+    ],
+    "1":[
+      "continue <['get',> <'out']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "08"
+    ]
+  }
+}

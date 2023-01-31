@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/underestimating-the-islam_b_9452374.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/snowmobiler-ambushes-iditarod-frontrunners-runs-over-sled-dogs_us_56e46c96e4b0b25c91822ecc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ariel-revello-missing_us_56e443c7e4b0860f99d93c89",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/a-hack-for-improving-high_b_9439848.html"
+  },
+  "headline":{
+    "0":"Underestimating the Islamic State",
+    "1":"Snowmobiler Ambushes Iditarod Front-Runners, Runs Over Sled Dogs",
+    "2":"Amber Alert Canceled After 7-Year-Old Ariel Revello Found Safe",
+    "3":"A Hack for Improving High School: Combine it With College and Career"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"CRIME",
+    "2":"CRIME",
+    "3":"EDUCATION"
+  },
+  "short_description":{
+    "0":"The Obama administration is considering a campaign of air strikes to hit IS in Libya. That is a tactical response, not a strategy. So too is the notion that the United States and its allies can kill IS fighters faster than the organization can recruit new ones.",
+    "1":"The alleged assailant killed Nash, a 3-year-old male dog.",
+    "2":"Authorities say the boy's father may have taken him during a violent domestic dispute.",
+    "3":""
+  },
+  "authors":{
+    "0":"Philip Seib, ContributorProfessor, University of Southern California",
+    "1":"Andy Campbell",
+    "2":"Steven Hoffer",
+    "3":"GenDIY, ContributorGenDIY"
+  },
+  "date":{
+    "0":"2016-03-13 00:00:00",
+    "1":"2016-03-12 00:00:00",
+    "2":"2016-03-12 00:00:00",
+    "3":"2016-03-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---uaf",
+    "2":"---gov",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"mdv",
+    "2":"---gov",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"171",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":-9.2,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "fighters",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "assailant",
+      "~uaf",
+      "~",
+      "male",
+      "mdv",
+      "maldives"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "high school",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the ... united states",
+      "fighters"
+    ],
+    "1":[
+      "assailant",
+      "male"
+    ],
+    "2":[
+      "authorities",
+      "authorities"
+    ],
+    "3":[
+      "high school",
+      "high school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "maldives"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can kill"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "say ... taken"
+    ],
+    "3":[
+      "combine"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---uaf",
+      "190"
+    ],
+    "1":[
+      "---uaf",
+      "mdv",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "171"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "060"
+    ]
+  }
+}

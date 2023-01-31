@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/taking-a-stand-against-racism_b_6949074.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russian-superhighway-would-link-london-and-new-york_us_55141aa1e4b0032ae116f409",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/how-successful-people-han_b_6933180.html"
+  },
+  "headline":{
+    "0":"Taking A Stand Against Racism",
+    "1":"Russian Superhighway Would Link London And New York",
+    "2":"How Successful People Handle Toxic People"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"TRAVEL",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The YWCA -- with more than 200 local associations in 47 states -- invites Mr. Schultz, Starbucks and everyone to participate in our annual Stand Against Racism campaign, beginning with a National Day of Action on April 23.",
+    "1":"Sarah Palin is about to be one happy traveler. No longer will she merely see Russia from her house, but soon she may\u00a0be able",
+    "2":"To deal with toxic people effectively, you need an approach that enables you, across the board, to control what you can and eliminate what you can't. The important thing to remember is that you are in control of far more than you realize."
+  },
+  "authors":{
+    "0":"Dr. Dara Richardson-Heron, ContributorCEO, YWCA USA",
+    "1":"Suzy Strutner",
+    "2":"Dr. Travis Bradberry, ContributorAuthor of #1 bestselling book, Emotional Intelligence 2.0, and..."
+  },
+  "date":{
+    "0":"2015-03-27 00:00:00",
+    "1":"2015-03-26 00:00:00",
+    "2":"2015-03-26 00:00:00"
+  },
+  "actor1":{
+    "0":"ngochr",
+    "1":"rus",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"gbr",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "ywca",
+      "ngochr",
+      "ywca",
+      "starbucks",
+      "mncusa",
+      "starbucks"
+    ],
+    "1":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "london",
+      "new york",
+      "gbr",
+      "usa",
+      "united",
+      "kingdom",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ywca",
+      "starbucks"
+    ],
+    "1":[
+      "russian",
+      "london",
+      "russian",
+      "new york"
+    ],
+    "2":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "ywca",
+      "starbucks"
+    ],
+    "1":[
+      "russian federation",
+      "united kingdom",
+      "russian federation",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "invites"
+    ],
+    "1":[
+      "would link",
+      "would link"
+    ],
+    "2":[
+      "handle"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "ngochr",
+      "mncusa",
+      "040"
+    ],
+    "1":[
+      "rus",
+      "gbr",
+      "060",
+      "rus",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ]
+  }
+}

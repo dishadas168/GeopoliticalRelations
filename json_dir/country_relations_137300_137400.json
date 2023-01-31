@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/martin-luther-king-fbi_us_5badf63fe4b0bb1705fbc25d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/-zakieya-latrice-avery-exorcism_us_5ba2c2bfe4b0c2784da5d621",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/putin-gay-people-homosexuality-russia_us_5bafc0aee4b0ad769261626a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/pamela-raintree-stone_us_5bafc0aee4b0ad7692616272"
+  },
+  "headline":{
+    "0":"How The FBI Invaded Martin Luther King Jr.'s Privacy -- And Tried To Blackmail Him Into Suicide",
+    "1":"Zakieya Latrice Avery, Mother, Stabbed 2 Kids To Death During Exorcism Attempt: Police",
+    "2":"Putin Claims He's 'Friendly' With Gay People",
+    "3":"Pamela Raintree, Transgender Woman, Dares Councilman Rob Webb To Stone Her"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"CRIME",
+    "2":"QUEER VOICES",
+    "3":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"In an effort to prove he was under Communist influence, FBI Director J. Edgar Hoover spent significant resources monitoring",
+    "1":"Two women have been charged in the recent stabbing deaths of two young children at a Germantown townhouse -- in what Montgomery",
+    "2":"Despite all this, Putin insists he bears no ill will towards gay people. Under the new Russian law, teaching children about",
+    "3":"Pamela Raintree and her stone are being celebrated by the lesbian, gay, bisexual and transgender community of Shreveport"
+  },
+  "authors":{
+    "0":"Danielle Cadet",
+    "1":"The Baltimore Sun, The Baltimore Sun",
+    "2":"Alana Horowitz Satlin",
+    "3":""
+  },
+  "date":{
+    "0":"2014-01-20 00:00:00",
+    "1":"2014-01-19 00:00:00",
+    "2":"2014-01-19 00:00:00",
+    "3":"2014-01-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"---cvl",
+    "2":"rusgov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"rusgov",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"192",
+    "1":"112",
+    "2":"100",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":-2.0,
+    "2":-5.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "king",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "king"
+    ],
+    "1":[
+      "women",
+      "women"
+    ],
+    "2":[
+      "putin",
+      "putin"
+    ],
+    "3":[
+      "woman",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "vladimir putin",
+      "vladimir putin"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... invaded"
+    ],
+    "1":[
+      "charged in <~cvl> ... at <--->"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "dares ... stone"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ],
+    "3":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---gov",
+      "192"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "112"
+    ],
+    "2":[
+      "rusgov",
+      "rusgov",
+      "100"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

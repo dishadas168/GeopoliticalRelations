@@ -1,0 +1,82 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/egypts-entry-visa-canard_b_6329722.html"
+  },
+  "headline":{
+    "0":"Egypt's Entry Visa Canard"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The U.S. government should seek assurances from the Egyptian authorities that independent scholars, and others who may have critical things to say about the policies of the Sisi government, will not be excluded from Egypt on bogus grounds of national security or disingenuous claims about visa regulations."
+  },
+  "authors":{
+    "0":"Neil Hicks, ContributorInternational Policy Adviser for Human Rights First"
+  },
+  "date":{
+    "0":"2014-12-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"egygov"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "egyptian",
+      "authorities",
+      "egygov",
+      "egypt",
+      "~",
+      "scholars",
+      "~edu",
+      "~",
+      "egypt",
+      "egy",
+      "egypt"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. government",
+      "egyptian authorities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "egypt"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should seek"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "egygov",
+      "030"
+    ]
+  }
+}

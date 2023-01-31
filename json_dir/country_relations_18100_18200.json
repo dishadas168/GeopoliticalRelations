@@ -1,0 +1,253 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/al-franken-acted-inappropriately-the-way-senate-democrats_us_5a2aaa81e4b0d7c3f2622204",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/net-neutrality-fcc-protests_us_5a2a147ce4b069ec48ac307e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/best-supporting-actor-oscar-predictions-2018_us_5a2998bee4b03ece03010239",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/john-feit-murder-beauty-queen-texas_us_5a2af935e4b073789f69b431",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/archdiocese-of-new-york-sexual-abuse-victims_us_5a29a6c3e4b069ec48abd404",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/hamas-uprising-israel-jerusalem_us_5a2903b4e4b03ece03002578"
+  },
+  "headline":{
+    "0":"Al Franken Deserved Better Than A Political Execution Without A Trial",
+    "1":"Protesters Demonstrate Outside Verizon Stores, Congressional Offices To Save Net Neutrality",
+    "2":"These 16 Men Are Vying For Best Supporting Actor In The 2018 Oscar Race",
+    "3":"Former Priest Convicted In Decades-Old Beauty Queen Slaying",
+    "4":"Archdiocese Of New York Pays $40 Million To Sexual Abuse Victims",
+    "5":"Hamas Calls For New Palestinian Uprising Against Israel After Trump's Jerusalem Move"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"CRIME",
+    "4":"POLITICS",
+    "5":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Senator Al Franken announced his resignation yesterday amidst accusations of inappropriately touching multiple women after",
+    "1":"\"It's time to fret, we cannot let them have the net.\"",
+    "2":"Willem Dafoe and Sam Rockwell continue to set the pace in this category.",
+    "3":"He \"was a wolf in priest's clothing,\" the prosecutor said.",
+    "4":"The compensation payments were made to nearly 200 survivors.",
+    "5":"The U.S. officially recognized the holy city as Israel's capital."
+  },
+  "authors":{
+    "0":"David Edward Burke, ContributorPresident, www.citizenstakeaction.org",
+    "1":"Mary Papenfuss",
+    "2":"Matthew Jacobs",
+    "3":"David Lohr",
+    "4":"Antonia Blumberg",
+    "5":""
+  },
+  "date":{
+    "0":"2017-12-08 00:00:00",
+    "1":"2017-12-08 00:00:00",
+    "2":"2017-12-08 00:00:00",
+    "3":"2017-12-08 00:00:00",
+    "4":"2017-12-07 00:00:00",
+    "5":"2017-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---opp",
+    "2":"---ppl",
+    "3":"---rel",
+    "4":"---chr",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mncusamed",
+    "2":"---eli",
+    "3":"'mamohato_",
+    "4":"---cvl",
+    "5":"isr"
+  },
+  "event_code":{
+    "0":"0831",
+    "1":"140",
+    "2":"050",
+    "3":"173",
+    "4":"061",
+    "5":"051"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-6.5,
+    "2":3.5,
+    "3":-5.0,
+    "4":6.4,
+    "5":3.4
+  },
+  "nouns":{
+    "0":[
+      "senator",
+      "~leg",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "protesters",
+      "~opp",
+      "~",
+      "verizon",
+      "mncusamed",
+      "verizon"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "3":[
+      "priest",
+      "~rel",
+      "~",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "4":[
+      "archdiocese",
+      "~chr",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senator",
+      "women"
+    ],
+    "1":[
+      "protesters",
+      "verizon"
+    ],
+    "2":[
+      "men",
+      "actor"
+    ],
+    "3":[
+      "priest",
+      "queen"
+    ],
+    "4":[
+      "archdiocese",
+      "victims"
+    ],
+    "5":[
+      "u.s.",
+      "israel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "verizon"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "queen"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced ... resignation"
+    ],
+    "1":[
+      "demonstrate"
+    ],
+    "2":[
+      "are ... supporting"
+    ],
+    "3":[
+      "convicted"
+    ],
+    "4":[
+      "pays"
+    ],
+    "5":[
+      "recognized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "gender_violence",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---cvl",
+      "0831"
+    ],
+    "1":[
+      "---opp",
+      "mncusamed",
+      "140"
+    ],
+    "2":[
+      "---ppl",
+      "---eli",
+      "050"
+    ],
+    "3":[
+      "---rel",
+      "'mamohato_",
+      "173"
+    ],
+    "4":[
+      "---chr",
+      "---cvl",
+      "061"
+    ],
+    "5":[
+      "usa",
+      "isr",
+      "051"
+    ]
+  }
+}

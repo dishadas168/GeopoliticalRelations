@@ -1,0 +1,86 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cranston-hosts-father-daughter-dance-despite-ban_us_5b9c8735e4b03a1dcc7f7a75"
+  },
+  "headline":{
+    "0":"Rhode Island Radio Station Hosts Father-Daughter Dance Following Ban By School District (VIDEO)"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"I think in education, anything we can do to celebrate the family and the community should be something that we should put"
+  },
+  "authors":{
+    "0":"Katie Bindley"
+  },
+  "date":{
+    "0":"2012-11-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "radio station",
+      "~med",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "radio station",
+      "radio station",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hosts",
+      "hosts"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---med",
+      "042",
+      "---med",
+      "---edu",
+      "043"
+    ]
+  }
+}

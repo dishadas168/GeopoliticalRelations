@@ -1,0 +1,441 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/boeing-737-max-flight-cancellations_n_5d2c2f4ce4b0bd7d1e1ef2bb",
+    "1":"https:\/\/www.huffpost.com\/entry\/tisha-rowe-american-airlines-cover-up-clothing_n_5d28072be4b0bd7d1e19ef3c",
+    "2":"https:\/\/www.huffpost.com\/entry\/nicaraguan-man-dies-immigration-custody_n_5d1ff2bde4b04c4814141258",
+    "3":"https:\/\/www.huffpost.com\/entry\/hong-kong-protests_n_5d1b48f0e4b07f6ca583cf36",
+    "4":"https:\/\/www.huffpost.com\/entry\/hong-kong-protests_n_5d1b48f0e4b07f6ca583cf36",
+    "5":"https:\/\/www.huffpost.com\/entry\/judge-orders-doctors-detention-centers-migrant-children_n_5d194264e4b07f6ca57f7484",
+    "6":"https:\/\/www.huffpost.com\/entry\/thousands-protesters-sudan-soldiers-fire-shots_n_5d19134de4b03d61163d842f",
+    "7":"https:\/\/www.huffpost.com\/entry\/italian-aid-migrant-ship-captain-arrested_n_5d1825dce4b082e5536a6f08",
+    "8":"https:\/\/www.huffpost.com\/entry\/italian-aid-migrant-ship-captain-arrested_n_5d1825dce4b082e5536a6f08",
+    "9":"https:\/\/www.huffpost.com\/entry\/france-brest-mosque-shooting_n_5d150738e4b07f6ca57a3510"
+  },
+  "headline":{
+    "0":"With Boeing\u2019s 737 Max Still Grounded, U.S. Airlines Cancel Thousands Of Flights",
+    "1":"American Airlines Apologizes To Doctor Ordered To Cover Up Before Flight",
+    "2":"Nicaraguan Man Dies While In Border Patrol Custody In Arizona",
+    "3":"China Says Violent Hong Kong Protests Are 'Undisguised Challenge' To Its Rule",
+    "4":"China Says Violent Hong Kong Protests Are 'Undisguised Challenge' To Its Rule",
+    "5":"Judge: Trump Administration Must Let Doctors Into Centers Housing Migrant Children",
+    "6":"Thousands Of Protesters Demand Civilian Rule In Sudan, Soldiers Fire Shots In Air",
+    "7":"Migrant Aid Ship Captain Arrested After Ramming Italian Police Boat",
+    "8":"Migrant Aid Ship Captain Arrested After Ramming Italian Police Boat",
+    "9":"Shooting Near French Mosque Leaves Two Wounded"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"U.S. NEWS",
+    "2":"U.S. NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"U.S. NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS",
+    "8":"WORLD NEWS",
+    "9":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"United, American and Southwest have taken Boeing's Max off its schedules through fall as uncertainties over the jets persist.",
+    "1":"\"Our bodies are over sexualized as women and we must ADJUST to make everyone around us comfortable,\" complained Dr. Tisha Rowe.",
+    "2":"U.S. Customs and Border Protection said the 52-year-old man was among 36 migrants from Central America who surrendered at the border in Arizona.",
+    "3":"Police fired tear gas at hundreds of protesters who stormed the legislature on Monday, the 22nd anniversary of Hong Kong returning to Chinese rule.",
+    "4":"Police fired tear gas at hundreds of protesters who stormed the legislature on Monday, the 22nd anniversary of Hong Kong returning to Chinese rule.",
+    "5":"Judge Dolly Gee ordered the government to allow health professionals into Border Patrol facilities to address safety and sanitation concerns.",
+    "6":"Tens of thousands of protesters marched Sunday toward Sudan's defense ministry to demand the ruling military force hand power over to civilians.",
+    "7":"Refusing to wait any longer, the captain of a humanitarian rescue ship rammed a police boat to get to the dock.",
+    "8":"Refusing to wait any longer, the captain of a humanitarian rescue ship rammed a police boat to get to the dock.",
+    "9":"A gunman injured two people outside a Brest mosque, including an imam, before killing himself, cops said."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Mary Papenfuss",
+    "2":"Carla Herreria Russo",
+    "3":"Anne Marie Roantree, Reuters",
+    "4":"Anne Marie Roantree, Reuters",
+    "5":"Sanjana Karanth",
+    "6":"Khalid Abdelaziz, Reuters",
+    "7":"",
+    "8":"",
+    "9":"Angela Charlton, AP"
+  },
+  "date":{
+    "0":"2019-07-15 00:00:00",
+    "1":"2019-07-12 00:00:00",
+    "2":"2019-07-06 00:00:00",
+    "3":"2019-07-02 00:00:00",
+    "4":"2019-07-02 00:00:00",
+    "5":"2019-07-01 00:00:00",
+    "6":"2019-06-30 00:00:00",
+    "7":"2019-06-30 00:00:00",
+    "8":"2019-06-30 00:00:00",
+    "9":"2019-06-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usabus",
+    "2":"usa",
+    "3":"chn",
+    "4":"---cop",
+    "5":"---jud",
+    "6":"---opp",
+    "7":"---mil",
+    "8":"---mil",
+    "9":"---uaf"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---hlh",
+    "2":"---ppl",
+    "3":"hkg",
+    "4":"---opp",
+    "5":"---gov",
+    "6":"sdngov",
+    "7":"itacop",
+    "8":"---cop",
+    "9":"frappl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"055",
+    "2":"010",
+    "3":"010",
+    "4":"175",
+    "5":"100",
+    "6":"140",
+    "7":"173",
+    "8":"190",
+    "9":"182"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":7.0,
+    "2":0.0,
+    "3":0.0,
+    "4":-9.0,
+    "5":-5.0,
+    "6":-6.5,
+    "7":-5.0,
+    "8":-10.0,
+    "9":-9.5
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "boeing",
+      "mncusa",
+      "boeing"
+    ],
+    "1":[
+      "american",
+      "airlines",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~",
+      "migrants",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "china",
+      "chn",
+      "china",
+      "hong kong",
+      "hkg",
+      "hong",
+      "kong"
+    ],
+    "4":[
+      "police",
+      "~cop",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "5":[
+      "judge",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "health professionals",
+      "~hlh",
+      "~"
+    ],
+    "6":[
+      "protesters",
+      "~opp",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "sudan",
+      "ministry",
+      "sdngov",
+      "sudan",
+      "~",
+      "military force",
+      "~mil",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ],
+    "7":[
+      "captain",
+      "~mil",
+      "~",
+      "italian",
+      "police",
+      "itacop",
+      "italy",
+      "~"
+    ],
+    "8":[
+      "captain",
+      "~mil",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "9":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "brest",
+      "fra",
+      "france",
+      "imam",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "boeing"
+    ],
+    "1":[
+      "american airlines",
+      "doctor"
+    ],
+    "2":[
+      "u.s.",
+      "man"
+    ],
+    "3":[
+      "china",
+      "hong kong"
+    ],
+    "4":[
+      "police",
+      "protesters"
+    ],
+    "5":[
+      "judge",
+      "government"
+    ],
+    "6":[
+      "protesters",
+      "sudan ... ministry"
+    ],
+    "7":[
+      "captain",
+      "italian police"
+    ],
+    "8":[
+      "captain",
+      "police"
+    ],
+    "9":[
+      "gunman",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "boeing"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "china",
+      "hong kong"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "sudan"
+    ],
+    "7":[
+      "---",
+      "italy"
+    ],
+    "8":[
+      "---",
+      "---"
+    ],
+    "9":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have taken"
+    ],
+    "1":[
+      "apologizes"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "says"
+    ],
+    "4":[
+      "fired <{tear> <gas}>"
+    ],
+    "5":[
+      "ordered"
+    ],
+    "6":[
+      "marched"
+    ],
+    "7":[
+      "arrested"
+    ],
+    "8":[
+      "rammed"
+    ],
+    "9":[
+      "injured"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1",
+      "violent_unrest",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":[
+      "security_services",
+      "1"
+    ],
+    "8":[
+      "security_services",
+      "1"
+    ],
+    "9":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "mncusa",
+      "171"
+    ],
+    "1":[
+      "usabus",
+      "---hlh",
+      "055"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "010"
+    ],
+    "3":[
+      "chn",
+      "hkg",
+      "010"
+    ],
+    "4":[
+      "---cop",
+      "---opp",
+      "175"
+    ],
+    "5":[
+      "---jud",
+      "---gov",
+      "100"
+    ],
+    "6":[
+      "---opp",
+      "sdngov",
+      "140"
+    ],
+    "7":[
+      "---mil",
+      "itacop",
+      "173"
+    ],
+    "8":[
+      "---mil",
+      "---cop",
+      "190"
+    ],
+    "9":[
+      "---uaf",
+      "frappl",
+      "182"
+    ]
+  }
+}

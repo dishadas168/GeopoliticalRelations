@@ -1,0 +1,333 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/australia-migrants-manus-island_us_5a162896e4b064948072eb0a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-koreas-wounded-defector-a-nice-guy-says-surgeon_us_5a1736c3e4b0cee6c04ed5b8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/michael-flynn-russia-probe_us_5a174231e4b06494807381f4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/al-franken-two-more-women-groping_us_5a15a455e4b09650540ec295",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/ratko-mladic-un-convicted_us_5a155cb0e4b03dec82493195",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/nuclear-north-korea-trump-terrorism_us_5a133067e4b0c335e9968117",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-turkey-pardon-photo-editing_us_5a152e26e4b025f8e9327230",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/trump-russia-one-year_us_5a14a7eee4b03dec8248e1b9"
+  },
+  "headline":{
+    "0":"Police Storm Detention Center As Australia Slammed Over 'Humanitarian Crisis'",
+    "1":"North Korea's Wounded Defector A 'Nice Guy,' Says Surgeon",
+    "2":"Michael Flynn May Be Cooperating With Robert Mueller's Russia Probe: Report",
+    "3":"Two More Women Accuse Sen. Al Franken Of Inappropriate Touching",
+    "4":"UN Court Convicts Ex-Bosnian Serb Commander Ratko Mladic Of Genocide",
+    "5":"'Zero Hope For Denuclearizing North Korea,' China Expert Says",
+    "6":"Internet Turns Donald Trump's Turkey Pardoning Into Tremendous Thanksgiving Meme",
+    "7":"Russia Wanted Trump As President And It Got Him. Now What Does America Do?"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS",
+    "5":"WORLD NEWS",
+    "6":"WEIRD NEWS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cAustralia has in effect created and then abandoned a humanitarian crisis,\" a UN watchdog group said of the situation on Manus Island.",
+    "1":"Video of the soldier's escape showed him stumbling over the border and being dragged unconscious by South Korean troops.",
+    "2":"The former national security adviser could be trying to negotiate a deal with the special counsel.",
+    "3":"One woman told HuffPost that Franken had grabbed her backside at an event honoring women.",
+    "4":"\u201cMladic is the epitome of evil,\" said the UN's human rights chief Zeid Ra'ad al-Hussein.",
+    "5":"Trump's designation of North Korea as a state sponsor of terrorism \"could greatly undermine\" a diplomatic solution.",
+    "6":"\"President Trump didn\u2019t pardon the whole turkey, just the white meat.\"",
+    "7":"Despite a year of his denials, the evidence of collusion between Donald Trump\u2019s campaign and Russian intelligence is looking clearer."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"Josh Smith and Heekyong Yang, Reuters",
+    "2":"Nick Visser",
+    "3":"Jenavieve Hatch and Zachary Roth",
+    "4":"",
+    "5":"Jenna Amatulli",
+    "6":"Lee Moran",
+    "7":"S.V. Date"
+  },
+  "date":{
+    "0":"2017-11-23 00:00:00",
+    "1":"2017-11-23 00:00:00",
+    "2":"2017-11-23 00:00:00",
+    "3":"2017-11-23 00:00:00",
+    "4":"2017-11-22 00:00:00",
+    "5":"2017-11-22 00:00:00",
+    "6":"2017-11-22 00:00:00",
+    "7":"2017-11-22 00:00:00"
+  },
+  "actor1":{
+    "0":"igouno",
+    "1":"prk",
+    "2":"---govmil",
+    "3":"---cvl",
+    "4":"igouno",
+    "5":"usareb",
+    "6":"---gov",
+    "7":"rus"
+  },
+  "actor2":{
+    "0":"png",
+    "1":"---opp",
+    "2":"---jud",
+    "3":"---cvl",
+    "4":"---mil",
+    "5":"prk",
+    "6":"tur",
+    "7":"rus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"180",
+    "2":"050",
+    "3":"171",
+    "4":"173",
+    "5":"013",
+    "6":"08",
+    "7":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.0,
+    "2":3.5,
+    "3":-9.2,
+    "4":-5.0,
+    "5":0.4,
+    "6":5.0,
+    "7":4.0
+  },
+  "nouns":{
+    "0":[
+      "australia",
+      "aus",
+      "australia",
+      "un",
+      "igouno",
+      "un",
+      "manus",
+      "png",
+      "papua",
+      "new",
+      "guinea"
+    ],
+    "1":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "defector",
+      "~opp",
+      "~",
+      "surgeon",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "national security adviser",
+      "~govmil",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "un",
+      "igouno",
+      "un",
+      "commander",
+      "~mil",
+      "~"
+    ],
+    "5":[
+      "zero",
+      "usareb",
+      "secret",
+      "organization",
+      "zero",
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "china",
+      "chn",
+      "china"
+    ],
+    "6":[
+      "president",
+      "~gov",
+      "~",
+      "turkey",
+      "tur",
+      "turkey"
+    ],
+    "7":[
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "un",
+      "manus"
+    ],
+    "1":[
+      "north korea",
+      "defector"
+    ],
+    "2":[
+      "national security adviser",
+      "counsel"
+    ],
+    "3":[
+      "woman",
+      "woman"
+    ],
+    "4":[
+      "un",
+      "commander"
+    ],
+    "5":[
+      "zero",
+      "north korea"
+    ],
+    "6":[
+      "president",
+      "turkey"
+    ],
+    "7":[
+      "russia",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "un",
+      "papua new guinea"
+    ],
+    "1":[
+      "north korea",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "un",
+      "---"
+    ],
+    "5":[
+      "secret organization zero",
+      "north korea"
+    ],
+    "6":[
+      "---",
+      "turkey"
+    ],
+    "7":[
+      "russian federation",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "wounded"
+    ],
+    "2":[
+      "could ... negotiate ... with"
+    ],
+    "3":[
+      "told ... grabbed"
+    ],
+    "4":[
+      "court convicts"
+    ],
+    "5":[
+      "hope for"
+    ],
+    "6":[
+      "did ... pardon"
+    ],
+    "7":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "humanitarian_crisis",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "id_atrocity",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "igouno",
+      "png",
+      "010"
+    ],
+    "1":[
+      "prk",
+      "---opp",
+      "180"
+    ],
+    "2":[
+      "---govmil",
+      "---jud",
+      "050"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "171"
+    ],
+    "4":[
+      "igouno",
+      "---mil",
+      "173"
+    ],
+    "5":[
+      "usareb",
+      "prk",
+      "013"
+    ],
+    "6":[
+      "---gov",
+      "tur",
+      "08"
+    ],
+    "7":[
+      "rus",
+      "rus",
+      "030"
+    ]
+  }
+}

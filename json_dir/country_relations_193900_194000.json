@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-offer_us_5b9bbc5ce4b03a1dcc79f24a"
+  },
+  "headline":{
+    "0":"The Offer"
+  },
+  "category":{
+    "0":"WEDDINGS"
+  },
+  "short_description":{
+    "0":"You couldn't put a price on my dreams. And, while, those visions included all that he presented: the house, the kids and the financial security, the wedding was also on that list and weddings trump all, at least in little girl's and engaged young women's minds."
+  },
+  "authors":{
+    "0":"Natalie Thomas, Contributor\nBlogger, Writer, Producer, Host, Brand Consultant"
+  },
+  "date":{
+    "0":"2012-05-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~",
+      "girl",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girl",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... engaged"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

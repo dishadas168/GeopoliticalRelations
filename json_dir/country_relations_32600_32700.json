@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-seismic-testing-oil-drilling_us_59358f20e4b0099e7fae0045",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mischa-barton-revenge-porn-lawsuit_us_5935d3d6e4b013c4816a6027",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-lgbtq-students_us_5936c878e4b013c4816b4ebc",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/betsy-devos-lgbtq-students_us_5936c878e4b013c4816b4ebc",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/turkey-lobbying-texas-legislature-to-go-after-gulen_us_5937013ce4b04331b6694a19",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/when-a-doctor-needs-a-doctors-note_us_592db98de4b07c4c731385fc"
+  },
+  "headline":{
+    "0":"Trump Administration Could Permit Oil Companies To \u2018Assault' Marine Life",
+    "1":"Mischa Barton Successfully Prevents Ex From Distributing 'Revenge Porn'",
+    "2":"Betsy DeVos: It Is Not The Education Department's Job To Protect LGBTQ Students",
+    "3":"Betsy DeVos: It Is Not The Education Department's Job To Protect LGBTQ Students",
+    "4":"Turkey Lobbying Texas Legislature To Go After Gulen-Connected Schools",
+    "5":"When A Doctor Needs A Doctor's Note"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"Experts say seismic testing to find drill sites could harm thousands of animals and affect coastal communities.",
+    "1":"Barton's attorney, Lisa Bloom, declared \"victory\" in court in a triumphant image on Twitter.",
+    "2":"The education secretary faced intense questioning in a Senate hearing about whether she would stand up for the civil rights of students.",
+    "3":"The education secretary faced intense questioning in a Senate hearing about whether she would stand up for the civil rights of students.",
+    "4":"by Ashley Balcerzak There isn\u2019t much Turkey wouldn\u2019t do to go after Fethullah Gulen, the controversial cleric Turkish leader",
+    "5":"As physicians, we can lose objectivity when it comes to our own medical care."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Jillian Capewell",
+    "2":"Rebecca Klein",
+    "3":"Rebecca Klein",
+    "4":"OpenSecrets Blog, ContributorPublished by the nonpartisan Center for Responsive Politics an...",
+    "5":"Dr. Pooja Mittal, ContributorFamily Doctor, Mother, Wife, Food Blogger"
+  },
+  "date":{
+    "0":"2017-06-06 00:00:00",
+    "1":"2017-06-06 00:00:00",
+    "2":"2017-06-06 00:00:00",
+    "3":"2017-06-06 00:00:00",
+    "4":"2017-06-06 00:00:00",
+    "5":"2017-06-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---jud",
+    "2":"---govedu",
+    "3":"---govedu",
+    "4":"tur",
+    "5":"---hlh"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---jud",
+    "2":"---edu",
+    "3":"usagovleg",
+    "4":"turelimus",
+    "5":"---hlh"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"013",
+    "2":"074",
+    "3":"040",
+    "4":"040",
+    "5":"100"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":0.4,
+    "2":8.5,
+    "3":1.0,
+    "4":1.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "attorney",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "education department",
+      "~govedu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "education secretary",
+      "~govedu",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "4":[
+      "turkey",
+      "tur",
+      "turkey",
+      "fethullah gulen",
+      "cleric",
+      "turkish",
+      "turelimus",
+      "turrel",
+      "fethullah",
+      "gulen",
+      "~",
+      "turkey"
+    ],
+    "5":[
+      "doctor",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "companies"
+    ],
+    "1":[
+      "attorney",
+      "attorney"
+    ],
+    "2":[
+      "education department",
+      "students"
+    ],
+    "3":[
+      "education secretary",
+      "senate"
+    ],
+    "4":[
+      "turkey",
+      "fethullah gulen",
+      "turkey",
+      "cleric"
+    ],
+    "5":[
+      "doctor",
+      "doctor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states congress"
+    ],
+    "4":[
+      "turkey",
+      "fethullah gulen",
+      "turkey",
+      ""
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could permit"
+    ],
+    "1":[
+      "declared ... victory"
+    ],
+    "2":[
+      "to protect"
+    ],
+    "3":[
+      "faced"
+    ],
+    "4":[
+      "would ... go",
+      "would ... go"
+    ],
+    "5":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":[
+      "human_rights",
+      "1",
+      "students",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---bus",
+      "08"
+    ],
+    "1":[
+      "---jud",
+      "---jud",
+      "013"
+    ],
+    "2":[
+      "---govedu",
+      "---edu",
+      "074"
+    ],
+    "3":[
+      "---govedu",
+      "usagovleg",
+      "040"
+    ],
+    "4":[
+      "tur",
+      "turelimus",
+      "040",
+      "tur",
+      "turrel",
+      "040"
+    ],
+    "5":[
+      "---hlh",
+      "---hlh",
+      "100"
+    ]
+  }
+}

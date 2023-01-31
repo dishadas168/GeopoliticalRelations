@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/environmental-protesters-john-kerry_us_55dcf3c8e4b0a40aa3aca74a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bob-mcdonnell-case_us_55db8afbe4b0a40aa3abdd39",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/charity-worker-who-was-once-homeless-and-missing-teeth-given-million-dollar-smile-from-dentist_us_55db3d81e4b0a40aa3ab75bb",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-hindu-statue_us_55db4ed5e4b0a40aa3ab8e62"
+  },
+  "headline":{
+    "0":"Environmental Activists Arrested Outside John Kerry's House",
+    "1":"Thanks To Chief Justice Roberts, Bob McDonnell To Stay Out Of Prison ... For Now",
+    "2":"Formerly Homeless Man Once Ashamed Of Teeth Gets New Smile From Kind Dentist",
+    "3":"Arkansas State Official Rejects Request To Place Statue Of Hindu Deity On Capitol Grounds"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"GOOD NEWS",
+    "3":"RELIGION"
+  },
+  "short_description":{
+    "0":"They want Kerry to block the Alberta Clipper oil pipeline.",
+    "1":"The order is only temporary, and it could change once the court hears from federal prosecutors.",
+    "2":"A kind dentist gave this man a reason to smile. Harvor Davis, who works for a nonprofit that feeds the homeless, was once",
+    "3":"Arkansas is okay with having a Ten Commandments monument on Capitol grounds, but a state official just denied a request for a statue of Lord Hanuman, a Hindu deity."
+  },
+  "authors":{
+    "0":"Dhyana Taylor and Jacob Kerr",
+    "1":"Cristian Farias",
+    "2":"Cameron Keady",
+    "3":"CLAUDIA LAUER, The Associated Press"
+  },
+  "date":{
+    "0":"2015-08-25 00:00:00",
+    "1":"2015-08-24 00:00:00",
+    "2":"2015-08-24 00:00:00",
+    "3":"2015-08-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---jud",
+    "2":"---hlh",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---jud",
+    "2":"---ppl",
+    "3":"---hin"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"040",
+    "2":"060",
+    "3":"123"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":6.0,
+    "3":-4.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry"
+    ],
+    "1":[
+      "the court",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "dentist",
+      "~hlh",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "arkansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "state official",
+      "~gov",
+      "~",
+      "hindu",
+      "~hin",
+      "~",
+      "hindu",
+      "~hin",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "john kerry"
+    ],
+    "1":[
+      "the ... court",
+      "the ... court"
+    ],
+    "2":[
+      "dentist",
+      "man"
+    ],
+    "3":[
+      "state official",
+      "hindu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "john kerry"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ],
+    "1":[
+      "hears"
+    ],
+    "2":[
+      "gave"
+    ],
+    "3":[
+      "denied ... request"
+    ]
+  },
+  "issues":{
+    "0":[
+      "environmental_movement",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usagov",
+      "173"
+    ],
+    "1":[
+      "---jud",
+      "---jud",
+      "040"
+    ],
+    "2":[
+      "---hlh",
+      "---ppl",
+      "060"
+    ],
+    "3":[
+      "---gov",
+      "---hin",
+      "123"
+    ]
+  }
+}

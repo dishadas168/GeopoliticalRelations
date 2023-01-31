@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chinese-conglomerate-reportedly-shows-interest-in-paramount-pictures_us_5787b2bae4b08608d3335472"
+  },
+  "headline":{
+    "0":"Chinese Conglomerate Reportedly Shows Interest In Paramount Pictures"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Dalian Wanda Group, which bought production company Legendary Entertainment in January, has been trying to expand its U.S. movie business."
+  },
+  "authors":{
+    "0":"Liana B. Baker and Jessica Toonkel, Reuters"
+  },
+  "date":{
+    "0":"2016-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"chn"
+  },
+  "actor2":{
+    "0":"usabus"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "dalian",
+      "chn",
+      "china",
+      "u.s.",
+      "business",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dalian",
+      "u.s. ... business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... expand"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "usabus",
+      "060"
+    ]
+  }
+}

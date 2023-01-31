@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dreamers-medical-school_us_568be522e4b0b958f65ce7ed",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/reimagining-your-bed_b_8979482.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/rubios-character-attracts_b_9064226.html"
+  },
+  "headline":{
+    "0":"This Medical School\u2019s Effort To Help Dreamers Could Benefit Entire Communities",
+    "1":"Reimagining Your Bed",
+    "2":"Rubio's Character Attracts Millenial Voters in Ames"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"It's definitely my duty to turn around, give a hand and give back.\"",
+    "1":"But for too many, the bed has become a battlefield. Many millions of us struggle nightly with insomnia, nightmares and other sleep challenges. People with long histories of sleeplessness tell their doctors they hate their beds and they often grow anxious as bedtime nears. They pray for a peaceful night while remaining on guard for yet another battle.",
+    "2":"Iowa State University students flocked to Florida Sen. Marco Rubio's town hall meeting in Ames on Saturday, hoping to find a Republican presidential candidate they could support. Most either arrived as Rubio fans or emerged from the town hall supporting him.  And though many of his policy platforms resonated with the millennial voters, their main attraction to Rubio seemed to be his character."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Rubin Naiman, Ph.D., ContributorSleep and dream specialist",
+    "2":"Ali Stratton, ContributorContributing Political Reporter"
+  },
+  "date":{
+    "0":"2016-01-24 00:00:00",
+    "1":"2016-01-24 00:00:00",
+    "2":"2016-01-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---ppl",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "school",
+      "~edu",
+      "~",
+      "communities",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "presidential candidate",
+      "~pty",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "communities"
+    ],
+    "1":[
+      "people",
+      "doctors"
+    ],
+    "2":[
+      "students",
+      "florida"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could benefit"
+    ],
+    "1":[
+      "tell"
+    ],
+    "2":[
+      "flocked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---ppl",
+      "---hlh",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "usa",
+      "040"
+    ]
+  }
+}

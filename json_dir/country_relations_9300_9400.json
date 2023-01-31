@@ -1,0 +1,234 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/teacher-apologies-jimmy-kimmel_us_5af457f2e4b09bb419e5a2f8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/yale-student-sleeping-police_us_5af4320ce4b09bb419e568bc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-releases-prisoners_us_5aeafc7fe4b00f70f0efdce9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/gop-senate-candidate-says-tammy-baldwin-is-on-team-terrorists-because-of-her-position-on-trump-cia-pick_us_5af35edce4b0859d11d0159d",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/khalid-sheikh-mohammed-gina-haspel_us_5af28d62e4b0aab8a78a3960"
+  },
+  "headline":{
+    "0":"People On The Street Apologize To Their Old Teachers On 'Jimmy Kimmel Live'",
+    "1":"White Yale Student Calls Cops On Black Schoolmate Napping In Dorm Common Room",
+    "2":"North Korea Releases 3 American Political Prisoners In Advance Of Historic Summit",
+    "3":"GOP Rival Says Tammy Baldwin Is On \u2018Team Terrorists\u2019 For Her Silence On Trump CIA Pick",
+    "4":"9\/11 Mastermind Waterboarded By CIA Has Information To Share About Gina Haspel"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"BLACK VOICES",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"They still deserve detention.",
+    "1":"\u201cI pay tuition like everybody else,\" Lolade Siyonbola, an African studies graduate student, told police. \"I\u2019m not going to justify my existence here.\u201d",
+    "2":"Secretary of State Mike Pompeo departed North Korea with the three Americans.",
+    "3":"The Democratic senator \"would rather give ... terrorists hugs and safe spaces than take adequate action to protect America,\" state Sen. Leah Vukmir (Wis.) said.",
+    "4":"Khalid Sheikh Mohammed is seeking permission to provide information to senators about the controversial CIA director nominee."
+  },
+  "authors":{
+    "0":"Ron Dicker",
+    "1":"Hayley Miller",
+    "2":"Willa Frej",
+    "3":"Akbar Shahid Ahmed",
+    "4":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-05-10 00:00:00",
+    "1":"2018-05-10 00:00:00",
+    "2":"2018-05-09 00:00:00",
+    "3":"2018-05-09 00:00:00",
+    "4":"2018-05-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"usagov",
+    "3":"---leg",
+    "4":"imgmusalq"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cop",
+    "2":"prk",
+    "3":"---uaf",
+    "4":"usaspyleg"
+  },
+  "event_code":{
+    "0":"055",
+    "1":"010",
+    "2":"040",
+    "3":"060",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":1.0,
+    "3":6.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "khalid sheikh mohammed",
+      "imgmusalq",
+      "khalid",
+      "sheikh",
+      "mohammed",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "senators",
+      "usaspyleg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "teachers"
+    ],
+    "1":[
+      "student",
+      "police"
+    ],
+    "2":[
+      "secretary of state",
+      "north korea"
+    ],
+    "3":[
+      "senator",
+      "terrorists"
+    ],
+    "4":[
+      "khalid sheikh mohammed",
+      "senators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "the us secretary of state",
+      "north korea"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "khalid sheikh mohammed",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "apologize"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "departed"
+    ],
+    "3":[
+      "would ... give"
+    ],
+    "4":[
+      "seeking permission ... provide <&information>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "id_democracy",
+      "1",
+      "terror",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---edu",
+      "055"
+    ],
+    "1":[
+      "---edu",
+      "---cop",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "prk",
+      "040"
+    ],
+    "3":[
+      "---leg",
+      "---uaf",
+      "060"
+    ],
+    "4":[
+      "imgmusalq",
+      "usaspyleg",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/qa-rosanna-flamercaldera_us_5bafbec8e4b0ad7692613dcc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/thirteen-years-in-the-mak_us_5bb444eee4b066f8d2574054",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/un-afghan-women_us_5bb1b8a7e4b01857b70ae331"
+  },
+  "headline":{
+    "0":"Q&A with Rosanna Flamer-Caldera: Long-time Activist Talks LGBT Rights, From 1970s San Francisco to Sri Lanka Today",
+    "1":"Thirteen Years in the Making: Mich\u00e8le Stephenson and Joe Brewster Talk About Their Film American Promise",
+    "2":"UN Decries 'Slow, Uneven' Use Of Law Protecting Afghan Women"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"ENTERTAINMENT",
+    "2":"IMPACT"
+  },
+  "short_description":{
+    "0":"LGBT people have faced extreme discrimination in Sri Lanka. For more than a century, the country has outlawed same-sex relationships under its colonial-era \"gross indecency\" laws.",
+    "1":"One of the enduring hopes of the digital age is that technology can break down the barriers between peoples and races. A film thirteen years in the making, American Promise follows two African-American boys from first grade through high-school, showing the challenges and opportunities young black men face in today's education system.",
+    "2":"Women have since won back rights to education and work, but there are fears these freedoms are shrinking as NATO-led forces"
+  },
+  "authors":{
+    "0":"Elizabeth Daube, Contributor\nWriter focused on global health and human rights",
+    "1":"Govindini Murty, Contributor\nFilmmaker and Writer",
+    "2":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-12-08 00:00:00",
+    "1":"2013-12-08 00:00:00",
+    "2":"2013-12-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"lcagov",
+    "2":"igouno"
+  },
+  "actor2":{
+    "0":"lka",
+    "1":"usa",
+    "2":"afgcvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "sri lanka",
+      "lka",
+      "sri",
+      "lanka"
+    ],
+    "1":[
+      "stephenson",
+      "lcagov",
+      "stephenson",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "un",
+      "igouno",
+      "un",
+      "afghan",
+      "women",
+      "afgcvl",
+      "afghanistan",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "sri lanka"
+    ],
+    "1":[
+      "stephenson",
+      "american"
+    ],
+    "2":[
+      "un",
+      "afghan women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "sri lanka"
+    ],
+    "1":[
+      "stephenson",
+      "united states of america"
+    ],
+    "2":[
+      "un",
+      "afghanistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have faced"
+    ],
+    "1":[
+      "talk"
+    ],
+    "2":[
+      "protecting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "lka",
+      "040"
+    ],
+    "1":[
+      "lcagov",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "igouno",
+      "afgcvl",
+      "074"
+    ]
+  }
+}

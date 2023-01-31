@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/read-the-fisa-memo_us_5a731280e4b0bf6e6e2236d9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/australia-spy-agency-secure-cabinet-documents_us_5a724e94e4b09a544b5649e6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/australia-spy-agency-secure-cabinet-documents_us_5a724e94e4b09a544b5649e6"
+  },
+  "headline":{
+    "0":"Read The GOP's Controversial Secret FISA Memo",
+    "1":"Australia's Spy Agency Moves To Secure Cabinets Filled With Cabinet Secrets",
+    "2":"Australia's Spy Agency Moves To Secure Cabinets Filled With Cabinet Secrets"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"President Donald Trump ordered the release of the memo despite protests from the FBI and Democrats.",
+    "1":"The hundreds of government documents that ended up at a resale store haven\u2019t been confiscated from the media. They're just going into different containers.",
+    "2":"The hundreds of government documents that ended up at a resale store haven\u2019t been confiscated from the media. They're just going into different containers."
+  },
+  "authors":{
+    "0":"Paige Lavender",
+    "1":"Eoin Blackwell",
+    "2":"Eoin Blackwell"
+  },
+  "date":{
+    "0":"2018-02-02 00:00:00",
+    "1":"2018-02-01 00:00:00",
+    "2":"2018-02-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"ausspy",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"0842",
+    "1":"08",
+    "2":"1711"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":5.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "australia",
+      "spy agency",
+      "ausspy",
+      "australia",
+      "~",
+      "cabinet",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "fbi"
+    ],
+    "1":[
+      "australia ... spy agency",
+      "cabinet"
+    ],
+    "2":[
+      "media",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "australia",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ordered ... release"
+    ],
+    "1":[
+      "filled"
+    ],
+    "2":[
+      "<~gov> ... confiscated from <~med>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usacop",
+      "0842"
+    ],
+    "1":[
+      "ausspy",
+      "---gov",
+      "08"
+    ],
+    "2":[
+      "---med",
+      "---gov",
+      "1711"
+    ]
+  }
+}

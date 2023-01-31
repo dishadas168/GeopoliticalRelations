@@ -1,0 +1,196 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-nfl-protest-attack_us_59ca9980e4b0964242bbb190",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jeff-sessions_us_59c95cdae4b01cc57ff4ad5e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/will-reelected-chancellor-merkels-government-defend_us_59c8b210e4b0f2df5e83afd0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-us-should-support-a-kurdish-state_us_59c91a17e4b0b7022a646c54"
+  },
+  "headline":{
+    "0":"Donald Trump Continues Attack Against NFL Protests",
+    "1":"Jeff Sessions Decries 'Fragile Egos' At Colleges As DOJ Moves To Re-Try Woman Who Laughed At Him",
+    "2":"Will Reelected Chancellor Merkel\u2019s Government Defend Germany And Europe?",
+    "3":"The U.S. Should Support A Kurdish State"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\"I was ashamed of what was taking place,\u201d the president said during a press conference with the Spanish prime minister.",
+    "1":"Students and professors protested Sessions' appearance at the Georgetown University law school, accusing him of hypocrisy on free speech.",
+    "2":"Even before becoming president Donald Trump railed against the Europeans\u2019 refusal to spend more on their own defense. Since",
+    "3":"Some believe that the Trump administration will finish off the ISIS caliphate and then withdraw U.S. forces from much of"
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Ryan J. Reilly",
+    "2":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "3":"Amitai Etzioni, ContributorUniversity Professor and Professor of International Relations,..."
+  },
+  "date":{
+    "0":"2017-09-26 00:00:00",
+    "1":"2017-09-26 00:00:00",
+    "2":"2017-09-25 00:00:00",
+    "3":"2017-09-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---edu",
+    "2":"deugov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"espgov",
+    "1":"---edu",
+    "2":"deu",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"140",
+    "2":"074",
+    "3":"08"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-6.5,
+    "2":8.5,
+    "3":5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "spanish",
+      "prime minister",
+      "espgov",
+      "spain",
+      "~"
+    ],
+    "1":[
+      "students",
+      "professors",
+      "~edu",
+      "~",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "chancellor merkel",
+      "government",
+      "deugov",
+      "angela",
+      "merkel",
+      "~",
+      "germany",
+      "deu",
+      "germany"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "spanish prime minister"
+    ],
+    "1":[
+      "students ... professors",
+      "students ... professors"
+    ],
+    "2":[
+      "chancellor merkel ... government",
+      "germany"
+    ],
+    "3":[
+      "administration",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "spain"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "angela merkel",
+      "germany"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "protested"
+    ],
+    "2":[
+      "defend"
+    ],
+    "3":[
+      "will ... withdraw"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "3",
+      "human_rights",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "espgov",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "140"
+    ],
+    "2":[
+      "deugov",
+      "deu",
+      "074"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "08"
+    ]
+  }
+}

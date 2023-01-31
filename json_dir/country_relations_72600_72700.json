@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/guns-marketed-to-children_us_56cb2163e4b0928f5a6c74b9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire-us-russia_us_56cb2ff1e4b0ec6725e332d2"
+  },
+  "headline":{
+    "0":"Advocacy Group Warns U.S. Gun Industry Is Targeting Children",
+    "1":"U.S-Russian Plan Calls For Syria Ceasefire Starting Saturday"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\"Much like the tobacco industry\u2019s search for replacement smokers, the gun industry is seeking replacement shooters.\"",
+    "1":"The plan excludes the self-described Islamic State and al-Qaeda linked Nusra Front militants."
+  },
+  "authors":{
+    "0":"Melissa Jeltsen",
+    "1":"Arshad Mohammed, Tom Perry, Reuters"
+  },
+  "date":{
+    "0":"2016-02-22 00:00:00",
+    "1":"2016-02-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"rus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"syr"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"0256"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":null
+  },
+  "nouns":{
+    "0":[
+      "industry",
+      "~bus",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "industry",
+      "children"
+    ],
+    "1":[
+      "russian",
+      "syria"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is targeting"
+    ],
+    "1":[
+      "calls for <&ceasefire>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "rus",
+      "syr",
+      "0256"
+    ]
+  }
+}

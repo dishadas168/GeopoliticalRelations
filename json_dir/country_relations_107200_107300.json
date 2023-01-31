@@ -1,0 +1,242 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/new-years-resolutionlet-c_b_6407324.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/new-years-resolutionlet-c_b_6407324.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/colorado-marijuana-lawsuit_n_6418534.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sikh-man-lost-bible_n_6408156.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/2014-wrapup-thoughts-on-s_1_b_6405466.html"
+  },
+  "headline":{
+    "0":"New Year's Resolution -- Let Colleges Lead the Way to a New Normal in Cuba",
+    "1":"New Year's Resolution -- Let Colleges Lead the Way to a New Normal in Cuba",
+    "2":"Oklahoma Republicans Don't Want To Sue Colorado Over Marijuana",
+    "3":"Sikh Man Helps Reunite Christian Pastor With Stolen Bible",
+    "4":"2015 Resolution: Thoughts on Saving the World"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"COLLEGE",
+    "2":"POLITICS",
+    "3":"RELIGION",
+    "4":"IMPACT"
+  },
+  "short_description":{
+    "0":"President Barack Obama's unexpected decision for the United States to \"normalize\" relations with Cuba provides an opportunity for universities to create a bridge of education and understanding between the two countries located just 90 miles apart.",
+    "1":"President Barack Obama's unexpected decision for the United States to \"normalize\" relations with Cuba provides an opportunity for universities to create a bridge of education and understanding between the two countries located just 90 miles apart.",
+    "2":"",
+    "3":"",
+    "4":"In an age of almost complete transparency, doing good is critical if you want to keep your license to do business.  Consumers hesitate to buy from you, but worse, employees won't even apply to your company.  How could they"
+  },
+  "authors":{
+    "0":"Dr. Alan Kadish, ContributorPresident, Touro College",
+    "1":"Dr. Alan Kadish, ContributorPresident, Touro College",
+    "2":"Matt Ferner",
+    "3":"Carol Kuruvilla",
+    "4":"Ryan Scott, ContributorFounder and CEO, Causecast"
+  },
+  "date":{
+    "0":"2015-01-05 00:00:00",
+    "1":"2015-01-05 00:00:00",
+    "2":"2015-01-05 00:00:00",
+    "3":"2015-01-04 00:00:00",
+    "4":"2015-01-04 00:00:00"
+  },
+  "actor1":{
+    "0":"cub",
+    "1":"usagov",
+    "2":"usa",
+    "3":"---ppl",
+    "4":"---lab"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"usa",
+    "3":"---chr",
+    "4":"---bus"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"060",
+    "2":"030",
+    "3":"070",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":6.0,
+    "2":4.0,
+    "3":7.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "colleges",
+      "~edu",
+      "~",
+      "cuba",
+      "cub",
+      "cuba"
+    ],
+    "1":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "universities",
+      "~edu",
+      "~",
+      "universities",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "oklahoma",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "man",
+      "~ppl",
+      "~",
+      "christian",
+      "~chr",
+      "~"
+    ],
+    "4":[
+      "employees",
+      "~lab",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cuba",
+      "colleges",
+      "colleges",
+      "cuba"
+    ],
+    "1":[
+      "president barack obama",
+      "universities"
+    ],
+    "2":[
+      "oklahoma",
+      "oklahoma"
+    ],
+    "3":[
+      "man",
+      "christian"
+    ],
+    "4":[
+      "employees",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cuba",
+      "---",
+      "---",
+      "cuba"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lead ... to",
+      "lead ... to"
+    ],
+    "1":[
+      "provides"
+    ],
+    "2":[
+      "do ... want"
+    ],
+    "3":[
+      "helps"
+    ],
+    "4":[
+      "wo ... apply"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":[
+      "drugs",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "cub",
+      "---edu",
+      "043",
+      "---edu",
+      "cub",
+      "042"
+    ],
+    "1":[
+      "usagov",
+      "---edu",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "030"
+    ],
+    "3":[
+      "---ppl",
+      "---chr",
+      "070"
+    ],
+    "4":[
+      "---lab",
+      "---bus",
+      "020"
+    ]
+  }
+}

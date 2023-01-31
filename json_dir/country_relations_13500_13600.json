@@ -1,0 +1,343 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wayne-lapierre-cpac-speech-school-shootings_us_5a8ef95ee4b005bb0fef501e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/florida-shooting-town-hall_us_5a8e44dfe4b0617d4639dce5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-students-florida-shooting-gun-control_us_5a8e2e46e4b0161d43186435",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/un-syria-humanitarian-plight_us_5a8ea643e4b0161d4318f991",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/cnn-florida-scripted-question_us_5a8ed6c7e4b0617d463ae671",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/trump-vs-teachers-guns-in-school_us_5a8e524de4b0617d4639e07c",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/student-resource-officer-resigns-parkland-shooting_us_5a8f46a2e4b01e9e56b9d8f9",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-north-korea-talks_us_5a8cc321e4b00a30a2507164"
+  },
+  "headline":{
+    "0":"NRA Chief Wayne LaPierre: FBI, Elitism To Blame For School Shootings",
+    "1":"Florida Shooting Survivors Face Down The NRA And Politicians, Vow To Keep Fighting",
+    "2":"Michelle Obama Tells Students To Keep Fighting: 'We're Behind You Every Step'",
+    "3":"UN Pleads For Truce In Syria To Prevent A 'Massacre'",
+    "4":"CNN Says It Didn't Ask Florida Shooting Survivor To Read A Scripted Question",
+    "5":"Teachers Slam Trump\u2019s Call For More Guns In Schools: \u2018Are You F**king Insane?\u2019",
+    "6":"Armed Officer Assigned To Stoneman Douglas Resigns Amid Shooting Investigation",
+    "7":"Pence Planned Secret Talks With North Korea, But Meeting Was Called Off"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS",
+    "4":"MEDIA",
+    "5":"POLITICS",
+    "6":"CRIME",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"Democrats are trying to \u201ceradicate all individual freedoms,\u201d he said.",
+    "1":"\"Our kids have started a revolution,\" one teacher says at emotional town hall.",
+    "2":"The former first lady expressed \"total awe\" for the young activists who have risen up in the wake of last week's school shooting to call for sensible gun laws.",
+    "3":"More than 300 people have been killed in the rural eastern Ghouta district on the outskirts of Damascus since Sunday night, and many hundreds have been wounded.",
+    "4":"\"CNN had originally asked me to write a speech and questions, and it ended up being all scripted,\" said 17-year-old Colton Haab.",
+    "5":"Educators tell the president they want to teach, not shoot.",
+    "6":"School Resource Officer Scott Peterson was suspended without pay while the Broward County Sheriff's Office investigated his inaction during the school shooting.",
+    "7":"The vice president's office accused the country of trying to \u201cwhitewash their murderous regime with nice photo ops.\u201d"
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Nick Visser",
+    "2":"Dominique Mosbergen",
+    "3":"By Suleiman Al-Khalidi, Reuters",
+    "4":"Hayley Miller",
+    "5":"Ed Mazza",
+    "6":"Bernie Woodall, Reuters",
+    "7":"Nick Visser"
+  },
+  "date":{
+    "0":"2018-02-22 00:00:00",
+    "1":"2018-02-22 00:00:00",
+    "2":"2018-02-22 00:00:00",
+    "3":"2018-02-22 00:00:00",
+    "4":"2018-02-22 00:00:00",
+    "5":"2018-02-22 00:00:00",
+    "6":"2018-02-22 00:00:00",
+    "7":"2018-02-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"usa",
+    "2":"---eli",
+    "3":"syr",
+    "4":"med",
+    "5":"---edu",
+    "6":"---cop",
+    "7":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---pty",
+    "2":"---opp",
+    "3":"---ppl",
+    "4":"usa",
+    "5":"---gov",
+    "6":"---edu",
+    "7":"---gov"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"040",
+    "2":"110",
+    "3":"190",
+    "4":"020",
+    "5":"010",
+    "6":"090",
+    "7":"112"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":-2.0,
+    "3":-10.0,
+    "4":3.0,
+    "5":0.0,
+    "6":-2.0,
+    "7":-2.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "2":[
+      "first lady",
+      "~eli",
+      "~",
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "damascus",
+      "syr",
+      "syria",
+      "ghouta",
+      "syr",
+      "syria"
+    ],
+    "4":[
+      "cnn",
+      "med",
+      "cnn",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "educators",
+      "~edu",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "sheriff",
+      "~cop",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "regime",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "school"
+    ],
+    "1":[
+      "florida",
+      "politicians"
+    ],
+    "2":[
+      "first lady",
+      "activists"
+    ],
+    "3":[
+      "damascus",
+      "people"
+    ],
+    "4":[
+      "cnn",
+      "florida"
+    ],
+    "5":[
+      "educators",
+      "president"
+    ],
+    "6":[
+      "sheriff",
+      "school"
+    ],
+    "7":[
+      "president",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "syria",
+      "---"
+    ],
+    "4":[
+      "cnn",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "elitism ... blame"
+    ],
+    "1":[
+      "face"
+    ],
+    "2":[
+      "expressed"
+    ],
+    "3":[
+      "<~ppl> ... killed in <syr>"
+    ],
+    "4":[
+      "says ... did ... ask"
+    ],
+    "5":[
+      "tell"
+    ],
+    "6":[
+      "investigated"
+    ],
+    "7":[
+      "accused"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "activism",
+      "1",
+      "schools",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":[
+      "teachers",
+      "1"
+    ],
+    "6":[
+      "schools",
+      "2"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---edu",
+      "112"
+    ],
+    "1":[
+      "usa",
+      "---pty",
+      "040"
+    ],
+    "2":[
+      "---eli",
+      "---opp",
+      "110"
+    ],
+    "3":[
+      "syr",
+      "---ppl",
+      "190"
+    ],
+    "4":[
+      "med",
+      "usa",
+      "020"
+    ],
+    "5":[
+      "---edu",
+      "---gov",
+      "010"
+    ],
+    "6":[
+      "---cop",
+      "---edu",
+      "090"
+    ],
+    "7":[
+      "---gov",
+      "---gov",
+      "112"
+    ]
+  }
+}

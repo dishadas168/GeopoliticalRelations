@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/paul-lepage-food-stamps_us_576ae849e4b09926ce5d7c81",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/putin-says-russia-must-strengthen-to-ward-off-nato-drive_us_576a6b89e4b0c0252e77bd78"
+  },
+  "headline":{
+    "0":"USDA Says Paul LePage's Food Stamp Freakout Will Harm Children",
+    "1":"Putin Says Russia Must Strengthen To Ward Off NATO Drive"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The governor of Maine threatened to drop food stamps if the feds won't let him prevent poor people from buying candy and soda.",
+    "1":"\"NATO is strengthening its aggressive rhetoric and its aggressive actions near our borders.\""
+  },
+  "authors":{
+    "0":"Arthur Delaney",
+    "1":"Denis Pinchuk and Dmitry Solovyov, Reuters"
+  },
+  "date":{
+    "0":"2016-06-22 00:00:00",
+    "1":"2016-06-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovagr",
+    "1":"rusgov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"rus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "usda",
+      "usagovagr",
+      "united",
+      "states",
+      "department",
+      "of",
+      "agriculture",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "nato",
+      "igowstnat",
+      "nato"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "usda",
+      "children"
+    ],
+    "1":[
+      "putin",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states department of agriculture",
+      "---"
+    ],
+    "1":[
+      "vladimir putin",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagovagr",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "rusgov",
+      "rus",
+      "010"
+    ]
+  }
+}

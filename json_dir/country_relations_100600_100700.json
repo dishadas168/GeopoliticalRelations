@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/making-hollywood-less-sexist-one-crowd-scene-at-a-time_b_6856698.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/im-not-just-raising-little-boys-im-trying-to-raise-good-men_b_6904024.html"
+  },
+  "headline":{
+    "0":"Making Hollywood Less Sexist, One Crowd Scene at a Time",
+    "1":"I'm Not Just Raising Little Boys, I'm Trying to Raise Good Men"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"PARENTS"
+  },
+  "short_description":{
+    "0":"If the fictional world of film and TV shows a landscape of female characters who are diverse, who have\u00a0 unique attributes, who are CEOs and doctors and scientists -- how will that inspire our children? Will our children expect women in leadership roles? It should then be normal.",
+    "1":"Your daughters believe you when you say that there are no boys out there good enough for them. Sure, a woman doesn't need a man to survive, but let's not raise her thinking that not only does she not need them, but that there actually aren't any good ones."
+  },
+  "authors":{
+    "0":"Colleen DeBaise, ContributorDirector of Digital Media, The Story Exchange",
+    "1":"Meredith Ethington, ContributorMom, Freelance Writer, Blogger at Perfectionpending.net"
+  },
+  "date":{
+    "0":"2015-03-24 00:00:00",
+    "1":"2015-03-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "children"
+    ],
+    "1":[
+      "woman",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "expect"
+    ],
+    "1":[
+      "does ... need"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "100"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-peace-deal-doubts_us_57d40cfae4b06a74c9f4ee1f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bangladesh-factory-fire-tongi-killed_us_57d3fb95e4b03d2d459ab135",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/rudy-giuliani-birther-trump_us_57d20e85e4b03d2d4599c04d"
+  },
+  "headline":{
+    "0":"Breakthrough Syria Peace Deal Raises Doubts As Fighting Continues",
+    "1":"Bangladesh Packaging Factory Fire Kills Many In Tongi",
+    "2":"Birther? What Birther? Rudy Giuliani Claims Donald Trump's Not A Birther Anymore"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Hours after the deal was reached, Syria\u2019s army reportedly attacked rebel-held areas in Aleppo.",
+    "1":"Authorities say the blaze north of Dhaka killed at least 23 people and injured more than two dozen.",
+    "2":"Former New York City mayor also incorrectly blamed Hillary Clinton for starting the conspiracy theory."
+  },
+  "authors":{
+    "0":"Suleiman Al-Khalidi and David Brunnstrom, Reuters",
+    "1":"Serajul Quadir, Reuters",
+    "2":"Ed Mazza"
+  },
+  "date":{
+    "0":"2016-09-10 00:00:00",
+    "1":"2016-09-10 00:00:00",
+    "2":"2016-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"syr",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"bgd",
+    "2":"usaeli"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"112",
+    "2":"112"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "syria",
+      "syr",
+      "syria",
+      "aleppo",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "authorities",
+      "~gov",
+      "~",
+      "dhaka",
+      "bgd",
+      "bangladesh",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "mayor",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syria",
+      "syria"
+    ],
+    "1":[
+      "authorities",
+      "dhaka"
+    ],
+    "2":[
+      "mayor",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "bangladesh"
+    ],
+    "2":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<&military> ... attacked"
+    ],
+    "1":[
+      "say <and> ... killed"
+    ],
+    "2":[
+      "blamed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "syr",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "bgd",
+      "112"
+    ],
+    "2":[
+      "---gov",
+      "usaeli",
+      "112"
+    ]
+  }
+}

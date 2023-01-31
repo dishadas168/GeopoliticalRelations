@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-smart-bosses-give-bad_b_7237806.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/children-with-special-needs-deserve-americas-support_b_7216750.html"
+  },
+  "headline":{
+    "0":"Why Smart Bosses Give Bad Employees a Raise",
+    "1":"Children With Special Needs Deserve America's Support"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"FIFTY"
+  },
+  "short_description":{
+    "0":"Successful managers have the maturity to recognize that good employees may do things that look bad to others, but they may do them for important reasons. Here is why a manager might decide to give a raise to a \"bad\" employee.",
+    "1":"Children and adults with special needs deserve America's best effort. As I said recently on national radio, America can do much better than it's doing in the health care field."
+  },
+  "authors":{
+    "0":"Brian de Haaff, ContributorCEO, Aha!",
+    "1":"Ray Flynn, ContributorFormer U.S. Ambassador to the Vatican and Mayor of Boston. Adv..."
+  },
+  "date":{
+    "0":"2015-05-08 00:00:00",
+    "1":"2015-05-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"022"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "bosses",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "children",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bosses",
+      "employees"
+    ],
+    "1":[
+      "children",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "give"
+    ],
+    "1":[
+      "needs ... support"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "060"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "022"
+    ]
+  }
+}

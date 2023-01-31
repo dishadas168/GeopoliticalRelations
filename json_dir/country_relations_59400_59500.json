@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/carmelo-anthony-hosts-honest-dialogue-between-cops-and-black-youth_us_5798bb05e4b02d5d5ed3a0ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/orange-county-da-appeals-court-ruling_us_5797d4fde4b02d5d5ed350d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-presidential-library_us_57990dcde4b01180b5316440"
+  },
+  "headline":{
+    "0":"Carmelo Anthony Hosts 'Honest' Dialogue Between Cops And Black Youth",
+    "1":"Court Says Orange County DA's Tactic To Disqualify Judge Who Exposed Misconduct Was 'Abusive'",
+    "2":"Obama Chooses Location For Presidential Library"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The athlete also weighed in on Michael Jordan's recent letter on police shootings.",
+    "1":"Still, the justices ruled in favor of the DA office's ability to disqualify the judge.",
+    "2":"Obama's records will reside in a Chicago park."
+  },
+  "authors":{
+    "0":"Zeba Blay",
+    "1":"Matt Ferner",
+    "2":"Ryan Grenoble"
+  },
+  "date":{
+    "0":"2016-07-27 00:00:00",
+    "1":"2016-07-27 00:00:00",
+    "2":"2016-07-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---jud",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"jorcop",
+    "1":"---jud",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"192"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":-9.5
+  },
+  "nouns":{
+    "0":[
+      "athlete",
+      "~cvl",
+      "~",
+      "jordan",
+      "jor",
+      "jordan",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "athlete",
+      "---"
+    ],
+    "1":[
+      "court",
+      "court"
+    ],
+    "2":[
+      "obama",
+      "chicago"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "weighed"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "will reside"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "jorcop",
+      "040"
+    ],
+    "1":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "192"
+    ]
+  }
+}

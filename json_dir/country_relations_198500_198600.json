@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bitcoin-digital-currency-traders_us_5b9b85dae4b03a1dcc784d07",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kris-birch-stroke-victim-turned-gay_us_5bafa18de4b0ad76925f2db7"
+  },
+  "headline":{
+    "0":"Bitcoin: Digital Currency Attracts Financial Traders",
+    "1":"Kris Birch, British Man Who Claims Stroke Turned Him Gay, Speaks To BBC (VIDEO)"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The trader, who was not willing to be named, said he spent four hours a day on Bitcoin, describing it as his second job. He",
+    "1":"In this BBC Three promo clip, Birch -- who was living with partner Jack Powell, 19, as of last year -- speaks frankly about"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2012-04-01 00:00:00",
+    "1":"2012-04-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"gbrppl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "trader",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "british",
+      "man",
+      "gbrppl",
+      "united",
+      "kingdom",
+      "~",
+      "bbc",
+      "med",
+      "bbc"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "trader",
+      "trader"
+    ],
+    "1":[
+      "british man",
+      "bbc"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "bbc"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... spent ... describing"
+    ],
+    "1":[
+      "speaks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "010"
+    ],
+    "1":[
+      "gbrppl",
+      "med",
+      "010"
+    ]
+  }
+}

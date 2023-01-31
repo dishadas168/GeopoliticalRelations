@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kurdistan-arm-the-peshmer_b_6761664.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/youtube-delhi-rape-documentary_n_6807032.html"
+  },
+  "headline":{
+    "0":"Kurdistan: Arm the Peshmerga Directly, Provide Support for Refugees",
+    "1":"India Asks YouTube To Remove Delhi Rape Documentary"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Kobane should remind us all of the danger that ISIL poses to the entire civilized world. We owe it to the people of that city, and the courageous efforts of the Kurdish Peshmerga who freed it, to ensure that they are receiving as much support as we can offer.",
+    "1":""
+  },
+  "authors":{
+    "0":"Sasha Toperich, ContributorSenior Fellow, Center for Transatlantic Relations, Johns Hopki...",
+    "1":""
+  },
+  "date":{
+    "0":"2015-03-05 00:00:00",
+    "1":"2015-03-05 00:00:00"
+  },
+  "actor1":{
+    "0":"irqmil",
+    "1":"ind"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"ind"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"174"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "peshmerga",
+      "irqmil",
+      "peshmerga",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "india",
+      "ind",
+      "india",
+      "delhi",
+      "ind",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "peshmerga",
+      "refugees"
+    ],
+    "1":[
+      "india",
+      "india"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "peshmerga",
+      "---"
+    ],
+    "1":[
+      "india",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "provide support"
+    ],
+    "1":[
+      "asks ... remove"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "irqmil",
+      "---ref",
+      "060"
+    ],
+    "1":[
+      "ind",
+      "ind",
+      "174"
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/greta-thunberg-california-protest-fires_n_5dbca8cfe4b0576b62a1f5cd",
+    "1":"https:\/\/www.huffpost.com\/entry\/report-baghdadis-top-aide-was-key-to-his-capture_n_5db6dffae4b079eb95a6ef35",
+    "2":"https:\/\/www.huffpost.com\/entry\/pentagon-government-contract-microsoft-amazon_n_5db3b92ee4b079eb95a3d047",
+    "3":"https:\/\/www.huffpost.com\/entry\/barack-obama-elijah-cummings-funeral-eulogy_n_5db333b9e4b006d4916e1f24",
+    "4":"https:\/\/www.huffpost.com\/entry\/alexandria-ocasio-cortez-bigger-squad_n_5db1decae4b00448c94551c1",
+    "5":"https:\/\/www.huffpost.com\/entry\/eminem-secret-service-trump_n_5db1cbf5e4b00448c9451faa",
+    "6":"https:\/\/www.huffpost.com\/entry\/the-crown-season-3-netflix-first-full-trailer_n_5dadccdbe4b0422422c974e9",
+    "7":"https:\/\/www.huffpost.com\/entry\/trump-defends-doral-choice_n_5dadef4ae4b0422422c9d460",
+    "8":"https:\/\/www.huffpost.com\/entry\/treepex-hoax-environment_n_5da9de7ae4b0e71d65b868f6",
+    "9":"https:\/\/www.huffpost.com\/entry\/anderson-cooper-stephanie-grisham-press-secretary_n_5daa9ee5e4b0422422c52178",
+    "10":"https:\/\/www.huffpost.com\/entry\/mark-benioff-facebook-broken-up_n_5da7ab2ce4b034f1d69cc7d1"
+  },
+  "headline":{
+    "0":"Greta Thunberg: Climate Situation Getting 'More And More Absurd'",
+    "1":"Report: Baghdadi's Top Aide Was Key To His Capture",
+    "2":"Pentagon Gives Microsoft $10 Billion 'War Cloud' Deal, Snubbing Amazon",
+    "3":"Barack Obama Gives Powerful Eulogy For Elijah Cummings: 'A Man Of Noble And Good Heart'",
+    "4":"Alexandria Ocasio-Cortez Wants A Bigger Squad",
+    "5":"Eminem Was Interviewed By Secret Service About Lyrics Threatening The Trumps",
+    "6":"The First Full Trailer For 'The Crown' Season 3 Is Here, And It\u2019s Spilling Tea",
+    "7":"Trump Continues To Defend Doral Choice Even After Giving In",
+    "8":"The Hoax That Tricked Millions Into Thinking About The Environment",
+    "9":"Anderson Cooper Delivers Scathing Review Of Rare Stephanie Grisham Interview",
+    "10":"Marc Benioff: Facebook Is \u2018The New Cigarettes' And Should Probably Be Broken Up"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"WORLD NEWS",
+    "2":"TECH",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"ENTERTAINMENT",
+    "6":"ENTERTAINMENT",
+    "7":"POLITICS",
+    "8":"ENVIRONMENT",
+    "9":"MEDIA",
+    "10":"TECH"
+  },
+  "short_description":{
+    "0":"The 16-year-old activist spoke at a youth climate rally in Los Angeles during a week of wildfires ravaging California.",
+    "1":"One of Abu Bakr al-Baghdadi's closest confidants gave Iraqi intelligence teams information on how the Islamic State leader evaded capture for so many years.",
+    "2":"Early speculation of the giant government defense contract suggested it would go to Amazon.",
+    "3":"\u201cAs president, I knew I could always count on Elijah being honorable and doing the right thing,\u201d Obama said at the funeral of the late Maryland congressman.",
+    "4":"\"We have to change the people who are here if we are serious about delivering for working-class people,\u201d the New York lawmaker said of Congress.",
+    "5":"Documents obtained by BuzzFeed show that the rapper was investigated at the behest of a TMZ employee.",
+    "6":"Fans of the Netflix drama can finally see Olivia Colman and Helena Bonham Carter playing Queen Elizabeth II and Princess Margaret, respectively.",
+    "7":"The president blamed Democrats and the media after he canceled his plans to host the G-7 summit at his personal property.",
+    "8":"This weird gadget from Treepex was supposed to be satirical. But then people actually wanted to buy it.",
+    "9":"\"Does everyone working for the president have to debase themselves and lie like he does?\" asked the CNN host.",
+    "10":"The billionaire Salesforce CEO denounced the social media company for refusing to take down fake political ads."
+  },
+  "authors":{
+    "0":"Sarah Ruiz-Grossman",
+    "1":"",
+    "2":"Rachel Lerman, AP",
+    "3":"Kimberley Richards",
+    "4":"Daniel Marans",
+    "5":"David Moye",
+    "6":"Elyse Wanshel",
+    "7":"Antonia Blumberg",
+    "8":"Ilana Strauss",
+    "9":"Lee Moran",
+    "10":"Nick Visser"
+  },
+  "date":{
+    "0":"2019-11-01 00:00:00",
+    "1":"2019-10-28 00:00:00",
+    "2":"2019-10-26 00:00:00",
+    "3":"2019-10-25 00:00:00",
+    "4":"2019-10-24 00:00:00",
+    "5":"2019-10-24 00:00:00",
+    "6":"2019-10-21 00:00:00",
+    "7":"2019-10-21 00:00:00",
+    "8":"2019-10-20 00:00:00",
+    "9":"2019-10-19 00:00:00",
+    "10":"2019-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"imgmusisi",
+    "2":"usamil",
+    "3":"usagov",
+    "4":"---leg",
+    "5":"med",
+    "6":"mncusa",
+    "7":"---gov",
+    "8":"---ppl",
+    "9":"---gov",
+    "10":"---bus"
+  },
+  "actor2":{
+    "0":"frareb",
+    "1":"irqspy",
+    "2":"mncusa",
+    "3":"usaleg",
+    "4":"---leg",
+    "5":"---lab",
+    "6":"knagov",
+    "7":"---med",
+    "8":"---ppl",
+    "9":"---gov",
+    "10":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"060",
+    "3":"010",
+    "4":"010",
+    "5":"090",
+    "6":"010",
+    "7":"112",
+    "8":"0311",
+    "9":"110",
+    "10":"111"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":6.0,
+    "3":0.0,
+    "4":0.0,
+    "5":-2.0,
+    "6":0.0,
+    "7":-2.0,
+    "8":5.2,
+    "9":-2.0,
+    "10":-2.0
+  },
+  "nouns":{
+    "0":[
+      "activist",
+      "~opp",
+      "~",
+      "los angeles",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "youth",
+      "frareb",
+      "gazteriak",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "abu bakr al baghdadi",
+      "imgmusisi",
+      "islamic",
+      "state",
+      "of",
+      "iraq",
+      "and",
+      "the",
+      "levant",
+      "iraqi",
+      "intelligence",
+      "irqspy",
+      "iraq",
+      "~"
+    ],
+    "2":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "microsoft",
+      "mncusa",
+      "microsoft"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "maryland",
+      "congressman",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "lawmaker",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "5":[
+      "buzzfeed",
+      "med",
+      "buzzfeed",
+      "employee",
+      "~lab",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "6":[
+      "netflix",
+      "mncusa",
+      "netflix",
+      "queen elizabeth ii",
+      "knagov",
+      "queen",
+      "elizabeth",
+      "ii"
+    ],
+    "7":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "8":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "9":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "10":[
+      "ceo",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activist",
+      "youth"
+    ],
+    "1":[
+      "abu bakr al baghdadi",
+      "iraqi intelligence"
+    ],
+    "2":[
+      "pentagon",
+      "microsoft"
+    ],
+    "3":[
+      "obama",
+      "maryland congressman"
+    ],
+    "4":[
+      "lawmaker",
+      "lawmaker"
+    ],
+    "5":[
+      "buzzfeed",
+      "employee"
+    ],
+    "6":[
+      "netflix",
+      "queen elizabeth ii"
+    ],
+    "7":[
+      "president",
+      "media"
+    ],
+    "8":[
+      "people",
+      "people"
+    ],
+    "9":[
+      "president",
+      "president"
+    ],
+    "10":[
+      "ceo",
+      "ceo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "gazteriak"
+    ],
+    "1":[
+      "islamic state of iraq and the levant",
+      "iraq"
+    ],
+    "2":[
+      "united states military",
+      "microsoft"
+    ],
+    "3":[
+      "barack obama",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "buzzfeed",
+      "---"
+    ],
+    "6":[
+      "netflix",
+      "queen elizabeth ii"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ],
+    "9":[
+      "---",
+      "---"
+    ],
+    "10":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "spoke"
+    ],
+    "1":[
+      "gave <&information>"
+    ],
+    "2":[
+      "gives"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "said"
+    ],
+    "5":[
+      "show ... investigated at <~lab>"
+    ],
+    "6":[
+      "can ... see"
+    ],
+    "7":[
+      "blamed"
+    ],
+    "8":[
+      "wanted ... buy"
+    ],
+    "9":[
+      "have ... debase"
+    ],
+    "10":[
+      "denounced"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1",
+      "natural_disaster",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "frareb",
+      "010"
+    ],
+    "1":[
+      "imgmusisi",
+      "irqspy",
+      "010"
+    ],
+    "2":[
+      "usamil",
+      "mncusa",
+      "060"
+    ],
+    "3":[
+      "usagov",
+      "usaleg",
+      "010"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "5":[
+      "med",
+      "---lab",
+      "090"
+    ],
+    "6":[
+      "mncusa",
+      "knagov",
+      "010"
+    ],
+    "7":[
+      "---gov",
+      "---med",
+      "112"
+    ],
+    "8":[
+      "---ppl",
+      "---ppl",
+      "0311"
+    ],
+    "9":[
+      "---gov",
+      "---gov",
+      "110"
+    ],
+    "10":[
+      "---bus",
+      "---bus",
+      "111"
+    ]
+  }
+}

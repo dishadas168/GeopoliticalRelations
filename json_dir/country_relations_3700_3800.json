@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/trump-racist-remarks-debate_n_5f924dfec5b686eaaa0fc8c8",
+    "1":"https:\/\/www.huffpost.com\/entry\/emily-in-paris-tweets-netflix_n_5f90431ec5b62333b241088b",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-military-industrial-complex_n_5f89cbbcc5b69daf5e12d23b",
+    "3":"https:\/\/www.huffpost.com\/entry\/trump-begs-suburban-women-for-votes_n_5f865621c5b6c4bb5470d623",
+    "4":"https:\/\/www.huffpost.com\/entry\/fbi-paramilitary-discussed-kidnapping-virginia-governor-northam_n_5f85be2ec5b62f97bac859e2"
+  },
+  "headline":{
+    "0":"Trump Utters More Racist Remarks During Final Presidential Debate",
+    "1":"People Are Still Hate-Watching 'Emily In Paris' And The Tweets Are Tr\u00e8s Amusants",
+    "2":"How Trump Got Played By The Military-Industrial Complex",
+    "3":"Desperate Trump Resorts To Literal Begging With Latest Racist Dog-Whistle Plea",
+    "4":"FBI Agent: Groups Discussed Kidnapping Virginia Governor"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president also referred to himself as the \"least racist person\" in the room and said he'd done more for Black people than any president since Abraham Lincoln.",
+    "1":"The Netflix show starring Lily Collins dropped earlier this month, and it's caused quite a stir on social media.",
+    "2":"The president promoted defense jobs in swing states, pushed through arms sales and gave industry figures top jobs. He didn't get the political boost he wanted.",
+    "3":"The president pleaded with suburban women during a campaign stop in Pennsylvania.",
+    "4":"Law enforcement arrested 13 people last week who allegedly plotted to kidnap Michigan Gov. Gretchen Whitmer."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Jenna Amatulli",
+    "2":"Akbar Shahid Ahmed",
+    "3":"Ed Mazza",
+    "4":"David Eggert and Katherine Foody, AP"
+  },
+  "date":{
+    "0":"2020-10-23 00:00:00",
+    "1":"2020-10-21 00:00:00",
+    "2":"2020-10-18 00:00:00",
+    "3":"2020-10-14 00:00:00",
+    "4":"2020-10-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"---gov",
+    "4":"---cop"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"fra",
+    "2":"---bus",
+    "3":"usacvl",
+    "4":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"060",
+    "3":"020",
+    "4":"173"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":6.0,
+    "3":3.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "law enforcement",
+      "~cop",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "people",
+      "paris"
+    ],
+    "2":[
+      "president",
+      "industry"
+    ],
+    "3":[
+      "president",
+      "---"
+    ],
+    "4":[
+      "law enforcement",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "france"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... referred"
+    ],
+    "1":[
+      "are ... watching"
+    ],
+    "2":[
+      "<and> ... gave"
+    ],
+    "3":[
+      "pleaded"
+    ],
+    "4":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "id_arms_deal",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "fra",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---bus",
+      "060"
+    ],
+    "3":[
+      "---gov",
+      "usacvl",
+      "020"
+    ],
+    "4":[
+      "---cop",
+      "---ppl",
+      "173"
+    ]
+  }
+}

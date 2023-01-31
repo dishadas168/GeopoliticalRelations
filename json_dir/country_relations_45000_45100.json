@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-moves-to-decriminalize-several-cases-of-domestic-violence_us_5879a98ae4b09281d0eb2027",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-american-jobs_us_58790ba5e4b0e58057fe7a68"
+  },
+  "headline":{
+    "0":"Russia Moves to Decriminalize Several Cases Of Domestic Violence",
+    "1":"Companies That Trump Attacked Are Still Firing People"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Anti-violence activists say the so-called \u201cslapping law\u201d will leave abuse victims even more at risk.",
+    "1":"The president-elect said \"the word is now out\" that companies shouldn't offshore jobs, but they're still doing it."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2017-01-14 00:00:00",
+    "1":"2017-01-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "victims"
+    ],
+    "1":[
+      "companies",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will leave"
+    ],
+    "1":[
+      "are ... firing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---bus",
+      "---ppl",
+      "190"
+    ]
+  }
+}

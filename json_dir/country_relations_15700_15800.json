@@ -1,0 +1,261 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-attacks-wsj-over-interview_us_5a5c1aa5e4b0fcbc3a116821",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/snl-shithole-language-sketches_us_5a5be979e4b03c418966e32b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/protesters-tryto-arrest-sadiqkahn_us_5a5ad4f0e4b03c4189664b45",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/steven-seagal-lapd-sexual-assault-investigation_us_5a5b4860e4b03c4189665f61",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/japan-korea-comfort-women_us_5a5a9b76e4b03c418966374b",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/japan-korea-comfort-women_us_5a5a9b76e4b03c418966374b"
+  },
+  "headline":{
+    "0":"Trump Attacks Wall Street Journal, Claiming Paper Lied About Single Word In Interview",
+    "1":"'Saturday Night Live' Can't Use Language As Bad As Trump's",
+    "2":"Protesters Try To Arrest London's Mayor For Disrespecting Donald Trump",
+    "3":"LAPD Launches Sexual Assault Investigation Against Steven Seagal",
+    "4":"Japan Rejects South Korean Call For New Steps To Help 'Comfort Women'",
+    "5":"Japan Rejects South Korean Call For New Steps To Help 'Comfort Women'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"COMEDY",
+    "2":"WORLD NEWS",
+    "3":"ENTERTAINMENT",
+    "4":"WORLD NEWS",
+    "5":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Newspaper just wanted a FAKE NEWS story, president tweets.",
+    "1":"\"I feel bad for parents at this point with young children. Every word you tell your kid not to say, they can be like, \u2018But the president gets to say it.\u2019\u201d",
+    "2":"More \"stable geniuses,\" quips Mayor Sadiq Khan.",
+    "3":"The 65-year-old actor has been accused by more than a dozen women of sexual misconduct.",
+    "4":"TOKYO (Reuters) - Japanese Prime Minister Shinzo Abe on Friday rejected South Korea\u2019s call for more steps to help \u201ccomfort",
+    "5":"TOKYO (Reuters) - Japanese Prime Minister Shinzo Abe on Friday rejected South Korea\u2019s call for more steps to help \u201ccomfort"
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Mary Papenfuss",
+    "2":"Mary Papenfuss",
+    "3":"Dominique Mosbergen",
+    "4":"Linda Sieg, Reuters",
+    "5":"Linda Sieg, Reuters"
+  },
+  "date":{
+    "0":"2018-01-15 00:00:00",
+    "1":"2018-01-15 00:00:00",
+    "2":"2018-01-14 00:00:00",
+    "3":"2018-01-14 00:00:00",
+    "4":"2018-01-13 00:00:00",
+    "5":"2018-01-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---gov",
+    "2":"---opp",
+    "3":"---cvl",
+    "4":"jpn",
+    "5":"jpneli"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"gbrgov",
+    "3":"---eli",
+    "4":"---cvl",
+    "5":"kor"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"173",
+    "3":"112",
+    "4":"070",
+    "5":"122"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":-2.0,
+    "4":7.0,
+    "5":-4.0
+  },
+  "nouns":{
+    "0":[
+      "newspaper",
+      "~med",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "protesters",
+      "~opp",
+      "~",
+      "london",
+      "mayor",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "3":[
+      "actor",
+      "~eli",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "japan",
+      "south korean",
+      "jpn",
+      "kor",
+      "japan",
+      "south",
+      "korea",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "shinzo abe",
+      "jpneli",
+      "shinzo",
+      "abe",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "newspaper",
+      "president"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "protesters",
+      "london ... mayor"
+    ],
+    "3":[
+      "women",
+      "actor"
+    ],
+    "4":[
+      "japan",
+      "women",
+      "south korean",
+      "women"
+    ],
+    "5":[
+      "shinzo abe",
+      "south korea"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united kingdom"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "japan",
+      "---",
+      "south korea",
+      "---"
+    ],
+    "5":[
+      "shinzo abe",
+      "south korea"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted"
+    ],
+    "1":[
+      "gets ... say"
+    ],
+    "2":[
+      "try ... arrest"
+    ],
+    "3":[
+      "<~eli> ... accused by <~cvl>"
+    ],
+    "4":[
+      "steps ... help",
+      "steps ... help"
+    ],
+    "5":[
+      "rejected ... call"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "gender_violence",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---opp",
+      "gbrgov",
+      "173"
+    ],
+    "3":[
+      "---cvl",
+      "---eli",
+      "112"
+    ],
+    "4":[
+      "jpn",
+      "---cvl",
+      "070",
+      "kor",
+      "---cvl",
+      "070"
+    ],
+    "5":[
+      "jpneli",
+      "kor",
+      "122"
+    ]
+  }
+}

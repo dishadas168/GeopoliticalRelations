@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kerry-to-visit-brussels-london-in-wake-of-brexit-vote_us_576fbf4ce4b017b379f63701"
+  },
+  "headline":{
+    "0":"Kerry To Visit Brussels, London In Wake Of Brexit Vote"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"ROME (Reuters) - U.S. Secretary of State John Kerry will meet European Union foreign policy chief Federica Mogherini in Brussels"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-06-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"bel"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "brussels",
+      "bel",
+      "belgium"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john kerry",
+      "brussels"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john kerry",
+      "belgium"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will meet"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "bel",
+      "040"
+    ]
+  }
+}

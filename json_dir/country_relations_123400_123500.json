@@ -1,0 +1,159 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/conservatives-take-offensive-against-irs-rinos-executive-orders_b_5542019.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shimon-peres-isis-israel_n_5540587.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/google-comes-to-havana_b_5540121.html"
+  },
+  "headline":{
+    "0":"Conservatives Go on Offense Against IRS, RINOs, Executive Orders. They Winning or Whining?",
+    "1":"Shimon Peres Says ISIS Should Unite Arabs And Israel",
+    "2":"Google Comes to Havana!"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"Insurgents this week are pushing for regime change... in the U.S.. Is ISSA our ISIS -- and Lois Lerner really Nixon? Lowry and Alter clash whether the IRS is a true scandal or not even a \"smidgeon\" of one.",
+    "1":"",
+    "2":"Have you ever tried to explain Google to someone who doesn't know what it is?"
+  },
+  "authors":{
+    "0":"HuffPost Radio, Contributor",
+    "1":"Laura Goldman and Ryan Grim",
+    "2":"Yoani Sanchez, ContributorPublisher of 14ymedio, independent newspaper in Cuba"
+  },
+  "date":{
+    "0":"2014-06-29 00:00:00",
+    "1":"2014-06-29 00:00:00",
+    "2":"2014-06-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---reb",
+    "1":"isreli",
+    "2":"mncusamed"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"imgmusisi",
+    "2":"cub"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "insurgents",
+      "~reb",
+      "~",
+      "regime",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "shimon peres",
+      "isreli",
+      "shimon",
+      "peres",
+      "isis",
+      "israel",
+      "imgmusisi",
+      "isr",
+      "the",
+      "islamic",
+      "state",
+      "israel"
+    ],
+    "2":[
+      "google",
+      "mncusamed",
+      "google",
+      "havana",
+      "cub",
+      "cuba"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "insurgents",
+      "---"
+    ],
+    "1":[
+      "shimon peres",
+      "isis",
+      "shimon peres",
+      "israel"
+    ],
+    "2":[
+      "google",
+      "havana"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "shimon peres",
+      "the islamic state",
+      "shimon peres",
+      "israel"
+    ],
+    "2":[
+      "google",
+      "cuba"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are pushing"
+    ],
+    "1":[
+      "says",
+      "says"
+    ],
+    "2":[
+      "comes to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---reb",
+      "usagov",
+      "100"
+    ],
+    "1":[
+      "isreli",
+      "imgmusisi",
+      "010",
+      "isreli",
+      "isr",
+      "010"
+    ],
+    "2":[
+      "mncusamed",
+      "cub",
+      "040"
+    ]
+  }
+}

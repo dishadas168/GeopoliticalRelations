@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-keota-iowa_us_565493bfe4b0258edb33008e"
+  },
+  "headline":{
+    "0":"How 3 Students Convinced Hillary Clinton To Pay Attention To Rural Schools"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cIf they lose that school, the community dies.\u201d"
+  },
+  "authors":{
+    "0":"Samantha-Jo Roth"
+  },
+  "date":{
+    "0":"2015-11-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeliedu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "hillary clinton",
+      "usaeliedu",
+      "~",
+      "hillary",
+      "clinton",
+      "schools",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students ... hillary clinton",
+      "schools"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to ... pay"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeliedu",
+      "---edu",
+      "061"
+    ]
+  }
+}

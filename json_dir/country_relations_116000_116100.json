@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkish-leader-erdogans-m_b_5865248.html"
+  },
+  "headline":{
+    "0":"Turkish Leader Erdogan's Misstep in NYC"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"In a speech that was supposedly aimed at promoting Turkey's interests, Erdogan came off as a defensive and suspicious man, who sees conspiracies everywhere and feels misunderstood by everybody and thinks he is threatened from all sides."
+  },
+  "authors":{
+    "0":"Stephen Schlesinger, ContributorAuthor and Fellow at the Century Foundation"
+  },
+  "date":{
+    "0":"2014-09-23 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov"
+  },
+  "actor2":{
+    "0":"turgov"
+  },
+  "event_code":{
+    "0":"130"
+  },
+  "goldstein_score":{
+    "0":-4.4
+  },
+  "nouns":{
+    "0":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "erdogan",
+      "erdogan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "recep tayyip erdogan",
+      "recep tayyip erdogan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... thinks <turgov> ... threatened from <--->"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "turgov",
+      "130"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/post_12853_b_11592992.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/irans-grand-ayatollah-rev_b_11624078.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/florida-judge-abortion-law-blocked_us_57b709f1e4b00d9c3a16ff08",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/doj-american-bail-industry_us_57b727bde4b03d513687f5e8",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.wsj.com\/articles\/pentagon-warns-assad-regime-to-avoid-action-near-u-s-and-allied-forces-1471633476",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-daily-show-black-voters_us_57b551e0e4b034dc7325b47f"
+  },
+  "headline":{
+    "0":"Teenage Gunfight With ISIS",
+    "1":"Iran's Grand Ayatollah Reveals Iran's Egregious Crimes Against Humanity",
+    "2":"U.S. Judge Permanently Blocks Florida Law To End Abortion Funding",
+    "3":"Obama Justice Department Joins The Fight Against America's Bail Industry",
+    "4":"Pentagon Warns Assad Regime to Avoid Action Near U.S. and Allied Forces",
+    "5":"'Daily Show' Eviscerates Trump's Black And White View Of Law And Order"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"In true keeping with its unconscionably horrific vision, Daash has been marching forward with a genocidal effort, specifically targeting Yazidi people whom it believes to be devil worshippers. Yazidis are not Muslim and practice some customs, including pagan ones that are misunderstood and leveraged as hate by Daash.",
+    "1":"",
+    "2":"The judge permanently blocked parts of a Florida law that aimed to cut off state funding for preventive health services at clinics that also provide abortions.",
+    "3":"The department on Friday denounced bail practices that result in \"unnecessary incarceration.\"",
+    "4":"WASHINGTON\u2014The Pentagon warned Friday that the Syrian government would be \u201cwell-advised\u201d not to strike U.S. and allied military",
+    "5":"\"You know things are bad when a rich white man is asking black people for help.\""
+  },
+  "authors":{
+    "0":"Alexandra Prim, ContributorJournalism MA, overly concerned citizen, fan of the arts, and ...",
+    "1":"Dr. Majid Rafizadeh, ContributorPresident of the International American Council",
+    "2":"",
+    "3":"Ryan J. Reilly",
+    "4":"",
+    "5":"David Moye"
+  },
+  "date":{
+    "0":"2016-08-20 00:00:00",
+    "1":"2016-08-20 00:00:00",
+    "2":"2016-08-19 00:00:00",
+    "3":"2016-08-19 00:00:00",
+    "4":"2016-08-19 00:00:00",
+    "5":"2016-08-18 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi",
+    "1":"irn",
+    "2":"---jud",
+    "3":"usagov",
+    "4":"usamil",
+    "5":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"irn",
+    "2":"usa",
+    "3":"usabus",
+    "4":"syrgov",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"145",
+    "1":"050",
+    "2":"170",
+    "3":"062",
+    "4":"020",
+    "5":"020"
+  },
+  "goldstein_score":{
+    "0":-7.5,
+    "1":3.5,
+    "2":-7.0,
+    "3":7.4,
+    "4":3.0,
+    "5":3.0
+  },
+  "nouns":{
+    "0":[
+      "daash",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "iran",
+      "irn",
+      "iran",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "america",
+      "industry",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "4":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "syrian",
+      "government",
+      "syrgov",
+      "syria",
+      "~"
+    ],
+    "5":[
+      "man",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "daash",
+      "people"
+    ],
+    "1":[
+      "iran",
+      "iran"
+    ],
+    "2":[
+      "judge",
+      "florida"
+    ],
+    "3":[
+      "obama",
+      "america ... industry"
+    ],
+    "4":[
+      "pentagon",
+      "syrian government"
+    ],
+    "5":[
+      "man",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "---"
+    ],
+    "1":[
+      "iran",
+      "iran"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "barack obama",
+      "united states of america"
+    ],
+    "4":[
+      "united states military",
+      "syria"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... marching ... targeting"
+    ],
+    "1":[
+      "reveals"
+    ],
+    "2":[
+      "blocked"
+    ],
+    "3":[
+      "joins <&fight>"
+    ],
+    "4":[
+      "warned <syrgov> ... advised"
+    ],
+    "5":[
+      "is asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_atrocity",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "---ppl",
+      "145"
+    ],
+    "1":[
+      "irn",
+      "irn",
+      "050"
+    ],
+    "2":[
+      "---jud",
+      "usa",
+      "170"
+    ],
+    "3":[
+      "usagov",
+      "usabus",
+      "062"
+    ],
+    "4":[
+      "usamil",
+      "syrgov",
+      "020"
+    ],
+    "5":[
+      "---ppl",
+      "---ppl",
+      "020"
+    ]
+  }
+}

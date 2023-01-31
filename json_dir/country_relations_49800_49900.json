@@ -1,0 +1,235 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/amal-clooney-says-trumps-ideas-are-violations-of-international-human-rights-law_us_582f276ce4b099512f826f60",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ladue-high-school-walkout_us_582cfc72e4b099512f80dcff",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/backpage-ceo-charges_us_582cf31fe4b099512f80da27",
+    "3":"https:\/\/www.huffingtonpost.comhttps:\/\/broadly.vice.com\/en_us\/article\/why-sweden-just-opened-the-first-male-rape-clinic-in-the-world",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/melania-trump-new-bio_us_582dbac7e4b058ce7aa94eb9"
+  },
+  "headline":{
+    "0":"Amal Clooney Says Trump's Ideas 'Are Violations of International Human Rights Law'",
+    "1":"Police In St. Louis Suburb Investigate Claim White High Schooler Burned Black Student With Glue Gun",
+    "2":"Backpage CEO Likely To Walk From Pimping Charges As Judge Cites Shield Law",
+    "3":"Why Sweden Just Opened the First Male Rape Clinic In the World",
+    "4":"Melania Trump's New Bio Says She 'Paused Her Studies'"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"QUEER VOICES",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The human rights lawyer recently spoke at a women's conference in Texas.",
+    "1":"Students walked out in protest, and say they'll continue to protest until they don't fell threatened at school.",
+    "2":"The judge cited a shield law for tech companies that protects them from prosecution for content posted by third parties.",
+    "3":"Last week, Sweden announced the opening of a male rape crisis center\u2013the first one specifically for men in the world. We",
+    "4":"The future first lady's previous bios claimed she graduated from university in Slovenia."
+  },
+  "authors":{
+    "0":"Cavan Sieczkowski",
+    "1":"Mariah Stewart",
+    "2":"Dan Levine, Reuters",
+    "3":"",
+    "4":"Christina Wilkie"
+  },
+  "date":{
+    "0":"2016-11-18 00:00:00",
+    "1":"2016-11-17 00:00:00",
+    "2":"2016-11-17 00:00:00",
+    "3":"2016-11-17 00:00:00",
+    "4":"2016-11-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---edu",
+    "2":"---jud",
+    "3":"swe",
+    "4":"---eli"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"---edu",
+    "2":"---bus",
+    "3":"mdv",
+    "4":"---eli"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"140",
+    "2":"010",
+    "3":"010",
+    "4":"110"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-6.5,
+    "2":0.0,
+    "3":0.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "sweden",
+      "swe",
+      "sweden",
+      "male",
+      "mdv",
+      "maldives"
+    ],
+    "4":[
+      "first lady",
+      "~eli",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "slovenia",
+      "svn",
+      "slovenia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "---"
+    ],
+    "1":[
+      "students",
+      "students"
+    ],
+    "2":[
+      "judge",
+      "companies"
+    ],
+    "3":[
+      "sweden",
+      "male"
+    ],
+    "4":[
+      "first lady",
+      "first lady"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "sweden",
+      "maldives"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "spoke"
+    ],
+    "1":[
+      "<and> ... say"
+    ],
+    "2":[
+      "cited"
+    ],
+    "3":[
+      "announced"
+    ],
+    "4":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "human_rights",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "rape",
+      "1"
+    ],
+    "4":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usacvl",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "140"
+    ],
+    "2":[
+      "---jud",
+      "---bus",
+      "010"
+    ],
+    "3":[
+      "swe",
+      "mdv",
+      "010"
+    ],
+    "4":[
+      "---eli",
+      "---eli",
+      "110"
+    ]
+  }
+}

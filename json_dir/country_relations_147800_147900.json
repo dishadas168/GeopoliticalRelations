@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/snl-girls-parody-blerta_us_5bad2937e4b04234e8577205",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/did-edward-snowden-kill-t_us_5bb36a5fe4b0fa920b982fff"
+  },
+  "headline":{
+    "0":"SNL 'Girls' Parody Introduces Blerta From Albania; Suddenly Hannah's Problems Seem Stupid",
+    "1":"Did Edward Snowden Kill the Search Engine Optimization Industry?"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"In an inspired parody of \"Girls,\" \"SNL\" gave new cast member No\u00ebl Wells the opportunity to show off her perfect Lena Dunham",
+    "1":"This past week has contained a couple of heart-skipping declarations for the SEO industry. The most recent was Google's announcement of its latest algorithm update -- Hummingbird."
+  },
+  "authors":{
+    "0":"",
+    "1":"Chad Pollitt, Contributor\nFmr. US Army Commander; VP of Audience, Relevance; Marketing F..."
+  },
+  "date":{
+    "0":"2013-09-29 00:00:00",
+    "1":"2013-09-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usaopp"
+  },
+  "actor2":{
+    "0":"alb",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "albania",
+      "alb",
+      "albania"
+    ],
+    "1":[
+      "edward snowden",
+      "usaopp",
+      "edward",
+      "snowden",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "albania"
+    ],
+    "1":[
+      "edward snowden",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "albania"
+    ],
+    "1":[
+      "edward snowden",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "introduces"
+    ],
+    "1":[
+      "kill"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "alb",
+      "040"
+    ],
+    "1":[
+      "usaopp",
+      "---bus",
+      "190"
+    ]
+  }
+}

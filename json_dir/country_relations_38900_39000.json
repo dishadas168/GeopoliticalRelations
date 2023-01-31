@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/erdogan-turks-bulgaria_us_58d3d464e4b0b22b0d1a5806",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/zoo-removes-rhino-horn_us_58d416ace4b0f838c6309bc6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/senate-online-privacy_us_58d40d48e4b0b22b0d1ae387"
+  },
+  "headline":{
+    "0":"Erdogan Says Bulgaria's Pressure On Turks 'Unacceptable'",
+    "1":"Czech Zoo Saws Off Rhinos' Horns To Protect Them From Poachers",
+    "2":"U.S. Senate Votes To Overturn Obama Broadband Privacy Rules"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"It seriously upsets us to see and hear that pressure is being exerted there.\u201d",
+    "1":"The decision comes weeks after poachers broke into a French zoo and slaughtered a rhino for its horn.",
+    "2":"McConnell claims the bill overturns regulation that \u201cmakes the internet an uneven playing field.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Nina Golgowski",
+    "2":""
+  },
+  "date":{
+    "0":"2017-03-23 00:00:00",
+    "1":"2017-03-23 00:00:00",
+    "2":"2017-03-23 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"cze",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"bgr",
+    "1":"cze",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"074",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "bulgaria",
+      "bgr",
+      "bulgaria"
+    ],
+    "1":[
+      "czech",
+      "cze",
+      "czech",
+      "republic"
+    ],
+    "2":[
+      "u.s.",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "erdogan",
+      "bulgaria"
+    ],
+    "1":[
+      "czech",
+      "czech"
+    ],
+    "2":[
+      "u.s.",
+      "senate",
+      "senate",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "recep tayyip erdogan",
+      "bulgaria"
+    ],
+    "1":[
+      "czech republic",
+      "czech republic"
+    ],
+    "2":[
+      "united states of america",
+      "united states congress",
+      "united states congress",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "horns ... protect"
+    ],
+    "2":[
+      "votes",
+      "votes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "bgr",
+      "010"
+    ],
+    "1":[
+      "cze",
+      "cze",
+      "074"
+    ],
+    "2":[
+      "usa",
+      "usagov",
+      "030",
+      "usagovleg",
+      "usagov",
+      "030"
+    ]
+  }
+}

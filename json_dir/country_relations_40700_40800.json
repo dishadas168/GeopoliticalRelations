@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jeff-sessions-russia-timeline_us_58b876c7e4b0a8ded67b6474",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/black-transgender-women-killed_us_58b857b8e4b02a4e8ddb1657",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/american-hero-tom-hanks-gives-white-house-press-corps-a-coffee-machine_us_58b8629ce4b0a8ded67b3a88"
+  },
+  "headline":{
+    "0":"Jeff Sessions Met With Ambassador As U.S.-Russia Tensions Flared",
+    "1":"In One Month, 3 Black Transgender Women Were Killed In Louisiana",
+    "2":"American Hero Tom Hanks Gives White House Press Corps A Coffee Machine"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The private talk came as Trump fawned over Putin and just after Obama gave the Russian leader his \"death stare\" over hacking.",
+    "1":"At least seven transgender women of color have been killed in the U.S. so far this year.",
+    "2":"It came with a note that read, \"Keep up the good fight for Truth, Justice, and the American Way. Especially the Truth part.\u201d"
+  },
+  "authors":{
+    "0":"Nick Wing",
+    "1":"Sebastian Murdock",
+    "2":"Jenna Amatulli"
+  },
+  "date":{
+    "0":"2017-03-02 00:00:00",
+    "1":"2017-03-02 00:00:00",
+    "2":"2017-03-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"---cvl",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"190",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-10.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "russian"
+    ],
+    "1":[
+      "u.s.",
+      "women"
+    ],
+    "2":[
+      "american",
+      "white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "russian federation"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave"
+    ],
+    "1":[
+      "<~cvl> ... killed in <usa>"
+    ],
+    "2":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":[
+      "cyber_security",
+      "1"
+    ],
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "rus",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "usagov",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/sri-lanka-raid-bombing-house-15-bodies_n_5cc3d454e4b0fd8e35bc7c31",
+    "1":"https:\/\/www.huffpost.com\/entry\/george-zimmerman-banned-from-tinder_n_5cbc9eb0e4b06605e3efea7d",
+    "2":"https:\/\/www.huffpost.com\/entry\/new-mexico-border-militia-border_n_5cba764ee4b032e7ceb869d9",
+    "3":"https:\/\/www.huffpost.com\/entry\/bangladesh-teen-burned-sexual-harassment-charges_n_5cba1f70e4b032e7ceb81ebf",
+    "4":"https:\/\/www.huffpost.com\/entry\/us-court-upholds-most-of-californias-sanctuary-migrant-laws_n_5cb93939e4b06605e3ed17fd",
+    "5":"https:\/\/www.huffpost.com\/entry\/united-constitutional-patriots-detain-migrants_n_5cb9664ee4b06605e3ed3778",
+    "6":"https:\/\/www.huffpost.com\/entry\/texas-storms-kill-two-tornado_n_5cb27e27e4b082aab08695e3",
+    "7":"https:\/\/www.huffpost.com\/entry\/cassowary-florida-worlds-dangerous-bird-attack_n_5cb30bdfe4b082aab086ecc5",
+    "8":"https:\/\/www.huffpost.com\/entry\/morehouse-college-admit-transgender-men_n_5cb270f0e4b082aab08691cb",
+    "9":"https:\/\/www.huffpost.com\/entry\/mike-pence-trump-amily-separation-border_n_5cb058bfe4b098b9a2d1d59e",
+    "10":"https:\/\/www.huffpost.com\/entry\/purdue-pharma-oxycontin-physician-to-testify_n_5cade0fee4b01bf9600888d9",
+    "11":"https:\/\/www.huffpost.com\/entry\/kimberley-sue-endecott-rescued-uganda_n_5caa2abde4b047edf95be029"
+  },
+  "headline":{
+    "0":"Sri Lanka Troops Raid Militants Linked To Bombings, Find 15 Bodies In House",
+    "1":"Tinder Bans George Zimmerman From Dating App, Citing User Safety",
+    "2":"New Mexico Governor Demands Right-Wing Militia Stop Illegally Holding Migrants",
+    "3":"Teen Who Refused To Drop Sexual Harassment Charges Burned To Death",
+    "4":"U.S. Court Upholds Most Of California's 'Sanctuary' Migrant Laws",
+    "5":"ACLU Condemns 'Vigilantes' Who Are Allegedly Detaining Migrants On The Border",
+    "6":"2 Children Dead, Several People Hurt In Strong Texas Storms",
+    "7":"\u2018World\u2019s Most Dangerous Bird\u2019 Kills 75-Year-Old Owner In Florida",
+    "8":"Morehouse College To Begin Taking Transgender Men Next Year",
+    "9":"Mike Pence Says Trump Isn't Bringing Back Family Separation At Border",
+    "10":"Physician Ally Of Purdue Pharma Agrees To Testify Against OxyContin Maker",
+    "11":"American Tourist Rescued After Being Kidnapped During Safari In Uganda"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"U.S. NEWS",
+    "2":"U.S. NEWS",
+    "3":"WORLD NEWS",
+    "4":"U.S. NEWS",
+    "5":"U.S. NEWS",
+    "6":"ENVIRONMENT",
+    "7":"U.S. NEWS",
+    "8":"EDUCATION",
+    "9":"U.S. NEWS",
+    "10":"U.S. NEWS",
+    "11":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"Authorities said the militants detonated three explosives and opened fire during the raid.",
+    "1":"A spokesperson confirmed that the app removed the man known for killing unarmed teenager Trayvon Martin.",
+    "2":"Armed vigilantes in camouflage rounded up about 300 immigrants, many of them children, in a video posted by the United Constitutional Patriots.",
+    "3":"The Bangladeshi 18-year-old told police her school principal had repeatedly touched her inappropriately.",
+    "4":"The U.S. 9th Circuit Court of Appeals in San Francisco largely affirmed a July ruling from a lower court.",
+    "5":"The United Constitutional Patriots claim they're helping U.S. Border Patrol catch undocumented migrants. The ACLU calls the group kidnappers.",
+    "6":"The storms are part of a large system moving through the southern United States, knocking out power to thousands and causing some flash flooding.",
+    "7":"Cassowaries are large, flightless birds with \"dagger-like\" claws. Authorities say one fatally attacked a man last week.",
+    "8":"Students who transition from male to female, however, will not be automatically eligible to receive a degree from the institution.",
+    "9":"Despite reports to the contrary, the vice president told CNN \"we're not considering going back\" to the controversial policy.",
+    "10":"Dr. Russell Portenoy, an early advocate for the use of opioids to treat chronic pain, struck a deal with plaintiffs' lawyers, court records show.",
+    "11":"Kimberley Sue Endecott, 35, was abducted by gunmen in Queen Elizabeth National Park on April 4."
+  },
+  "authors":{
+    "0":"Emily Schmall, Jon Gambrell and Bharatha Mallawarachi, AP",
+    "1":"Amy Russo",
+    "2":"Mary Papenfuss",
+    "3":"JULHAS ALAM, AP",
+    "4":"",
+    "5":"Andrew Hay, Reuters",
+    "6":"",
+    "7":"Dominique Mosbergen",
+    "8":"Errin Haines Whack, AP",
+    "9":"Liza Hearon",
+    "10":"Lisa Girion and Maria Caspani, Reuters",
+    "11":"Elias Biryabarema, Reuters"
+  },
+  "date":{
+    "0":"2019-04-27 00:00:00",
+    "1":"2019-04-21 00:00:00",
+    "2":"2019-04-20 00:00:00",
+    "3":"2019-04-19 00:00:00",
+    "4":"2019-04-19 00:00:00",
+    "5":"2019-04-19 00:00:00",
+    "6":"2019-04-14 00:00:00",
+    "7":"2019-04-14 00:00:00",
+    "8":"2019-04-13 00:00:00",
+    "9":"2019-04-12 00:00:00",
+    "10":"2019-04-10 00:00:00",
+    "11":"2019-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---med",
+    "2":"usagov",
+    "3":"bgd",
+    "4":"usajud",
+    "5":"---crm",
+    "6":"---ppl",
+    "7":"---gov",
+    "8":"---edu",
+    "9":"---gov",
+    "10":"---jud",
+    "11":"'mamohato_uaf"
+  },
+  "actor2":{
+    "0":"---uaf",
+    "1":"---ppl",
+    "2":"---uafcvl",
+    "3":"---cop",
+    "4":"---jud",
+    "5":"ngousahri",
+    "6":"usa",
+    "7":"---ppl",
+    "8":"---ppl",
+    "9":"med",
+    "10":"---jud",
+    "11":"zaf"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"174",
+    "2":"100",
+    "3":"010",
+    "4":"051",
+    "5":"041",
+    "6":"180",
+    "7":"015",
+    "8":"171",
+    "9":"010",
+    "10":"057",
+    "11":"181"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":-5.0,
+    "3":0.0,
+    "4":3.4,
+    "5":1.0,
+    "6":-9.0,
+    "7":0.0,
+    "8":-9.2,
+    "9":0.0,
+    "10":8.0,
+    "11":-9.0
+  },
+  "nouns":{
+    "0":[
+      "authorities",
+      "~gov",
+      "~",
+      "militants",
+      "~uaf",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "spokesperson",
+      "~med",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "new mexico",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "militia",
+      "migrants",
+      "~uafcvl",
+      "~",
+      "~"
+    ],
+    "3":[
+      "bangladeshi",
+      "bgd",
+      "bangladesh",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "san francisco",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "usajud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "5":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "kidnappers",
+      "~crm",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "7":[
+      "authorities",
+      "~gov",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "8":[
+      "college",
+      "~edu",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "9":[
+      "president",
+      "~gov",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "10":[
+      "advocate",
+      "~jud",
+      "~",
+      "lawyers",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "11":[
+      "kimberley",
+      "zaf",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "queen",
+      "'mamohato_",
+      "queen",
+      "gunmen",
+      "'mamohato_uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "authorities",
+      "militants"
+    ],
+    "1":[
+      "spokesperson",
+      "man"
+    ],
+    "2":[
+      "new mexico governor",
+      "militia ... migrants"
+    ],
+    "3":[
+      "bangladeshi",
+      "police"
+    ],
+    "4":[
+      "court",
+      "court"
+    ],
+    "5":[
+      "kidnappers",
+      "aclu",
+      "aclu",
+      "kidnappers"
+    ],
+    "6":[
+      "people",
+      "texas"
+    ],
+    "7":[
+      "authorities",
+      "man"
+    ],
+    "8":[
+      "college",
+      "men"
+    ],
+    "9":[
+      "president",
+      "cnn"
+    ],
+    "10":[
+      "advocate",
+      "advocate"
+    ],
+    "11":[
+      "gunmen",
+      "kimberley"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "bangladesh",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ],
+    "5":[
+      "---",
+      "american civil liberties union",
+      "american civil liberties union",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ],
+    "9":[
+      "---",
+      "cnn"
+    ],
+    "10":[
+      "---",
+      "---"
+    ],
+    "11":[
+      "",
+      "republic of south africa"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... said"
+    ],
+    "1":[
+      "confirmed ... removed"
+    ],
+    "2":[
+      "demands"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "affirmed"
+    ],
+    "5":[
+      "calls",
+      "calls"
+    ],
+    "6":[
+      "hurt"
+    ],
+    "7":[
+      "say ... attacked"
+    ],
+    "8":[
+      "to ... taking"
+    ],
+    "9":[
+      "told"
+    ],
+    "10":[
+      "struck ... deal"
+    ],
+    "11":[
+      "<zaf> ... gunmen <abducted>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1",
+      "schools",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":[
+      "postsecondary_education",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "9":null,
+    "10":null,
+    "11":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---uaf",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "---ppl",
+      "174"
+    ],
+    "2":[
+      "usagov",
+      "---uafcvl",
+      "100"
+    ],
+    "3":[
+      "bgd",
+      "---cop",
+      "010"
+    ],
+    "4":[
+      "usajud",
+      "---jud",
+      "051"
+    ],
+    "5":[
+      "---crm",
+      "ngousahri",
+      "041",
+      "ngousahri",
+      "---crm",
+      "041"
+    ],
+    "6":[
+      "---ppl",
+      "usa",
+      "180"
+    ],
+    "7":[
+      "---gov",
+      "---ppl",
+      "015"
+    ],
+    "8":[
+      "---edu",
+      "---ppl",
+      "171"
+    ],
+    "9":[
+      "---gov",
+      "med",
+      "010"
+    ],
+    "10":[
+      "---jud",
+      "---jud",
+      "057"
+    ],
+    "11":[
+      "'mamohato_uaf",
+      "zaf",
+      "181"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/intersex-babies_us_5b9c2843e4b03a1dcc7cb4e2"
+  },
+  "headline":{
+    "0":"If Your Baby Girl Might Be Born With A Small Penis"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Doctors have prescribed dexamethasone since the 1980s to pregnant women whose kids are at risk of the condition congenital"
+  },
+  "authors":{
+    "0":"Jessica Samakow"
+  },
+  "date":{
+    "0":"2012-08-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "doctors",
+      "~hlh",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctors",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have prescribed ... to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---cvl",
+      "042"
+    ]
+  }
+}

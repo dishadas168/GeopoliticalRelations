@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-pledges-100-million-for-girls-education-in-morocco_us_5772c822e4b0eb90355c8731",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-oliver-trump-brexit_us_5770cbdbe4b0f1683239f2db",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/brexit-uk-economy_us_5770d28ce4b017b379f6593f"
+  },
+  "headline":{
+    "0":"Michelle Obama Pledges $100 Million For Girls' Education In Morocco",
+    "1":"John Oliver Says Brexit Vote Is A Warning For U.S. Trump Supporters: 'There Are No F**king Do-Overs'",
+    "2":"British Finance Minister: Brexit Vote Will Likely Lead To More Volatility, But Economy Is Strong"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"COMEDY",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\"I am sitting here now as the U.S. first lady, talking to you, because of my education.\"",
+    "1":"Could the chaos in Britain come to the United States next?",
+    "2":"During the campaign George Osborne said he would have to raise taxes and cut spending in the event of a vote to leave the EU."
+  },
+  "authors":{
+    "0":"Aziz El Yaakoubi, Reuters",
+    "1":"Ed Mazza",
+    "2":""
+  },
+  "date":{
+    "0":"2016-06-28 00:00:00",
+    "1":"2016-06-27 00:00:00",
+    "2":"2016-06-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"gbr",
+    "2":"gbrgov"
+  },
+  "actor2":{
+    "0":"marcvl",
+    "1":"usa",
+    "2":"igoeureec"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "girls",
+      "morocco",
+      "marcvl",
+      "~",
+      "morocco"
+    ],
+    "1":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "george osborne",
+      "gbrgov",
+      "george",
+      "osborne",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "girls ... morocco"
+    ],
+    "1":[
+      "britain",
+      "the ... united states"
+    ],
+    "2":[
+      "george osborne",
+      "the ... eu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "morocco"
+    ],
+    "1":[
+      "united kingdom",
+      "united states of america"
+    ],
+    "2":[
+      "george osborne",
+      "the european union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pledges"
+    ],
+    "1":[
+      "come to"
+    ],
+    "2":[
+      "said ... would ... leave"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "marcvl",
+      "030"
+    ],
+    "1":[
+      "gbr",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "gbrgov",
+      "igoeureec",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jim-condos-voter-fraud-panel_us_5970c321e4b0aa14ea781915",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-iran-new-sanctions-compliance-nuclear-deal_us_596f5638e4b00db3d0f48afd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/alec-chooses-to-omit-us-ed-sec-betsy-devos-from-its_us_596eed3fe4b05561da5a5be0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/poll-shows-only-29-of-trump-supporters-would-stop_us_596f7a14e4b0bb3867496f20",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/why-did-french-queer-activists-unveil-a-banner-against_us_596f8257e4b0cb7be67b5ad9",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/mosul-isis_us_596cd871e4b0d6341feace2d"
+  },
+  "headline":{
+    "0":"Vermont Secretary Of State Tells Trump Voter Fraud Panel It Can Best Help Voters By Folding",
+    "1":"Trump Slaps New Sanctions On Iran After Certifying Its Compliance With Nuclear Deal",
+    "2":"ALEC Chooses To Omit Betsy DeVos From Its 2017 Conference Speakers List",
+    "3":"Poll Shows Only 29% Of Trump Voters Would Stop Supporting Him If He Shot Someone",
+    "4":"Here's Why French Queer Activists Hung A Banner Against French President Macron",
+    "5":"Mosul Must Provide For Its Citizens Or ISIS Will Fill The Void Once Again"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"EDUCATION",
+    "3":"POLITICS",
+    "4":"QUEER VOICES",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"He said information the committee was seeking would be \"useless.\"",
+    "1":"The U.S. said Iran's ballistic missile program and Tehran\u2019s \u201cmalign activities\u201d in the Middle East undercut any \u201cpositive contributions\u201d from the 2015 deal.",
+    "2":"The American Legislative Exchange Council (ALEC) is holding its 44th Annual Meeting in Denver, Colorado, from July 19-21",
+    "3":"And nearly everyone hates Mitch McConnell.",
+    "4":"How easy it seemed for our president to criticize his neighbor\u2019s garden publicly in order to divert the gaze from his own.",
+    "5":"In order to regain the trust of its citizens, the Iraqi government must urgently rebuild Mosul."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Mohammad Zargham and Steve Holland, Reuters",
+    "2":"Mercedes Schneider, ContributorPublic school teacher, education activist, PhD",
+    "3":"Jesse Mechanic, ContributorWriter. Founding Editor of TheOvergrown.com",
+    "4":"Cy Lecerf Maulpoix, ContributorJournalist, activist, writer",
+    "5":"Rami Khouri, ContributorSenior fellow and adjunct professor, American University of Be..."
+  },
+  "date":{
+    "0":"2017-07-20 00:00:00",
+    "1":"2017-07-19 00:00:00",
+    "2":"2017-07-19 00:00:00",
+    "3":"2017-07-19 00:00:00",
+    "4":"2017-07-19 00:00:00",
+    "5":"2017-07-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"fraopp",
+    "5":"irq"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"irn",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"fragov",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"010",
+    "2":"046",
+    "3":"050",
+    "4":"190",
+    "5":"060"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":7.0,
+    "3":3.5,
+    "4":-10.0,
+    "5":6.0
+  },
+  "nouns":{
+    "0":[
+      "vermont",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iran",
+      "irn",
+      "iran",
+      "tehran",
+      "irn",
+      "iran"
+    ],
+    "2":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "denver",
+      "colorado",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "french",
+      "activists",
+      "fraopp",
+      "france",
+      "~",
+      "french",
+      "president",
+      "fragov",
+      "france",
+      "~"
+    ],
+    "5":[
+      "mosul",
+      "irq",
+      "iraq",
+      "citizens",
+      "~cvl",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vermont",
+      "voters"
+    ],
+    "1":[
+      "u.s.",
+      "iran"
+    ],
+    "2":[
+      "american",
+      "american"
+    ],
+    "3":[
+      "voters",
+      "voters"
+    ],
+    "4":[
+      "french ... activists",
+      "french ... president"
+    ],
+    "5":[
+      "mosul",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "iran"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "france",
+      "france"
+    ],
+    "5":[
+      "iraq",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... help"
+    ],
+    "1":[
+      "said"
+    ],
+    "2":[
+      "is ... holding ... meeting"
+    ],
+    "3":[
+      "would ... supporting"
+    ],
+    "4":[
+      "hung"
+    ],
+    "5":[
+      "must provide"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "2"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "election",
+      "1"
+    ],
+    "4":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "usa",
+      "irn",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "046",
+      "usa",
+      "usa",
+      "046"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ],
+    "4":[
+      "fraopp",
+      "fragov",
+      "190"
+    ],
+    "5":[
+      "irq",
+      "---cvl",
+      "060"
+    ]
+  }
+}

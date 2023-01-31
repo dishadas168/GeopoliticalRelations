@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/artsbeat.blogs.nytimes.com\/2013\/01\/18\/robert-indiana-wins-suit-over-hindi-love-sculptures\/"
+  },
+  "headline":{
+    "0":"Robert Indiana Wins Suit Over Hindi 'Love' Sculptures"
+  },
+  "category":{
+    "0":"CULTURE & ARTS"
+  },
+  "short_description":{
+    "0":"A federal judge has ruled in favor of the artist Robert Indiana, best known for his \"LOVE\" sculpture featuring a tilted letter"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-01-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "federal judge",
+      "~jud",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "federal judge",
+      "indiana"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ruled"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "060"
+    ]
+  }
+}

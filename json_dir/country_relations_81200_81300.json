@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ellen-pao-sexism-in-tech_us_564203c5e4b0307f2caee758",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fraternity-files-25m-defamation-suit-against-rolling-stone_us_5640fb8ce4b0307f2cae72b5"
+  },
+  "headline":{
+    "0":"Ellen Pao Won't Stop Talking About Sexism In Tech. And Neither Should You.",
+    "1":"Fraternity Files $25M Defamation Suit Against Rolling Stone"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"\u201cYou are not alone. There are millions of women and men who are supporting you and want you to succeed.\"",
+    "1":"The Phi Kappa Psi chapter at the University of Virginia filed the complaint Monday in Charlottesville Circuit Court"
+  },
+  "authors":{
+    "0":"Emily Peck",
+    "1":"Larry O'Dell, AP"
+  },
+  "date":{
+    "0":"2015-11-10 00:00:00",
+    "1":"2015-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usaedu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---jud"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"114"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "men",
+      "~cvl",
+      "~",
+      "~",
+      "women",
+      "men",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women ... men",
+      "women ... men",
+      "women ... men",
+      "women ... men"
+    ],
+    "1":[
+      "university",
+      "court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... supporting",
+      "are ... want"
+    ],
+    "1":[
+      "filed ... complaint"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "050",
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "usaedu",
+      "---jud",
+      "114"
+    ]
+  }
+}

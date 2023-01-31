@@ -1,0 +1,212 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-cleveland-cavs-white-house_us_5824cdf4e4b034e3899090fe",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-american-psycho_us_58244adae4b0aac6248934e1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mcconnell-trump-obama-undo_us_58237121e4b0e80b02ce7ab7",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/catherine-cortez-masto-joe-heck_us_581a287fe4b01a82df6433fc"
+  },
+  "headline":{
+    "0":"Obama Welcomes Cleveland Cavs And J.R. Smith's Shirt To White House",
+    "1":"French Newspaper Calls Donald Trump 'American Psycho'",
+    "2":"McConnell: Trump Can Unravel Nearly Everything Obama Did",
+    "3":"The First Latina Senator Ever Is Coming To Washington"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Cavs guard got special recognition for keeping his clothes on.",
+    "1":"Trump was a hero of the novel's protagonist.",
+    "2":"The Senate majority leader wants the president-elect to start undoing President Barack Obama\u2019s actions on health, safety and climate on \u201cday one.\u201d",
+    "3":"The race between Joe Heck and Catherine Cortez Masto came down to the wire."
+  },
+  "authors":{
+    "0":"Michael McLaughlin",
+    "1":"Willa Frej",
+    "2":"Michael McAuliff",
+    "3":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2016-11-10 00:00:00",
+    "1":"2016-11-10 00:00:00",
+    "2":"2016-11-09 00:00:00",
+    "3":"2016-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"usagovleg",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"framed",
+    "2":"---gov",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"041",
+    "2":"030",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":1.0,
+    "2":4.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "cleveland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "french",
+      "newspaper",
+      "framed",
+      "france",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "president",
+      "~gov",
+      "~",
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cleveland",
+      "obama",
+      "obama",
+      "cleveland"
+    ],
+    "1":[
+      "american",
+      "french newspaper",
+      "french newspaper",
+      "american"
+    ],
+    "2":[
+      "senate",
+      "president"
+    ],
+    "3":[
+      "senator",
+      "washington"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "barack obama",
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "france",
+      "france",
+      "united states of america"
+    ],
+    "2":[
+      "united states congress",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "welcomes ... to",
+      "welcomes ... to"
+    ],
+    "1":[
+      "calls",
+      "calls"
+    ],
+    "2":[
+      "wants"
+    ],
+    "3":[
+      "is coming to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagov",
+      "042",
+      "usagov",
+      "usa",
+      "043"
+    ],
+    "1":[
+      "usa",
+      "framed",
+      "041",
+      "framed",
+      "usa",
+      "041"
+    ],
+    "2":[
+      "usagovleg",
+      "---gov",
+      "030"
+    ],
+    "3":[
+      "---leg",
+      "usa",
+      "040"
+    ]
+  }
+}

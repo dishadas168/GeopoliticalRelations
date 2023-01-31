@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kayla-jean-mueller-dead-isis_n_6630996.html"
+  },
+  "headline":{
+    "0":"ISIS Claims Female American Hostage Was Killed In Jordanian Airstrike"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-02-06 00:00:00"
+  },
+  "actor1":{
+    "0":"jor"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "jordanian",
+      "jor",
+      "jordan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jordanian",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jordan",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usa> ... killed in jor"
+    ]
+  },
+  "issues":{
+    "0":[
+      "airstrike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "jor",
+      "usa",
+      "190"
+    ]
+  }
+}

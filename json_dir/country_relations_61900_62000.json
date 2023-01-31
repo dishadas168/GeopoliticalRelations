@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/somalis-refugees-kenya_us_5773eb36e4b0352fed3e947f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-the-us-could-learn-from-cuba-about-ending-zika_us_5773dca6e4b0352fed3e861d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-lawyer-says-clinton-murdered-ambassador_us_5772bf84e4b0eb90355c7c19"
+  },
+  "headline":{
+    "0":"Somali Refugees In Kenya Struggle In Shadow Of Forced Return",
+    "1":"What The U.S. Could Learn From Cuba About Ending Zika",
+    "2":"Trump Lawyer Shares Image Of Hillary Saying She 'Murdered An Ambassador'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Kenya\u2019s November deadline to shut down camps and repatriate Somali refugees leaves a community living in dangerous limbo",
+    "1":"The island nation has also nearly eliminated dengue fever.",
+    "2":"Not very presidential."
+  },
+  "authors":{
+    "0":"Angela Wells, Refugees Deeply",
+    "1":"Marc Frank, Reuters",
+    "2":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2016-06-29 00:00:00",
+    "1":"2016-06-29 00:00:00",
+    "2":"2016-06-28 00:00:00"
+  },
+  "actor1":{
+    "0":"ken",
+    "1":"usa",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"cub",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "kenya",
+      "ken",
+      "kenya",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cuba",
+      "cub",
+      "cuba"
+    ],
+    "2":[
+      "lawyer",
+      "~jud",
+      "~",
+      "ambassador",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kenya",
+      "community"
+    ],
+    "1":[
+      "u.s.",
+      "cuba"
+    ],
+    "2":[
+      "lawyer",
+      "ambassador"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "kenya",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "cuba"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leaves"
+    ],
+    "1":[
+      "could learn"
+    ],
+    "2":[
+      "shares ... saying"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "ken",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "cub",
+      "040"
+    ],
+    "2":[
+      "---jud",
+      "---gov",
+      "010"
+    ]
+  }
+}

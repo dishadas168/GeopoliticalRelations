@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/service-learning-to-devel_us_5bb1b92ee4b01857b70af254",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/eyes-wide-open-an-afghan_us_5bb26915e4b0171db6a04a2d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/teddys-law-homeschool_us_5b9dbb45e4b03a1dcc8c25bc",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/queen-rania-instagram_us_5b9dbb85e4b03a1dcc8c2c2d"
+  },
+  "headline":{
+    "0":"Service Learning to Develop Leaders Against Hunger",
+    "1":"'Eyes Wide Open, an Afghan Journey': Photos by Pia Torelli",
+    "2":"With 'Teddy's Law,' Ohio Lawmakers Look To Crack Down On Home Schooling (UPDATE)",
+    "3":"Queen Rania Of Jordan Has An Instagram Account -- How Cool Is That?"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"CULTURE & ARTS",
+    "2":"PARENTING",
+    "3":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"An aspiring teacher can learn how to make hunger issues a part of their lessons plans. A business major can see how they might start or help a non-profit organization through their career.",
+    "1":"\"My pictures show great devastation, but also many cheerful faces, especially those of children at schools. The reconstruction of many schools, above all, seems to give hope to the Afghan people.\"",
+    "2":"Zaryl Bush, the boyfriend of Teddy\u2019s mother, is currently serving 33 years to life in prison for murdering the teen. Teddy\u2019s",
+    "3":"If only she would Insta all of her outfits... In her bio, the stylish queen describes herself as \"A mum and a wife with a"
+  },
+  "authors":{
+    "0":"William Lambers, Contributor\nAuthor, journalist,and historian. Partnered with UN World Food...",
+    "1":"E. Nina Rothe, Contributor\nCultural Activist",
+    "2":"Rebecca Klein",
+    "3":"Rebecca Adams"
+  },
+  "date":{
+    "0":"2013-12-21 00:00:00",
+    "1":"2013-12-21 00:00:00",
+    "2":"2013-12-20 00:00:00",
+    "3":"2013-12-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"'mamohato_"
+  },
+  "actor2":{
+    "0":"meareb",
+    "1":"afgppl",
+    "2":"---cop",
+    "3":"'mamohato_"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"060",
+    "2":"060",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":6.0,
+    "2":6.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "business",
+      "~bus",
+      "~",
+      "organization",
+      "meareb",
+      "tanzim"
+    ],
+    "1":[
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "afghan",
+      "people",
+      "afgppl",
+      "afghanistan",
+      "~"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "queen",
+      "'mamohato_",
+      "queen"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "business",
+      "organization"
+    ],
+    "1":[
+      "schools",
+      "afghan people"
+    ],
+    "2":[
+      "mother",
+      "prison"
+    ],
+    "3":[
+      "queen",
+      "queen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "tanzim"
+    ],
+    "1":[
+      "---",
+      "afghanistan"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "queen",
+      "queen"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can see ... might ... help"
+    ],
+    "1":[
+      "seems ... give"
+    ],
+    "2":[
+      "is ... serving"
+    ],
+    "3":[
+      "describes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "civil_society",
+      "1"
+    ],
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "meareb",
+      "070"
+    ],
+    "1":[
+      "---edu",
+      "afgppl",
+      "060"
+    ],
+    "2":[
+      "---cvl",
+      "---cop",
+      "060"
+    ],
+    "3":[
+      "'mamohato_",
+      "'mamohato_",
+      "010"
+    ]
+  }
+}

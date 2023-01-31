@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-sued-over-ice_us_5725fdeee4b0b49df6ab8f75",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/defeating-terrorism-requi_b_9817838.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/protesters-storm-iraq-parliament_us_5724abd5e4b0f309baf102f0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/alex-beinstein-saudi-arabia-congress_us_572257f3e4b01a5ebde4f58e"
+  },
+  "headline":{
+    "0":"Woman Files $5 Million Lawsuit Against Starbucks For Putting Too Much Ice In Her Drinks",
+    "1":"Defeating Terrorism Requires Prioritizing Development",
+    "2":"Hundreds Of Protesters Storm Baghdad's Green Zone, Enter Parliament",
+    "3":"This 28-Year-Old Is Running For Congress To Try To Destroy U.S.-Saudi Relations"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Stacy Pincus accuses the coffee chain of fraud, negligent misrepresentation and unjust enrichment.",
+    "1":"United States' piecemeal counterterrorism strategy is failing because it prioritizes surveillance and killing individual terrorists over addressing the fundamental social and economic issues that empower and sustain terrorist groups.",
+    "2":"Supporters of a prominent Shi'ite cleric are demanding government reform.",
+    "3":"Barack Obama, Paul Ryan and others are protecting the kingdom for their own financial gain, Republican hopeful Alex Beinstein alleges."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Young Professionals in Foreign Policy, ContributorYPFP Fellowship Program",
+    "2":"",
+    "3":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2016-05-01 00:00:00",
+    "1":"2016-05-01 00:00:00",
+    "2":"2016-04-30 00:00:00",
+    "3":"2016-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---rel",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---uaf",
+    "2":"---gov",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"115",
+    "1":"190",
+    "2":"100",
+    "3":"074"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-10.0,
+    "2":-5.0,
+    "3":8.5
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "starbucks",
+      "mncusa",
+      "starbucks"
+    ],
+    "1":[
+      "united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "cleric",
+      "~rel",
+      "~",
+      "cleric",
+      "~rel",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "kingdom",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "starbucks"
+    ],
+    "1":[
+      "united states",
+      "terrorists"
+    ],
+    "2":[
+      "cleric",
+      "government"
+    ],
+    "3":[
+      "barack obama",
+      "kingdom"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "starbucks"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "files ... lawsuit"
+    ],
+    "1":[
+      "is ... killing"
+    ],
+    "2":[
+      "are demanding"
+    ],
+    "3":[
+      "are protecting"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "terror",
+      "2"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "mncusa",
+      "115"
+    ],
+    "1":[
+      "usa",
+      "---uaf",
+      "190"
+    ],
+    "2":[
+      "---rel",
+      "---gov",
+      "100"
+    ],
+    "3":[
+      "usagov",
+      "---gov",
+      "074"
+    ]
+  }
+}

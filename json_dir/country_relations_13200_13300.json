@@ -1,0 +1,514 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dreamers-daca-jose-gil-court-order_us_5a95df55e4b0e6a523024862",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/norway-semi-automatic-weapon-ban_us_5a9652cee4b0e6a523029513",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-yemen-bernie-sanders-mike-lee_us_5a9719d0e4b07dffeb6f564b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/san-francisco-ice-protest_us_5a96ea3be4b09c872bb0b685",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/parkland-shooter-swastikas_us_5a96a5c4e4b09c872bafe4af",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/yougov-poll-arming-teachers_us_5a95acb5e4b09c872bae71f3",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/congressman-giving-guns-to-teachers_us_5a949448e4b02cb368c4e246",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/gop-education-bill-would-make-college-even-less-affordable_us_5a95b563e4b03afbcf9031a2",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-immigrants-rights-deportation_us_5a95a008e4b036ab0142fda8",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/hollywood-georgia-lgbtq-law-boycott_us_5a9492aee4b02cb368c4e0c4",
+    "10":"https:\/\/www.huffingtonpost.com\/entry\/the-first-openly-transgender-recruit-just-joined-the-us-military_us_5a956072e4b0699553cc7188",
+    "11":"https:\/\/www.huffingtonpost.com\/entry\/jim-justice-striking-teachers_us_5a947fb7e4b01f65f59953bb"
+  },
+  "headline":{
+    "0":"Court Orders Trump To Stop Revoking Dreamers' Protections Without Notice",
+    "1":"Norway Ready To Ban Semi-Automatic Weapons Starting In 2021, Says Lawmaker",
+    "2":"Bernie Sanders And Mike Lee Want A Fight With The Saudis. Trump\u2019s Working To Stop Them.",
+    "3":"Protesters Descend On ICE San Francisco Headquarters After Immigration Raids",
+    "4":"Parkland Shooter's Rifle Magazines Were Etched With Swastikas: Reports",
+    "5":"Republicans And White People Want To Arm Teachers. Everyone Else? Not As Much.",
+    "6":"South Carolina State Rep Is Giving Away Guns To Teachers",
+    "7":"GOP Education Bill Would Make College Even Less Affordable For Many, Experts Say",
+    "8":"Supreme Court Curbs Rights Of Immigrants Awaiting Deportation",
+    "9":"Hollywood Stars, Producers Call For Georgia Boycott If Anti-LGBTQ Law Passes",
+    "10":"First Openly Transgender Recruit Joins U.S. Military In Wake Of Trump's Ban",
+    "11":"West Virginia Governor Tells Striking Teachers To Get Back In The Classroom"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"CRIME",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS",
+    "8":"POLITICS",
+    "9":"QUEER VOICES",
+    "10":"QUEER VOICES",
+    "11":"POLITICS"
+  },
+  "short_description":{
+    "0":"The government must give undocumented young people an explanation and time to respond before stripping their relief.",
+    "1":"The law would go into effect about a decade after the 2011 mass shooting on Utoya island. Norway hasn't had another mass shooting since then.",
+    "2":"The senators are trying to force an up-or-down vote on U.S. support for a brutal Saudi-led coalition in Yemen.",
+    "3":"More than 150 undocumented immigrants have been arrested in Northern California since Sunday.",
+    "4":"The accused gunman left a rifle and 180 rounds of ammunition in the school, officials said.",
+    "5":"Yet they're also more likely to say that U.S. schools are safe.",
+    "6":"The GOP lawmaker launched a fundraiser to buy two handguns for educators.",
+    "7":"By Delece Smith-Barrow, The Hechinger Report WASHINGTON \u2014 A bill proposed by Republicans in the House of Representatives",
+    "8":"The Supreme Court curbed the ability of immigrants held in long-term detention during deportation proceedings to argue for their release.",
+    "9":"The bill could allow adoption agencies to reject same-sex couples.",
+    "10":"President Trump is still reportedly debating his 2017 plan to ban transgender military personnel.",
+    "11":"But teachers say the strike continues."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Dominique Mosbergen",
+    "2":"Akbar Shahid Ahmed",
+    "3":"Antonia Blumberg",
+    "4":"Hayley Miller",
+    "5":"Rebecca Klein",
+    "6":"Rebecca Shapiro",
+    "7":"The Hechinger Report, Editorial Partner",
+    "8":"Lawrence Hurley, Reuters",
+    "9":"Curtis M. Wong",
+    "10":"Alanna Vagianos",
+    "11":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2018-02-28 00:00:00",
+    "1":"2018-02-28 00:00:00",
+    "2":"2018-02-28 00:00:00",
+    "3":"2018-02-28 00:00:00",
+    "4":"2018-02-28 00:00:00",
+    "5":"2018-02-28 00:00:00",
+    "6":"2018-02-27 00:00:00",
+    "7":"2018-02-27 00:00:00",
+    "8":"2018-02-27 00:00:00",
+    "9":"2018-02-27 00:00:00",
+    "10":"2018-02-27 00:00:00",
+    "11":"2018-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"nor",
+    "2":"---leg",
+    "3":"usa",
+    "4":"---uaf",
+    "5":"---ppl",
+    "6":"---leg",
+    "7":"usa",
+    "8":"---jud",
+    "9":"---bus",
+    "10":"---gov",
+    "11":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---leg",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"---edu",
+    "5":"---edu",
+    "6":"---edu",
+    "7":"---leg",
+    "8":"---cvl",
+    "9":"geo",
+    "10":"---mil",
+    "11":"---edu"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010",
+    "2":"170",
+    "3":"173",
+    "4":"040",
+    "5":"030",
+    "6":"061",
+    "7":"020",
+    "8":"170",
+    "9":"020",
+    "10":"172",
+    "11":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":-7.0,
+    "3":-5.0,
+    "4":1.0,
+    "5":4.0,
+    "6":6.4,
+    "7":3.0,
+    "8":-7.0,
+    "9":3.0,
+    "10":-5.0,
+    "11":0.0
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "norway",
+      "nor",
+      "norway",
+      "lawmaker",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "senators",
+      "~leg",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "yemen",
+      "yem",
+      "yemen"
+    ],
+    "3":[
+      "immigrants",
+      "~cvl",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "gunman",
+      "~uaf",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "people",
+      "~ppl",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "6":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "educators",
+      "~edu",
+      "~",
+      "educators",
+      "~edu",
+      "~"
+    ],
+    "7":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "representatives",
+      "~leg",
+      "~",
+      "house of representatives",
+      "~leg",
+      "~"
+    ],
+    "8":[
+      "supreme court",
+      "~jud",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "9":[
+      "producers",
+      "~bus",
+      "~",
+      "georgia",
+      "geo",
+      "georgia"
+    ],
+    "10":[
+      "president",
+      "~gov",
+      "~",
+      "military personnel",
+      "~mil",
+      "~"
+    ],
+    "11":[
+      "west virginia",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "people"
+    ],
+    "1":[
+      "norway",
+      "lawmaker"
+    ],
+    "2":[
+      "senators",
+      "u.s.",
+      "senators",
+      "yemen"
+    ],
+    "3":[
+      "california",
+      "immigrants"
+    ],
+    "4":[
+      "gunman",
+      "school"
+    ],
+    "5":[
+      "people",
+      "teachers"
+    ],
+    "6":[
+      "lawmaker",
+      "educators"
+    ],
+    "7":[
+      "washington",
+      "representatives"
+    ],
+    "8":[
+      "supreme court",
+      "immigrants"
+    ],
+    "9":[
+      "producers",
+      "georgia"
+    ],
+    "10":[
+      "president",
+      "military personnel"
+    ],
+    "11":[
+      "west virginia governor",
+      "teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "norway",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america",
+      "---",
+      "yemen"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "united states of america",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ],
+    "9":[
+      "---",
+      "georgia"
+    ],
+    "10":[
+      "---",
+      "---"
+    ],
+    "11":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must give"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "are ... force",
+      "are ... force"
+    ],
+    "3":[
+      "<~cvl> ... arrested in <usa>"
+    ],
+    "4":[
+      "left"
+    ],
+    "5":[
+      "want"
+    ],
+    "6":[
+      "launched ... buy"
+    ],
+    "7":[
+      "proposed"
+    ],
+    "8":[
+      "curbed"
+    ],
+    "9":[
+      "call for"
+    ],
+    "10":[
+      "is ... debating ... plan ... ban"
+    ],
+    "11":[
+      "tells"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_immigration",
+      "1"
+    ],
+    "4":[
+      "schools",
+      "1"
+    ],
+    "5":[
+      "teachers",
+      "1"
+    ],
+    "6":[
+      "teachers",
+      "1"
+    ],
+    "7":null,
+    "8":[
+      "id_immigration",
+      "1"
+    ],
+    "9":null,
+    "10":[
+      "lgbt",
+      "1"
+    ],
+    "11":[
+      "labor_strike",
+      "1",
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "nor",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "usa",
+      "170",
+      "---leg",
+      "yem",
+      "170"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "173"
+    ],
+    "4":[
+      "---uaf",
+      "---edu",
+      "040"
+    ],
+    "5":[
+      "---ppl",
+      "---edu",
+      "030"
+    ],
+    "6":[
+      "---leg",
+      "---edu",
+      "061"
+    ],
+    "7":[
+      "usa",
+      "---leg",
+      "020"
+    ],
+    "8":[
+      "---jud",
+      "---cvl",
+      "170"
+    ],
+    "9":[
+      "---bus",
+      "geo",
+      "020"
+    ],
+    "10":[
+      "---gov",
+      "---mil",
+      "172"
+    ],
+    "11":[
+      "usagov",
+      "---edu",
+      "010"
+    ]
+  }
+}

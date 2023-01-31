@@ -1,0 +1,243 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/attack-on-swiss-train_us_57af4be9e4b007c36e4efc11",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/imam-shot-new-york_us_57af8bdae4b007c36e4f03a1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/yemen-airstrike-children-killed_us_57af2d84e4b069e7e505816a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-afghanistan-trump_us_57af33d8e4b007c36e4ef660",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/obama-trans-bathroom-policy_us_57adc58ee4b071840410d158"
+  },
+  "headline":{
+    "0":"Several Burned, Stabbed In Swiss Train Attack",
+    "1":"Imam And Friend Gunned Down After Prayer In New York City",
+    "2":"Airstrike On Yemen School Kills Several Children",
+    "3":"Trump Spokesperson Says Obama Invaded Afghanistan. He Didn't.",
+    "4":"Texas Pleads With Judge To Stop Obama Administration's Trans-Friendly Bathroom Policy"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police say a 27-year-old man injured six passengers, including a young child.",
+    "1":"Police said the lone gunman shot both men in the head.",
+    "2":"Aid group Doctors Without Borders says 21 people were injured in the attack.",
+    "3":"He was a state senator at the time.",
+    "4":"The policy added fuel to a national debate on transgender rights."
+  },
+  "authors":{
+    "0":"Brenna Hughes Neghaiwi, Reuters",
+    "1":"Andy Campbell and Sebastian Murdock",
+    "2":"",
+    "3":"Sam Stein",
+    "4":"Jon Herskovitz, Reuters"
+  },
+  "date":{
+    "0":"2016-08-13 00:00:00",
+    "1":"2016-08-13 00:00:00",
+    "2":"2016-08-13 00:00:00",
+    "3":"2016-08-13 00:00:00",
+    "4":"2016-08-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---cop",
+    "2":"ngohlh",
+    "3":"---med",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---uaf",
+    "2":"---ppl",
+    "3":"usagov",
+    "4":"---jud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"112",
+    "2":"015",
+    "3":"010",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":0.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "gunman",
+      "~uaf",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "aid group",
+      "doctors",
+      "ngohlh",
+      "aid",
+      "group",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "spokesperson",
+      "~med",
+      "~",
+      "obama",
+      "afghanistan",
+      "usagov",
+      "afg",
+      "barack",
+      "obama",
+      "afghanistan"
+    ],
+    "4":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "judge",
+      "~jud",
+      "~",
+      "obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man"
+    ],
+    "1":[
+      "police",
+      "gunman"
+    ],
+    "2":[
+      "aid group doctors",
+      "people"
+    ],
+    "3":[
+      "spokesperson",
+      "obama",
+      "spokesperson",
+      "afghanistan"
+    ],
+    "4":[
+      "texas",
+      "judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "aid group",
+      "---"
+    ],
+    "3":[
+      "---",
+      "barack obama",
+      "---",
+      "afghanistan"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say"
+    ],
+    "1":[
+      "said ... shot"
+    ],
+    "2":[
+      "says <~ppl> ... injured in ... attack"
+    ],
+    "3":[
+      "says",
+      "says"
+    ],
+    "4":[
+      "pleads"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---cop",
+      "---uaf",
+      "112"
+    ],
+    "2":[
+      "ngohlh",
+      "---ppl",
+      "015"
+    ],
+    "3":[
+      "---med",
+      "usagov",
+      "010",
+      "---med",
+      "afg",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "---jud",
+      "020"
+    ]
+  }
+}

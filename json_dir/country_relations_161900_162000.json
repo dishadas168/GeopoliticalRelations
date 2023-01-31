@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/no-guns-for-my-boy_us_5b9d1ec0e4b03a1dcc84a10c"
+  },
+  "headline":{
+    "0":"No Guns for My Boy"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Tabby Biddle, M.S. Ed., formerly an early childhood educator, currently leads programs in women's leadership development"
+  },
+  "authors":{
+    "0":"Tabby Biddle, Contributor\nWomen's rights advocate, Leadership Ambassador w\/ Take The Lea..."
+  },
+  "date":{
+    "0":"2013-05-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "educator",
+      "~edu",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "educator",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leads"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "060"
+    ]
+  }
+}

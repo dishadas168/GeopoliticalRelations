@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iraq-isis-mosul-civilians-flee_us_58b1c901e4b060480e087a57",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dianne-feinstein-town-hall-protest_us_58b0a94ce4b060480e080802"
+  },
+  "headline":{
+    "0":"Iraqi Forces Push Deeper Into Western Mosul As Civilians Flee",
+    "1":"Demonstrators Descend On Dianne Feinstein Event To Protest Her Absence From Town Halls"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The new push in Mosul comes after government forces finished clearing Islamic State from the east of the city last month.",
+    "1":"\"We need more access to you directly,\" one constituent told the Democratic senator."
+  },
+  "authors":{
+    "0":"Isabel Coles, Reuters",
+    "1":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2017-02-25 00:00:00",
+    "1":"2017-02-25 00:00:00"
+  },
+  "actor1":{
+    "0":"irq",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"irqcvl",
+    "1":"---leg"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "mosul",
+      "civilians",
+      "irqcvl",
+      "iraq",
+      "~"
+    ],
+    "1":[
+      "constituent",
+      "~cvl",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iraqi",
+      "mosul ... civilians"
+    ],
+    "1":[
+      "constituent",
+      "senator"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iraq",
+      "iraq"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "push"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "irq",
+      "irqcvl",
+      "100"
+    ],
+    "1":[
+      "---cvl",
+      "---leg",
+      "010"
+    ]
+  }
+}

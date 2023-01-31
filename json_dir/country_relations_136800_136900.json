@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brad-smith-davos_us_5bb30740e4b0480ca661d6a5"
+  },
+  "headline":{
+    "0":"Microsoft's Brad Smith Addresses The NSA Scandal"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Smith said government needs to take steps to restore trust with citizens, and said President Barack Obama's recent speech"
+  },
+  "authors":{
+    "0":"Paige Lavender"
+  },
+  "date":{
+    "0":"2014-01-25 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa"
+  },
+  "actor2":{
+    "0":"usaspy"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "nsa",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "microsoft",
+      "nsa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "microsoft",
+      "us intelligence community"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "addresses"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "usaspy",
+      "010"
+    ]
+  }
+}

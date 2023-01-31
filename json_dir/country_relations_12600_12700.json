@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/national-city-border-patrol-arrests-mom-daughters_us_5aa338e8e4b01b9b0a3b7c35",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/67-nra-approved-politicians-voted-for-floridas-gun-bill-report_us_5aa44ffde4b01b9b0a3bdcaf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mike-lee-first-amendment-defense-act_us_5aa17689e4b002df2c620958"
+  },
+  "headline":{
+    "0":"Border Patrol Rips Undocumented Mom From Daughters In Emotional Video",
+    "1":"67 NRA-Approved Politicians Voted For New Florida Gun Control Bill: Report",
+    "2":"GOP Senator Reintroduces Bill To Protect Discrimination Against LGBTQ People"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Officers in California tore a mother from her crying daughters in broad daylight.",
+    "1":"Or 68, if you include Gov. Rick Scott's signing of the legislation.",
+    "2":"Sen. Mike Lee wants to make sure some people can act on their religious beliefs."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Sara Boboltz",
+    "2":"Antonia Blumberg"
+  },
+  "date":{
+    "0":"2018-03-10 00:00:00",
+    "1":"2018-03-10 00:00:00",
+    "2":"2018-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---pty",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"030",
+    "2":"074"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":4.0,
+    "2":8.5
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "politicians",
+      "~pty",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "senator",
+      "~leg",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "mother"
+    ],
+    "1":[
+      "politicians",
+      "florida"
+    ],
+    "2":[
+      "senator",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tore"
+    ],
+    "1":[
+      "voted"
+    ],
+    "2":[
+      "reintroduces ... protect"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "discrimination",
+      "1",
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "180"
+    ],
+    "1":[
+      "---pty",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "---leg",
+      "---ppl",
+      "074"
+    ]
+  }
+}

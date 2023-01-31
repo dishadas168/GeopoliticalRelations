@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/family-vacations_b_5717677.html"
+  },
+  "headline":{
+    "0":"7 Ways Vacations Get Better As Your Kids Get Older"
+  },
+  "category":{
+    "0":"FIFTY"
+  },
+  "short_description":{
+    "0":"Teenagers, with the fastest texting thumbs in the world, were able to flag flight delays before the airline announced them, book an airport hotel room on the spot, and have Siri tell them which pizza place delivered to the middle of nowhere. Toddlers? You still must entertain them for hours and their stuff weighs more."
+  },
+  "authors":{
+    "0":"Ann Brenoff, ContributorSenior Writer\/Columnist, The Huffington Post"
+  },
+  "date":{
+    "0":"2014-09-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "airline",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "airline",
+      "airline"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced <and> ... tell"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "010"
+    ]
+  }
+}

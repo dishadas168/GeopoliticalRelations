@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/will-congress-revive-a-dual-school-system_b_5343445.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/will-congress-revive-a-dual-school-system_b_5343445.html"
+  },
+  "headline":{
+    "0":"60 Years After Brown v. Board, Will Congress Revive A Dual School System?",
+    "1":"60 Years After Brown v. Board, Will Congress Revive A Dual School System?"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"EDUCATION"
+  },
+  "short_description":{
+    "0":"On the 60th anniversary of Brown v. Board, Congress is set to expand a dual school system. One bound by laws, the other deregulated. One free to select the \"winners, \" the other bound to accept all.",
+    "1":"On the 60th anniversary of Brown v. Board, Congress is set to expand a dual school system. One bound by laws, the other deregulated. One free to select the \"winners, \" the other bound to accept all."
+  },
+  "authors":{
+    "0":"Diane Ravitch, ContributorResearch Professor of Education, New York University; Author, ...",
+    "1":"Diane Ravitch, ContributorResearch Professor of Education, New York University; Author, ..."
+  },
+  "date":{
+    "0":"2014-05-17 00:00:00",
+    "1":"2014-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---leg"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "school"
+    ],
+    "1":[
+      "congress",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "revive"
+    ],
+    "1":[
+      "is ... expand"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---edu",
+      "030"
+    ],
+    "1":[
+      "---leg",
+      "---edu",
+      "060"
+    ]
+  }
+}

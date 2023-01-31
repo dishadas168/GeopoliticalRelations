@@ -1,0 +1,203 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.vocativ.com\/news\/217992\/students-at-gay-friendly-colleges-are-smarter\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/corporate-jargon-beatbox_us_55c1120fe4b0e716be07614f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-sheriff-asks-drug-dealers-to-turn-in-competition_us_55c11f0ce4b0a50ad0aad8d3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/tourist-brings-loaded-guns-to-911-memorial_us_55bf9effe4b0b23e3ce364cb"
+  },
+  "headline":{
+    "0":"Here's Why Students At Gay-Friendly Colleges Are Smarter",
+    "1":"Two Incredible Beatboxers Make Corporate Jargon Sound Way Better Than Your Boss Does",
+    "2":"Kentucky Sheriff Asks Drug Dealers To Turn In Competition",
+    "3":"Tourist Brings Loaded Guns To 9\/11 Memorial"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"COMEDY",
+    "2":"WEIRD NEWS",
+    "3":"CRIME"
+  },
+  "short_description":{
+    "0":"Gay-friendly colleges admit students with higher SAT scores\u00a0than schools that are the least\u00a0tolerant of\u00a0gay people, according",
+    "1":"It's like Axe body spray: once you start using it, people only want to speak with you via email.",
+    "2":"So far, the plan hasn't smoked out any actual dealers",
+    "3":"NEW YORK (AP) -- Authorities say a tourist has been arrested on charges she carried two loaded handguns at the Sept. 11 memorial"
+  },
+  "authors":{
+    "0":"",
+    "1":"Andy McDonald",
+    "2":"David Moye",
+    "3":""
+  },
+  "date":{
+    "0":"2015-08-04 00:00:00",
+    "1":"2015-08-04 00:00:00",
+    "2":"2015-08-04 00:00:00",
+    "3":"2015-08-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---ppl",
+    "2":"usacop",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---ppl",
+    "2":"---crm",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"046",
+    "2":"020",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":7.0,
+    "2":3.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "colleges",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "kentucky",
+      "sheriff",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "drug dealers",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "authorities",
+      "~gov",
+      "~",
+      "tourist",
+      "~cvl",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "colleges",
+      "colleges"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "kentucky sheriff",
+      "drug dealers"
+    ],
+    "3":[
+      "authorities",
+      "tourist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "admit"
+    ],
+    "1":[
+      "want ... speak with"
+    ],
+    "2":[
+      "asks"
+    ],
+    "3":[
+      "say <~cvl> ... arrested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1",
+      "schools",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "drug_trade",
+      "1"
+    ],
+    "3":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "050"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "046"
+    ],
+    "2":[
+      "usacop",
+      "---crm",
+      "020"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "173"
+    ]
+  }
+}

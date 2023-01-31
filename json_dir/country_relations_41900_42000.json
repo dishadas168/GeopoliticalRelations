@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fridays-morning-email-inside-trumps-presser-for-the-ages_us_58a6e33ee4b07602ad53a315"
+  },
+  "headline":{
+    "0":"Friday's Morning Email: Inside Trump's Presser For The Ages"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president went after the media, judges and leakers in full force."
+  },
+  "authors":{
+    "0":"Lauren Weber"
+  },
+  "date":{
+    "0":"2017-02-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---medjud"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "judges",
+      "~medjud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "media ... judges"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---medjud",
+      "040"
+    ]
+  }
+}

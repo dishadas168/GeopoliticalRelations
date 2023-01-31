@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/new-jersey-speak-american-student-protest_us_59e5510be4b0a2324d1d2061"
+  },
+  "headline":{
+    "0":"High Schoolers Protest After Teacher Tells Student To Speak  'American'"
+  },
+  "category":{
+    "0":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The teacher told students that soldiers weren't \"fighting for your right to speak Spanish.\""
+  },
+  "authors":{
+    "0":"Doha Madani"
+  },
+  "date":{
+    "0":"2017-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "teacher",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "soldiers",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "010"
+    ]
+  }
+}

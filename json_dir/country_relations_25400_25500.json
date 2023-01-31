@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gigi-hadid-zayn-malik-eid-islam_us_59ab26a8e4b0b5e530ff1980",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/war-crimes-human-rights-abuses-and-western-complicity_us_59a9565ee4b0c50640cd5eaf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-recycles-failed-strategy-in-afghanistan_us_59a94723e4b0c50640cd5ea5"
+  },
+  "headline":{
+    "0":"Gigi Hadid And Zayn Malik Adorably Spent Eid Al-Adha With Their Moms",
+    "1":"The United States And Britain Must Claim Part-Ownership Of Yemeni Strife",
+    "2":"Donald Trump Recycles Failed Strategy In Afghanistan"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"WORLD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The model's mother posted a group selfie to celebrate the Muslim holiday.",
+    "1":"Both countries have lent their support to forces that have destabilized the region and violated human rights.",
+    "2":"The Afghanistan war now belongs to President Donald Trump. His \u201cpath forward\u201d with more troops and fighting will take America"
+  },
+  "authors":{
+    "0":"Doha Madani",
+    "1":"Hossein Askari, ContributorProfessor of Business and International Affairs at George Wash...",
+    "2":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills"
+  },
+  "date":{
+    "0":"2017-09-02 00:00:00",
+    "1":"2017-09-01 00:00:00",
+    "2":"2017-09-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---mil"
+  },
+  "actor2":{
+    "0":"---mus",
+    "1":"yem",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"110",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-2.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ],
+    "1":[
+      "the united states",
+      "britain",
+      "usa",
+      "gbr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "kingdom",
+      "yemeni",
+      "yem",
+      "yemen"
+    ],
+    "2":[
+      "troops",
+      "~mil",
+      "~",
+      "troops",
+      "~mil",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "muslim"
+    ],
+    "1":[
+      "the united states",
+      "yemeni",
+      "britain",
+      "yemeni"
+    ],
+    "2":[
+      "troops",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "yemen",
+      "united kingdom",
+      "yemen"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "posted ... celebrate"
+    ],
+    "1":[
+      "must claim",
+      "must claim"
+    ],
+    "2":[
+      "will take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---mus",
+      "051"
+    ],
+    "1":[
+      "usa",
+      "yem",
+      "110",
+      "gbr",
+      "yem",
+      "110"
+    ],
+    "2":[
+      "---mil",
+      "usa",
+      "171"
+    ]
+  }
+}

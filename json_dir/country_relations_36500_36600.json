@@ -1,0 +1,313 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-sanctions-exxon_us_58fa4579e4b018a9ce5b014f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/united-skips-senate-deadline-to-explain-dragged-passenger-incident_us_58fa369fe4b018a9ce5accf4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/united-ceo-oscar-munoz-wont-be-chairman_us_58fa6fa5e4b06b9cb916ebb6",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/congo-children-abuse_us_58fa0a26e4b06b9cb91605d3",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/yes-even-oprah-flips-out-over-black-girl-magic_us_58fa5411e4b06b9cb916a87b",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/republican-legislator-in-texas-admits-hes-pushing_us_58fa6ef2e4b0f02c3870e9e5",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/how-many-women-does-it-take-to-change-a-cable-news_us_58f96dd5e4b0de26cfeae28d"
+  },
+  "headline":{
+    "0":"U.S. Treasury Says It Will Not Issue Drilling Waivers To Russia Sanctions",
+    "1":"United Airlines Skips Senate Deadline To Explain Passenger-Dragging Incident",
+    "2":"United CEO Oscar Munoz Thought He Would Be Chairman. Not Anymore.",
+    "3":"More Than 1.5 Million Children Are At Risk Of 'Horrific Abuse' In Central Congo",
+    "4":"Yes, Even Oprah Flips Out Over Black Girl Magic",
+    "5":"Republican Legislator In Texas Admits He\u2019s Pushing Private Prison Corporation\u2019s Bill",
+    "6":"How Many Women Does It Take To Change A Cable News Host?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BUSINESS",
+    "3":"THE WORLDPOST",
+    "4":"BLACK VOICES",
+    "5":"POLITICS",
+    "6":"WOMEN"
+  },
+  "short_description":{
+    "0":"Mnuchin said the decision had been made in consultation with Trump.",
+    "1":"United continues to embarrass itself.",
+    "2":"The company also missed a deadline to explain why a passenger was violently removed from a flight.",
+    "3":"The United Nations says hundreds of thousands of boys and girls have been forced to flee their homes in the greater Kasa\u00ef region.",
+    "4":"A group of black women reporters met with the queen of media and it was unforgettable.",
+    "5":"The bill would make it easier for private prison corporations to help the federal government lock up migrant families.",
+    "6":"Women have been paying for a long time for the misbehavior of men."
+  },
+  "authors":{
+    "0":"",
+    "1":"Sebastian Murdock",
+    "2":"Sebastian Murdock",
+    "3":"Jesselyn Cook",
+    "4":"Lilly Workneh",
+    "5":"C\u00e9sar Cuauht\u00e9moc Garc\u00eda Hern\u00e1ndez, ContributorAssistant Professor of Law, University of Denver",
+    "6":"Jessica Teich, ContributorJessica Teich is the author of The Future Tense of Joy."
+  },
+  "date":{
+    "0":"2017-04-21 00:00:00",
+    "1":"2017-04-21 00:00:00",
+    "2":"2017-04-21 00:00:00",
+    "3":"2017-04-21 00:00:00",
+    "4":"2017-04-21 00:00:00",
+    "5":"2017-04-21 00:00:00",
+    "6":"2017-04-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagovleg",
+    "2":"---bus",
+    "3":"igouno",
+    "4":"---cvlmed",
+    "5":"---leg",
+    "6":"---cvl"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---cvl",
+    "4":"'mamohato_med",
+    "5":"---copbus",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"121",
+    "1":"010",
+    "2":"174",
+    "3":"170",
+    "4":"040",
+    "5":"100",
+    "6":"061"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":-7.0,
+    "4":1.0,
+    "5":-5.0,
+    "6":6.4
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "passenger",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "passenger",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "the united nations",
+      "igouno",
+      "the",
+      "united",
+      "nations",
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "women",
+      "reporters",
+      "~cvlmed",
+      "~",
+      "~",
+      "women",
+      "reporters",
+      "~cvlmed",
+      "~",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "queen",
+      "media",
+      "'mamohato_med",
+      "queen",
+      "~"
+    ],
+    "5":[
+      "legislator",
+      "~leg",
+      "~",
+      "prison",
+      "corporation",
+      "~copbus",
+      "~",
+      "~"
+    ],
+    "6":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "russia"
+    ],
+    "1":[
+      "senate",
+      "passenger"
+    ],
+    "2":[
+      "company",
+      "passenger"
+    ],
+    "3":[
+      "the united nations",
+      "girls"
+    ],
+    "4":[
+      "women reporters",
+      "queen ... media"
+    ],
+    "5":[
+      "legislator",
+      "prison corporation"
+    ],
+    "6":[
+      "women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "russian federation"
+    ],
+    "1":[
+      "united states congress",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "the united nations",
+      "---"
+    ],
+    "4":[
+      "---",
+      "queen"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... will"
+    ],
+    "1":[
+      "deadline ... explain"
+    ],
+    "2":[
+      "missed ... explain <~cvl> ... removed from <--->"
+    ],
+    "3":[
+      "says <~cvl> ... forced"
+    ],
+    "4":[
+      "met"
+    ],
+    "5":[
+      "<\u2019s> ... pushing"
+    ],
+    "6":[
+      "have ... paying"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "rus",
+      "121"
+    ],
+    "1":[
+      "usagovleg",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---bus",
+      "---cvl",
+      "174"
+    ],
+    "3":[
+      "igouno",
+      "---cvl",
+      "170"
+    ],
+    "4":[
+      "---cvlmed",
+      "'mamohato_med",
+      "040"
+    ],
+    "5":[
+      "---leg",
+      "---copbus",
+      "100"
+    ],
+    "6":[
+      "---cvl",
+      "---ppl",
+      "061"
+    ]
+  }
+}

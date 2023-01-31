@@ -1,0 +1,280 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/eu-canada-trade-deal_us_580cc3afe4b0a03911ed590d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iran-us-election_us_580cc69ce4b02444efa3e396",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/france-jungle-camp_us_580cf665e4b0a03911ed645b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/arab-journalists-learn-re_b_12612102.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-georgia-women_us_580aada3e4b02444efa39cbe",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/cameroon-train-crash-70-dead_us_580bac98e4b02444efa3cd7e"
+  },
+  "headline":{
+    "0":"Monday Deadline Set For Massive EU-Canada Trade Deal",
+    "1":"Iran's President Says The U.S. Election Is A Choice Between 'Bad And Worse'",
+    "2":"Fate Of Child Migrants Uncertain A Day Before France Demolishes 'Jungle' Camp",
+    "3":"Arab Journalists Learn Religion Coverage",
+    "4":"Atlanta\u2019s GOP Women Are Poised To Help Hillary Clinton Run Up The Score",
+    "5":"Cameroon Passenger Train Crash Death Toll Tops 70"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"MEDIA",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The EU has given Belgium until Monday to back a key free trade deal.",
+    "1":"Rouhani also criticized America for  a lack of morality.",
+    "2":"Aid workers accuse Britain and France of failing more than 1,300 unaccompanied child migrants.",
+    "3":"",
+    "4":"Donald Trump\u2019s history with women could give Georgia\u2019s electoral votes to a Democrat for the first time since Bill Clinton won the White House.",
+    "5":"The country's president confirmed the derailment injured 600 people, as he declared a day of mourning."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Magda Abu-Fadil, ContributorDirector of Media Unlimited in Lebanon",
+    "4":"S.V. Date",
+    "5":""
+  },
+  "date":{
+    "0":"2016-10-23 00:00:00",
+    "1":"2016-10-23 00:00:00",
+    "2":"2016-10-23 00:00:00",
+    "3":"2016-10-23 00:00:00",
+    "4":"2016-10-22 00:00:00",
+    "5":"2016-10-22 00:00:00"
+  },
+  "actor1":{
+    "0":"igoeureec",
+    "1":"irngov",
+    "2":"---lab",
+    "3":"---med",
+    "4":"---cvl",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"bel",
+    "1":"usa",
+    "2":"gbrcvl",
+    "3":"---rel",
+    "4":"geo",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"111",
+    "2":"112",
+    "3":"040",
+    "4":"060",
+    "5":"182"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0,
+    "2":-2.0,
+    "3":1.0,
+    "4":6.0,
+    "5":-9.5
+  },
+  "nouns":{
+    "0":[
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union",
+      "belgium",
+      "bel",
+      "belgium"
+    ],
+    "1":[
+      "rouhani",
+      "irngov",
+      "hassan",
+      "rouhani",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "workers",
+      "~lab",
+      "~",
+      "britain",
+      "france",
+      "child",
+      "migrants",
+      "gbrcvl",
+      "fracvl",
+      "united",
+      "kingdom",
+      "france",
+      "~",
+      "~"
+    ],
+    "3":[
+      "journalists",
+      "~med",
+      "~",
+      "religion",
+      "~rel",
+      "~"
+    ],
+    "4":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "georgia",
+      "geo",
+      "georgia",
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the eu",
+      "belgium"
+    ],
+    "1":[
+      "rouhani",
+      "america"
+    ],
+    "2":[
+      "workers",
+      "britain",
+      "workers",
+      "france"
+    ],
+    "3":[
+      "journalists",
+      "religion"
+    ],
+    "4":[
+      "women",
+      "georgia"
+    ],
+    "5":[
+      "president",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the european union",
+      "belgium"
+    ],
+    "1":[
+      "hassan rouhani",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united kingdom",
+      "---",
+      "france"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "georgia"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given"
+    ],
+    "1":[
+      "criticized"
+    ],
+    "2":[
+      "accuse",
+      "accuse"
+    ],
+    "3":[
+      "learn"
+    ],
+    "4":[
+      "could give"
+    ],
+    "5":[
+      "confirmed ... injured"
+    ]
+  },
+  "issues":{
+    "0":[
+      "european_union",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "igoeureec",
+      "bel",
+      "060"
+    ],
+    "1":[
+      "irngov",
+      "usa",
+      "111"
+    ],
+    "2":[
+      "---lab",
+      "gbrcvl",
+      "112",
+      "---lab",
+      "fracvl",
+      "112"
+    ],
+    "3":[
+      "---med",
+      "---rel",
+      "040"
+    ],
+    "4":[
+      "---cvl",
+      "geo",
+      "060"
+    ],
+    "5":[
+      "---gov",
+      "---ppl",
+      "182"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-kindergarten-teacher-explains-social-media-stalking-to-her-class_us_590cb46fe4b0104c734ea90d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/canada-good-samaritan-drug-overdose_us_590c9b9ee4b0d5d9049bf6f2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chris-collins-ahca-health-care_us_590c7073e4b0d5d9049b9d58",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/how-many-people-will-die-every-year-for-each-rich-americans_us_590cc370e4b056aa2363d491",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/how-many-people-will-die-every-year-for-each-rich-americans_us_590cc370e4b056aa2363d491"
+  },
+  "headline":{
+    "0":"A Kindergarten Teacher Explains Social Media Stalking To Her Class",
+    "1":"New Canada Law Gives Legal Immunity To People Who Report Drug Overdoses",
+    "2":"Congressman Asks Reporter To Explain The Health Care Bill He Just Voted For",
+    "3":"How Many People Will Die For Each Rich American\u2019s Trumpcare Tax Cut?",
+    "4":"How Many People Will Die For Each Rich American\u2019s Trumpcare Tax Cut?"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"More useful in adulthood than calculus.",
+    "1":"\u201cDuring an overdose, a call to 911 can often be the difference between life and death,\u201d the Canadian minister of health said.",
+    "2":"He admitted he didn't actually read the bill.",
+    "3":"Ten. That\u2019s how many people would die every year to give a tax break to each of the 400 richest people in America under the",
+    "4":"Ten. That\u2019s how many people would die every year to give a tax break to each of the 400 richest people in America under the"
+  },
+  "authors":{
+    "0":"Andy McDonald",
+    "1":"Nick Wing",
+    "2":"Alana Horowitz Satlin",
+    "3":"Richard (RJ) Eskow, ContributorHost of 'The Zero Hour'; Writer; Senior Advisor, Social Securi...",
+    "4":"Richard (RJ) Eskow, ContributorHost of 'The Zero Hour'; Writer; Senior Advisor, Social Securi..."
+  },
+  "date":{
+    "0":"2017-05-05 00:00:00",
+    "1":"2017-05-05 00:00:00",
+    "2":"2017-05-05 00:00:00",
+    "3":"2017-05-05 00:00:00",
+    "4":"2017-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"can",
+    "2":"---leg",
+    "3":"---ppl",
+    "4":"---ppl"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl",
+    "2":"---med",
+    "3":"usa",
+    "4":"usappl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"020",
+    "3":"190",
+    "4":"164"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":3.0,
+    "3":-10.0,
+    "4":-7.0
+  },
+  "nouns":{
+    "0":[
+      "kindergarten",
+      "teacher",
+      "~edu",
+      "~",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "canada",
+      "can",
+      "canada",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "congressman",
+      "~leg",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kindergarten teacher",
+      "media"
+    ],
+    "1":[
+      "canada",
+      "people"
+    ],
+    "2":[
+      "congressman",
+      "reporter"
+    ],
+    "3":[
+      "people",
+      "american"
+    ],
+    "4":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "canada",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "explains"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "asks"
+    ],
+    "3":[
+      "will die"
+    ],
+    "4":[
+      "would die ... give"
+    ]
+  },
+  "issues":{
+    "0":[
+      "early_childhood_education",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "can",
+      "---ppl",
+      "060"
+    ],
+    "2":[
+      "---leg",
+      "---med",
+      "020"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "190"
+    ],
+    "4":[
+      "---ppl",
+      "usappl",
+      "164"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/medicaid-hiv-aids_us_5b9b7fcbe4b03a1dcc781906"
+  },
+  "headline":{
+    "0":"Supreme Court Justices Will Determine the Fate of AIDS in America"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Providing access to health care for low-income Americans is absolutely essential if we are to bring an end to the HIV\/AIDS epidemic."
+  },
+  "authors":{
+    "0":"Paul Kawata, Contributor\nExecutive Director of the National Minority AIDS Council"
+  },
+  "date":{
+    "0":"2012-03-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovjud"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "supreme court justices",
+      "usagovjud",
+      "united",
+      "states",
+      "supreme",
+      "court",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court justices",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states supreme court",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will determine"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagovjud",
+      "usa",
+      "030"
+    ]
+  }
+}

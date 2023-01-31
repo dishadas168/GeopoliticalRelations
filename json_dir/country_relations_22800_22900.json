@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/daca-renewal-deadline-dreamers_us_59d659eae4b0380b6c9ada39"
+  },
+  "headline":{
+    "0":"Thousands Of Eligible Dreamers May Miss The Deadline To Renew Protections"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"President Donald Trump gave young undocumented immigrants only a month to extend their work permits."
+  },
+  "authors":{
+    "0":"Elise Foley"
+  },
+  "date":{
+    "0":"2017-10-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "immigrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "060"
+    ]
+  }
+}

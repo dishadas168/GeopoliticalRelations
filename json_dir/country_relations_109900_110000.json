@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/first-texas-city-to-ban-f_b_6272610.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/video-congressmans-icantb_b_6272128.html"
+  },
+  "headline":{
+    "0":"First Texas City to Ban Fracking Cites 'Public Nuisance' in Lawsuit Response",
+    "1":"VIDEO:  #ICantBreathe Poem on House Floor"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Attorneys representing Denton, Texas, the first city to ban hydraulic fracturing (\"fracking\") in state history, have issued rebuttals to the two lawsuits filed against Denton the day after the fracking ban was endorsed by voters on election day.",
+    "1":"Men and boys killed by police. I can't breathe. Impunity for the killers -- no justice, no peace. I can't breathe."
+  },
+  "authors":{
+    "0":"Steve Horn, ContributorResearch Fellow, DeSmogBlog",
+    "1":"Rep. Hank Johnson, ContributorU.S. Representative for Georgia's 4th District"
+  },
+  "date":{
+    "0":"2014-12-04 00:00:00",
+    "1":"2014-12-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "texas",
+      "voters"
+    ],
+    "1":[
+      "men",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have issued"
+    ],
+    "1":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "190"
+    ]
+  }
+}

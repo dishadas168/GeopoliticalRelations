@@ -1,0 +1,139 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/third-party-candidate-race_us_5bad071ce4b04234e855f5d9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bernard-anrault-richest-man-belgian-passport_us_5bb2d2d1e4b0480ca65cc09b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ibm-why-wait-until-something_us_5bb35643e4b0fa920b96a6e3"
+  },
+  "headline":{
+    "0":"Third-Party Candidate Shakes Up Presidential Race",
+    "1":"Bernard Arnault, France's Richest Man, Seeks Belgian Passport As Country Weighs Tax Increases",
+    "2":"Why Wait Until Something Breaks? Let's Try Predictive Maintenance"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"BUSINESS",
+    "2":"TECH"
+  },
+  "short_description":{
+    "0":"Clifford pledged if elected president, he would continue not to be Mitt Romney and Barack Obama. \"My record of consistency in not being Obama or Romney speaks for itself.\" Leaders in both parties were quick to dispute Clifford's claim.",
+    "1":"A socialist president who took office in the midst of Europe's continuing economic crisis, France's Francoise Hollande faces",
+    "2":"Why wait until something is broken to fix it? That's what a growing number of companies are asking themselves these days."
+  },
+  "authors":{
+    "0":"Steven Clifford, Contributor\nAuthor and former CEO",
+    "1":"Meredith Bennett-Smith",
+    "2":"Christopher Conradi, Contributor\nIT Specialist, Business Analytics"
+  },
+  "date":{
+    "0":"2012-09-09 00:00:00",
+    "1":"2012-09-09 00:00:00",
+    "2":"2012-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"frappl",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"bel",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "france",
+      "man",
+      "frappl",
+      "france",
+      "~",
+      "belgian",
+      "bel",
+      "belgium"
+    ],
+    "2":[
+      "companies",
+      "~bus",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "obama"
+    ],
+    "1":[
+      "france ... man",
+      "belgian"
+    ],
+    "2":[
+      "companies",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "barack obama"
+    ],
+    "1":[
+      "france",
+      "belgium"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "speaks"
+    ],
+    "1":[
+      "seeks"
+    ],
+    "2":[
+      "are asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "010"
+    ],
+    "1":[
+      "frappl",
+      "bel",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "---bus",
+      "020"
+    ]
+  }
+}

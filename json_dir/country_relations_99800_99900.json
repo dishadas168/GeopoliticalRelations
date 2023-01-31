@@ -1,0 +1,191 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/atlanta-educator-cheating-scandal_n_7001214.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tavis-smiley-my-conversat_b_7001576.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/what-it-takes-to-take-the-lead_b_6964824.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/how-a-fart-paid-my-bills_b_6986788.html"
+  },
+  "headline":{
+    "0":"Some Atlanta Educators Just Learned A Cynical Lesson About Accountability In America",
+    "1":"Tavis Smiley: My Conversation With Dr. Darnell Hunt on Diversity in Hollywood",
+    "2":"What It Takes To Take The Lead",
+    "3":"How a Fart Paid My Bills"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"WOMEN",
+    "3":"COMEDY"
+  },
+  "short_description":{
+    "0":"",
+    "1":"In this clip, Dr. Darnell Hunt, the director of the Ralph J. Bunche Center for African American Studies at UCLA, explains why more people of color are needed in Hollywood's executive suites.",
+    "2":"Challenge and controversy is a big slice of the leader's pie. People watch how you handle yourself and adversity.",
+    "3":"Many writers are opposed to writing for free, and I don't blame them. But, sometimes a silly blog submitted on a prominent site can result in unexpected income. Some writers will scoff at the lack of literary value of my humorous blogs. But for now, I'll just walk to the bank, farting all the way."
+  },
+  "authors":{
+    "0":"Jason Linkins",
+    "1":"Tavis Smiley, ContributorPBS talk show host, PRI radio host, NYT bestselling author",
+    "2":"Dr. Deana Murphy, ContributorCareer Performance Solutionist",
+    "3":"Elaine Ambrose, ContributorAuthor, syndicated blogger, featured humor speaker, publisher,..."
+  },
+  "date":{
+    "0":"2015-04-03 00:00:00",
+    "1":"2015-04-03 00:00:00",
+    "2":"2015-04-02 00:00:00",
+    "3":"2015-04-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"---med"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"100",
+    "2":"060",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0,
+    "2":6.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "atlanta",
+      "educators",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "writers",
+      "~med",
+      "~",
+      "blogs",
+      "~med",
+      "~",
+      "blogs",
+      "~med",
+      "~",
+      "blogs",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "atlanta educators",
+      "america"
+    ],
+    "1":[
+      "american",
+      "people"
+    ],
+    "2":[
+      "people",
+      "people"
+    ],
+    "3":[
+      "writers",
+      "writers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "learned"
+    ],
+    "1":[
+      "explains <~ppl> ... needed in <--->"
+    ],
+    "2":[
+      "watch <and> ... handle"
+    ],
+    "3":[
+      "will scoff"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "100"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ],
+    "3":[
+      "---med",
+      "---med",
+      "111"
+    ]
+  }
+}

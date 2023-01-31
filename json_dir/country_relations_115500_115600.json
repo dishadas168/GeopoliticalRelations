@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/modi-iraq-afghanistan_n_5890676.html"
+  },
+  "headline":{
+    "0":"America, Don't Repeat Your Iraq Mistake In Afghanistan, Indian Prime Minister Modi Says"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Kathleen Miles"
+  },
+  "date":{
+    "0":"2014-09-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"irq"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... repeat"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "irq",
+      "010"
+    ]
+  }
+}

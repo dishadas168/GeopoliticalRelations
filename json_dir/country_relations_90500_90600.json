@@ -1,0 +1,171 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dems-call-for-investigation-into-group-behind-planned-parenthood-sting-videos_us_55afe354e4b07af29d573285",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sexual-assault-victims-punishment_us_55ada33de4b0caf721b3b61c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/colorado-death-penalty_us_55af9aeee4b0a9b948530a4d"
+  },
+  "headline":{
+    "0":"Dems Call For Investigation Into Group Behind Planned Parenthood 'Sting' Videos",
+    "1":"When Colleges Threaten To Punish Students Who Report Sexual Violence",
+    "2":"Colorado Death Penalty In Focus As Massacre Trial Enters New Phase"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"COLLEGE",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"House lawmakers are appealing to the attorney generals of California and the U.S.",
+    "1":"Victims turn to their universities for help, but get warned that they, too, could face disciplinary charges.",
+    "2":"DENVER, July 22 (Reuters) - The lead prosecutor in the Colorado movie massacre trial tore into the state's governor at a"
+  },
+  "authors":{
+    "0":"Laura Bassett",
+    "1":"Tyler Kingkade",
+    "2":""
+  },
+  "date":{
+    "0":"2015-07-22 00:00:00",
+    "1":"2015-07-22 00:00:00",
+    "2":"2015-07-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---edu",
+    "2":"usajud"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---edu",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"170",
+    "2":"180"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-7.0,
+    "2":-9.0
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "california",
+      "u.s.",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "attorney generals",
+      "usagov",
+      "usagov",
+      "~"
+    ],
+    "1":[
+      "colleges",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "prosecutor",
+      "usajud",
+      "~",
+      "state governor",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "attorney generals"
+    ],
+    "1":[
+      "colleges",
+      "colleges"
+    ],
+    "2":[
+      "prosecutor",
+      "state ... governor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      ""
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are appealing"
+    ],
+    "1":[
+      "to punish"
+    ],
+    "2":[
+      "tore"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1",
+      "gender_violence",
+      "1"
+    ],
+    "2":[
+      "id_atrocity",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usagov",
+      "020",
+      "---leg",
+      "usagov",
+      "020"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "170"
+    ],
+    "2":[
+      "usajud",
+      "---gov",
+      "180"
+    ]
+  }
+}

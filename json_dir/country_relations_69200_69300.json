@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/more-reflections-on-the-s_b_9600928.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/congress-clean-power-plan_us_56fe98c8e4b0daf53aef7b9c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/muriel-bowser-north-carolina_us_56fe8d83e4b083f5c6077653"
+  },
+  "headline":{
+    "0":"More Reflections on the SeaWorld Agreement",
+    "1":"Hundreds Of Current And Former Lawmakers File Brief Defending Clean Power Plan",
+    "2":"DC Mayor Takes A Stand Against North Carolina's Anti-LGBT Law"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"SeaWorld CEO Joel Manby and I sent a letter to President Obama urging him to use a wide range of diplomatic tools to pressure Japan to end its commercial whaling activities and to stop contravening international law by slaughtering hundreds of innocent whales.",
+    "1":"A federal appeals court will hear a challenge to Obama's signature climate rule in June.",
+    "2":"Muriel Bowser won't allow official government travel to North Carolina."
+  },
+  "authors":{
+    "0":"Wayne Pacelle, ContributorPresident and CEO, The Humane Society of the United States",
+    "1":"Laura Barr\u00f3n-L\u00f3pez",
+    "2":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2016-04-02 00:00:00",
+    "1":"2016-04-01 00:00:00",
+    "2":"2016-04-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---jud",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"usagov",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "ceo",
+      "~bus",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "japan",
+      "jpn",
+      "japan",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "mayor",
+      "~gov",
+      "~",
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceo",
+      "president obama"
+    ],
+    "1":[
+      "court",
+      "obama"
+    ],
+    "2":[
+      "mayor",
+      "north carolina"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sent ... letter"
+    ],
+    "1":[
+      "will hear"
+    ],
+    "2":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "usagov",
+      "040"
+    ],
+    "1":[
+      "---jud",
+      "usagov",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "171"
+    ]
+  }
+}

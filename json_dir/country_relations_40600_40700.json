@@ -1,0 +1,179 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tori-spelling-and-dean-mcdermott-welcome-5th-child_us_58b96ff0e4b0d2821b4d5381",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-regional-media_us_58b8426fe4b0a8ded67af047",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/arrest-suspect-jcc-bomb-threats_us_58b97d1be4b0b9989416d265",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/george-w-bush-jimmy-kimmel-impressions_us_58b916bce4b0b998941675ce"
+  },
+  "headline":{
+    "0":"Tori Spelling And Dean McDermott Welcome Fifth Child Together",
+    "1":"Trump White House Gives Local TV Reporters A Seat At The Table",
+    "2":"Officials Arrest Former Reporter In 8 Bomb Threats On Jewish Community",
+    "3":"George W. Bush Reveals Whether Comedic Impressions Ever Annoyed Him"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"MEDIA",
+    "2":"POLITICS",
+    "3":"COMEDY"
+  },
+  "short_description":{
+    "0":"World, meet Beau Dean McDermott.",
+    "1":"The uptick in access to the regional press comes amid war with national media outlets.",
+    "2":"The FBI is searching for more suspects in the dozens of calls to Jewish institutions around the nation.",
+    "3":"And he recounted the time he fought with \"SNL\" creator Lorne Michaels."
+  },
+  "authors":{
+    "0":"Julia Brucculieri",
+    "1":"Michael Calderone",
+    "2":"Willa Frej, Sebastian Murdock, and Andy Campbell",
+    "3":"Lee Moran"
+  },
+  "date":{
+    "0":"2017-03-03 00:00:00",
+    "1":"2017-03-03 00:00:00",
+    "2":"2017-03-03 00:00:00",
+    "3":"2017-03-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usagov",
+    "2":"usacop",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"---jew",
+    "3":"usaeli"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"060",
+    "2":"090",
+    "3":"140"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":6.0,
+    "2":-2.0,
+    "3":-6.5
+  },
+  "nouns":{
+    "0":[
+      "dean",
+      "~edu",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "tv",
+      "reporters",
+      "~med",
+      "~",
+      "~"
+    ],
+    "2":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "jewish",
+      "~jew",
+      "~"
+    ],
+    "3":[
+      "george w. bush",
+      "usaeli",
+      "george",
+      "w.",
+      "bush"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dean",
+      "child"
+    ],
+    "1":[
+      "white house",
+      "tv reporters"
+    ],
+    "2":[
+      "fbi",
+      "jewish"
+    ],
+    "3":[
+      "george w. bush",
+      "george w. bush"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "white house",
+      "---"
+    ],
+    "2":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "3":[
+      "george w. bush",
+      "george w. bush"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "welcome"
+    ],
+    "1":[
+      "gives"
+    ],
+    "2":[
+      "is searching"
+    ],
+    "3":[
+      "reveals ... annoyed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "usagov",
+      "---med",
+      "060"
+    ],
+    "2":[
+      "usacop",
+      "---jew",
+      "090"
+    ],
+    "3":[
+      "usaeli",
+      "usaeli",
+      "140"
+    ]
+  }
+}

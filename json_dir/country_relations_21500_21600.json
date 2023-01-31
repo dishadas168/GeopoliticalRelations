@@ -1,0 +1,224 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-assad-east-ghouta-siege_us_59ef5c00e4b07cf8380ca142",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/as-the-us-and-china-compete-they-must-avoid-military_us_59ef78f3e4b00a4ce5a221e7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/robert-mugabe-who-goodwill-ambassador-revoked_us_59ed9ab8e4b0a484d0641b12",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/syria-isis-massacre_us_59edc0f0e4b00f08619fd078",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/epa-scientists-talks_us_59ed4d37e4b00f08619f953c"
+  },
+  "headline":{
+    "0":"The Horrifying Death Of A Syrian Infant Underscores The Brutality Of Assad\u2019s Siege Warfare",
+    "1":"As The US And China Compete, They Must Avoid Military Confrontation",
+    "2":"Facing Global Outrage, WHO Revokes Robert Mugabe's Goodwill Ambassador Appointment",
+    "3":"ISIS Reportedly Killed 128 People In Syrian Town Over 3-Week Period",
+    "4":"EPA Abruptly Blocks 3 Agency Scientists From Giving Talks On Climate Change"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Syrian regime is pushing the besieged suburb of eastern Ghouta \"to the brink of catastrophe,\" experts warn.",
+    "1":"The Trump administration\u2019s most avid proponent of war against China, Steve Bannon, has departed the White House. At least",
+    "2":"The Zimbabwean leader served as the health organization's goodwill envoy for just five days.",
+    "3":"The Syrian army recaptured the town on Saturday.",
+    "4":"It's the latest sign of the administration's assault on climate science."
+  },
+  "authors":{
+    "0":"Jesselyn Cook",
+    "1":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "2":"Dominique Mosbergen",
+    "3":"",
+    "4":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2017-10-24 00:00:00",
+    "1":"2017-10-24 00:00:00",
+    "2":"2017-10-23 00:00:00",
+    "3":"2017-10-23 00:00:00",
+    "4":"2017-10-23 00:00:00"
+  },
+  "actor1":{
+    "0":"syrgov",
+    "1":"chngov",
+    "2":"zwe",
+    "3":"imgmusisi",
+    "4":"usagovenv"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"usagov",
+    "2":"mearebgov",
+    "3":"---ppl",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"040",
+    "2":"060",
+    "3":"190",
+    "4":"160"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":6.0,
+    "3":-10.0,
+    "4":-4.0
+  },
+  "nouns":{
+    "0":[
+      "syrian",
+      "regime",
+      "syrgov",
+      "syria",
+      "~",
+      "ghouta",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "administration",
+      "chngov",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "2":[
+      "zimbabwean",
+      "zwe",
+      "zimbabwe",
+      "organization",
+      "envoy",
+      "mearebgov",
+      "tanzim",
+      "~"
+    ],
+    "3":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "scientists",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syrian regime",
+      "ghouta"
+    ],
+    "1":[
+      "administration",
+      "the ... white house"
+    ],
+    "2":[
+      "zimbabwean",
+      "organization ... envoy"
+    ],
+    "3":[
+      "isis",
+      "people"
+    ],
+    "4":[
+      "epa",
+      "scientists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "syria"
+    ],
+    "1":[
+      "",
+      "white house"
+    ],
+    "2":[
+      "zimbabwe",
+      "tanzim"
+    ],
+    "3":[
+      "the islamic state",
+      "---"
+    ],
+    "4":[
+      "environmental protection agency",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is pushing"
+    ],
+    "1":[
+      "has departed"
+    ],
+    "2":[
+      "served"
+    ],
+    "3":[
+      "killed"
+    ],
+    "4":[
+      "blocks ... from"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "climate_change",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "syrgov",
+      "syr",
+      "100"
+    ],
+    "1":[
+      "chngov",
+      "usagov",
+      "040"
+    ],
+    "2":[
+      "zwe",
+      "mearebgov",
+      "060"
+    ],
+    "3":[
+      "imgmusisi",
+      "---ppl",
+      "190"
+    ],
+    "4":[
+      "usagovenv",
+      "---cvl",
+      "160"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/israel-strikes-iranian-military-targets-in-syria_n_5c45c4d8e4b0bfa693c59518",
+    "1":"https:\/\/www.huffpost.com\/entry\/coast-guard-city-new-london-shutdown_n_5c40fcc8e4b027c3bbbf8ca0",
+    "2":"https:\/\/www.huffpost.com\/entry\/rashida-tlaib-annabelle-lima-taub-islamophobic-remarks_n_5c3e1d5fe4b0e0baf541ad1e",
+    "3":"https:\/\/www.huffpost.com\/entry\/judge-blocks-trump-birth-control-coverage-rules-13-states_n_5c3bdd5fe4b0e0baf53e9088",
+    "4":"https:\/\/www.huffpost.com\/entry\/r-kelly-cook-county-state-attorney_n_5c354316e4b0f5aba7d932b2"
+  },
+  "headline":{
+    "0":"Israel Strikes Iranian Military Targets In Syria",
+    "1":"Shutdown Leaves Connecticut\u2019s \u2018Coast Guard City\u2019 Reeling: 'I Never Expected This'",
+    "2":"Florida Official: Muslim Rep. Rashida Tlaib Might \u2018Blow Up Capitol Hill\u2019",
+    "3":"Judge Blocks Trump Birth Control Coverage Rules In 13 States",
+    "4":"Illinois Prosecutor Asks Possible Victims Of R. Kelly's Abuse To Come Forward"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"U.S. NEWS",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"The Israeli military is giving more information on its activities in Syria than it used to.",
+    "1":"The government shutdown is disrupting families and businesses across America, including New London, where the Coast Guard Academy is located.",
+    "2":"Hallandale Beach Commissioner Annabelle Lima-Taub called the Michigan lawmaker a \"Hamas-loving anti-Semite,\" sparking calls for her to resign.",
+    "3":"California and the other states argue that women would be forced to turn to state-funded programs for birth control and experience unintended pregnancies.",
+    "4":"Cook County State Attorney Kim Foxx said she's spoken with the families of two possible victims, but needs more information to investigate."
+  },
+  "authors":{
+    "0":"Aron Heller, AP",
+    "1":"Hayley Miller",
+    "2":"Hayley Miller",
+    "3":"",
+    "4":"Carla Herreria Russo"
+  },
+  "date":{
+    "0":"2019-01-21 00:00:00",
+    "1":"2019-01-18 00:00:00",
+    "2":"2019-01-15 00:00:00",
+    "3":"2019-01-14 00:00:00",
+    "4":"2019-01-09 00:00:00"
+  },
+  "actor1":{
+    "0":"isrmil",
+    "1":"---gov",
+    "2":"usaleg",
+    "3":"usa",
+    "4":"usajud"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"usabus",
+    "2":"per",
+    "3":"---cvl",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"160",
+    "2":"041",
+    "3":"170",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.0,
+    "2":1.0,
+    "3":-7.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "israeli",
+      "military",
+      "isrmil",
+      "israel",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "government",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "businesses",
+      "usabus",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "2":[
+      "lima",
+      "per",
+      "peru",
+      "michigan",
+      "lawmaker",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "illinois",
+      "prosecutor",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israeli military",
+      "syria"
+    ],
+    "1":[
+      "government",
+      "businesses"
+    ],
+    "2":[
+      "michigan lawmaker",
+      "lima",
+      "lima",
+      "michigan lawmaker"
+    ],
+    "3":[
+      "california",
+      "women"
+    ],
+    "4":[
+      "illinois prosecutor",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "syria"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "united states of america",
+      "peru",
+      "peru",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... giving <&information>"
+    ],
+    "1":[
+      "disrupting"
+    ],
+    "2":[
+      "called",
+      "called"
+    ],
+    "3":[
+      "argue <~cvl> ... forced"
+    ],
+    "4":[
+      "asks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "isrmil",
+      "syr",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "usabus",
+      "160"
+    ],
+    "2":[
+      "usaleg",
+      "per",
+      "041",
+      "per",
+      "usaleg",
+      "041"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "170"
+    ],
+    "4":[
+      "usajud",
+      "---cvl",
+      "020"
+    ]
+  }
+}

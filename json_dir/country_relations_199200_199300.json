@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/shell-iran-sanctions_us_5bb2bb03e4b0480ca65ac3f1"
+  },
+  "headline":{
+    "0":"Shell Struggling To Pay Off $1 Billion Bill To Iran With Sanctions In Place"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The European Union toughened financial sanctions and placed a ban on Iranian oil imports on Jan. 23, but gave companies until"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"igoeureec"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "the european union",
+      "igoeureec",
+      "the",
+      "european",
+      "union",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the european union",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the european union",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "igoeureec",
+      "---bus",
+      "060"
+    ]
+  }
+}

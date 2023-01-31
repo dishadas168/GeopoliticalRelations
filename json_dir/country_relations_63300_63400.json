@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-muslims-send-a-powerful-message-of-solidarity-to-orlando-victims_us_575ef3d4e4b071ec19ee9fbe",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/french-artists-tribute-orlando-shooting-victims_us_575ee5b8e4b053d43305a5bc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/shooting-rampage-results-in-mass-casualties-at-orlando-nightclub_us_575d4469e4b0ced23ca845a2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/orlando-terror-attack-world-leaders_us_575d878be4b00f97fba88f42",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/ahead-of-scotus-ruling-ge_b_10401388.html"
+  },
+  "headline":{
+    "0":"American Muslims Send A Powerful Message Of Solidarity To Orlando Victims",
+    "1":"French Artists Pay Tribute To Orlando Shooting Victims",
+    "2":"Shooting Rampage Results In 'Mass Casualties' At Orlando Gay Nightclub",
+    "3":"World Leaders Show Their Support After The Mass Shooting In Orlando",
+    "4":"Ahead of SCOTUS Ruling, Getting the Message Out to Central Valley Immigrants"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"THE WORLDPOST",
+    "2":"CRIME",
+    "3":"THE WORLDPOST",
+    "4":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The tragedy in Orlando has prompted both compassion and debate within the Muslim community.",
+    "1":"Moving illustrations are spreading across social medial as people worldwide mourn those killed in Sunday's attack.",
+    "2":"ORLANDO, Fla., June 12 (Reuters) - A gunman killed at least 20 people and injured 42 others in a crowded gay nightclub in",
+    "3":"At least 50 people were killed in the deadliest shooting in modern U.S. history.",
+    "4":"Advocates encouraged immigrants to ask to see the credentials of their legal services provider. Applicants should never sign a blank form, and should ask for a translation if they need it. They should also make sure to get copies of any papers filed for their case."
+  },
+  "authors":{
+    "0":"Carol Kuruvilla",
+    "1":"Annabel Benhaiem, HuffPost France",
+    "2":"",
+    "3":"Nick Robins-Early",
+    "4":"Elena Shore, ContributorEditor, New America Media"
+  },
+  "date":{
+    "0":"2016-06-13 00:00:00",
+    "1":"2016-06-13 00:00:00",
+    "2":"2016-06-12 00:00:00",
+    "3":"2016-06-12 00:00:00",
+    "4":"2016-06-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usamus",
+    "1":"fra",
+    "2":"---uaf",
+    "3":"usa",
+    "4":"---jud"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"usacvl",
+    "2":"---ppl",
+    "3":"---ppl",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"017",
+    "2":"190",
+    "3":"190",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":0.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "muslims",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "orlando",
+      "victims",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "french",
+      "fra",
+      "france",
+      "orlando",
+      "victims",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "advocates",
+      "~jud",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american muslims",
+      "orlando victims"
+    ],
+    "1":[
+      "french",
+      "orlando ... victims"
+    ],
+    "2":[
+      "gunman",
+      "people"
+    ],
+    "3":[
+      "u.s.",
+      "people"
+    ],
+    "4":[
+      "advocates",
+      "immigrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "france",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "send ... message"
+    ],
+    "1":[
+      "pay tribute"
+    ],
+    "2":[
+      "<and> ... killed"
+    ],
+    "3":[
+      "<~ppl> ... killed in <usa>"
+    ],
+    "4":[
+      "encouraged"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamus",
+      "usacvl",
+      "130"
+    ],
+    "1":[
+      "fra",
+      "usacvl",
+      "017"
+    ],
+    "2":[
+      "---uaf",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "4":[
+      "---jud",
+      "---cvl",
+      "051"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/charles-manson-estate_us_5a52c8bbe4b089e14dbc36e2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-miller-genius_us_5a52469be4b01e1a4b1603bf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jake-tapper-stephen-miller_us_5a522a4ae4b01e1a4b15d6dc"
+  },
+  "headline":{
+    "0":"Judge To Settle Fight Over Charles Manson's 'Murderabilia'",
+    "1":"White House Aide Says Trump Tower Russia Allegation Untrue, But  Admits He Doesn\u2019t Know",
+    "2":"Jake Tapper Pulls The Plug On Stephen Miller's Train Wreck Interview"
+  },
+  "category":{
+    "0":"WEIRD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"A pen pal and men claiming to be Manson's son and grandson are battling for the killer's estate.",
+    "1":"Stephen Miller emphasizes the \u201cstable genius\u201d of Donald Trump, while allowing that he has \u201cno knowledge\u201d of the Trump campaign\u2019s meeting with Russians",
+    "2":"\"I've wasted enough of my viewers' time,\" the CNN host told President Donald Trump's senior policy adviser."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"S.V. Date",
+    "2":"Hayley Miller"
+  },
+  "date":{
+    "0":"2018-01-08 00:00:00",
+    "1":"2018-01-07 00:00:00",
+    "2":"2018-01-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov",
+    "2":"med"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"rus",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "killer",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "cnn",
+      "med",
+      "cnn",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "killer"
+    ],
+    "1":[
+      "white house",
+      "russia"
+    ],
+    "2":[
+      "cnn",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "white house",
+      "russian federation"
+    ],
+    "2":[
+      "cnn",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are battling for"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---crm",
+      "111"
+    ],
+    "1":[
+      "usagov",
+      "rus",
+      "010"
+    ],
+    "2":[
+      "med",
+      "---gov",
+      "010"
+    ]
+  }
+}

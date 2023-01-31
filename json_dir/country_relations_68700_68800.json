@@ -1,0 +1,203 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chicago-senator-wants-to-waive-150-ged-fees-for-homeless-students-so-they-can-get-diplomas_us_57068748e4b0b90ac271713f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/apple-boston-judge-ordered-fbi-help_us_570818f6e4b0836057a148b8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/democrats-supreme-court_us_5707fa49e4b0447a7dbc4515",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-welfare-reform_us_5707e023e4b0447a7dbc2a9b"
+  },
+  "headline":{
+    "0":"Chicago Senator Wants To Waive $150 GED Fees For Homeless Students",
+    "1":"Boston Judge Orders Apple To Help Law Enforcement Examine iPhone",
+    "2":"Democrats Could Win By Losing On The Supreme Court",
+    "3":"Bill Clinton's Welfare Reform Law Is Kicking Up To 1 Million People Off Food Stamps"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cThat\u2019s not too much to ask.\"",
+    "1":"BOSTON, April 8 (Reuters) - A U.S. magistrate judge in Boston in February ordered Apple Inc to assist law enforcement officers",
+    "2":"Legislators are debating how to fight for Obama's nominee without becoming obstructionist.",
+    "3":"Clinton touted the supposed benefits of the law this week."
+  },
+  "authors":{
+    "0":"Eleanor Goldberg",
+    "1":"",
+    "2":"Laura Barr\u00f3n-L\u00f3pez and Michael McAuliff",
+    "3":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2016-04-08 00:00:00",
+    "1":"2016-04-08 00:00:00",
+    "2":"2016-04-08 00:00:00",
+    "3":"2016-04-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"usajud",
+    "2":"---leg",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"mncusa",
+    "2":"usagov",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"035",
+    "1":"100",
+    "2":"111",
+    "3":"180"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0,
+    "2":-2.0,
+    "3":-9.0
+  },
+  "nouns":{
+    "0":[
+      "chicago",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.s.",
+      "magistrate",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "apple inc",
+      "mncusa",
+      "apple",
+      "inc"
+    ],
+    "2":[
+      "legislators",
+      "~leg",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago senator",
+      "students"
+    ],
+    "1":[
+      "u.s. magistrate judge",
+      "apple inc"
+    ],
+    "2":[
+      "legislators",
+      "obama"
+    ],
+    "3":[
+      "bill clinton",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "apple inc"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ],
+    "3":[
+      "bill clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... waive"
+    ],
+    "1":[
+      "ordered"
+    ],
+    "2":[
+      "are debating ... fight for"
+    ],
+    "3":[
+      "is kicking"
+    ]
+  },
+  "issues":{
+    "0":[
+      "poverty",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "---edu",
+      "035"
+    ],
+    "1":[
+      "usajud",
+      "mncusa",
+      "100"
+    ],
+    "2":[
+      "---leg",
+      "usagov",
+      "111"
+    ],
+    "3":[
+      "usaeli",
+      "---ppl",
+      "180"
+    ]
+  }
+}

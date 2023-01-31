@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jesse-friedmans-case-and-_b_6387082.html"
+  },
+  "headline":{
+    "0":"Jesse Friedman's Case and the Appearance of Impropriety"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"In plain English, Judge Corrigan should remove herself from this case to maintain public trust in our judicial system. Such an act is not atypical for judges since they must project the highest level of professionalism in the legal process."
+  },
+  "authors":{
+    "0":"Perry Binder, ContributorCollege professor & blogger @ 99 Motivators"
+  },
+  "date":{
+    "0":"2015-01-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"174"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should remove"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "174"
+    ]
+  }
+}

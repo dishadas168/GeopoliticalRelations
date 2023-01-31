@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/10-mad-men-wedding-looks_us_5b9b894be4b03a1dcc786b31",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tourist-beaten-robbed-baltimore-caught-camera-video_us_5ba2bf2ee4b0c2784da57e6e"
+  },
+  "headline":{
+    "0":"10 'Mad Men'-Inspired Wedding Looks",
+    "1":"Baltimore Tourist Robbed, Beaten On St. Patrick's Day, As Attack Caught On Camera (VIDEO)"
+  },
+  "category":{
+    "0":"WEDDINGS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"The fascination with the effortlessly cool vintage styles of the hit series \"Mad Men\" has inspired designers and magazine editors alike to take notice. Women are not only madly shopping for \"Mad Men\"-inspired looks in store aisles, they are looking for inspiration to walk down THE aisle...",
+    "1":"A group of people took the man's belongings, as onlookers laughed and pointed. It appears the man attempted to retrieve his"
+  },
+  "authors":{
+    "0":"Sara Morgan, Contributor\nFounder, Eleven Eleven PR",
+    "1":""
+  },
+  "date":{
+    "0":"2012-04-07 00:00:00",
+    "1":"2012-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "magazine editors",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "onlookers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "magazine editors"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has inspired"
+    ],
+    "1":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---med",
+      "051"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "171"
+    ]
+  }
+}

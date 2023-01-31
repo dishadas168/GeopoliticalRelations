@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.cbsnews.com\/8301-204_162-57582847\/urologists-no-longer-recommend-routine-psa-testing-for-prostate-cancer\/"
+  },
+  "headline":{
+    "0":"American Urological Association No Longer Recommend Routine PSA Testing For Prostate Cancer"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Urologists have reversed course on PSA testing for prostate cancer, no longer recommending routine testing for men. The American"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-05-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "urologists",
+      "~hlh",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "urologists",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... recommending"
+    ]
+  },
+  "issues":{
+    "0":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---ppl",
+      "020"
+    ]
+  }
+}

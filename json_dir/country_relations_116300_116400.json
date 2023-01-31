@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-and-the-ukraine-a-c_b_5853212.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkish-hostages-of-isis-freed_n_5853488.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lost-in-translation-loneliness-abroad_b_5855018.html"
+  },
+  "headline":{
+    "0":"Syria and the Ukraine -- A Contrast?",
+    "1":"49 Turkish Hostages Seized By ISIS Freed",
+    "2":"Lost in Translation: Loneliness Abroad"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Russia now owns Crimea and rebel forces in eastern Ukraine are trying to take over that part of Ukraine. This is all being done without any help from Vladimir Putin. If anyone has any doubts about that they were put to bed by a spokesman for the foreign ministry, Alexander Lukashevich.",
+    "1":"",
+    "2":"Being abroad this semester in Salamanca, Spain, the word 'lost' has taken on new meaning. 'Lost' for me now extends to homesickness, jet lag and culture shock. It's wondering if other students will ask for your company tonight, or hoping service on Viber isn't too fuzzy to talk to your mom."
+  },
+  "authors":{
+    "0":"Christopher Brauchli, ContributorLawyer",
+    "1":"",
+    "2":"Isabella Basco, ContributorStudent, Wake Forest University"
+  },
+  "date":{
+    "0":"2014-09-20 00:00:00",
+    "1":"2014-09-20 00:00:00",
+    "2":"2014-09-20 00:00:00"
+  },
+  "actor1":{
+    "0":"ukrreb",
+    "1":"tur",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"ukr",
+    "1":"imgmusisi",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"171",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-9.2,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "crimea",
+      "ukr",
+      "ukraine",
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "rebel forces",
+      "ukrreb",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "1":[
+      "turkish",
+      "tur",
+      "turkey",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rebel forces",
+      "crimea"
+    ],
+    "1":[
+      "turkish",
+      "isis"
+    ],
+    "2":[
+      "students",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "ukraine"
+    ],
+    "1":[
+      "turkey",
+      "the islamic state"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are <['take',> <'over']>"
+    ],
+    "1":[
+      "seized"
+    ],
+    "2":[
+      "will ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ukrreb",
+      "ukr",
+      "171"
+    ],
+    "1":[
+      "tur",
+      "imgmusisi",
+      "171"
+    ],
+    "2":[
+      "---edu",
+      "---bus",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/pope-francis-gay-man-god-made-you-like-that_us_5b02ab04e4b0a046186e0111",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-sue-your-employer_us_5afb2bcde4b09a94524ca8f3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/blake-farenthold-lobbyist-job-sexual-harassment_us_5b02f6bae4b07309e05af5e6",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-michelle-obama-netflix_us_5b02edd5e4b07309e05ae5cb",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-russia-mueller-fox-news_us_5aff072de4b0a046186b4794"
+  },
+  "headline":{
+    "0":"Gay Man Says Pope Francis Told Him, \u2018God Made You Like That And Loves You Like That'",
+    "1":"The Supreme Court Just Made It A Lot Harder For You To Sue Your Employer",
+    "2":"Blake Farenthold May Have Been Hired Illegally At His New Lobbyist Job",
+    "3":"The Obamas Are Coming To Your Netflix Queue",
+    "4":"Fox News Viewers Really Don\u2019t Like Lifelong Republican Robert Mueller"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"His words, reportedly uttered in private, have been described as the most progressive remarks ever made by a modern pontiff about homosexuality.",
+    "1":"A new ruling allows employers to force workers into class-action waivers. As one justice put it, the case cuts to \"the entire heart of the New Deal.\"",
+    "2":"A Texas newspaper filed a lawsuit alleging the Calhoun Port Authority hired the disgraced former lawmaker without public notice, in violation of state law.",
+    "3":"Netflix announced a deal with Barack and Michelle Obama to produce a variety of films and series.",
+    "4":"Most of those following the Trump-Russia investigation via the cable news outlet say they strongly disapprove of the special counsel's job performance."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Dave Jamieson",
+    "2":"Jennifer Bendery",
+    "3":"Marina Fang",
+    "4":"Ryan J. Reilly and Ariel Edwards-Levy"
+  },
+  "date":{
+    "0":"2018-05-21 00:00:00",
+    "1":"2018-05-21 00:00:00",
+    "2":"2018-05-21 00:00:00",
+    "3":"2018-05-21 00:00:00",
+    "4":"2018-05-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---jud",
+    "2":"usamed",
+    "3":"mncusa",
+    "4":"rusmed"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"---gov",
+    "3":"usagov",
+    "4":"---jud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"173",
+    "2":"110",
+    "3":"060",
+    "4":"110"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":-2.0,
+    "3":6.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "employer",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "texas",
+      "newspaper",
+      "usamed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "authority",
+      "~gov",
+      "~",
+      "lawmaker",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "netflix",
+      "mncusa",
+      "netflix",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "4":[
+      "news outlet",
+      "~med",
+      "~",
+      "russia",
+      "news outlet",
+      "rusmed",
+      "russian",
+      "federation",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "supreme court",
+      "employer"
+    ],
+    "2":[
+      "texas newspaper",
+      "authority"
+    ],
+    "3":[
+      "netflix",
+      "obama"
+    ],
+    "4":[
+      "russia ... news outlet",
+      "counsel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "netflix",
+      "barack obama"
+    ],
+    "4":[
+      "russian federation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... told"
+    ],
+    "1":[
+      "made ... sue"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "announced ... deal"
+    ],
+    "4":[
+      "say ... disapprove"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "---bus",
+      "173"
+    ],
+    "2":[
+      "usamed",
+      "---gov",
+      "110"
+    ],
+    "3":[
+      "mncusa",
+      "usagov",
+      "060"
+    ],
+    "4":[
+      "rusmed",
+      "---jud",
+      "110"
+    ]
+  }
+}

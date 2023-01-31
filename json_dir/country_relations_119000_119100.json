@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/james-foley-executed-isis_n_5692695.html"
+  },
+  "headline":{
+    "0":"James Foley, Missing American Photojournalist, Beheaded By ISIS"
+  },
+  "category":{
+    "0":"MEDIA"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Katherine Fung"
+  },
+  "date":{
+    "0":"2014-08-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"imgmusisi"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "beheaded"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "imgmusisi",
+      "190"
+    ]
+  }
+}

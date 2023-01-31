@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-lawyer-asks-journalist-if-shes-on-drugs-after-comey-questions_us_59ac77abe4b0b5e530ff6a0d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/colombian-guerrilla-group-eln-kills-hostage_us_59ab35c0e4b0b5e530ff265a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-texas-harvey-recovery_us_59ab0881e4b0b5e530ff1337"
+  },
+  "headline":{
+    "0":"Trump Lawyer Asks Journalist If She's On Drugs After James Comey Question",
+    "1":"Colombian Guerrilla Group Admits To Killing Russian-Armenian Hostage",
+    "2":"Trump Congratulates Texas Governor On Harvey Recovery So Far"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"WORLD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Ty Cobb made the remarks in a late night email exchange with Business Insider's Natasha Bertrand.",
+    "1":"The ELN says Arsen Voskanyan was killed during an attempt to flee the group's custody.",
+    "2":"The president said he saw \"a lot of happiness\" in a Houston shelter."
+  },
+  "authors":{
+    "0":"Doha Madani",
+    "1":"Helen Murphy and Luis Jaime Acosta, Reuters",
+    "2":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-09-03 00:00:00",
+    "1":"2017-09-02 00:00:00",
+    "2":"2017-09-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"colreb",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"rus",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"050",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":3.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "journalist",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "colombian",
+      "guerrilla",
+      "colreb",
+      "colombia",
+      "~",
+      "armenian",
+      "arm",
+      "armenia",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "journalist"
+    ],
+    "1":[
+      "colombian guerrilla",
+      "russian"
+    ],
+    "2":[
+      "president",
+      "houston"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "colombia",
+      "russian federation"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asks"
+    ],
+    "1":[
+      "admits"
+    ],
+    "2":[
+      "said ... saw"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---med",
+      "020"
+    ],
+    "1":[
+      "colreb",
+      "rus",
+      "050"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "010"
+    ]
+  }
+}

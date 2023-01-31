@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gazaa-disaster-in-the-making_us_5978c853e4b0940189700e67",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/gop-senators-defend-jeff-sessions-as-trump-continues-publicly-humiliating-him_us_59775478e4b0a8a40e827a27",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/watch-trump-silence-a-reporter-for-doing-her-job_us_59774d16e4b0e201d578298c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-sessions-humiliation_us_5977b52ee4b0a8a40e836d44"
+  },
+  "headline":{
+    "0":"Gaza\u2014A Disaster In The Making",
+    "1":"GOP Senators Defend Sessions As Trump Continues Publicly Humiliating Him",
+    "2":"Watch Trump Silence A Reporter For Doing Her Job",
+    "3":"Jeff Sessions Still Has His Job, But Trump Keeps Humiliating Him Anyway"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WOMEN",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"It has been ten years since Hamas defeated the Palestinian Authority in Gaza and assumed control over the territory. Today",
+    "1":"The president has rebuked his attorney general for positions Trump once held.",
+    "2":"The president told a reporter to be \"quiet\" when she asked about health care.",
+    "3":"The president says his attorney general should have protected him from the Russia investigation."
+  },
+  "authors":{
+    "0":"Alon Ben-Meir, ContributorSenior Fellow, Center for Global Affairs, NYU",
+    "1":"Jenna Amatulli",
+    "2":"Alanna Vagianos",
+    "3":"S.V. Date"
+  },
+  "date":{
+    "0":"2017-07-26 00:00:00",
+    "1":"2017-07-25 00:00:00",
+    "2":"2017-07-25 00:00:00",
+    "3":"2017-07-25 00:00:00"
+  },
+  "actor1":{
+    "0":"pserebhms",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"psegov",
+    "1":"---gov",
+    "2":"---med",
+    "3":"rusgov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"111",
+    "2":"010",
+    "3":"074"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":8.5
+  },
+  "nouns":{
+    "0":[
+      "hamas",
+      "pserebhms",
+      "hamas",
+      "palestinian authority",
+      "psegov",
+      "palestinian",
+      "authority",
+      "gaza",
+      "psegza",
+      "gaza"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "attorney general",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "attorney general",
+      "~gov",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hamas",
+      "palestinian authority"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "president",
+      "reporter"
+    ],
+    "3":[
+      "president",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hamas",
+      "palestinian authority"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... defeated"
+    ],
+    "1":[
+      "has rebuked"
+    ],
+    "2":[
+      "told"
+    ],
+    "3":[
+      "says ... should ... protected"
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "pserebhms",
+      "psegov",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "111"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "rusgov",
+      "074"
+    ]
+  }
+}

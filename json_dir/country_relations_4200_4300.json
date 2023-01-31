@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/tropical-storm-isaias-florida_n_5f26a7dfc5b68fbfc88462f1",
+    "1":"https:\/\/www.huffpost.com\/entry\/sinclair-broadcast-school-coronavirus-teachers_n_5f22e043c5b68fbfc87fff44",
+    "2":"https:\/\/www.huffpost.com\/entry\/pence-coronavirus-video-doctors-hydroxychloroquine_n_5f21d7c4c5b6b8cd63b15277",
+    "3":"https:\/\/www.huffpost.com\/entry\/john-lewis-trump_n_5e0e3fa0e4b0843d360f8964"
+  },
+  "headline":{
+    "0":"Tropical Storm Isaias Nears Virus-Hit Florida After Lashing The Bahamas",
+    "1":"School Founded By Sinclair Broadcast VP Tells Teachers: Come In Person Or Lose Your Job",
+    "2":"Mike Pence Met With Group Behind Viral Coronavirus Misinformation Video",
+    "3":"John Lewis Went Against Donald Trump When Few Democrats Would"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The governor said the state is anticipating power outages and asked residents to have a week\u2019s supply of water, food and medicine on hand.",
+    "1":"\"I would hope his dedication to the school outweighs his dedication to politics,\u201d said one teacher at a school founded by Fred Smith.",
+    "2":"Members of America's Frontline Doctors group stated that they discussed the unproven drug hydroxychloroquine with the vice president.",
+    "3":"The congressman said that Trump was not a \"legitimate\" president \u2014\u00a0even before he was sworn in."
+  },
+  "authors":{
+    "0":"Tamara Lush and Danica Coto, AP",
+    "1":"Rebecca Klein",
+    "2":"Nick Robins-Early",
+    "3":"Amanda Terkel"
+  },
+  "date":{
+    "0":"2020-08-02 00:00:00",
+    "1":"2020-07-31 00:00:00",
+    "2":"2020-07-29 00:00:00",
+    "3":"2020-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---edu",
+    "2":"usahlh",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu",
+    "2":"---gov",
+    "3":"---leg"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"060",
+    "2":"046",
+    "3":"110"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":6.0,
+    "2":7.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "school",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "america",
+      "doctors",
+      "usahlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "congressman",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "residents"
+    ],
+    "1":[
+      "school",
+      "school"
+    ],
+    "2":[
+      "america ... doctors",
+      "president"
+    ],
+    "3":[
+      "congressman",
+      "congressman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... asked"
+    ],
+    "1":[
+      "founded"
+    ],
+    "2":[
+      "stated ... discussed ... with"
+    ],
+    "3":[
+      "said <~leg> ... sworn in <--->"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "020"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "060"
+    ],
+    "2":[
+      "usahlh",
+      "---gov",
+      "046"
+    ],
+    "3":[
+      "---leg",
+      "---leg",
+      "110"
+    ]
+  }
+}

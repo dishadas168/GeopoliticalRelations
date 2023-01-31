@@ -1,0 +1,159 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-strike-kills-turkish-soldiers_us_589c96b9e4b09bd304c064ad",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-appeals-court-to-rule-on-trump-travel-ban-by-end-of-day_us_589cf178e4b03df370d4ce77",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dakota-access-pipeline-construction_us_589c8f45e4b04061313bed0a"
+  },
+  "headline":{
+    "0":"Russian Strike Kills 3 Turkish Soldiers In Syria",
+    "1":"U.S. Appeals Court To Rule On Trump Travel Ban By End Of Day",
+    "2":"Construction Begins On Final Section Of The Dakota Access Pipeline"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"AMMAN\/ANKARA, Feb 9 (Reuters) - Russian air strikes accidentally killed three Turkish soldiers and wounded 11 others during",
+    "1":"SAN FRANCISCO (Reuters) - A U.S. appeals court said it will rule by the end of business on Thursday regarding President Donald",
+    "2":"Native Americans who object to the project are still fighting it in court."
+  },
+  "authors":{
+    "0":"Suleiman Al-Khalidi and Daren Butler, Reuters",
+    "1":"",
+    "2":"Kate Abbey-Lambertz"
+  },
+  "date":{
+    "0":"2017-02-09 00:00:00",
+    "1":"2017-02-09 00:00:00",
+    "2":"2017-02-09 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"usajud",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"turmil",
+    "1":"---busgov",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "turkish",
+      "soldiers",
+      "turmil",
+      "turkey",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "appeals court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "native",
+      "~cvl",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian",
+      "turkish soldiers"
+    ],
+    "1":[
+      "u.s. appeals court",
+      "---"
+    ],
+    "2":[
+      "native",
+      "court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "turkey"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... killed"
+    ],
+    "1":[
+      "said ... will rule"
+    ],
+    "2":[
+      "are ... fighting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "airstrike",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "turmil",
+      "190"
+    ],
+    "1":[
+      "usajud",
+      "---busgov",
+      "060"
+    ],
+    "2":[
+      "---cvl",
+      "---jud",
+      "190"
+    ]
+  }
+}

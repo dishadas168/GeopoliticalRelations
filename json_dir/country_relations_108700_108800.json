@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/aclu-ferguson-florissant-lawsuit_n_6350570.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cameroon-boko-haram_n_6347382.html"
+  },
+  "headline":{
+    "0":"ACLU Lawsuit Says Ferguson School District Discriminates Against African-Americans",
+    "1":"Cameroon Army Says It Killed 116 Boko Haram Militants"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":""
+  },
+  "authors":{
+    "0":"Rebecca Klein",
+    "1":"Eline Gordts"
+  },
+  "date":{
+    "0":"2014-12-18 00:00:00",
+    "1":"2014-12-18 00:00:00"
+  },
+  "actor1":{
+    "0":"ngousahri",
+    "1":"cmrmil"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---uaf"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"015"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "cameroon",
+      "army",
+      "cmrmil",
+      "cameroon",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "aclu",
+      "school"
+    ],
+    "1":[
+      "cameroon army",
+      "militants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "american civil liberties union",
+      "---"
+    ],
+    "1":[
+      "cameroon",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "says ... killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "1":[
+      "named_terror_group",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ngousahri",
+      "---edu",
+      "010"
+    ],
+    "1":[
+      "cmrmil",
+      "---uaf",
+      "015"
+    ]
+  }
+}

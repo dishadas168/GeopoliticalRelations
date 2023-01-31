@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-social-media-star-killed-honor-killing_us_578a2f1de4b0867123e17c6d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-coup-social-media_us_578a2fe5e4b08608d334c35a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-warren-trump-university-letter_us_578912c8e4b03fc3ee50a28f"
+  },
+  "headline":{
+    "0":"Pakistani Social Media Star Allegedly Strangled By Brother In 'Honor Killing'",
+    "1":"Turks Celebrate #FailedCoup After Deadly Clashes End In Democratic Victory",
+    "2":"Elizabeth Warren Wants To Stop The Next Trump University"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Qandeel Baloch\u2019s raunchy social media photos challenged social norms in Pakistan, a deeply conservative Muslim country.",
+    "1":"\u201cThere is no power higher than the power of the people,\u201d President Recep Tayyip Erdogan told citizens.",
+    "2":"Twelve progressive senators are demanding action against \"universities\" that really aren't."
+  },
+  "authors":{
+    "0":"Mubasher Bukhari, Reuters",
+    "1":"Jesselyn Cook",
+    "2":"Ben Walsh"
+  },
+  "date":{
+    "0":"2016-07-16 00:00:00",
+    "1":"2016-07-16 00:00:00",
+    "2":"2016-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"turgov",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"pakmus",
+    "1":"---cvl",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"010",
+    "2":"100"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "pakistan",
+      "muslim",
+      "pakmus",
+      "pakistan",
+      "~"
+    ],
+    "1":[
+      "president",
+      "recep tayyip erdogan",
+      "turgov",
+      "~",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "citizens",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "senators",
+      "~leg",
+      "~",
+      "universities",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "pakistan ... muslim"
+    ],
+    "1":[
+      "president recep tayyip erdogan",
+      "citizens"
+    ],
+    "2":[
+      "senators",
+      "universities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "pakistan"
+    ],
+    "1":[
+      "recep tayyip erdogan",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "challenged"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "are demanding action against"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "pakmus",
+      "110"
+    ],
+    "1":[
+      "turgov",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "---edu",
+      "100"
+    ]
+  }
+}

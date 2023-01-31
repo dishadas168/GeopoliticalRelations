@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israels-attacks-in-syria-_b_7145772.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-white-house-correspondents-dinner_n_7144808.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/nepal-earthquake-victims-mourning-photos_n_7146520.html"
+  },
+  "headline":{
+    "0":"Israel's Attacks in Syria Pose New Challenges for the Iranian Axis",
+    "1":"Obama Can't Believe That Donald Trump Is Still Attending The White House Correspondents' Dinner",
+    "2":"Heartbreaking Photos Of Nepal Mourning Thousands Of Earthquake Victims"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"In the coming weeks and months, it can be assumed that Israel will continue preventing weapons transfers to Hezbollah, even at the risk of a major escalation.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Daniel Nisman, ContributorPresident of Levantine Group, a Middle East-based geopolitical...",
+    "1":"Sam Levine",
+    "2":"Charlotte Alfred"
+  },
+  "date":{
+    "0":"2015-04-27 00:00:00",
+    "1":"2015-04-26 00:00:00",
+    "2":"2015-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"usagov",
+    "2":"npl"
+  },
+  "actor2":{
+    "0":"irn",
+    "1":"---med",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"042",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.9,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "syria",
+      "syr",
+      "syria",
+      "israel",
+      "isr",
+      "israel",
+      "iranian",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "correspondents",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "nepal",
+      "npl",
+      "nepal",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israel",
+      "iranian"
+    ],
+    "1":[
+      "obama",
+      "correspondents"
+    ],
+    "2":[
+      "nepal",
+      "victims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "iran"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "nepal",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "challenges"
+    ],
+    "1":[
+      "ca ... attending"
+    ],
+    "2":[
+      "mourning"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "natural_disaster",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isr",
+      "irn",
+      "110"
+    ],
+    "1":[
+      "usagov",
+      "---med",
+      "042"
+    ],
+    "2":[
+      "npl",
+      "---cvl",
+      "110"
+    ]
+  }
+}

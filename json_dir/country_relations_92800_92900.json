@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sweden-blood-donors-text-message_n_7657156.html"
+  },
+  "headline":{
+    "0":"Sweden Blood Bank Texts Donors To Notify Them Whenever Their Blood Helps Save A Life"
+  },
+  "category":{
+    "0":"GOOD NEWS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Cameron Keady"
+  },
+  "date":{
+    "0":"2015-06-25 00:00:00"
+  },
+  "actor1":{
+    "0":"swe"
+  },
+  "actor2":{
+    "0":"swe"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "sweden",
+      "swe",
+      "sweden"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sweden",
+      "sweden"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sweden",
+      "sweden"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "donors ... notify"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "swe",
+      "swe",
+      "040"
+    ]
+  }
+}

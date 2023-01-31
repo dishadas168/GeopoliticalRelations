@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-inauguration-womens-march_us_58826bbbe4b096b4a23196bc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/reince-priebus-trump-cia_us_5884b37ae4b070d8cad31fe5"
+  },
+  "headline":{
+    "0":"These Muslim Teens Just Went To Their First Women's March. They Could Have Led It.",
+    "1":"Reince Priebus Describes Trump's Relationship With CIA As A 'Love Fest'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Donald Trump doesn't scare me,\" said 18-year-old Yasmin Seid.",
+    "1":"The chief of staff also called former CIA Director John Brennan \"bitter.\""
+  },
+  "authors":{
+    "0":"Jennifer Bendery",
+    "1":"Jason Cherkis"
+  },
+  "date":{
+    "0":"2017-01-22 00:00:00",
+    "1":"2017-01-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---mus",
+    "1":"usagovspy"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "muslim",
+      "~mus",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "chief of staff",
+      "~gov",
+      "~",
+      "john brennan",
+      "usagovspy",
+      "john",
+      "brennan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "muslim",
+      "women"
+    ],
+    "1":[
+      "john brennan",
+      "chief of staff",
+      "chief of staff",
+      "john brennan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "john brennan",
+      "---",
+      "---",
+      "john brennan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ],
+    "1":[
+      "called",
+      "called"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---mus",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "usagovspy",
+      "---gov",
+      "041",
+      "---gov",
+      "usagovspy",
+      "041"
+    ]
+  }
+}

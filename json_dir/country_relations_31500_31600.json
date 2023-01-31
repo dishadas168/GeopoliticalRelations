@@ -1,0 +1,205 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/youtube-extremist-videos_us_59478980e4b01eab7a2ebd6b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-june-19-2017_us_5947f720e4b0961faacbe565",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mali-resort-attack_us_5946c091e4b0f15cd5bc2b51",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mali-resort-attack_us_5946c091e4b0f15cd5bc2b51"
+  },
+  "headline":{
+    "0":"Google Launches Effort To Remove Terrorist And Extremist Content From YouTube",
+    "1":"News Roundup for June 19, 2017",
+    "2":"Gunmen Attack Popular Resort Outside Mali's Capital",
+    "3":"Gunmen Attack Popular Resort Outside Mali's Capital"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The company will take a tougher position on videos containing supremacist or inflammatory religious content.",
+    "1":"So this weekend was a little nuts, eh? 1. In Virginia, a 17-year-old Muslim girl was murdered by a man as she returned to",
+    "2":"Malian security forces rescued dozens of people and killed five militants involved in the attack.",
+    "3":"Malian security forces rescued dozens of people and killed five militants involved in the attack."
+  },
+  "authors":{
+    "0":"",
+    "1":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "2":"By Adama Diarra and Idrissa Sangare, Reuters",
+    "3":"By Adama Diarra and Idrissa Sangare, Reuters"
+  },
+  "date":{
+    "0":"2017-06-19 00:00:00",
+    "1":"2017-06-19 00:00:00",
+    "2":"2017-06-18 00:00:00",
+    "3":"2017-06-18 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"---ppl",
+    "2":"---uaf",
+    "3":"mlimil"
+  },
+  "actor2":{
+    "0":"---uafrad",
+    "1":"---muscvl",
+    "2":"mli",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"190",
+    "2":"190",
+    "3":"073"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":7.4
+  },
+  "nouns":{
+    "0":[
+      "google",
+      "mncusamed",
+      "google",
+      "terrorist",
+      "extremist",
+      "~uafrad",
+      "~",
+      "~"
+    ],
+    "1":[
+      "muslim",
+      "girl",
+      "~muscvl",
+      "~",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "gunmen",
+      "~uaf",
+      "~",
+      "mali",
+      "mli",
+      "mali"
+    ],
+    "3":[
+      "malian",
+      "security forces",
+      "mlimil",
+      "mali",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "militants",
+      "~uaf",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "google",
+      "terrorist ... extremist"
+    ],
+    "1":[
+      "man",
+      "muslim girl"
+    ],
+    "2":[
+      "gunmen",
+      "mali"
+    ],
+    "3":[
+      "malian security forces",
+      "people",
+      "malian security forces",
+      "militants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "google",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "mali"
+    ],
+    "3":[
+      "mali",
+      "---",
+      "mali",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "effort ... remove"
+    ],
+    "1":[
+      "<~muscvl> ... murdered by <~ppl>"
+    ],
+    "2":[
+      "attack"
+    ],
+    "3":[
+      "<and> ... rescued",
+      "<and> ... killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1",
+      "id_extremism",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "---uafrad",
+      "174"
+    ],
+    "1":[
+      "---ppl",
+      "---muscvl",
+      "190"
+    ],
+    "2":[
+      "---uaf",
+      "mli",
+      "190"
+    ],
+    "3":[
+      "mlimil",
+      "---ppl",
+      "073",
+      "mlimil",
+      "---uaf",
+      "190"
+    ]
+  }
+}

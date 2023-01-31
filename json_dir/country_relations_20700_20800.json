@@ -1,0 +1,286 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russian-troll-farm-news-organizations_us_59fc9a00e4b01b47404a37ab",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/brett-ratner-sues-melanie-kohler_us_59fab0d9e4b01b4740482a5a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ayatollah-khamenei-us-iran-relations_us_59faf6c0e4b0b0c7fa381b7e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trumps-moment-of-truth-is-coming_us_59fb62a1e4b09887ad6f3e60",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/puerto-rico-needs-debt-relief-not-more-deals-with_us_59fb7498e4b09afdf01c4156",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/uber-lyft-laura-loomer_us_59fb60fce4b01b47404914b8"
+  },
+  "headline":{
+    "0":"Russian Trolls Didn't Need To Infiltrate The American Media, Because We Let Them In",
+    "1":"Hollywood Producer Brett Ratner Sues Woman Who Accused Him Of Rape",
+    "2":"Ayatollah Ali Khamenei Says The U.S. Is Iran's 'Number One Enemy'",
+    "3":"Trump's Moment Of Truth Is Coming",
+    "4":"Puerto Rico Needs Debt Relief, Not More Deals With Private Investors",
+    "5":"Uber, Lyft Ban Far-Right Journalist Following Islamophobic Tweets"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"ENTERTAINMENT",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"BUSINESS"
+  },
+  "short_description":{
+    "0":"We found more than 40 examples of Russian accounts easily weaseling their way into all sorts of news organizations \u2014 including ours.",
+    "1":"The suit was filed the same day as a Los Angeles Times report detailing multiple allegations of sexual harassment and assault against Ratner.",
+    "2":"\"We will never accept their bullying over the nuclear deal,\u201d Khamenei said.",
+    "3":"President Donald Trump leaves this week for an important 12-day trip to Asia where he will visit Japan, South Korea, China",
+    "4":"The Whitefish contract is a symptom of a long-term disease in American government.",
+    "5":"Commentator Laura Loomer promised legal action against the ride-sharing companies."
+  },
+  "authors":{
+    "0":"Maxwell Strachan",
+    "1":"Dominique Mosbergen",
+    "2":"",
+    "3":"Joe Peyronnin, ContributorHofstra Journalism Professor",
+    "4":"Donald Cohen, ContributorExecutive Director, In the Public Interest",
+    "5":"Antonia Blumberg"
+  },
+  "date":{
+    "0":"2017-11-03 00:00:00",
+    "1":"2017-11-02 00:00:00",
+    "2":"2017-11-02 00:00:00",
+    "3":"2017-11-02 00:00:00",
+    "4":"2017-11-02 00:00:00",
+    "5":"2017-11-02 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---bus",
+    "2":"irngov",
+    "3":"---gov",
+    "4":"usapri",
+    "5":"---med"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"jpn",
+    "4":"---bus",
+    "5":"---bus"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"173",
+    "2":"010",
+    "3":"042",
+    "4":"100",
+    "5":"130"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":0.0,
+    "3":1.9,
+    "4":-5.0,
+    "5":-4.4
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "american",
+      "media",
+      "usamed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "producer",
+      "~bus",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "khamenei",
+      "irngov",
+      "hojatolislam",
+      "sayyed",
+      "ali",
+      "khamenei",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "japan",
+      "south korea",
+      "china",
+      "jpn",
+      "kor",
+      "chn",
+      "japan",
+      "south",
+      "korea",
+      "china"
+    ],
+    "4":[
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico",
+      "investors",
+      "~bus",
+      "~"
+    ],
+    "5":[
+      "commentator",
+      "~med",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian",
+      "russian"
+    ],
+    "1":[
+      "producer",
+      "woman"
+    ],
+    "2":[
+      "khamenei",
+      "u.s."
+    ],
+    "3":[
+      "president",
+      "japan",
+      "president",
+      "south korea",
+      "president",
+      "china"
+    ],
+    "4":[
+      "puerto rico",
+      "investors"
+    ],
+    "5":[
+      "commentator",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "russian federation"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "hojatolislam sayyed ali khamenei",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "japan",
+      "---",
+      "south korea",
+      "---",
+      "china"
+    ],
+    "4":[
+      "puerto rico",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "sues"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "leaves ... visit",
+      "leaves ... visit",
+      "leaves ... visit"
+    ],
+    "4":[
+      "needs"
+    ],
+    "5":[
+      "promised ... action against"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "rape",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "rus",
+      "100"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "173"
+    ],
+    "2":[
+      "irngov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "jpn",
+      "042",
+      "---gov",
+      "kor",
+      "042",
+      "---gov",
+      "chn",
+      "042"
+    ],
+    "4":[
+      "usapri",
+      "---bus",
+      "100"
+    ],
+    "5":[
+      "---med",
+      "---bus",
+      "130"
+    ]
+  }
+}

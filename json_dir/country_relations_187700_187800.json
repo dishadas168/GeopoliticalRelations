@@ -1,0 +1,100 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nolan-gould-modern-family_us_5b9c0deae4b03a1dcc7c08cc"
+  },
+  "headline":{
+    "0":"Nolan Gould, 'Modern Family' Actor, Heads To The Grand Canyon With Sierra Club (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Gould, who is a Sierra Club Youth Ambassador, also went mountain biking in the protected area straddling the border of Utah"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-07-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---eli"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "grand canyon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sierra club",
+      "ngousaenv",
+      "sierra",
+      "club"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "grand canyon",
+      "actor",
+      "actor",
+      "grand canyon",
+      "sierra club",
+      "actor",
+      "actor",
+      "sierra club"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america",
+      "sierra club",
+      "---",
+      "---",
+      "sierra club"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "heads to",
+      "heads to",
+      "heads to",
+      "heads to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---eli",
+      "043",
+      "---eli",
+      "usa",
+      "042",
+      "ngousaenv",
+      "---eli",
+      "043",
+      "---eli",
+      "ngousaenv",
+      "042"
+    ]
+  }
+}

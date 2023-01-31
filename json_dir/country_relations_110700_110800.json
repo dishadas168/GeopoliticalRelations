@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/epistle-to-america-michae_b_6202276.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/my-dirty-little-thanksgiv_b_6219024.html"
+  },
+  "headline":{
+    "0":"Ferguson and Racism: An Epistle to America",
+    "1":"My Dirty Little Thanksgiving Secret"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"COMEDY"
+  },
+  "short_description":{
+    "0":"Dear America, we greet you as Christians who believe that freedom in Christ means that all persons deserve respect and equality before God and the law.",
+    "1":"Yesterday my doctor confirmed my longstanding suspicion. As it turns out, I really do have my head up my ass. The news, just in time for Thanksgiving, came as no real surprise. That's because my doctor was far from the first person to tell me I have my head up my ass."
+  },
+  "authors":{
+    "0":"Rev. Dr. Nancy Wilson, ContributorActivist, Speaker, Author, Pastor",
+    "1":"Bob Brody, ContributorPublic relations executive, essayist"
+  },
+  "date":{
+    "0":"2014-11-25 00:00:00",
+    "1":"2014-11-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---chr",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "christians",
+      "~chr",
+      "~"
+    ],
+    "1":[
+      "doctor",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "christians"
+    ],
+    "1":[
+      "doctor",
+      "doctor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "greet"
+    ],
+    "1":[
+      "was ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---chr",
+      "051"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ]
+  }
+}

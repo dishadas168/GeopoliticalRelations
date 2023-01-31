@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/saudi-prince-twitter_us_5bb36a02e4b0fa920b982275",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/landmark-majuro-declarati_us_5bb14297e4b09bbe9a5d70f0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/equus-long-beach-playhous_us_5bb26597e4b0171db69fe076"
+  },
+  "headline":{
+    "0":"Saudi Prince Who Owns Much Of Twitter Sees IPO By Early 2014",
+    "1":"Landmark Majuro Declaration Could Determine Our Children's Future (Video)",
+    "2":"Equus at the Long Beach Playhouse Studio Theatre"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"ENVIRONMENT",
+    "2":"CULTURE & ARTS"
+  },
+  "short_description":{
+    "0":"By Mirna Sleiman But the prince said: \"In my discussion with Mr Costolo and the management of Twitter, I cautioned them to",
+    "1":"During the Pacific Island Forum, Australia, New Zealand and 13 Heads of State from other Pacific nations made a landmark declaration -- calling for the full phase-out of greenhouse gas pollution, acknowledging that current efforts to tackle climate change are insufficient.",
+    "2":"A troubled teenager blinds three horses in a stable. A prosecutor plea-bargains treatment for jail time by calling in a favor with a child psychologist. At the end, both men undergo a catharsis. For the patient, presumably, it's a breakthrough. For the doctor, we're not so sure."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Kelly Rigg, Contributor\nCampaign consultant",
+    "2":"James Scarborough, Contributor\nWriter"
+  },
+  "date":{
+    "0":"2013-09-15 00:00:00",
+    "1":"2013-09-15 00:00:00",
+    "2":"2013-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"'ulukalala_lavaka_ata_",
+    "1":"mhl",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"'ulukalala_lavaka_ata_",
+    "1":"---cvl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"030",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":4.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ],
+    "1":[
+      "majuro",
+      "mhl",
+      "marshall",
+      "islands",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "prosecutor",
+      "~jud",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prince",
+      "prince"
+    ],
+    "1":[
+      "majuro",
+      "children"
+    ],
+    "2":[
+      "prosecutor",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "prince",
+      "prince"
+    ],
+    "1":[
+      "marshall islands",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... cautioned"
+    ],
+    "1":[
+      "could determine"
+    ],
+    "2":[
+      "bargains"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "'ulukalala_lavaka_ata_",
+      "'ulukalala_lavaka_ata_",
+      "130"
+    ],
+    "1":[
+      "mhl",
+      "---cvl",
+      "030"
+    ],
+    "2":[
+      "---jud",
+      "---cvl",
+      "050"
+    ]
+  }
+}

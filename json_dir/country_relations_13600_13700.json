@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jr-india-speech_us_5a8c9d83e4b00a30a2505846"
+  },
+  "headline":{
+    "0":"Donald Trump Jr. Is Giving A Speech In India This Week -- About What, We Have No Idea"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president\u2019s eldest son is slated to speak at an event with India's prime minister, during a trip meant to sell luxury apartments."
+  },
+  "authors":{
+    "0":"S.V. Date"
+  },
+  "date":{
+    "0":"2018-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"indgov"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "india",
+      "prime minister",
+      "indgov",
+      "india",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "india ... prime minister"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... speak"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "indgov",
+      "010"
+    ]
+  }
+}

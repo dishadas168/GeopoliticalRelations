@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mindfulness-why-it-works_us_5b9c4968e4b03a1dcc7d92a1",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2012\/09\/15\/business\/money-laundering-inquiry-said-to-target-us-banks.html?_r=1&hp"
+  },
+  "headline":{
+    "0":"Mindfulness: Why It Works, And Why We Should Teach It",
+    "1":"Money Laundering Probe Sets Sights On JPMorgan Chase, Bank Of America: Report"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"In the video below, Marianne Prins, a teacher at Sir William Van Horne Elementary in Vancouver, leads her third graders in",
+    "1":"Federal and state authorities are investigating a handful of major American banks for failing to monitor cash transactions"
+  },
+  "authors":{
+    "0":"Amanda L. Chan",
+    "1":""
+  },
+  "date":{
+    "0":"2012-09-15 00:00:00",
+    "1":"2012-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"canedu",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "vancouver",
+      "can",
+      "canada",
+      "teacher",
+      "canedu",
+      "~",
+      "third graders",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "authorities",
+      "~gov",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "third graders"
+    ],
+    "1":[
+      "authorities",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leads"
+    ],
+    "1":[
+      "are investigating"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "canedu",
+      "---edu",
+      "060"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "090"
+    ]
+  }
+}

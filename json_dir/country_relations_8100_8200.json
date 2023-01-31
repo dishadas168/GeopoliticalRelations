@@ -1,0 +1,423 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/south-korea-marks-first-comfort-women-day-to-remember-sex-slaves_n_5b733707e4b0594c38c5b5f9",
+    "1":"https:\/\/www.huffpost.com\/entry\/us-ambassador-britain-iran-nuclear-deal_n_5b70001de4b0530743ca99aa",
+    "2":"https:\/\/www.huffpost.com\/entry\/new-saudi-arabia-women_n_5b6e05fbe4b0ae32af982749",
+    "3":"https:\/\/www.huffpost.com\/entry\/california-wildfires-seventh-victim_n_5b66f97be4b0fd5c73daa528",
+    "4":"https:\/\/www.huffpost.com\/entry\/california-wildfires-seventh-victim_n_5b66f97be4b0fd5c73daa528",
+    "5":"https:\/\/www.huffpost.com\/entry\/judge-blocks-3d-printed-gun-blueprints_n_5b61021ee4b0de86f49be906",
+    "6":"https:\/\/www.huffpost.com\/entry\/pakistan-bomb-election-day-quetta_n_5b581ef9e4b0b15aba938c75",
+    "7":"https:\/\/www.huffpost.com\/entry\/israel-syria-fighter-jet-shot-down_n_5b571a2be4b0de86f490831c",
+    "8":"https:\/\/www.huffpost.com\/entry\/israel-syria-fighter-jet-shot-down_n_5b571a2be4b0de86f490831c"
+  },
+  "headline":{
+    "0":"First 'Comfort Women' Day Honors Those Forced Into Brothels In WWII",
+    "1":"U.S. Ambassador Urges Britain To Ditch 'Flawed' Iran Nuclear Deal",
+    "2":"The New Saudi Arabia Is A Lot Like The Old Saudi Arabia When It Comes To Women",
+    "3":"California Wildfires Claim Seventh Victim, Still Spreading",
+    "4":"California Wildfires Claim Seventh Victim, Still Spreading",
+    "5":"U.S. Judge Temporarily Halts Release Of 3D Printed Gun Blueprints",
+    "6":"Suicide Bomber Kills At Least 29 As Pakistanis Vote In Cliffhanger Election",
+    "7":"Israel Says Syrian Fighter Jet Shot Down For Breaching Its Airspace",
+    "8":"Israel Says Syrian Fighter Jet Shot Down For Breaching Its Airspace"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"U.S. NEWS",
+    "4":"U.S. NEWS",
+    "5":"U.S. NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS",
+    "8":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The Japanese army sexually abused some 200,000 South Korean women and girls during the war.",
+    "1":"Woody Johnson wrote in a Sunday Telegraph op-ed that America wants \"the UK by our side.\"",
+    "2":"A dispute with Canada over jailed women activists pits Saudi feminists and allies around the world against the planet's most misogynistic government.",
+    "3":"The Carr fire in northern California killed a power company lineman on Saturday, according to officials.",
+    "4":"The Carr fire in northern California killed a power company lineman on Saturday, according to officials.",
+    "5":"U.S. District Judge Robert Lasnik in Seattle said the blueprints\u2019 publication could cause irreparable harm to U.S. citizens.",
+    "6":"The Islamic State militant group claimed responsibility for the attack in the western city of Quetta, where security sources said the bomber drove his motorcycle into a police vehicle.",
+    "7":"Syrian forces have been battling rebels and ISIS militants at the frontier with Israel in recent weeks.",
+    "8":"Syrian forces have been battling rebels and ISIS militants at the frontier with Israel in recent weeks."
+  },
+  "authors":{
+    "0":"Joyce Lee, Yimou Lee, Reuters",
+    "1":"William James, Reuters",
+    "2":"Akbar Shahid Ahmed",
+    "3":"Rich McKay, Reuters",
+    "4":"Rich McKay, Reuters",
+    "5":"Tina Bellon, Reuters",
+    "6":"Gul Yousafzai, Reuters",
+    "7":"",
+    "8":""
+  },
+  "date":{
+    "0":"2018-08-14 00:00:00",
+    "1":"2018-08-12 00:00:00",
+    "2":"2018-08-12 00:00:00",
+    "3":"2018-08-05 00:00:00",
+    "4":"2018-08-05 00:00:00",
+    "5":"2018-08-01 00:00:00",
+    "6":"2018-07-25 00:00:00",
+    "7":"2018-07-24 00:00:00",
+    "8":"2018-07-24 00:00:00"
+  },
+  "actor1":{
+    "0":"jpnmil",
+    "1":"usa",
+    "2":"canopp",
+    "3":"usa",
+    "4":"usa",
+    "5":"usajud",
+    "6":"---uaf",
+    "7":"isr",
+    "8":"syr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"gbr",
+    "2":"saugov",
+    "3":"---cvl",
+    "4":"---bus",
+    "5":"---med",
+    "6":"pak",
+    "7":"syrmil",
+    "8":"imgmusisirebuaf"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"030",
+    "2":"190",
+    "3":"110",
+    "4":"190",
+    "5":"010",
+    "6":"015",
+    "7":"010",
+    "8":"190"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":4.0,
+    "2":-10.0,
+    "3":-2.0,
+    "4":-10.0,
+    "5":0.0,
+    "6":0.0,
+    "7":0.0,
+    "8":-10.0
+  },
+  "nouns":{
+    "0":[
+      "japanese",
+      "army",
+      "jpnmil",
+      "japan",
+      "~",
+      "women",
+      "girls",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the uk",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "2":[
+      "activists",
+      "~opp",
+      "~",
+      "canada",
+      "activists",
+      "canopp",
+      "canada",
+      "~",
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "5":[
+      "seattle",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.s.",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "publication",
+      "~med",
+      "~",
+      "u.s.",
+      "citizens",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "militant",
+      "~uaf",
+      "~",
+      "quetta",
+      "pak",
+      "pakistan",
+      "bomber",
+      "~mil",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "7":[
+      "israel",
+      "isr",
+      "israel",
+      "syrian",
+      "fighter jet",
+      "syrmil",
+      "syria",
+      "~"
+    ],
+    "8":[
+      "syrian",
+      "syr",
+      "syria",
+      "rebels",
+      "isis",
+      "militants",
+      "imgmusisirebuaf",
+      "~",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "japanese army",
+      "women ... girls"
+    ],
+    "1":[
+      "america",
+      "the uk"
+    ],
+    "2":[
+      "canada ... activists",
+      "---"
+    ],
+    "3":[
+      "california",
+      "victim"
+    ],
+    "4":[
+      "california",
+      "company"
+    ],
+    "5":[
+      "u.s. ... judge",
+      "publication"
+    ],
+    "6":[
+      "militant",
+      "quetta"
+    ],
+    "7":[
+      "israel",
+      "syrian fighter jet"
+    ],
+    "8":[
+      "syrian",
+      "rebels ... isis militants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "japan",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united kingdom"
+    ],
+    "2":[
+      "canada",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "---",
+      "pakistan"
+    ],
+    "7":[
+      "israel",
+      "syria"
+    ],
+    "8":[
+      "syria",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "abused"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "pits"
+    ],
+    "3":[
+      "claim"
+    ],
+    "4":[
+      "killed"
+    ],
+    "5":[
+      ""
+    ],
+    "6":[
+      "claimed responsibility"
+    ],
+    "7":[
+      "says"
+    ],
+    "8":[
+      "have ... battling"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":[
+      "natural_disaster",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "security_services",
+      "1"
+    ],
+    "7":null,
+    "8":null
+  },
+  "events":{
+    "0":[
+      "jpnmil",
+      "---cvl",
+      "180"
+    ],
+    "1":[
+      "usa",
+      "gbr",
+      "030"
+    ],
+    "2":[
+      "canopp",
+      "saugov",
+      "190"
+    ],
+    "3":[
+      "usa",
+      "---cvl",
+      "110"
+    ],
+    "4":[
+      "usa",
+      "---bus",
+      "190"
+    ],
+    "5":[
+      "usajud",
+      "---med",
+      "010"
+    ],
+    "6":[
+      "---uaf",
+      "pak",
+      "015"
+    ],
+    "7":[
+      "isr",
+      "syrmil",
+      "010"
+    ],
+    "8":[
+      "syr",
+      "imgmusisirebuaf",
+      "190"
+    ]
+  }
+}

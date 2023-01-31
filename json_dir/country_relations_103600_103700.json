@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/whos-extorting-whom-its-a_b_6698420.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/on-greece-plus-ca-change-_b_6697896.html"
+  },
+  "headline":{
+    "0":"Who's Extorting Whom? It's All About Coercion",
+    "1":"On Greece: Plus \u00e7a Change, Plus C'est la M\u00eame Chose"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Economist's Feb. 6 cover displayed the Venus de Milo statue pointing a revolver, with the headline \"Go ahead, Angela, make my day.\" In the editors' upside-down world, Greece is threatening Europe, or at least Germany. Really?",
+    "1":"People keep asking me what I think about Europe's most recent crisis (read: Greece). Well, my sentiments are exactly the same as they were in April 2012, when my Globe Asia column was titled: \"China and Greece - Here We Go Again.\""
+  },
+  "authors":{
+    "0":"Mark Weisbrot, ContributorCo-Director, Center for Economic and Policy Research, Washingt...",
+    "1":"Steve H. Hanke, ContributorProfessor of Applied Economics at The Johns Hopkins University..."
+  },
+  "date":{
+    "0":"2015-02-17 00:00:00",
+    "1":"2015-02-17 00:00:00"
+  },
+  "actor1":{
+    "0":"grc",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"deu",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "greece",
+      "grc",
+      "greece",
+      "germany",
+      "deu",
+      "germany"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "greece",
+      "germany"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "greece",
+      "germany"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is threatening"
+    ],
+    "1":[
+      "keep asking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "grc",
+      "deu",
+      "130"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "020"
+    ]
+  }
+}

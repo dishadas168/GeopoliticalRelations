@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/well.blogs.nytimes.com\/2013\/09\/30\/breast-feeding-services-lag-the-law\/?src=me&ref=general&_r=1&"
+  },
+  "headline":{
+    "0":"Breast-Feeding Services Lag Behind The Law"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Under the Affordable Care Act, insurance companies are required to pay for breast pumps and counseling for new mothers to"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "mothers",
+      "~cvl",
+      "~",
+      "mothers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "mothers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... pay"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "061"
+    ]
+  }
+}

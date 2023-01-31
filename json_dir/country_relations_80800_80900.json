@@ -1,0 +1,351 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/florida-woman-liann-gae-watson-calls-911-for-wings-smokes-police-say_us_56461545e4b060377348c212",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/le-pen-front-national-paris-attacks_us_56476647e4b045bf3def5c13",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bashar-assad-paris-attacks_us_56474d97e4b0603773493ee4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/paris-attack-victims_us_564752cae4b06037734941ac",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/state-department-americans-injured-paris_us_56474cd8e4b08cda34890070",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/paris-attacks-weapons_us_56474262e4b06037734934e0",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/leader-of-islamic-state-in-libya-believed-killed-by-us-airstrike_us_56476c08e4b08cda348914e1",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/leader-of-islamic-state-in-libya-believed-killed-by-us-airstrike_us_56476c08e4b08cda348914e1"
+  },
+  "headline":{
+    "0":"Florida Woman Calls 911 For Wings, Smokes, Police Say",
+    "1":"National Front Leader: France Must 'Annihilate' Islamist Radicals",
+    "2":"Syrian Dictator Who Helped ISIS Rise Now Exploiting Paris Attacks",
+    "3":"First Victims Of Paris Attacks Identified",
+    "4":"State Department: Americans Injured In Paris Attacks",
+    "5":"Man Arrested In Germany With Weapons In Car May Have Links To Paris Attacks",
+    "6":"Leader Of Islamic State In Libya Believed Killed By U.S. Airstrike",
+    "7":"Leader Of Islamic State In Libya Believed Killed By U.S. Airstrike"
+  },
+  "category":{
+    "0":"WEIRD NEWS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST",
+    "7":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Alcohol may have been involved.",
+    "1":"Polls have been suggesting that Le Pen, known for her strong speeches against immigration, is likely to win regional elections in northern France in December.",
+    "2":"President Bashar Assad's regime empowered the Islamic State in Syria.",
+    "3":"People continue to search for the missing on social media.",
+    "4":"But a spokesman would not comment on whether any American citizens had been killed.",
+    "5":"It appears the man originally wanted to head to Paris.",
+    "6":"WASHINGTON, Nov 14 (Reuters) - The U.S. military said on Saturday it launched an air strike targeting the Islamic State's",
+    "7":"WASHINGTON, Nov 14 (Reuters) - The U.S. military said on Saturday it launched an air strike targeting the Islamic State's"
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"",
+    "2":"Akbar Shahid Ahmed",
+    "3":"Sam Levine",
+    "4":"",
+    "5":"",
+    "6":"Phil Stewart, Reuters",
+    "7":"Phil Stewart, Reuters"
+  },
+  "date":{
+    "0":"2015-11-14 00:00:00",
+    "1":"2015-11-14 00:00:00",
+    "2":"2015-11-14 00:00:00",
+    "3":"2015-11-14 00:00:00",
+    "4":"2015-11-14 00:00:00",
+    "5":"2015-11-14 00:00:00",
+    "6":"2015-11-14 00:00:00",
+    "7":"2015-11-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl",
+    "1":"fra",
+    "2":"syrgov",
+    "3":"---ppl",
+    "4":"---med",
+    "5":"---ppl",
+    "6":"---mus",
+    "7":"usamil"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---mus",
+    "2":"imgmusisi",
+    "3":"---med",
+    "4":"usacvl",
+    "5":"fra",
+    "6":"usa",
+    "7":"---mus"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"190",
+    "2":"08",
+    "3":"090",
+    "4":"016",
+    "5":"042",
+    "6":"190",
+    "7":"1621"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0,
+    "2":5.0,
+    "3":-2.0,
+    "4":3.4,
+    "5":1.9,
+    "6":-10.0,
+    "7":-5.6
+  },
+  "nouns":{
+    "0":[
+      "florida",
+      "woman",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "france",
+      "fra",
+      "france",
+      "islamist",
+      "~mus",
+      "~"
+    ],
+    "2":[
+      "president",
+      "bashar assad",
+      "regime",
+      "syrgov",
+      "~",
+      "bashar",
+      "al-assad",
+      "~",
+      "syria",
+      "syr",
+      "syria",
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "4":[
+      "spokesman",
+      "~med",
+      "~",
+      "american",
+      "citizens",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "5":[
+      "man",
+      "~ppl",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "6":[
+      "islamic",
+      "~mus",
+      "~",
+      "islamic",
+      "~mus",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "7":[
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "islamic",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "florida woman",
+      "police"
+    ],
+    "1":[
+      "france",
+      "islamist"
+    ],
+    "2":[
+      "president bashar assad ... regime",
+      "the islamic state"
+    ],
+    "3":[
+      "people",
+      "media"
+    ],
+    "4":[
+      "spokesman",
+      "american citizens"
+    ],
+    "5":[
+      "man",
+      "paris"
+    ],
+    "6":[
+      "islamic",
+      "u.s."
+    ],
+    "7":[
+      "u.s. military",
+      "islamic"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "france",
+      "---"
+    ],
+    "2":[
+      "bashar al-assad",
+      "the islamic state"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "france"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ],
+    "7":[
+      "united states military",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls ... for"
+    ],
+    "1":[
+      "must ... annihilate"
+    ],
+    "2":[
+      "empowered"
+    ],
+    "3":[
+      "continue ... search"
+    ],
+    "4":[
+      "would ... comment <usacvl> ... killed"
+    ],
+    "5":[
+      "wanted ... head to"
+    ],
+    "6":[
+      "killed"
+    ],
+    "7":[
+      "said ... launched <{air> <strike}> ... targeting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "airstrike",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---cop",
+      "020"
+    ],
+    "1":[
+      "fra",
+      "---mus",
+      "190"
+    ],
+    "2":[
+      "syrgov",
+      "imgmusisi",
+      "08"
+    ],
+    "3":[
+      "---ppl",
+      "---med",
+      "090"
+    ],
+    "4":[
+      "---med",
+      "usacvl",
+      "016"
+    ],
+    "5":[
+      "---ppl",
+      "fra",
+      "042"
+    ],
+    "6":[
+      "---mus",
+      "usa",
+      "190"
+    ],
+    "7":[
+      "usamil",
+      "---mus",
+      "1621"
+    ]
+  }
+}

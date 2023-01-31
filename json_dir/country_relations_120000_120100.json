@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-butchers-bill-in-gaza_b_5654847.html"
+  },
+  "headline":{
+    "0":"The Butcher's Bill in Gaza: Far Greater than Casualty Figures"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"In the widely-praised naval series by Patrick O'Brian, following each engagement, Captain Jack Aubrey would ask ship doctor Stephen Maturin \"What is the butcher's bill\"? The fictional hero wanted a casualty count."
+  },
+  "authors":{
+    "0":"Carlos F. Torres, ContributorThe views of a citizen of the world"
+  },
+  "date":{
+    "0":"2014-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil"
+  },
+  "actor2":{
+    "0":"---hlh"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "captain",
+      "~mil",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "captain",
+      "doctor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would ask"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---hlh",
+      "020"
+    ]
+  }
+}

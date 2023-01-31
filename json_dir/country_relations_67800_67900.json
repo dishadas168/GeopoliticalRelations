@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/truck-safety-rules_us_57166a82e4b0018f9cbb3d28",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/intel-fires-jobs_us_5716afd8e4b06f35cb711287"
+  },
+  "headline":{
+    "0":"Senate Prepares To Make Truck Safety Even Worse, Advocates Warn",
+    "1":"Intel Fires 12,000 Amid PC Crisis"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"The industry has given lawmakers language that will set 73-hour maximum work weeks for drivers.",
+    "1":"The company is trying \"to accelerate its evolution from a PC company to one that powers the cloud and billions of smart, connected computing devices.\""
+  },
+  "authors":{
+    "0":"Michael McAuliff",
+    "1":""
+  },
+  "date":{
+    "0":"2016-04-19 00:00:00",
+    "1":"2016-04-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"042"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.9
+  },
+  "nouns":{
+    "0":[
+      "industry",
+      "~bus",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "industry",
+      "lawmakers"
+    ],
+    "1":[
+      "company",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has given"
+    ],
+    "1":[
+      "is ... accelerate ... to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---leg",
+      "060"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "042"
+    ]
+  }
+}

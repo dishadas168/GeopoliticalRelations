@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/relationship-advice_us_5b9df336e4b03a1dcc8f5be4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/china-war-on-smog-beijing-hebei_us_5bb15390e4b09bbe9a5e9cfc"
+  },
+  "headline":{
+    "0":"9 Reasons You're Still With That Jerk",
+    "1":"China's War On Smog Sparks Conflict Between Beijing And Polluting Hebei"
+  },
+  "category":{
+    "0":"DIVORCE",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"3. You fixate on their good qualities. Let's face it, few people are bad to the bone. Even the worst people have their tender",
+    "1":"Hebei, which surrounds Beijing in the country's north, was home to seven of China's 10 most polluted cities last year. Researchers"
+  },
+  "authors":{
+    "0":"",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2014-03-31 00:00:00",
+    "1":"2014-03-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"chn"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"chn"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "beijing",
+      "hebei",
+      "chn",
+      "chn",
+      "china",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "china",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "china",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "face"
+    ],
+    "1":[
+      "sparks <&dispute>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ],
+    "1":[
+      "chn",
+      "chn",
+      "110",
+      "chn",
+      "chn",
+      "110"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/timothy-durham-national-lampoon-ceo_us_5bb2defee4b0480ca65db377"
+  },
+  "headline":{
+    "0":"Timothy Durham, Ex-National Lampoon CEO, Sentenced To 50 Years In Prison"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The money went to a car magazine, restaurants, a surgery center, trailer manufacturer, internet companies, a race car team"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "ceo",
+      "~bus",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceo",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sentenced"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cop",
+      "172"
+    ]
+  }
+}

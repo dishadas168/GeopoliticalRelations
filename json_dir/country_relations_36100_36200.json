@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-college-signing-day-mtv_us_5900dc16e4b0026db1dd8ef2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-protests-death-toll_us_59012940e4b0af6d718b4a7a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-federal-judges_us_5900e689e4b081a5c0fa198d"
+  },
+  "headline":{
+    "0":"Michelle Obama Won't Stop Encouraging Kids To Pursue College",
+    "1":"Death Toll In Venezuela's Unrest Rises As Protesters And Security Forces Clash On Bridge",
+    "2":"Donald Trump's First Lower Court Nominee Is Fine With The President Trashing Judges"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The former first lady is teaming up with MTV to host a \"College Signing Day\" celebration, a tradition she began in 2014.",
+    "1":"Also on Wednesday, Venezuela said it would withdraw from the Organization of American States.",
+    "2":"\"It doesn't matter to us,\" Judge Amul Thapar tells senators."
+  },
+  "authors":{
+    "0":"Marina Fang",
+    "1":"",
+    "2":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2017-04-26 00:00:00",
+    "1":"2017-04-26 00:00:00",
+    "2":"2017-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"ven",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"meareb",
+    "2":"---leg"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"08",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "venezuela",
+      "ven",
+      "venezuela",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "organization",
+      "meareb",
+      "tanzim"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "senators",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "college"
+    ],
+    "1":[
+      "venezuela",
+      "organization"
+    ],
+    "2":[
+      "judge",
+      "senators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "venezuela",
+      "tanzim"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wo ... encouraging"
+    ],
+    "1":[
+      "said ... would withdraw"
+    ],
+    "2":[
+      "tells"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---edu",
+      "051"
+    ],
+    "1":[
+      "ven",
+      "meareb",
+      "08"
+    ],
+    "2":[
+      "---jud",
+      "---leg",
+      "010"
+    ]
+  }
+}

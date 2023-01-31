@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/louise-bourgeois_us_5bb26931e4b0171db6a04be1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/black-boycott-san-francisco-tourism_us_5badf5dbe4b0bb1705fbb9b9"
+  },
+  "headline":{
+    "0":"Sculptor Louise Bourgeois Would Turn 102 If She Were Alive Today",
+    "1":"Black Business Leaders Call For Boycott Of San Francisco Tourism"
+  },
+  "category":{
+    "0":"CULTURE & ARTS",
+    "1":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Bourgeois, born in Paris in 1911, began studying art in her twenties while enrolled at the renowned French academic institution",
+    "1":"Black business leaders in San Francisco are calling for a boycott of the city\u2019s hotel and tourism industry, claiming that"
+  },
+  "authors":{
+    "0":"",
+    "1":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2013-12-25 00:00:00",
+    "1":"2013-12-24 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"usabus"
+  },
+  "actor2":{
+    "0":"fraedu",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "paris",
+      "fra",
+      "france",
+      "french",
+      "academic",
+      "fraedu",
+      "france",
+      "~"
+    ],
+    "1":[
+      "san francisco",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "business leaders",
+      "usabus",
+      "~",
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "paris",
+      "french academic"
+    ],
+    "1":[
+      "business leaders",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "france"
+    ],
+    "1":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "began ... enrolled"
+    ],
+    "1":[
+      "are calling for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "fraedu",
+      "060"
+    ],
+    "1":[
+      "usabus",
+      "---bus",
+      "020"
+    ]
+  }
+}

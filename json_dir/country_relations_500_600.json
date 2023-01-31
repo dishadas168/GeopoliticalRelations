@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/gop-donald-trump-stuck-must-abandon-trump-ny-post-murdoch_n_62a4fd90e4b04a61734f73fc",
+    "1":"https:\/\/www.huffpost.com\/entry\/south-africa-treason-conviction_n_629e3a26e4b0b1100a677cf5",
+    "2":"https:\/\/www.huffpost.com\/entry\/texas-school-shooting-uvalde_n_6295905ee4b0edd2d027a36e"
+  },
+  "headline":{
+    "0":"Trump Trapped By 'Ego' In 2020; GOP Should Leave Him There, Slams New York Post",
+    "1":"South African Pastor Found Guilty Of Treason, Racist Plot",
+    "2":"Uvalde's Next Steps: Visitations, Funerals And Burials, One After Another"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The newspaper controlled by longtime Trump backer Rupert Murdoch called Jan. 6 \"national shame\" and ripped the \"King Lear of Mar-a-Lago\" for his inability to move forward.",
+    "1":"A South African court has convicted a pastor of plotting to overthrow the government and to kill thousands of Black people in the country.",
+    "2":"Over the next two-and-a-half traumatic weeks, the Uvalde community will say goodbye to the 19 children and two teachers killed in a mass shooting."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"MOGOMOTSI MAGOME, AP",
+    "2":"Adriana Gomez Licon, AP"
+  },
+  "date":{
+    "0":"2022-06-11 00:00:00",
+    "1":"2022-06-06 00:00:00",
+    "2":"2022-05-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---jud",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---cvledu"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"173",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":-5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "newspaper",
+      "~med",
+      "~",
+      "newspaper",
+      "~med",
+      "~",
+      "king",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "government",
+      "people",
+      "~gov",
+      "~",
+      "~"
+    ],
+    "2":[
+      "community",
+      "~cvl",
+      "~",
+      "children",
+      "teachers",
+      "~cvledu",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "newspaper",
+      "king"
+    ],
+    "1":[
+      "court",
+      "government ... people"
+    ],
+    "2":[
+      "community",
+      "children ... teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... ripped"
+    ],
+    "1":[
+      "has <court> convicted"
+    ],
+    "2":[
+      "will say"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---gov",
+      "180"
+    ],
+    "1":[
+      "---jud",
+      "---gov",
+      "173"
+    ],
+    "2":[
+      "---cvl",
+      "---cvledu",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/british-volunteers-host-refugees_us_582dc06ce4b030997bbdabb2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/big-business-donald-trump-paris-climate-deal_us_582d0818e4b030997bbd7d11",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/univision-layoffs-shakeup_us_582c949fe4b030997bbccabd",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/chuck-schumer-senate-minority-leader_us_582c6022e4b01d8a014b63d8"
+  },
+  "headline":{
+    "0":"British Volunteer Hosts Welcome Refugees Into Their Homes and Lives",
+    "1":"Big Business Demands Donald Trump Keep U.S. In Paris Climate Pact",
+    "2":"Univision Lays Off Over 200 Workers In Post-Election Shake-Up",
+    "3":"Chuck Schumer Named Senate Minority Leader"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"BUSINESS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Amid a hostile climate for refugees in the U.K., ordinary citizens are plugging gaps in the asylum system. Judith Vonberg",
+    "1":"Failure to do so \u201cputs American prosperity at risk,\u201d more than 300 U.S. companies say in an open letter to the president-elect.",
+    "2":"The Spanish-language media company plans to merge news sites Fusion and The Root into Gizmodo Media Group.",
+    "3":"The first Jewish leader of a party in Congress will have to confront a president whose campaign was fueled in part by anti-Semitism."
+  },
+  "authors":{
+    "0":"Judith Vonberg, Refugees Deeply",
+    "1":"Chris D'Angelo",
+    "2":"Daniel Marans",
+    "3":"Michael McAuliff"
+  },
+  "date":{
+    "0":"2016-11-17 00:00:00",
+    "1":"2016-11-17 00:00:00",
+    "2":"2016-11-16 00:00:00",
+    "3":"2016-11-16 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"usabus",
+    "2":"---medbus",
+    "3":"---jewleg"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"---gov",
+    "2":"---med",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010",
+    "2":"030",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0,
+    "2":4.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.s.",
+      "companies",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "media",
+      "company",
+      "~medbus",
+      "~",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~",
+      "jewish",
+      "congress",
+      "~jewleg",
+      "~",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "british",
+      "refugees"
+    ],
+    "1":[
+      "u.s. companies",
+      "president"
+    ],
+    "2":[
+      "media company",
+      "media"
+    ],
+    "3":[
+      "jewish ... congress",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... welcome"
+    ],
+    "1":[
+      "say"
+    ],
+    "2":[
+      "plans"
+    ],
+    "3":[
+      "will ... confront"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---ref",
+      "051"
+    ],
+    "1":[
+      "usabus",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---medbus",
+      "---med",
+      "030"
+    ],
+    "3":[
+      "---jewleg",
+      "---gov",
+      "040"
+    ]
+  }
+}

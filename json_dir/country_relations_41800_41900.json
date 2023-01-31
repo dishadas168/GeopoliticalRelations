@@ -1,0 +1,216 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/netherlands-geert-wilders-moroccan-scum_us_58a86f73e4b037d17d2853ed",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pence-europe-promise-nato_us_58a867dfe4b045cd34c21e82",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/investors-banks-rerouting-dakota-access-pipeline_us_58a76a6ee4b045cd34c1946e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-trump-administration-is-targeting-the-entire-latino_us_58a8bbdbe4b0b0e1e0e20bc7",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-kills-100-terrorists_us_58a75b61e4b07602ad5482ea"
+  },
+  "headline":{
+    "0":"Dutch Politician Vows To Crack Down On 'Moroccan Scum'",
+    "1":"With Greetings From Trump, Pence Says U.S. Committed To Europe",
+    "2":"Investors Urge Banks To Support Rerouting Dakota Access Pipeline",
+    "3":"The Trump Administration Is Targeting The Entire Latino Community",
+    "4":"Pakistan Says Kills 100 'Terrorists' After Suicide Shrine Attack"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"LATINO VOICES",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Geert Wilders pledges to ban Muslim immigration, close all mosques and take the Netherlands out of the European Union.",
+    "1":"The Vice President promised \"unwavering\" commitment to the NATO military alliance.",
+    "2":"17 banks doing business with pipeline developers get put on notice.",
+    "3":"They've put a bullseye on 55 million Latinos.",
+    "4":"They will be \"targeted ruthlessly, indiscriminately, anywhere and everywhere.\""
+  },
+  "authors":{
+    "0":"Thomas Escritt, Reuters",
+    "1":"Roberta Rampton and Shadia Nasralla, Reuters",
+    "2":"Michael McLaughlin",
+    "3":"Janet Murgu\u00eda, ContributorPresident and CEO, UnidosUS",
+    "4":""
+  },
+  "date":{
+    "0":"2017-02-18 00:00:00",
+    "1":"2017-02-18 00:00:00",
+    "2":"2017-02-18 00:00:00",
+    "3":"2017-02-18 00:00:00",
+    "4":"2017-02-17 00:00:00"
+  },
+  "actor1":{
+    "0":"nldpty",
+    "1":"---gov",
+    "2":"---bus",
+    "3":"---gov",
+    "4":"pak"
+  },
+  "actor2":{
+    "0":"mar",
+    "1":"igowstnatmil",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"---uaf"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"030",
+    "2":"050",
+    "3":"190",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":4.0,
+    "2":3.5,
+    "3":-10.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "dutch",
+      "politician",
+      "nldpty",
+      "netherlands",
+      "~",
+      "moroccan",
+      "mar",
+      "morocco"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "nato",
+      "military",
+      "igowstnatmil",
+      "nato",
+      "~"
+    ],
+    "2":[
+      "investors",
+      "~bus",
+      "~",
+      "dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "administration",
+      "~gov",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "pakistan",
+      "pak",
+      "pakistan",
+      "terrorists",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dutch politician",
+      "moroccan"
+    ],
+    "1":[
+      "president",
+      "nato military"
+    ],
+    "2":[
+      "investors",
+      "dakota"
+    ],
+    "3":[
+      "administration",
+      "community"
+    ],
+    "4":[
+      "pakistan",
+      "terrorists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "netherlands",
+      "morocco"
+    ],
+    "1":[
+      "---",
+      "nato"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "pakistan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vows <['crack',> <'down']>"
+    ],
+    "1":[
+      "promised"
+    ],
+    "2":[
+      "urge ... support"
+    ],
+    "3":[
+      "is ... targeting"
+    ],
+    "4":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "nldpty",
+      "mar",
+      "170"
+    ],
+    "1":[
+      "---gov",
+      "igowstnatmil",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "usa",
+      "050"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "190"
+    ],
+    "4":[
+      "pak",
+      "---uaf",
+      "010"
+    ]
+  }
+}

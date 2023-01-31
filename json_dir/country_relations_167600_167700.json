@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jc-penney-ceo-martha-stewart-macys_us_5bb2ea6de4b0480ca65eac95",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/new-orleans-based-trial-a_us_5bb133dae4b09bbe9a5c4aef"
+  },
+  "headline":{
+    "0":"J.C. Penney CEO Ron Johnson Knew Martha Stewart Deal Would Create Conflict With Macy's",
+    "1":"New Orleans-Based Trial Assesses 2010 Gulf Spill Blame"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"Terry Lundgren, the chief executive of Macy's, testified in the trial on Monday that when Martha Stewart told him the night",
+    "1":"On Jan. 29, BP pleaded guilty in Eastern District of Louisiana to 14 criminal counts, including 11 felony counts of manslaughter"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Susan Buchanan, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2013-03-02 00:00:00",
+    "1":"2013-03-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"mncgbr"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---crm"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "chief executive",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "bp",
+      "mncgbr",
+      "bp",
+      "criminal",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chief executive",
+      "chief executive"
+    ],
+    "1":[
+      "bp",
+      "criminal"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "bp",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "testified ... told"
+    ],
+    "1":[
+      "pleaded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "mncgbr",
+      "---crm",
+      "020"
+    ]
+  }
+}

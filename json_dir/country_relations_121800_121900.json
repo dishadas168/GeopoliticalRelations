@@ -1,0 +1,203 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/arne-duncan-replacement_b_5598874.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/america-needs-to-change-i_b_5598911.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/benjamin-netanyahu-palest_n_5598997.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/early-education-survey_n_5591668.html"
+  },
+  "headline":{
+    "0":"Who Would Replace Arne Duncan?",
+    "1":"America Needs to Change Its Failed Iraq-Iran Policy",
+    "2":"Benjamin Netanyahu Stops Pretending To Support A Sovereign Palestinian State",
+    "3":"Democratic And Republican Voters Want More Preschool, And They Want It Now"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Both national teachers' unions have recently given voice to a popular teacher daydream -- the departure of Arne Duncan from the U.S. Department of Education. But the fantasy of having Duncan go away and be replaced by someone more suitable for the job is a fantasy.",
+    "1":"Preaching democratic values while engaging in supporting undemocratic and repressive regimes has never enhanced American credibility, and it has rarely been a successful security tactic in the long term.",
+    "2":"",
+    "3":""
+  },
+  "authors":{
+    "0":"Peter Greene, ContributorTeacher and writer; blogger, curmudgucation.blogspot.com",
+    "1":"Howard Dean, ContributorFormer Governor of Vermont and DNC Chairman, Democracy for Ame...",
+    "2":"Ryan Grim and Paul Blumenthal",
+    "3":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2014-07-18 00:00:00",
+    "1":"2014-07-18 00:00:00",
+    "2":"2014-07-18 00:00:00",
+    "3":"2014-07-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"isrgov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"usagovedu",
+    "1":"usa",
+    "2":"psegov",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"060",
+    "2":"050",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":6.0,
+    "2":3.5,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "teachers",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "u.s.",
+      "department of education",
+      "usagovedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "regimes",
+      "~gov",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "benjamin netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "sovereign",
+      "palestinian",
+      "psegov",
+      "~",
+      "palestine"
+    ],
+    "3":[
+      "voters",
+      "~cvl",
+      "~",
+      "preschool",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teachers",
+      "u.s. department of education"
+    ],
+    "1":[
+      "regimes",
+      "american"
+    ],
+    "2":[
+      "benjamin netanyahu",
+      "sovereign palestinian"
+    ],
+    "3":[
+      "voters",
+      "preschool"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "benjamin netanyahu",
+      "palestine"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... given"
+    ],
+    "1":[
+      "has ... enhanced"
+    ],
+    "2":[
+      "pretending ... support"
+    ],
+    "3":[
+      "want"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "2",
+      "labor_unions",
+      "1"
+    ],
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "id_democracy",
+      "1",
+      "election",
+      "1",
+      "early_childhood_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usagovedu",
+      "060"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "060"
+    ],
+    "2":[
+      "isrgov",
+      "psegov",
+      "050"
+    ],
+    "3":[
+      "---cvl",
+      "---edu",
+      "030"
+    ]
+  }
+}

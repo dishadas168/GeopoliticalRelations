@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-african-union-gets-a-_b_6582298.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/studies-show-little-benef_b_6582768.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-eurasian-union-putins_b_6585578.html"
+  },
+  "headline":{
+    "0":"The African Union Gets a Backward Leader",
+    "1":"Studies Show Little Benefit from Too-Frequent Pap Tests: Women Should Discuss New Guidelines with Their Physicians",
+    "2":"The Eurasian Union: Putin's Answer to the EU"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Robert Mugabe continues to destroy Zimbabwe, and now he's got a bigger sandbox to play in. The oldest and longest serving leader in Africa has taken the helm of the African Union (AU), as well as the leadership of the Southern African Development Community. He will pilot the AU for the next year.",
+    "1":"While annual Pap test screenings in the past 30 years have reduced the cervical cancer rate by 50 percent, it isn't the only way to detect cervical cancer. As it turns out, we only need to have one every three years.",
+    "2":"Armenia, which all told would probably prefer to be part of a progressive Western alliance, joined under strong pressure from Russia."
+  },
+  "authors":{
+    "0":"Charlotte Florance, ContributorCharlotte Florance is a writer and policy advisor based in Amm...",
+    "1":"Society for Women's Health Research, ContributorThe thought leader in the study of sex differences, dedicated ...",
+    "2":"Christopher Atamian, ContributorWriter\/Producer\/Director"
+  },
+  "date":{
+    "0":"2015-02-02 00:00:00",
+    "1":"2015-02-02 00:00:00",
+    "2":"2015-02-02 00:00:00"
+  },
+  "actor1":{
+    "0":"zwegov",
+    "1":"---cvl",
+    "2":"arm"
+  },
+  "actor2":{
+    "0":"zwe",
+    "1":"---hlh",
+    "2":"rus"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "robert mugabe",
+      "zwegov",
+      "robert",
+      "mugabe",
+      "zimbabwe",
+      "zwe",
+      "zimbabwe"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "physicians",
+      "~hlh",
+      "~",
+      "physicians",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "armenia",
+      "arm",
+      "armenia",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "robert mugabe",
+      "zimbabwe"
+    ],
+    "1":[
+      "women",
+      "physicians"
+    ],
+    "2":[
+      "armenia",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "robert mugabe",
+      "zimbabwe"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "armenia",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "continues ... destroy"
+    ],
+    "1":[
+      "should discuss"
+    ],
+    "2":[
+      "joined"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "zwegov",
+      "zwe",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "---hlh",
+      "040"
+    ],
+    "2":[
+      "arm",
+      "rus",
+      "040"
+    ]
+  }
+}

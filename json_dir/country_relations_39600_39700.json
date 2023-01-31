@@ -1,0 +1,325 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-federal-reserve-interest-rate-hike_us_58c9b0b7e4b0be71dcf135ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mahershalia-ali-fatherhood-has-changed-relationship-time_us_58c968a0e4b0cb7d28ce1412",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chicago-free-legal-aid-police-custody_us_58c87c81e4b09e52f5545e4b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mass-incarceration-chart_us_58c9636ce4b022994fa3ee27",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/toy-smuggler-aleppo-trump_us_58bdb2afe4b0d8c45f4555db",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/the-bus-that-did-not-stop-for-us-a-mothers-take-on_us_58c87b31e4b05675ee9c5b5c",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-merciless-strike_us_58c873cee4b01c029d7739ff"
+  },
+  "headline":{
+    "0":"Donald Trump's Silence On The Fed Interest Rate Hike Speaks Volumes",
+    "1":"Mahershala Ali Says Life Is 'A Different Kind Of Crazy' With Newborn Daughter",
+    "2":"Chicago Judge Orders Access To Free Lawyers At Police Stations",
+    "3":"This Chart Shows Why It's So Hard To Tackle Mass Incarceration In America",
+    "4":"The Toy Smuggler Of Aleppo Won't Give Up On Syria And Neither Should You",
+    "5":"The Bus That Did Not Stop for Us: A Mother's Take on the Headscarf Court Ruling",
+    "6":"North Korea Warns Of 'Merciless' Strikes As U.S. Carrier Joins Military Drills"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The president went after the central bank when it was politically expedient.",
+    "1":"The actor's wife gave birth to their first child just four days before Ali\u2019s Oscar win.",
+    "2":"Fewer than 1 percent of people in police custody in Cook County ever speak with an attorney.",
+    "3":"More than 2 million people are caged in a sprawling system of jails, prisons and detention centers.",
+    "4":"President Trump and the populist leaders in Europe spreading hateful rhetoric have forgotten that we all belong to one race -- humanity.",
+    "5":"At 5 p.m. on a normal weekday, we were already past the rush hour of schools\u2019 dismissal time when my 10-year-old daughter",
+    "6":"The U.S. also said it started to deploy attack drones to the region."
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"Brennan Williams",
+    "2":"Kim Bellware",
+    "3":"Nick Wing",
+    "4":"Rami Adham, ContributorFounder of SSY RELIEF and 'Toy Smuggler' of Aleppo",
+    "5":"Sara Khorshid, ContributorEgyptian columnist and journalist",
+    "6":""
+  },
+  "date":{
+    "0":"2017-03-15 00:00:00",
+    "1":"2017-03-15 00:00:00",
+    "2":"2017-03-15 00:00:00",
+    "3":"2017-03-15 00:00:00",
+    "4":"2017-03-15 00:00:00",
+    "5":"2017-03-15 00:00:00",
+    "6":"2017-03-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"---jud",
+    "3":"---ppl",
+    "4":"syrcrm",
+    "5":"---cvl",
+    "6":"prk"
+  },
+  "actor2":{
+    "0":"---govbus",
+    "1":"---cvl",
+    "2":"---cop",
+    "3":"---cop",
+    "4":"syr",
+    "5":"---jud",
+    "6":"usamil"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"046",
+    "3":"170",
+    "4":"08",
+    "5":"171",
+    "6":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":7.0,
+    "3":-7.0,
+    "4":5.0,
+    "5":-9.2,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "central bank",
+      "~govbus",
+      "~"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "people",
+      "police",
+      "~cop",
+      "~",
+      "~",
+      "people",
+      "police",
+      "~cop",
+      "~",
+      "~",
+      "people",
+      "police",
+      "~cop",
+      "~",
+      "~",
+      "attorney",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "prisons",
+      "~cop",
+      "~",
+      "prisons",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "aleppo",
+      "syr",
+      "syria",
+      "smuggler",
+      "syrcrm",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "5":[
+      "mother",
+      "~cvl",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "6":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "u.s.",
+      "carrier",
+      "military",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "central bank"
+    ],
+    "1":[
+      "actor",
+      "child"
+    ],
+    "2":[
+      "attorney",
+      "police",
+      "police",
+      "attorney"
+    ],
+    "3":[
+      "people",
+      "prisons"
+    ],
+    "4":[
+      "smuggler",
+      "aleppo"
+    ],
+    "5":[
+      "mother",
+      "court"
+    ],
+    "6":[
+      "north korea",
+      "u.s. carrier ... military"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "",
+      "syria"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "north korea",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ],
+    "1":[
+      "gave"
+    ],
+    "2":[
+      "speak with",
+      "speak with"
+    ],
+    "3":[
+      "are caged"
+    ],
+    "4":[
+      "wo <['give',> <'up']>"
+    ],
+    "5":[
+      "take"
+    ],
+    "6":[
+      "strikes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "id_smuggling",
+      "1"
+    ],
+    "5":[
+      "public_transit",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---govbus",
+      "040"
+    ],
+    "1":[
+      "---eli",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---jud",
+      "---cop",
+      "046",
+      "---cop",
+      "---jud",
+      "046"
+    ],
+    "3":[
+      "---ppl",
+      "---cop",
+      "170"
+    ],
+    "4":[
+      "syrcrm",
+      "syr",
+      "08"
+    ],
+    "5":[
+      "---cvl",
+      "---jud",
+      "171"
+    ],
+    "6":[
+      "prk",
+      "usamil",
+      "190"
+    ]
+  }
+}

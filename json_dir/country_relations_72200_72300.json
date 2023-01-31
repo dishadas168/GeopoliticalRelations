@@ -1,0 +1,220 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/irs-donald-trump_us_56d083b5e4b0871f60eb2c06",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/win-mccormack-new-republic_us_56d08d54e4b0bf0dab31e907",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/washington-state-shooting_us_56d0d055e4b03260bf76ed53",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/jailhouse-snitch-scandal-in-orange-county_us_56cf727ce4b03260bf761e66",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/apples-rivals-keep-low-profile_us_56d082b5e4b03260bf7693b4"
+  },
+  "headline":{
+    "0":"IRS On Donald Trump: 'Nothing Prevents Individuals From Sharing Their Own Tax Information'",
+    "1":"Win McCormack Buys The New Republic After Period Of Turmoil",
+    "2":"Washington State Shooting Leaves 5 Dead",
+    "3":"Jailhouse Snitch Scandal In Orange County Unravels Another Murder Case",
+    "4":"Rival Phone Makers Reluctant To Support Apple In FBI Battle"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"TECH"
+  },
+  "short_description":{
+    "0":"The GOP presidential candidate has claimed he can't release his tax returns because he's being audited.",
+    "1":"The liberal activist and publisher has bought the magazine, which has undergone dramatic changes in recent years.",
+    "2":"The man reportedly killed himself in front of law enforcement.",
+    "3":"\"The factual record in this case is troubling,\" a judge said of prosecutors' alleged misuse of a jailhouse informant.",
+    "4":"Only one Asian phone company has publicly backed Apple in its fight with FBI."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Michael Calderone",
+    "2":"",
+    "3":"Matt Ferner",
+    "4":"Himank Sharma and Aradhana Aravindan, Reuters"
+  },
+  "date":{
+    "0":"2016-02-26 00:00:00",
+    "1":"2016-02-26 00:00:00",
+    "2":"2016-02-26 00:00:00",
+    "3":"2016-02-26 00:00:00",
+    "4":"2016-02-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"---oppmed",
+    "2":"---ppl",
+    "3":"---jud",
+    "4":"---bus"
+  },
+  "actor2":{
+    "0":"---pty",
+    "1":"---med",
+    "2":"---ppl",
+    "3":"---jud",
+    "4":"usacop"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"061",
+    "2":"190",
+    "3":"010",
+    "4":"050"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":6.4,
+    "2":-10.0,
+    "3":0.0,
+    "4":3.5
+  },
+  "nouns":{
+    "0":[
+      "presidential candidate",
+      "~pty",
+      "~"
+    ],
+    "1":[
+      "activist",
+      "publisher",
+      "~oppmed",
+      "~",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "judge",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "company",
+      "~bus",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "presidential candidate",
+      "presidential candidate"
+    ],
+    "1":[
+      "activist ... publisher",
+      "magazine"
+    ],
+    "2":[
+      "man",
+      "man"
+    ],
+    "3":[
+      "judge",
+      "judge"
+    ],
+    "4":[
+      "company",
+      "fbi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "federal bureau of investigation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has claimed <~pty> ... release ... audited"
+    ],
+    "1":[
+      "has bought"
+    ],
+    "2":[
+      "killed"
+    ],
+    "3":[
+      "said"
+    ],
+    "4":[
+      "has ... backed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---pty",
+      "090"
+    ],
+    "1":[
+      "---oppmed",
+      "---med",
+      "061"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "4":[
+      "---bus",
+      "usacop",
+      "050"
+    ]
+  }
+}

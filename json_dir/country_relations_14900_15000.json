@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gay-candidate-for-sheriff-told-by-alabama-gop-he-couldnt-run-as-a-republican_us_5a6b8341e4b06e25326761ca"
+  },
+  "headline":{
+    "0":"Alabama GOP Told Gay Sheriff Candidate He Couldn\u2019t Run As A Republican"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"\"I'm disappointed, but I'm not deterred,\" he said."
+  },
+  "authors":{
+    "0":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2018-01-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sheriff",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "alabama",
+      "sheriff"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cop",
+      "010"
+    ]
+  }
+}

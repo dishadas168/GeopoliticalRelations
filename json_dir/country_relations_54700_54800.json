@@ -1,0 +1,383 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-campaign-finance_us_57e45147e4b0e28b2b532700",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-cincinnati-enquirer_us_57e55796e4b08d73b830ea6e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkish-journalist-detained-over-subliminal-coup-messages_us_57e53d15e4b0e28b2b536e2d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/emine-erdogan-new-york_us_57e461b1e4b0e80b1ba1475b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire-talks_us_57e4cb2be4b08d73b830a1af",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/syria-ceasefire-talks_us_57e4cb2be4b08d73b830a1af",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/obama-veto-saudi-arabia-911_us_57e54fa9e4b0e28b2b5388cb",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/man-denies-pimping-out-teen_us_57e4e3d4e4b0e80b1ba167b5",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/thursdays-morning-email-inside-charlottes-state-of-emergency_us_57e3c2c7e4b0e28b2b526629"
+  },
+  "headline":{
+    "0":"Hillary Clinton Endorsed By Campaign Finance Reformers",
+    "1":"After Backing Republicans For Almost A Century, Cincinnati Enquirer Endorses Hillary Clinton",
+    "2":"Turkish Journalists Detained Over 'Subliminal Coup Messages': Media",
+    "3":"Turkey's First Lady Asks Americans To Imagine Brooklyn Bridge Seized By Terrorists",
+    "4":"U.S., Russia Fail To Agree On How To Revive Syria Ceasefire",
+    "5":"U.S., Russia Fail To Agree On How To Revive Syria Ceasefire",
+    "6":"Barack Obama Vetoes Bill Allowing 9\/11 Victims To Sue Saudi Arabia",
+    "7":"Man Denies Pimping Out Teenager, Claims He\u2019s Helping Her",
+    "8":"Thursday's Morning Email: Inside Charlotte's State Of Emergency"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS",
+    "7":"ENTERTAINMENT",
+    "8":"POLITICS"
+  },
+  "short_description":{
+    "0":"Every Voice is backing a presidential candidate for the first time.",
+    "1":"\"But this is not a traditional race, and these are not traditional times.\"",
+    "2":"The pair will face trial for \"trying to overthrow the government.\"",
+    "3":"That's what July's attempted coup felt like, Emine Erdogan told an audience in New York.",
+    "4":"\u201cThe offensive on Aleppo just shows why we need Syrian planes grounded, otherwise there will be no truce.\"",
+    "5":"\u201cThe offensive on Aleppo just shows why we need Syrian planes grounded, otherwise there will be no truce.\"",
+    "6":"But in a first, Congress will overrule him.",
+    "7":"Nineteen-year-old Cheyenne\u2019s parents say they kicked her out of their house for not following their rules. Now, the self",
+    "8":"A man was shot by a civilian last night and four police officers suffered non-life threatening injuries amidst the protests Wednesday."
+  },
+  "authors":{
+    "0":"Paul Blumenthal",
+    "1":"Paige Lavender",
+    "2":"",
+    "3":"Akbar Shahid Ahmed",
+    "4":"By Lesley Wroughton, John Irish and Denis Dyomkin, Reuters",
+    "5":"By Lesley Wroughton, John Irish and Denis Dyomkin, Reuters",
+    "6":"Jennifer Bendery",
+    "7":"",
+    "8":"Lauren Weber"
+  },
+  "date":{
+    "0":"2016-09-23 00:00:00",
+    "1":"2016-09-23 00:00:00",
+    "2":"2016-09-23 00:00:00",
+    "3":"2016-09-23 00:00:00",
+    "4":"2016-09-23 00:00:00",
+    "5":"2016-09-23 00:00:00",
+    "6":"2016-09-23 00:00:00",
+    "7":"2016-09-23 00:00:00",
+    "8":"2016-09-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usa",
+    "2":"turmed",
+    "3":"turgov",
+    "4":"usa",
+    "5":"syr",
+    "6":"usagov",
+    "7":"---ppl",
+    "8":"---cvl"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"usaeli",
+    "2":"---med",
+    "3":"usa",
+    "4":"rus",
+    "5":"syr",
+    "6":"saucvl",
+    "7":"---ppl",
+    "8":"---ppl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"051",
+    "2":"173",
+    "3":"010",
+    "4":"050",
+    "5":"100",
+    "6":"08",
+    "7":"070",
+    "8":"190"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":3.4,
+    "2":-5.0,
+    "3":0.0,
+    "4":3.5,
+    "5":-5.0,
+    "6":5.0,
+    "7":7.0,
+    "8":-10.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "reformers",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "cincinnati",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "2":[
+      "turkish",
+      "journalists",
+      "turmed",
+      "turkey",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "u.s.",
+      "russia",
+      "usa",
+      "rus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "federation"
+    ],
+    "5":[
+      "aleppo",
+      "syr",
+      "syria",
+      "syrian",
+      "syr",
+      "syria",
+      "syrian",
+      "syr",
+      "syria"
+    ],
+    "6":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "victims",
+      "~cvl",
+      "~",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "7":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "8":[
+      "man",
+      "~ppl",
+      "~",
+      "civilian",
+      "~cvl",
+      "~",
+      "police officers",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "reformers"
+    ],
+    "1":[
+      "cincinnati",
+      "hillary clinton"
+    ],
+    "2":[
+      "turkish journalists",
+      "media"
+    ],
+    "3":[
+      "erdogan",
+      "new york"
+    ],
+    "4":[
+
+    ],
+    "5":[
+      "aleppo",
+      "aleppo"
+    ],
+    "6":[
+      "barack obama",
+      "---"
+    ],
+    "7":[
+      "man",
+      "man"
+    ],
+    "8":[
+      "civilian",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "hillary clinton"
+    ],
+    "2":[
+      "turkey",
+      "---"
+    ],
+    "3":[
+      "recep tayyip erdogan",
+      "united states of america"
+    ],
+    "4":[
+
+    ],
+    "5":[
+      "syria",
+      "syria"
+    ],
+    "6":[
+      "barack obama",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "endorsed"
+    ],
+    "1":[
+      "endorses"
+    ],
+    "2":[
+      "detained"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+
+    ],
+    "5":[
+      "shows ... need"
+    ],
+    "6":[
+      "allowing"
+    ],
+    "7":[
+      "<\u2019s> ... helping"
+    ],
+    "8":[
+      "<~ppl> ... shot by <~cvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "coup_discussion",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---opp",
+      "051"
+    ],
+    "1":[
+      "usa",
+      "usaeli",
+      "051"
+    ],
+    "2":[
+      "turmed",
+      "---med",
+      "173"
+    ],
+    "3":[
+      "turgov",
+      "usa",
+      "010"
+    ],
+    "4":[
+      "usa",
+      "rus",
+      "050",
+      "rus",
+      "usa",
+      "050"
+    ],
+    "5":[
+      "syr",
+      "syr",
+      "100"
+    ],
+    "6":[
+      "usagov",
+      "saucvl",
+      "08"
+    ],
+    "7":[
+      "---ppl",
+      "---ppl",
+      "070"
+    ],
+    "8":[
+      "---cvl",
+      "---ppl",
+      "190"
+    ]
+  }
+}

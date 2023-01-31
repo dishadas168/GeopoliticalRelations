@@ -1,0 +1,211 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/poll-civil-service-experts_us_5849d515e4b04c8e2baeede9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-mr-president_us_58488d25e4b0d0aa037f1fce",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-stephen-colbert-dad-talk_us_5847a788e4b0b9feb0da3e80",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/somali-american-lawmaker-threatened_us_58489253e4b0f9723d0020f9"
+  },
+  "headline":{
+    "0":"Americans Don't Think The Government Needs 'Experts'",
+    "1":"Senate Democrats Really Like Calling Joe Biden \u2018Mr. President\u2019",
+    "2":"Pops Joe Biden And Dad Stephen Colbert Give America A Much-Needed Pep Talk",
+    "3":"First Somali-American Lawmaker Threatened And Called 'ISIS' By Racist Cab Driver"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"COMEDY",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Just 17 percent of Donald Trump voters want him to appoint people with government experience.",
+    "1":"He has four years to think it over.",
+    "2":"Have a seat, the dads have an important message for you.",
+    "3":"Ilhan Omar was harassed after leaving the White House on Wednesday."
+  },
+  "authors":{
+    "0":"Ariel Edwards-Levy",
+    "1":"Laura Barr\u00f3n-L\u00f3pez",
+    "2":"Ed Mazza",
+    "3":"Adam Hamze"
+  },
+  "date":{
+    "0":"2016-12-08 00:00:00",
+    "1":"2016-12-07 00:00:00",
+    "2":"2016-12-07 00:00:00",
+    "3":"2016-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagovleg",
+    "2":"usagov",
+    "3":"somleg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagov",
+    "2":"usa",
+    "3":"imgmusisi"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"041",
+    "2":"060",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0,
+    "2":6.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden"
+    ],
+    "2":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "somali",
+      "american",
+      "lawmaker",
+      "somleg",
+      "usaleg",
+      "somalia",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "voters"
+    ],
+    "1":[
+      "senate",
+      "joe biden"
+    ],
+    "2":[
+      "joe biden",
+      "america"
+    ],
+    "3":[
+      "somali",
+      "isis",
+      "american",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states congress",
+      "joe biden"
+    ],
+    "2":[
+      "joe biden",
+      "united states of america"
+    ],
+    "3":[
+      "somalia",
+      "the islamic state",
+      "united states of america",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "like calling"
+    ],
+    "2":[
+      "give"
+    ],
+    "3":[
+      "<and> ... called",
+      "<and> ... called"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "usagovleg",
+      "usagov",
+      "041"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "060"
+    ],
+    "3":[
+      "somleg",
+      "imgmusisi",
+      "041",
+      "usaleg",
+      "imgmusisi",
+      "041"
+    ]
+  }
+}

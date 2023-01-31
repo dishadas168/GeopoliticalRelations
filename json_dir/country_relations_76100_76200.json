@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trayvon-martin-mother-hillary-clinton-sybrina-fulton_us_5693ed4ce4b0a2b6fb70e584",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.capitalnewyork.com\/article\/media\/2016\/01\/8587351\/new-village-voice-owner-hires-old-hand-his-plans-start-take-shape"
+  },
+  "headline":{
+    "0":"Trayvon Martin's Mother Explains Why She's Voting For Hillary Clinton",
+    "1":"New 'Village Voice' Owner Promises Investment"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"\"We simply can't afford to elect a Republican who refuses even to acknowledge the problem of senseless gun violence.\"",
+    "1":"Three months after a little-known Pennsylvania newspaper mogul named Peter Barbey bought the Village Voice for an undisclosed"
+  },
+  "authors":{
+    "0":"Nadya Agrawal, Guest Writer",
+    "1":""
+  },
+  "date":{
+    "0":"2016-01-11 00:00:00",
+    "1":"2016-01-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usamed"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"061"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.4
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "pennsylvania",
+      "newspaper",
+      "usamed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "village",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "hillary clinton"
+    ],
+    "1":[
+      "pennsylvania newspaper",
+      "village"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "explains ... 's voting"
+    ],
+    "1":[
+      "named ... bought"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usaeli",
+      "030"
+    ],
+    "1":[
+      "usamed",
+      "---cvl",
+      "061"
+    ]
+  }
+}

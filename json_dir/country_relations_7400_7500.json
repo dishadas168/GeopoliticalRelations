@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/will-smith-confirms-his-genie-in-aladdin-will-be-blue-amid-backlash_n_5c1a82aae4b01059bfc64c73",
+    "1":"https:\/\/www.huffpost.com\/entry\/lanice-powless-fish-denver-airport-southwest-airlines_n_5c17d3f0e4b0856e3a158d1a",
+    "2":"https:\/\/www.huffpost.com\/entry\/disney-actor-stoney-westmoreland-fired-after-arrest_n_5c159e07e4b049efa752df44",
+    "3":"https:\/\/www.huffpost.com\/entry\/twitter-ted-cruz-nancy-pelosi_n_5c10ddb1e4b084b082fe29bb"
+  },
+  "headline":{
+    "0":"Will Smith Confirms His Genie In 'Aladdin' Remake Will Be Blue Amid Backlash",
+    "1":"Southwest Passenger Says She Was Forced To Leave Pet Fish At Denver Airport",
+    "2":"Disney Fires Adult Actor Arrested For Attempting To Send Nude Photos To A 13-Year-Old",
+    "3":"Twitter Shreds Ted Cruz For Asking Why Pelosi Wanted Trump Chat Private"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"WEIRD NEWS",
+    "2":"ENTERTAINMENT",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Many people on Twitter criticized the first look of the actor's Genie on the cover of Entertainment Weekly.",
+    "1":"\u201cYes, it\u2019s a fish. I know. But dang, it was my pet. And just because it wasn\u2019t a cat or dog, it wasn\u2019t as important?\u201d Lanice Powless told a San Diego station.",
+    "2":"Stoney Westmoreland allegedly attempted to have a sexual relationship with an online acquaintance he believed was 13 years old.",
+    "3":"The Texas senator got lambasted for his sarcastic comment about Nancy Pelosi and Chuck Schumer's explosive clash with the president."
+  },
+  "authors":{
+    "0":"Elyse Wanshel",
+    "1":"David Moye",
+    "2":"",
+    "3":"Ron Dicker"
+  },
+  "date":{
+    "0":"2018-12-19 00:00:00",
+    "1":"2018-12-17 00:00:00",
+    "2":"2018-12-16 00:00:00",
+    "3":"2018-12-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"mncusa",
+    "3":"usaleg"
+  },
+  "actor2":{
+    "0":"---eli",
+    "1":"---cvl",
+    "2":"---eli",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"170",
+    "2":"190",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-7.0,
+    "2":-10.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "passenger",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "disney",
+      "mncusa",
+      "disney",
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "3":[
+      "texas",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "nancy pelosi",
+      "nancy",
+      "pelosi",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "actor"
+    ],
+    "1":[
+      "passenger",
+      "passenger"
+    ],
+    "2":[
+      "disney",
+      "actor"
+    ],
+    "3":[
+      "texas senator",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "disney",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "criticized"
+    ],
+    "1":[
+      "says <~cvl> ... forced"
+    ],
+    "2":[
+      "fires"
+    ],
+    "3":[
+      "got lambasted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---eli",
+      "111"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "170"
+    ],
+    "2":[
+      "mncusa",
+      "---eli",
+      "190"
+    ],
+    "3":[
+      "usaleg",
+      "---gov",
+      "111"
+    ]
+  }
+}

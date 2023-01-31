@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/research-autism-spectrum_us_5b9deb92e4b03a1dcc8ec4a5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dont-ban-bossy-embrace-it_us_5b9debc6e4b03a1dcc8ec9f3"
+  },
+  "headline":{
+    "0":"More Children With Autism Are Going To College Than Ever Before (And 5 Other Key Findings)",
+    "1":"Don't Ban Bossy. Embrace It."
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"This is a consciousness-raising piece,\" Curtin told HuffPost about her work. \"Obesity isn't necessarily a thing parents",
+    "1":"I love that LeanIn.org and the Girl Scouts have partnered to help empower girls and encourage them to lead. I love what they're doing. I just don't love how they've chosen to word their message."
+  },
+  "authors":{
+    "0":"Anna Almendrala",
+    "1":"Melissa Sher, Contributor\nwriter and tired person"
+  },
+  "date":{
+    "0":"2014-03-11 00:00:00",
+    "1":"2014-03-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "girl",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "college"
+    ],
+    "1":[
+      "girl",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are going"
+    ],
+    "1":[
+      "have ... help"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "070"
+    ]
+  }
+}

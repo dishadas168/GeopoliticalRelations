@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/illinois-will-teach-hairdressers-to-recognize-signs-of-domestic-violence_us_583f2717e4b09e21702c3122",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/psilocybin-psychedelics-cancer-anxiety_us_583ef92be4b04fcaa4d60042",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/will-trumps-triumph-at-carrier-mean-the-democratic_us_583f583be4b0cf3f6455869c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ohio-state-attacker-inspired-militants-overseas_us_583f363ce4b0c68e047e8357",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/ohio-state-attacker-inspired-militants-overseas_us_583f363ce4b0c68e047e8357",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/iraq-war-veteran-dakota-access-pipeline_us_583f0a35e4b017f37fe1ea94"
+  },
+  "headline":{
+    "0":"Illinois Will Teach Hairdressers To Recognize Victims Of Domestic Violence",
+    "1":"Cancer Patients Are Finding Anxiety Relief In Psychedelic Mushrooms",
+    "2":"Will Trump's PR Triumph At Carrier Mean The Democratic Party's Demise?",
+    "3":"Ohio State Attacker May Have Been Inspired By Overseas Militants, FBI Says",
+    "4":"Ohio State Attacker May Have Been Inspired By Overseas Militants, FBI Says",
+    "5":"Iraq War Veteran's New Battle Is Fighting Dakota Access Pipeline"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"CRIME",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"All licensed beauty professionals will learn to spot signs of abuse.",
+    "1":"\u201cIt helped him and both of us live life fully up until the very end,\u201d said a woman who lost her husband to the disease.",
+    "2":"President-elect Trump scored a remarkable PR victory by saving 1,000 of the 2,100 jobs that Carrier and it\u2019s parent company",
+    "3":"Abdul Razak Ali Artan, a 20-year-old Muslim student at the school, plowed into pedestrians with a car and then exited the vehicle to stab other victims on Monday.",
+    "4":"Abdul Razak Ali Artan, a 20-year-old Muslim student at the school, plowed into pedestrians with a car and then exited the vehicle to stab other victims on Monday.",
+    "5":"The peaceful protests \"woke up something inside me that was good.\""
+  },
+  "authors":{
+    "0":"Melissa Jeltsen",
+    "1":"Carolyn Gregoire",
+    "2":"Les Leopold, ContributorExecutive Director, The Labor Institute",
+    "3":"Alex Dobuzinskis, Reuters",
+    "4":"Alex Dobuzinskis, Reuters",
+    "5":"Michael McLaughlin"
+  },
+  "date":{
+    "0":"2016-12-01 00:00:00",
+    "1":"2016-12-01 00:00:00",
+    "2":"2016-12-01 00:00:00",
+    "3":"2016-11-30 00:00:00",
+    "4":"2016-11-30 00:00:00",
+    "5":"2016-11-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---gov",
+    "3":"---uaf",
+    "4":"---musedu",
+    "5":"irq"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---mil",
+    "3":"usa",
+    "4":"---cvl",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"070",
+    "2":"010",
+    "3":"051",
+    "4":"182",
+    "5":"190"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":7.0,
+    "2":0.0,
+    "3":3.4,
+    "4":-9.5,
+    "5":-10.0
+  },
+  "nouns":{
+    "0":[
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "carrier",
+      "~mil",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "militants",
+      "~uaf",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "4":[
+      "school",
+      "~edu",
+      "~",
+      "muslim",
+      "student",
+      "school",
+      "~musedu",
+      "~",
+      "~",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "iraq",
+      "irq",
+      "iraq",
+      "dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "illinois",
+      "victims"
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ],
+    "2":[
+      "president",
+      "carrier"
+    ],
+    "3":[
+      "militants",
+      "ohio"
+    ],
+    "4":[
+      "muslim student ... school",
+      "victims"
+    ],
+    "5":[
+      "iraq",
+      "dakota"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "iraq",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... recognize"
+    ],
+    "1":[
+      "helped"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "<usa> ... inspired by <~uaf>"
+    ],
+    "4":[
+      "<and> ... stab"
+    ],
+    "5":[
+      "is fighting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "070"
+    ],
+    "2":[
+      "---gov",
+      "---mil",
+      "010"
+    ],
+    "3":[
+      "---uaf",
+      "usa",
+      "051"
+    ],
+    "4":[
+      "---musedu",
+      "---cvl",
+      "182"
+    ],
+    "5":[
+      "irq",
+      "usa",
+      "190"
+    ]
+  }
+}

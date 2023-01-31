@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/meningitis-outbreak-deaths-dead_us_5b9c6afae4b03a1dcc7e7b66"
+  },
+  "headline":{
+    "0":"Meningitis Outbreak: 16 Now Dead"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"A spokeswoman for the department gave no details about the victim other than that the person was from southwest Virginia"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "spokeswoman",
+      "~med",
+      "~",
+      "victim",
+      "~cvl",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "spokeswoman",
+      "victim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave <&information>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "010"
+    ]
+  }
+}

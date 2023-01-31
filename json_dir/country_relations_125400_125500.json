@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/islamic-center-of-murfreesboro_n_5439867.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/diet-and-nutrition_b_5404824.html"
+  },
+  "headline":{
+    "0":"Supreme Court Declines To Hear Case Against Tennessee Mosque",
+    "1":"Study Shows Diet Drinkers Lose More Weight? Consider the Source"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Diet cola addicts, I mean drinkers, celebrated a recent study published in the journal Obesity that showed diet-soda drinkers lost more weight than water drinkers. The not-so-discreet news is that the American Beverage Association -- a deep-pocketed organization that supports giants like soft drinks, sports drinks and juice drinks -- funded this diet-soda study."
+  },
+  "authors":{
+    "0":"",
+    "1":"JJ Virgin, CNS, CHFS, ContributorCelebrity Nutritionist, Fitness Expert, Author of NY Times Bes..."
+  },
+  "date":{
+    "0":"2014-06-04 00:00:00",
+    "1":"2014-06-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"meareb"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"061"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.4
+  },
+  "nouns":{
+    "0":[
+      "supreme court",
+      "~jud",
+      "~",
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "american",
+      "organization",
+      "usa",
+      "meareb",
+      "united",
+      "states",
+      "of",
+      "america",
+      "tanzim"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "tennessee"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "declines ... hear"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "meareb",
+      "061",
+      "meareb",
+      "usa",
+      "061"
+    ]
+  }
+}

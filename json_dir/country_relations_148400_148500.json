@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/pmnch-2013-report_us_5bb1b41fe4b01857b70a6372"
+  },
+  "headline":{
+    "0":"Keeping Promises to Women and Children: PMNCH 2013 Report on Global Strategy Commitments"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"A new report gives us hope. More organizations, governments and the private sector are making commitments to improve women's and children's health every year, and those commitments are being followed up with real action."
+  },
+  "authors":{
+    "0":"Carole Presern, Contributor\nExecutive Director, The Partnership for Maternal, Newborn and ..."
+  },
+  "date":{
+    "0":"2013-09-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "governments",
+      "~gov",
+      "~",
+      "women",
+      "children",
+      "~cvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governments",
+      "women ... children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... improve"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "060"
+    ]
+  }
+}

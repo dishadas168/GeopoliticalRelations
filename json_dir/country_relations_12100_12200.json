@@ -1,0 +1,228 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/steve-pearce-same-sex-marriage-aids_us_5aafd39de4b0e8623839d1a4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-at-work-pre-apprenticeships-boost-female-construction_us_5aafc38ae4b0abe32a0c501e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sex-trafficking-sex-worker-reaction-sesta_us_5aa84219e4b0f7a689cd3150",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/lawyers-myanmar-aung-san-suu-kyi_us_5aac6365e4b0337adf83dbd8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/russia-expels-british-diplomats-nerve-toxin-attack_us_5aad2126e4b05b2217ff17dc"
+  },
+  "headline":{
+    "0":"GOP Congressman Once Said LGBTQ People Would Wed 'Everyone In California With AIDS'",
+    "1":"Women At Work: 'Pre-Apprenticeships' Boost Female Construction Workers",
+    "2":"Sex Trafficking Bills Backed By Dem Presidential Contenders Could Cause More Harm Than Good",
+    "3":"Lawyers File To Prosecute Myanmar Civil Leader For Crimes Against Humanity",
+    "4":"Russia Expels 23 British Diplomats As Crisis Over Nerve Toxin Attack Deepens"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Rep. Steve Pearce had a theory about marriage equality leading to health care, which he implied was bad.",
+    "1":"The construction field is a hard one to crack, particularly if you\u2019re a woman. California is investing $25 million to get more women into the business.",
+    "2":"Pressure on websites to screen out ads could expose sex workers to more risks.",
+    "3":"Australian lawyers accuse Aung San Suu Kyi of inaction as Rohingya Muslims flee systemic violence in Myanmar.",
+    "4":"The move, which was tougher than expected, followed Britain\u2019s decision to expel 23 Russian diplomats over the Salisbury attack."
+  },
+  "authors":{
+    "0":"Eliot Nelson",
+    "1":"Stateline, Editorial Partner",
+    "2":"Jenavieve Hatch",
+    "3":"Sarah Ruiz-Grossman",
+    "4":"Andrew Osborn and Polina Devitt, Reuters"
+  },
+  "date":{
+    "0":"2018-03-19 00:00:00",
+    "1":"2018-03-19 00:00:00",
+    "2":"2018-03-19 00:00:00",
+    "3":"2018-03-17 00:00:00",
+    "4":"2018-03-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---cvl",
+    "2":"---med",
+    "3":"ausjud",
+    "4":"rus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---lab",
+    "2":"---lab",
+    "3":"---mus",
+    "4":"gbr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"050",
+    "3":"112",
+    "4":"174"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":3.5,
+    "3":-2.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "congressman",
+      "~leg",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "websites",
+      "~med",
+      "~",
+      "websites",
+      "~med",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "3":[
+      "australian",
+      "lawyers",
+      "ausjud",
+      "australia",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "myanmar",
+      "mmr",
+      "myanmar"
+    ],
+    "4":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "british",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congressman",
+      "people"
+    ],
+    "1":[
+      "women",
+      "workers"
+    ],
+    "2":[
+      "websites",
+      "workers"
+    ],
+    "3":[
+      "australian lawyers",
+      "muslims"
+    ],
+    "4":[
+      "russia",
+      "british"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "australia",
+      "---"
+    ],
+    "4":[
+      "russian federation",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "boost"
+    ],
+    "2":[
+      "could expose"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "expels ... diplomats"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---lab",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "---lab",
+      "050"
+    ],
+    "3":[
+      "ausjud",
+      "---mus",
+      "112"
+    ],
+    "4":[
+      "rus",
+      "gbr",
+      "174"
+    ]
+  }
+}

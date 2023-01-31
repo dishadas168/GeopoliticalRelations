@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/childrens-books-poverty_us_5b9c74f0e4b03a1dcc7ed254",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michael-bennett-gardner-harsh-sentence-marijuana_us_5ba2ba18e4b0c2784da51988"
+  },
+  "headline":{
+    "0":"Beyond the Bubble: Children's Books That Illustrate Poverty",
+    "1":"Michael Bennett Gardner Demands Harsher Sentence As Recognition For Marijuana Grow Op"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Our presidential candidates don't discuss the poor, but I feel that as a parent, I should. In America, it's too easy to live in a bubble that reinforces one's own class reality.",
+    "1":"The court rejected the appeal. A man sentenced to 13 years in prison for growing one of the largest marijuana crops in Australia"
+  },
+  "authors":{
+    "0":"Jennifer Dorr, Contributor\nPoet, writer, mother-of-two",
+    "1":""
+  },
+  "date":{
+    "0":"2012-10-27 00:00:00",
+    "1":"2012-10-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---pty",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "presidential candidates",
+      "~pty",
+      "~",
+      "the poor",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "presidential candidates",
+      "the poor"
+    ],
+    "1":[
+      "man",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... discuss"
+    ],
+    "1":[
+      "sentenced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "drugs",
+      "1",
+      "agriculture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---pty",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "172"
+    ]
+  }
+}

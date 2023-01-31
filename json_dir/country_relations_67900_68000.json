@@ -1,0 +1,301 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/police-shootings-2016_us_5713d98ae4b0018f9cba52d1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/european-union-investigates-google-android_us_5714dd68e4b0018f9cba6a9d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jerusalem-bus-explosion_us_5714f7dee4b06f35cb7009b9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/army-tells-soldiers-to-sleep_us_5714ff1be4b0018f9cba81b8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-gay-rights-nra_us_5713b938e4b06f35cb6fd8ac",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/brazil-rousseff-impeachment_us_57139415e4b06f35cb6fd45b",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/to-save-his-middle-east-l_b_9712756.html"
+  },
+  "headline":{
+    "0":"Cops Are Still Killing People, But The Nation Has Stopped Paying Attention",
+    "1":"Android May Have A Big Problem In Europe",
+    "2":"Explosion Aboard Jerusalem Bus Injures 16 People",
+    "3":"The Army Tells Its Soldiers To Get Some Sleep",
+    "4":"Embattled NC Governor Calls Gay Rights Group 'More Powerful Than The NRA'",
+    "5":"Brazil's Congress Set To Vote On President Rouseff's Impeachment",
+    "6":"To Save His Middle East Legacy, Obama Must Recognise a Palestinian State Now"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"TECH",
+    "2":"THE WORLDPOST",
+    "3":"HEALTHY LIVING",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST",
+    "6":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Police have fatally shot at least 20 unarmed civilians this year, and cable news hasn't covered a single case.",
+    "1":"European regulators are investigating Google's deals with phone makers.",
+    "2":"A spokeswoman for Nir Barkat, the Israeli mayor in Jerusalem, said the explosion was a detonation.",
+    "3":"Its leaders are looking to improve troops' performance -- and reduce deaths.",
+    "4":"Pat McCrory defended the so-called bathroom bill that has created a nationwide backlash against North Carolina.",
+    "5":"The vote is a crucial step towards a potential impeachment.",
+    "6":"No matter how he adjusts his views after leaving office, Obama will never save his legacy in the Middle East and the Israeli-Palestinian conflict if he does not recognize a Palestinian state while he still has the power to do so."
+  },
+  "authors":{
+    "0":"Nick Wing and Julia Craven",
+    "1":"Foo Yun Chee, Reuters",
+    "2":"Dan Williams, Reuters",
+    "3":"Krithika Varagur",
+    "4":"Dave Jamieson",
+    "5":"",
+    "6":"Ibrahim Fraihat, ContributorSenior Foreign Policy Fellow at the Brookings Institution's Do..."
+  },
+  "date":{
+    "0":"2016-04-18 00:00:00",
+    "1":"2016-04-18 00:00:00",
+    "2":"2016-04-18 00:00:00",
+    "3":"2016-04-18 00:00:00",
+    "4":"2016-04-17 00:00:00",
+    "5":"2016-04-17 00:00:00",
+    "6":"2016-04-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---gov",
+    "2":"isr",
+    "3":"---mil",
+    "4":"---hri",
+    "5":"braleg",
+    "6":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mncusamed",
+    "2":"---ppl",
+    "3":"---mil",
+    "4":"---gov",
+    "5":"---gov",
+    "6":"pse"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"090",
+    "2":"182",
+    "3":"010",
+    "4":"041",
+    "5":"030",
+    "6":"051"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":-9.5,
+    "3":0.0,
+    "4":1.0,
+    "5":4.0,
+    "6":3.4
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "regulators",
+      "~gov",
+      "~",
+      "google",
+      "mncusamed",
+      "google"
+    ],
+    "2":[
+      "jerusalem",
+      "isr",
+      "israel",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "army",
+      "~mil",
+      "~",
+      "soldiers",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "governor",
+      "~gov",
+      "~",
+      "rights group",
+      "~hri",
+      "~"
+    ],
+    "5":[
+      "brazil",
+      "congress",
+      "braleg",
+      "brazil",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "palestinian",
+      "pse",
+      "palestine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "civilians"
+    ],
+    "1":[
+      "regulators",
+      "google"
+    ],
+    "2":[
+      "jerusalem",
+      "people"
+    ],
+    "3":[
+      "army",
+      "army"
+    ],
+    "4":[
+      "rights group",
+      "governor",
+      "governor",
+      "rights group"
+    ],
+    "5":[
+      "brazil ... congress",
+      "president"
+    ],
+    "6":[
+      "obama",
+      "palestinian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "google"
+    ],
+    "2":[
+      "israel",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "5":[
+      "brazil",
+      "---"
+    ],
+    "6":[
+      "barack obama",
+      "palestine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... shot"
+    ],
+    "1":[
+      "are investigating"
+    ],
+    "2":[
+      "injures"
+    ],
+    "3":[
+      "tells"
+    ],
+    "4":[
+      "calls",
+      "calls"
+    ],
+    "5":[
+      "set ... vote"
+    ],
+    "6":[
+      "must recognise"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "public_transit",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "lgbt",
+      "1",
+      "civil_society",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "mncusamed",
+      "090"
+    ],
+    "2":[
+      "isr",
+      "---ppl",
+      "182"
+    ],
+    "3":[
+      "---mil",
+      "---mil",
+      "010"
+    ],
+    "4":[
+      "---hri",
+      "---gov",
+      "041",
+      "---gov",
+      "---hri",
+      "041"
+    ],
+    "5":[
+      "braleg",
+      "---gov",
+      "030"
+    ],
+    "6":[
+      "usagov",
+      "pse",
+      "051"
+    ]
+  }
+}

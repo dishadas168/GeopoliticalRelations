@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/agent-orange-helping-viet_b_5206905.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syrian-child-refugees-lebanon_n_5193908.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/discount-airlines-workers_n_5193823.html"
+  },
+  "headline":{
+    "0":"Agent Orange: Helping Vietnam Heal",
+    "1":"What Syrian Child Refugees 'Working The Streets' In Lebanon Really Means",
+    "2":"Growing Discount Airlines Learn The Hard Way You Can't Leave Workers Behind"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"More than 12 million gallons of herbicides contaminated with dioxin, a known carcinogen, were sprayed in Southeast Asia during the war. The Vietnamese estimate that it affected the health of up to 3 million people, including several hundred thousand children who were born with disabilities.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Susan Hammond, ContributorExecutive Director, War Legacies Project",
+    "1":"Kira Brekke",
+    "2":"Jillian Berman"
+  },
+  "date":{
+    "0":"2014-04-24 00:00:00",
+    "1":"2014-04-23 00:00:00",
+    "2":"2014-04-23 00:00:00"
+  },
+  "actor1":{
+    "0":"vnm",
+    "1":"syrcvlref",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"lbncvlref",
+    "2":"---lab"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"030",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":4.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "vietnamese",
+      "vnm",
+      "vietnam",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "syrian",
+      "child",
+      "refugees",
+      "lebanon",
+      "syrcvlref",
+      "lbncvlref",
+      "syria",
+      "~",
+      "~",
+      "lebanon"
+    ],
+    "2":[
+      "airlines",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vietnamese",
+      "people"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "airlines",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vietnam",
+      "---"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "estimate ... affected"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "learn <['leave',> <'behind']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "vnm",
+      "---ppl",
+      "050"
+    ],
+    "1":[
+      "syrcvlref",
+      "lbncvlref",
+      "030",
+      "lbncvlref",
+      "syrcvlref",
+      "030"
+    ],
+    "2":[
+      "---bus",
+      "---lab",
+      "040"
+    ]
+  }
+}

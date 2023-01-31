@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fordham-mental-health_us_5596d490e4b05bbba184b46a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/memo-to-media-ask-trump-i_b_7723914.html"
+  },
+  "headline":{
+    "0":"Fordham, Education Department Sued Over Student's Mental Health Records",
+    "1":"Memo to Media: Ask Trump if He's a 'Serial Racist'"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"ALBANY, N.Y. (AP) -- A graduate student has sued Fordham University, seeking $5 million in damages and saying the college",
+    "1":"It's easy to laugh off Donald Trump's fact-free comments about Mexican immigrants being rapists. But there is a serious issue here, and mainstream media interviewers have neglected to ask Trump about it."
+  },
+  "authors":{
+    "0":"MICHAEL VIRTANEN, AP",
+    "1":"Jeff Cohen, ContributorAuthor and media critic"
+  },
+  "date":{
+    "0":"2015-07-03 00:00:00",
+    "1":"2015-07-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "student",
+      "student"
+    ],
+    "1":[
+      "media",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has sued ... saying"
+    ],
+    "1":[
+      "have ... ask"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "2"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "020"
+    ]
+  }
+}

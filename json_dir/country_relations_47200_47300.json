@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/islamic-center-shooting-switzerland_us_585821d6e4b08debb78a225d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-do-i-do-now-a-post-election-christmas-reflection_us_585827ade4b06ae7ec2a40af",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/nuclear-deal-iran_us_5856a1dfe4b0b3ddfd8d3508",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-obama-russia-hacks_us_5856a250e4b08debb7899129"
+  },
+  "headline":{
+    "0":"Man Opens Fire In Zurich Mosque, Wounding 3 People",
+    "1":"What Do I Do Now? Reflecting On The Term \u201cEvangelical\u201d",
+    "2":"Head Of UN Nuclear Watchdog Says Iran Is Committed To Deal",
+    "3":"John McCain Says Obama Has 'No Strategy And No Policy' On Russian Hacks"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"RELIGION",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The unidentified suspect fled the scene.",
+    "1":"On the day the electors meet to decide on Donald Trump and the presidency of the United States, there are a host of questions",
+    "2":"\u201cWe are satisfied with the implementation of the (agreement) and hope that this process will continue,\u201d said IAEA director general Yukiya Amano.",
+    "3":"\"I\u2019m sure when Vladimir Putin was told, \u2018Cut it out,\u2019 I\u2019m sure he immediately stopped all cyber activity.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Greg Cootsona, Contributorwriter and speaker on mere Christianity, mainstream science, a...",
+    "2":"",
+    "3":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2016-12-19 00:00:00",
+    "1":"2016-12-19 00:00:00",
+    "2":"2016-12-18 00:00:00",
+    "3":"2016-12-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"igounoiae",
+    "3":"usagovleg"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"igounoiae",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"030",
+    "2":"010",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":4.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "electors",
+      "~cvl",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "yukiya amano",
+      "igounoiae",
+      "yukiya",
+      "amano",
+      "iaea",
+      "igounoiae",
+      "iaea"
+    ],
+    "3":[
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "electors",
+      "the ... united states"
+    ],
+    "2":[
+      "yukiya amano",
+      "yukiya amano"
+    ],
+    "3":[
+      "john mccain",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "yukiya amano",
+      "yukiya amano"
+    ],
+    "3":[
+      "john mccain",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "opens ... wounding"
+    ],
+    "1":[
+      "meet ... decide"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "180"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "igounoiae",
+      "igounoiae",
+      "010"
+    ],
+    "3":[
+      "usagovleg",
+      "usagov",
+      "010"
+    ]
+  }
+}

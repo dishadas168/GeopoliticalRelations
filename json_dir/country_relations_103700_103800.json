@@ -1,0 +1,124 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/can-greece-force-a-new-deal_b_6689804.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/peta-hires-lobbyist-to-sq_b_6684966.html"
+  },
+  "headline":{
+    "0":"Can Greece Force a New Deal?",
+    "1":"PETA Hires Lobbyist to Quash Bill That Would Restrain Their Pet Killing"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Greece and the European Union could face a showdown in their debt talks as early as this week. And if you had to place odds right now, the likelihood is that the stubbornness of Europe's senior leaders will create a catastrophe for both Greece and the EU. Here is the state of play.",
+    "1":"The Virginia Senate voted overwhelmingly for a bill that would restrict PETA's mass killing of dogs and cats at its Norfolk headquarters; but PETA has hired a crack lobbyist in an effort to push for the vote to fail tomorrow in the Virginia House of Delegates."
+  },
+  "authors":{
+    "0":"Robert Kuttner, ContributorCo-founder and co-editor, 'The American Prospect'",
+    "1":"Douglas Anthony Cooper, ContributorNovelist, Photographer. Portfolio: www.dys.format.com"
+  },
+  "date":{
+    "0":"2015-02-16 00:00:00",
+    "1":"2015-02-15 00:00:00"
+  },
+  "actor1":{
+    "0":"grc",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"igoeureec",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "greece",
+      "the european union",
+      "grc",
+      "igoeureec",
+      "greece",
+      "the",
+      "european",
+      "union"
+    ],
+    "1":[
+      "virginia",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress",
+      "delegates",
+      "~leg",
+      "~",
+      "virginia",
+      "delegates",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "grc",
+      "igoeureec",
+      "040",
+      "igoeureec",
+      "grc",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "usagovleg",
+      "030",
+      "usagovleg",
+      "usa",
+      "030"
+    ]
+  }
+}

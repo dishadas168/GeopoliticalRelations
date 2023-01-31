@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.ibtimes.com\/cables-show-hillary-clintons-state-department-deeply-involved-trans-pacific-2032948"
+  },
+  "headline":{
+    "0":"Leaked Cables Contradict Clinton's Claims On TPP Trade Agreement"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Democratic presidential candidate Hillary Clinton on Thursday attempted to distance herself from the\u00a0controversial 12-nation"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-07-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli"
+  },
+  "actor2":{
+    "0":"usaeli"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "attempted ... distance ... from"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usaeli",
+      "110"
+    ]
+  }
+}

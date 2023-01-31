@@ -1,0 +1,301 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/islamic-state-kidnap-400-civilians_us_569b71bde4b0778f46f99c42",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-iran-prisoner-exchange_us_569b799fe4b0b4eb759eaa09",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_431_b_9000122.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/is-sweden-training-migran_b_9002728.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/to-cure-cancer-biden-says-have-to-overcome-cancer-politics_us_569931aee4b0ce4964244672",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/burkina-faso-hotel-siege_us_569a3fd8e4b0ce496424a515",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/four-american-prisoners-released-by-iran-state-news-reporting_us_569a5361e4b0778f46f98651"
+  },
+  "headline":{
+    "0":"Islamic State Kidnaps At Least 400 Civilians In Syrian City, Says Monitor",
+    "1":"The American Prisoners Just Left Iran. But Kerry Almost Got Them Out Months Ago.",
+    "2":"Sunday Roundup",
+    "3":"Is Sweden Training Migrants To Be Snipers?",
+    "4":"To Cure Cancer, Biden Says Have To Overcome 'Cancer Politics'",
+    "5":"Burkina Faso, French Troops End Deadly Hotel Siege Claimed By Al Qaeda Group",
+    "6":"Iran Releases 4 American Prisoners After Months Of Top-Secret Negotiations"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLDPOST",
+    "4":"HEALTHY LIVING",
+    "5":"THE WORLDPOST",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"Militants reportedly struck in Deir al-Zor on Saturday.",
+    "1":"\"We actually shook hands, thinking we had an agreement,\" the secretary of state said.",
+    "2":"This week was a study in contrasting visions for the country. On Tuesday, President Obama gave his last State of the Union address, inviting us to end the \"rancor and suspicion\" that have enveloped us. That invitation was soundly rejected two nights later in the Republican presidential debate, which featured little but rancor and suspicion: sniping about birtherism (Canadian style), \"New York values,\" our military as \"a disaster\" and President Obama as \"a petulant child.\" At one point, discussing Donald Trump's idea to ban Muslim immigrants, an incredulous Jeb Bush, sounding like an uncool dad failing to get through to a room of adolescents, pleaded, \"we're running for the presidency of the United States here!\" Indeed. A good time to remember the words Pope Francis spoke to Congress, which President Obama repeated on Tuesday: \"To imitate the hatred and violence of tyrants and murderers is the best way to take their place.\"",
+    "3":"",
+    "4":"The Vice President is urging Americans to demand collaboration among scientists.",
+    "5":"At least 28 people from 18 different countries, including an American missionary, were killed in the attack.",
+    "6":"Jason Rezaian is coming home."
+  },
+  "authors":{
+    "0":"",
+    "1":"Jessica Schulberg",
+    "2":"Arianna Huffington, Contributor",
+    "3":"Lev Raphael, ContributorAuthor, reviewer, and blogger",
+    "4":"JOSH LEDERMAN, AP",
+    "5":"Brahim Ouedraogo and Baba Ahmed, AP",
+    "6":"Jessica Schulberg"
+  },
+  "date":{
+    "0":"2016-01-17 00:00:00",
+    "1":"2016-01-17 00:00:00",
+    "2":"2016-01-17 00:00:00",
+    "3":"2016-01-17 00:00:00",
+    "4":"2016-01-16 00:00:00",
+    "5":"2016-01-16 00:00:00",
+    "6":"2016-01-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"usa",
+    "2":"usagov",
+    "3":"swe",
+    "4":"---gov",
+    "5":"bfamil",
+    "6":"irn"
+  },
+  "actor2":{
+    "0":"syr",
+    "1":"irn",
+    "2":"usagov",
+    "3":"---cvl",
+    "4":"---cvl",
+    "5":"imgmusalq",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040",
+    "2":"040",
+    "3":"030",
+    "4":"100",
+    "5":"110",
+    "6":"0842"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":1.0,
+    "3":4.0,
+    "4":-5.0,
+    "5":-2.0,
+    "6":7.0
+  },
+  "nouns":{
+    "0":[
+      "militants",
+      "~uaf",
+      "~",
+      "deir al zor",
+      "syr",
+      "syria"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "sweden",
+      "swe",
+      "sweden",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "scientists",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "burkina faso",
+      "french",
+      "troops",
+      "bfamil",
+      "framil",
+      "burkina",
+      "faso",
+      "france",
+      "~",
+      "al qaeda",
+      "imgmusalq",
+      "al",
+      "qa'ida"
+    ],
+    "6":[
+      "iran",
+      "irn",
+      "iran",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "militants",
+      "deir al zor"
+    ],
+    "1":[
+      "american",
+      "iran"
+    ],
+    "2":[
+      "president obama",
+      "president obama"
+    ],
+    "3":[
+      "sweden",
+      "migrants"
+    ],
+    "4":[
+      "president",
+      "scientists"
+    ],
+    "5":[
+      "burkina faso",
+      "al qaeda",
+      "french",
+      "al qaeda"
+    ],
+    "6":[
+      "iran",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "syria"
+    ],
+    "1":[
+      "united states of america",
+      "iran"
+    ],
+    "2":[
+      "barack obama",
+      "barack obama"
+    ],
+    "3":[
+      "sweden",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "burkina faso",
+      "al qa'ida",
+      "france",
+      "al qa'ida"
+    ],
+    "6":[
+      "iran",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "struck"
+    ],
+    "1":[
+      "left"
+    ],
+    "2":[
+      "gave ... inviting"
+    ],
+    "3":[
+      "training"
+    ],
+    "4":[
+      "is ... demand"
+    ],
+    "5":[
+      "claimed",
+      "claimed"
+    ],
+    "6":[
+      "releases <&hostage>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "named_terror_group",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "syr",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "irn",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "usagov",
+      "040"
+    ],
+    "3":[
+      "swe",
+      "---cvl",
+      "030"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "100"
+    ],
+    "5":[
+      "bfamil",
+      "imgmusalq",
+      "110",
+      "framil",
+      "imgmusalq",
+      "110"
+    ],
+    "6":[
+      "irn",
+      "usa",
+      "0842"
+    ]
+  }
+}

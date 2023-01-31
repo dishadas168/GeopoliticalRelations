@@ -1,0 +1,238 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-iraqi-christians-aclu_us_59415667e4b09ad4fbe4ce41",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cnn-jeff-zucker-press-attacks_us_5942b65be4b06bb7d2718be8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/london-apartment-complex-fire-escape_us_5940e0e4e4b0d3185485d322",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/borough-market-reopens-terror-attack-london_us_5940ff8fe4b003d5948c18d6",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/us-senate-russia-sanctions_us_59418bb0e4b09ad4fbe50f49"
+  },
+  "headline":{
+    "0":"ACLU Stalls Trump\u2019s Plan To Deport Iraqi Christians",
+    "1":"CNN Chief Calls Politicians' Attacks On The Media 'Shameful' And 'Dangerous'",
+    "2":"Residents Describe Terrifying Escape From London Apartment Block Fire",
+    "3":"Borough Market Reopens Just 11 Days After The Deadly London Terror Attack",
+    "4":"U.S. Senate Backs Legislation To Slap New Sanctions On Russia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cOur immigration policy shouldn\u2019t amount to a death sentence for anyone,\" the ACLU says.",
+    "1":"Anti-press rhetoric and threats are \"much more serious than I think anybody would realize,\" says Jeff Zucker.",
+    "2":"\"We lost everything, everything. I\u2019ve got only what I\u2019m wearing on me.\"",
+    "3":"Traders honored victims of the attack with a minute's silence and then applause.",
+    "4":"The bill was introduced amid an intense focus in the U.S. capital on relations with Russia."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"Michael Calderone",
+    "2":"Lee Moran",
+    "3":"Lee Moran",
+    "4":"Patricia Zengerle, Reuters"
+  },
+  "date":{
+    "0":"2017-06-15 00:00:00",
+    "1":"2017-06-15 00:00:00",
+    "2":"2017-06-14 00:00:00",
+    "3":"2017-06-14 00:00:00",
+    "4":"2017-06-14 00:00:00"
+  },
+  "actor1":{
+    "0":"ngousahri",
+    "1":"med",
+    "2":"---cvl",
+    "3":"---bus",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"irqchr",
+    "1":"---pty",
+    "2":"gbr",
+    "3":"---cvl",
+    "4":"rus"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"020",
+    "2":"010",
+    "3":"051",
+    "4":"180"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":3.0,
+    "2":0.0,
+    "3":3.4,
+    "4":-9.0
+  },
+  "nouns":{
+    "0":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "iraqi",
+      "christians",
+      "irqchr",
+      "iraq",
+      "~"
+    ],
+    "1":[
+      "cnn",
+      "med",
+      "cnn",
+      "politicians",
+      "~pty",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "residents",
+      "~cvl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "3":[
+      "traders",
+      "~bus",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "aclu",
+      "iraqi christians"
+    ],
+    "1":[
+      "cnn",
+      "politicians"
+    ],
+    "2":[
+      "residents",
+      "london"
+    ],
+    "3":[
+      "traders",
+      "victims"
+    ],
+    "4":[
+      "u.s.",
+      "russia",
+      "senate",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "american civil liberties union",
+      "iraq"
+    ],
+    "1":[
+      "cnn",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united kingdom"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "russian federation",
+      "united states congress",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<\u2019s> ... deport"
+    ],
+    "1":[
+      "calls ... on"
+    ],
+    "2":[
+      "describe"
+    ],
+    "3":[
+      "honored"
+    ],
+    "4":[
+      "backs ... slap",
+      "backs ... slap"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "sanctions",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ngousahri",
+      "irqchr",
+      "174"
+    ],
+    "1":[
+      "med",
+      "---pty",
+      "020"
+    ],
+    "2":[
+      "---cvl",
+      "gbr",
+      "010"
+    ],
+    "3":[
+      "---bus",
+      "---cvl",
+      "051"
+    ],
+    "4":[
+      "usa",
+      "rus",
+      "180",
+      "usagovleg",
+      "rus",
+      "180"
+    ]
+  }
+}

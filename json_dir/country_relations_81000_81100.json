@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/utah-couple-ordered-to-surrender-foster-child-because-theyre-gay_us_56449f50e4b060377347d05c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-class-action-tyson_us_563bc695e4b0307f2cacabe9"
+  },
+  "headline":{
+    "0":"Utah Couple Ordered To Surrender Foster Child Because They're Gay",
+    "1":"Supreme Court May Give A Break To Thousands Of Workers Shorted On Pay"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"A judge claims the baby will be better off with a heterosexual couple.",
+    "1":"It appears the court won't be dealing a blow to worker efforts to bring class action lawsuits against their employers."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Cristian Farias"
+  },
+  "date":{
+    "0":"2015-11-12 00:00:00",
+    "1":"2015-11-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---lab"
+  },
+  "event_code":{
+    "0":"105",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "utah",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "the court",
+      "~jud",
+      "~",
+      "worker",
+      "~lab",
+      "~",
+      "employers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "utah",
+      "child"
+    ],
+    "1":[
+      "the court",
+      "worker"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ordered ... surrender"
+    ],
+    "1":[
+      "wo ... dealing ... blow"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "105"
+    ],
+    "1":[
+      "---jud",
+      "---lab",
+      "110"
+    ]
+  }
+}

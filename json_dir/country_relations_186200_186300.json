@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/french-bank-handbag-insurance-pour-elle-sexist-2012_us_5b9c2195e4b03a1dcc7c855e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/back-to-school-10-songs-playlist_us_5badbf6de4b0bb1705faaf8f"
+  },
+  "headline":{
+    "0":"French Bank Offers Women Handbag Insurance, Dodges Accusations Of Sexism",
+    "1":"Back To School: 10 Songs To Kick Off The New Semester (LISTEN)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"How much do you love your handbag? Or, let us rephrase this: Do you think your bank should have a vested interest in protecting",
+    "1":"As the hot and hazy days of summer begin to wind down this month, students across America are gearing up for another school"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2012-08-12 00:00:00",
+    "1":"2012-08-12 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"usaedu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "french",
+      "fra",
+      "france",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "usaedu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "french",
+      "women"
+    ],
+    "1":[
+      "students",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ],
+    "1":[
+      "are <['gearing',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "usaedu",
+      "---edu",
+      "030"
+    ]
+  }
+}

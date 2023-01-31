@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/huffpost-hill_n_6681084.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-53_b_6681198.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/gett-the-trial-of-viviane_b_6673046.html"
+  },
+  "headline":{
+    "0":"HUFFPOST HILL - America Struggles To Explain Latest Biden Gaffe To Children",
+    "1":"Weekend Roundup: Merkel in the Middle as Post-Cold War Europe Falters",
+    "2":"Gett: 'The Trial of Viviane Ansalem': No Way Out Jewish Style"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The whole idea of European integration was to anchor Germany in Europe to avoid another world war and to spread prosperity across the continent with a single market and common currency. Russia agreed to German unification after the Cold War in exchange for the West not absorbing Europe's eastern frontier into its sphere of influence. \n\nNow democratically elected governments in Athens and Kiev -- and the responses in Berlin and Moscow -- are challenging both post-Cold War arrangements. Angela Merkel, as chancellor of Europe's unrivaled power, has become, for better and worse, the crisis manager in the middle. (continued)",
+    "2":"The injustice of women trapped in unhappy marriages by husbands who refuse to let them go has long been acknowledged in religious Jewish communities. If a woman cannot get a \"gett,\" she is not officially divorced, and therefore is not free to remarry."
+  },
+  "authors":{
+    "0":"Eliot Nelson",
+    "1":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "2":"Regina Weinreich, ContributorAuthor, 'Kerouac's Spontaneous Poetics'"
+  },
+  "date":{
+    "0":"2015-02-13 00:00:00",
+    "1":"2015-02-13 00:00:00",
+    "2":"2015-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"rus",
+    "2":"---jewcvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"deu",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"050",
+    "2":"015"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "german",
+      "deu",
+      "germany"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "jewish",
+      "communities",
+      "~jewcvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "children"
+    ],
+    "1":[
+      "russia",
+      "german"
+    ],
+    "2":[
+      "jewish communities",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "germany"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "struggles ... explain"
+    ],
+    "1":[
+      "agreed"
+    ],
+    "2":[
+      "<~cvl> ... acknowledged in <~jewcvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "rus",
+      "deu",
+      "050"
+    ],
+    "2":[
+      "---jewcvl",
+      "---cvl",
+      "015"
+    ]
+  }
+}

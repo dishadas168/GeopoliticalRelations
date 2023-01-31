@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/yemen-conflict_us_559f66dee4b01c2162a64371",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bangladesh-stampede_us_559f62dce4b01c2162a6432b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/typhoon-chan-hom-china_us_559f9e76e4b01c2162a64498",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/colleges-cuba-exchange-program_us_559fe13ee4b096729155f1f8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/bill-cosby-hollywood-walk-of-fame_us_559ec4abe4b01c2162a61ee2"
+  },
+  "headline":{
+    "0":"UN: Main Factions In Yemen Conflict Agree To 'Humanitarian Pause'",
+    "1":"Deadly Stampede In Bangladesh Kills 23",
+    "2":"China Evacuates Tens Of Thousands Ahead Of Super-Typhoon",
+    "3":"Colleges Begin Establishing Exchange Programs In Cuba",
+    "4":"Hollywood Chamber Of Commerce Says It Won't Remove Bill Cosby's Star On Walk Of Fame"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"COLLEGE",
+    "4":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"By Mohammed Mukhashaf and Mohammed Ghobari ADEN, July 10 (Reuters) - Yemen's main warring factions endorsed a U.N.-brokered",
+    "1":"At least 22 people were killed in a stampede in central Bangladesh early Friday when hundreds of people stormed the home of a businessman for a charity handout during the holy Muslim month of Ramadan.",
+    "2":"Chinese authorities have evacuated tens of thousands of people as a super-typhoon with wind gusts up to 125 mph heads toward the southeastern coast.",
+    "3":"BOSTON (AP) -- As the U.S. and Cuba mend ties, colleges in both countries are forming partnerships that once were heavily",
+    "4":"LOS ANGELES (AP) \u2014 A coalition of black civil rights activists is calling on the Hollywood Chamber of Commerce to remove"
+  },
+  "authors":{
+    "0":"Noah Browning and Mohammed Ghobari, Reuters",
+    "1":"",
+    "2":"",
+    "3":"COLLIN BINKLEY, AP",
+    "4":""
+  },
+  "date":{
+    "0":"2015-07-10 00:00:00",
+    "1":"2015-07-10 00:00:00",
+    "2":"2015-07-10 00:00:00",
+    "3":"2015-07-10 00:00:00",
+    "4":"2015-07-09 00:00:00"
+  },
+  "actor1":{
+    "0":"med",
+    "1":"bgd",
+    "2":"chngov",
+    "3":"usa",
+    "4":"---opp"
+  },
+  "actor2":{
+    "0":"yem",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"cub",
+    "4":"---bus"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"190",
+    "2":"070",
+    "3":"050",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-10.0,
+    "2":7.0,
+    "3":3.5,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "reuters",
+      "yemen",
+      "med",
+      "yem",
+      "reuters",
+      "yemen"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "bangladesh",
+      "bgd",
+      "bangladesh"
+    ],
+    "2":[
+      "chinese",
+      "authorities",
+      "chngov",
+      "china",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "u.s.",
+      "cuba",
+      "usa",
+      "cub",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cuba",
+      "colleges",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "activists",
+      "~opp",
+      "~",
+      "activists",
+      "~opp",
+      "~",
+      "chamber of commerce",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "bangladesh",
+      "people"
+    ],
+    "2":[
+      "chinese authorities",
+      "people"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "activists",
+      "chamber of commerce"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "bangladesh",
+      "---"
+    ],
+    "2":[
+      "china",
+      "---"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "<~ppl> ... killed in <bgd>"
+    ],
+    "2":[
+      "have evacuated"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "is ... calling on"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":[
+      "human_rights",
+      "1",
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "med",
+      "yem",
+      "051",
+      "yem",
+      "med",
+      "051"
+    ],
+    "1":[
+      "bgd",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "chngov",
+      "---ppl",
+      "070"
+    ],
+    "3":[
+      "usa",
+      "cub",
+      "050",
+      "cub",
+      "usa",
+      "050"
+    ],
+    "4":[
+      "---opp",
+      "---bus",
+      "020"
+    ]
+  }
+}

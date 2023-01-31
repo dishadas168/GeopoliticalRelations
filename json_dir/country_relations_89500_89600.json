@@ -1,0 +1,375 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.chicagotribune.com\/news\/local\/breaking\/ct-chicago-shooting-violence-20150802-story.html",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2015\/08\/03\/business\/media\/rolling-stone-appoints-a-new-managing-editor.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kraft-recall_us_55bf5e07e4b06363d5a29a26",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/naacps-journey-for-justice-protest-march-kicks-off-in-selma_us_55bf9d7fe4b0b23e3ce362ef",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/anti-gay-billboard-odgaards-iowa_us_55bf775ae4b0b23e3ce33d65",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/cnn-white-house-planned-parenthood-interview_us_55bfbc7ae4b0d4f33a039682",
+    "6":"https:\/\/www.huffingtonpost.comhttp:\/\/hoh.rollcall.com\/cecil-the-lion-paul-broun-office-space\/?dcz",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/pkk-suicide-bombing-turkey_us_55be210fe4b0d4f33a031d93",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestinian-arson-attack_us_55be5db1e4b0b23e3ce31a19"
+  },
+  "headline":{
+    "0":"15 Shot In Chicago On Sunday",
+    "1":"'Shake-Up' At Rolling Stone",
+    "2":"Kraft Recalls 36,000 Cases Of Cheese Singles Over Choking Hazard",
+    "3":"NAACP'S 'Journey For Justice' Protest March Kicks Off In Selma",
+    "4":"Christian Couple Plans To Spread A Huge (And Very Un-Christian) Project Across The U.S.",
+    "5":"CNN Host Grills White House Spokesman Over Planned Parenthood Videos",
+    "6":"That Time a Congressman Killed a Lion in Zimbabwe",
+    "7":"Kurdish Militants Target Turkish Military In Suicide Attack",
+    "8":"Israel Approves Jailing Jewish Militants Without Trial"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"MEDIA",
+    "2":"HEALTHY LIVING",
+    "3":"BLACK VOICES",
+    "4":"QUEER VOICES",
+    "5":"MEDIA",
+    "6":"POLITICS",
+    "7":"THE WORLDPOST",
+    "8":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"At least 15 people were shot, including two young children, in\u00a0shootings across Chicago since Sunday afternoon, police said",
+    "1":"Jason Fine, the editor of Men\u2019s Journal, will take over as the managing editor of Rolling Stone as part of what the magazine\u2019s",
+    "2":"The Kraft Heinz Company\u00a0is voluntarily\u00a0recalling 36,000 cases of its iconic Kraft Singles. The company informed customers",
+    "3":"Protesters will embark on an 860-mile march from Selma to Washington D.C.",
+    "4":"Two years after they rejected a same-sex couple from their wedding venue, Richard and Betty Odgaard are back.",
+    "5":"Chris Cuomo said the videos show \"ugly stuff.\"",
+    "6":"Long before the killing of Cecil the lion in Zimbabwe by a Minneapolis dentist triggered an international outcry over the",
+    "7":"Tensions flare in Turkey.",
+    "8":"The move comes after a deadly arson attack killed a Palestinian toddler."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Suzy Strutner",
+    "3":"",
+    "4":"Curtis M. Wong",
+    "5":"Kim Bellware",
+    "6":"",
+    "7":"",
+    "8":""
+  },
+  "date":{
+    "0":"2015-08-03 00:00:00",
+    "1":"2015-08-03 00:00:00",
+    "2":"2015-08-03 00:00:00",
+    "3":"2015-08-03 00:00:00",
+    "4":"2015-08-03 00:00:00",
+    "5":"2015-08-03 00:00:00",
+    "6":"2015-08-02 00:00:00",
+    "7":"2015-08-02 00:00:00",
+    "8":"2015-08-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---bus",
+    "3":"---opp",
+    "4":"---chr",
+    "5":"med",
+    "6":"---leg",
+    "7":"---uaf",
+    "8":"isr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---med",
+    "2":"---cvl",
+    "3":"usa",
+    "4":"usa",
+    "5":"---med",
+    "6":"zwe",
+    "7":"tur",
+    "8":"---jewuaf"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"171",
+    "2":"010",
+    "3":"040",
+    "4":"030",
+    "5":"110",
+    "6":"190",
+    "7":"190",
+    "8":"173"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-9.2,
+    "2":0.0,
+    "3":1.0,
+    "4":4.0,
+    "5":-2.0,
+    "6":-10.0,
+    "7":-10.0,
+    "8":-5.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "protesters",
+      "~opp",
+      "~",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "christian",
+      "~chr",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "cnn",
+      "med",
+      "cnn",
+      "spokesman",
+      "~med",
+      "~"
+    ],
+    "6":[
+      "congressman",
+      "~leg",
+      "~",
+      "zimbabwe",
+      "zwe",
+      "zimbabwe"
+    ],
+    "7":[
+      "militants",
+      "~uaf",
+      "~",
+      "turkish",
+      "tur",
+      "turkey"
+    ],
+    "8":[
+      "israel",
+      "isr",
+      "israel",
+      "jewish",
+      "militants",
+      "~jewuaf",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago",
+      "people"
+    ],
+    "1":[
+      "men",
+      "magazine"
+    ],
+    "2":[
+      "company",
+      "customers"
+    ],
+    "3":[
+      "protesters",
+      "washington <d.c.>"
+    ],
+    "4":[
+      "christian",
+      "<u.s.>"
+    ],
+    "5":[
+      "cnn",
+      "spokesman"
+    ],
+    "6":[
+      "congressman",
+      "zimbabwe"
+    ],
+    "7":[
+      "militants",
+      "turkish"
+    ],
+    "8":[
+      "israel",
+      "jewish militants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "cnn",
+      "---"
+    ],
+    "6":[
+      "---",
+      "zimbabwe"
+    ],
+    "7":[
+      "---",
+      "turkey"
+    ],
+    "8":[
+      "israel",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... shot ... in <usa>"
+    ],
+    "1":[
+      "will <['take',> <'over']>"
+    ],
+    "2":[
+      "informed"
+    ],
+    "3":[
+      "will embark"
+    ],
+    "4":[
+      "plans"
+    ],
+    "5":[
+      "grills"
+    ],
+    "6":[
+      "killed"
+    ],
+    "7":[
+      "target <&military>"
+    ],
+    "8":[
+      "approves jailing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":[
+      "suicide_attack",
+      "1"
+    ],
+    "8":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---ppl",
+      "---med",
+      "171"
+    ],
+    "2":[
+      "---bus",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---opp",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "---chr",
+      "usa",
+      "030"
+    ],
+    "5":[
+      "med",
+      "---med",
+      "110"
+    ],
+    "6":[
+      "---leg",
+      "zwe",
+      "190"
+    ],
+    "7":[
+      "---uaf",
+      "tur",
+      "190"
+    ],
+    "8":[
+      "isr",
+      "---jewuaf",
+      "173"
+    ]
+  }
+}

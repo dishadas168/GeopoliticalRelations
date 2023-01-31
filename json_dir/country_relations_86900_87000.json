@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/bigstory.ap.org\/article\/124170f9fd494c889212138db43467ed\/turkish-official-2-vice-news-journalists-freed-jail",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sex-workers-rentboy-raid_us_55e8a938e4b0c818f61b4fe4"
+  },
+  "headline":{
+    "0":"Report: VICE Journalists Released From Jail In Turkey",
+    "1":"Protesters Say Raid On Rentboy Escort Site Puts People At Risk"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"ANKARA, Turkey (AP) \u2014 A Turkish government official says two Vice News journalists who were arrested on terror-related charges",
+    "1":"But then, sex workers are \"terrorized every day\" by law enforcement."
+  },
+  "authors":{
+    "0":"",
+    "1":"Lila Shapiro"
+  },
+  "date":{
+    "0":"2015-09-03 00:00:00",
+    "1":"2015-09-03 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"---lab"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"180"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "government official",
+      "turgov",
+      "turkey",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "workers",
+      "~lab",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish government official",
+      "journalists"
+    ],
+    "1":[
+      "workers",
+      "law enforcement"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "are ... terrorized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---lab",
+      "---cop",
+      "180"
+    ]
+  }
+}

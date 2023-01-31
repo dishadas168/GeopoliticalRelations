@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prince-harry-australia-photos_us_5b9d938de4b03a1dcc89b828"
+  },
+  "headline":{
+    "0":"Prince Harry's Australia Tour Acquaints The Royal With Prime Minister's Daughters (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. Harry"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-10-06 00:00:00"
+  },
+  "actor1":{
+    "0":"'ulukalala_lavaka_ata_"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "prince",
+      "australia",
+      "'ulukalala_lavaka_ata_",
+      "aus",
+      "prince",
+      "australia",
+      "prime minister",
+      "~gov",
+      "~",
+      "prime minister",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prince",
+      "prime minister",
+      "australia",
+      "prime minister"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "prince",
+      "---",
+      "australia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "acquaints",
+      "acquaints"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "'ulukalala_lavaka_ata_",
+      "---gov",
+      "040",
+      "aus",
+      "---gov",
+      "040"
+    ]
+  }
+}

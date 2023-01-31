@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/melbourne-australia-travel-tips_us_5b9cb9f1e4b03a1dcc813ebe"
+  },
+  "headline":{
+    "0":"6 Quirky Stops In Melbourne, Australia"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Melbourne will leave a lasting impression on any discerning traveller, and we can guarantee that it will become one of your top cities to explore time and time again."
+  },
+  "authors":{
+    "0":"Black Tomato, Contributor\nCutting-edge travel experts"
+  },
+  "date":{
+    "0":"2013-01-18 00:00:00"
+  },
+  "actor1":{
+    "0":"aus"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "melbourne",
+      "aus",
+      "australia",
+      "traveller",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "melbourne",
+      "traveller"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "australia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will leave"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "aus",
+      "---cvl",
+      "040"
+    ]
+  }
+}

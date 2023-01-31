@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-the-government-shutd_us_5b9d901fe4b03a1dcc898b57",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-i-want-to-give-my-children_us_5b9d9013e4b03a1dcc898a62"
+  },
+  "headline":{
+    "0":"What the Government Shutdown Means to Travelers",
+    "1":"What I Want to Give My Children"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"With a government shutdown starting today, here's what travelers need to know about travel.",
+    "1":"I'm finally beginning to understand that one of my main priorities as a mother is to give my children a childhood, the childhood I felt I never really had."
+  },
+  "authors":{
+    "0":"Travelzoo, Contributor\nA global Internet media company and trusted publisher of trave...",
+    "1":"Jessica Halepis, Contributor\nMother and Writer, Nourished Mom"
+  },
+  "date":{
+    "0":"2013-10-01 00:00:00",
+    "1":"2013-10-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~",
+      "mother",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "travelers"
+    ],
+    "1":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "means"
+    ],
+    "1":[
+      "is ... give"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

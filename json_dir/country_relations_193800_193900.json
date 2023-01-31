@@ -1,0 +1,133 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turmeric-pronunciation_us_5b9bbe57e4b03a1dcc7a002f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/second-most-fearless-tweet-finalist_us_5b9bbd41e4b03a1dcc79f9bc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lauren-odes-native-intimates-fired_us_5b9bbebbe4b03a1dcc7a03bd"
+  },
+  "headline":{
+    "0":"Turmeric: How Do You Pronounce It?",
+    "1":"SLIDESHOW: Our 2nd 'Most Fearless Tweet' Finalist!",
+    "2":"Lauren Odes, Former Native Intimates Employee, Claims She Was Fired Over 'Too Hot' Appearance"
+  },
+  "category":{
+    "0":"FOOD & DRINK",
+    "1":"WELLNESS",
+    "2":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Turmeric is one of those words that many people feel hesitant when speaking it. It's a bright yellow spice that plays a big",
+    "1":"On May 3, HuffPost Becoming Fearless and Toyota Corolla teamed up to announce Toyota Corolla's Most Fearless Tweet Contest",
+    "2":"But even when wearing a simple tee-shirt and jeggings, her busty shape was allegedly unacceptable to her Native Intimates"
+  },
+  "authors":{
+    "0":"Kitchen Daily, Kitchen Daily",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2012-05-22 00:00:00",
+    "1":"2012-05-22 00:00:00",
+    "2":"2012-05-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"mncjpn",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"mncjpn",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"112"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "toyota",
+      "mncjpn",
+      "toyota",
+      "toyota",
+      "mncjpn",
+      "toyota"
+    ],
+    "2":[
+      "native",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "toyota",
+      "toyota"
+    ],
+    "2":[
+      "native",
+      "native"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "toyota",
+      "toyota"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "feel ... speaking"
+    ],
+    "1":[
+      "teamed ... announce"
+    ],
+    "2":[
+      "claims <~cvl> ... fired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "mncjpn",
+      "mncjpn",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "112"
+    ]
+  }
+}

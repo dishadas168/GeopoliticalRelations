@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-should-resist-milit_b_5499663.html"
+  },
+  "headline":{
+    "0":"Obama Should Resist Military Intervention, in Iraq and Beyond"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"If we are to solve our myriad domestic problems and revitalize our economy we need to be more selective about our involvement in foreign crises large and small."
+  },
+  "authors":{
+    "0":"William Hartung, ContributorWriter and Foreign Policy Expert"
+  },
+  "date":{
+    "0":"2014-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"irq"
+  },
+  "event_code":{
+    "0":"1212"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should resist <{&military> <intervention}>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "irq",
+      "1212"
+    ]
+  }
+}

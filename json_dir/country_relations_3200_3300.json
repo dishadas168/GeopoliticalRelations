@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/biden-face-masks-100-days-coronavirus_n_6006f9bac5b6df63a91a23be",
+    "1":"https:\/\/www.huffpost.com\/entry\/amazing-grace-memorial-coronavirus-biden-harris-inauguration_n_6007685bc5b6ffcab9687768",
+    "2":"https:\/\/www.huffpost.com\/entry\/josh-hawley-mob-incitement_n_5fff84bec5b66f3f7963c5c7",
+    "3":"https:\/\/www.huffpost.com\/entry\/rob-lowe-prince-harry-ponytail_n_5ffde110c5b656719889952a",
+    "4":"https:\/\/www.huffpost.com\/entry\/mike-pence-biden-inauguration_n_5ffa552bc5b66f3f795e8fbf",
+    "5":"https:\/\/www.huffpost.com\/entry\/kansas-city-star-slams-josh-hawley_n_5ff6b779c5b6ea7351c84946"
+  },
+  "headline":{
+    "0":"Joe Biden Mandates Masks On Federal Property",
+    "1":"Nurse Sings 'Amazing Grace' In Powerful Biden-Harris COVID-19 Memorial",
+    "2":"Josh Hawley Says He Will Not Be Intimidated By Mob That Cheered For Him",
+    "3":"Rob Lowe Actually Believes That Prince Harry Is Sporting A Ponytail",
+    "4":"Mike Pence -- But Not Trump -- Will Attend Joe Biden's Inauguration: Reports",
+    "5":"Kansas City Star Rebukes Josh Hawley's Role In Insurrection: 'Blood On His Hands'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"In a renewed push against COVID-19, the president is ordering people to wear masks while on federal property and encouraging their use everywhere else.",
+    "1":"Lori Marie Key, a Detroit nurse who went viral for singing the song at her hospital, gave an emotional rendition at the inauguration eve memorial for coronavirus victims.",
+    "2":"The senator has not acknowledged how his own voter fraud lies inspired Capitol rioters.",
+    "3":"The actor claimed he had a \u201cscoop\u201d about the British royal on \"The Late Late Show with James Corden,\" but the talk show host was skeptical.",
+    "4":"The vice president will reportedly attend the event even though President Trump said he would skip it.",
+    "5":"The Missouri Republican is to blame for \u201cinspiring one of the most heartbreaking days in modern American history,\" wrote his home-state newspaper's editorial board."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Sarah Ruiz-Grossman",
+    "2":"Arthur Delaney",
+    "3":"Carly Ledbetter",
+    "4":"Dominique Mosbergen",
+    "5":"Steve Gorman, Reuters"
+  },
+  "date":{
+    "0":"2021-01-20 00:00:00",
+    "1":"2021-01-19 00:00:00",
+    "2":"2021-01-14 00:00:00",
+    "3":"2021-01-12 00:00:00",
+    "4":"2021-01-10 00:00:00",
+    "5":"2021-01-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usahlh",
+    "2":"---leg",
+    "3":"---eli",
+    "4":"---gov",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---eli",
+    "4":"---gov",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"060",
+    "2":"016",
+    "3":"110",
+    "4":"042",
+    "5":"112"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.0,
+    "2":3.4,
+    "3":-2.0,
+    "4":1.9,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "detroit",
+      "nurse",
+      "usahlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "senator",
+      "~leg",
+      "~",
+      "voter",
+      "~cvl",
+      "~",
+      "rioters",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "actor",
+      "~eli",
+      "~",
+      "british",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "newspaper",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "people"
+    ],
+    "1":[
+      "detroit nurse",
+      "victims"
+    ],
+    "2":[
+      "senator",
+      "voter"
+    ],
+    "3":[
+      "actor",
+      "actor"
+    ],
+    "4":[
+      "president",
+      "president"
+    ],
+    "5":[
+      "missouri",
+      "missouri"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ordering"
+    ],
+    "1":[
+      "gave"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "1"
+    ],
+    "2":[
+      "election",
+      "1",
+      "violent_unrest",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---ppl",
+      "100"
+    ],
+    "1":[
+      "usahlh",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---leg",
+      "---cvl",
+      "016"
+    ],
+    "3":[
+      "---eli",
+      "---eli",
+      "110"
+    ],
+    "4":[
+      "---gov",
+      "---gov",
+      "042"
+    ],
+    "5":[
+      "usa",
+      "usa",
+      "112"
+    ]
+  }
+}

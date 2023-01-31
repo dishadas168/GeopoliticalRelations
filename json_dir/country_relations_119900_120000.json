@@ -1,0 +1,192 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/when-did-america-get-so-w_b_5663501.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/laughing-from-his-grave-iraq_b_5663474.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/friday-talking-points_b_5663684.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/who-are-the-yazidi_b_5659916.html"
+  },
+  "headline":{
+    "0":"When Did America Get So Weird?",
+    "1":"Laughing From His Grave",
+    "2":"Friday Talking Points -- Past, Present and Future",
+    "3":"Who Are the Yazidi?"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"After living the first six months of 2014 in Provence, France, my wife, Kathy, and I figured we'd face some minor cultural readjustments coming home to Boston.  Coffee mild enough so that it didn't grow hair on my chest, for example, or showers, with four walls instead of three, that didn't bathe the entire bathroom floor.",
+    "1":"Nearly 12 years ago, the United States Congress, representing the American people, provided President George W. Bush with the authorization to invade Iraq. Friday, seemingly under this same authorization, American bombs fell again on Iraq.",
+    "2":"Forty years ago today, President Nixon addressed the nation to announce he would be resigning  the next day -- the only time in US history this has happened. Today, President Obama announced the US will be dropping bombs on Iraq once again. That's a pretty heavy-duty amount of the past to contemplate, in one week.",
+    "3":"ISIS has attacked the Yazidi people -- a sect of the Kurds -- in Iraq. The jihadists have driven the survivors to the slopes of Mt. Sinjar, where the Yazidi are running out of food, water and hope. Who are the Yazidi? Why is ISIS after them, why have Sunni and Shi'a attacked them in the past, and why are they at risk of genocide now?"
+  },
+  "authors":{
+    "0":"Jerry Lanson, ContributorJournalism professor, Emerson College",
+    "1":"Matthew Hoh, ContributorVeterans for Peace; MatthewHoh.com",
+    "2":"Chris Weigant, ContributorPolitical writer and blogger at ChrisWeigant.com",
+    "3":"Janet Ritz, ContributorPublisher, the-environmentalist.org"
+  },
+  "date":{
+    "0":"2014-08-09 00:00:00",
+    "1":"2014-08-09 00:00:00",
+    "2":"2014-08-09 00:00:00",
+    "3":"2014-08-08 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"usa",
+    "2":"usagov",
+    "3":"imgmusisi"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"irq",
+    "2":"usa",
+    "3":"irqppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190",
+    "2":"112",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":-2.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "france",
+      "fra",
+      "france",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "the us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "3":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "people",
+      "~ppl",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "france",
+      "boston"
+    ],
+    "1":[
+      "american",
+      "iraq"
+    ],
+    "2":[
+      "president obama",
+      "the us"
+    ],
+    "3":[
+      "isis",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "iraq"
+    ],
+    "2":[
+      "barack obama",
+      "united states of america"
+    ],
+    "3":[
+      "the islamic state",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "figured ... 'd face"
+    ],
+    "1":[
+      "<&weapon> ... fell"
+    ],
+    "2":[
+      "announced ... will ... dropping <&weapon>"
+    ],
+    "3":[
+      "has attacked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "fra",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "irq",
+      "190"
+    ],
+    "2":[
+      "usagov",
+      "usa",
+      "112"
+    ],
+    "3":[
+      "imgmusisi",
+      "irqppl",
+      "190"
+    ]
+  }
+}

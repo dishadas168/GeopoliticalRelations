@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/italian-mob-dumping-linked-to-higher-cancer-rates-in-naples_us_568be6d3e4b0b958f65ce97c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/preschool-teachers-california_us_5682f825e4b0b958f65aaaeb"
+  },
+  "headline":{
+    "0":"The Italian Mob Is To Blame For Naples' High Cancer Rates",
+    "1":"Why California Needs Way More Bilingual Preschool Teachers"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Decades of illegal dumping by the Camorra mob is harming the city's babies.",
+    "1":"\u201cWe don\u2019t have a qualified pool to pull from.\u201d"
+  },
+  "authors":{
+    "0":"Nicole Winfield, Associated Press",
+    "1":"Sarah Tully, EdSource"
+  },
+  "date":{
+    "0":"2016-01-05 00:00:00",
+    "1":"2016-01-04 00:00:00"
+  },
+  "actor1":{
+    "0":"itacvl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "italian",
+      "mob",
+      "itacvl",
+      "italy",
+      "~",
+      "naples",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "preschool",
+      "teachers",
+      "~edu",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "italian mob",
+      "naples"
+    ],
+    "1":[
+      "california",
+      "preschool teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "italy"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... blame"
+    ],
+    "1":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":[
+      "disease",
+      "1"
+    ],
+    "1":[
+      "early_childhood_education",
+      "1",
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "itacvl",
+      "ita",
+      "112"
+    ],
+    "1":[
+      "usa",
+      "---edu",
+      "100"
+    ]
+  }
+}

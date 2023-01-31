@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/e-producer-fired-debra-messing-golden-globe-interview_us_5a99c88ae4b089ec353a40ce",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-legal-defense-donations_us_5a9ac5d2e4b089ec353ab8f2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-bill-child-marriage_us_5a9acca4e4b0a0ba4ad3d03f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jared-ivanka-kelly_us_5a98f1b1e4b089ec3538d550"
+  },
+  "headline":{
+    "0":"E! Producer Says She Was Fired For Allowing An Actress's Criticism Of The Network To Air",
+    "1":"Roy Moore Is Now Asking For Money On Facebook To Defend Himself",
+    "2":"Kentucky Bill To Outlaw Child Marriage Stalled Amid Conservative Concerns",
+    "3":"Report: Trump Wants His Chief Of Staff To Get Rid Of Jared And Ivanka"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Aileen Gram-Moreno claims that a red-carpet chat with Eva Longoria led to her termination.",
+    "1":"The defeated Senate candidate has been sued by a woman who says he sexually abused her when she was 14.",
+    "2":"The Family Foundation of Kentucky opposes child marriage but wants to preserve parents\u2019 say in their kids\u2019 lives.",
+    "3":"The president reportedly wants his daughter and son-in-law out of the White House."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Sara Boboltz",
+    "2":"Sebastian Murdock",
+    "3":"Ed Mazza"
+  },
+  "date":{
+    "0":"2018-03-03 00:00:00",
+    "1":"2018-03-03 00:00:00",
+    "2":"2018-03-03 00:00:00",
+    "3":"2018-03-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"usagovleg",
+    "2":"---cvl",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"173",
+    "2":"110",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0,
+    "2":-2.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "producer",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "producer",
+      "producer"
+    ],
+    "1":[
+      "woman",
+      "senate"
+    ],
+    "2":[
+      "kentucky",
+      "child"
+    ],
+    "3":[
+      "president",
+      "the ... white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states congress"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~bus> ... fired for"
+    ],
+    "1":[
+      "<usagovleg> ... sued by <~cvl>"
+    ],
+    "2":[
+      "wants <opposes>"
+    ],
+    "3":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "111"
+    ],
+    "1":[
+      "---cvl",
+      "usagovleg",
+      "173"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "110"
+    ],
+    "3":[
+      "---gov",
+      "usagov",
+      "030"
+    ]
+  }
+}

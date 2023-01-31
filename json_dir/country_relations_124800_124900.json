@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/time-to-get-children-out-_b_5488456.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/epa-carbon-standards-and_b_5486022.html"
+  },
+  "headline":{
+    "0":"Time to Get Children Out of the Hazardous Supply Chain",
+    "1":"EPA Carbon Standards and Iowa: Breezing Past Proposed Goals"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"Many multinational companies now ban children from working in their operations, but child labor is still a central issue for them. In the globalized economy, products have long and complex supply chains, often reaching down to a multitude of small, local producers.",
+    "1":"The proposal offers an opportunity for Iowa to continue to grow its booming wind sector and implement solar and energy efficiency to a greater extent, creating a more affordable, more independent, and cleaner electric system. In fact, Iowa is already on a path to meet the emissions reduction target set by EPA."
+  },
+  "authors":{
+    "0":"Jane Buchanan, Contributor",
+    "1":"Henry Henderson, ContributorNatural Resources Defense Council Midwest Program Director"
+  },
+  "date":{
+    "0":"2014-06-12 00:00:00",
+    "1":"2014-06-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagovenv"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "children"
+    ],
+    "1":[
+      "iowa",
+      "epa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "environmental protection agency"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ban"
+    ],
+    "1":[
+      "is ... meet"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "172"
+    ],
+    "1":[
+      "usa",
+      "usagovenv",
+      "040"
+    ]
+  }
+}

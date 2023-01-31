@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/blogs.babycenter.com\/mom_stories\/moms-if-we-support-one-another-our-kids-will-thrive\/"
+  },
+  "headline":{
+    "0":"Moms: If We Support One Another, Our Kids Will Thrive"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"This post is part of the Global Mom Relay. Every time you share this blog, $5 will go to women and girls around the world"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-04-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "blog",
+      "~med",
+      "~",
+      "women",
+      "girls",
+      "~cvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "blog",
+      "women ... girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will go"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "040"
+    ]
+  }
+}

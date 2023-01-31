@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/google-ftc-patents_us_5bb35a3be4b0fa920b96dea2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/male-breast-cancer-harvey-singer_us_5b9c6ce6e4b03a1dcc7e8a97"
+  },
+  "headline":{
+    "0":"Google Mulls FTC Settlement Over Patents : WSJ",
+    "1":"Harvey Singer, Male Breast Cancer Survivor, Informs Other Men About The Disease (WATCH)"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"(Reuters) - Google Inc is considering a settlement with the Federal Trade Commission over potential claims it broke antitrust",
+    "1":"Harvey Singer was touched by breast cancer for the first time after his mother and sister were diagnosed one month apart"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2012-10-20 00:00:00",
+    "1":"2012-10-19 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"mdv"
+  },
+  "actor2":{
+    "0":"usagovbuscvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "google",
+      "mncusamed",
+      "google",
+      "settlement",
+      "~cvl",
+      "~",
+      "federal trade commission",
+      "usagovbus",
+      "federal",
+      "trade",
+      "commission"
+    ],
+    "1":[
+      "male",
+      "mdv",
+      "maldives",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "google",
+      "---"
+    ],
+    "1":[
+      "male",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "google",
+      "---"
+    ],
+    "1":[
+      "maldives",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is considering"
+    ],
+    "1":[
+      "informs"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "usagovbuscvl",
+      "040"
+    ],
+    "1":[
+      "mdv",
+      "---ppl",
+      "010"
+    ]
+  }
+}

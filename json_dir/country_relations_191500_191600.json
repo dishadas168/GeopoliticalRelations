@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/roberto-unger-obama_us_5bb2c622e4b0480ca65bcbde"
+  },
+  "headline":{
+    "0":"Roberto Unger, Obama's Former Harvard Law School Professor, Says The President 'Must Be Defeated'"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"\"Give the bond markets what they want, bail out the reckless so long as they are also rich, use fiscal and monetary stimulus"
+  },
+  "authors":{
+    "0":"Bonnie Kavoussi"
+  },
+  "date":{
+    "0":"2012-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovedu"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"015"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "school",
+      "professor",
+      "usagovedu",
+      "barack",
+      "obama",
+      "~",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama ... school professor",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~gov> ... defeated"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagovedu",
+      "---gov",
+      "015"
+    ]
+  }
+}

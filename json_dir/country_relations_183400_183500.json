@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fluoride-in-the-water_us_5b9c4465e4b03a1dcc7d793d"
+  },
+  "headline":{
+    "0":"Fluoride In The Water: Is It Helping Or Hurting Us?"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The flouride debate is heating up, as several American cities consider banning it from the water supply. Opponents of flouride"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-09-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "consider banning"
+    ]
+  },
+  "issues":{
+    "0":[
+      "water_security",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "172"
+    ]
+  }
+}

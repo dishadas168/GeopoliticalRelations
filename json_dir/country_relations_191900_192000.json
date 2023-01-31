@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/divorce-the-spark-that-ig_us_5b9bccabe4b03a1dcc7a593b"
+  },
+  "headline":{
+    "0":"Divorce: The Spark That Ignites the Gender War?"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"Once I was divorced, people assumed that I was enlisted in a war -- \"us against them\" -- pitting Mars against Venus."
+  },
+  "authors":{
+    "0":"Lisa Arends, Contributor\nAuthor, wellness coach, and math teacher"
+  },
+  "date":{
+    "0":"2012-06-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "assumed <~ppl> ... enlisted in <--->"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ]
+  }
+}

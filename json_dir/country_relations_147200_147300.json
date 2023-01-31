@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tiger-attack-oklahoma-zoo-arm-inside-cage_us_5bb1443fe4b09bbe9a5d981a"
+  },
+  "headline":{
+    "0":"Tiger Attack At Oklahoma Zoo Leaves Worker Injured After She Sticks Her Arm Inside Cage"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The zoo worker, whose name has not been released, was air evacuated to a local hospital for treatment. Local NBC affiliate"
+  },
+  "authors":{
+    "0":"Sara Gates"
+  },
+  "date":{
+    "0":"2013-10-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab"
+  },
+  "actor2":{
+    "0":"---hlh"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "worker",
+      "~lab",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "worker",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "was ... evacuated"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "---hlh",
+      "070"
+    ]
+  }
+}

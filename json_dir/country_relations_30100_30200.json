@@ -1,0 +1,279 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-putin-meeting_us_595ea4dbe4b02e9bdb0b8478",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/california-climate-summit_us_595e55fbe4b0615b9e8fcbbf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/great-barrier-reef-not-in-danger-unesco_us_595df5b1e4b0615b9e8f2b5b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-poland-russia_us_595e218de4b0d5b458e84cfc",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-overseas-treatment-liu-xiaobo_us_595d339fe4b02e9bdb09d705",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/kobach-trump-election-voter-fraud_us_595d524ce4b0615b9e8ee2bb"
+  },
+  "headline":{
+    "0":"Trump Goes One-On-One With The Russian Who Helped Him Win",
+    "1":"California Will Hold Its Own Global Climate Summit As Trump Refuses To Act",
+    "2":"Great Barrier Reef Not 'In Danger' Despite Devastating Bleaching, Says UNESCO",
+    "3":"Trump Goes To Europe, Trashes U.S. Intelligence Agencies",
+    "4":"China Refuses Overseas Treatment For Critically Ill Nobel Peace Prize Winner",
+    "5":"Kris Kobach Blasts Reports About Trump Election Commission As 'Fake News'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president meets with Vladimir Putin, the guy U.S. intelligence agencies agree wanted him, not Hillary Clinton, in the White House.",
+    "1":"\u201cI know President Trump is trying to get out of the Paris agreement, but he doesn\u2019t speak for the rest of America,\" said California Gov. Jerry Brown.",
+    "2":"\"Serious concern\" about the threats facing the reef remain, though, according to the United Nations agency.",
+    "3":"The president will meet with Russian leader Vladimir Putin during his trip.",
+    "4":"Authorities will only allow doctors to see Liu Xiaobo in China.",
+    "5":"Kansas' secretary of state blames \"media distortions\" for how his commission has been received."
+  },
+  "authors":{
+    "0":"S.V. Date",
+    "1":"Mollie Reilly",
+    "2":"Dominique Mosbergen",
+    "3":"S.V. Date",
+    "4":"Willa Frej",
+    "5":"Igor Bobic"
+  },
+  "date":{
+    "0":"2017-07-06 00:00:00",
+    "1":"2017-07-06 00:00:00",
+    "2":"2017-07-06 00:00:00",
+    "3":"2017-07-06 00:00:00",
+    "4":"2017-07-05 00:00:00",
+    "5":"2017-07-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"aus",
+    "3":"---gov",
+    "4":"---gov",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"rusgov",
+    "1":"usa",
+    "2":"igounodev",
+    "3":"rusgov",
+    "4":"---hlh",
+    "5":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"010",
+    "3":"040",
+    "4":"08",
+    "5":"112"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0,
+    "4":5.0,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "1":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~",
+      "paris",
+      "fra",
+      "france",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "great barrier reef",
+      "aus",
+      "australia",
+      "unesco",
+      "igounodev",
+      "unesco"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "4":[
+      "authorities",
+      "~gov",
+      "~",
+      "doctors",
+      "~hlh",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ],
+    "5":[
+      "kansas",
+      "secretary of state",
+      "usa",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "vladimir putin"
+    ],
+    "1":[
+      "california",
+      "california"
+    ],
+    "2":[
+      "great barrier reef",
+      "unesco"
+    ],
+    "3":[
+      "president",
+      "vladimir putin"
+    ],
+    "4":[
+      "authorities",
+      "doctors"
+    ],
+    "5":[
+      "kansas",
+      "media",
+      "secretary of state",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "vladimir putin"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "australia",
+      "unesco"
+    ],
+    "3":[
+      "---",
+      "vladimir putin"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "---",
+      "the us secretary of state",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "meets"
+    ],
+    "1":[
+      "does ... speak"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "will meet"
+    ],
+    "4":[
+      "will ... allow"
+    ],
+    "5":[
+      "blames",
+      "blames"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "rusgov",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "aus",
+      "igounodev",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "rusgov",
+      "040"
+    ],
+    "4":[
+      "---gov",
+      "---hlh",
+      "08"
+    ],
+    "5":[
+      "usa",
+      "---med",
+      "112",
+      "usagov",
+      "---med",
+      "112"
+    ]
+  }
+}

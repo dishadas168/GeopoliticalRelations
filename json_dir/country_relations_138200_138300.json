@@ -1,0 +1,98 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/14-quirky-ways-millennial_us_5b9dc09fe4b03a1dcc8c71ea",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cancer-treatment_us_5b9dc315e4b03a1dcc8c958c"
+  },
+  "headline":{
+    "0":"8 Quirky Things Millennial Men Will Try to Better Themselves in 2014",
+    "1":"Safety During Cancer Treatment"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Men do try to better themselves as part of their New Year's resolutions and to learn the latest ways I've consulted AskMen editors who provided some wacky, innovative, and clever methods from their annual 12 Days To Be A Better Man series.",
+    "1":"The truth of the matter is that cancer doesn't just happen to you. It happens to your family, your friends and your community as well.  So many people are looking for opportunities to help you, but often do not know how. Here is a perfect opportunity."
+  },
+  "authors":{
+    "0":"Kara Kamenec, Contributor\nDating & Sex Columnist",
+    "1":"Hollye Harrington Jacobs, Contributor\nSpeaker, Nurse, Educator, Author www.TheSilverPen.com"
+  },
+  "date":{
+    "0":"2014-01-09 00:00:00",
+    "1":"2014-01-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "men"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "do ... better"
+    ],
+    "1":[
+      "do <help>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "060"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "070"
+    ]
+  }
+}

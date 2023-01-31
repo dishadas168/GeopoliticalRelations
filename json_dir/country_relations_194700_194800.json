@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/for-this-mothers-day-more_us_5b9bb41be4b03a1dcc79b7af"
+  },
+  "headline":{
+    "0":"This Mother's Day, More Moms Paying Child Support"
+  },
+  "category":{
+    "0":"DIVORCE"
+  },
+  "short_description":{
+    "0":"In addition to receiving flowers and cards this Mother's Day, an increasing number of moms will also be setting aside time to send out child support and alimony checks."
+  },
+  "authors":{
+    "0":"Ken Altshuler, Contributor\nPresident, American Academy of Matrimonial Lawyers"
+  },
+  "date":{
+    "0":"2012-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "moms paying"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "061"
+    ]
+  }
+}

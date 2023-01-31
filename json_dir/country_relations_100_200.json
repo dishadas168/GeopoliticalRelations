@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/andrew-garfield-method-acting_n_6304fcd2e4b0e323a2594a04",
+    "1":"https:\/\/www.huffpost.com\/entry\/native-hawaiians-sacred-mauna-kea-summit-astronomers_n_6301aa27e4b0e323a25633e6"
+  },
+  "headline":{
+    "0":"Andrew Garfield Confirms Method Acting Is Possible Without 'Being An Asshole'",
+    "1":"Hawaii Seeking End To Conflict Over Astronomy On Sacred Mountain"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The actor revealed he abstained from sex for months and starved himself to prepare for a role.",
+    "1":"Native Hawaiians will now have more say over use of sacred Mauna Kea summit by scientists."
+  },
+  "authors":{
+    "0":"Cole Delbyck",
+    "1":"AUDREY McAVOY, AP"
+  },
+  "date":{
+    "0":"2022-08-23 00:00:00",
+    "1":"2022-08-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---eli",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "native",
+      "~cvl",
+      "~",
+      "scientists",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "actor"
+    ],
+    "1":[
+      "native",
+      "native"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "will ... say"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---eli",
+      "050"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joely-fisher-carrie-fisher-death_us_58631f65e4b0de3a08f69322",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-russia-syria-rebels_us_58627885e4b0de3a08f610b9"
+  },
+  "headline":{
+    "0":"Joely Fisher Breaks Her Silence On Sister Carrie Fisher\u2019s Death",
+    "1":"Russia Calls U.S. Move To Better Arm Syrian Rebels A 'Hostile Act'"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\"How dare you take her from us?\"",
+    "1":"The Kremlin says that the move puts Russian forces under direct threat."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":""
+  },
+  "date":{
+    "0":"2016-12-28 00:00:00",
+    "1":"2016-12-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---agr",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---agr",
+    "1":"rus"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "fisher",
+      "~agr",
+      "~",
+      "fisher",
+      "~agr",
+      "~"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "rebels",
+      "syrreb",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fisher",
+      "fisher"
+    ],
+    "1":[
+      "u.s.",
+      "russia",
+      "russia",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "russian federation",
+      "russian federation",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "breaks"
+    ],
+    "1":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---agr",
+      "---agr",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "rus",
+      "041",
+      "rus",
+      "usa",
+      "041"
+    ]
+  }
+}

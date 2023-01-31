@@ -1,0 +1,214 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.washingtonpost.com\/opinions\/from-gandhi-to-mlk-historys-giants-have-become-marketing-tools\/2014\/01\/17\/a7f23a24-77cd-11e3-af7f-13bf0e9965f6_story.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-muslims-are-coming-to_us_5bb4495ae4b066f8d25791e1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/5-ways-to-engage-youth-in_us_5bb1bb15e4b01857b70b0d44",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/crimson-kitty-drag-queen_us_5bafc07fe4b0ad769261601f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/a-compromise-we-cant-affo_us_5bb14ef7e4b09bbe9a5e2f19"
+  },
+  "headline":{
+    "0":"From Gandhi To MLK, History's Giants Have Become Marketing Tools",
+    "1":"The Muslims Are Coming -- to Netflix",
+    "2":"5 Ways to Engage Youth in the Fight for Civil Rights",
+    "3":"Queer New World: Meet Brooklyn's Crimson Kitty",
+    "4":"A Compromise We Can't Afford"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"ENTERTAINMENT",
+    "2":"IMPACT",
+    "3":"QUEER VOICES",
+    "4":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"When Google honored African American author Zora Neale Hurston with a custom logo \u2014 a Google Doodle \u2014 on its homepage earlier",
+    "1":"The heart of the film, and there is lot of heart here, is watching this band of edgy, self-aware, second-generation NY wiseass Muslim comics extend themselves to people in small town America who sometimes have no idea what to do with them.",
+    "2":"Many youth who know that they aren't treated fairly, and know that life isn't the way it should be, do not see themselves in a fight for their civil rights. They have been taught to turn a blind eye to institutional racism and structural inequity, and don't see that their civil rights are being violated in more subtle and dangerous ways than ever before.",
+    "3":"Drag King K.James described you as a \"female-to-female or FtF drag queen.\" As a cisgender woman, what would you say to those",
+    "4":"The Sierra Club and 17 other environmental, environmental justice and public health advocacy groups sent a letter to President Obama in which we asked him to stop basing national energy policy on an \"all of the above\" strategy."
+  },
+  "authors":{
+    "0":"",
+    "1":"Nancy Doyle Palmer, Contributor\nJournalist and screenwriter",
+    "2":"Christopher Emdin, Contributor\nProfessor of Science Education",
+    "3":"James Michael Nichols",
+    "4":"Michael Brune, Contributor\nExecutive Director, Sierra Club"
+  },
+  "date":{
+    "0":"2014-01-19 00:00:00",
+    "1":"2014-01-19 00:00:00",
+    "2":"2014-01-19 00:00:00",
+    "3":"2014-01-18 00:00:00",
+    "4":"2014-01-18 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"---mus",
+    "2":"frareb",
+    "3":"---gov",
+    "4":"ngousaenv"
+  },
+  "actor2":{
+    "0":"mncusamed",
+    "1":"mncusa",
+    "2":"frareb",
+    "3":"'mamohato_",
+    "4":"usagov"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"040",
+    "2":"011",
+    "3":"010",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":1.0,
+    "2":-0.1,
+    "3":0.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "google",
+      "mncusamed",
+      "google",
+      "google",
+      "mncusamed",
+      "google"
+    ],
+    "1":[
+      "muslims",
+      "~mus",
+      "~",
+      "netflix",
+      "mncusa",
+      "netflix"
+    ],
+    "2":[
+      "youth",
+      "frareb",
+      "gazteriak"
+    ],
+    "3":[
+      "king",
+      "~gov",
+      "~",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "4":[
+      "sierra club",
+      "ngousaenv",
+      "sierra",
+      "club",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "google",
+      "google"
+    ],
+    "1":[
+      "muslims",
+      "netflix"
+    ],
+    "2":[
+      "youth",
+      "youth"
+    ],
+    "3":[
+      "king",
+      "queen"
+    ],
+    "4":[
+      "sierra club",
+      "president obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "google",
+      "google"
+    ],
+    "1":[
+      "---",
+      "netflix"
+    ],
+    "2":[
+      "gazteriak",
+      "gazteriak"
+    ],
+    "3":[
+      "---",
+      "queen"
+    ],
+    "4":[
+      "sierra club",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "honored"
+    ],
+    "1":[
+      "are coming ... to"
+    ],
+    "2":[
+      "do"
+    ],
+    "3":[
+      "described"
+    ],
+    "4":[
+      "sent ... letter"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "human_rights",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "civil_society",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "mncusamed",
+      "051"
+    ],
+    "1":[
+      "---mus",
+      "mncusa",
+      "040"
+    ],
+    "2":[
+      "frareb",
+      "frareb",
+      "011"
+    ],
+    "3":[
+      "---gov",
+      "'mamohato_",
+      "010"
+    ],
+    "4":[
+      "ngousaenv",
+      "usagov",
+      "040"
+    ]
+  }
+}

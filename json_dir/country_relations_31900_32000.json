@@ -1,0 +1,296 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gardner-wants-to-end-not-protect-insurance-coverage_us_594054b9e4b03e17eee08793",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dennis-rodman-north-korea_us_593f1ddbe4b0b13f2c6d7368",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/kremlin-flouts-us-calls-to-free-jailed-protesters_us_593fdf3fe4b0e84514ee31b0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/tuesdays-morning-email-trump-friend-president-is-considering-firing-special-counsel_us_593fc640e4b02402687c9acf",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/sessions-comey-trump-meeting_us_59403d9de4b0d31854856e21",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/key-gop-senator-will-oppose-trumps-arms-deal-with-saudi-arabia_us_593fec86e4b0b13f2c6de84b"
+  },
+  "headline":{
+    "0":"Gardner Wants To End, Not Protect, Insurance Coverage For 400,000 Coloradans",
+    "1":"Kim Jong Un Pal Dennis Rodman Reportedly Heading To North Korea",
+    "2":"Kremlin Flouts U.S. Calls To Free Jailed Protesters",
+    "3":"Tuesday's Morning Email: Trump Friend: President Is Considering Firing Special Counsel",
+    "4":"Jeff Sessions Says He Was Not Silent When James Comey Voiced Concerns About Donald Trump",
+    "5":"Key GOP Senator Will Oppose Donald Trump's Arms Deal With Saudi Arabia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Back in March, Colorado Sen. Cory Gardner joined fellow Republican Senators Shelley Moore Capito of West Virginia, Lisa Murkowski",
+    "1":"The mysterious trip comes at low point in U.S.-Pyongyang relations.",
+    "2":"\"This is not the sort of calls we should be listening to.\"",
+    "3":"Anderson Cooper's reaction was one for the ages.",
+    "4":"The attorney general challenged the former FBI director's version of events.",
+    "5":"The move from Sen. Todd Young (R-Ind.) suggests more Republicans could vote against the deal."
+  },
+  "authors":{
+    "0":"Jason Salzman, ContributorFormer Media Critic, Rocky Mountain News",
+    "1":"Mary Papenfuss",
+    "2":"",
+    "3":"Lauren Weber",
+    "4":"Jessica Schulberg",
+    "5":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2017-06-14 00:00:00",
+    "1":"2017-06-13 00:00:00",
+    "2":"2017-06-13 00:00:00",
+    "3":"2017-06-13 00:00:00",
+    "4":"2017-06-13 00:00:00",
+    "5":"2017-06-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"prk",
+    "2":"---opp",
+    "3":"---gov",
+    "4":"---gov",
+    "5":"---leg"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"igouno",
+    "2":"rusgov",
+    "3":"---jud",
+    "4":"usacop",
+    "5":"sau"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"043",
+    "2":"041",
+    "3":"040",
+    "4":"110",
+    "5":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":2.8,
+    "2":1.0,
+    "3":1.0,
+    "4":-2.0,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "colorado",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "west virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "un",
+      "igouno",
+      "un",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "2":[
+      "kremlin",
+      "u.s.",
+      "rusgov",
+      "usa",
+      "kremlin",
+      "united",
+      "states",
+      "of",
+      "america",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "attorney general",
+      "~gov",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "5":[
+      "senator",
+      "~leg",
+      "~",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "colorado",
+      "colorado"
+    ],
+    "1":[
+      "north korea",
+      "un",
+      "un",
+      "north korea"
+    ],
+    "2":[
+      "protesters",
+      "kremlin",
+      "protesters",
+      "u.s.",
+      "kremlin",
+      "protesters",
+      "u.s.",
+      "protesters"
+    ],
+    "3":[
+      "president",
+      "counsel"
+    ],
+    "4":[
+      "attorney general",
+      "fbi"
+    ],
+    "5":[
+      "senator",
+      "saudi arabia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "north korea",
+      "un",
+      "un",
+      "north korea"
+    ],
+    "2":[
+      "---",
+      "kremlin",
+      "---",
+      "united states of america",
+      "kremlin",
+      "---",
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "5":[
+      "---",
+      "saudi arabia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joined"
+    ],
+    "1":[
+      "heading to",
+      "heading to"
+    ],
+    "2":[
+      "calls",
+      "calls",
+      "calls",
+      "calls"
+    ],
+    "3":[
+      "is considering"
+    ],
+    "4":[
+      "challenged"
+    ],
+    "5":[
+      "will oppose"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "id_arms_deal",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "prk",
+      "igouno",
+      "043",
+      "igouno",
+      "prk",
+      "042"
+    ],
+    "2":[
+      "---opp",
+      "rusgov",
+      "041",
+      "---opp",
+      "usa",
+      "041",
+      "rusgov",
+      "---opp",
+      "041",
+      "usa",
+      "---opp",
+      "041"
+    ],
+    "3":[
+      "---gov",
+      "---jud",
+      "040"
+    ],
+    "4":[
+      "---gov",
+      "usacop",
+      "110"
+    ],
+    "5":[
+      "---leg",
+      "sau",
+      "110"
+    ]
+  }
+}

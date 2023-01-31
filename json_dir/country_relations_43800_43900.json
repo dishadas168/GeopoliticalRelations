@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scientists-planning-march-washington_us_5888f55de4b061cf898c487f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/womens-march-democrats-base_us_588a490ce4b061cf898d7e98"
+  },
+  "headline":{
+    "0":"Scientists Are Planning A March On Washington, And It Looks Like People Are Totally Down",
+    "1":"The Democratic Base Is Marching Right Past Its Leaders"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Scientific research moves us forward and we should not allow asinine policies to thwart it,\" an organizer wrote.",
+    "1":"Newly minted activists want Democrats in Washington to actually fight against Trump -- or get out of the way."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Jennifer Bendery and Ryan Grim"
+  },
+  "date":{
+    "0":"2017-01-26 00:00:00",
+    "1":"2017-01-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---opp"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "scientists",
+      "~cvl",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "activists",
+      "~opp",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "scientists",
+      "washington"
+    ],
+    "1":[
+      "activists",
+      "washington"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are planning"
+    ],
+    "1":[
+      "want"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "030"
+    ],
+    "1":[
+      "---opp",
+      "usa",
+      "030"
+    ]
+  }
+}

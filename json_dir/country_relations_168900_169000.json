@@ -1,0 +1,166 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-bristol-bay_us_5bb132e1e4b09bbe9a5c33bd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/forward-on-climate_us_5bb132f7e4b09bbe9a5c3565",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tonya-battle-hurley-medical-center-race-discrimination_us_5badd7afe4b0bb1705fb124c"
+  },
+  "headline":{
+    "0":"President Obama:  Protect Bristol Bay, Stop the Pebble Mine",
+    "1":"40,000+ Join 'Forward on Climate' Rally in Washington, DC",
+    "2":"Tonya Battle, African American Nurse, Sues Michigan Hospital For Race Discrimination (VIDEO)"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"ENVIRONMENT",
+    "2":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"EPA's comprehensive Bristol Bay watershed assessment needs to be completed and issued in final as soon as possible, and EPA must then proceed promptly to protect the region under its federal Clean Water Act authority.",
+    "1":"Today, over 40,000 people poured into the streets of Washington, DC to protest the Keystone XL pipeline and push President Obama \"Forward on Climate.\"",
+    "2":"Battle, who was taken off the case, was allegedly later told by a supervisor that the patient's request was granted. The"
+  },
+  "authors":{
+    "0":"Joel Reynolds, Contributor\nWestern Director, Sr. Atty, NRDC",
+    "1":"Jamie Henn, Contributor\nCo-founder and Strategic Communications Director, 350.org and ...",
+    "2":"Sara Gates"
+  },
+  "date":{
+    "0":"2013-02-17 00:00:00",
+    "1":"2013-02-17 00:00:00",
+    "2":"2013-02-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovenv",
+    "1":"---ppl",
+    "2":"usahlh"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"usahlh"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"140",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":-6.5,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "authority",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "american",
+      "nurse",
+      "usahlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "michigan",
+      "hospital",
+      "usahlh",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "epa",
+      "authority"
+    ],
+    "1":[
+      "people",
+      "washington"
+    ],
+    "2":[
+      "american nurse",
+      "american nurse"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "environmental protection agency",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must ... protect"
+    ],
+    "1":[
+      "poured into ... streets"
+    ],
+    "2":[
+      "sues"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagovenv",
+      "---gov",
+      "074"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "140"
+    ],
+    "2":[
+      "usahlh",
+      "usahlh",
+      "173"
+    ]
+  }
+}

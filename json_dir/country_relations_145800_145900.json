@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/appalling-words-the-world_us_5b9d9c4ce4b03a1dcc8a2f82",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/deutsche-bank-libor_us_5bb30046e4b0480ca660f766"
+  },
+  "headline":{
+    "0":"Appalling Words the World Is Saying About Our Daughters",
+    "1":"Deutsche Bank Talking To 50 Employees Over Libor: Report"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"An astonishing new UN Women ad campaign is showing what the world is saying about our daughters and the women in our lives.",
+    "1":"The staff are being allowed to bring lawyers or witnesses to the talks, the paper reported. (Reporting by Arno Schuetze; Editing"
+  },
+  "authors":{
+    "0":"Michael Kaufman and Gary Barker, Guest Writers",
+    "1":""
+  },
+  "date":{
+    "0":"2013-10-21 00:00:00",
+    "1":"2013-10-20 00:00:00"
+  },
+  "actor1":{
+    "0":"igounocvl",
+    "1":"mncdeu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---lab"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "un",
+      "women",
+      "igounocvl",
+      "un",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "deutsche bank",
+      "mncdeu",
+      "deutsche",
+      "bank",
+      "employees",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "un women",
+      "women"
+    ],
+    "1":[
+      "deutsche bank",
+      "employees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "un",
+      "---"
+    ],
+    "1":[
+      "deutsche bank",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... saying"
+    ],
+    "1":[
+      "talking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "interest_rates",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "igounocvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "mncdeu",
+      "---lab",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/celebrating-dr-king-throu_b_6490468.html"
+  },
+  "headline":{
+    "0":"Celebrating Dr. King Through Serving"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"I first heard Dr. King speak in person at a Spelman College chapel service during my senior year in college. Dr. King was just 31 but he had already gained a national reputation during the successful Montgomery Bus Boycott five years earlier."
+  },
+  "authors":{
+    "0":"Marian Wright Edelman, ContributorPresident, Children's Defense Fund"
+  },
+  "date":{
+    "0":"2015-01-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "king",
+      "~gov",
+      "~",
+      "college",
+      "~edu",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "king",
+      "college"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "speak"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---edu",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/disneys-d23-expo-richard_us_5b9d69f2e4b03a1dcc87bac5"
+  },
+  "headline":{
+    "0":"Disney's D23 Expo: Richard M. Sherman & Alan Menken - Together Again... For the First Time!"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Disney's D23 Expo, which is taking place August 9-11 at the Anaheim Convention Center in California, offers visitors an immersive weekend into every aspect of The Walt Disney Company."
+  },
+  "authors":{
+    "0":"Chuck Mirarchi, Contributor\nDisney Writer and historian, Disunplugged.com"
+  },
+  "date":{
+    "0":"2013-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa"
+  },
+  "actor2":{
+    "0":"mncusabus"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "disney",
+      "mncusa",
+      "disney",
+      "disney",
+      "company",
+      "mncusabus",
+      "disney",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "disney",
+      "disney ... company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "disney",
+      "disney"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "mncusabus",
+      "030"
+    ]
+  }
+}

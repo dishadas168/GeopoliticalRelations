@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iran-space-monkey_us_5baebcbfe4b014374e2eb76e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/five-myths-about-being-a_us_5b9db771e4b03a1dcc8bedd3"
+  },
+  "headline":{
+    "0":"Iran Space Monkey Reportedly Returns Safely To Earth After Successful Launch",
+    "1":"Five Myths About Being a Doctor's Wife"
+  },
+  "category":{
+    "0":"SCIENCE",
+    "1":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"\"President Hassan Rouhani ... congratulated Iranian scientists and experts on successfully sending a second living creature",
+    "1":"Over time, I have I have been surprised, and slightly entertained, as people have admitted to me their assumptions about doctors, or what it is like to be married to one."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Monica Swanson, Contributor\nI live on the North Shore of Oahu; I'm a writer, and a homesch..."
+  },
+  "date":{
+    "0":"2013-12-14 00:00:00",
+    "1":"2013-12-13 00:00:00"
+  },
+  "actor1":{
+    "0":"irngov",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"irncvl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "hassan rouhani",
+      "irngov",
+      "~",
+      "hassan",
+      "rouhani",
+      "iranian",
+      "scientists",
+      "irncvl",
+      "iran",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "doctors",
+      "~hlh",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president hassan rouhani",
+      "iranian scientists"
+    ],
+    "1":[
+      "people",
+      "doctors"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hassan rouhani",
+      "iran"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "congratulated"
+    ],
+    "1":[
+      "have ... admitted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "irngov",
+      "irncvl",
+      "051"
+    ],
+    "1":[
+      "---ppl",
+      "---hlh",
+      "050"
+    ]
+  }
+}

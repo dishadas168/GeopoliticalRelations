@@ -1,0 +1,298 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dallas-police-photos-robert-moore_us_5780ac2be4b0c590f7e98d14",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-antique-seller_us_5781628ae4b0344d514f980c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-submarine-missile_us_578076c8e4b0344d514f7c1c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russia-expels-american-diplomats_us_57817053e4b0c590f7e9aafb",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/russia-expels-american-diplomats_us_57817053e4b0c590f7e9aafb",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/mother-alton-sterling-son-police_us_577fd16be4b0344d514f0616",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/alton-sterling-philando-castile-protests-photos_us_577fcea5e4b01edea78d9c1d"
+  },
+  "headline":{
+    "0":"Powerful Photos Show Dallas Cop Protecting A Man From Gunfire",
+    "1":"Syrian Antique Seller Preserves Treasures Amid The Ruins Of War",
+    "2":"North Korea Fires Submarine-Launched Missile: South Korea",
+    "3":"Russia Expels 2 American Diplomats",
+    "4":"Russia Expels 2 American Diplomats",
+    "5":"Mother Of Alton Sterling's Oldest Son Doesn't Blame All Police: 'Everybody's Not Bad'",
+    "6":"People Around The Nation Protest The Deaths Of Alton Sterling, Philando Castile"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"BLACK VOICES",
+    "6":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"\"That guy was calm, controlled and very professional.\"",
+    "1":"This Islamic sword is 300 years old. Historically, it was used by mounted infantry, and people used to call it \u201cThe Jewel",
+    "2":"North Korea has been testing its weapons systems, causing concern around the world.",
+    "3":"The U.S. expelled two Russian officials last month.",
+    "4":"The U.S. expelled two Russian officials last month.",
+    "5":"Quinyetta McMillon said her boy isn't afraid of the cops either.",
+    "6":"People gathered from New York to L.A."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Al-Basel Tadrous, Syria Deeply",
+    "2":"",
+    "3":"",
+    "4":"",
+    "5":"Michael McLaughlin",
+    "6":"Gabriela Landazuri Saltos and Paige Lavender"
+  },
+  "date":{
+    "0":"2016-07-09 00:00:00",
+    "1":"2016-07-09 00:00:00",
+    "2":"2016-07-09 00:00:00",
+    "3":"2016-07-09 00:00:00",
+    "4":"2016-07-09 00:00:00",
+    "5":"2016-07-08 00:00:00",
+    "6":"2016-07-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"prk",
+    "3":"rus",
+    "4":"usa",
+    "5":"---cvl",
+    "6":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"kor",
+    "3":"usa",
+    "4":"rus",
+    "5":"---cop",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"041",
+    "2":"190",
+    "3":"174",
+    "4":"174",
+    "5":"112",
+    "6":"040"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":1.0,
+    "2":-10.0,
+    "3":-5.0,
+    "4":-5.0,
+    "5":-2.0,
+    "6":1.0
+  },
+  "nouns":{
+    "0":[
+      "dallas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "infantry",
+      "~mil",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ],
+    "3":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "5":[
+      "mother",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dallas",
+      "man"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "north korea",
+      "south korea"
+    ],
+    "3":[
+      "russia",
+      "american"
+    ],
+    "4":[
+      "u.s.",
+      "russian"
+    ],
+    "5":[
+      "mother",
+      "police"
+    ],
+    "6":[
+      "people",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "north korea",
+      "south korea"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "russian federation"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "protecting"
+    ],
+    "1":[
+      "used ... call"
+    ],
+    "2":[
+      "fires"
+    ],
+    "3":[
+      "expels ... diplomats"
+    ],
+    "4":[
+      "expelled"
+    ],
+    "5":[
+      "does ... blame"
+    ],
+    "6":[
+      "gathered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "074"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "041"
+    ],
+    "2":[
+      "prk",
+      "kor",
+      "190"
+    ],
+    "3":[
+      "rus",
+      "usa",
+      "174"
+    ],
+    "4":[
+      "usa",
+      "rus",
+      "174"
+    ],
+    "5":[
+      "---cvl",
+      "---cop",
+      "112"
+    ],
+    "6":[
+      "---ppl",
+      "usa",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/torture-report-america-co_b_6351446.html"
+  },
+  "headline":{
+    "0":"Torture Report: America Conducts a Moral Reckoning.  Next, Moral Repair?"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Mr. Obama, in ruling out prosecution for torture, may have thought he spared us bother, but actually he did us harm. By casting accountability into limbo, he makes possible government-sponsored torture in the future and prevents America from recovering the thing most precious: our good name."
+  },
+  "authors":{
+    "0":"Carla Seaquist, ContributorWriter and playwright"
+  },
+  "date":{
+    "0":"2014-12-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "mr. obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mr. obama",
+      "mr. obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_torture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "040"
+    ]
+  }
+}

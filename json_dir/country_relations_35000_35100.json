@@ -1,0 +1,221 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/flip-or-flop-christina-and-tarek-el-moussa-sued_us_59121379e4b0a58297e01883",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-economic-crisis-leads-to-depression-of-the-young_us_5911bacce4b056aa2363d8d5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/epa-board-of-scientific-counselors_us_591015c2e4b0d5d9049d9e2b",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/milo-yiannopoulos-is-suing-simon-schuster-and-self-publishing-his-book_us_59108fbfe4b0e7021e99982d",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/muslim-travel-ban-fourth-circuit-court-appeals_us_59106cc3e4b0104c73507322"
+  },
+  "headline":{
+    "0":"'Flip Or Flop' Stars Christina And Tarek El Moussa Sued By Former Employee",
+    "1":"Greece's Economic Crisis Is Seriously Affecting Our Younger Generations",
+    "2":"EPA Removes Scientists From Science Review Board",
+    "3":"Milo Yiannopoulos Claims He Will Sue Simon & Schuster And Self-Publish His Book",
+    "4":"Judges Hit Donald Trump's Lawyer Hard About Legality Of Travel Ban"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"ARTS & CULTURE",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Jonathan Schmier claims he was never compensated for finding properties to feature on their HGTV show.",
+    "1":"There are so many difficulties that people have to face in Greece that are sometimes surreal.",
+    "2":"They may be replaced with members from industries the agency is meant to police.",
+    "3":"The alt-right blogger takes aim at \u201cjournalists, professors, politicians, feminists, Black Lives Matter activists, and other professional victims.\u201d",
+    "4":"A key question an appeals court must answer is whether the president's anti-Muslim statements can be held against him."
+  },
+  "authors":{
+    "0":"Julia Brucculieri",
+    "1":"Kelly Fanarioti, ContributorAthens - based journalist, social activist",
+    "2":"Nick Visser",
+    "3":"Maddie Crum",
+    "4":"Cristian Farias"
+  },
+  "date":{
+    "0":"2017-05-09 00:00:00",
+    "1":"2017-05-09 00:00:00",
+    "2":"2017-05-08 00:00:00",
+    "3":"2017-05-08 00:00:00",
+    "4":"2017-05-08 00:00:00"
+  },
+  "actor1":{
+    "0":"shaftoe_",
+    "1":"---ppl",
+    "2":"usagovenv",
+    "3":"---med",
+    "4":"---jud"
+  },
+  "actor2":{
+    "0":"shaftoe_",
+    "1":"grc",
+    "2":"---cvl",
+    "3":"---mededuptyoppcvl",
+    "4":"---jud"
+  },
+  "event_code":{
+    "0":"114",
+    "1":"040",
+    "2":"174",
+    "3":"171",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":-5.0,
+    "3":-9.2,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "jonathan",
+      "shaftoe_",
+      "jonathan"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "greece",
+      "grc",
+      "greece"
+    ],
+    "2":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "scientists",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "blogger",
+      "~med",
+      "~",
+      "journalists",
+      "professors",
+      "politicians",
+      "activists",
+      "victims",
+      "~mededuptyoppcvl",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    "4":[
+      "judges",
+      "~jud",
+      "~",
+      "lawyer",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jonathan",
+      "jonathan"
+    ],
+    "1":[
+      "people",
+      "greece"
+    ],
+    "2":[
+      "epa",
+      "scientists"
+    ],
+    "3":[
+      "blogger",
+      "journalists ... professors ... politicians ... activists ... victims"
+    ],
+    "4":[
+      "judges",
+      "judges"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jonathan",
+      "jonathan"
+    ],
+    "1":[
+      "---",
+      "greece"
+    ],
+    "2":[
+      "environmental protection agency",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "claims <shaftoe_> ... compensated"
+    ],
+    "1":[
+      "have ... face"
+    ],
+    "2":[
+      "removes"
+    ],
+    "3":[
+      "takes"
+    ],
+    "4":[
+      "hit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1",
+      "activism",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "shaftoe_",
+      "shaftoe_",
+      "114"
+    ],
+    "1":[
+      "---ppl",
+      "grc",
+      "040"
+    ],
+    "2":[
+      "usagovenv",
+      "---cvl",
+      "174"
+    ],
+    "3":[
+      "---med",
+      "---mededuptyoppcvl",
+      "171"
+    ],
+    "4":[
+      "---jud",
+      "---jud",
+      "190"
+    ]
+  }
+}

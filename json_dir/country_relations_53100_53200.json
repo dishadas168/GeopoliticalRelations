@@ -1,0 +1,135 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chicago-teachers-strike_us_57fc0ff3e4b0e655eab70434",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/emma-watson-calls-for-an-end-to-child-marriage-during-malawi-visit_us_57fcd905e4b0b6a430355e9b"
+  },
+  "headline":{
+    "0":"Chicago Teachers Just Avert Strike That Would Impact Hundreds Of Thousands Of Students",
+    "1":"Emma Watson Calls For An End To Child Marriage In Africa"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"The teachers, who've worked without a contract since June 2015,  still have to vote on the tentative deal.",
+    "1":"The British actress visited Malawi to address the issue ahead of International Day of the Girl."
+  },
+  "authors":{
+    "0":"Rebecca Klein",
+    "1":"Sebastien Malo, Reuters"
+  },
+  "date":{
+    "0":"2016-10-11 00:00:00",
+    "1":"2016-10-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"mwi"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"043"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":2.8
+  },
+  "nouns":{
+    "0":[
+      "chicago",
+      "teachers",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "malawi",
+      "mwi",
+      "malawi",
+      "girl",
+      "~cvl",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago teachers",
+      "students"
+    ],
+    "1":[
+      "malawi",
+      "british",
+      "british",
+      "malawi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "malawi",
+      "united kingdom",
+      "united kingdom",
+      "malawi"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would impact"
+    ],
+    "1":[
+      "visited",
+      "visited"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---edu",
+      "050"
+    ],
+    "1":[
+      "mwi",
+      "gbr",
+      "043",
+      "gbr",
+      "mwi",
+      "042"
+    ]
+  }
+}

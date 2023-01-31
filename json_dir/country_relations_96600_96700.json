@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chinese-company-employees-free-vacation_n_7257760.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-reason-to-be-optimistic_b_7255966.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/fighting-for-heroic-moms-this-mothers-day_b_7260400.html"
+  },
+  "headline":{
+    "0":"Chinese Company Takes 6,400 Employees On Awesome European Vacay For Free",
+    "1":"A Reason to Be Optimistic: The New Generation of Sustainability Professionals",
+    "2":"Fighting for Heroic Moms This Mother's Day"
+  },
+  "category":{
+    "0":"GOOD NEWS",
+    "1":"GREEN",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The task before sustainability educators is to take the inspiring energy and enthusiasm of our students and channel it into an effort to develop the conceptual and analytic tools needed to conduct high quality management and policy analyses.",
+    "2":"Support from the U.S. provides mothers with the extra help they need to protect their children and changes millions of lives for the better. Perhaps no issue better illustrates this than the U.S.'s leadership on HIV and AIDS."
+  },
+  "authors":{
+    "0":"Cameron Keady",
+    "1":"Steven Cohen, ContributorExecutive Director, Columbia University's Earth Institute",
+    "2":"Rep. Barbara Lee and Ashley Judd, Contributors"
+  },
+  "date":{
+    "0":"2015-05-11 00:00:00",
+    "1":"2015-05-11 00:00:00",
+    "2":"2015-05-11 00:00:00"
+  },
+  "actor1":{
+    "0":"chnbus",
+    "1":"---edu",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---edu",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"171",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-9.2,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "chinese",
+      "company",
+      "chnbus",
+      "china",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "educators",
+      "~edu",
+      "~",
+      "educators",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mothers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chinese company",
+      "employees"
+    ],
+    "1":[
+      "educators",
+      "educators"
+    ],
+    "2":[
+      "u.s.",
+      "mothers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "takes"
+    ],
+    "1":[
+      "is ... take"
+    ],
+    "2":[
+      "<and> ... provides"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "chnbus",
+      "---lab",
+      "171"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "171"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "060"
+    ]
+  }
+}

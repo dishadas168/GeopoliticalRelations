@@ -1,0 +1,369 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/blm-protester-buffalo-martin-gugino-body-camera-footage_n_6058f2bec5b6bd95117f227f",
+    "1":"https:\/\/www.huffpost.com\/entry\/vladimir-putin-covid-19-vaccination_n_6059016ec5b6cebf58d0b292",
+    "2":"https:\/\/www.huffpost.com\/entry\/child-border-crossings-are-surging-straining-us-facilities_n_6051e8adc5b6ce1016436db8",
+    "3":"https:\/\/www.huffpost.com\/entry\/lawyer-for-derek-chauvin-claims-settlement-paid-to-george-floyds-family-taints-trial_n_604f7f10c5b672fce4eed509",
+    "4":"https:\/\/www.huffpost.com\/entry\/myanmar-protests-death-toll_n_604e0755c5b65bed87db4a7e",
+    "5":"https:\/\/www.huffpost.com\/entry\/georgetown-law-black-students-racism_n_604af6adc5b65bed87d973dd",
+    "6":"https:\/\/www.huffpost.com\/entry\/kindergarten-boy-dig-feces-toilet_n_60496490c5b636ed3377feb8",
+    "7":"https:\/\/www.huffpost.com\/entry\/kenneth-walker-shooting-criminal-case-closed_n_60476fe4c5b64433749f7655"
+  },
+  "headline":{
+    "0":"Buffalo Police Release New Bodycam Footage Of Police Pushing Older Protester",
+    "1":"Vladimir Putin To Get Vaccinated For Coronavirus On Tuesday",
+    "2":"Child Border Crossings Are Surging, Straining U.S. Facilities",
+    "3":"Lawyer For Derek Chauvin Claims Settlement Paid To George Floyd's Family Taints Trial",
+    "4":"At Least 4 People Shot Dead In Myanmar Anti-Coup Protests",
+    "5":"Georgetown Law Professor Fired For 'Abhorrent' Comments About Black Students",
+    "6":"Arkansas Teacher Suspended For Making 5-Year-Old Dig Feces From Toilet",
+    "7":"Judge Dismisses Criminal Case Against Breonna Taylor's Boyfriend, Kenneth Walker III"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"WORLD NEWS",
+    "2":"U.S. NEWS",
+    "3":"U.S. NEWS",
+    "4":"WORLD NEWS",
+    "5":"U.S. NEWS",
+    "6":"U.S. NEWS",
+    "7":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"Sometimes a fresh perspective doesn't really change much.",
+    "1":"Kremlin foes have criticized the Russian president for not getting vaccinated earlier.",
+    "2":"\u201cI can say quite clearly: Don\u2019t come over,\u201d President Joe Biden said when asked about people trying to cross the border.",
+    "3":"An attorney for former Minneapolis police officer Derek Chauvin, currently on trial for killing George Floyd, claimed a settlement the city paid to Floyd's family taints the trial.",
+    "4":"Security forces have continued their violent crackdown against dissent following last month\u2019s military coup.",
+    "5":"The woman apparently wasn't aware she was being recorded on the video call with a colleague, who's been placed on administrative leave.",
+    "6":"\u201cThey basically made him go in the toilet and get his feces and the dirty tissue out of the toilet,\u201d the student's mom, Ashley Murry, told reporters.",
+    "7":"Kenneth Walker\u2019s attorney had requested the permanent dismissal, saying Walker acted in self-defense when he fired a legally owned gun at officers during the botched police raid."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Daria Litvinova, AP",
+    "2":"Ben Fox and Elliot Spagat, AP",
+    "3":"",
+    "4":"",
+    "5":"Josephine Harvey",
+    "6":"David Moye",
+    "7":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2021-03-22 00:00:00",
+    "1":"2021-03-22 00:00:00",
+    "2":"2021-03-17 00:00:00",
+    "3":"2021-03-15 00:00:00",
+    "4":"2021-03-14 00:00:00",
+    "5":"2021-03-12 00:00:00",
+    "6":"2021-03-11 00:00:00",
+    "7":"2021-03-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"rusgov",
+    "2":"usagov",
+    "3":"---jud",
+    "4":"---mil",
+    "5":"guyedu",
+    "6":"---edu",
+    "7":"---jud"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"rusgov",
+    "2":"---ppl",
+    "3":"---cvl",
+    "4":"---mil",
+    "5":"---edu",
+    "6":"---med",
+    "7":"---cop"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"111",
+    "2":"020",
+    "3":"110",
+    "4":"170",
+    "5":"111",
+    "6":"010",
+    "7":"015"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-2.0,
+    "2":3.0,
+    "3":-2.0,
+    "4":-7.0,
+    "5":-2.0,
+    "6":0.0,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "buffalo",
+      "police",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~",
+      "protester",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "russian",
+      "president",
+      "rusgov",
+      "russian",
+      "federation",
+      "~"
+    ],
+    "2":[
+      "president",
+      "joe biden",
+      "usagov",
+      "~",
+      "joe",
+      "biden",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "attorney",
+      "~jud",
+      "~",
+      "settlement",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "security forces",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "5":[
+      "georgetown",
+      "professor",
+      "guyedu",
+      "guyana",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "6":[
+      "student",
+      "~edu",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "7":[
+      "attorney",
+      "~jud",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "buffalo police ... police",
+      "protester"
+    ],
+    "1":[
+      "kremlin",
+      "kremlin"
+    ],
+    "2":[
+      "president joe biden",
+      "people"
+    ],
+    "3":[
+      "attorney",
+      "settlement"
+    ],
+    "4":[
+      "security forces",
+      "security forces"
+    ],
+    "5":[
+      "georgetown ... professor",
+      "students"
+    ],
+    "6":[
+      "student",
+      "reporters"
+    ],
+    "7":[
+      "attorney",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "kremlin",
+      "kremlin"
+    ],
+    "2":[
+      "joe biden",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "guyana",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pushing"
+    ],
+    "1":[
+      "have criticized"
+    ],
+    "2":[
+      "said ... asked"
+    ],
+    "3":[
+      "claimed"
+    ],
+    "4":[
+      "have continued ... crackdown"
+    ],
+    "5":[
+      "fired for"
+    ],
+    "6":[
+      "told"
+    ],
+    "7":[
+      "had requested ... saying ... fired"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "2"
+    ],
+    "1":[
+      "vaccination",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":[
+      "security_services",
+      "1",
+      "coup_discussion",
+      "1"
+    ],
+    "5":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "6":[
+      "students",
+      "1"
+    ],
+    "7":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---opp",
+      "100"
+    ],
+    "1":[
+      "rusgov",
+      "rusgov",
+      "111"
+    ],
+    "2":[
+      "usagov",
+      "---ppl",
+      "020"
+    ],
+    "3":[
+      "---jud",
+      "---cvl",
+      "110"
+    ],
+    "4":[
+      "---mil",
+      "---mil",
+      "170"
+    ],
+    "5":[
+      "guyedu",
+      "---edu",
+      "111"
+    ],
+    "6":[
+      "---edu",
+      "---med",
+      "010"
+    ],
+    "7":[
+      "---jud",
+      "---cop",
+      "015"
+    ]
+  }
+}

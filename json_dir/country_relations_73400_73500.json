@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ohio-machete-attack_us_56bdb969e4b0c3c55050ccc0"
+  },
+  "headline":{
+    "0":"Ohio Police Kill Man Who Attacked Restaurant Diners With Machete"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"\"There was no rhyme or reason as to who he was going after.\""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "ohio",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ohio police",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "---ppl",
+      "190"
+    ]
+  }
+}

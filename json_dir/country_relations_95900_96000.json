@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-mouse-that-roared_b_7308868.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-atlanta-cheating-scan_b_7309084.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-boehner-aumf-islamic-state_n_7321986.html"
+  },
+  "headline":{
+    "0":"The Mouse That Roared",
+    "1":"The Atlanta Cheating Scandal: Students Were the Victims, but the School System Suffers Too",
+    "2":"John Boehner Wants Obama To 'Start Over' On ISIS War Authorization"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"BLACK VOICES",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"These Dutch men and women (under the auspices of an activist environmental organization that calls itself Urgenda -- as in \"urgent agenda\") have sued their government over its ongoing role in the emission of carbon gases and the resulting climate change.",
+    "1":"Something remarkable happened as the cheating case, which dates back to 2005, unfolded. Over the last 13 years, Atlanta students have made significant progress on another test, the widely respected National Assessment of Educational Progress (NAEP), administered through the Education Department and considered the \"gold standard\" of educational testing in the U.S.",
+    "2":""
+  },
+  "authors":{
+    "0":"Rick Fedrizzi, ContributorCEO and Founding Chair, U.S. Green Building Council",
+    "1":"Eric Cooper, ContributorFounder, President of the National Urban Alliance for Effectiv...",
+    "2":"Jennifer Bendery"
+  },
+  "date":{
+    "0":"2015-05-19 00:00:00",
+    "1":"2015-05-19 00:00:00",
+    "2":"2015-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"nldcvl",
+    "1":"usaedu",
+    "2":"usagovleg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---govedu",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"060",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "activist",
+      "organization",
+      "mearebopp",
+      "~",
+      "tanzim",
+      "dutch",
+      "men",
+      "women",
+      "nldcvl",
+      "netherlands",
+      "~",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "atlanta",
+      "students",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "education department",
+      "~govedu",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "john boehner",
+      "usagovleg",
+      "john",
+      "boehner",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dutch men ... women",
+      "government"
+    ],
+    "1":[
+      "atlanta students",
+      "education ... department",
+      "atlanta students",
+      "<u.s.>"
+    ],
+    "2":[
+      "john boehner",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "netherlands",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---",
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "john boehner",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have sued"
+    ],
+    "1":[
+      "have ... administered",
+      "have ... considered"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1",
+      "climate_change",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "nldcvl",
+      "---gov",
+      "173"
+    ],
+    "1":[
+      "usaedu",
+      "---govedu",
+      "060",
+      "usaedu",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "usagovleg",
+      "usagov",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jorge-luis-romero-paredes-fake-dentist_us_5ba2c168e4b0c2784da5b0ab"
+  },
+  "headline":{
+    "0":"Jorge Luis Romero-Paredes, Alleged Unlicensed Dentist, Arrested In Florida"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"When Pavon lost a molar and developed a serious oral infection, however, she sought treatment at an emergency facility, where"
+  },
+  "authors":{
+    "0":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2012-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "dentist",
+      "~hlh",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dentist",
+      "florida"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "usa",
+      "173"
+    ]
+  }
+}

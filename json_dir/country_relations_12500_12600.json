@@ -1,0 +1,224 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ceo-pay-disclosure_us_5aa6da18e4b03c9edfae9aec",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/uk-police-investigating-letters-calling-for-violent-attacks-on-muslims_us_5aa686f7e4b07047bec877f6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkish-heiress-iran-plane-crash_us_5aa62e16e4b07047bec7f03e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkish-heiress-iran-plane-crash_us_5aa62e16e4b07047bec7f03e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/russian-spy-theresa-may_us_5aa6a5e3e4b009b705d4db35"
+  },
+  "headline":{
+    "0":"Companies Are Disclosing How Much Less They Pay Workers Than Executives",
+    "1":"UK Police Investigating Letters Laying Out Points System For Attacking Muslims",
+    "2":"Turkish Heiress And 7 Friends Killed In Iran Plane Crash",
+    "3":"Turkish Heiress And 7 Friends Killed In Iran Plane Crash",
+    "4":"Russia Likely Responsible For Poisoning Spy, UK Officials Say"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"And some firms seem a little embarrassed.",
+    "1":"People across the country received letters saying they could earn points for various violent acts on \"Punish A Muslim Day.\"",
+    "2":"Mina Basaran, the daughter of a Turkish tycoon, had been celebrating her bachelorette party in Dubai.",
+    "3":"Mina Basaran, the daughter of a Turkish tycoon, had been celebrating her bachelorette party in Dubai.",
+    "4":"If Russia does not respond, British PM Theresa May said the poisoning will be considered \"an unlawful use of force\" against the United Kingdom."
+  },
+  "authors":{
+    "0":"Arthur Delaney and Dave Jamieson",
+    "1":"Carol Kuruvilla",
+    "2":"Dominique Mosbergen",
+    "3":"Dominique Mosbergen",
+    "4":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2018-03-13 00:00:00",
+    "1":"2018-03-12 00:00:00",
+    "2":"2018-03-12 00:00:00",
+    "3":"2018-03-12 00:00:00",
+    "4":"2018-03-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cop",
+    "2":"tur",
+    "3":"turbus",
+    "4":"gbrgovhri"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---mus",
+    "2":"irn",
+    "3":"are",
+    "4":"gbr"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"090",
+    "2":"190",
+    "3":"051",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-2.0,
+    "2":-10.0,
+    "3":3.4,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~"
+    ],
+    "2":[
+      "turkish",
+      "tur",
+      "turkey",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "3":[
+      "turkish",
+      "tycoon",
+      "turbus",
+      "turkey",
+      "~",
+      "dubai",
+      "are",
+      "united",
+      "arab",
+      "emirates"
+    ],
+    "4":[
+      "theresa may",
+      "gbrgovhri",
+      "theresa",
+      "may",
+      "united kingdom",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "workers"
+    ],
+    "1":[
+      "police",
+      "muslims"
+    ],
+    "2":[
+      "turkish",
+      "iran"
+    ],
+    "3":[
+      "turkish tycoon",
+      "dubai"
+    ],
+    "4":[
+      "theresa may",
+      "united kingdom"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "turkey",
+      "iran"
+    ],
+    "3":[
+      "turkey",
+      "united arab emirates"
+    ],
+    "4":[
+      "theresa may",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are disclosing ... pay"
+    ],
+    "1":[
+      "investigating"
+    ],
+    "2":[
+      "killed"
+    ],
+    "3":[
+      "had ... celebrating"
+    ],
+    "4":[
+      "said ... considered ... against <gbr>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "061"
+    ],
+    "1":[
+      "---cop",
+      "---mus",
+      "090"
+    ],
+    "2":[
+      "tur",
+      "irn",
+      "190"
+    ],
+    "3":[
+      "turbus",
+      "are",
+      "051"
+    ],
+    "4":[
+      "gbrgovhri",
+      "gbr",
+      "040"
+    ]
+  }
+}

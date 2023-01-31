@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/white-house-transgender-military-ban-forward_us_599e427be4b05710aa59b31d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-transgender-military-ban-forward_us_599e427be4b05710aa59b31d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-portrays-journalists-as-anti-american_us_599da653e4b0d8dde99a844c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/doj-visitor-records-data_us_599ca4f3e4b0d8dde9999dc6",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/any-pardon-of-joe-arpaio-is-an-insult-to-our-constitution_us_599def89e4b0cb7715bfd301"
+  },
+  "headline":{
+    "0":"White House Gearing Up To Push Transgender Military Ban Forward",
+    "1":"White House Gearing Up To Push Transgender Military Ban Forward",
+    "2":"Trump Takes Authoritarian Stance In Portraying Journalists As Anti-American Enemy",
+    "3":"Feds Back Down From Request For Visitor Logs From Anti-Trump Site, But Concerns Remain",
+    "4":"Any Pardon Of Joe Arpaio Is An Insult To Our Constitution"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"QUEER VOICES",
+    "2":"MEDIA",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Reports indicate the Pentagon will have six months to institute it.",
+    "1":"Reports indicate the Pentagon will have six months to institute it.",
+    "2":"\u201cThis was incitement, plain and simple\u201d ABC News correspondent Cecilia Vega said following Trump's Phoenix rally.",
+    "3":"DOJ lawyers are still seeking a trove of information about visitors to the website.",
+    "4":"This morning, President Trump again hinted to reporters that he may issue a pardon for Joe Arpaio, the former sheriff of"
+  },
+  "authors":{
+    "0":"Rebecca Shapiro",
+    "1":"Rebecca Shapiro",
+    "2":"Michael Calderone",
+    "3":"Matt Ferner",
+    "4":"Noah Baron, ContributorCivil Rights Attorney"
+  },
+  "date":{
+    "0":"2017-08-24 00:00:00",
+    "1":"2017-08-24 00:00:00",
+    "2":"2017-08-23 00:00:00",
+    "3":"2017-08-23 00:00:00",
+    "4":"2017-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usamil",
+    "2":"---med",
+    "3":"usagovjud",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"usamil",
+    "2":"usa",
+    "3":"---med",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"060",
+    "2":"010",
+    "3":"030",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.0,
+    "2":0.0,
+    "3":4.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ],
+    "2":[
+      "correspondent",
+      "~med",
+      "~",
+      "phoenix",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "doj",
+      "lawyers",
+      "usagovjud",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "~",
+      "website",
+      "~med",
+      "~",
+      "website",
+      "~med",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "reporters",
+      "~med",
+      "~",
+      "sheriff",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "white house",
+      "military"
+    ],
+    "1":[
+      "pentagon",
+      "pentagon"
+    ],
+    "2":[
+      "correspondent",
+      "phoenix"
+    ],
+    "3":[
+      "doj lawyers",
+      "website"
+    ],
+    "4":[
+      "president",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "united states military",
+      "united states military"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "united states department of justice",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['gearing',> <'up']> ... push"
+    ],
+    "1":[
+      "will ... institute"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "are ... seeking"
+    ],
+    "4":[
+      "hinted"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---mil",
+      "100"
+    ],
+    "1":[
+      "usamil",
+      "usamil",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "usagovjud",
+      "---med",
+      "030"
+    ],
+    "4":[
+      "---gov",
+      "---med",
+      "020"
+    ]
+  }
+}

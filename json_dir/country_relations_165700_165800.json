@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/steven-simpson-gay-teen-burned-birthday_us_5bafb2bce4b0ad7692604d38"
+  },
+  "headline":{
+    "0":"Steven Simpson, Gay British Teen, Dies After Being Set On Fire At Birthday Party"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The BBC reports that 20-year-old Jordan Sheard has been sentenced to three and a half years in jail for the death of Steven"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-03-23 00:00:00"
+  },
+  "actor1":{
+    "0":"med"
+  },
+  "actor2":{
+    "0":"jor"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "bbc",
+      "med",
+      "bbc",
+      "jordan",
+      "jor",
+      "jordan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "bbc",
+      "jordan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "bbc",
+      "jordan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reports ... jor ... sentenced"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "med",
+      "jor",
+      "172"
+    ]
+  }
+}

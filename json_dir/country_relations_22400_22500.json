@@ -1,0 +1,238 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/myanmar-rohingya-prevent-return_us_59de9711e4b0eb18af060e11",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/spain-catalonia-autonomy_us_59de485fe4b0eb18af0581e5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/greg-gianforte-mug-shot_us_59de7fb3e4b0fdad73b1cd4a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/utah-cop-jeff-payne-fired_us_59ddc350e4b01df09b774557",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/california-immigration-asian-americans_us_59c94ad4e4b01cc57ff488c1"
+  },
+  "headline":{
+    "0":"Brutal U.N. Report: Myanmar Army Driving Rohingya From Homes, Preventing Return",
+    "1":"Spain Gives Catalans 8 Days To Drop Independence",
+    "2":"Here's The Mugshot Of Rep. Greg Gianforte That He Really, Really Didn't Want You To See",
+    "3":"Utah Cop Who Violently Arrested Nurse Is Fired",
+    "4":"Asian-Americans Push Bills To Boost ELL Voter Services, Ban Registries That Discriminate"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"CRIME",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Myanmar security forces are torching homes, crops and villages to prevent Rohingya from returning, the U.N. human rights office said.",
+    "1":"The prime minister's move could deepen the confrontation between Madrid and Catalonia.",
+    "2":"The congressman was convicted in June of assaulting a reporter.",
+    "3":"\u201cI have lost faith and confidence in your ability to continue to serve,\u201d the police chief told Salt Lake City Detective Jeff Payne.",
+    "4":"Activists in California are calling for more legislation to protect immigrants."
+  },
+  "authors":{
+    "0":"Stephanie Nebehay, Reuters",
+    "1":"Blanca Rodr\u00edguez and Sonya Dowsett, Reuters",
+    "2":"Chris D'Angelo",
+    "3":"Dominique Mosbergen",
+    "4":"Kimberly Yam"
+  },
+  "date":{
+    "0":"2017-10-11 00:00:00",
+    "1":"2017-10-11 00:00:00",
+    "2":"2017-10-11 00:00:00",
+    "3":"2017-10-11 00:00:00",
+    "4":"2017-10-10 00:00:00"
+  },
+  "actor1":{
+    "0":"mmrmil",
+    "1":"---gov",
+    "2":"---med",
+    "3":"---cop",
+    "4":"usaopp"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"esp",
+    "2":"---leg",
+    "3":"---cop",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"173",
+    "3":"010",
+    "4":"0234"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":-5.0,
+    "3":0.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "myanmar",
+      "security forces",
+      "mmrmil",
+      "myanmar",
+      "~",
+      "villages",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "prime minister",
+      "~gov",
+      "~",
+      "madrid",
+      "catalonia",
+      "esp",
+      "esp",
+      "spain",
+      "spain"
+    ],
+    "2":[
+      "congressman",
+      "~leg",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "police chief",
+      "~cop",
+      "~",
+      "detective",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "activists",
+      "usaopp",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "myanmar security forces",
+      "villages"
+    ],
+    "1":[
+      "prime minister",
+      "madrid"
+    ],
+    "2":[
+      "reporter",
+      "congressman"
+    ],
+    "3":[
+      "police chief",
+      "police chief"
+    ],
+    "4":[
+      "activists",
+      "immigrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "myanmar",
+      "---"
+    ],
+    "1":[
+      "---",
+      "spain"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are torching"
+    ],
+    "1":[
+      "could deepen"
+    ],
+    "2":[
+      "<~leg> ... convicted in <~med>"
+    ],
+    "3":[
+      "told"
+    ],
+    "4":[
+      "are calling for ... protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "agriculture",
+      "1",
+      "human_rights",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":[
+      "activism",
+      "1",
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mmrmil",
+      "---cvl",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "esp",
+      "060",
+      "---gov",
+      "esp",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "---leg",
+      "173"
+    ],
+    "3":[
+      "---cop",
+      "---cop",
+      "010"
+    ],
+    "4":[
+      "usaopp",
+      "---cvl",
+      "0234"
+    ]
+  }
+}

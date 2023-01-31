@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/drivers-of-deradicalizati_b_6117334.html"
+  },
+  "headline":{
+    "0":"Drivers of Deradicalization: Needs, Narratives, Networks"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Dealing with violent extremism occupies, these days, a top spot on the world's agenda. Like the Ebola virus, another global threat du jour, the disease of radicalization is spreading with alarming speed. A reported 20,000 foreign fighters from over 70 countries are now engaged in Syria and Iraq, including 3,000 fighters from the West."
+  },
+  "authors":{
+    "0":"Arie Kruglanski, ContributorPsychologist, Investigator, National Center for the Study of T..."
+  },
+  "date":{
+    "0":"2014-11-11 00:00:00"
+  },
+  "actor1":{
+    "0":"syr"
+  },
+  "actor2":{
+    "0":"---uaf"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "fighters",
+      "~uaf",
+      "~",
+      "syria",
+      "iraq",
+      "syr",
+      "irq",
+      "syria",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syria",
+      "fighters",
+      "iraq",
+      "fighters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "---",
+      "iraq",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~uaf> ... engaged in syr",
+      "<~uaf> ... engaged in syr"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "---uaf",
+      "190",
+      "irq",
+      "---uaf",
+      "190"
+    ]
+  }
+}

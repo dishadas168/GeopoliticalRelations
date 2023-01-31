@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/find-love_us_5b9bd18be4b03a1dcc7a7d58",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sydney-trapp-violin_us_5b9bd27ee4b03a1dcc7a85f3"
+  },
+  "headline":{
+    "0":"The Truth About Men",
+    "1":"Sydney Trapp, 6, Plays Violin For Michelle Obama During Surprise Visit (VIDEO)"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"I can't find Mr. Right.\"  This is the most common complaint I've heard over the last several years from friends and strangers from all walks of life.  Women are searching for acceptable male companionship, and too many are having a difficult time of finding it.",
+    "1":"Michelle Obama visited Mom's Apple Pie Company in Occoquan, Va. on Thursday, CBS reports. She received a warm welcome from"
+  },
+  "authors":{
+    "0":"Norah O'Donnell, Contributor\nChief Washington Correspondent, MSNBC",
+    "1":""
+  },
+  "date":{
+    "0":"2012-06-08 00:00:00",
+    "1":"2012-06-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"mdv",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"043"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":2.8
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "male",
+      "mdv",
+      "maldives"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "male"
+    ],
+    "1":[
+      "company",
+      "obama",
+      "obama",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "maldives"
+    ],
+    "1":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are searching"
+    ],
+    "1":[
+      "visited",
+      "visited"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "mdv",
+      "090"
+    ],
+    "1":[
+      "---bus",
+      "usagov",
+      "043",
+      "usagov",
+      "---bus",
+      "042"
+    ]
+  }
+}

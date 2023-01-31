@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/good-morning-vietnam_us_5b9df551e4b03a1dcc8f825e"
+  },
+  "headline":{
+    "0":"Good Morning, Vietnam"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The following morning the Vietnamese police showed up at his hotel room offering him a deal:  He could be on the afternoon Pan Am flight to Guam or he could be in a Vietnamese jail.  It was a pleasant flight."
+  },
+  "authors":{
+    "0":"Alison Teal, Contributor\nWriter\/photographer"
+  },
+  "date":{
+    "0":"2014-04-02 00:00:00"
+  },
+  "actor1":{
+    "0":"vnmcop"
+  },
+  "actor2":{
+    "0":"vnmcop"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "vietnamese",
+      "police",
+      "vnmcop",
+      "vietnam",
+      "~",
+      "guam",
+      "usagum",
+      "guam",
+      "vietnamese",
+      "vnm",
+      "vietnam"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vietnamese police",
+      "vietnamese police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vietnam",
+      "vietnam"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "showed ... offering"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "vnmcop",
+      "vnmcop",
+      "030"
+    ]
+  }
+}

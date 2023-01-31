@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.philly.com\/philly\/news\/20160302_Judge_agrees_to_hear_resentencing_motion_in_Knott_gay-bashing_case.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/apple-fbi-go-to-washington_us_56d5a36be4b03260bf780cec"
+  },
+  "headline":{
+    "0":"Judge Agrees To Hear Resentencing Motion In Gay-Bashing Case",
+    "1":"Apple, FBI Take Their Dispute To Congress"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"A Philadelphia judge Tuesday agreed to hear a resentencing motion in the case of Kathryn Knott, the Bucks County woman jailed",
+    "1":"A congressional panel will consider the case on Tuesday."
+  },
+  "authors":{
+    "0":"",
+    "1":"Julia Harte and Julia Edwards, Reuters"
+  },
+  "date":{
+    "0":"2016-03-02 00:00:00",
+    "1":"2016-03-01 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usacop"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---leg"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "philadelphia",
+      "woman"
+    ],
+    "1":[
+      "fbi",
+      "congress"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "judge ... agreed ... hear"
+    ],
+    "1":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "usacop",
+      "---leg",
+      "171"
+    ]
+  }
+}

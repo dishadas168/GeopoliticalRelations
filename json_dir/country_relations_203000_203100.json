@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/eu-carbon-trade-deal-airlines_us_5bb10c03e4b09bbe9a59a9ca"
+  },
+  "headline":{
+    "0":"EU Carbon Trade Deal Urged By Airlines"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"\"The risk for airlines is that if this does degenerate into tit-for-tat trade war, then airlines will be caught in the crossfire"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "airlines",
+      "~bus",
+      "~",
+      "airlines",
+      "~bus",
+      "~",
+      "airlines",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "airlines",
+      "airlines"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is <~bus> ... caught in <--->"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "171"
+    ]
+  }
+}

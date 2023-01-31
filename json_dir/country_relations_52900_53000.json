@@ -1,0 +1,179 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-hopeful-wants-to-woo-black-voters-with-kool-aid-kfc-and-watermelons_us_57ffe28ee4b0e8c198a6fe09",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-dont-need-legislators-to-make-abortion-decisions-for-them-study-confirms_us_57fe769fe4b0e8c198a5703a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ken-jeong-dr-ken_us_57fe86cde4b0162c043979a1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/malawians-search-for-their-president-on-social-media_us_57fe95f2e4b0e8c198a5b965"
+  },
+  "headline":{
+    "0":"Senate Hopeful Wants To Woo Black Voters With \u2018Kool Aid, KFC And Watermelons\u2019",
+    "1":"Women Don\u2019t Need Legislators To Make Abortion Decisions For Them, Study Confirms",
+    "2":"The Reinvention Of Ken Jeong",
+    "3":"Malawians Have Taken To Social Media To Find Their President Missing In The U.S."
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WOMEN",
+    "2":"ENTERTAINMENT",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Bruh.",
+    "1":"Duh.",
+    "2":"The actor and comedian keeps trying to figure himself out with \"Dr. Ken.\"",
+    "3":"Worried Malawians are trying to find their leader. President Peter Mutharika left Malawi on Sept. 15 to attend the United"
+  },
+  "authors":{
+    "0":"Zeba Blay",
+    "1":"Catherine Pearson",
+    "2":"Todd Van Luling",
+    "3":"Lynsey Chutel, Quartz Africa"
+  },
+  "date":{
+    "0":"2016-10-13 00:00:00",
+    "1":"2016-10-13 00:00:00",
+    "2":"2016-10-13 00:00:00",
+    "3":"2016-10-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"---cvl",
+    "2":"---eli",
+    "3":"mwigovedu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---leg",
+    "2":"---eli",
+    "3":"mwi"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"100",
+    "2":"010",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "legislators",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "3":[
+      "president",
+      "peter mutharika",
+      "mwigovedu",
+      "~",
+      "peter",
+      "mutharika",
+      "malawi",
+      "mwi",
+      "malawi"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "voters"
+    ],
+    "1":[
+      "women",
+      "legislators"
+    ],
+    "2":[
+      "actor",
+      "actor"
+    ],
+    "3":[
+      "president peter mutharika",
+      "malawi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "peter mutharika",
+      "malawi"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "do ... need"
+    ],
+    "2":[
+      "keeps ... figure"
+    ],
+    "3":[
+      "left"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---leg",
+      "100"
+    ],
+    "2":[
+      "---eli",
+      "---eli",
+      "010"
+    ],
+    "3":[
+      "mwigovedu",
+      "mwi",
+      "040"
+    ]
+  }
+}

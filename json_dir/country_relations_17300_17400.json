@@ -1,0 +1,214 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-tax-bill-is-the-grinchiest-christmas-gift-yet_us_5a39565fe4b0cebf48e9f802",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/christian-bale-american-culture-white-men_us_5a392b91e4b0c65287ac6a6b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/despite-social-liberalization-at-home-saudi-arabia_us_5a37b28fe4b02bd1c8c6086f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/despite-social-liberalization-at-home-saudi-arabia_us_5a37b28fe4b02bd1c8c6086f"
+  },
+  "headline":{
+    "0":"The Tax Bill Is The Grinchiest Christmas Gift Yet",
+    "1":"Christian Bale: We\u2019d Be Better Off If \u2018White Dudes\u2019 Weren\u2019t Running Everything",
+    "2":"Despite Social Liberalization At Home, Saudi Arabia Continues To Promote Islamic Radicalism Abroad",
+    "3":"Despite Social Liberalization At Home, Saudi Arabia Continues To Promote Islamic Radicalism Abroad"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"RELIGION",
+    "3":"RELIGION"
+  },
+  "short_description":{
+    "0":"In 1814, First Lady Dolley Madison helped hide the White House\u2019s famous portrait of George Washington from the British when",
+    "1":"The \"Hostiles\" actor called the U.S. a \"country of inclusion.\"",
+    "2":"Saudi Arabia and the United Arab Emirates have attacked their neighbor, Qatar, for supposedly supporting terrorism. They",
+    "3":"Saudi Arabia and the United Arab Emirates have attacked their neighbor, Qatar, for supposedly supporting terrorism. They"
+  },
+  "authors":{
+    "0":"Michael Winship, ContributorFormer senior writer, BillMoyers.com. President, Writers Guild...",
+    "1":"Alanna Vagianos",
+    "2":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "3":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills"
+  },
+  "date":{
+    "0":"2017-12-19 00:00:00",
+    "1":"2017-12-19 00:00:00",
+    "2":"2017-12-18 00:00:00",
+    "3":"2017-12-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"usa",
+    "2":"sau",
+    "3":"sau"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---eli",
+    "2":"---mus",
+    "3":"qat"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"041",
+    "2":"050",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0,
+    "2":3.5,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "first lady",
+      "~eli",
+      "~",
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "3":[
+      "saudi arabia",
+      "united arab emirates",
+      "sau",
+      "are",
+      "saudi",
+      "arabia",
+      "united",
+      "arab",
+      "emirates",
+      "qatar",
+      "qat",
+      "qatar"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "first lady",
+      "the white house"
+    ],
+    "1":[
+      "u.s.",
+      "actor",
+      "actor",
+      "u.s."
+    ],
+    "2":[
+      "saudi arabia",
+      "islamic"
+    ],
+    "3":[
+      "saudi arabia",
+      "qatar",
+      "united arab emirates",
+      "qatar"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "white house"
+    ],
+    "1":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "saudi arabia",
+      "---"
+    ],
+    "3":[
+      "saudi arabia",
+      "qatar",
+      "united arab emirates",
+      "qatar"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "helped"
+    ],
+    "1":[
+      "called",
+      "called"
+    ],
+    "2":[
+      "continues ... promote"
+    ],
+    "3":[
+      "have attacked ... for",
+      "have attacked ... for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "usagov",
+      "070"
+    ],
+    "1":[
+      "usa",
+      "---eli",
+      "041",
+      "---eli",
+      "usa",
+      "041"
+    ],
+    "2":[
+      "sau",
+      "---mus",
+      "050"
+    ],
+    "3":[
+      "sau",
+      "qat",
+      "111",
+      "are",
+      "qat",
+      "111"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-syria-offensive_us_57c2c968e4b0267344506d94",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dwyane-wade-cousin-killed-chicago-shooting_us_57c1a80fe4b02673445052dd"
+  },
+  "headline":{
+    "0":"Turkey Pushes Farther Into Syria As Monitor Says Villagers Killed",
+    "1":"Cousin Of NBA Star Dwyane Wade Killed In Chicago Shooting"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Turkey's push into Syria is a major escalation in their involvement in the war.",
+    "1":"Nykea Aldridge, 32, a mother of four, was shot in the head and arm by crossfire in Chicago\u2019s Parkway Gardens neighborhood."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-08-28 00:00:00",
+    "1":"2016-08-27 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"usacvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "syria",
+      "syr",
+      "syria",
+      "turkey",
+      "tur",
+      "turkey",
+      "villagers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "chicago",
+      "neighborhood",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkey",
+      "villagers"
+    ],
+    "1":[
+      "chicago ... neighborhood",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "<~cvl> ... shot in <---> ... by <usacvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "usacvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

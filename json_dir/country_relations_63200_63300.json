@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mondays-morning-email-the-aftermath-of-the-worst-mass-shooting-in-us-history_us_575864e5e4b00f97fba6fb88",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fbi-director-orlando-shooter-omar-mateen_us_575f0c5fe4b0e4fe5143494f"
+  },
+  "headline":{
+    "0":"Monday's Morning Email: The Aftermath Of The Worst Mass Shooting In U.S. History",
+    "1":"FBI Director: 'Strong Indications' Orlando Shooter Was Radicalized, But Not That He Was Part Of Network"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Gunman reportedly pledged allegiance to ISIS mid-attack.",
+    "1":"The gunman expressed loyalties to ISIS and other extremists."
+  },
+  "authors":{
+    "0":"Lauren Weber",
+    "1":"Elise Foley"
+  },
+  "date":{
+    "0":"2016-06-13 00:00:00",
+    "1":"2016-06-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---uaf"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"imgmusisirad"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "gunman",
+      "~uaf",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "gunman",
+      "~uaf",
+      "~",
+      "isis",
+      "extremists",
+      "imgmusisirad",
+      "the",
+      "islamic",
+      "state",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "gunman",
+      "isis"
+    ],
+    "1":[
+      "gunman",
+      "isis ... extremists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the islamic state"
+    ],
+    "1":[
+      "---",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pledged"
+    ],
+    "1":[
+      "expressed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "imgmusisi",
+      "030"
+    ],
+    "1":[
+      "---uaf",
+      "imgmusisirad",
+      "110"
+    ]
+  }
+}

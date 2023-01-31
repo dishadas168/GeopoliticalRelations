@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_380_b_6870690.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-iran-deal-_n_6870992.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/gay-man-recounts-coming-out-to-his-devout-muslim-father_b_6857214.html"
+  },
+  "headline":{
+    "0":"Sunday Roundup",
+    "1":"White House Issues Saturday Night Iran Deal Warning To The Senate",
+    "2":"Gay Man Recounts Coming Out to His Devout Muslim Father (VIDEO)"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"This week kicked off with two high profile releases, one more successful than the other. On Monday, 47 Republican senators released an open letter to Iran. The misguided missive purported to help Iran \"fully understand our constitutional system,\" but was widely derided as a meddling and dangerous precedent. Maybe the senators' next letter will reveal how they plan to pay for another Middle East war, one that could be averted by a successful deal with the Iranians. That same day Apple rolled out the Apple Watch. Fans are already lining up, but do we really need to be even more distracted by endless notifications? Given how Steve Jobs said his best ideas came when he calmed his mind, it's an interesting question whether he'd have created Apple if he'd been endlessly distracted by having an Apple Watch on his wrist. Oops, I have to run, someone's texting me!",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Arianna Huffington, Contributor",
+    "1":"Sam Stein and Jessica Schulberg",
+    "2":"Nathan Manske, ContributorFounder and Executive Director, I'm From Driftwood"
+  },
+  "date":{
+    "0":"2015-03-15 00:00:00",
+    "1":"2015-03-15 00:00:00",
+    "2":"2015-03-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"irn",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"irn",
+    "1":"usagovleg",
+    "2":"---mus"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"130",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-4.4,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "iran",
+      "irn",
+      "iran",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "muslim",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "iran"
+    ],
+    "1":[
+      "iran",
+      "senate"
+    ],
+    "2":[
+      "man",
+      "muslim"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iran"
+    ],
+    "1":[
+      "iran",
+      "united states congress"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "released"
+    ],
+    "1":[
+      "warning"
+    ],
+    "2":[
+      "recounts coming ... to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "irn",
+      "084"
+    ],
+    "1":[
+      "irn",
+      "usagovleg",
+      "130"
+    ],
+    "2":[
+      "---ppl",
+      "---mus",
+      "040"
+    ]
+  }
+}

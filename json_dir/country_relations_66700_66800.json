@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/may-day-2016-protests_us_5726c2c4e4b01a5ebde5fb9f",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2016\/05\/01\/toddlers-have-shot-at-least-23-people-this-year\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/malia-obama-harvard-university_us_57261a70e4b0b49df6ab94af"
+  },
+  "headline":{
+    "0":"May Day Protests In Seattle, Paris, Istanbul Erupt In Violence",
+    "1":"Toddlers Have Shot At Least 23 People This Year",
+    "2":"Malia Obama To Attend Harvard University"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Demonstrators across the world marched for workers rights.",
+    "1":"This past week, a Milwaukee toddler fatally shot his mother after finding a handgun in the back seat of the car they were",
+    "2":"Following in her parents' footsteps?"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Igor Bobic"
+  },
+  "date":{
+    "0":"2016-05-02 00:00:00",
+    "1":"2016-05-01 00:00:00",
+    "2":"2016-05-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usa",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cvl",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"190",
+    "2":"043"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":-10.0,
+    "2":2.8
+  },
+  "nouns":{
+    "0":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "milwaukee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "university",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "demonstrators",
+      "workers"
+    ],
+    "1":[
+      "milwaukee",
+      "mother"
+    ],
+    "2":[
+      "university",
+      "obama",
+      "obama",
+      "university"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "marched"
+    ],
+    "1":[
+      "shot"
+    ],
+    "2":[
+      "attend",
+      "attend"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---lab",
+      "140"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "---edu",
+      "usagov",
+      "043",
+      "usagov",
+      "---edu",
+      "042"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-korea-says-trump-will-seek-seouls-approval-before-any-action-on-north-korea_us_5995129ae4b0acc593e51747",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-jeff-flake_us_59958f2ce4b06ef724d6ba5c"
+  },
+  "headline":{
+    "0":"South Korea Says Trump Will Seek Seoul's Approval Before Any Action On North Korea",
+    "1":"Donald Trump Attacks GOP Senator As 'Toxic' And 'Non-Factor,' Praises His Primary Opponent"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"South Korean President Moon Jae-in urged North Korea not to make further provocations.",
+    "1":"The president attacked \"Flake Jeff Flake\" on Twitter, calling the Arizona senator and frequent Trump critic \"WEAK.\""
+  },
+  "authors":{
+    "0":"Christine Kim and Cynthia Kim, Reuters",
+    "1":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-08-17 00:00:00",
+    "1":"2017-08-17 00:00:00"
+  },
+  "actor1":{
+    "0":"kor",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"kor",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "south korea",
+      "kor",
+      "south",
+      "korea",
+      "seoul",
+      "kor",
+      "south",
+      "korea",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "arizona",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "south korea",
+      "south korea"
+    ],
+    "1":[
+      "president",
+      "arizona"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "south korea",
+      "south korea"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... seek"
+    ],
+    "1":[
+      "attacked ... calling"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "kor",
+      "kor",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "041"
+    ]
+  }
+}

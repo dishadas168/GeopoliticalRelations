@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-progressives-should-celebrate-flag-day_b_7581176.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-campaign-in-saudi-arabi_b_7578070.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israeli-school-unites-mus_b_7580418.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/has-congress-failed-air-t_b_7580762.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/benedict-cumberbatch-baby-boy_n_7576818.html"
+  },
+  "headline":{
+    "0":"How Progressives Should Celebrate Flag Day",
+    "1":"A Campaign in Saudi Arabia Challenges Young People to Rethink Their Biases",
+    "2":"Israeli School Unites Muslim, Jewish and Christian Students WIth Cerebral Palsy",
+    "3":"Has Congress Failed Air Travelers?",
+    "4":"Benedict Cumberbatch And Sophie Hunter Welcome First Child"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"TRAVEL",
+    "4":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Most Americans are unaware that much of our patriotic culture -- including many of the leading symbols and songs -- was created by people with decidedly progressive sympathies. Progressives understand that people can disagree with their government and still love their country and its ideals.",
+    "1":"A three-minute video, posted by a Saudi government-backed organization to YouTube on June 4, has garnered 150,000 views in 48 hours and sparked a discussion in the kingdom about how to stem sectarian conflict.",
+    "2":"In the Tel Aviv suburb of Zahala, about 150 students study at the ONN School for Special Education. The school is special in that most of the children who attend, have cerebral palsy and other degenerative diseases. The diverse student population includes Muslim, Christian, and Jewish children.",
+    "3":"What has Washington done for airline passengers lately? That's the question prompted by two recent political scandals that have touched the tourism world. But the answer -- or the lack of an answer -- may be far more troubling than the alleged misconduct.",
+    "4":""
+  },
+  "authors":{
+    "0":"Peter Dreier and Dick Flacks, Contributors",
+    "1":"Joseph Braude, ContributorAuthor, broadcaster, and Middle East specialist",
+    "2":"Anav Silverman, ContributorInternational Correspondent in Jerusalem",
+    "3":"Christopher Elliott, ContributorAuthor, How to Be the World's Smartest Traveler (and Save Time...",
+    "4":"E. Oliver Whitney"
+  },
+  "date":{
+    "0":"2015-06-14 00:00:00",
+    "1":"2015-06-14 00:00:00",
+    "2":"2015-06-14 00:00:00",
+    "3":"2015-06-14 00:00:00",
+    "4":"2015-06-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"sau",
+    "2":"---edu",
+    "3":"---leg",
+    "4":"---cvl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"---edu",
+    "3":"---cvl",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"110",
+    "2":"090",
+    "3":"120",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0,
+    "2":-2.0,
+    "3":-4.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "congress",
+      "~leg",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "hunter",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "government"
+    ],
+    "1":[
+      "saudi arabia",
+      "people"
+    ],
+    "2":[
+      "students",
+      "students"
+    ],
+    "3":[
+      "congress",
+      "travelers"
+    ],
+    "4":[
+      "hunter",
+      "hunter"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "saudi arabia",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can disagree"
+    ],
+    "1":[
+      "challenges"
+    ],
+    "2":[
+      "study"
+    ],
+    "3":[
+      "failed"
+    ],
+    "4":[
+      "welcome"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "3":[
+      "tourism",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---gov",
+      "110"
+    ],
+    "1":[
+      "sau",
+      "---ppl",
+      "110"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "090"
+    ],
+    "3":[
+      "---leg",
+      "---cvl",
+      "120"
+    ],
+    "4":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ]
+  }
+}

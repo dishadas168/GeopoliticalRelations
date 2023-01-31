@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ryan-reynolds-marriage-equality-is-fantastic-and-humane_us_559ae7b0e4b04a9c98e81f90"
+  },
+  "headline":{
+    "0":"Ryan Reynolds: Marriage Equality Is 'Fantastic' And 'Humane'"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Ryan Reynolds is thrilled that America's same-sex marriage laws have finally caught up with those of his native Canada."
+  },
+  "authors":{
+    "0":"Ryan Buxton"
+  },
+  "date":{
+    "0":"2015-07-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"cancvl"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "native",
+      "canada",
+      "cancvl",
+      "~",
+      "canada"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "native canada"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "canada"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... caught"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "cancvl",
+      "171"
+    ]
+  }
+}

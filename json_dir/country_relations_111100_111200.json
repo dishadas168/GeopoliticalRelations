@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-iran-syria_n_6199530.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/transgender-activists-fear-_n_6192828.html"
+  },
+  "headline":{
+    "0":"With New Report, Congress Gains Ammo To Fight Iran Deal",
+    "1":"Despite Progress, Transgender Activists Still Fear They Face An Uphill Battle"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"",
+    "1":""
+  },
+  "authors":{
+    "0":"Ali Watkins and Akbar Shahid Ahmed",
+    "1":""
+  },
+  "date":{
+    "0":"2014-11-21 00:00:00",
+    "1":"2014-11-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---opp"
+  },
+  "actor2":{
+    "0":"irn",
+    "1":"---opp"
+  },
+  "event_code":{
+    "0":"057",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":8.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "activists",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "iran"
+    ],
+    "1":[
+      "activists",
+      "activists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iran"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gains ... fight ... deal"
+    ],
+    "1":[
+      "fear ... face <&fight>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "irn",
+      "057"
+    ],
+    "1":[
+      "---opp",
+      "---opp",
+      "110"
+    ]
+  }
+}

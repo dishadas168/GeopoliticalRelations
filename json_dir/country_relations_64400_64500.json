@@ -1,0 +1,163 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/politics\/judge-orders-release-of-internal-trump-university-documents\/2016\/05\/28\/2e960e5e-24f9-11e6-8690-f14ca9de2972_story.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/houston-shooting-rampage_us_574b809ce4b055bb11727534",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/german-mp-cake_us_574b5b7de4b03ede44151672"
+  },
+  "headline":{
+    "0":"Judge Bashed By Trump Orders Release Of Company Records",
+    "1":"'Random' Shooting Rampage In Houston Leaves 2 Dead, 6 Wounded",
+    "2":"German Lawmaker Assaulted With Cake Over Anti-Refugee Comments"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"A federal judge has ordered the release of internal Trump University documents in an ongoing lawsuit against the company",
+    "1":"May 29 (Reuters) - Police in Houston killed a gunman on Sunday in a chaotic shootout that left one other person dead, six",
+    "2":"The left-wing MP has advocated for refugee caps."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2016-05-29 00:00:00",
+    "1":"2016-05-29 00:00:00",
+    "2":"2016-05-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usacop",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---uaf",
+    "2":"---ref"
+  },
+  "event_code":{
+    "0":"0842",
+    "1":"193",
+    "2":"020"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-10.0,
+    "2":3.0
+  },
+  "nouns":{
+    "0":[
+      "federal judge",
+      "~jud",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "usacop",
+      "~",
+      "gunman",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "mp",
+      "~leg",
+      "~",
+      "refugee",
+      "~ref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "federal judge",
+      "university"
+    ],
+    "1":[
+      "police",
+      "gunman"
+    ],
+    "2":[
+      "mp",
+      "refugee"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ordered ... release"
+    ],
+    "1":[
+      "killed ... in ... shootout"
+    ],
+    "2":[
+      "has advocated"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---edu",
+      "0842"
+    ],
+    "1":[
+      "usacop",
+      "---uaf",
+      "193"
+    ],
+    "2":[
+      "---leg",
+      "---ref",
+      "020"
+    ]
+  }
+}

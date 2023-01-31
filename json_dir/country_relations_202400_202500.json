@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-apparel-shoplifting_us_5bb2b62ee4b0480ca65a2b07",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/public-opinion-climate-change-polls-politics_us_5bb10c85e4b09bbe9a59b766"
+  },
+  "headline":{
+    "0":"American Apparel Cracks Down On Shoplifting, Loses Hipster Fans",
+    "1":"Why Global Warming Still Considered Target Of Skepticism For Americans"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"Yet American Apparel has long been targeted by shoplifters, many of them indistinguishable from the chain's loyal customers",
+    "1":"That's simply not true, Jon Krosnick of Stanford University told an audience of social scientists and cognitive researchers"
+  },
+  "authors":{
+    "0":"Alice Hines",
+    "1":"Lynne Peeples"
+  },
+  "date":{
+    "0":"2012-02-19 00:00:00",
+    "1":"2012-02-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "shoplifters",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "scientists",
+      "~cvl",
+      "~",
+      "scientists",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "shoplifters",
+      "american"
+    ],
+    "1":[
+      "university",
+      "scientists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usa> ... targeted by <~crm>"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "usa",
+      "190"
+    ],
+    "1":[
+      "---edu",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unc-north-carolina-hb2-law_us_570819a4e4b0885fb50d2301",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-woman-president_us_570bf27fe4b014223249a8e2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/david-cameron-dodgy_us_570bf446e4b0885fb50dc004"
+  },
+  "headline":{
+    "0":"UNC Has No Idea How To Enforce The New Anti-Trans Bathroom Law",
+    "1":"Joe Biden \u2018Would Like To See A Woman Elected\u2019 President",
+    "2":"British Lawmaker Calls David Cameron 'Dodgy,' Is Tossed From Parliament"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The new law has a major hole in it, and it's unclear whether universities will punish trans students for using the \"wrong\" bathroom.",
+    "1":"The VP says that America is \"ready for a woman.\"",
+    "2":"The British prime minister has faced scrutiny over his ties to the Panama Papers leak."
+  },
+  "authors":{
+    "0":"Tyler Kingkade",
+    "1":"Amber Ferguson",
+    "2":"Kim Bellware"
+  },
+  "date":{
+    "0":"2016-04-11 00:00:00",
+    "1":"2016-04-11 00:00:00",
+    "2":"2016-04-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usagov",
+    "2":"gbrgov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cvlgov",
+    "2":"pan"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"010",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "universities",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "woman",
+      "president",
+      "~cvlgov",
+      "~",
+      "~"
+    ],
+    "2":[
+      "british",
+      "prime minister",
+      "gbrgov",
+      "united",
+      "kingdom",
+      "~",
+      "panama",
+      "pan",
+      "panama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "universities",
+      "universities"
+    ],
+    "1":[
+      "joe biden",
+      "woman ... president"
+    ],
+    "2":[
+      "british prime minister",
+      "panama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "joe biden",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "panama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will punish"
+    ],
+    "1":[
+      "would ... see"
+    ],
+    "2":[
+      "has faced"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "170"
+    ],
+    "1":[
+      "usagov",
+      "---cvlgov",
+      "010"
+    ],
+    "2":[
+      "gbrgov",
+      "pan",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/hong-kong-protester-target-police-station_n_5d46c6f1e4b0aca3411f287f",
+    "1":"https:\/\/www.huffpost.com\/entry\/jussie-smollett-special-prosecutor_n_5d428c04e4b0acb57fc75127",
+    "2":"https:\/\/www.huffpost.com\/entry\/nearly-1400-detained-in-moscows-largest-protest-in-a-decade_n_5d3d9c8ce4b0a6d6374101be",
+    "3":"https:\/\/www.huffpost.com\/entry\/harvard-black-law-students-association-racist-messages_n_5d3d6d84e4b0ef792e0d9ab9",
+    "4":"https:\/\/www.huffpost.com\/entry\/venezuela-blackout_n_5d368c0fe4b0419fd331f3ed",
+    "5":"https:\/\/www.huffpost.com\/entry\/iran-british-tanker-crew_n_5d3428c8e4b004b6adb10d97",
+    "6":"https:\/\/www.huffpost.com\/entry\/asap-rocky-sweden-detention_n_5d31f488e4b020cd99431e7d",
+    "7":"https:\/\/www.huffpost.com\/entry\/uk-prime-minister-theresa-may-trump-tweet_n_5d2c5ce1e4b02a5a5d5e0a22"
+  },
+  "headline":{
+    "0":"Hong Kong Protesters Target Police Station",
+    "1":"Jussie Smollett's Legal Woes Continue As Judge Reaffirms Decision To Examine Case Again",
+    "2":"Russian Police Detain Nearly 1,400 Protesters In Moscow",
+    "3":"Student Group Says Harvard \u2018Woefully Failed\u2019 To Address Racist, Sexist Messages",
+    "4":"Venezuela Blackout Leaves Much Of The Country In The Dark, Again",
+    "5":"Iran Says All Crew Members Aboard Seized British-Flagged Tanker Are Safe",
+    "6":"Sweden To Hold A$AP Rocky Another Week Amid Calls For His Release",
+    "7":"UK Prime Minister Theresa May Says Trump's 'Go Home' Tweet Is 'Completely Unacceptable'"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"U.S. NEWS",
+    "2":"WORLD NEWS",
+    "3":"U.S. NEWS",
+    "4":"WORLD NEWS",
+    "5":"WORLD NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Protesters used a long, homemade slingshot to hurl rocks, bricks and other objects at another police station on Sunday.",
+    "1":"A Chicago judge told the actor's lawyers that he was standing by his decision to appoint a special prosecutor to reexamine the case against Smollett.",
+    "2":"Russian police violently arrested protesters who want opposition candidates to be allowed to run for city council.",
+    "3":"The Harvard Black Law Students Association criticized school officials for not doing enough to find the person or persons behind the offensive messages.",
+    "4":"Authorities blamed an \u201celectromagnetic attack\u201d on a series of dams located in southern Venezuela for the latest power outage.",
+    "5":"The ship's 23 crew members, who are from India, Latvia, the Philippines and Russia, were in \"good health,\" Iranian state TV reported Sunday.",
+    "6":"The American rapper's ongoing detention has led to a public outcry from celebrities, hip-hop artists, politicians and fans.",
+    "7":"Outgoing Prime Minister Theresa May took aim at Donald Trump after he told congresswomen to \"go back\" to the \"crime-infested places from which they came.\""
+  },
+  "authors":{
+    "0":"Yanan Wang, AP",
+    "1":"Dominique Mosbergen",
+    "2":"Nataliya Vasilyeva, AP",
+    "3":"",
+    "4":"",
+    "5":"",
+    "6":"Julian Shen-Berro",
+    "7":"Rachel Wearmouth"
+  },
+  "date":{
+    "0":"2019-08-04 00:00:00",
+    "1":"2019-08-01 00:00:00",
+    "2":"2019-07-28 00:00:00",
+    "3":"2019-07-28 00:00:00",
+    "4":"2019-07-23 00:00:00",
+    "5":"2019-07-21 00:00:00",
+    "6":"2019-07-19 00:00:00",
+    "7":"2019-07-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usajud",
+    "2":"rus",
+    "3":"---edu",
+    "4":"---gov",
+    "5":"irn",
+    "6":"usa",
+    "7":"gbrgovhri"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---elijud",
+    "2":"---opp",
+    "3":"---edu",
+    "4":"ven",
+    "5":"---bus",
+    "6":"---pty",
+    "7":"---leg"
+  },
+  "event_code":{
+    "0":"175",
+    "1":"010",
+    "2":"173",
+    "3":"111",
+    "4":"112",
+    "5":"010",
+    "6":"042",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":-2.0,
+    "4":-2.0,
+    "5":0.0,
+    "6":1.9,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "chicago",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "actor",
+      "lawyers",
+      "~elijud",
+      "~",
+      "~",
+      "prosecutor",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "authorities",
+      "~gov",
+      "~",
+      "venezuela",
+      "ven",
+      "venezuela"
+    ],
+    "5":[
+      "iran",
+      "irn",
+      "iran",
+      "tanker",
+      "~bus",
+      "~"
+    ],
+    "6":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "politicians",
+      "~pty",
+      "~",
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "7":[
+      "theresa may",
+      "gbrgovhri",
+      "theresa",
+      "may",
+      "congresswomen",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "police"
+    ],
+    "1":[
+      "chicago judge",
+      "actor ... lawyers"
+    ],
+    "2":[
+      "russian",
+      "protesters"
+    ],
+    "3":[
+      "students",
+      "students"
+    ],
+    "4":[
+      "authorities",
+      "venezuela"
+    ],
+    "5":[
+      "iran",
+      "tanker"
+    ],
+    "6":[
+      "american",
+      "politicians"
+    ],
+    "7":[
+      "theresa may",
+      "congresswomen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "russian federation",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "venezuela"
+    ],
+    "5":[
+      "iran",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ],
+    "7":[
+      "theresa may",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "used <&weapon>"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "police ... arrested"
+    ],
+    "3":[
+      "criticized"
+    ],
+    "4":[
+      "blamed"
+    ],
+    "5":[
+      "says"
+    ],
+    "6":[
+      "has led to"
+    ],
+    "7":[
+      "took ... told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "4":[
+      "electricity_outage",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cop",
+      "175"
+    ],
+    "1":[
+      "usajud",
+      "---elijud",
+      "010"
+    ],
+    "2":[
+      "rus",
+      "---opp",
+      "173"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "111"
+    ],
+    "4":[
+      "---gov",
+      "ven",
+      "112"
+    ],
+    "5":[
+      "irn",
+      "---bus",
+      "010"
+    ],
+    "6":[
+      "usa",
+      "---pty",
+      "042"
+    ],
+    "7":[
+      "gbrgovhri",
+      "---leg",
+      "010"
+    ]
+  }
+}

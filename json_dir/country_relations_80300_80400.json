@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/huffpollster-louisiana-governor-race-democrat_us_564f179ee4b0d4093a5737f1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/martin-shkreli-kalobios-ceo_us_564f55f0e4b0258edb313e7c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/journalists-face-trial-morocco_us_564dfd62e4b031745cf01f2b"
+  },
+  "headline":{
+    "0":"HUFFPOLLSTER: Here's What You Need To Know About Louisiana's Gubernatorial Election",
+    "1":"Price-Gouging Pharma CEO Takes Over Cancer Company",
+    "2":"Journalists, Activists Face Controversial Trial In Morocco"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"Voters head to the polls tomorrow in Louisiana to elect Bobby Jindal\u2019s successor. Most Americans are against allowing Syrian refugees into the country, a sentiment that's nothing new in the U.S. And the Paris attacks aren\u2019t likely to have a big effect on the election, but but could bring foreign policy to the forefront of the race. This is HuffPollster for Friday, November 20, 2015.",
+    "1":"Since investors led by Martin Shkreli swooped in, the price of KaloBios has skyrocketed.",
+    "2":"They faced up to five years in prison for running a foreign-funded smartphone app training program on citizenjournalism, Amnesty International said."
+  },
+  "authors":{
+    "0":"Natalie Jackson, Ariel Edwards-Levy, and Janie Velencia",
+    "1":"Michael McLaughlin",
+    "2":"Samia Errazzouki, AP"
+  },
+  "date":{
+    "0":"2015-11-20 00:00:00",
+    "1":"2015-11-20 00:00:00",
+    "2":"2015-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"mar"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---bus",
+    "2":"---medopp"
+  },
+  "event_code":{
+    "0":"014",
+    "1":"171",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "ceo",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "journalists",
+      "activists",
+      "~medopp",
+      "~",
+      "~",
+      "morocco",
+      "mar",
+      "morocco"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "louisiana"
+    ],
+    "1":[
+      "ceo",
+      "ceo"
+    ],
+    "2":[
+      "morocco",
+      "journalists ... activists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "morocco",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "head to ... polls"
+    ],
+    "1":[
+      "takes"
+    ],
+    "2":[
+      "face ... trial"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "2"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ],
+    "2":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "014"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "171"
+    ],
+    "2":[
+      "mar",
+      "---medopp",
+      "173"
+    ]
+  }
+}

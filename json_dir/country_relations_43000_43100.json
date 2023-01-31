@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-sanctions-norway-russian-cyberattack_us_58950db4e4b0406131371177",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trumps-unconstitutional-muslim-ban_us_589545c5e4b061551b3dfece",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-travel-ban-court-order_us_58961252e4b09bd304bba436"
+  },
+  "headline":{
+    "0":"As Trump Eases Russian Sanctions, Norway Reveals A Kremlin Cyberattack",
+    "1":"Trump\u2019s Unconstitutional Muslim Ban",
+    "2":"Federal Agencies Stop Enforcing Key Parts Of Trump's Travel Ban After Court Order"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Cozy Bear\" operation targeted Labour Party, army and intelligence service.",
+    "1":"On January 27, 2017, President Trump made good on his campaign promise to institute a ban on Muslims entering the US. Trump\u2019s",
+    "2":"The president personally attacked the federal judge who issued a temporary restraining order."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Marjorie Cohn, ContributorProfessor Emerita at Thomas Jefferson School of Law",
+    "2":"Sam Levine and Elise Foley"
+  },
+  "date":{
+    "0":"2017-02-04 00:00:00",
+    "1":"2017-02-04 00:00:00",
+    "2":"2017-02-04 00:00:00"
+  },
+  "actor1":{
+    "0":"nor",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"rusgov",
+    "1":"---mus",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"060",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":6.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "norway",
+      "nor",
+      "norway",
+      "kremlin",
+      "rusgov",
+      "kremlin"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "the us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "federal judge",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "norway",
+      "kremlin"
+    ],
+    "1":[
+      "president",
+      "muslims"
+    ],
+    "2":[
+      "president",
+      "federal judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "norway",
+      "kremlin"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reveals"
+    ],
+    "1":[
+      "made ... institute"
+    ],
+    "2":[
+      "attacked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1",
+      "cyber_security",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "nor",
+      "rusgov",
+      "050"
+    ],
+    "1":[
+      "---gov",
+      "---mus",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "---jud",
+      "190"
+    ]
+  }
+}

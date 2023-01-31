@@ -1,0 +1,216 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.cnn.com\/2017\/05\/16\/middleeast\/beirut-gay-pride\/index.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mexico-nafta-talks_us_591cb583e4b034684b0919b5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/republicans-wont-defend-trump_us_591c4662e4b0a7458fa47d68",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/gianforte-lafargeholcim-isis_us_591c710be4b0ed14cddb53fa",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/kobe-bryant-jordan-edwards-family-much-love_us_591c82afe4b03b485cadef16"
+  },
+  "headline":{
+    "0":"Beirut Gay Pride Event A First For Lebanon",
+    "1":"Mexico Expects NAFTA Talks By Late August, Economy Minister Says",
+    "2":"Republicans Go Into Hiding As Donald Trump's Scandals Deepen",
+    "3":"Montana GOP Candidate Owns Stake In Company Accused Of Paying Off ISIS",
+    "4":"Kobe Bryant Gives Jordan Edwards' Brother A Special Birthday Surprise"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"(CNN)The first ever gay pride event is taking place this week in Lebanon, a country where homosexual acts are still considered",
+    "1":"Mexican Economy Minister Guajardo said he expects Trump to tell Congress of plans to renegotiate the agreement.",
+    "2":"GOP lawmakers and White House officials won't defend Trump on TV.",
+    "3":"President Donald Trump attacked Hillary Clinton last year for accepting a donation to her foundation from the scandal-struck European firm.",
+    "4":"Kevon Edwards was in the car when Jordan was killed by police on April 29."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Marina Fang",
+    "3":"Alexander C. Kaufman",
+    "4":"Brennan Williams"
+  },
+  "date":{
+    "0":"2017-05-17 00:00:00",
+    "1":"2017-05-17 00:00:00",
+    "2":"2017-05-17 00:00:00",
+    "3":"2017-05-17 00:00:00",
+    "4":"2017-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"med",
+    "1":"---gov",
+    "2":"---leg",
+    "3":"---gov",
+    "4":"---cop"
+  },
+  "actor2":{
+    "0":"lbn",
+    "1":"---leg",
+    "2":"---med",
+    "3":"usaeli",
+    "4":"jor"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"010",
+    "2":"074",
+    "3":"111",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":0.0,
+    "2":8.5,
+    "3":-2.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "cnn",
+      "med",
+      "cnn",
+      "lebanon",
+      "lbn",
+      "lebanon"
+    ],
+    "1":[
+      "minister",
+      "~gov",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "4":[
+      "jordan",
+      "jor",
+      "jordan",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cnn",
+      "lebanon"
+    ],
+    "1":[
+      "minister",
+      "congress"
+    ],
+    "2":[
+      "lawmakers",
+      "tv"
+    ],
+    "3":[
+      "president",
+      "hillary clinton"
+    ],
+    "4":[
+      "police",
+      "jordan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cnn",
+      "lebanon"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "hillary clinton"
+    ],
+    "4":[
+      "---",
+      "jordan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is taking"
+    ],
+    "1":[
+      "said ... expects ... tell"
+    ],
+    "2":[
+      "wo ... defend"
+    ],
+    "3":[
+      "attacked ... for"
+    ],
+    "4":[
+      "jor ... killed by <~cop>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "2"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "med",
+      "lbn",
+      "171"
+    ],
+    "1":[
+      "---gov",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "---med",
+      "074"
+    ],
+    "3":[
+      "---gov",
+      "usaeli",
+      "111"
+    ],
+    "4":[
+      "---cop",
+      "jor",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/young-dolph-gives-20k-to-baristas-fired-for-playing-his-song-get-paid-in-shop_us_5af98995e4b032b10bfce3c0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/der-spiegel-trump-flipping-off-europe_us_5af65ba3e4b00d7e4c1ac5f5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-plans-to-dismantle-nuclear-test-sites-by-end-of-may_us_5af6feb5e4b0e57cd9f9f432",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/metoo-in-the-statehouse-at-least-16-men-are-gone_us_5af5ed31e4b08921ee1612d3"
+  },
+  "headline":{
+    "0":"Young Dolph Gives $20,000 To Baristas Fired For Playing His Song 'Get Paid'",
+    "1":"Der Spiegel Cover Portrays Trump As A Finger Flipping Off Europe",
+    "2":"North Korea Plans To Dismantle Nuclear Test Sites By End Of May",
+    "3":"#MeToo In The Statehouse: At Least 16 Men Are Gone, But The Harassment Culture Isn\u2019t"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The shop on Duke University's campus apologized for booting the workers and said it's cutting ties with the school.",
+    "1":"Time to join the resistance, German newsmagazine says, \"against America.\"",
+    "2":"President Donald Trump plans to hold a summit with North Korean leader Kim Jong Un on June 12.",
+    "3":"At least 16 state lawmakers have resigned or been expelled from their legislatures since the #MeToo movement started seven"
+  },
+  "authors":{
+    "0":"Jenna Amatulli",
+    "1":"Mary Papenfuss",
+    "2":"Christine Kim, David Brunnstrom, Reuters",
+    "3":"Stateline, Editorial Partner"
+  },
+  "date":{
+    "0":"2018-05-14 00:00:00",
+    "1":"2018-05-12 00:00:00",
+    "2":"2018-05-12 00:00:00",
+    "3":"2018-05-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"deu",
+    "2":"---gov",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usa",
+    "2":"igouno",
+    "3":"---leg"
+  },
+  "event_code":{
+    "0":"160",
+    "1":"010",
+    "2":"040",
+    "3":"174"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":0.0,
+    "2":1.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "german",
+      "deu",
+      "germany",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "un",
+      "igouno",
+      "un"
+    ],
+    "3":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "legislatures",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "university",
+      "university"
+    ],
+    "1":[
+      "german",
+      "america"
+    ],
+    "2":[
+      "president",
+      "un"
+    ],
+    "3":[
+      "lawmakers",
+      "lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "germany",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "un"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... said ... 's cutting ties"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "plans ... hold ... summit"
+    ],
+    "3":[
+      "expelled from <~leg>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "160"
+    ],
+    "1":[
+      "deu",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "igouno",
+      "040"
+    ],
+    "3":[
+      "---leg",
+      "---leg",
+      "174"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syrian-maternity-hospital-bombed_us_579b8dcee4b0693164c11b4f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/pope-francis-poland-refugees_us_579b8587e4b0e2e15eb5b14e"
+  },
+  "headline":{
+    "0":"Save The Children Says Syrian Maternity Hospital Bombed",
+    "1":"Pope Urges Youth In Poland To Welcome Refugees With A 'Merciful Heart'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"RELIGION"
+  },
+  "short_description":{
+    "0":"There was extensive damage to the building, which is the only maternity facility for about 70 miles.",
+    "1":"Pope Francis encouraged a crowd of more than 600,000 people to embrace those in need."
+  },
+  "authors":{
+    "0":"",
+    "1":"Philip Pullella & Wojciech Zurawski, Reuters"
+  },
+  "date":{
+    "0":"2016-07-29 00:00:00",
+    "1":"2016-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"frareb"
+  },
+  "actor2":{
+    "0":"syrhlh",
+    "1":"---ref"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"051"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "syrian",
+      "hospital",
+      "syrhlh",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "youth",
+      "frareb",
+      "gazteriak",
+      "refugees",
+      "~ref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "syrian ... hospital"
+    ],
+    "1":[
+      "youth",
+      "refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "syria"
+    ],
+    "1":[
+      "gazteriak",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "welcome"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "syrhlh",
+      "010"
+    ],
+    "1":[
+      "frareb",
+      "---ref",
+      "051"
+    ]
+  }
+}

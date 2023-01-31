@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-learning-school-without-teachers_us_5acfad69e4b077c89ce6a42f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/airlines-warned-strikes-syria_us_5acd55f3e4b09212968cbe26",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/reuters-journalists-detained-myanmar_us_5acdb522e4b0259339de9df8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/algerian-military-plane-crash_us_5acdd7bde4b09212968d3549"
+  },
+  "headline":{
+    "0":"Kentucky Is Learning That You Can't Have School Without Teachers",
+    "1":"Airlines Warned To Exercise Caution Ahead Of Possible Strikes In Syria",
+    "2":"Myanmar Judge Refuses To Dismiss Case Against 2 Jailed Reuters Reporters",
+    "3":"Report: Algerian Military Plane Crashes Near The Capital, Killing Over 250"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Dozens of school districts will close again as Kentucky teachers protest the \"dismantling\" of public education.",
+    "1":"Air traffic control agency Eurocontrol issued the warning in the eastern Mediterranean for the next 72 hours.",
+    "2":"\u201cWe are deeply disappointed with the court\u2019s decision,\" Reuters President and Editor-in-Chief Stephen J. Adler said.",
+    "3":"TV footage showed crowds gathering around the smoking and flaming wreckage near Boufarik airport southwest of Algiers."
+  },
+  "authors":{
+    "0":"Travis Waldron",
+    "1":"",
+    "2":"",
+    "3":"Hamid Ould Ahmed, Reuters"
+  },
+  "date":{
+    "0":"2018-04-12 00:00:00",
+    "1":"2018-04-11 00:00:00",
+    "2":"2018-04-11 00:00:00",
+    "3":"2018-04-11 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---bus",
+    "2":"mmrjud",
+    "3":"---med"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"syr",
+    "2":"---med",
+    "3":"dza"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190",
+    "2":"081",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":5.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "airlines",
+      "~bus",
+      "~",
+      "airlines",
+      "~bus",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "myanmar",
+      "judge",
+      "mmrjud",
+      "myanmar",
+      "~",
+      "reporters",
+      "~med",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "tv",
+      "~med",
+      "~",
+      "algiers",
+      "dza",
+      "algeria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kentucky",
+      "kentucky"
+    ],
+    "1":[
+      "airlines",
+      "syria"
+    ],
+    "2":[
+      "myanmar judge",
+      "reporters"
+    ],
+    "3":[
+      "tv",
+      "algiers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "syria"
+    ],
+    "2":[
+      "myanmar",
+      "---"
+    ],
+    "3":[
+      "---",
+      "algeria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "strikes"
+    ],
+    "2":[
+      "refuses ... dismiss case"
+    ],
+    "3":[
+      "showed ... gathering"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "---bus",
+      "syr",
+      "190"
+    ],
+    "2":[
+      "mmrjud",
+      "---med",
+      "081"
+    ],
+    "3":[
+      "---med",
+      "dza",
+      "040"
+    ]
+  }
+}

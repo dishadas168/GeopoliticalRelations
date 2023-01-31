@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/arkansas-church-kicks-out-young-gay-man-for-choosing-a-sinful-lifestyle_us_561d567ae4b0c5a1ce60c810",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/www.thedodo.com\/service-dog-mourns-his-human-lost-in-oregon-shooting-1398313737.html?utm_source=HuffPo"
+  },
+  "headline":{
+    "0":"Arkansas Church Kicks Out Young Gay Man For \u2018Choosing A Sinful Lifestyle\u2019",
+    "1":"Service Dog That Survived Oregon Shooting Grieves Its Owner"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"\"We will continue to pray for you and your family.\"",
+    "1":"The recent devastating school shooting in Oregon killed nine students and left their loves ones grieving \u2014 including one"
+  },
+  "authors":{
+    "0":"James Michael Nichols",
+    "1":""
+  },
+  "date":{
+    "0":"2015-10-13 00:00:00",
+    "1":"2015-10-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaedu"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "arkansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "usaedu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "arkansas",
+      "man"
+    ],
+    "1":[
+      "school",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['kicks',> <'out']>"
+    ],
+    "1":[
+      "<and> ... killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "174"
+    ],
+    "1":[
+      "usaedu",
+      "---edu",
+      "190"
+    ]
+  }
+}

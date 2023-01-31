@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/honey-boo-boo-house-tour_us_5b9cab99e4b03a1dcc80bbf7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sibling-rivalry-how-can-i_us_5b9cabd5e4b03a1dcc80be1a"
+  },
+  "headline":{
+    "0":"Honey Boo Boo's Mother June Shannon Gives A Tour Of The Family's Georgia Home (VIDEO)",
+    "1":"Sibling Rivalry: How Can I Make the Fighting Stop?"
+  },
+  "category":{
+    "0":"HOME & LIVING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"Her \"stockpile\" room is quite, um, impressive.",
+    "1":"It's natural that the mother lion in you roars when someone hurts one of your children, even if the offender is another one of your kids. But unless you address the underlying cause of your son's torments, things aren't likely to improve."
+  },
+  "authors":{
+    "0":"Amy Marturana",
+    "1":"Susan Stiffelman, Contributor\nAuthor of Parenting With Presence (and Eckhart Tolle edition) ..."
+  },
+  "date":{
+    "0":"2012-12-28 00:00:00",
+    "1":"2012-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"geo",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"180"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "georgia",
+      "geo",
+      "georgia"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "georgia"
+    ],
+    "1":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "georgia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "roars ... hurts"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "geo",
+      "060"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "180"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/taliban-nato-base-afghanistan_n_5518311.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/america-cant-bomb-its-way_b_5518313.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mitochondrial-disease-prevention_b_5511686.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/lessons-learned-on-work-life-balance_b_5510191.html"
+  },
+  "headline":{
+    "0":"NATO Air Base Hit By Taliban Rockets",
+    "1":"America Can't Bomb Its Way to Victory in Iraq",
+    "2":"Making Sense of Mitochondrial Disease Prevention by 'Three Parent IVF'",
+    "3":"Lessons Learned on Work-Life Balance"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"HEALTHY LIVING",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Some form of military intervention to stop ISIS from overrunning the country and to protect American assets may be inevitable, but the near singular focus on military intervention ignores what should be an obvious lesson of the past dozen years: the U.S. can't bomb its way to victory.",
+    "2":"The British approach to the novel implementation of mitochondrial replacement therapy, with extensive public involvement and careful, measured scientific review, may serve as an example for the United States and rest of the world.",
+    "3":"Remember to not let work or yourself get in the way when there is a time when a loved one really needs you. Women tend to think they can do it all, but that is not always the case in every situation in your life. It is OK to put work on the back burner during difficult seasons in your life."
+  },
+  "authors":{
+    "0":"",
+    "1":"Morris Davis, ContributorAttorney in Washington, D.C.",
+    "2":"Brandon J. Bankowski, M.D., ContributorPhysician, Oregon Reproductive Medicine",
+    "3":"Virginia Froehling, ContributorIT Analyst and Project Management skills with a B.S. Degree in..."
+  },
+  "date":{
+    "0":"2014-06-21 00:00:00",
+    "1":"2014-06-21 00:00:00",
+    "2":"2014-06-20 00:00:00",
+    "3":"2014-06-20 00:00:00"
+  },
+  "actor1":{
+    "0":"igowstnat",
+    "1":"usa",
+    "2":"gbr",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"afgreb",
+    "1":"irq",
+    "2":"usa",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"060",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":6.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "nato",
+      "igowstnat",
+      "nato",
+      "taliban",
+      "afgreb",
+      "taliban"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nato",
+      "taliban"
+    ],
+    "1":[
+      "america",
+      "iraq"
+    ],
+    "2":[
+      "british",
+      "the ... united states"
+    ],
+    "3":[
+      "women",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "nato",
+      "taliban"
+    ],
+    "1":[
+      "united states of america",
+      "iraq"
+    ],
+    "2":[
+      "united kingdom",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hit"
+    ],
+    "1":[
+      "ca ... bomb"
+    ],
+    "2":[
+      "may serve"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "named_terror_group",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "igowstnat",
+      "afgreb",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "irq",
+      "190"
+    ],
+    "2":[
+      "gbr",
+      "usa",
+      "060"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

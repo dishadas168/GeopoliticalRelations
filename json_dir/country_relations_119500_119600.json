@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/anti-gay-jonathan-saenz-ex-wife_n_5675090.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iran-abadi-khamenei_n_5674302.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/israel-gaza-civilian-deaths_b_5673023.html"
+  },
+  "headline":{
+    "0":"Anti-Gay Crusader's Wife Left Him... For A Woman",
+    "1":"Iran's Supreme Leader Backs Iraq's New Prime Minister",
+    "2":"Why It's Hard to Believe Israel's Claim That It Did Its Best to Minimize Civilian Deaths"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"I write this with great sorrow for civilians hurt on both sides. Sorrow for our soldiers who have fallen in this operation, and sorrow for the future of my country and the entire region. I know that as I write, soldiers like me have fired shells into Gaza. They had no way of knowing who or what they would hit. Faced with so many innocent casualties, it is time for us to state very clearly: this use of artillery fire is a deadly game of Russian roulette. The statistics, on which such firepower relies, mean that in densely populated areas such as Gaza, civilians will inevitably be hit as well. The IDF knows this, and as long as it continues to use such weaponry, it will be hard to believe when it claims to be minimizing civilian deaths. As a former soldier and an Israeli citizen, I feel compelled to ask today: have we not crossed a line?"
+  },
+  "authors":{
+    "0":"Cavan Sieczkowski",
+    "1":"",
+    "2":"Idan Barir, ContributorFormer Crew Commander, Israeli Artillery Corps"
+  },
+  "date":{
+    "0":"2014-08-13 00:00:00",
+    "1":"2014-08-13 00:00:00",
+    "2":"2014-08-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"irn",
+    "2":"---mil"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"irq",
+    "2":"psegza"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"050",
+    "2":"193"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":3.5,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "crusader",
+      "~opp",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "iran",
+      "irn",
+      "iran",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "soldiers",
+      "~mil",
+      "~",
+      "gaza",
+      "psegza",
+      "gaza"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "crusader",
+      "crusader",
+      "woman"
+    ],
+    "1":[
+      "iran",
+      "iraq"
+    ],
+    "2":[
+      "soldiers",
+      "gaza"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "iran",
+      "iraq"
+    ],
+    "2":[
+      "---",
+      "gaza"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "left ... for",
+      "left ... for"
+    ],
+    "1":[
+      "backs"
+    ],
+    "2":[
+      "have fired shells"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---opp",
+      "043",
+      "---opp",
+      "---cvl",
+      "042"
+    ],
+    "1":[
+      "irn",
+      "irq",
+      "050"
+    ],
+    "2":[
+      "---mil",
+      "psegza",
+      "193"
+    ]
+  }
+}

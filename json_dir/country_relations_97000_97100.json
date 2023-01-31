@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/exelons-nuclear-oops-washington-dc-resists-pepco-merger_b_7225084.html"
+  },
+  "headline":{
+    "0":"Exelon's Nuclear Oops: Washington D.C. Resists Pepco Merger"
+  },
+  "category":{
+    "0":"GREEN"
+  },
+  "short_description":{
+    "0":"Exelon's\u00a0ultimate goal:\u00a0Force Pepco's customers, including the people of Washington,\u00a0D.C., to subsidize Exelon's expensive nuclear power plants in other states. D.C. residents have until May 26 to submit comments to the Public Service Commission."
+  },
+  "authors":{
+    "0":"Connor Gibson, ContributorResearcher, Greenpeace USA"
+  },
+  "date":{
+    "0":"2015-05-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl"
+  },
+  "actor2":{
+    "0":"---govdev"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "d.c.",
+      "residents",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "public service commission",
+      "~govdev",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "d.c. residents",
+      "public service commission"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... submit"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---govdev",
+      "08"
+    ]
+  }
+}

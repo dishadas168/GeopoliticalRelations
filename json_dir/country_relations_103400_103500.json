@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-sniper_b_6710350.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/greece-and-europe-on-the-edge_b_6710366.html"
+  },
+  "headline":{
+    "0":"An American Tragedy",
+    "1":"Greece and Europe on the Edge"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Two Americans are dead and one is on trial for murder. I see so much pain and suffering. One of our most decorated soldiers was shot dead by another American soldier. Worse, it happened as he was trying to help another in his time of need.",
+    "1":"If Greece leaves Europe, the EU dream will be gone for good. Second, other European countries like Portugal, Spain and Ireland, also under the humiliations of debt, might imitate Greece and exit the EU. It's in the political interests of the U.S. to intervene decisively and prevent the break up of the Western world."
+  },
+  "authors":{
+    "0":"Henry Kang, ContributorEditor, TypeZen.com: 'Going with the Flow in a Type A World'",
+    "1":"Evaggelos Vallianatos, ContributorScholar and author of several books, including , \"Poison Sprin..."
+  },
+  "date":{
+    "0":"2015-02-19 00:00:00",
+    "1":"2015-02-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usamil",
+    "1":"prt"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"grc"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "soldiers",
+      "~mil",
+      "~",
+      "soldiers",
+      "~mil",
+      "~",
+      "american",
+      "soldier",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "portugal",
+      "spain",
+      "ireland",
+      "prt",
+      "esp",
+      "irl",
+      "portugal",
+      "spain",
+      "ireland",
+      "greece",
+      "grc",
+      "greece",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american soldier",
+      "soldiers"
+    ],
+    "1":[
+      "portugal",
+      "greece",
+      "spain",
+      "greece",
+      "ireland",
+      "greece"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "portugal",
+      "greece",
+      "spain",
+      "greece",
+      "ireland",
+      "greece"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~mil> ... shot ... by <usamil>"
+    ],
+    "1":[
+      "might imitate",
+      "might imitate",
+      "might imitate"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamil",
+      "---mil",
+      "190"
+    ],
+    "1":[
+      "prt",
+      "grc",
+      "010",
+      "esp",
+      "grc",
+      "010",
+      "irl",
+      "grc",
+      "010"
+    ]
+  }
+}

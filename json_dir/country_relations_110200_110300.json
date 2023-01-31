@@ -1,0 +1,132 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dont-turn-your-back-on-di_b_6226454.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/american-university-puts-_b_6229120.html"
+  },
+  "headline":{
+    "0":"Don't Turn Your Back on Disorder",
+    "1":"American University Puts Fossil Fuel Industry Over Students"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"As the police profession and our greater society deal with ways to rebuild (and in many cases build) relationships between the police and its citizenry, I fear that if outsider reformers call for police to ignore disorderly offenses the chasm between the police and the community will only widen.",
+    "1":"On November 21, 2014, the Board of Trustees of American University voted in favor of supporting climate destruction, refusing to divest its $550 million endowment from the fossil fuel industry and placing American University firmly on the wrong side of history."
+  },
+  "authors":{
+    "0":"Dr. Michael J. Jenkins, ContributorAssistant Professor, University of Scranton",
+    "1":"Julian Gomez, ContributorImmigration Activist"
+  },
+  "date":{
+    "0":"2014-12-01 00:00:00",
+    "1":"2014-12-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usaedu"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usabusedu"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"031"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":5.2
+  },
+  "nouns":{
+    "0":[
+      "reformers",
+      "~opp",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "community",
+      "~copcvl",
+      "~",
+      "~",
+      "police",
+      "community",
+      "~copcvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "american",
+      "university",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "industry",
+      "american",
+      "university",
+      "usabusedu",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "reformers",
+      "police"
+    ],
+    "1":[
+      "american university",
+      "industry ... american university"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "call for"
+    ],
+    "1":[
+      "voted in favor"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "4"
+    ],
+    "1":[
+      "postsecondary_education",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cop",
+      "020"
+    ],
+    "1":[
+      "usaedu",
+      "usabusedu",
+      "031"
+    ]
+  }
+}

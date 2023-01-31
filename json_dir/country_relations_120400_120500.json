@@ -1,0 +1,124 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/polish-foreign-minister-nato_n_5645796.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/arab-americans-and-americ_b_5644041.html"
+  },
+  "headline":{
+    "0":"Polish Foreign Minister: We Need More NATO Troops -- Sanctions Against Russia Are Not Enough",
+    "1":"Arab Americans and American Muslims Are at Risk"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"This past week the Arab American Institute (AAI) released its third biannual poll of American attitudes toward Arabs and Muslims. Conducted by Zogby Analytics, 1100 likely voters were surveyed nationwide. The results were deeply troubling."
+  },
+  "authors":{
+    "0":"",
+    "1":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'"
+  },
+  "date":{
+    "0":"2014-08-03 00:00:00",
+    "1":"2014-08-02 00:00:00"
+  },
+  "actor1":{
+    "0":"polgov",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"igowstnatmil",
+    "1":"usamus"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"084"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "polish",
+      "foreign minister",
+      "polgov",
+      "poland",
+      "~",
+      "nato",
+      "troops",
+      "igowstnatmil",
+      "nato",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "muslims",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "polish foreign minister",
+      "nato troops"
+    ],
+    "1":[
+      "american",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "poland",
+      "nato"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "released"
+    ]
+  },
+  "issues":{
+    "0":[
+      "sanctions",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "polgov",
+      "igowstnatmil",
+      "100"
+    ],
+    "1":[
+      "usa",
+      "usamus",
+      "084"
+    ]
+  }
+}

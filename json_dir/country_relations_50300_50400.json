@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-fbi-election_us_58275811e4b060adb56eac26",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michael-mcfaul-banned-from-entering-russia_us_58272ae9e4b0c4b63b0cd9ab"
+  },
+  "headline":{
+    "0":"Hillary Clinton Says FBI Swung The Election Outcome",
+    "1":"Ex-U.S. Ambassador To Moscow Says He Is Banned From Entering Russia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"She says the second letter was even more damaging than the first one.",
+    "1":"Russian news agencies were told McFaul had been added to a sanctions list."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":""
+  },
+  "date":{
+    "0":"2016-11-12 00:00:00",
+    "1":"2016-11-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "ambassador",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "fbi"
+    ],
+    "1":[
+      "ambassador",
+      "ambassador"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "says <~gov> ... banned from <--->"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usacop",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "172"
+    ]
+  }
+}

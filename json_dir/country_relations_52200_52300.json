@@ -1,0 +1,311 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gay-couple-supporting-trump_us_580a259de4b02444efa2d5e5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/virginia-felons-voting-rights_us_5809292fe4b000d0b155b2cc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/duterte-separation_us_5809f86fe4b02444efa2b0ea",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mosul-offensive-isis-response_us_5809e9bfe4b02444efa2ae47",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mosul-offensive-isis-response_us_5809e9bfe4b02444efa2ae47",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/warship-south-china-sea_us_580a375fe4b0cdea3d87071e",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/bat-reynolds-american-merger-deal_us_5809c273e4b02444efa2a75d"
+  },
+  "headline":{
+    "0":"Gay Couple Say They've Received Death Threats For Supporting Trump",
+    "1":"67,000 Virginia Ex-Felons Just Got Their Voting Rights Back. This Man Wants To Make Sure They Keep Them.",
+    "2":"Duterte Didn't Really Mean 'Separation' From U.S., Philippine Officials Say",
+    "3":"Islamic State Retaliates As Iraqi Forces Push On Mosul",
+    "4":"Islamic State Retaliates As Iraqi Forces Push On Mosul",
+    "5":"U.S. Warship Challenges China's Claims In South China Sea: Officials",
+    "6":"British American Tobacco Offers To Buy Reynolds American For $47 Billion"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The men even said one person told them to drink bleach.",
+    "1":"If voting doesn't matter, then \"why did they make it so hard?\"",
+    "2":"The Philippines will maintain trade and economic ties with the United States and the West, Trade Minister Ramon Lopez said",
+    "3":"The terror group's assault on Kirkuk killed six members of the security forces and two Iranians who were part of a team carrying out maintenance at a power station outside the city.",
+    "4":"The terror group's assault on Kirkuk killed six members of the security forces and two Iranians who were part of a team carrying out maintenance at a power station outside the city.",
+    "5":"The guided-missile destroyer USS Decatur challenged \u201cexcessive maritime claims\u201d near the Paracel Islands",
+    "6":"The move would bring together Newport, Kent and Pall Mall cigarettes in the world\u2019s biggest listed tobacco company."
+  },
+  "authors":{
+    "0":"Curtis M. Wong",
+    "1":"Laura Barr\u00f3n-L\u00f3pez, Amber Ferguson, and Sam Levine",
+    "2":"",
+    "3":"By Maher Chmaytelli, Reuters",
+    "4":"By Maher Chmaytelli, Reuters",
+    "5":"",
+    "6":""
+  },
+  "date":{
+    "0":"2016-10-21 00:00:00",
+    "1":"2016-10-21 00:00:00",
+    "2":"2016-10-21 00:00:00",
+    "3":"2016-10-21 00:00:00",
+    "4":"2016-10-21 00:00:00",
+    "5":"2016-10-21 00:00:00",
+    "6":"2016-10-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"phl",
+    "3":"---mus",
+    "4":"irq",
+    "5":"usamil",
+    "6":"gbr"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"usa",
+    "3":"irq",
+    "4":"---mil",
+    "5":"chn",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"050",
+    "3":"100",
+    "4":"190",
+    "5":"110",
+    "6":"0311"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":3.5,
+    "3":-5.0,
+    "4":-10.0,
+    "5":-2.0,
+    "6":5.2
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "philippines",
+      "phl",
+      "philippines",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "islamic",
+      "~mus",
+      "~",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "4":[
+      "kirkuk",
+      "irq",
+      "iraq",
+      "security forces",
+      "~mil",
+      "~",
+      "security forces",
+      "~mil",
+      "~"
+    ],
+    "5":[
+      "u.s.",
+      "warship",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "china",
+      "chn",
+      "china",
+      "china",
+      "chn",
+      "china"
+    ],
+    "6":[
+      "british",
+      "american",
+      "gbr",
+      "usa",
+      "united",
+      "kingdom",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "men"
+    ],
+    "1":[
+      "man",
+      "man"
+    ],
+    "2":[
+      "philippines",
+      "the ... united states"
+    ],
+    "3":[
+      "islamic",
+      "mosul"
+    ],
+    "4":[
+      "kirkuk",
+      "security forces"
+    ],
+    "5":[
+      "u.s. warship",
+      "china"
+    ],
+    "6":[
+      "british",
+      "american",
+      "american",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "philippines",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "iraq"
+    ],
+    "4":[
+      "iraq",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "china"
+    ],
+    "6":[
+      "united kingdom",
+      "united states of america",
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... told"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "will maintain ... ties"
+    ],
+    "3":[
+      "push"
+    ],
+    "4":[
+      "killed"
+    ],
+    "5":[
+      "challenges"
+    ],
+    "6":[
+      "offers ... buy",
+      "offers ... buy"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "retaliation",
+      "1"
+    ],
+    "4":[
+      "security_services",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "phl",
+      "usa",
+      "050"
+    ],
+    "3":[
+      "---mus",
+      "irq",
+      "100"
+    ],
+    "4":[
+      "irq",
+      "---mil",
+      "190"
+    ],
+    "5":[
+      "usamil",
+      "chn",
+      "110"
+    ],
+    "6":[
+      "gbr",
+      "usa",
+      "0311",
+      "usa",
+      "usa",
+      "0311"
+    ]
+  }
+}

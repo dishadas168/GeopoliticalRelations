@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hail-big-mac-the-lord-is-with-thee_us_5953bd80e4b0f078efd98650",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rick-perry-climate-change-trump_us_5952b08ee4b05c37bb7a0e6b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/immigrants-limbo-travel-ban_us_5952dac5e4b02734df2e50ac"
+  },
+  "headline":{
+    "0":"Hail, Big Mac, The Lord Is With Thee",
+    "1":"Rick Perry Joins List Of Officials Who Won't Say If Trump Believes In Climate Change",
+    "2":"Some Would-Be Immigrants Are Lost In Limbo After Supreme Court Reverses Travel Ban Order"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Did you know that the fabric of the American family is being torn asunder by a McDonald\u2019s french fry box? Well, it is! -- according",
+    "1":"But the Energy secretary calls for an \"intellectual conversation\" on global warming.",
+    "2":"Monday's SCOTUS ruling has led to confusion and anxiety among some immigrant groups."
+  },
+  "authors":{
+    "0":"Domenick Scudera, ContributorProfessor of Theater, Ursinus College",
+    "1":"Chris D'Angelo",
+    "2":""
+  },
+  "date":{
+    "0":"2017-06-28 00:00:00",
+    "1":"2017-06-27 00:00:00",
+    "2":"2017-06-27 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"---gov",
+    "2":"usagovjud"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---edu",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"020",
+    "2":"042"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":3.0,
+    "2":1.9
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "french",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "energy secretary",
+      "~gov",
+      "~",
+      "intellectual",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "scotus",
+      "usagovjud",
+      "united",
+      "states",
+      "supreme",
+      "court",
+      "immigrant",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "french",
+      "american"
+    ],
+    "1":[
+      "energy secretary",
+      "intellectual"
+    ],
+    "2":[
+      "scotus",
+      "immigrant"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states supreme court",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usa> ... torn ... by <fra>"
+    ],
+    "1":[
+      "calls for"
+    ],
+    "2":[
+      "has led to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "climate_change",
+      "1"
+    ],
+    "2":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "usa",
+      "180"
+    ],
+    "1":[
+      "---gov",
+      "---edu",
+      "020"
+    ],
+    "2":[
+      "usagovjud",
+      "---cvl",
+      "042"
+    ]
+  }
+}

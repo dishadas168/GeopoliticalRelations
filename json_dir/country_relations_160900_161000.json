@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/this-mothers-day-i-say-th_us_5b9d2736e4b03a1dcc84f2a6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/this-mothers-day-i-say-th_us_5b9d2736e4b03a1dcc84f2a6"
+  },
+  "headline":{
+    "0":"This Mother's Day I Say Thank You to My Children for Choosing Me to Be Their Mom",
+    "1":"This Mother's Day I Say Thank You to My Children for Choosing Me to Be Their Mom"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"This Mother's Day I want to say thank you to my children for never giving up on me and for encouraging and inspiring me to follow my heart.",
+    "1":"This Mother's Day I want to say thank you to my children for never giving up on me and for encouraging and inspiring me to follow my heart."
+  },
+  "authors":{
+    "0":"Trina Hayes, Contributor\nContributor",
+    "1":"Trina Hayes, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2013-05-11 00:00:00",
+    "1":"2013-05-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"051"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":3.4
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "mother",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ],
+    "1":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "thank"
+    ],
+    "1":[
+      "thank"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ]
+  }
+}

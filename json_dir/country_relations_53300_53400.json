@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hurricane-matthew-rescue_us_57fa4c03e4b068ecb5df4bb1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-donald-trump-sexual-assault_us_57f957ffe4b0b6a43032de91"
+  },
+  "headline":{
+    "0":"Watch Police Rescue Mother And Toddler Trapped In Hurricane Matthew Flooding",
+    "1":"Joe Biden Says Trump's Comments About Women Were 'Sexual Assault'"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Authorities in the area say they have made over 200 swift water rescues during the storm.",
+    "1":"Well said, Joe."
+  },
+  "authors":{
+    "0":"Steven Hoffer",
+    "1":"Sam Levine"
+  },
+  "date":{
+    "0":"2016-10-09 00:00:00",
+    "1":"2016-10-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "police"
+    ],
+    "1":[
+      "joe biden",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "joe biden",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "watch"
+    ],
+    "1":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "natural_disaster",
+      "2"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cop",
+      "010"
+    ],
+    "1":[
+      "usagov",
+      "---cvl",
+      "010"
+    ]
+  }
+}

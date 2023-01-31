@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/louisiana-parish-vip-voters_us_5813705be4b064e1b4b1ef18",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-fbi-email_us_5813dbe4e4b0990edc316dd3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mother-of-pulse-nightclub-victim-speaks-out-for-hillary-clinton_us_5813813ce4b0390e69cfc8af"
+  },
+  "headline":{
+    "0":"Louisiana Parish's 'VIP' Voting Machine Allowed Some People To Skip Lines",
+    "1":"Hillary Clinton Demands FBI Release Any Information It Has On New Email Investigation",
+    "2":"Mother Of Pulse Nightclub Victim Speaks Out For Hillary Clinton"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The setup was intended to benefit those whose time was \"more valuable than others'.\"",
+    "1":"\u201cThe American people deserve to get the full and complete facts immediately.\u201d",
+    "2":"\"We have to continue moving forward as an inclusive society.\""
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Sam Stein",
+    "2":"James Michael Nichols"
+  },
+  "date":{
+    "0":"2016-10-28 00:00:00",
+    "1":"2016-10-28 00:00:00",
+    "2":"2016-10-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaeli",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usacop",
+    "2":"usaeli"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"100",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "louisiana",
+      "people"
+    ],
+    "1":[
+      "hillary clinton",
+      "fbi"
+    ],
+    "2":[
+      "mother",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "federal bureau of investigation"
+    ],
+    "2":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allowed"
+    ],
+    "1":[
+      "demands"
+    ],
+    "2":[
+      "speaks"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "08"
+    ],
+    "1":[
+      "usaeli",
+      "usacop",
+      "100"
+    ],
+    "2":[
+      "---cvl",
+      "usaeli",
+      "010"
+    ]
+  }
+}

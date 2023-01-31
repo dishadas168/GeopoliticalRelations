@@ -1,0 +1,226 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/five-presidents-one-america-appeal-benefit-concert-hurricane-relief_us_59ec5fcee4b0a484d063c7ff",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/five-presidents-one-america-appeal-benefit-concert-hurricane-relief_us_59ec5fcee4b0a484d063c7ff",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/california-wildfires-pets-animals-reunions_us_59ed0ffee4b0a484d063f434",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/scores-killed-in-shootout-near-cairo_us_59eb4589e4b00f08619f1f87",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/bill-maher-russia-america-attacks-fight-back_us_59eaf0cce4b0a484d06373cc"
+  },
+  "headline":{
+    "0":"All 5 Living Former U.S. Presidents Gathered In Texas To Raise Money For Hurricane Victims",
+    "1":"All 5 Living Former U.S. Presidents Gathered In Texas To Raise Money For Hurricane Victims",
+    "2":"Pets And People Are Joyously Reuniting After California Wildfires",
+    "3":"Scores Killed In Shootout Near Cairo",
+    "4":"Bill Maher: America 'Really Should Fight Back' Against Russian Attacks"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"IMPACT",
+    "2":"GREEN",
+    "3":"WORLD NEWS",
+    "4":"COMEDY"
+  },
+  "short_description":{
+    "0":"The former presidents came together to attend the \"One America Appeal\" benefit concert. The fund has raised $31 million to date.",
+    "1":"The former presidents came together to attend the \"One America Appeal\" benefit concert. The fund has raised $31 million to date.",
+    "2":"Many people tried to take pets with them, but the animals bolted in the chaos of the fires.",
+    "3":"Egypt is battling an Islamist insurgency concentrated in the Sinai peninsula.",
+    "4":"\"We stopped fighting the Cold War, but the Russians never did.\""
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Dominique Mosbergen",
+    "2":"Hilary Hanson",
+    "3":"",
+    "4":"Lee Moran"
+  },
+  "date":{
+    "0":"2017-10-22 00:00:00",
+    "1":"2017-10-22 00:00:00",
+    "2":"2017-10-22 00:00:00",
+    "3":"2017-10-21 00:00:00",
+    "4":"2017-10-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"---ppl",
+    "3":"egy",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"---musreb",
+    "4":"rus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"042",
+    "2":"171",
+    "3":"190",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.9,
+    "2":-9.2,
+    "3":-10.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "presidents",
+      "~gov",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "former presidents",
+      "~eli",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "egypt",
+      "egy",
+      "egypt",
+      "islamist",
+      "insurgency",
+      "~musreb",
+      "~",
+      "~",
+      "sinai peninsula",
+      "egy",
+      "egypt",
+      "islamist",
+      "insurgency",
+      "~musreb",
+      "~",
+      "~"
+    ],
+    "4":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "presidents",
+      "victims"
+    ],
+    "1":[
+      "former presidents",
+      "america"
+    ],
+    "2":[
+      "people",
+      "people"
+    ],
+    "3":[
+      "egypt",
+      "islamist insurgency"
+    ],
+    "4":[
+      "america",
+      "russian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "egypt",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gathered"
+    ],
+    "1":[
+      "came ... attend"
+    ],
+    "2":[
+      "tried ... take"
+    ],
+    "3":[
+      "is battling"
+    ],
+    "4":[
+      "should <['fight',> <'back']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---eli",
+      "usa",
+      "042"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "171"
+    ],
+    "3":[
+      "egy",
+      "---musreb",
+      "190"
+    ],
+    "4":[
+      "usa",
+      "rus",
+      "190"
+    ]
+  }
+}

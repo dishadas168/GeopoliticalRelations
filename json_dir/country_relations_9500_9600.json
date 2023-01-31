@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/connecticut-national-popular-vote-compact-electoral-college_us_5af025c0e4b041fd2d287c79",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-tracee-ellis-ross-united-state-of-women-summit_us_5aef555ce4b041fd2d27e926",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/female-preacher-speaks-up-about-misogyny-shes-faced-in-evangelical-circles_us_5aeb7f33e4b0c4f193207bb2"
+  },
+  "headline":{
+    "0":"Connecticut To Give Its Electoral College Votes To National Popular Vote Victor",
+    "1":"Michelle Obama Explains Why People Shouldn't Look To Her To Run For Office",
+    "2":"Preacher Speaks Up About The Misogyny She's Faced In Evangelical Circles"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"Connecticut would join 10 other states and the District of Columbia in the National Popular Vote Interstate Compact.",
+    "1":"\"It is not finding the one right person that we think can save us from ourselves. It\u2019s us.\"",
+    "2":"Beth Moore started an important conversation about sexism in the church, and dozens of women are chiming in to support her."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Doha Madani",
+    "2":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2018-05-07 00:00:00",
+    "1":"2018-05-06 00:00:00",
+    "2":"2018-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"050"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":3.5
+  },
+  "nouns":{
+    "0":[
+      "connecticut",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "district of columbia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "connecticut",
+      "connecticut"
+    ],
+    "1":[
+      "obama",
+      "people"
+    ],
+    "2":[
+      "women",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would join"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "are ... support"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "---ppl",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ]
+  }
+}

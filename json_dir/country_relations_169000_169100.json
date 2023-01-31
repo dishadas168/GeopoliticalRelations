@@ -1,0 +1,81 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/teacher-pretends-shoot-students-odyssey-school-georgia_us_5b9cd3f2e4b03a1dcc823321"
+  },
+  "headline":{
+    "0":"Teacher Pretends To Shoot Students, Gets Suspended From Georgia's Odyssey School"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"The teacher, identified by the Times-Herald as Mariano Pacetti, \"exercised bad judgment,\" Odyssey School director Andy Geeter"
+  },
+  "authors":{
+    "0":"Ron Dicker"
+  },
+  "date":{
+    "0":"2013-02-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "teacher",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "georgia",
+      "school",
+      "geoedu",
+      "georgia",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pretends ... shoot"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "190"
+    ]
+  }
+}

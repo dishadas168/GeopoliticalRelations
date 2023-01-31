@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jailed-activist-hacker-hunger-strike_us_58337736e4b058ce7aac9e0c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-network-anchors-meeting_us_583333f6e4b058ce7aac3fc0"
+  },
+  "headline":{
+    "0":"Jailed Activist Hacker Says He\u2019s Being Punished For His Hunger Strike",
+    "1":"Donald Trump Met Privately With Network Executives And Anchors"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA"
+  },
+  "short_description":{
+    "0":"Martin Gottesfeld says he's been placed in solitary confinement and is barred from placing calls to his family and attorneys.",
+    "1":"The president-elect reportedly scolded the media for its coverage and discussed access concerns."
+  },
+  "authors":{
+    "0":"Matt Ferner and Ryan Grim",
+    "1":"Michael Calderone"
+  },
+  "date":{
+    "0":"2016-11-22 00:00:00",
+    "1":"2016-11-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"111"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "activist",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activist",
+      "activist"
+    ],
+    "1":[
+      "president",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~opp> ... punished"
+    ],
+    "1":[
+      "<and> ... scolded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---opp",
+      "170"
+    ],
+    "1":[
+      "---gov",
+      "---med",
+      "111"
+    ]
+  }
+}

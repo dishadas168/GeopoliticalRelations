@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-moves-nuclear-capable-missiles-into-kaliningrad-enclave_us_57f95c70e4b0b6a43032e2bf"
+  },
+  "headline":{
+    "0":"Russia Moves Nuclear-Capable Missiles Into Kaliningrad Enclave"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"A U.S. intelligence official suggested the move could be a gesture to express displeasure with NATO."
+  },
+  "authors":{
+    "0":"Dmitry Solovyov and Andrius Sytas, Reuters"
+  },
+  "date":{
+    "0":"2016-10-08 00:00:00"
+  },
+  "actor1":{
+    "0":"rus"
+  },
+  "actor2":{
+    "0":"rus"
+  },
+  "event_code":{
+    "0":"154"
+  },
+  "goldstein_score":{
+    "0":-7.2
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "kaliningrad",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "moves <&weapon>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "rus",
+      "154"
+    ]
+  }
+}

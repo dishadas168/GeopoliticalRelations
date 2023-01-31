@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-trendy-st-petersburg-pa_us_5b9d8acfe4b03a1dcc894f61"
+  },
+  "headline":{
+    "0":"A Trendy St. Petersburg Park -- Courtesy of a Shadowy Benefactor"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Back in the 1990s when the Soviet Union collapsed, the ownership of Russia passed from the state to the people through a"
+  },
+  "authors":{
+    "0":"Rick Steves, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2013-09-24 00:00:00"
+  },
+  "actor1":{
+    "0":"rus"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "passed"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "---ppl",
+      "08"
+    ]
+  }
+}

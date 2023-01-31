@@ -1,0 +1,127 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/extreme-weather-photos_us_5bb13d2fe4b09bbe9a5d0140",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/curtis-dressman-jail_us_5ba2ace6e4b0c2784da41d99"
+  },
+  "headline":{
+    "0":"Extreme Weather Photos Of The Week",
+    "1":"Curtis Dressman Beating In Sound-Proof Jail Cell Will 'Probably' Cost Nashville $530,000: Report"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"This week brought several big headlines in extreme weather news: Hundreds of residents were evacuated from Northern Iowa",
+    "1":"Curtis Dressman, a 23-year-old student at Xavier University in Cincinnati, sued the city and county government for the beating"
+  },
+  "authors":{
+    "0":"",
+    "1":"Ron Dicker"
+  },
+  "date":{
+    "0":"2013-06-30 00:00:00",
+    "1":"2013-06-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaedu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "residents",
+      "~cvl",
+      "~",
+      "residents",
+      "~cvl",
+      "~",
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "cincinnati",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~",
+      "student",
+      "usaedu",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iowa",
+      "residents"
+    ],
+    "1":[
+      "university",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~cvl> ... evacuated from <usa>"
+    ],
+    "1":[
+      "sued ... for"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "usaedu",
+      "---gov",
+      "173"
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/immigration-benefitsanoth_b_5631142.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-men-talk-more_n_5591454.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bill-weir-climate-change-denier-tweet-fucksticks_n_5638080.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/john-boehner-harry-reid_n_5638318.html"
+  },
+  "headline":{
+    "0":"Immigration Benefits for Sons and Daughters of New Permanent Residents: Another Setback",
+    "1":"Women Don't Actually Talk More Than Men",
+    "2":"You Won't Believe What This CNN Host Said About Fox Website",
+    "3":"John Boehner Calls Harry Reid's Idea 'Nutso'"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"WOMEN",
+    "2":"MEDIA",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The U.S. Supreme Court recently restricted the use of the Child Status Protection Act so that certain children who turned 21 before their parent received a green card would have to go to the back of the line and start their wait all over again!",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "authors":{
+    "0":"Jan H. Brown, ContributorImmigration lawyer",
+    "1":"Amanda Duberman",
+    "2":"Catherine Taibi",
+    "3":"Elise Foley"
+  },
+  "date":{
+    "0":"2014-08-01 00:00:00",
+    "1":"2014-07-31 00:00:00",
+    "2":"2014-07-31 00:00:00",
+    "3":"2014-07-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usajud",
+    "1":"---cvl",
+    "2":"med",
+    "3":"usagovleg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"---med",
+    "3":"usagovleg"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"010",
+    "2":"010",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "supreme court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "cnn",
+      "med",
+      "cnn",
+      "website",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "john boehner",
+      "usagovleg",
+      "john",
+      "boehner",
+      "harry reid",
+      "usagovleg",
+      "harry",
+      "reid"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. supreme court",
+      "child"
+    ],
+    "1":[
+      "women",
+      "men"
+    ],
+    "2":[
+      "cnn",
+      "website"
+    ],
+    "3":[
+      "john boehner",
+      "john boehner"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "cnn",
+      "---"
+    ],
+    "3":[
+      "john boehner",
+      "john boehner"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "restricted"
+    ],
+    "1":[
+      "do ... talk"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usajud",
+      "---cvl",
+      "170"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "010"
+    ],
+    "2":[
+      "med",
+      "---med",
+      "010"
+    ],
+    "3":[
+      "usagovleg",
+      "usagovleg",
+      "041",
+      "usagovleg",
+      "usagovleg",
+      "041"
+    ]
+  }
+}

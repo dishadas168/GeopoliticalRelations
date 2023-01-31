@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/we-need-to-talk-about-cold-women_us_598181dae4b09d231a518294",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/offshore-wind-massachusetts_us_59820268e4b02b36343fa4be",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/los-angeles-2028-olympic-games-trevor-noah_us_598178c3e4b0353fbb3378dd",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/alabama-abortion-law-minors_us_597f6b83e4b02a4ebb7750da",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/www.huffingtonpost.com.au\/2017\/07\/30\/heres-how-australia-can-get-marriage-equality-in-just-weeks_a_23057006\/"
+  },
+  "headline":{
+    "0":"We Need To Talk About Cold Women",
+    "1":"The Booming Wind Energy Industry Might Finally Break Its Massachusetts Hex",
+    "2":"Trevor Noah Hilariously Predicts How The Los Angeles 2028 Olympics Could Go Down",
+    "3":"Alabama Minors Seeking Abortions No Longer Have To Face Their Fetuses' Lawyers In Court",
+    "4":"Here's How Australia Can Get Marriage Equality In Just Weeks"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"COMEDY",
+    "3":"WOMEN",
+    "4":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Women and our warmth will not be dictated by people\u2019s bias, discomfort, or moral judgment.",
+    "1":"A new offshore wind farm could bring jobs to New England\u2019s struggling fishermen.",
+    "2":"\u201cThe entire Chinese Olympic team is going to be played by white actors.\"",
+    "3":"Yes, that was a thing.",
+    "4":"Three renegade Liberal MPs have revived the hopes for marriage equality to be resolved by a free vote in federal parliament"
+  },
+  "authors":{
+    "0":"Maria Siasiakis, Contributorgreek\/ school psych\/ feminist\/ nerd\/ cylon, maybe",
+    "1":"Alexander C. Kaufman",
+    "2":"Lee Moran",
+    "3":"Hayley Miller",
+    "4":""
+  },
+  "date":{
+    "0":"2017-08-02 00:00:00",
+    "1":"2017-08-02 00:00:00",
+    "2":"2017-08-02 00:00:00",
+    "3":"2017-08-01 00:00:00",
+    "4":"2017-08-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"---eli",
+    "3":"usa",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"chn",
+    "3":"---jud",
+    "4":"---leg"
+  },
+  "event_code":{
+    "0":"121",
+    "1":"190",
+    "2":"040",
+    "3":"040",
+    "4":"035"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-10.0,
+    "2":1.0,
+    "3":1.0,
+    "4":7.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "massachusetts",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "chinese",
+      "chn",
+      "china",
+      "actors",
+      "~eli",
+      "~"
+    ],
+    "3":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "lawyers",
+      "~jud",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "mps",
+      "~leg",
+      "~",
+      "parliament",
+      "~leg",
+      "~",
+      "parliament",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "women"
+    ],
+    "1":[
+      "industry",
+      "massachusetts"
+    ],
+    "2":[
+      "actors",
+      "chinese"
+    ],
+    "3":[
+      "alabama",
+      "lawyers"
+    ],
+    "4":[
+      "mps",
+      "mps"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "china"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~cvl>"
+    ],
+    "1":[
+      "might ... break"
+    ],
+    "2":[
+      "<chn> ... going ... played by <~eli>"
+    ],
+    "3":[
+      "have ... face"
+    ],
+    "4":[
+      "revived ... resolved by <~leg>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "121"
+    ],
+    "1":[
+      "---bus",
+      "usa",
+      "190"
+    ],
+    "2":[
+      "---eli",
+      "chn",
+      "040"
+    ],
+    "3":[
+      "usa",
+      "---jud",
+      "040"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "035"
+    ]
+  }
+}

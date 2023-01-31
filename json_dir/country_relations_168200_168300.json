@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/disneys-princess-half-marathon-blow-off-steam_us_5b9cd885e4b03a1dcc825de0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-price-of-gasoline-and_us_5bb2e9a1e4b0480ca65e96c8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/5-destinations-oscar-2013_us_5b9cd8f9e4b03a1dcc82658e"
+  },
+  "headline":{
+    "0":"Where To Blow Off Steam In Walt Disney World (PHOTOS)",
+    "1":"The Price of Gasoline and the Patently Absurd Application of Our Sovereign Immunity Law",
+    "2":"5 Destinations Showcased In Oscar-Nominated Films"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"BUSINESS",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Most people think of a Disney vacation as one of non-stop action. Whether it's spending hours in line, shopping 'til you",
+    "1":"We have an anomaly in our courts, irresponsibly supported by the executive and legislative branches of our government, in the manner that our courts interpret Sovereign Immunity and, in turn, its impact on our day to day lives.",
+    "2":"It is the time of year movie-buffs can't wait for, the run-up to the Oscars. Travelers can also delight in visiting the enchanting corners of the earth that this year's greatest films inspired us to visit."
+  },
+  "authors":{
+    "0":"",
+    "1":"Raymond J. Learsy, Contributor\nAuthor",
+    "2":"trivago.com, Contributor\nEmpowering 120+ million monthly travelers to find their ideal ..."
+  },
+  "date":{
+    "0":"2013-02-24 00:00:00",
+    "1":"2013-02-24 00:00:00",
+    "2":"2013-02-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---jud",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"050",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.5,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "disney",
+      "mncusa",
+      "disney"
+    ],
+    "1":[
+      "courts",
+      "~jud",
+      "~",
+      "courts",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "travelers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "disney"
+    ],
+    "1":[
+      "courts",
+      "government"
+    ],
+    "2":[
+      "travelers",
+      "travelers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "disney"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ],
+    "1":[
+      "supported"
+    ],
+    "2":[
+      "can ... inspired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "mncusa",
+      "040"
+    ],
+    "1":[
+      "---jud",
+      "---gov",
+      "050"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ]
+  }
+}

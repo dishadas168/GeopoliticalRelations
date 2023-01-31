@@ -1,0 +1,134 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/research-paper-isis-turke_b_6128950.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/foeign-aid-to-create-jobs_b_6126616.html"
+  },
+  "headline":{
+    "0":"Research Paper: ISIS-Turkey Links",
+    "1":"Foreign Aid to Create Jobs"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Is Turkey collaborating with the Islamic State (ISIS)? Allegations range from military cooperation and weapons transfers to logistical support, financial assistance, and the provision of medical services.",
+    "1":"U.S. jobs, revenue growth, living standards, and prosperity are dependent upon the expansion of markets and demand. While innovation creates its own global markets (especially in advanced nations), the developing countries in South America, the Middle East, Southeast Asia, Indonesia, and Russia offer the greatest trade growth potential."
+  },
+  "authors":{
+    "0":"David L. Phillips, ContributorDirector of the Program on Peace-building and Rights, Columbia...",
+    "1":"Harry L. Langer, ContributorRetired commercial-real-estate entrepreneur"
+  },
+  "date":{
+    "0":"2014-11-09 00:00:00",
+    "1":"2014-11-08 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"idn"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "tur",
+      "turkey",
+      "the islamic state",
+      "isis",
+      "imgmusisi",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "america",
+      "indonesia",
+      "russia",
+      "usa",
+      "idn",
+      "rus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "indonesia",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkey",
+      "the islamic state"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "the islamic state"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "collaborating"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "imgmusisi",
+      "050",
+      "tur",
+      "imgmusisi",
+      "050"
+    ],
+    "1":[
+      "usa",
+      "idn",
+      "030",
+      "usa",
+      "rus",
+      "030",
+      "idn",
+      "usa",
+      "030",
+      "idn",
+      "rus",
+      "030",
+      "rus",
+      "usa",
+      "030",
+      "rus",
+      "idn",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/apps-and-games-for-kids_us_5b9d3c80e4b03a1dcc85c7f1"
+  },
+  "headline":{
+    "0":"14 Apps and Games to Make Summer Days Fun for Kids"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Whether they want to write code for a video game or make an origami crane, children can explore their creative side with these 14 apps, games and websites we love."
+  },
+  "authors":{
+    "0":"Common Sense Media, Contributor\nWe rate, educate, and advocate for kids, families, and schools."
+  },
+  "date":{
+    "0":"2013-06-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "websites",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "websites"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can explore"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "090"
+    ]
+  }
+}

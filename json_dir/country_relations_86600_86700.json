@@ -1,0 +1,243 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/france-refugees_us_55ed6ed8e4b093be51bbc5df",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/australia-refugees-syria_us_55ec3b63e4b002d5c076403d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-yemen-war-wake_us_55ec8a55e4b093be51bbc044",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/meet-the-amazing-athlete-who-wants-people-of-all-genders-to-compete-in-the-sports-world_us_55e8a001e4b0aec9f356a419",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/damon-wayans-defend-bill-cosby_us_55ec5680e4b002d5c0764311"
+  },
+  "headline":{
+    "0":"France Will Take In 24,000 Refugees",
+    "1":"Australia Will Take More Refugees, Wants Strong Security Response",
+    "2":"Saudi-Led Jets Kill At Least 20 At A Wake in Yemen, Say Residents",
+    "3":"How One Athlete Is Pushing The Sports World Beyond \u2018Men\u2019 And \u2018Women\u2019",
+    "4":"Damon Wayans Defends Bill Cosby, Calls Accusers 'Un-Rapeable'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"QUEER VOICES",
+    "4":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"France is ready to take in 24,000 refugees as part of European Union plans to welcome more than 100,000 in the next two years",
+    "1":"The nation has been heavily criticized for its immigration policy.",
+    "2":"A deadly day in Yemen.",
+    "3":"\"We police gender so heavily in athletics.\"",
+    "4":"The actor also called the women who've come forward \"b**ches.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"James Michael Nichols",
+    "4":"Julia Brucculieri"
+  },
+  "date":{
+    "0":"2015-09-07 00:00:00",
+    "1":"2015-09-06 00:00:00",
+    "2":"2015-09-06 00:00:00",
+    "3":"2015-09-06 00:00:00",
+    "4":"2015-09-06 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"aus",
+    "2":"sau",
+    "3":"---cvl",
+    "4":"---cvl"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"---ref",
+    "2":"yem",
+    "3":"---cvl",
+    "4":"---eli"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"171",
+    "2":"015",
+    "3":"053",
+    "4":"041"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":-9.2,
+    "2":0.0,
+    "3":3.8,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "france",
+      "fra",
+      "france",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "australia",
+      "aus",
+      "australia",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "2":[
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia",
+      "yemen",
+      "yem",
+      "yemen",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "athlete",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "women",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "4":[
+      "actor",
+      "~eli",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "france",
+      "refugees"
+    ],
+    "1":[
+      "australia",
+      "refugees"
+    ],
+    "2":[
+      "saudi",
+      "yemen",
+      "saudi",
+      "residents"
+    ],
+    "3":[
+      "athlete",
+      "athlete"
+    ],
+    "4":[
+      "women",
+      "actor",
+      "actor",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "---"
+    ],
+    "1":[
+      "australia",
+      "---"
+    ],
+    "2":[
+      "saudi arabia",
+      "yemen",
+      "saudi arabia",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will take"
+    ],
+    "1":[
+      "will take"
+    ],
+    "2":[
+      "say <kill>",
+      "say"
+    ],
+    "3":[
+      "is pushing ... world"
+    ],
+    "4":[
+      "called",
+      "called"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "fra",
+      "---ref",
+      "171"
+    ],
+    "1":[
+      "aus",
+      "---ref",
+      "171"
+    ],
+    "2":[
+      "sau",
+      "yem",
+      "015",
+      "sau",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "053"
+    ],
+    "4":[
+      "---cvl",
+      "---eli",
+      "041",
+      "---eli",
+      "---cvl",
+      "041"
+    ]
+  }
+}

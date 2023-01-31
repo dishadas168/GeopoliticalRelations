@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.msnbc.com\/msnbc\/driven-hospital-virginia-man-tased-shackled-and-dies-police-custody",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/digiday.com\/publishers\/cnns-citizen-journalism-platform-bows-social\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/doj-supreme-court-dapa_us_56421d3ce4b0411d3072991d"
+  },
+  "headline":{
+    "0":"Driven To Hospital, Virginia Man Tased, Shackled And Dies In Police Custody",
+    "1":"Defeated By Social Media, CNN Overhauls iReport",
+    "2":"DOJ Says It Will Take Deportation Relief To Supreme Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"When three Virginia police officers put Linwood Lambert in a squad car around 5 a.m. on May 4, 2013, they said they were",
+    "1":"Big platforms\u2019 media dominance is forcing traditional publishers to change many parts of how they do business \u2014 including",
+    "2":"It needs to move fast to appeal a circuit court's latest ruling."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Elise Foley"
+  },
+  "date":{
+    "0":"2015-11-11 00:00:00",
+    "1":"2015-11-11 00:00:00",
+    "2":"2015-11-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---med",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"usahlh",
+    "1":"---med",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"184",
+    "1":"170",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-8.0,
+    "1":-7.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "hospital",
+      "virginia",
+      "man",
+      "usahlh",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "publishers",
+      "~med",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "hospital ... virginia man"
+    ],
+    "1":[
+      "media",
+      "media"
+    ],
+    "2":[
+      "doj",
+      "supreme court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states department of justice",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<usahlh> ... dies in <&detention>"
+    ],
+    "1":[
+      "is forcing"
+    ],
+    "2":[
+      "says ... will take"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "usahlh",
+      "184"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "170"
+    ],
+    "2":[
+      "usagov",
+      "---jud",
+      "171"
+    ]
+  }
+}

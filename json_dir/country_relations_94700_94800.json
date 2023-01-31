@@ -1,0 +1,159 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ceo-offers-hope-to-former_b_7485694.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-needs-to-heed-the-grow_b_7485970.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/embracing-the-lgbt-commun_b_7486562.html"
+  },
+  "headline":{
+    "0":"CEO Offers Hope to Formerly Incarcerated",
+    "1":"US Needs to Heed the Growing Sunni-Shiite Rift to Avoid Atomic Pursuits Across Middle-East",
+    "2":"Embracing the LGBT Community During Pride"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Some may find it strange that the CEO of a publicly traded company would speak with a man who served 26 years in federal prison. But Lew Cirne, founder and Chief Executive Officer of New Relic, took time out of a busy Friday to meet with me in his office.",
+    "1":"U.S. policymakers need keen understanding of the history and religious tensions between Sunnis (primarily in Saudi Arabia) and Shiites (so dominant in Iran) if they want to formulate an objective policy of any positive consequence for the region and beyond.",
+    "2":"With Pride month upon us LGBT folks from throughout the country will spend the month partying and taking Pride in our community. Flags will fly and parades will be had. In many ways mainstream America will witness the media perpetuated stereotype of LGBT community."
+  },
+  "authors":{
+    "0":"Michael Santos, ContributorPodcaster \/ Speaker \/ Prison Consultant",
+    "1":"David Oualaalou, ContributorProfessor of Political Science",
+    "2":"Anthony Nicodemo, ContributorHead boy's basketball coach, Saunders High School, Yonkers, N.Y."
+  },
+  "date":{
+    "0":"2015-06-02 00:00:00",
+    "1":"2015-06-02 00:00:00",
+    "2":"2015-06-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"saumus",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"046",
+    "1":"100",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "ceo",
+      "company",
+      "~bus",
+      "~",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sunnis",
+      "saudi arabia",
+      "saumus",
+      "~",
+      "saudi",
+      "arabia"
+    ],
+    "2":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "man"
+    ],
+    "1":[
+      "u.s.",
+      "sunnis ... saudi arabia"
+    ],
+    "2":[
+      "america",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "saudi arabia"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would speak with"
+    ],
+    "1":[
+      "need"
+    ],
+    "2":[
+      "will witness"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---ppl",
+      "046"
+    ],
+    "1":[
+      "usa",
+      "saumus",
+      "100"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/egypts-women-leaders-on-t_us_5bb1bf6be4b01857b70b5e3d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nlgja-headlines-headliners_us_5bafc51ee4b0ad7692619c4a"
+  },
+  "headline":{
+    "0":"Egypt's Women Leaders on the Rise",
+    "1":"NLGJA's 2014 'Headlines & Headliners' Benefit In NYC Draws Some Of Media's Biggest Names"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Recent studies indicate that more women in company leadership can increase company performance and that boards with high female representation experience a 53% higher return on equity than those with the least female representation.",
+    "1":"Some of media's biggest names gathered at New York's Prince George Ballroom for \"Headlines & Headliners,\" the National Lesbian"
+  },
+  "authors":{
+    "0":"Hisham Fahmy, Contributor\nCEO, American Chamber of Commerce in Egypt",
+    "1":""
+  },
+  "date":{
+    "0":"2014-03-22 00:00:00",
+    "1":"2014-03-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvlbus",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "women",
+      "company",
+      "~cvlbus",
+      "~",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women ... company",
+      "company"
+    ],
+    "1":[
+      "media",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can increase"
+    ],
+    "1":[
+      "gathered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvlbus",
+      "---bus",
+      "060"
+    ],
+    "1":[
+      "---med",
+      "usa",
+      "040"
+    ]
+  }
+}

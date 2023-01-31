@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kellyanne-conway-cnn-tweets_us_5adc8b3de4b089e33c88e691",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/brothers-syria-assad-donations-dennis-kucinich-ohio_us_5ada6d6fe4b009869bf96907",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/former-presidents-to-gather-for-barbara-bushs-texas-funeral_us_5adb603be4b075b631e6374d"
+  },
+  "headline":{
+    "0":"Kellyanne Conway Flips Out When Asked About Her Husband's Trump-Trolling Tweets",
+    "1":"Brothers Linked To Assad Gave Thousands To Dennis Kucinich's Ohio Political Machine",
+    "2":"Former Presidents Gather For Barbara Bush's Texas Funeral"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The White House counselor doesn't take kindly to the questioning from CNN's Dana Bash.",
+    "1":"The former congressman is seeking the Democratic nomination in Ohio's gubernatorial race and recently revealed he accepted $20,000 from a pro-Assad group.",
+    "2":"Former President George H.W. Bush wore book socks to honor his late wife's devotion to literacy."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Akbar Shahid Ahmed",
+    "2":"Erwin Seba, Reuters"
+  },
+  "date":{
+    "0":"2018-04-22 00:00:00",
+    "1":"2018-04-21 00:00:00",
+    "2":"2018-04-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---leg",
+    "2":"---eli"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"usa",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"030",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":4.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "counselor",
+      "~jud",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "former presidents",
+      "~eli",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "counselor",
+      "cnn"
+    ],
+    "1":[
+      "congressman",
+      "ohio"
+    ],
+    "2":[
+      "former presidents",
+      "texas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "cnn"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "does ... take"
+    ],
+    "1":[
+      "<and> ... seeking"
+    ],
+    "2":[
+      "gather"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "med",
+      "171"
+    ],
+    "1":[
+      "---leg",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "---eli",
+      "usa",
+      "040"
+    ]
+  }
+}

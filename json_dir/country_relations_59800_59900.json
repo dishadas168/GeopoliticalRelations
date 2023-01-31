@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.chron.com\/news\/houston-texas\/article\/Jailer-testifies-he-falsified-jail-log-in-Sandra-8402120.php",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/voting-rights-virginia_us_5792a0f4e4b02d5d5ed1b7fc"
+  },
+  "headline":{
+    "0":"Jailer Testifies He Falsified Jail Log In Sandra Bland Case, Lawyer Says",
+    "1":"Virginia Supreme Court Rules Against Restoring Voting Rights To 200,000 Ex-Offenders"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The lawyer for Sandra Bland\u2019s mother said a former Waller County Jail guard told him under oath that he falsified entries",
+    "1":"The court said an order issued by Virginia Gov. Terry McAuliffe in April is unconstitutional."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-07-22 00:00:00",
+    "1":"2016-07-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---judcvl",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---judcvl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "lawyer",
+      "mother",
+      "~judcvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "the court",
+      "~jud",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer ... mother",
+      "lawyer ... mother"
+    ],
+    "1":[
+      "the court",
+      "virginia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... told"
+    ],
+    "1":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---judcvl",
+      "---judcvl",
+      "010"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brazil-oil-chevron_us_5bb10f5ee4b09bbe9a59ecd0"
+  },
+  "headline":{
+    "0":"Brazil Navy: Oil Stain Spotted In Chevron Field"
+  },
+  "category":{
+    "0":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The company said it was taking the step as a precautionary measure to study its \"reservoir management plans\" in Brazil, where"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-03-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"bra"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "brazil",
+      "bra",
+      "brazil"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "brazil"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "brazil"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... was taking ... study"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "bra",
+      "090"
+    ]
+  }
+}

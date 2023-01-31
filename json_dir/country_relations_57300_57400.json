@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/huffpost-hill-obama-visits-disaster-area-tells-it-to-stay-the-hell-away-from-his-legacy_us_57bcb698e4b00d9c3a1a9b39",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/small-bread-loaves_us_578e5235e4b0aad703ab4bc1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-fires-at-islamic-state-targets-across-syrian-border_us_57bc41cee4b03d51368a9a12",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/graduate-students-private-universities-unionize_us_57bc8343e4b0b51733a605f3"
+  },
+  "headline":{
+    "0":"HUFFPOST HILL - Obama Visits Disaster Area, Tells It To Stay The Hell Away From His Legacy",
+    "1":"This Company Offers Tiny Loaves Of Bread So People Waste Less",
+    "2":"Turkey Fires At Islamic State Targets Across Syrian Border",
+    "3":"Graduate Students At Private Universities Can Now Unionize"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"THE WORLDPOST",
+    "3":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Russian hackers have breached the New York Times, giving intelligence officials in that country access to 14 unfinished style",
+    "1":"They may be the greatest thing since sliced bread.",
+    "2":"Rebels are wrestling to take the area back from militants.",
+    "3":"A big decision against Columbia University could impact private universities throughout the country."
+  },
+  "authors":{
+    "0":"Eliot Nelson",
+    "1":"Jenny Che",
+    "2":"",
+    "3":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2016-08-23 00:00:00",
+    "1":"2016-08-23 00:00:00",
+    "2":"2016-08-23 00:00:00",
+    "3":"2016-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---bus",
+    "2":"---reb",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"---spy",
+    "1":"---ppl",
+    "2":"---uaf",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"030",
+    "2":"192",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":4.0,
+    "2":-9.5,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "intelligence",
+      "~spy",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "rebels",
+      "~reb",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "university",
+      "~edu",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "universities",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian",
+      "intelligence"
+    ],
+    "1":[
+      "company",
+      "people"
+    ],
+    "2":[
+      "rebels",
+      "militants"
+    ],
+    "3":[
+      "university",
+      "university"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have breached ... giving"
+    ],
+    "1":[
+      "offers"
+    ],
+    "2":[
+      "wrestling ... take ... area"
+    ],
+    "3":[
+      "could impact"
+    ]
+  },
+  "issues":{
+    "0":[
+      "cyber_security",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "rus",
+      "---spy",
+      "060"
+    ],
+    "1":[
+      "---bus",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "---reb",
+      "---uaf",
+      "192"
+    ],
+    "3":[
+      "---edu",
+      "---edu",
+      "050"
+    ]
+  }
+}

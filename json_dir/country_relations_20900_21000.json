@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/somalia-cpj-impunity_us_59f6195ce4b077d8dfca3d2c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/meth-found-in-halloween-candy_us_59f8cbdde4b046017faf622b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-kelly-civil-war-compromise_us_59f7eb6de4b0aec1467a5e9c"
+  },
+  "headline":{
+    "0":"'Getting Away With Murder' In Somalia, Where Journalists Are Killed With Impunity",
+    "1":"Meth Found In Child's Halloween Candy Prompts Warning From Wisconsin Police",
+    "2":"John Kelly Says Lack Of 'Compromise' Started Civil War, Defends Statues"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"CRIME",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Dozens of journalists have been slain in Somalia over the past decade, but none of their killers have been brought to justice.",
+    "1":"Local authorities urged parents to inspect their children's candy before letting them eat it.",
+    "2":"On Fox News, Trump's chief of staff calls Confederate Gen. Robert E. Lee an \"honorable man ... who gave up his country to fight for his state.\""
+  },
+  "authors":{
+    "0":"Jesselyn Cook",
+    "1":"Nina Golgowski",
+    "2":"Nick Visser"
+  },
+  "date":{
+    "0":"2017-10-31 00:00:00",
+    "1":"2017-10-31 00:00:00",
+    "2":"2017-10-31 00:00:00"
+  },
+  "actor1":{
+    "0":"som",
+    "1":"---gov",
+    "2":"---mil"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cvl",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"090",
+    "2":"041"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "journalists",
+      "~med",
+      "~",
+      "journalists",
+      "~med",
+      "~",
+      "somalia",
+      "som",
+      "somalia",
+      "killers",
+      "~crm",
+      "~",
+      "killers",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "authorities",
+      "~gov",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "chief of staff",
+      "~gov",
+      "~",
+      "gen.",
+      "man",
+      "~mil",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "somalia",
+      "journalists"
+    ],
+    "1":[
+      "authorities",
+      "children"
+    ],
+    "2":[
+      "gen. ... man",
+      "chief of staff",
+      "chief of staff",
+      "gen. ... man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "somalia",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~med> ... slain in som"
+    ],
+    "1":[
+      "urged ... inspect"
+    ],
+    "2":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "som",
+      "---med",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "090"
+    ],
+    "2":[
+      "---mil",
+      "---gov",
+      "041",
+      "---gov",
+      "---mil",
+      "041"
+    ]
+  }
+}

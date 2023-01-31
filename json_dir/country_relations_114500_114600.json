@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/save-syrian-kurds-from-sl_b_5970440.html"
+  },
+  "headline":{
+    "0":"Save Syrian Kurds From Slaughter In Kobani"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"ISIS is on the verge of occupying Kobani, the Kurdish city on the Syria-Turkey border. The UN Special Envoy warns that up 700 people, mainly elderly, will \"most likely be massacred.\" Kurdish fighters desperately need arms and ammunition to stave off the ISIS onslaught."
+  },
+  "authors":{
+    "0":"David L. Phillips, ContributorDirector of the Program on Peace-building and Rights, Columbia..."
+  },
+  "date":{
+    "0":"2014-10-11 00:00:00"
+  },
+  "actor1":{
+    "0":"igounogov"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"1385"
+  },
+  "goldstein_score":{
+    "0":-7.0
+  },
+  "nouns":{
+    "0":[
+      "the un",
+      "special envoy",
+      "igounogov",
+      "the",
+      "un",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the un special envoy",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the un",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "warns <~ppl> ... massacred"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "igounogov",
+      "---ppl",
+      "1385"
+    ]
+  }
+}

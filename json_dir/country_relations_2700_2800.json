@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/police-killings-chauvin-verdict_n_6080f250e4b0e7cb020a4d28",
+    "1":"https:\/\/www.huffpost.com\/entry\/prince-philip-funeral-courage-fortitude-faith_n_607a9cc1e4b0eac4813dd0e8",
+    "2":"https:\/\/www.huffpost.com\/entry\/protest-chicago-adam-toledo-police-killing_n_607a2851e4b058846f245636",
+    "3":"https:\/\/www.huffpost.com\/entry\/georgia-battery-sk-innovation-settlement_n_606f7c06c5b6616dcd7515d1"
+  },
+  "headline":{
+    "0":"Grim List Of Deaths At Police Hands Grows After Chauvin Verdict",
+    "1":"Prince Philip To Be Remembered As Man Of 'Courage, Fortitude And Faith' At Funeral",
+    "2":"Hundreds Protest Police Killing Of 13-Year-Old Adam Toledo In Chicago",
+    "3":"Biden Avoids Big Test As Battery Giants Reach Deal To Save Georgia Factories"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"WORLD NEWS",
+    "2":"LATINO VOICES",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Police officers in Ohio, California and North Carolina have killed Black people since Derek Chauvin was found guilty.",
+    "1":"The Duke of Edinburgh's funeral will salute both his service in the Royal Navy and his support for Queen Elizabeth over three-quarters of a century.",
+    "2":"Outraged by video showing the boy with his hands in the air when police shot him dead, protesters carried signs reading \u201cCPD, stop killing our children.\u201d",
+    "3":"Without an eleventh-hour deal, the president faced a choice between green jobs in a battleground state and taking a tough stance on intellectual property."
+  },
+  "authors":{
+    "0":"Lindsay Whitehurst and Alanna Durkin Richer, AP",
+    "1":"DANICA KIRKA and JILL LAWLESS, AP",
+    "2":"Sarah Ruiz-Grossman",
+    "3":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2021-04-22 00:00:00",
+    "1":"2021-04-17 00:00:00",
+    "2":"2021-04-17 00:00:00",
+    "3":"2021-04-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"gbr",
+    "2":"---opp",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"gbrmil",
+    "2":"---cvl",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"051",
+    "2":"190",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":3.4,
+    "2":-10.0,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "police officers",
+      "~cop",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "edinburgh",
+      "gbr",
+      "united",
+      "kingdom",
+      "royal navy",
+      "gbrmil",
+      "her",
+      "majestys",
+      "armed",
+      "forces",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "2":[
+      "protesters",
+      "~opp",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "intellectual",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police officers",
+      "people"
+    ],
+    "1":[
+      "edinburgh",
+      "royal navy",
+      "edinburgh",
+      "queen"
+    ],
+    "2":[
+      "protesters",
+      "children"
+    ],
+    "3":[
+      "president",
+      "intellectual"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "her majestys armed forces",
+      "united kingdom",
+      "queen"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have killed"
+    ],
+    "1":[
+      "will salute",
+      "will salute"
+    ],
+    "2":[
+      "carried ... killing"
+    ],
+    "3":[
+      "<and> ... taking"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "gbr",
+      "gbrmil",
+      "051",
+      "gbr",
+      "'mamohato_",
+      "051"
+    ],
+    "2":[
+      "---opp",
+      "---cvl",
+      "190"
+    ],
+    "3":[
+      "---gov",
+      "---edu",
+      "171"
+    ]
+  }
+}

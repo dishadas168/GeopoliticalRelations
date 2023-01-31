@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mens-mental-health-demands-male-friendship_us_57de0e45e4b04fa361d99c22"
+  },
+  "headline":{
+    "0":"Men's Mental Health Demands Male Friendship"
+  },
+  "category":{
+    "0":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"I've represented hundreds of men over the past 17 years in family court and one of the biggest lessons I've learned is how"
+  },
+  "authors":{
+    "0":"David Pisarra, ContributorI empower men and fathers to lead happier, more fulfilling liv..."
+  },
+  "date":{
+    "0":"2016-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"mdv"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "male",
+      "mdv",
+      "maldives"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "male"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "maldives"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "demands"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "mdv",
+      "100"
+    ]
+  }
+}

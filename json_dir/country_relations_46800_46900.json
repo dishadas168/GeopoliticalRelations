@@ -1,0 +1,280 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/treasury-democrats-student-debt_us_585d968ae4b0de3a08f55e70",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/credit-suisse-mortgage-securities-settlement_us_585cee66e4b0d9a59457e97c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-un-israel-settlements-abstain_us_585d627ee4b0eb58648632b5",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/many-brazilian-women-are-avoiding-pregnancy-over-zika-fears_us_585d516ce4b0eb5864861ca5",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/house-freedom-caucus-school-lunch_us_585ac244e4b0de3a08f3d34e",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/australia-christmas-bombing-attacks-arrests_us_585cca85e4b0de3a08f4e4f9"
+  },
+  "headline":{
+    "0":"Treasury Rebuffs Democratic Senators' Plan To Help Disabled Americans With Student Debt",
+    "1":"Credit Suisse Settles DOJ Case Over Mortgage Securities For $5.3 Billion",
+    "2":"Obama Administration Allows UN Resolution Condemning Israeli Settlements To Pass",
+    "3":"Many Brazilian Women Are Avoiding Pregnancy Over Zika Fears",
+    "4":"House Conservatives Target Healthy School Lunch Standards",
+    "5":"Australian Police Arrest 7 For Allegedly Planning Christmas Bombing Attacks"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS",
+    "2":"POLITICS",
+    "3":"HEALTHY LIVING",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Obama administration won't shield impoverished debtors from paying income tax on forgiven loans.",
+    "1":"The news came after Deutsche Bank agreed to a $7.2 billion settlement with the DOJ over its sale and pooling of toxic mortgage securities.",
+    "2":"The U.S. vetoed a similar measure in 2011.",
+    "3":"The government should overhaul its reproductive health policies to support them, researchers say.",
+    "4":"Lawmakers seem to want \"bringing junk food back into schools.\"",
+    "5":"Authorities described the plot as \u201can imminent terrorist event\u201d inspired by Islamic State."
+  },
+  "authors":{
+    "0":"Daniel Marans",
+    "1":"",
+    "2":"Jessica Schulberg",
+    "3":"Kate Kelland, Reuters",
+    "4":"Joseph Erbentraut",
+    "5":"By Tom Westbrook, Reuters"
+  },
+  "date":{
+    "0":"2016-12-23 00:00:00",
+    "1":"2016-12-23 00:00:00",
+    "2":"2016-12-23 00:00:00",
+    "3":"2016-12-23 00:00:00",
+    "4":"2016-12-23 00:00:00",
+    "5":"2016-12-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"mncdeu",
+    "2":"usagov",
+    "3":"---gov",
+    "4":"---leg",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usagovcvl",
+    "2":"isrcvl",
+    "3":"---gov",
+    "4":"---edu",
+    "5":"---uaf"
+  },
+  "event_code":{
+    "0":"033",
+    "1":"050",
+    "2":"111",
+    "3":"050",
+    "4":"0333",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":3.5,
+    "2":-2.0,
+    "3":3.5,
+    "4":5.2,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "student",
+      "~edu",
+      "~",
+      "student",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "deutsche bank",
+      "mncdeu",
+      "deutsche",
+      "bank",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "settlement",
+      "usagovcvl",
+      "~"
+    ],
+    "2":[
+      "obama administration",
+      "un",
+      "usagov",
+      "igouno",
+      "barack",
+      "obama",
+      "un",
+      "israeli",
+      "settlements",
+      "isrcvl",
+      "israel",
+      "~"
+    ],
+    "3":[
+      "government",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "authorities",
+      "~gov",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~",
+      "islamic",
+      "~mus",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "student"
+    ],
+    "1":[
+      "deutsche bank",
+      "settlement"
+    ],
+    "2":[
+      "obama administration",
+      "israeli settlements",
+      "un",
+      "israeli settlements"
+    ],
+    "3":[
+      "government",
+      "government"
+    ],
+    "4":[
+      "lawmakers",
+      "schools"
+    ],
+    "5":[
+      "authorities",
+      "terrorist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "deutsche bank",
+      ""
+    ],
+    "2":[
+      "barack obama",
+      "israel",
+      "un",
+      "israel"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plan ... help"
+    ],
+    "1":[
+      "agreed"
+    ],
+    "2":[
+      "condemning",
+      "condemning"
+    ],
+    "3":[
+      "should ... support"
+    ],
+    "4":[
+      "seem ... want ... bringing <&food>"
+    ],
+    "5":[
+      "described"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---edu",
+      "033"
+    ],
+    "1":[
+      "mncdeu",
+      "usagovcvl",
+      "050"
+    ],
+    "2":[
+      "usagov",
+      "isrcvl",
+      "111",
+      "igouno",
+      "isrcvl",
+      "111"
+    ],
+    "3":[
+      "---gov",
+      "---gov",
+      "050"
+    ],
+    "4":[
+      "---leg",
+      "---edu",
+      "0333"
+    ],
+    "5":[
+      "---gov",
+      "---uaf",
+      "010"
+    ]
+  }
+}

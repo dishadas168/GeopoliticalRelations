@@ -1,0 +1,298 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/workers-rights-startup_us_5ae6df79e4b04aa23f24c2a7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/most-americans-dont-want-businesses-to-discriminate-against-lgbtq-people_us_5ae86cf8e4b055fd7fcfb785",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/charter-school-bathroom-policy-periods_us_5ae7a19be4b04aa23f26463c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russia-telegram-app_us_5ae74584e4b04aa23f25c010",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/john-kelly-women-swearing_us_5ae781f0e4b055fd7fced115",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/john-kelly-trump-idiot-nbc-news_us_5ae787b6e4b02baed1bd4661",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/central-american-minors_us_5ae1f199e4b055fd7fc9608a"
+  },
+  "headline":{
+    "0":"The Tech Startup Helping Millennial Workers Take On Bad Bosses",
+    "1":"Most Americans Don't Want Businesses To Discriminate Against LGBTQ People: Study",
+    "2":"Girls Reportedly Bleeding Through Pants Due To Charter School Bathroom Policy",
+    "3":"Thousands Protest In Moscow To Demand Internet Freedom",
+    "4":"White House: John Kelly Is Great To Women Because He Hates Cursing Around Them",
+    "5":"John Kelly Has Repeatedly Referred To Trump As An \u2018Idiot,\u2019 NBC Reports",
+    "6":"Trump Left Nearly 4,000 Applicants For Central American Refugee Program Stranded"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"QUEER VOICES",
+    "2":"EDUCATION",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"We\u2019re giving people the tools to represent themselves.\"",
+    "1":"The majority of religious groups believe that small-business owners should serve all customers, regardless of sexual orientation.",
+    "2":"The school system is now allowing girls to tie their school sweatshirts around their waists.",
+    "3":"Demonstrators are calling on Russian authorities to unblock the popular Telegram instant messaging app.",
+    "4":"The White House said that's evidence the chief of staff actually treats women really well.",
+    "5":"The White House chief of staff has denied the allegations, calling them \"total BS.\"",
+    "6":"The current administration has criticized people coming to the border to seek asylum. But it shut down another way some of them could find safety in the U.S."
+  },
+  "authors":{
+    "0":"George Bowden",
+    "1":"Carol Kuruvilla",
+    "2":"Doha Madani",
+    "3":"Polina Ivanova, Reuters",
+    "4":"Amanda Terkel",
+    "5":"Dominique Mosbergen",
+    "6":"Elise Foley and Roque Planas"
+  },
+  "date":{
+    "0":"2018-05-01 00:00:00",
+    "1":"2018-05-01 00:00:00",
+    "2":"2018-05-01 00:00:00",
+    "3":"2018-04-30 00:00:00",
+    "4":"2018-04-30 00:00:00",
+    "5":"2018-04-30 00:00:00",
+    "6":"2018-04-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"---rel",
+    "2":"---edu",
+    "3":"---opp",
+    "4":"usagov",
+    "5":"---gov",
+    "6":"---gov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"rusgov",
+    "4":"usagov",
+    "5":"---gov",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"060",
+    "2":"08",
+    "3":"020",
+    "4":"010",
+    "5":"041",
+    "6":"111"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":6.0,
+    "2":5.0,
+    "3":3.0,
+    "4":0.0,
+    "5":1.0,
+    "6":-2.0
+  },
+  "nouns":{
+    "0":[
+      "workers",
+      "~lab",
+      "~",
+      "bosses",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "religious groups",
+      "~rel",
+      "~",
+      "religious groups",
+      "~rel",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "school",
+      "~edu",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "russian",
+      "authorities",
+      "rusgov",
+      "russian",
+      "federation",
+      "~"
+    ],
+    "4":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "chief of staff",
+      "~gov",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "chief of staff",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "administration",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "workers",
+      "bosses"
+    ],
+    "1":[
+      "religious groups",
+      "customers"
+    ],
+    "2":[
+      "school",
+      "girls"
+    ],
+    "3":[
+      "demonstrators",
+      "russian authorities"
+    ],
+    "4":[
+      "the white house",
+      "the white house"
+    ],
+    "5":[
+      "chief of staff",
+      "chief of staff"
+    ],
+    "6":[
+      "administration",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ],
+    "4":[
+      "white house",
+      "white house"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "take"
+    ],
+    "1":[
+      "believe ... serve"
+    ],
+    "2":[
+      "is ... allowing"
+    ],
+    "3":[
+      "are calling on"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "has ... calling"
+    ],
+    "6":[
+      "has criticized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "2"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "---bus",
+      "171"
+    ],
+    "1":[
+      "---rel",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "08"
+    ],
+    "3":[
+      "---opp",
+      "rusgov",
+      "020"
+    ],
+    "4":[
+      "usagov",
+      "usagov",
+      "010"
+    ],
+    "5":[
+      "---gov",
+      "---gov",
+      "041"
+    ],
+    "6":[
+      "---gov",
+      "---ppl",
+      "111"
+    ]
+  }
+}

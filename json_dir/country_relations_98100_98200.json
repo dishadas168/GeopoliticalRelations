@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-middle-east-christians_n_7130650.html"
+  },
+  "headline":{
+    "0":"Activists Call On President Obama To Appoint Envoy For Persectued Christians"
+  },
+  "category":{
+    "0":"RELIGION"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-04-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "president obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "call on"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usagov",
+      "020"
+    ]
+  }
+}

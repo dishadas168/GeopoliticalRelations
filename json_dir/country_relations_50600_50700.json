@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-young-girls_us_5823550ae4b0d9ce6fc0575f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/taliban-donald-trump-victory_us_58230cd2e4b0e80b02ce1784"
+  },
+  "headline":{
+    "0":"Hillary Clinton Sends An Important Message To Young Girls",
+    "1":"Taliban Tries To Exploit Trump Victory"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Never doubt that you are powerful and valuable and deserving of every opportunity in the world.\"",
+    "1":"Despite promises to pull troops, President Barack Obama will pass on responsibility for the U.S. role in Afghanistan to his successor."
+  },
+  "authors":{
+    "0":"Emily Peck",
+    "1":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2016-11-09 00:00:00",
+    "1":"2016-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"130",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":-4.4,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "afghanistan",
+      "afg",
+      "afghanistan",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "girls"
+    ],
+    "1":[
+      "president barack obama",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sends ... message"
+    ],
+    "1":[
+      "will pass"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---cvl",
+      "130"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "08"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/florida-district-cheerleading-uniforms_us_5b9d78b8e4b03a1dcc886a27"
+  },
+  "headline":{
+    "0":"Florida District Bans School-Issued Cheerleading Uniforms From Being Worn In Class"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"If you have a school-issued uniform that is a swimsuit for the swim team or a wrestling uniform, you aren't allowed to wear"
+  },
+  "authors":{
+    "0":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2013-08-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "florida",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "172"
+    ]
+  }
+}

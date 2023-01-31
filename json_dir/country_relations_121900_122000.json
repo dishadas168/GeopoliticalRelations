@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/domestic-violence_n_5592445.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/california-death-penalty_n_5592448.html"
+  },
+  "headline":{
+    "0":"How The Criminal Justice System Is Failing Victims Of Domestic Violence",
+    "1":"Federal Judge Strikes Down California's Death Penalty"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":""
+  },
+  "authors":{
+    "0":"Alana Horowitz Satlin",
+    "1":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2014-07-16 00:00:00",
+    "1":"2014-07-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---crmjud",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"120",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "criminal",
+      "justice system",
+      "~crmjud",
+      "~",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "federal judge",
+      "~jud",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "criminal justice system",
+      "victims"
+    ],
+    "1":[
+      "federal judge",
+      "california"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is failing"
+    ],
+    "1":[
+      "strikes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---crmjud",
+      "---cvl",
+      "120"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-1-minute-blog-boy-fle_b_5704999.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/penguin-suit-beer-thief_n_5702629.html"
+  },
+  "headline":{
+    "0":"The 1 Minute Blog: Boy Flees War",
+    "1":"Man In Penguin Suit Stole Beer: Police"
+  },
+  "category":{
+    "0":"GOOD NEWS",
+    "1":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"The Eritrean said growing up in a war made him feel like he was a 30-year-old man when he just was 16. \"War matures you,\" he told me.",
+    "1":""
+  },
+  "authors":{
+    "0":"Peg Melnik, ContributorJournalist",
+    "1":"Andres Jauregui"
+  },
+  "date":{
+    "0":"2014-08-24 00:00:00",
+    "1":"2014-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"eri",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"eri",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "eritrean",
+      "eri",
+      "eritrea",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "eritrean",
+      "eritrean"
+    ],
+    "1":[
+      "man",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "eritrea",
+      "eritrea"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "stole"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "eri",
+      "eri",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "171"
+    ]
+  }
+}

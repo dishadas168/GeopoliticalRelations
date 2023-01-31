@@ -1,0 +1,295 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/libya-peace-uae-qatar_n_7605898.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/greece-imf-tough-choices_b_7603594.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/accept-new-reality-in-ara_b_7576840.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/indiana-strikes-again-why_b_7591468.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/maine-leading-the-way-on_b_7588332.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/religious-freedoms-from-t_b_7591094.html"
+  },
+  "headline":{
+    "0":"Obama Brokered Secret Deal Between 2 Arab States That Could Help End Libya's Civil War",
+    "1":"Greece Has Made Tough Choices. Now It's the IMF's Turn.",
+    "2":"There Will Be a New Reality in the Arab Mid-East",
+    "3":"Indiana Strikes Again: Why Removing World Language Requirements From Hoosier High School Diplomas Could Be Detrimental",
+    "4":"Maine Leading the Way on Government of, for and by the People",
+    "5":"Religious Freedoms From the Other Side: Gay Business Owners Speak on Providing Services to Religious Customers"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"POLITICS",
+    "3":"COLLEGE",
+    "4":"POLITICS",
+    "5":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"",
+    "1":"ATHENS -- The IMF and Greece's other creditors have assumed that massive fiscal contraction has only a temporary effect on economic activity, employment and taxes, and that slashing wages, pensions and public jobs has a magical effect on growth. This has proved false. Indeed, Greece's post-2010 adjustment led to economic disaster -- and the IMF's worst predictive failure ever.",
+    "2":"There will be no return to the fragile stability of even just five years ago. U.S. troops are greatly reduced in Afghanistan and Iraq. Humpty Dumpty cannot be put back together again.",
+    "3":"For the many students who sit in Spanish, French, or German class every day and resent having to memorize vocabulary words and learn new grammar rules, the change initially seems like a positive one.",
+    "4":"Public campaign financing has encouraged more diverse candidates to run, kept campaign costs under control, and enabled candidates to spend more time with voters, instead of the wealthy donors, corporations and PACs who fund traditional campaigns.",
+    "5":"We hear a lot lately in the news about \"religious freedom,\" and business owners who assert that their religious beliefs preclude them from doing business with gay people."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"James K. Galbraith, ContributorEconomist, Author",
+    "2":"Martin Shapiro, ContributorFuturist, Author, Consultant",
+    "3":"Allison Underhill and Brianna Susnak, Contributors",
+    "4":"Benjamin T. Brickner, ContributorCounsel to the Brennan Center's Democracy Program, focusing on...",
+    "5":"Joe Kort, Ph.D., ContributorPsychotherapist, Certified Sex and Relationship Therapist at J..."
+  },
+  "date":{
+    "0":"2015-06-17 00:00:00",
+    "1":"2015-06-17 00:00:00",
+    "2":"2015-06-16 00:00:00",
+    "3":"2015-06-16 00:00:00",
+    "4":"2015-06-16 00:00:00",
+    "5":"2015-06-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"igobusimf",
+    "2":"afg",
+    "3":"usa",
+    "4":"---gov",
+    "5":"---bus"
+  },
+  "actor2":{
+    "0":"lby",
+    "1":"grc",
+    "2":"usamil",
+    "3":"---edu",
+    "4":"usa",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"043",
+    "2":"0873",
+    "3":"174",
+    "4":"043",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":2.8,
+    "2":9.0,
+    "3":-5.0,
+    "4":2.8,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "libya",
+      "lby",
+      "libya"
+    ],
+    "1":[
+      "greece",
+      "grc",
+      "greece",
+      "imf",
+      "igobusimf",
+      "imf"
+    ],
+    "2":[
+      "u.s.",
+      "troops",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "afghanistan",
+      "iraq",
+      "afg",
+      "irq",
+      "afghanistan",
+      "iraq"
+    ],
+    "3":[
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "high school",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "maine",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "business",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "libya"
+    ],
+    "1":[
+      "imf",
+      "greece",
+      "greece",
+      "imf"
+    ],
+    "2":[
+      "afghanistan",
+      "u.s. troops",
+      "iraq",
+      "u.s. troops"
+    ],
+    "3":[
+      "indiana",
+      "high school"
+    ],
+    "4":[
+      "government",
+      "maine",
+      "maine",
+      "government"
+    ],
+    "5":[
+      "business",
+      "customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "libya"
+    ],
+    "1":[
+      "imf",
+      "greece",
+      "greece",
+      "imf"
+    ],
+    "2":[
+      "afghanistan",
+      "united states of america",
+      "iraq",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could help"
+    ],
+    "1":[
+      "led to",
+      "led to"
+    ],
+    "2":[
+      "<usamil> ... reduced <troops>",
+      "<usamil> ... reduced <troops>"
+    ],
+    "3":[
+      "strikes ... removing"
+    ],
+    "4":[
+      "leading ... for",
+      "leading ... for"
+    ],
+    "5":[
+      "speak"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "int_financial_inst",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "lby",
+      "070"
+    ],
+    "1":[
+      "igobusimf",
+      "grc",
+      "043",
+      "grc",
+      "igobusimf",
+      "042"
+    ],
+    "2":[
+      "afg",
+      "usamil",
+      "0873",
+      "irq",
+      "usamil",
+      "0873"
+    ],
+    "3":[
+      "usa",
+      "---edu",
+      "174"
+    ],
+    "4":[
+      "---gov",
+      "usa",
+      "043",
+      "usa",
+      "---gov",
+      "042"
+    ],
+    "5":[
+      "---bus",
+      "---cvl",
+      "010"
+    ]
+  }
+}

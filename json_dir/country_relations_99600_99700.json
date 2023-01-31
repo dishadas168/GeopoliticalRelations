@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-blind-mans-take-on-beauty-in-the-gay-community_b_7001282.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/italy-migrant-crisis_n_7006428.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/teacher-sex-30-days-candy_n_7006672.html"
+  },
+  "headline":{
+    "0":"A Blind Man's Take on Beauty in the Gay Community",
+    "1":"Italy Rescues 1,500 Migrants At Sea In Less Than 24 Hours",
+    "2":"Judge Gives Teacher Who Had Sex With Student 30 Days, Calls Her 'Dangling Candy'"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLDPOST",
+    "2":"CRIME"
+  },
+  "short_description":{
+    "0":"While I have learned to do everything the blind way, I always find myself teaching others how to interact with me -- something I've become better at with time. And, one of the main themes I battle with, especially in the gay community, is the importance of beauty.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Belo Cipriani, ContributorAward-winning author, freelance journalist and disabilities ad...",
+    "1":"",
+    "2":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2015-04-05 00:00:00",
+    "1":"2015-04-05 00:00:00",
+    "2":"2015-04-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"ita",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"073",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":7.4,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "italy",
+      "ita",
+      "italy",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "teacher",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "community"
+    ],
+    "1":[
+      "italy",
+      "migrants"
+    ],
+    "2":[
+      "judge",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "italy",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "'s take"
+    ],
+    "1":[
+      "rescues"
+    ],
+    "2":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "171"
+    ],
+    "1":[
+      "ita",
+      "---cvl",
+      "073"
+    ],
+    "2":[
+      "---jud",
+      "---edu",
+      "060"
+    ]
+  }
+}

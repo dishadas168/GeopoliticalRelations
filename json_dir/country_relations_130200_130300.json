@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/go-ahead-make-someones-da_us_5b9df660e4b03a1dcc8f9aa2"
+  },
+  "headline":{
+    "0":"Go Ahead -- Make Someone's Day"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"No one can make you feel bad about yourself, as the saying goes, without your permission. But other people can help you feel better about yourself, if you let them."
+  },
+  "authors":{
+    "0":"Maureen Anderson, Contributor\nMaureen Anderson is the host of the nationally syndicated radi..."
+  },
+  "date":{
+    "0":"2014-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "070",
+      "---ppl",
+      "---ppl",
+      "070"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/let-girls-lead-video-cont_us_5bb1bbe8e4b01857b70b28a1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/veterans-medical-care_us_5bb1bbe7e4b01857b70b281e"
+  },
+  "headline":{
+    "0":"Let Girls Lead Video Contest: Gloria Akite",
+    "1":"The Loop of VA\/Veterans' Medical Care"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"Let Girls Lead's Global Girls' Conversation video contest highlights girls' power to create change by sharing their own solutions",
+    "1":"In January of 2014, CNN reported that at least 19 veterans had died because of delays in diagnosis and treatment at VA hospitals."
+  },
+  "authors":{
+    "0":"Rise Up, Contributor\nRise Up enables girls, youth, and women to transform their own...",
+    "1":"Shad Meshad, Contributor\nPresident, National Veterans Foundation"
+  },
+  "date":{
+    "0":"2014-02-08 00:00:00",
+    "1":"2014-02-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "cnn",
+      "med",
+      "cnn",
+      "hospitals",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ],
+    "1":[
+      "cnn",
+      "hospitals"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "cnn",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "highlights"
+    ],
+    "1":[
+      "reported ... died"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "med",
+      "---hlh",
+      "190"
+    ]
+  }
+}

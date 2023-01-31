@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-place-behind-the-pine_b_5644594.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/argentine-debt-default-is_b_5640898.html"
+  },
+  "headline":{
+    "0":"The Place Behind the Pines: \"The Killing\" Ends in Light",
+    "1":"Argentine Debt: Default Is a Solution, Not a Problem"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"'Detectives Sarah Linden and Stephen Holder are deeply affected by the murders they investigate in this dark, acclaimed series,' or so says Netflix, in its description of the show it acquired from AMC.",
+    "1":"Unless you just returned from holiday in some ultra-remote region lacking newspapers, television or internet access (is there such a place?), you are aware that the government of Argentina defaulted on its external debt on Wednesday."
+  },
+  "authors":{
+    "0":"Jill Di Donato, ContributorAuthor of Beautiful Garbage: A Novel, and Professor of English",
+    "1":"John Weeks, ContributorAmerican living in London, author of the recent book Economics..."
+  },
+  "date":{
+    "0":"2014-08-02 00:00:00",
+    "1":"2014-08-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"043"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":2.8
+  },
+  "nouns":{
+    "0":[
+      "detectives",
+      "~cop",
+      "~",
+      "netflix",
+      "mncusa",
+      "netflix"
+    ],
+    "1":[
+      "television",
+      "~med",
+      "~",
+      "newspapers",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "detectives",
+      "netflix"
+    ],
+    "1":[
+      "television",
+      "television",
+      "television",
+      "television"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "netflix"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "returned from",
+      "returned from"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "mncusa",
+      "010"
+    ],
+    "1":[
+      "---med",
+      "---med",
+      "043",
+      "---med",
+      "---med",
+      "042"
+    ]
+  }
+}

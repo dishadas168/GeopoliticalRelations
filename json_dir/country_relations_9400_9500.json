@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dna-zodiac-killer_us_5af0c840e4b0ab5c3d68bc90"
+  },
+  "headline":{
+    "0":"Police Hope To Use DNA To Catch The Zodiac Killer"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"\"We could finally have answers to one of the greatest whodunits of all time,\" a criminologist said."
+  },
+  "authors":{
+    "0":"David Lohr"
+  },
+  "date":{
+    "0":"2018-05-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop"
+  },
+  "actor2":{
+    "0":"---crm"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "killer",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "killer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hope <police> ... catch"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---crm",
+      "173"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/an-insiders-guide-to-berl_us_5b9df1a3e4b03a1dcc8f3d9b"
+  },
+  "headline":{
+    "0":"An Insider's Guide to Berlin Street Art"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"This vibrant neighborhood, which is linked with Kreuzberg, offers some of Berlin's most famous works of street art. It's home to the East Side Gallery, and famous works by street artists Blu and Revaler Strasse 99."
+  },
+  "authors":{
+    "0":"Vayable, Contributor\nRequest, design and book unique travel experiences."
+  },
+  "date":{
+    "0":"2014-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"deu"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "neighborhood",
+      "~cvl",
+      "~",
+      "berlin",
+      "deu",
+      "germany"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "neighborhood",
+      "berlin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "germany"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "deu",
+      "030"
+    ]
+  }
+}

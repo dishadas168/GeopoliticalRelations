@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-dallas-shooting_us_577f73c1e4b0c590f7e8d64a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/theranos-holmes-banned_us_577fb707e4b0c590f7e8f42e"
+  },
+  "headline":{
+    "0":"Obama Says Dallas Police Shooting 'Despicable,' Highlights Need For Gun Control",
+    "1":"This Woman Was Just Banned From An Industry That Once Lionized Her"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"\u201cI think I speak for every single American when I say that we are horrified.\"",
+    "1":"Nine months after a devastating expos\u00e9, things worsen for Theranos founder Elizabeth Holmes."
+  },
+  "authors":{
+    "0":"Alana Horowitz Satlin",
+    "1":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2016-07-08 00:00:00",
+    "1":"2016-07-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "dallas",
+      "police",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "dallas police"
+    ],
+    "1":[
+      "industry",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "<~cvl> ... banned from <~bus>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usacop",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "172"
+    ]
+  }
+}

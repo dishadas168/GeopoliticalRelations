@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-releases-758-detained-soldiers_us_579cc02de4b08a8e8b5e4e42",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/complaining-hillary-clintons-voice_us_579add5de4b0693164c0b55c"
+  },
+  "headline":{
+    "0":"Turkey Releases 758 Detained Soldiers As Erdogan Drops Lawsuits",
+    "1":"Some People Are Still Complaining About Hillary Clinton's Voice"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The purges have targeted supporters of U.S.-based Muslim cleric Fethullah Gulen.",
+    "1":"Everyone, stop doing this."
+  },
+  "authors":{
+    "0":"",
+    "1":"Marina Fang"
+  },
+  "date":{
+    "0":"2016-07-30 00:00:00",
+    "1":"2016-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"turgovmil",
+    "1":"usaeli"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"114"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "tur",
+      "turkey",
+      "soldiers",
+      "~mil",
+      "~",
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "people",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "releases"
+    ],
+    "1":[
+      "are ... complaining"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "turgovmil",
+      "084"
+    ],
+    "1":[
+      "---ppl",
+      "usaeli",
+      "114"
+    ]
+  }
+}

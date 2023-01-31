@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.lifestylemirror.com\/man\/style\/2014\/03\/27\/328751013\/best-sport-coats-for-men\/"
+  },
+  "headline":{
+    "0":"20 Sharp Men's Spring Blazers"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"If there's one piece that's essential to a man's wardrobe, it's a suit. But the stylish man has gone beyond the basic navy"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-04-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "navy",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "navy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has gone"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---mil",
+      "040"
+    ]
+  }
+}

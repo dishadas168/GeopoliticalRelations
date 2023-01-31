@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/3-ways-you-can-use-social_b_9057052.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/alabama-carries-out-first-execution-in-two-years_us_56a17b95e4b0d8cc10998940",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/vimeo-filmmakers-share-the-screen_us_56a24a63e4b076aadcc6414b"
+  },
+  "headline":{
+    "0":"3 Ways You Can Use Social Media to Help Your Business Soar",
+    "1":"Alabama Carries Out First Execution In Two Years",
+    "2":"Vimeo Pledges To Support Female Filmmakers If Hollywood Won't Do It"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Social media is not just about promoting your content directly, but also getting to know the movers and shakers in your industry. If you like to connect with people and companies online, it pays to mention them in your blogs, posts, and other content.",
+    "1":"The U.S. Supreme Court, without explanation Thursday evening, said it had denied a request by Brooks' attorney to halt the execution.",
+    "2":"The company will finance five projects by women this year."
+  },
+  "authors":{
+    "0":"Jonha Revesencio, ContributorMarketing for tech companies. Vidpeo co-founder",
+    "1":"",
+    "2":"Sara Boboltz"
+  },
+  "date":{
+    "0":"2016-01-23 00:00:00",
+    "1":"2016-01-22 00:00:00",
+    "2":"2016-01-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"usajud",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---jud",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"123",
+    "2":"061"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-4.0,
+    "2":6.4
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "supreme court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "attorney",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "business"
+    ],
+    "1":[
+      "u.s. supreme court",
+      "attorney"
+    ],
+    "2":[
+      "company",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to help"
+    ],
+    "1":[
+      "said ... had denied ... request"
+    ],
+    "2":[
+      "will finance"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---bus",
+      "070"
+    ],
+    "1":[
+      "usajud",
+      "---jud",
+      "123"
+    ],
+    "2":[
+      "---bus",
+      "---cvl",
+      "061"
+    ]
+  }
+}

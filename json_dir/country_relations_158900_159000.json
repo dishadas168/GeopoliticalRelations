@@ -1,0 +1,84 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ben-and-jerrys-gmos-genetically-modified_us_5bb2f690e4b0480ca65fa9bf"
+  },
+  "headline":{
+    "0":"Ben & Jerry's Will Stop Using Genetically-Modified Ingredients, Company Says"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The discovery of the engineered Oregon wheat, which had been developed by Monsanto, led South Korea and Japan to suspend"
+  },
+  "authors":{
+    "0":"Hunter Stuart"
+  },
+  "date":{
+    "0":"2013-06-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"kor"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "oregon",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "south korea",
+      "japan",
+      "kor",
+      "jpn",
+      "south",
+      "korea",
+      "japan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "oregon",
+      "south korea",
+      "oregon",
+      "japan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "south korea",
+      "united states of america",
+      "japan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "led",
+      "led"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "kor",
+      "060",
+      "usa",
+      "jpn",
+      "060"
+    ]
+  }
+}

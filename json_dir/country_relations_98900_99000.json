@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gravity-payments-raise_n_7061676.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/meatless-monday-us-vegwee_b_7020300.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-united-states-should-_2_b_7053052.html"
+  },
+  "headline":{
+    "0":"CEO Slashes $1 Million Salary To Give Lowest-Paid Workers A Raise",
+    "1":"Meatless Monday: U.S. VegWeek Saves Your Bacon",
+    "2":"The United States Should Remember Raphael Lemkin's Words and Formally Recognize the Armenian Genocide"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"GREEN",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Seven thousand people pledged to go meatless for US Veg Week in 2014, and armed with the support of Raskin, Carter, Esther and others, Meier's hoping to make that number closer to 10,000 this year.",
+    "2":"If the man who coined the term \"genocide\" is on tape stating verbatim that it happened \"to the Armenians,\" why on Earth can't the United States formally recognize the Armenian Genocide?"
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Ellen Kanner, ContributorAuthor and syndicated columnist, the Edgy Veggie",
+    "2":"H. A. Goodman, ContributorColumnist published in The Cleveland Plain Dealer, The Baltimo..."
+  },
+  "date":{
+    "0":"2015-04-14 00:00:00",
+    "1":"2015-04-13 00:00:00",
+    "2":"2015-04-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---ppl",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"usa",
+    "2":"arm"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"042",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.9,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "ceo",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "armenian",
+      "arm",
+      "armenia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceo",
+      "workers"
+    ],
+    "1":[
+      "people",
+      "us"
+    ],
+    "2":[
+      "the united states",
+      "armenian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "armenia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "slashes ... give"
+    ],
+    "1":[
+      "pledged ... go ... for"
+    ],
+    "2":[
+      "should ... recognize"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_atrocity",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "060"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "042"
+    ],
+    "2":[
+      "usa",
+      "arm",
+      "051"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/watch-jeremy-jordan-slay-_n_6501832.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/yemen-prime-minister_n_6502504.html"
+  },
+  "headline":{
+    "0":"Watch Jeremy Jordan Slay Celine Dion Classic",
+    "1":"Yemeni Houthi Fighters Surround Prime Minister's Home, Official Says"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":""
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2015-01-19 00:00:00",
+    "1":"2015-01-19 00:00:00"
+  },
+  "actor1":{
+    "0":"jor",
+    "1":"yemuaf"
+  },
+  "actor2":{
+    "0":"yoda_konkobo_",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "jordan",
+      "jor",
+      "jordan",
+      "celine",
+      "yoda_konkobo_",
+      "celine"
+    ],
+    "1":[
+      "yemeni",
+      "fighters",
+      "yemuaf",
+      "yemen",
+      "~",
+      "prime minister",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jordan",
+      "celine"
+    ],
+    "1":[
+      "yemeni ... fighters",
+      "prime minister"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jordan",
+      "celine"
+    ],
+    "1":[
+      "yemen",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "slay"
+    ],
+    "1":[
+      "surround"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "jor",
+      "yoda_konkobo_",
+      "190"
+    ],
+    "1":[
+      "yemuaf",
+      "---gov",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sandy-hook-lawsuit_us_572cc60be4b016f378958cdd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-doctor-was-told-to-be-silent-on-abortions-shes-refused_us_572b590ce4b096e9f09064df"
+  },
+  "headline":{
+    "0":"Sandy Hook Families Win Another Victory In Court",
+    "1":"A Hospital Ordered This Doctor To Be Silent On Abortions. She Refused."
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN"
+  },
+  "short_description":{
+    "0":"Judge orders gun manufacturers to release internal documents on how they market guns.",
+    "1":"\"I don't think the way to deal with bullies is to cower and pull back.\""
+  },
+  "authors":{
+    "0":"Christina Wilkie",
+    "1":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2016-05-06 00:00:00",
+    "1":"2016-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "manufacturers",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "hospital",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "manufacturers"
+    ],
+    "1":[
+      "hospital",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "orders"
+    ],
+    "1":[
+      "ordered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---bus",
+      "100"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "100"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/university-of-hawaii-voyeur-student-pics_n_7123418.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/arma-virumque-cano-milita_b_7124196.html"
+  },
+  "headline":{
+    "0":"Man Caught Taking Candid Photos Of College Women And Posting Them To Porn Site",
+    "1":"'Arma Virumque Cano' - Militarism and Parades in Asia"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Military parades are an indispensable political platform for communicating power and ambition and are now amplified by the tools of mass media, which can orchestrate and glamourize rhythmic ranks of well-booted warriors and rolling chariots of gleaming steel."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Franz-Stefan Gady, ContributorSenior Fellow, EastWest Institute; Editor, The Diplomat Magazi..."
+  },
+  "date":{
+    "0":"2015-04-24 00:00:00",
+    "1":"2015-04-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---educvl",
+    "1":"---mil"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "college",
+      "women",
+      "~educvl",
+      "~",
+      "~",
+      "college",
+      "women",
+      "~educvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "military",
+      "~mil",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "college women"
+    ],
+    "1":[
+      "media",
+      "military"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "taking"
+    ],
+    "1":[
+      "<~mil> ... amplified by <~med>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---educvl",
+      "171"
+    ],
+    "1":[
+      "---med",
+      "---mil",
+      "060"
+    ]
+  }
+}

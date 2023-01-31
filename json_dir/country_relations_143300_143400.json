@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-airways-kicks-blind-ma_us_5bb30261e4b0480ca6613b06",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/thousands-march-outside-t_us_5bb146c5e4b09bbe9a5dd867"
+  },
+  "headline":{
+    "0":"US Airways Kicks Blind Man Off Plane and Employs the 'Ostrich Strategy' to Public's Outrage",
+    "1":"Thousands March Outside the UN Climate Talks in Warsaw, Poland"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"I hope I'm asking this question on behalf of the majority of my peers, but which school of thought produced the Ostrich strategy in regards to responding to customer service, and ultimately, public relations issues?",
+    "1":"Thousands of people from around the world took the streets outside the UN Climate Talks in Warsaw today to demand climate justice."
+  },
+  "authors":{
+    "0":"Reid Wegley, Contributor\nPR Guy & Coolhunter",
+    "1":"Jamie Henn, Contributor\nCo-founder and Strategic Communications Director, 350.org and ..."
+  },
+  "date":{
+    "0":"2013-11-16 00:00:00",
+    "1":"2013-11-16 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"igouno"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "us airways",
+      "mncusa",
+      "us",
+      "airways",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "the un",
+      "igouno",
+      "the",
+      "un",
+      "warsaw",
+      "pol",
+      "poland"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "us airways",
+      "man"
+    ],
+    "1":[
+      "people",
+      "the ... un",
+      "people",
+      "warsaw"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "us airways",
+      "---"
+    ],
+    "1":[
+      "---",
+      "the un",
+      "---",
+      "poland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... kicks"
+    ],
+    "1":[
+      "took",
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---ppl",
+      "180"
+    ],
+    "1":[
+      "---ppl",
+      "igouno",
+      "171",
+      "---ppl",
+      "pol",
+      "171"
+    ]
+  }
+}

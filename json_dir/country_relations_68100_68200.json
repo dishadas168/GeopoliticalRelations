@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bruce-springsteen-michigan-anti-lgbt-law_us_5710dde4e4b06f35cb6f3de2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/eu-wants-google-to-increase-transparency_us_57113477e4b0060ccda33679",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/greenland-seaweed_us_57114529e4b0018f9cba1451"
+  },
+  "headline":{
+    "0":"Bruce Springsteen Threatens To Boycott Another State Over Anti-LGBT Bill",
+    "1":"EU Wants Search Engines To Be More Up Front About Ads",
+    "2":"Let Them Eat Kelp: Spinning Gold From Seaweed In Greenland"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"TECH",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Boss means business.",
+    "1":"Regulators are calling for more transparency from Google and Microsoft.",
+    "2":"The thick beds of kelp growing near Sisimiut, Greenland, inspired an enterprising teacher to launch a new business and revive"
+  },
+  "authors":{
+    "0":"Noah Michelson",
+    "1":"Julia Fioretti, Reuters",
+    "2":"Jennifer Kingsley, Arctic Deeply"
+  },
+  "date":{
+    "0":"2016-04-15 00:00:00",
+    "1":"2016-04-15 00:00:00",
+    "2":"2016-04-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---gov",
+    "2":"dnkgrl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"mncusamed",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"020",
+    "2":"051"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.0,
+    "2":3.4
+  },
+  "nouns":{
+    "0":[
+      "boss",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "regulators",
+      "~gov",
+      "~",
+      "google",
+      "microsoft",
+      "mncusamed",
+      "mncusa",
+      "google",
+      "microsoft"
+    ],
+    "2":[
+      "greenland",
+      "dnkgrl",
+      "greenland",
+      "teacher",
+      "~edu",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "boss",
+      "boss"
+    ],
+    "1":[
+      "regulators",
+      "google",
+      "regulators",
+      "google"
+    ],
+    "2":[
+      "greenland",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "google",
+      "---",
+      "google"
+    ],
+    "2":[
+      "greenland",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "means"
+    ],
+    "1":[
+      "are calling for",
+      "are calling for"
+    ],
+    "2":[
+      "inspired"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "mncusamed",
+      "020",
+      "---gov",
+      "mncusa",
+      "020"
+    ],
+    "2":[
+      "dnkgrl",
+      "---edu",
+      "051"
+    ]
+  }
+}

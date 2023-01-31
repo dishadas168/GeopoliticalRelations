@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/national-pyrotechnic-festival_us_5b9d4699e4b03a1dcc86343e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/interns-sue-gawker-unpaid-no-pay_us_5bb2f82ee4b0480ca65fdf35"
+  },
+  "headline":{
+    "0":"National Pyrotechnic Festival in Tultepec, Mexico",
+    "1":"Former Interns Sue Gawker Over No Pay, Allege Media Company Violated Federal Law"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Every year 100,000 people gather in Tultepec, Mexico to experience the nine day National Pyrotechnic Festival. Like most festivals, food, rides, music, and dancing are involved, but the biggest thrills are the amazing fireworks displays.",
+    "1":"Gawker Media and founder Nick Denton were slapped with a lawsuit this week from three former workers who allege that the"
+  },
+  "authors":{
+    "0":"VisualNews.com, Contributor\nA place where you can find daily visual inspiration from aroun...",
+    "1":""
+  },
+  "date":{
+    "0":"2013-06-22 00:00:00",
+    "1":"2013-06-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---lab"
+  },
+  "actor2":{
+    "0":"mex",
+    "1":"---med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"180"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-9.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "mexico"
+    ],
+    "1":[
+      "workers",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "mexico"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gather"
+    ],
+    "1":[
+      "<~med> ... slapped ... from <~lab>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "mex",
+      "040"
+    ],
+    "1":[
+      "---lab",
+      "---med",
+      "180"
+    ]
+  }
+}

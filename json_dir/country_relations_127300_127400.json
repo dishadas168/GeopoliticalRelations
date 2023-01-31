@@ -1,0 +1,79 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-new-wave-of-artists-wri_b_5299992.html"
+  },
+  "headline":{
+    "0":"A New Wave of Artists, Writers, Educators and Managers is Helping Kathmandu Open Up"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"On a perfect spring evening The City Museum of Kathmandu, led by its director Kashish Das Shrestha, hosted a crowd of nearly 200 for a unique event titled Khumbila."
+  },
+  "authors":{
+    "0":"Niranjan Kunwar, ContributorWriter"
+  },
+  "date":{
+    "0":"2014-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---mededu"
+  },
+  "actor2":{
+    "0":"npl"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "writers",
+      "educators",
+      "~mededu",
+      "~",
+      "~",
+      "writers",
+      "educators",
+      "~mededu",
+      "~",
+      "~",
+      "kathmandu",
+      "npl",
+      "nepal"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "writers ... educators",
+      "kathmandu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "nepal"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... helping"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mededu",
+      "npl",
+      "070"
+    ]
+  }
+}

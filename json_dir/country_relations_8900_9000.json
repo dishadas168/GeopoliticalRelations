@@ -1,0 +1,446 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/restorative-justice-california-schools_us_5afdb96de4b0c1cf3c0c3efb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-arresting-noncriminal-immigrants_us_5afdedf4e4b07309e0562f7d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/whitney-houston-sexually-abused-by-dee-dee-warwick-cannes-documentary_us_5afd5d8ee4b06a3fb50e1332",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-threatens-trump-summit_us_5afbac0be4b0779345d3f941",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hundreds-israel-beyond-protest-killings_us_5afb6d48e4b0a59b4dfe7ff8",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/pennsylvania-congress-men_us_5afc3659e4b06a3fb50c85d4",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/novartis-lawyer-resigns-michael-cohen-deal_us_5afc07d4e4b0a59b4dff2326",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/beirut-pride-canceled_us_5afb33e3e4b044dfffb6855c",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/trump-jr-left-open-possibility-dad-knew-trump-tower-meeting_us_5afc54cae4b0a59b4dffac08",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/american-citizen-freed-from-egypt-jail_us_5afc6d61e4b0a59b4dffe2c2"
+  },
+  "headline":{
+    "0":"The Controversial Way Some California Schools Are Handling Students' Misbehavior",
+    "1":"Trump's ICE Is Increasingly Arresting Immigrants Without Criminal Convictions",
+    "2":"Whitney Houston Was Sexually Abused By Dee Dee Warwick: Cannes Documentary",
+    "3":"North Korea Threatens To 'Reconsider' Trump Summit, Cancels South Korea Talks",
+    "4":"Hundreds In Israel And Beyond Protest Killings Of Palestinians On Gaza Border",
+    "5":"Pennsylvania's Congressional Delegation Will No Longer Be All Men",
+    "6":"Top Novartis Lawyer Resigns Over Michael Cohen Deal",
+    "7":"Beirut Pride Canceled After Organizer Is Detained By Authorities",
+    "8":"Trump Jr. Left Open Possibility That Dad Knew Of Trump Tower Meeting At The Time",
+    "9":"American Citizen Freed From Egypt Jail"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"QUEER VOICES",
+    "8":"POLITICS",
+    "9":"POLITICS"
+  },
+  "short_description":{
+    "0":"By David Washburn The two 9th-grade girls heard the laughing the minute they walked into their third-period class that December",
+    "1":"The president often talks about criminals that his administration finds and deports. But a lot of noncriminals are being swept up too.",
+    "2":"The revelation in \"Whitney\" adds another sad chapter to the late singer's turbulent life.",
+    "3":"Pyongyang condemned recent joint military exercises conducted by the United States and South Korea, calling the drills an \"intentional provocation.\"",
+    "4":"Israeli military forces killed some 60 Palestinian demonstrators on Monday.",
+    "5":"It looks like at least one woman will be heading to Washington from the state.",
+    "6":"U.S. lawmakers demand details from Novartis and AT&T about their payments to Cohen's firm.",
+    "7":"The news comes just one year after Lebanon's first pride celebration.",
+    "8":"Senate transcripts reveal the president's son only partly backed White House claims that the president didn't know.",
+    "9":"Advocates for Ahmed Etiwy said the White House had never made the case a priority despite President Donald Trump's \"America First\" policy."
+  },
+  "authors":{
+    "0":"EdSource, Editorial Partner",
+    "1":"Elise Foley",
+    "2":"Ron Dicker",
+    "3":"Dominique Mosbergen",
+    "4":"Sarah Ruiz-Grossman",
+    "5":"Amanda Terkel",
+    "6":"John Miller, Reuters",
+    "7":"",
+    "8":"Lydia O'Connor",
+    "9":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2018-05-17 00:00:00",
+    "1":"2018-05-17 00:00:00",
+    "2":"2018-05-17 00:00:00",
+    "3":"2018-05-16 00:00:00",
+    "4":"2018-05-16 00:00:00",
+    "5":"2018-05-16 00:00:00",
+    "6":"2018-05-16 00:00:00",
+    "7":"2018-05-16 00:00:00",
+    "8":"2018-05-16 00:00:00",
+    "9":"2018-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"---gov",
+    "2":"fra",
+    "3":"prk",
+    "4":"isrmil",
+    "5":"---cvl",
+    "6":"usaleg",
+    "7":"---gov",
+    "8":"usagovleg",
+    "9":"---jud"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---crm",
+    "2":"usa",
+    "3":"---mil",
+    "4":"pseopp",
+    "5":"usa",
+    "6":"mncchehlh",
+    "7":"lbn",
+    "8":"---gov",
+    "9":"usagov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010",
+    "2":"180",
+    "3":"111",
+    "4":"190",
+    "5":"042",
+    "6":"100",
+    "7":"173",
+    "8":"050",
+    "9":"010"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":-9.0,
+    "3":-2.0,
+    "4":-10.0,
+    "5":1.9,
+    "6":-5.0,
+    "7":-5.0,
+    "8":3.5,
+    "9":0.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "schools",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "criminals",
+      "~crm",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cannes",
+      "fra",
+      "france"
+    ],
+    "3":[
+      "pyongyang",
+      "prk",
+      "north",
+      "korea",
+      "military",
+      "~mil",
+      "~",
+      "the united states",
+      "south korea",
+      "usa",
+      "kor",
+      "united",
+      "states",
+      "of",
+      "america",
+      "south",
+      "korea",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "israeli",
+      "military forces",
+      "isrmil",
+      "israel",
+      "~",
+      "palestinian",
+      "demonstrators",
+      "pseopp",
+      "palestine",
+      "~"
+    ],
+    "5":[
+      "woman",
+      "~cvl",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "u.s.",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "novartis",
+      "at&t",
+      "mncchehlh",
+      "mncusamed",
+      "novartis",
+      "at&t"
+    ],
+    "7":[
+      "beirut",
+      "lbn",
+      "lebanon",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "8":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "9":[
+      "advocates",
+      "~jud",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california schools",
+      "students"
+    ],
+    "1":[
+      "president",
+      "criminals"
+    ],
+    "2":[
+      "cannes",
+      "houston"
+    ],
+    "3":[
+      "pyongyang",
+      "military"
+    ],
+    "4":[
+      "israeli military forces",
+      "palestinian demonstrators"
+    ],
+    "5":[
+      "woman",
+      "washington"
+    ],
+    "6":[
+      "u.s. lawmakers",
+      "novartis",
+      "u.s. lawmakers",
+      "<at&t>"
+    ],
+    "7":[
+      "authorities",
+      "beirut"
+    ],
+    "8":[
+      "senate",
+      "president"
+    ],
+    "9":[
+      "advocates",
+      "the white house"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "france",
+      "united states of america"
+    ],
+    "3":[
+      "north korea",
+      "---"
+    ],
+    "4":[
+      "israel",
+      "palestine"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "united states of america",
+      "novartis",
+      "united states of america",
+      "at&t"
+    ],
+    "7":[
+      "---",
+      "lebanon"
+    ],
+    "8":[
+      "united states congress",
+      "---"
+    ],
+    "9":[
+      "---",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are handling"
+    ],
+    "1":[
+      "talks"
+    ],
+    "2":[
+      "<usa> ... abused by <fra>"
+    ],
+    "3":[
+      "condemned"
+    ],
+    "4":[
+      "killed"
+    ],
+    "5":[
+      "will ... heading to"
+    ],
+    "6":[
+      "demand",
+      "demand"
+    ],
+    "7":[
+      "<lbn> ... detained by <~gov>"
+    ],
+    "8":[
+      "reveal"
+    ],
+    "9":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "gender_violence",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---edu",
+      "060"
+    ],
+    "1":[
+      "---gov",
+      "---crm",
+      "010"
+    ],
+    "2":[
+      "fra",
+      "usa",
+      "180"
+    ],
+    "3":[
+      "prk",
+      "---mil",
+      "111"
+    ],
+    "4":[
+      "isrmil",
+      "pseopp",
+      "190"
+    ],
+    "5":[
+      "---cvl",
+      "usa",
+      "042"
+    ],
+    "6":[
+      "usaleg",
+      "mncchehlh",
+      "100",
+      "usaleg",
+      "mncusamed",
+      "100"
+    ],
+    "7":[
+      "---gov",
+      "lbn",
+      "173"
+    ],
+    "8":[
+      "usagovleg",
+      "---gov",
+      "050"
+    ],
+    "9":[
+      "---jud",
+      "usagov",
+      "010"
+    ]
+  }
+}

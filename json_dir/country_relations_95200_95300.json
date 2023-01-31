@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/its-time-to-legalize-abortion-in-chile-and-everywhere-else_b_7444224.html"
+  },
+  "headline":{
+    "0":"It's Time to Legalize Abortion in Chile and Everywhere Else"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"A shocking new ad campaign in Chile is telling women if they want to have an abortion, they should consider falling from the top of a staircase. That's because right now in Chile, it's illegal to end a pregnancy regardless of the circumstances."
+  },
+  "authors":{
+    "0":"Steve Siebold, ContributorAuthor and expert in the field of critical thinking and mental..."
+  },
+  "date":{
+    "0":"2015-05-27 00:00:00"
+  },
+  "actor1":{
+    "0":"chl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "chile",
+      "chl",
+      "chile",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chile",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "chile",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is telling"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "chl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

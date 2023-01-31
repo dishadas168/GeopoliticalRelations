@@ -1,0 +1,85 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/inauguration-trial-j20-trump-doj_us_5a32e337e4b0ff955ad14e6d"
+  },
+  "headline":{
+    "0":"Trump Protesters Facing Felonies Say U.S. Wants To Criminalize The First Amendment"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The U.S. government told a D.C. jury that six people -- including a photographer and two medics -- \u201cagreed to destroy your city.\""
+  },
+  "authors":{
+    "0":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2017-12-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "medics",
+      "~hlh",
+      "~",
+      "people",
+      "medics",
+      "~hlh",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. government",
+      "d.c."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "010"
+    ]
+  }
+}

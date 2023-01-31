@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michelle-obama-gender-women_n_5634915.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/japans-policy-of-denial-o_b_5622934.html"
+  },
+  "headline":{
+    "0":"Michelle Obama Tells Men To Ask Themselves If They 'Truly View Women As Their Equals'",
+    "1":"Japan's Policy of Denial on Religious Freedom"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"For decades, Japanese authorities have looked the other way when families have attempted to force adult children to recant their religious faith by abducting them and subjecting them to physical and psychological coercion."
+  },
+  "authors":{
+    "0":"",
+    "1":"Aaron Rhodes, ContributorCo-founder and principal investigator, Freedom Rights Project"
+  },
+  "date":{
+    "0":"2014-07-30 00:00:00",
+    "1":"2014-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"jpngov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "japanese",
+      "authorities",
+      "jpngov",
+      "japan",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "men"
+    ],
+    "1":[
+      "japanese authorities",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "japan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "have ... force"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "jpngov",
+      "---cvl",
+      "170"
+    ]
+  }
+}

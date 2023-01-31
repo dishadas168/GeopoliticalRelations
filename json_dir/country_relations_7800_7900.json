@@ -1,0 +1,239 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/joe-biden-donald-trump-trashing-american-values_n_5bc1b6cee4b0bd9ed55a744c",
+    "1":"https:\/\/www.huffpost.com\/entry\/ryan-langdale-attempted-murder-potato-chips_n_5bbfb50be4b01a01d688c4c3",
+    "2":"https:\/\/www.huffpost.com\/entry\/missouri-voter-id-law-photo-id_n_5bbd261ae4b028e1fe42b140",
+    "3":"https:\/\/www.huffpost.com\/entry\/women-trump-christine-blasey-ford-kavanaugh_n_5bb4261ee4b028e1fe38da69",
+    "4":"https:\/\/www.huffpost.com\/entry\/trump-trudeau-meeting-nafta_n_5bac8351e4b082030e785706"
+  },
+  "headline":{
+    "0":"Joe Biden Sums Up Method To Donald Trump's 'Madness' Of 'Trashing American Values'",
+    "1":"South Carolina Man Shoots Cousin He Warned Not To Eat His Potato Chips: Police",
+    "2":"Missouri Judge Strikes Down Portion Of State's Voter ID Law",
+    "3":"\u2018Women For Trump\u2019 Cheer As President Mocks Christine Blasey Ford",
+    "4":"Trump Didn\u2019t Have A Meeting Scheduled With Trudeau \u2014 But He Canceled It Anyway"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The former vice president hit out at Trump during a campaign rally in Owingsville, Kentucky.",
+    "1":"The victim told authorities he never actually ate the chips as the suspect claimed.",
+    "2":"The statement that voters without the required photo ID had to swear to was misleading, Judge Richard Callahan ruled.",
+    "3":"The president ridicules his Supreme Court nominee's accuser at a Mississippi rally while women laugh and applaud.",
+    "4":"The U.S. president said he snubbed a meeting request from Canada's prime minister, but Canada said there was no such request."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"David Moye",
+    "2":"Sam Levine",
+    "3":"David Barden",
+    "4":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-10-13 00:00:00",
+    "1":"2018-10-11 00:00:00",
+    "2":"2018-10-10 00:00:00",
+    "3":"2018-10-03 00:00:00",
+    "4":"2018-09-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"usajud",
+    "3":"---gov",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"usa",
+    "4":"cangov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"190",
+    "3":"111",
+    "4":"111"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":-2.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "victim",
+      "~cvl",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "missouri",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "voter",
+      "~cvl",
+      "~",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "mississippi",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "canada",
+      "prime minister",
+      "cangov",
+      "canada",
+      "~",
+      "canada",
+      "can",
+      "canada"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "kentucky"
+    ],
+    "1":[
+      "victim",
+      "authorities"
+    ],
+    "2":[
+      "missouri judge",
+      "voter"
+    ],
+    "3":[
+      "president",
+      "mississippi"
+    ],
+    "4":[
+      "u.s. president",
+      "canada ... prime minister"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "canada"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hit"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "strikes"
+    ],
+    "3":[
+      "ridicules"
+    ],
+    "4":[
+      "said ... snubbed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "usajud",
+      "---cvl",
+      "190"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "111"
+    ],
+    "4":[
+      "usagov",
+      "cangov",
+      "111"
+    ]
+  }
+}

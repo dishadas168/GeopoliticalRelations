@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/man-gives-up-birthday-cancer-charity_n_6123744.html"
+  },
+  "headline":{
+    "0":"This Man Ditched His Birthday, Asked People To Donate To His Cousin's Cancer Fund Instead"
+  },
+  "category":{
+    "0":"GOOD NEWS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Ryan Grenoble"
+  },
+  "date":{
+    "0":"2014-11-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked"
+    ]
+  },
+  "issues":{
+    "0":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "020"
+    ]
+  }
+}

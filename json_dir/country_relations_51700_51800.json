@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/huffpost-hill-fbi-schlongs-clinton-campaign_us_5813cb35e4b0990edc315df3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-bullying_us_581222a8e4b0390e69ce8574"
+  },
+  "headline":{
+    "0":"HUFFPOST HILL - FBI Schlongs Clinton Campaign",
+    "1":"Hillary Clinton Has A New Plan To Combat The Bullying Spurred By Donald Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The FBI\u2019s investigation into Anthony Weiner\u2019s misdoings yielded more Hillary Clinton emails, reminding us that \u201cpolitics",
+    "1":"Teachers say that Donald's Trump campaign has led to an increase in school bullying. Hillary Clinton has a plan to change that."
+  },
+  "authors":{
+    "0":"Jeffrey Young and Eliot Nelson",
+    "1":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2016-10-28 00:00:00",
+    "1":"2016-10-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"042"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.9
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "teachers",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "hillary clinton"
+    ],
+    "1":[
+      "teachers",
+      "teachers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "hillary clinton"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "yielded"
+    ],
+    "1":[
+      "say ... led to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usaeli",
+      "08"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "042"
+    ]
+  }
+}

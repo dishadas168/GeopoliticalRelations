@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jordan-rapists-marry-victims_us_58fe063ae4b018a9ce5d034a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/demise-of-the-secular-turkish-republic_us_58fd4f72e4b086ce5898129a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lebanon-rape-law_us_58fcda14e4b00fa7de151e02"
+  },
+  "headline":{
+    "0":"Jordan To Abandon Law Allowing Rapists To Go Free If They Marry Their Victims",
+    "1":"Demise Of The Secular Turkish Republic",
+    "2":"Lebanese Activists Protest 'Stone Age' Rape Law With Haunting Public Art Piece"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Other Middle Eastern and African countries still have similar \"stone age\" laws.",
+    "1":"Turkey has given its\u00a0verdict in the referendum\u00a0paving the way for a powerful Tayyip Erdogan presidency. Although the margin",
+    "2":"The longstanding law lets rapists go free if they marry their victim."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Raza Habib Raja, ContributorA PhD Student and freelance writer",
+    "2":"Kim Bellware"
+  },
+  "date":{
+    "0":"2017-04-24 00:00:00",
+    "1":"2017-04-24 00:00:00",
+    "2":"2017-04-23 00:00:00"
+  },
+  "actor1":{
+    "0":"jor",
+    "1":"tur",
+    "2":"---crm"
+  },
+  "actor2":{
+    "0":"jor",
+    "1":"turgov",
+    "2":"---crm"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "jordan",
+      "jor",
+      "jordan",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "turkey",
+      "tur",
+      "turkey",
+      "tayyip erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan"
+    ],
+    "2":[
+      "rapists",
+      "~crm",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jordan",
+      "jordan"
+    ],
+    "1":[
+      "turkey",
+      "tayyip erdogan"
+    ],
+    "2":[
+      "rapists",
+      "rapists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jordan",
+      "jordan"
+    ],
+    "1":[
+      "turkey",
+      "recep tayyip erdogan"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "has given"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "rape",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "jor",
+      "jor",
+      "040"
+    ],
+    "1":[
+      "tur",
+      "turgov",
+      "060"
+    ],
+    "2":[
+      "---crm",
+      "---crm",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-awardwinning-program-_b_6858724.html"
+  },
+  "headline":{
+    "0":"The Award-Winning Program That's Kept 1,000 Kids Off Houston Streets"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"Workshop Houston, which has been running for more than a decade, has helped approximately 1,000 students in a neighborhood where extracurricular activities are sparse and one in four families live below the poverty line."
+  },
+  "authors":{
+    "0":"NationSwell, ContributorDigital Media Company"
+  },
+  "date":{
+    "0":"2015-03-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~",
+      "neighborhood",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "houston",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... helped"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "poverty",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "070"
+    ]
+  }
+}

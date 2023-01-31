@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/oxfam-donald-trump-childhood-home_us_59c0ca3de4b087fdf5079f7c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/jason-stockley-st-louis-protests_us_59c13330e4b0f22c4a8cb27e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/56-photos-that-show-what-motherhood-looks-like-around-the-world_us_59a5e325e4b063ae34d9bfe7"
+  },
+  "headline":{
+    "0":"A Charity Just Rented Out Donald Trump\u2019s Childhood Home For Refugees",
+    "1":"Why People Are Still Protesting In St. Louis",
+    "2":"56 Photos That Show What Motherhood Looks Like Around The World"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"PARENTS"
+  },
+  "short_description":{
+    "0":"Oxfam wants to \"send a message to Trump but also world leaders that they need to do more to help refugees.\"",
+    "1":"HuffPost spoke with demonstrators who took to the streets for the fourth night.",
+    "2":"People across the globe photographed what \"mum\" means to them."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Ryan J. Reilly",
+    "2":"Caroline Bologna"
+  },
+  "date":{
+    "0":"2017-09-19 00:00:00",
+    "1":"2017-09-19 00:00:00",
+    "2":"2017-09-19 00:00:00"
+  },
+  "actor1":{
+    "0":"ngoxfm",
+    "1":"---ppl",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"103",
+    "1":"140",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-6.5,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "oxfam",
+      "ngoxfm",
+      "oxfam",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "st. louis",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "oxfam",
+      "refugees"
+    ],
+    "1":[
+      "people",
+      "st. louis"
+    ],
+    "2":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "oxfam",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... send ... message ... need ... help"
+    ],
+    "1":[
+      "are ... protesting"
+    ],
+    "2":[
+      "photographed ... means"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "ngoxfm",
+      "---ref",
+      "103"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "140"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "030"
+    ]
+  }
+}

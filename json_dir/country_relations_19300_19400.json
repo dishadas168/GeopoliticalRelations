@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/america-needs-men-to-step-up-or-step-aside_us_5a147644e4b03dec8248a42d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/harvey-weinstein-non-disclosure-agreements_us_5a142f45e4b0aa32975dc03b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/diana-degette-bob-filner_us_5a142676e4b0bfa88c1cef15"
+  },
+  "headline":{
+    "0":"America Needs Men To Step Up Or Step Aside",
+    "1":"How Harvey Weinstein Used Elaborate Nondisclosure Agreements To Silence Accusers",
+    "2":"Congresswoman Says Former Congressman Tried To Force Himself On Her In Elevator"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Our nation's raft of sexual assault revelations demonstrates our dire need for women in positions of power who can frame policy and codify codes of conduct.",
+    "1":"New reporting from the New Yorker's Ronan Farrow documents yet another tool that perpetrators of sexual misconduct can use to assert power over their victims.",
+    "2":"Rep. Diana DeGette says former San Diego Mayor Bob Filner once tried to forcibly kiss her. Former Rep. Donna Edwards also said he behaved inappropriately toward her."
+  },
+  "authors":{
+    "0":"Lulete Mola and Erin Vilardi, Contributors",
+    "1":"Marina Fang",
+    "2":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2017-11-21 00:00:00",
+    "1":"2017-11-21 00:00:00",
+    "2":"2017-11-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---crm",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"---leg"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "perpetrators",
+      "~crm",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "congresswoman",
+      "~leg",
+      "~",
+      "congressman",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "men"
+    ],
+    "1":[
+      "perpetrators",
+      "victims"
+    ],
+    "2":[
+      "congresswoman",
+      "congresswoman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "needs"
+    ],
+    "1":[
+      "can ... assert"
+    ],
+    "2":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "100"
+    ],
+    "1":[
+      "---crm",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "---leg",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.scarymommy.com\/the-first-child\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sofia-vergara-rooms-to-go_us_5b9cf896e4b03a1dcc8362db"
+  },
+  "headline":{
+    "0":"15 Differences Between The First Child And The Next One",
+    "1":"Sofia Vergara Signs Licensing Deal WIth Rooms To Go Furniture Company (PHOTOS)"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"1. Celebrating The first child: When we were expecting our first child, people celebrated me as though no woman had ever",
+    "1":"The Colombian beauty has so much up her sleeve."
+  },
+  "authors":{
+    "0":"",
+    "1":"Shana Ecker"
+  },
+  "date":{
+    "0":"2013-03-25 00:00:00",
+    "1":"2013-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"bgr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "sofia",
+      "bgr",
+      "bulgaria",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "child"
+    ],
+    "1":[
+      "sofia",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "bulgaria",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "were expecting"
+    ],
+    "1":[
+      "rooms ... go"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "bgr",
+      "---bus",
+      "040"
+    ]
+  }
+}

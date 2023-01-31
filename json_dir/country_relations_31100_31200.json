@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-tech-cyber-secrets_us_594da451e4b02734df2a83a2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/saudi-uae-demands-challenge-fundamentals-of-international_us_594cddf1e4b0326c0a8d076b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/musk-pleases-progressives-by-bailing-on-trump-will_us_594d482be4b0326c0a8d07e7"
+  },
+  "headline":{
+    "0":"REPORT: Under Pressure, Western Tech Firms Share Cyber Secrets With Russia",
+    "1":"Saudi-UAE Demands Challenge Fundamentals Of International Relations",
+    "2":"Elon Musk's Record On Workers' Rights Detracts From His Praise Among Liberals"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"WORLD NEWS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Western technology companies, including Cisco, IBM and SAP, are acceding to Moscow's demands for access to closely guarded product security secrets.",
+    "1":"By James M. Dorsey A list of 13 conditions for lifting the Saudi-UAE led embargo of Qatar handed to the Gulf state this week",
+    "2":"Tesla employees have complained about a raft of work-related injuries and illnesses throughout the CEO's tenure."
+  },
+  "authors":{
+    "0":"",
+    "1":"James M. Dorsey, ContributorS. Rajaratnam School of International Studies, Senior fellow",
+    "2":"Paul Alexander, ContributorPaul Alexander is an author living in New York City."
+  },
+  "date":{
+    "0":"2017-06-23 00:00:00",
+    "1":"2017-06-23 00:00:00",
+    "2":"2017-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"sau",
+    "2":"---lab"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"qat",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"060",
+    "2":"114"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":6.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "saudi",
+      "uae",
+      "sau",
+      "are",
+      "saudi",
+      "arabia",
+      "united",
+      "arab",
+      "emirates",
+      "qatar",
+      "qat",
+      "qatar",
+      "qatar",
+      "qat",
+      "qatar"
+    ],
+    "2":[
+      "employees",
+      "~lab",
+      "~",
+      "ceo",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "moscow"
+    ],
+    "1":[
+      "saudi",
+      "qatar",
+      "uae",
+      "qatar"
+    ],
+    "2":[
+      "employees",
+      "ceo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "russian federation"
+    ],
+    "1":[
+      "saudi arabia",
+      "qatar",
+      "united arab emirates",
+      "qatar"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are acceding"
+    ],
+    "1":[
+      "led",
+      "led"
+    ],
+    "2":[
+      "have complained"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "sanctions",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "rus",
+      "08"
+    ],
+    "1":[
+      "sau",
+      "qat",
+      "060",
+      "are",
+      "qat",
+      "060"
+    ],
+    "2":[
+      "---lab",
+      "---bus",
+      "114"
+    ]
+  }
+}

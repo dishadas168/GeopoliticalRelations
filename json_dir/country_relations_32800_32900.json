@@ -1,0 +1,191 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/leakers-share-new-email-dump-targeting-top-arab-diplomat-and-us-foreign-policy-elites_us_5934450be4b0c242ca252468",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/leakers-share-new-email-dump-targeting-top-arab-diplomat-and-us-foreign-policy-elites_us_5934450be4b0c242ca252468",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dont-cheer-up_us_593330dfe4b0649fff2119d1"
+  },
+  "headline":{
+    "0":"New Leaked Emails Show How Qatar Crisis Developed In The U.S.",
+    "1":"New Leaked Emails Show How Qatar Crisis Developed In The U.S.",
+    "2":"Don't Cheer Up"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"GREEN"
+  },
+  "short_description":{
+    "0":"The UAE ambassador called U.S. partner nation Qatar \"corrupt\" and Trump-linked GOP commentator Elliott Abrams joked about a military takeover there.",
+    "1":"The UAE ambassador called U.S. partner nation Qatar \"corrupt\" and Trump-linked GOP commentator Elliott Abrams joked about a military takeover there.",
+    "2":"On Thursday, President Trump announced he will withdraw the United States from the Paris Climate Agreement. If that makes"
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"Akbar Shahid Ahmed",
+    "2":"Michael Brune, ContributorExecutive Director, Sierra Club"
+  },
+  "date":{
+    "0":"2017-06-04 00:00:00",
+    "1":"2017-06-04 00:00:00",
+    "2":"2017-06-03 00:00:00"
+  },
+  "actor1":{
+    "0":"qat",
+    "1":"usa",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"aregov",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"012",
+    "1":"041",
+    "2":"161"
+  },
+  "goldstein_score":{
+    "0":-0.4,
+    "1":1.0,
+    "2":-4.0
+  },
+  "nouns":{
+    "0":[
+      "qatar",
+      "qat",
+      "qatar",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "uae",
+      "ambassador",
+      "aregov",
+      "united",
+      "arab",
+      "emirates",
+      "~",
+      "u.s.",
+      "qatar",
+      "usa",
+      "qat",
+      "united",
+      "states",
+      "of",
+      "america",
+      "qatar",
+      "commentator",
+      "~med",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "paris",
+      "fra",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "qatar",
+      "<u.s.>"
+    ],
+    "1":[
+      "u.s.",
+      "uae ambassador",
+      "uae ambassador",
+      "u.s.",
+      "qatar",
+      "uae ambassador",
+      "uae ambassador",
+      "qatar"
+    ],
+    "2":[
+      "president",
+      "the united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "qatar",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "united arab emirates",
+      "united arab emirates",
+      "united states of america",
+      "qatar",
+      "united arab emirates",
+      "united arab emirates",
+      "qatar"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "crisis developed"
+    ],
+    "1":[
+      "called",
+      "called",
+      "called",
+      "called"
+    ],
+    "2":[
+      "announced ... will withdraw ... from <&treaty>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "corruption",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "qat",
+      "usa",
+      "012"
+    ],
+    "1":[
+      "usa",
+      "aregov",
+      "041",
+      "aregov",
+      "usa",
+      "041",
+      "qat",
+      "aregov",
+      "041",
+      "aregov",
+      "qat",
+      "041"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "161"
+    ]
+  }
+}

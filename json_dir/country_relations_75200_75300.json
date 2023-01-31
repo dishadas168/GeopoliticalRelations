@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michael-caine-controversial-oscar-comments_us_56a28929e4b0404eb8f18c9a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-flint-water-crisis_us_56a03c39e4b0d8cc1098bf55",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.queerty.com\/exclusive-transgender-woman-alleges-harassment-at-popular-times-square-restaurant-inaction-by-management-20160121"
+  },
+  "headline":{
+    "0":"The Full Story Behind Michael Caine's Controversial Oscar Comments",
+    "1":"Obama Calls Flint Water Crisis 'Inexplicable And Inexcusable'",
+    "2":"Transgender Woman Alleges Harassment At Popular Times Square Restaurant"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The actor said, \"You can't vote for an actor because he's black,\" but that wasn't all.",
+    "1":"The president said he understands why residents are outraged at the breakdown in government.",
+    "2":"A transgender woman says she was groped by a stranger and called homophobic and transphobic slurs by a group of friends at"
+  },
+  "authors":{
+    "0":"Bill Bradley",
+    "1":"Nick Visser",
+    "2":""
+  },
+  "date":{
+    "0":"2016-01-22 00:00:00",
+    "1":"2016-01-21 00:00:00",
+    "2":"2016-01-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---eli",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"041"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "residents",
+      "~cvl",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "actor"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "woman",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... ca ... vote"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "says <~cvl> ... called ... by <---> ... at <--->"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "2",
+      "discrimination",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---eli",
+      "030"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "---cvl",
+      "041"
+    ]
+  }
+}

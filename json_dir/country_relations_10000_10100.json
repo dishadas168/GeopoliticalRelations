@@ -1,0 +1,176 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-korea-planning-kim-jong-un_us_5ae17616e4b04aa23f1f641a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-michael-cohen-comments_us_5ae1edc9e4b04aa23f20a0e6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-hearing_us_5ae1fe64e4b055fd7fc983f9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/ronny-jackson-withdraws-va-secretary-nomination_us_5adf7ef6e4b07be4d4c58313"
+  },
+  "headline":{
+    "0":"South Korea Has Planned Kim Jong Un's Visit To A Crazy Level Of Detail",
+    "1":"Trump's Michael Cohen Comments Are Already Costing Him",
+    "2":"Scott Pruitt Admits He Knew About Controversial EPA Staff Raises",
+    "3":"Ronny Jackson Withdraws Name From VA Secretary Consideration"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Even the furniture and carpet for the North Korean leader's historic visit this week have been carefully chosen.",
+    "1":"The president may have shot himself in the foot by telling \u201cFox & Friends\u201d that Cohen only performed a tiny bit of his legal work.",
+    "2":"The EPA administrator blamed the media, even as he finally admitted his role in approving fat raises for aides.",
+    "3":"The Senate Veterans' Affairs Committee has been investigating allegations about the physician's work performance and conduct."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"Willa Frej",
+    "2":"Alexander C. Kaufman",
+    "3":"Antonia Blumberg"
+  },
+  "date":{
+    "0":"2018-04-26 00:00:00",
+    "1":"2018-04-26 00:00:00",
+    "2":"2018-04-26 00:00:00",
+    "3":"2018-04-26 00:00:00"
+  },
+  "actor1":{
+    "0":"kor",
+    "1":"---gov",
+    "2":"usagovenv",
+    "3":"usagovleg"
+  },
+  "actor2":{
+    "0":"igouno",
+    "1":"---gov",
+    "2":"---med",
+    "3":"---hlh"
+  },
+  "event_code":{
+    "0":"036",
+    "1":"190",
+    "2":"112",
+    "3":"090"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":-2.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "south korea",
+      "kor",
+      "south",
+      "korea",
+      "un",
+      "igouno",
+      "un"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "media",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "physician",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "south korea",
+      "un"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "epa",
+      "media"
+    ],
+    "3":[
+      "senate",
+      "physician"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "south korea",
+      "un"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "environmental protection agency",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has planned ... visit"
+    ],
+    "1":[
+      "may ... shot"
+    ],
+    "2":[
+      "blamed"
+    ],
+    "3":[
+      "has ... investigating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "kor",
+      "igouno",
+      "036"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "usagovenv",
+      "---med",
+      "112"
+    ],
+    "3":[
+      "usagovleg",
+      "---hlh",
+      "090"
+    ]
+  }
+}

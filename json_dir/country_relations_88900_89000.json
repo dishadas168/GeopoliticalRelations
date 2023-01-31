@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/berkshire-hathaway-precision-castparts_us_55c8a425e4b0923c12bd55a2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-student-loans_us_55c7d33be4b0f1cbf1e55e09",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/progressive-groups-fed-interest-rate-hike_us_55c8e768e4b0923c12bda06b",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/thehill.com\/policy\/energy-environment\/250628-obama-climate-fight-shifts-to-courts"
+  },
+  "headline":{
+    "0":"Berkshire Hathaway To Buy Precision Castparts For $37.2 Billion",
+    "1":"Hillary Clinton Wants To Help Student Debtors By Taxing The Rich",
+    "2":"Progressive Groups Go On The Offensive Against A Fed Interest Rate Hike",
+    "3":"Opponents Of Obama's New Climate Rule Ready Court Fight"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"By Sagarika Jaisinghani and Sweta Singh Aug 10 (Reuters) - Warren Buffett's Berkshire Hathaway Inc said it would buy aerospace",
+    "1":"Her plan calls for working college students to be able to pay tuition without loans.",
+    "2":"Activists want the central bank to wait for more wage growth. And Robert Reich is helping them explain why.",
+    "3":"States, energy companies and business groups are preparing to sue the Obama administration over its new climate rule, viewing"
+  },
+  "authors":{
+    "0":"",
+    "1":"Shahien Nasiripour",
+    "2":"Daniel Marans",
+    "3":""
+  },
+  "date":{
+    "0":"2015-08-10 00:00:00",
+    "1":"2015-08-10 00:00:00",
+    "2":"2015-08-10 00:00:00",
+    "3":"2015-08-09 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"usaeli",
+    "2":"---opp",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---edu",
+    "2":"---govbus",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"033",
+    "2":"030",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":5.2,
+    "2":4.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "berkshire hathaway inc",
+      "mncusa",
+      "berkshire",
+      "hathaway",
+      "inc",
+      "aerospace",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "student",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "activists",
+      "~opp",
+      "~",
+      "central bank",
+      "~govbus",
+      "~"
+    ],
+    "3":[
+      "companies",
+      "business",
+      "~bus",
+      "~",
+      "~",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "berkshire hathaway inc",
+      "aerospace"
+    ],
+    "1":[
+      "hillary clinton",
+      "student"
+    ],
+    "2":[
+      "activists",
+      "central bank"
+    ],
+    "3":[
+      "companies ... business",
+      "the obama administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "berkshire hathaway inc",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... would buy"
+    ],
+    "1":[
+      "wants ... help"
+    ],
+    "2":[
+      "want"
+    ],
+    "3":[
+      "are preparing ... sue"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---bus",
+      "061"
+    ],
+    "1":[
+      "usaeli",
+      "---edu",
+      "033"
+    ],
+    "2":[
+      "---opp",
+      "---govbus",
+      "030"
+    ],
+    "3":[
+      "---bus",
+      "usagov",
+      "173"
+    ]
+  }
+}

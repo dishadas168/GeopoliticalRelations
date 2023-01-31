@@ -1,0 +1,505 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/house-ethics-committee-duncan-hunter-voting_n_5de98fd4e4b0913e6f8d995b",
+    "1":"https:\/\/www.huffpost.com\/entry\/joe-biden-alexandria-ocasio-cortez-media-wrong_n_5deaaa1ce4b00149f7402842",
+    "2":"https:\/\/www.huffpost.com\/entry\/duncan-hunter-guilty-to-conspiracy_n_5de6affde4b0913e6f86a633",
+    "3":"https:\/\/www.huffpost.com\/entry\/impeachment-trump-senate-trial-mcconnell_n_5de6c856e4b0d50f32aa5004",
+    "4":"https:\/\/www.huffpost.com\/entry\/zelensky-ukraine-interview-trump_n_5de55102e4b0d50f32a6cbee",
+    "5":"https:\/\/www.huffpost.com\/entry\/trump-doesnt-understand-military-gallagher_n_5de3ebd1e4b0913e6f8099e4",
+    "6":"https:\/\/www.huffpost.com\/entry\/martin-omalley-ken-cuccinelli_n_5ddfe6a2e4b00149f72b3588",
+    "7":"https:\/\/www.huffpost.com\/entry\/climate-activists-social-media-death-threats_n_5ddd37eae4b0913e6f7422b6",
+    "8":"https:\/\/www.huffpost.com\/entry\/trump-convicted-war-criminal-pardons-florida-rally_n_5dddbec7e4b0913e6f7592c9",
+    "9":"https:\/\/www.huffpost.com\/entry\/kate-middleton-prince-william-bbc-host-charlotte_n_5ddc1e19e4b00149f721aa2b",
+    "10":"https:\/\/www.huffpost.com\/entry\/elizabeth-warren-clark-atlanta-university-protest_n_5dd70cfee4b00149f719684e"
+  },
+  "headline":{
+    "0":"House Ethics Committee Tells Duncan Hunter To Stop Voting In House Due To Guilty Plea",
+    "1":"Biden Says Media Shows 'Bad Judgment' On Ocasio-Cortez's Democratic Influence",
+    "2":"Rep. Duncan Hunter Pleads Guilty To Conspiracy To Misuse Campaign Funds",
+    "3":"Republicans To Go It Alone In Impeachment Trial If Senate Can't Agree On Rules",
+    "4":"Ukrainian President Criticizes Trump, U.S. Officials For Spreading Misinformation",
+    "5":"Fmr. Trump Official Says Gallagher Decision Shows 'Little To No Understanding' Of Military",
+    "6":"Martin O'Malley Confronts Top Trump Immigration Official At D.C. Bar",
+    "7":"Social Media Gives Young Climate Activists A Platform \u2013 It Also Brings Out The Trolls",
+    "8":"Trump Says He Will 'Always Stick Up' For 'Warriors' After Pardons Over War Crimes",
+    "9":"Kate Middleton And Prince William Addressed A BBC Host Over Princess Charlotte Jokes",
+    "10":"School Choice Activists Disrupt Elizabeth Warren Rally At Atlanta HBCU"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"IMPACT",
+    "8":"POLITICS",
+    "9":"ENTERTAINMENT",
+    "10":"POLITICS"
+  },
+  "short_description":{
+    "0":"The California Republican faces up to five years in prison and a $250,000 fine after being charged with misappropriating campaign funds.",
+    "1":"The former vice president said the congresswoman hasn't had as much of a progressive impact as reporters suggest.",
+    "2":"The California conservative faces five years in prison and a $250,000 fine after being charged with misappropriating $250,000 in donations.",
+    "3":"President Donald Trump's allies want to hear from Hunter Biden and Rep. Adam Schiff in a potential impeachment trial.",
+    "4":"In a sprawling interview with Time and European media, President Volodymyr Zelensky discussed Trump, impeachment, Vladimir Putin and more.",
+    "5":"Col. David Lapan, who worked in the Department of Homeland Security under Trump, called the president's meddling \"unprecedented.\"",
+    "6":"Maryland's former Democratic governor blasted Ken Cuccinelli for putting children in \"cages\" for \"a fascist president.\u201d",
+    "7":"Online platforms are boosting climate activists\u2019 voices like never before. But with that comes a challenging level of global exposure.",
+    "8":"The president, at his campaign rally in Sunrise, Florida, talked about his pardons of three men accused of war crimes, whom he called \"great fighters.\"",
+    "9":"The Duke and Duchess of Cambridge were listening to Greg James' BBC show at the time.",
+    "10":"\u201cThe senator is here to talk about the contributions fighters like you have made to history,\u201d Rep. Ayanna Pressley told the protesters at Clark Atlanta University."
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"Amy Russo",
+    "2":"",
+    "3":"Igor Bobic",
+    "4":"Ja'han Jones",
+    "5":"Ja'han Jones",
+    "6":"Hayley Miller",
+    "7":"Amelia Tait",
+    "8":"Sanjana Karanth",
+    "9":"Carly Ledbetter",
+    "10":"Hayley Miller"
+  },
+  "date":{
+    "0":"2019-12-06 00:00:00",
+    "1":"2019-12-06 00:00:00",
+    "2":"2019-12-03 00:00:00",
+    "3":"2019-12-03 00:00:00",
+    "4":"2019-12-02 00:00:00",
+    "5":"2019-12-01 00:00:00",
+    "6":"2019-11-28 00:00:00",
+    "7":"2019-11-27 00:00:00",
+    "8":"2019-11-27 00:00:00",
+    "9":"2019-11-25 00:00:00",
+    "10":"2019-11-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---gov",
+    "4":"rusgov",
+    "5":"---gov",
+    "6":"usagov",
+    "7":"---med",
+    "8":"usagov",
+    "9":"'ulukalala_lavaka_ata_",
+    "10":"---leg"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---leg",
+    "2":"---cop",
+    "3":"---cvl",
+    "4":"---gov",
+    "5":"---mil",
+    "6":"---cvlgov",
+    "7":"---opp",
+    "8":"---ppl",
+    "9":"med",
+    "10":"---uaf"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"040",
+    "3":"040",
+    "4":"040",
+    "5":"041",
+    "6":"190",
+    "7":"060",
+    "8":"010",
+    "9":"010",
+    "10":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":1.0,
+    "3":1.0,
+    "4":1.0,
+    "5":1.0,
+    "6":-10.0,
+    "7":6.0,
+    "8":0.0,
+    "9":0.0,
+    "10":0.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "congresswoman",
+      "~leg",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "hunter",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "5":[
+      "col.",
+      "~mil",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "maryland",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "children",
+      "president",
+      "~cvlgov",
+      "~",
+      "~"
+    ],
+    "7":[
+      "media",
+      "~med",
+      "~",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "8":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "usagov",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "9":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "bbc",
+      "med",
+      "bbc",
+      "charlotte",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "10":[
+      "senator",
+      "~leg",
+      "~",
+      "fighters",
+      "~uaf",
+      "~",
+      "protesters",
+      "~opp",
+      "~",
+      "atlanta",
+      "university",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "prison"
+    ],
+    "1":[
+      "president",
+      "congresswoman"
+    ],
+    "2":[
+      "california",
+      "prison"
+    ],
+    "3":[
+      "president",
+      "hunter"
+    ],
+    "4":[
+      "vladimir putin",
+      "president",
+      "president",
+      "vladimir putin"
+    ],
+    "5":[
+      "president",
+      "col.",
+      "col.",
+      "president"
+    ],
+    "6":[
+      "maryland ... governor",
+      "children ... president"
+    ],
+    "7":[
+      "media",
+      "activists"
+    ],
+    "8":[
+      "president",
+      "men"
+    ],
+    "9":[
+      "prince",
+      "bbc"
+    ],
+    "10":[
+      "senator",
+      "fighters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "vladimir putin",
+      "---",
+      "---",
+      "vladimir putin"
+    ],
+    "5":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "6":[
+      "united states of america",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "",
+      "---"
+    ],
+    "9":[
+      "prince",
+      "bbc"
+    ],
+    "10":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "faces"
+    ],
+    "3":[
+      "want ... hear"
+    ],
+    "4":[
+      "discussed",
+      "discussed"
+    ],
+    "5":[
+      "called",
+      "called"
+    ],
+    "6":[
+      "blasted"
+    ],
+    "7":[
+      "gives"
+    ],
+    "8":[
+      "talked"
+    ],
+    "9":[
+      "addressed"
+    ],
+    "10":[
+      "is ... talk"
+    ]
+  },
+  "issues":{
+    "0":[
+      "corruption",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "corruption",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "id_democracy",
+      "1"
+    ],
+    "7":[
+      "activism",
+      "1"
+    ],
+    "8":[
+      "id_atrocity",
+      "1"
+    ],
+    "9":null,
+    "10":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cop",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---cop",
+      "040"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "040"
+    ],
+    "4":[
+      "rusgov",
+      "---gov",
+      "040",
+      "---gov",
+      "rusgov",
+      "040"
+    ],
+    "5":[
+      "---gov",
+      "---mil",
+      "041",
+      "---mil",
+      "---gov",
+      "041"
+    ],
+    "6":[
+      "usagov",
+      "---cvlgov",
+      "190"
+    ],
+    "7":[
+      "---med",
+      "---opp",
+      "060"
+    ],
+    "8":[
+      "usagov",
+      "---ppl",
+      "010"
+    ],
+    "9":[
+      "'ulukalala_lavaka_ata_",
+      "med",
+      "010"
+    ],
+    "10":[
+      "---leg",
+      "---uaf",
+      "010"
+    ]
+  }
+}

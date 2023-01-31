@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donnell-thompson-shooting_us_57aa64b7e4b0ba7ed23e1a71",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/african-migrants-china_us_57aa5669e4b06e52746e420a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/twitter-lawsuit-islamic-state_us_57abaaafe4b0db3be07d2228"
+  },
+  "headline":{
+    "0":"LA Sheriff's Department Admits Deputy Killed An Unarmed, Innocent Man",
+    "1":"For These African Migrants, Life In China Isn't What They Were Promised",
+    "2":"Twitter Wins Dismissal Of Lawsuit Alleging Islamic State Support: Federal Judge"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"TECH"
+  },
+  "short_description":{
+    "0":"Deputies originally said the man was a suspect in a carjacking, but said this week that he had nothing to do with the crime.",
+    "1":"More and more Gambian migrants are giving up on their \u201cChinese Dream\u201d and doing whatever they can to head home.",
+    "2":"Social media companies are trying to balance curbing terrorist propaganda and protecting free speech."
+  },
+  "authors":{
+    "0":"Matt Ferner",
+    "1":"Eric Olander and Cobus van Staden, The China Africa Project",
+    "2":""
+  },
+  "date":{
+    "0":"2016-08-10 00:00:00",
+    "1":"2016-08-10 00:00:00",
+    "2":"2016-08-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"gmbcvl",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"chn",
+    "2":"---uaf"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "sheriff",
+      "deputy",
+      "~cop",
+      "~",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "gambian",
+      "migrants",
+      "gmbcvl",
+      "gambia",
+      "~",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "2":[
+      "companies",
+      "~bus",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sheriff ... deputy",
+      "man"
+    ],
+    "1":[
+      "gambian migrants",
+      "chinese"
+    ],
+    "2":[
+      "companies",
+      "terrorist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "gambia",
+      "china"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ],
+    "1":[
+      "are giving"
+    ],
+    "2":[
+      "are ... curbing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "terror",
+      "1",
+      "human_rights",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "gmbcvl",
+      "chn",
+      "060"
+    ],
+    "2":[
+      "---bus",
+      "---uaf",
+      "170"
+    ]
+  }
+}

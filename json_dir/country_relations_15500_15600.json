@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/anti-muslim-terrorists-trump_us_5a5833a4e4b04df054f7890f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/anti-muslim-terrorists-trump_us_5a5833a4e4b04df054f7890f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/john-kennedy-aliens_us_5a5f95a7e4b046f0811c6f50",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/toyota-epa-pruitt_us_5a5f6bfbe4b0ee2ff32c8b4a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/jeff-flake-trump-press_us_5a5f69d2e4b096ecfca98e30"
+  },
+  "headline":{
+    "0":"These Accused Anti-Muslim Terrorists Wanted Their Kansas Jury To Be Even More Pro-Trump",
+    "1":"These Accused Anti-Muslim Terrorists Wanted Their Kansas Jury To Be Even More Pro-Trump",
+    "2":"Senator Says 'Aliens Won't Talk To Us' Because We Can't Govern",
+    "3":"Toyota Calls Off EPA Partnership Under Pressure From Environmentalists",
+    "4":"Jeff Flake Urges GOP To Stand Up To Trump's Attacks Against The Press"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"But a federal judge rejected the request from the men, who allegedly plotted to use car bombs to kill Somali refugees around the time of the 2016 election.",
+    "1":"But a federal judge rejected the request from the men, who allegedly plotted to use car bombs to kill Somali refugees around the time of the 2016 election.",
+    "2":"\u201cThey look at all of this stuff, and they go, \u2018These people \u2015 they\u2019re 13-year-olds,\u2019\u201d said a Louisiana Republican.",
+    "3":"The plan to hire the automaker to overhaul internal practices at an agency that regulates it drew fire from former EPA officials and watchdog groups.",
+    "4":"\u201cA free press is the despot\u2019s enemy, which makes the free press a guardian of democracy,\" the Arizona Republican senator said on the Senate floor."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly",
+    "1":"Ryan J. Reilly",
+    "2":"Igor Bobic",
+    "3":"Alexander C. Kaufman",
+    "4":"Igor Bobic"
+  },
+  "date":{
+    "0":"2018-01-18 00:00:00",
+    "1":"2018-01-18 00:00:00",
+    "2":"2018-01-17 00:00:00",
+    "3":"2018-01-17 00:00:00",
+    "4":"2018-01-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---jud",
+    "2":"---leg",
+    "3":"---env",
+    "4":"usaleg"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---leg",
+    "3":"mncjpn",
+    "4":"usagovleg"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"123",
+    "2":"010",
+    "3":"041",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-4.0,
+    "2":0.0,
+    "3":1.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "terrorists",
+      "~uaf",
+      "~",
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "federal judge",
+      "~jud",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "toyota",
+      "mncjpn",
+      "toyota",
+      "environmentalists",
+      "~env",
+      "~"
+    ],
+    "4":[
+      "despot",
+      "~gov",
+      "~",
+      "arizona",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "terrorists",
+      "kansas"
+    ],
+    "1":[
+      "federal judge",
+      "men"
+    ],
+    "2":[
+      "senator",
+      "senator"
+    ],
+    "3":[
+      "environmentalists",
+      "toyota",
+      "toyota",
+      "environmentalists"
+    ],
+    "4":[
+      "arizona ... senator",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "toyota",
+      "toyota",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted"
+    ],
+    "1":[
+      "rejected ... request"
+    ],
+    "2":[
+      "says ... talk"
+    ],
+    "3":[
+      "calls",
+      "calls"
+    ],
+    "4":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "usa",
+      "030"
+    ],
+    "1":[
+      "---jud",
+      "---ppl",
+      "123"
+    ],
+    "2":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "3":[
+      "---env",
+      "mncjpn",
+      "041",
+      "mncjpn",
+      "---env",
+      "041"
+    ],
+    "4":[
+      "usaleg",
+      "usagovleg",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kon-tiki_us_5bb421f4e4b066f8d2552d08",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/skin-beauty_us_5b9cfb40e4b03a1dcc837fff"
+  },
+  "headline":{
+    "0":"Kon-Tiki at The Explorers Club and in Battery Park City",
+    "1":"Why Gardening Is Good for Your Skin"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"The new Kon-Tiki was shot in both English and in Norwegian with the actors fluent in each language. Last week, in anticipation of the film's opening and an exhibition of the raft, The Weinstein Company hosted a luncheon for a small group at The Explorers Club.",
+    "1":"Community gardens have been shown to improve a neighborhood's quality of life, offering a number of environmental, health, and cultural benefits, but did you know that they can also contribute to better-looking skin? Here are the top ways gardens can help skin glow."
+  },
+  "authors":{
+    "0":"Regina Weinreich, Contributor\nAuthor, 'Kerouac's Spontaneous Poetics'",
+    "1":"Emilie Davidson Hoyt, Contributor\nFounder and President, LATHER"
+  },
+  "date":{
+    "0":"2013-04-14 00:00:00",
+    "1":"2013-04-13 00:00:00"
+  },
+  "actor1":{
+    "0":"ngousaedu",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "explorers club",
+      "ngousaedu",
+      "explorers",
+      "club"
+    ],
+    "1":[
+      "community",
+      "~cvl",
+      "~",
+      "neighborhood",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "explorers club",
+      "company",
+      "company",
+      "explorers club"
+    ],
+    "1":[
+      "community",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "explorers club",
+      "---",
+      "---",
+      "explorers club"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hosted",
+      "hosted"
+    ],
+    "1":[
+      "have ... improve"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ngousaedu",
+      "---bus",
+      "042",
+      "---bus",
+      "ngousaedu",
+      "043"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

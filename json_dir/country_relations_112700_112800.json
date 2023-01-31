@@ -1,0 +1,174 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/major-police-group-use-as_b_6065298.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/climate-change-this-week_b_6086696.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-airstrikes-syria-iraq_n_6086580.html"
+  },
+  "headline":{
+    "0":"Major Police Group: Mandated Treatment Can Help Some Mentally Ill",
+    "1":"Climate Change This Week: Coal's Creepy Cancer, Saving Capitalism From Polluters and More!",
+    "2":"U.S. Launches 10 Air Strikes In Syria, Iraq"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"GREEN",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The International Association of Chiefs of Police (IACP) approved a resolution calling for greater use of mandated treatment, commonly known as assisted outpatient treatment (AOT), at their annual meeting in Orlando. Research shows that AOT reduces arrest, suicide, involuntary hospitalization and violence by the most seriously mentally ill.",
+    "1":"Ari Phillips at Climate Progress. Three major companies - Cisco Systems, 3M, and Kimberly Clark - announced they will now give employees a deeply discounted way of buying or leasing solar panels for their homes. Sunny news, indeed!",
+    "2":""
+  },
+  "authors":{
+    "0":"DJ Jaffe, ContributorExecutive Director, Mental Illness Policy Org",
+    "1":"Mary Ellen Harte, ContributorBiologist and author",
+    "2":""
+  },
+  "date":{
+    "0":"2014-11-01 00:00:00",
+    "1":"2014-11-01 00:00:00",
+    "2":"2014-11-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"mncusabus",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---lab",
+    "2":"syr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "orlando",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "companies",
+      "cisco systems",
+      "mncusabus",
+      "~",
+      "cisco",
+      "systems",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syria",
+      "iraq",
+      "syr",
+      "irq",
+      "syria",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "orlando"
+    ],
+    "1":[
+      "companies ... cisco systems",
+      "employees"
+    ],
+    "2":[
+      "u.s.",
+      "syria",
+      "u.s.",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "cisco systems",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "syria",
+      "united states of america",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "approved <&solution>"
+    ],
+    "1":[
+      "announced ... will ... give"
+    ],
+    "2":[
+      "strikes",
+      "strikes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "renewable_energy",
+      "1"
+    ],
+    "2":[
+      "airstrike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "mncusabus",
+      "---lab",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "syr",
+      "190",
+      "usa",
+      "irq",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-vladimir-putin-reporters_us_567417dce4b06fa6887cf5db",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/former-prison-chaplain-charged-with-sexually-assaulting-female-inmates_us_56733a13e4b06fa6887cb73d",
+    "2":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/blogs\/erik-wemple\/wp\/2015\/12\/16\/the-fbi-just-blasted-reporting-on-the-san-bernardino-killings\/"
+  },
+  "headline":{
+    "0":"Donald Trump Doesn't Seem To Be Concerned That Vladimir Putin Kills Journalists",
+    "1":"Former Prison Chaplain Charged With Sexually Assaulting Female Inmates",
+    "2":"The FBI Just Blasted Reporting On The San Bernardino Killings"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"\"I think our country does plenty of killing also, Joe.\"",
+    "1":"One woman told police she \"thought very seriously about suicide.\"",
+    "2":"A whoa moment here: FBI Director James B. Comey today told the media that the suspected assailants in the San Bernardino"
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Melissa Jeltsen",
+    "2":""
+  },
+  "date":{
+    "0":"2015-12-18 00:00:00",
+    "1":"2015-12-18 00:00:00",
+    "2":"2015-12-17 00:00:00"
+  },
+  "actor1":{
+    "0":"rusgov",
+    "1":"---cvl",
+    "2":"usacop"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cop",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "vladimir putin",
+      "journalists"
+    ],
+    "1":[
+      "woman",
+      "police"
+    ],
+    "2":[
+      "fbi",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "vladimir putin",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "federal bureau of investigation",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kills"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "rusgov",
+      "---med",
+      "190"
+    ],
+    "1":[
+      "---cvl",
+      "---cop",
+      "010"
+    ],
+    "2":[
+      "usacop",
+      "---med",
+      "010"
+    ]
+  }
+}

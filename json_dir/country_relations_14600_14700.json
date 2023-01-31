@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/joe-arpaio-holocaust-denial-american-free-press_us_5a736309e4b06ee97af0acf7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ultraviolet-trump-state-of-the-union_us_5a70ce2ae4b0be822ba11768",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tariq-ramadan-police-custody_us_5a7207a9e4b03699143ed0fb",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/van-jones-state-of-the-union_us_5a7145dfe4b0a6aa48746e9a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/troll-state-of-the-union_us_5a7203c0e4b05253b27510e6",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/joseph-scarnati-gerrymandering-pennsylvania_us_5a723db6e4b05253b27550c2"
+  },
+  "headline":{
+    "0":"Joe Arpaio Needs More Information Before He'll Condemn A Paper That Denies The Holocaust",
+    "1":"Women's Group Shines Light On Trump Sexual Assault Allegations Before State Of The Union",
+    "2":"Police Question Prominent Scholar Tariq Ramadan Following Rape Allegations",
+    "3":"Van Jones Tears Apart Trump's Speech: 'Sweet-Tasting Candy With Poison In It'",
+    "4":"GOP Rep. Invited A Far-Right Troll To Trump's State Of The Union",
+    "5":"Top Pennsylvania Republican Says He'll Ignore Court Order To Help Fix Gerrymandering"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"MEDIA",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Senate candidate talked to an anti-Semitic publication for the fifth time last month. He wouldn't condemn it for calling the Holocaust a \"hoax.\"",
+    "1":"Twenty-one women have accused the president of sexual misconduct.",
+    "2":"Two women have accused the Oxford professor of rape and assault.",
+    "3":"The CNN commentator calls out the president's rhetoric.",
+    "4":"Rep. Matt Gaetz of Florida gave a SOTU ticket to a conspiracy theorist blogger who claims the president as a reader.",
+    "5":"Joseph Scarnati refused to comply because he said he considered a ruling from the Pennsylvania Supreme Court to be unconstitutional."
+  },
+  "authors":{
+    "0":"Christopher Mathias",
+    "1":"Antonia Blumberg",
+    "2":"Antonia Blumberg",
+    "3":"Ed Mazza",
+    "4":"Sebastian Murdock",
+    "5":"Sam Levine"
+  },
+  "date":{
+    "0":"2018-02-01 00:00:00",
+    "1":"2018-01-31 00:00:00",
+    "2":"2018-01-31 00:00:00",
+    "3":"2018-01-31 00:00:00",
+    "4":"2018-01-31 00:00:00",
+    "5":"2018-01-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---gov",
+    "4":"usa",
+    "5":"usa"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---gov",
+    "2":"---edu",
+    "3":"med",
+    "4":"---med",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"112",
+    "2":"112",
+    "3":"041",
+    "4":"060",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":-2.0,
+    "3":1.0,
+    "4":6.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "publication",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "professor",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "cnn",
+      "commentator",
+      "med",
+      "cnn",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "blogger",
+      "~med",
+      "~"
+    ],
+    "5":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "publication"
+    ],
+    "1":[
+      "women",
+      "president"
+    ],
+    "2":[
+      "women",
+      "professor"
+    ],
+    "3":[
+      "president",
+      "cnn commentator",
+      "cnn commentator",
+      "president"
+    ],
+    "4":[
+      "florida",
+      "blogger"
+    ],
+    "5":[
+      "pennsylvania",
+      "pennsylvania"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "cnn",
+      "cnn",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "talked"
+    ],
+    "1":[
+      "have accused"
+    ],
+    "2":[
+      "have accused"
+    ],
+    "3":[
+      "calls",
+      "calls"
+    ],
+    "4":[
+      "gave"
+    ],
+    "5":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":[
+      "postsecondary_education",
+      "1",
+      "rape",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---gov",
+      "112"
+    ],
+    "2":[
+      "---cvl",
+      "---edu",
+      "112"
+    ],
+    "3":[
+      "---gov",
+      "med",
+      "041",
+      "med",
+      "---gov",
+      "041"
+    ],
+    "4":[
+      "usa",
+      "---med",
+      "060"
+    ],
+    "5":[
+      "usa",
+      "usa",
+      "010"
+    ]
+  }
+}

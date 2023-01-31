@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-guam-threats_us_5992b81de4b090964299a4a0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ceos-labor-union-trump-manufacturing-council_us_59935321e4b04b193360fe88",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/confederate-statue-washington-dc-protests_us_59934d38e4b04b193360f21f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-news-conference-charlottesville_us_59935814e4b04b19336105d5"
+  },
+  "headline":{
+    "0":"North Korea Appears To Pull Back From Guam Threats",
+    "1":"AFL-CIO Resigns From Trump's Manufacturing Council",
+    "2":"D.C. Grapples With Its Own Confederate Statue Controversy After Charlottesville",
+    "3":"9 Truly Head-Scratching Moments From Donald Trump's Press Conference On 'Infrastructure'"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"South Korea also demanded consent before any U.S. military action on the peninsula.",
+    "1":"The departure comes after business leaders left the group amid controversy over the president's response to a white supremacist rally.",
+    "2":"Marches in D.C. this week took aim at the monument to Albert Pike, a pro-slavery Confederate general.",
+    "3":"The president defended attendees of the white nationalist rally in Virginia over the weekend."
+  },
+  "authors":{
+    "0":"",
+    "1":"Dave Jamieson",
+    "2":"Kaeli Subberwal",
+    "3":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-08-15 00:00:00",
+    "1":"2017-08-15 00:00:00",
+    "2":"2017-08-15 00:00:00",
+    "3":"2017-08-15 00:00:00"
+  },
+  "actor1":{
+    "0":"kor",
+    "1":"---bus",
+    "2":"ita",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"usamil",
+    "1":"---gov",
+    "2":"mcoeli",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"040",
+    "2":"171",
+    "3":"074"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":-9.2,
+    "3":8.5
+  },
+  "nouns":{
+    "0":[
+      "south korea",
+      "kor",
+      "south",
+      "korea",
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ],
+    "1":[
+      "business leaders",
+      "~bus",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "marches",
+      "ita",
+      "italy",
+      "albert",
+      "mcoeli",
+      "albert"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "virginia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "south korea",
+      "u.s. military"
+    ],
+    "1":[
+      "business leaders",
+      "president"
+    ],
+    "2":[
+      "marches",
+      "albert"
+    ],
+    "3":[
+      "president",
+      "virginia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "south korea",
+      "united states military"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "italy",
+      "albert"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "demanded"
+    ],
+    "1":[
+      "left"
+    ],
+    "2":[
+      "took"
+    ],
+    "3":[
+      "defended"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "kor",
+      "usamil",
+      "100"
+    ],
+    "1":[
+      "---bus",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "ita",
+      "mcoeli",
+      "171"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "074"
+    ]
+  }
+}

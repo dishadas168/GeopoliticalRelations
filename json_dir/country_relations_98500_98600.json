@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-oklahoma-city-bombing-anniversary_n_7096560.html"
+  },
+  "headline":{
+    "0":"Obama Commemorates 20th Anniversary Of Oklahoma City Bombing"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Sam Levine"
+  },
+  "date":{
+    "0":"2015-04-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"017"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "oklahoma city",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "oklahoma city"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "commemorates ... anniversary"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "017"
+    ]
+  }
+}

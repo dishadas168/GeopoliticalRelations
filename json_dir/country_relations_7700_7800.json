@@ -1,0 +1,381 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/kellyanne-conway-husband-george-pile-on-trump_n_5bd73c44e4b055bc948ee60c",
+    "1":"https:\/\/www.huffpost.com\/entry\/obama-trump-pipe-bombs-wisconsin_n_5bd38e4ce4b0a8f17ef7a48f",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-caravan-asylum_n_5bd326b8e4b0d38b5882bcab",
+    "3":"https:\/\/www.huffpost.com\/entry\/dodge-city-kansas_n_5bd387abe4b055bc948bd822",
+    "4":"https:\/\/www.huffpost.com\/entry\/angry-reactions-against-trump-administration-plan-to-sharply-limit-gender-definition_n_5bccf42be4b0d38b5879741f",
+    "5":"https:\/\/www.huffpost.com\/entry\/republican-senators-jamal-khashoggi_n_5bcc7c8ee4b0a8f17eed7d77",
+    "6":"https:\/\/www.huffpost.com\/entry\/trump-says-he-hasnt-visited-troops-in-afghanistan-iraq-because-hes-very-busy_n_5bc892dfe4b055bc947e21c1",
+    "7":"https:\/\/www.huffpost.com\/entry\/georgia-mayor-black-voters-matter_n_5bc86abfe4b055bc947dddd9",
+    "8":"https:\/\/www.huffpost.com\/entry\/jamal-khashoggi-saudi-rubio_n_5bc348c5e4b040bb4e832483"
+  },
+  "headline":{
+    "0":"Kellyanne Conway's Husband George Urges People To 'Pile On' Trump For Media Attacks",
+    "1":"Obama Bashes Trump For Vilifying His Political Enemies Ahead Of Bomb Attempts",
+    "2":"Trump's Proposed Caravan Crackdown Could Land Him In Court",
+    "3":"ACLU Sues Kansas County To Force It To Open Another Polling Place In Majority-Hispanic City",
+    "4":"Activists Blast White House Plan To Eradicate Transgender From Gender Definition",
+    "5":"Republican Senators Doubt Saudi Arabia's Account Of Jamal Khashoggi's Death",
+    "6":"Trump Says He Hasn't Visited Troops In Afghanistan, Iraq Because He's 'Very Busy'",
+    "7":"Georgia Mayor Compares 'Black Voters Matter' To Suicide Cult Amid Bus Controversy",
+    "8":"Marco Rubio Urges Treasury Secretary Steven Mnuchin To Scrap Saudi Arabia Trip"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"POLITICS",
+    "7":"POLITICS",
+    "8":"POLITICS"
+  },
+  "short_description":{
+    "0":"The spouse of the White House counselor has often criticized the president.",
+    "1":"At a Wisconsin rally, Barack Obama said the president should be held accountable for his violent rhetoric against CNN, Hillary Clinton and others targeted by a suspected bomber.",
+    "2":"The administration is reportedly considering drastic measures in response to migrants headed toward the border.",
+    "3":"Officials in Dodge City, Kansas, moved the only polling location to a place difficult to access by public transportation.",
+    "4":"LGBTQ activists and supporters are mobilizing for a Monday rally at the White House.",
+    "5":"Sen. Bob Corker (R-Tenn.) said he believes Saudi Crown Prince Mohammed bin Salman was involved in the journalist's killing.",
+    "6":"The president said he'll visit the military bases in combat zones \u201cat some point,\u201d but he doesn\u2019t \u201cthink it\u2019s overly necessary.\u201d",
+    "7":"\"Better check that Koolaid,\" Bartow Mayor Robert Morris wrote days after county officials ordered elderly black voters off a bus headed to the polls.",
+    "8":"The senator says \"business as usual\" can't go on following the suspected Saudi murder of journalist Jamal Khashoggi."
+  },
+  "authors":{
+    "0":"Jenna Amatulli",
+    "1":"Lydia O'Connor",
+    "2":"Elise Foley",
+    "3":"Sam Levine",
+    "4":"Mary Papenfuss",
+    "5":"Hayley Miller",
+    "6":"Jenna Amatulli",
+    "7":"Hayley Miller",
+    "8":"Igor Bobic and Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2018-10-29 00:00:00",
+    "1":"2018-10-27 00:00:00",
+    "2":"2018-10-26 00:00:00",
+    "3":"2018-10-26 00:00:00",
+    "4":"2018-10-22 00:00:00",
+    "5":"2018-10-21 00:00:00",
+    "6":"2018-10-18 00:00:00",
+    "7":"2018-10-18 00:00:00",
+    "8":"2018-10-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usagov",
+    "2":"---gov",
+    "3":"ngousahri",
+    "4":"---opp",
+    "5":"---leg",
+    "6":"---gov",
+    "7":"---gov",
+    "8":"---leg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"usa",
+    "4":"usagov",
+    "5":"sau",
+    "6":"---mil",
+    "7":"---cvl",
+    "8":"---bus"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"010",
+    "2":"040",
+    "3":"173",
+    "4":"150",
+    "5":"012",
+    "6":"042",
+    "7":"100",
+    "8":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":1.0,
+    "3":-5.0,
+    "4":-7.2,
+    "5":-0.4,
+    "6":1.9,
+    "7":-5.0,
+    "8":0.0
+  },
+  "nouns":{
+    "0":[
+      "counselor",
+      "~jud",
+      "~",
+      "counselor",
+      "~jud",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~",
+      "cnn",
+      "med",
+      "cnn",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "migrants",
+      "~cvl",
+      "~",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "activists",
+      "~opp",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "5":[
+      "senators",
+      "~leg",
+      "~",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "6":[
+      "president",
+      "~gov",
+      "~",
+      "military bases",
+      "~mil",
+      "~"
+    ],
+    "7":[
+      "mayor",
+      "~gov",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "8":[
+      "senator",
+      "~leg",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "counselor",
+      "president"
+    ],
+    "1":[
+      "barack obama",
+      "president"
+    ],
+    "2":[
+      "administration",
+      "migrants"
+    ],
+    "3":[
+      "aclu",
+      "kansas"
+    ],
+    "4":[
+      "activists",
+      "the white house"
+    ],
+    "5":[
+      "senators",
+      "saudi arabia"
+    ],
+    "6":[
+      "president",
+      "military bases"
+    ],
+    "7":[
+      "mayor",
+      "voters"
+    ],
+    "8":[
+      "senator",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "american civil liberties union",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "white house"
+    ],
+    "5":[
+      "---",
+      "saudi arabia"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... criticized"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "is ... considering"
+    ],
+    "3":[
+      "sues"
+    ],
+    "4":[
+      "are mobilizing"
+    ],
+    "5":[
+      "doubt"
+    ],
+    "6":[
+      "said ... 'll visit"
+    ],
+    "7":[
+      "wrote ... ordered"
+    ],
+    "8":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1",
+      "activism",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":[
+      "election",
+      "2",
+      "public_transit",
+      "1"
+    ],
+    "8":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "111"
+    ],
+    "1":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "040"
+    ],
+    "3":[
+      "ngousahri",
+      "usa",
+      "173"
+    ],
+    "4":[
+      "---opp",
+      "usagov",
+      "150"
+    ],
+    "5":[
+      "---leg",
+      "sau",
+      "012"
+    ],
+    "6":[
+      "---gov",
+      "---mil",
+      "042"
+    ],
+    "7":[
+      "---gov",
+      "---cvl",
+      "100"
+    ],
+    "8":[
+      "---leg",
+      "---bus",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/aida-sulova_us_5bb22c91e4b0171db69e0cc1"
+  },
+  "headline":{
+    "0":"Kyrgyz Artist Aida Sulova Confronts Waste Problem in Bishkek (PHOTOS)"
+  },
+  "category":{
+    "0":"CULTURE & ARTS"
+  },
+  "short_description":{
+    "0":"The waste management dilemma in Kyrgyzstan has been an ongoing problem for the post-Soviet country, and the Bishkek municipal"
+  },
+  "authors":{
+    "0":"Katherine Brooks"
+  },
+  "date":{
+    "0":"2012-07-04 00:00:00"
+  },
+  "actor1":{
+    "0":"kgz"
+  },
+  "actor2":{
+    "0":"kgz"
+  },
+  "event_code":{
+    "0":"012"
+  },
+  "goldstein_score":{
+    "0":-0.4
+  },
+  "nouns":{
+    "0":[
+      "kyrgyz",
+      "kgz",
+      "kyrgyzstan",
+      "bishkek",
+      "kgz",
+      "kyrgyzstan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kyrgyz",
+      "kyrgyz"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "kyrgyzstan",
+      "kyrgyzstan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "confronts ... problem"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "kgz",
+      "kgz",
+      "012"
+    ]
+  }
+}

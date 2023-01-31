@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prescriptions-abuse_us_5b9bf505e4b03a1dcc7b5d29",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/uk-mom-stillborn-baby-alive_us_5b9bf3d8e4b03a1dcc7b52c8"
+  },
+  "headline":{
+    "0":"The Doctors' Dilemma",
+    "1":"Doctors Told Alex Jones, UK Mother, To Expect A Stillborn; Instead, Premature Baby Now Happy And Healthy"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"A number of doctors like myself in the past year or so have seen a sharp uptick in patients searching for a new doctor because the old doctor no longer wants to treat them. I have come to recognize the telephone call.",
+    "1":"According to Cafe Mom's The Stir, Jones believes her son's tiny heartbeat was too small to register on the doctor's equipment"
+  },
+  "authors":{
+    "0":"Susana Duncan, M.D., Contributor\nDoctor and Science Editor",
+    "1":""
+  },
+  "date":{
+    "0":"2012-07-05 00:00:00",
+    "1":"2012-07-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "doctors",
+      "~hlh",
+      "~",
+      "doctors",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "doctors",
+      "~hlh",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctors",
+      "doctors"
+    ],
+    "1":[
+      "doctors",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have seen"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "---hlh",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.vulture.com\/2012\/06\/how-a-panicky-father-came-to-terms-with-girls.html"
+  },
+  "headline":{
+    "0":"How A Panicky Father Of Girls Came To Terms With 'Girls'"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Through the entire first season of Girls, I could not tear my eyes away from the screen. This is in large part thanks to"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-06-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "came to"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

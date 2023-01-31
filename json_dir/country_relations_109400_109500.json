@@ -1,0 +1,171 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/demands-for-justice-are-failing-black-women-and-girls_b_6295744.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/5-reasons-eric-garners-death-changes-everything-after-ferguson_b_6285840.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/6-tips-for-indian-manager_b_6302300.html"
+  },
+  "headline":{
+    "0":"Demands for Justice Are Failing Black Women and Girls",
+    "1":"5 Reasons Eric Garner's Death Changes Everything After Ferguson",
+    "2":"6 Tips for Indian Managers New to America"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"POLITICS",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Many of the condemnations of police brutality have excluded the experiences of black women who have been brutalized in custody. The ongoing media blackout surrounding the case of 13 black women allegedly assaulted by a police officer in Oklahoma City may be the hardest evidence of the devaluation of African-American women's lives.",
+    "1":"The deaths of Mike Brown in Ferguson and Eric Garner in New York City have largely been seen as two instances of the same tragedy. In both cases, the actions of white police officers led to the deaths of unarmed black men. However, there are key differences that make the death of Eric Garner a clearer example of systemic racism in law enforcement.",
+    "2":"Religion and politics are generally considered off-limits topics in business in America. So what do you talk about over lunch or dinner with your American counterparts?"
+  },
+  "authors":{
+    "0":"Kali Nicole Gross, ContributorProfessor of African American Studies at Wesleyan University",
+    "1":"Matt Teitelbaum, ContributorStudent at Towson University, Vice President at College Democr...",
+    "2":"Gunjan Bagla, ContributorManagement consultant and author of Doing Business in 21st..."
+  },
+  "date":{
+    "0":"2014-12-11 00:00:00",
+    "1":"2014-12-10 00:00:00",
+    "2":"2014-12-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---ppl",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"---rel"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"043",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":2.8,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "police officers",
+      "~cop",
+      "~",
+      "police officers",
+      "~cop",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "religion",
+      "~rel",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "women"
+    ],
+    "1":[
+      "men",
+      "police officers",
+      "police officers",
+      "men"
+    ],
+    "2":[
+      "america",
+      "religion"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have excluded"
+    ],
+    "1":[
+      "led to",
+      "led to"
+    ],
+    "2":[
+      "<~rel> ... considered ... in <usa>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "170"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "043",
+      "---cop",
+      "---ppl",
+      "042"
+    ],
+    "2":[
+      "usa",
+      "---rel",
+      "040"
+    ]
+  }
+}

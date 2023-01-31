@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-immigration_us_5830bac4e4b099512f833cf8"
+  },
+  "headline":{
+    "0":"Judge Tells New Citizens They Can Leave The U.S. If They Don't Like Donald Trump"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cHe will be your president and if you do not like that, you need to go to another country.\u201d"
+  },
+  "authors":{
+    "0":"Sam Levine"
+  },
+  "date":{
+    "0":"2016-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---judcvl"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "citizens",
+      "~judcvl",
+      "~",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge ... citizens",
+      "<u.s.>"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can leave"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---judcvl",
+      "usa",
+      "040"
+    ]
+  }
+}

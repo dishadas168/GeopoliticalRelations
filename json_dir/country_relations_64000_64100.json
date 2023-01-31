@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-commutations_us_57519943e4b0eb20fa0da679"
+  },
+  "headline":{
+    "0":"Obama Just Told 20 People They Won\u2019t Die In Prison"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"The White House issued 42 more commutations on Friday. Nearly half for those were for people facing life sentences."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly and Sam Stein"
+  },
+  "date":{
+    "0":"2016-06-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ppl",
+      "010"
+    ]
+  }
+}

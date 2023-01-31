@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-anti-gay-backlash_us_5bafb9bce4b0ad769260dcca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-marriage-by-any-other-n_us_5bafb9bde4b0ad769260dcf3"
+  },
+  "headline":{
+    "0":"Russia's Anti-Gay Law Backlash An 'Invented Problem,' Says Minister",
+    "1":"A Marriage By Any Other Name"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"\"We don't have a law to ban non-traditional sexual relations,\" he said. \"The mass media in the West have focused much more",
+    "1":"This month a Kentucky judge will decide whether Geneva Case must testify against her spouse Bobbie Jo Clary despite a Kentucky law that exempts spouses from testifying against one another. If they were a legally married opposite-sex couple this would be an easy decision. But they're not. They're two women who obtained a civil union."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Jackie Gardina, Contributor\nProfessor, Vermont Law School"
+  },
+  "date":{
+    "0":"2013-08-18 00:00:00",
+    "1":"2013-08-18 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"usajud"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"che"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "minister",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "kentucky",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "geneva",
+      "che",
+      "switzerland",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "minister"
+    ],
+    "1":[
+      "kentucky judge",
+      "geneva"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "switzerland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "usajud",
+      "che",
+      "030"
+    ]
+  }
+}

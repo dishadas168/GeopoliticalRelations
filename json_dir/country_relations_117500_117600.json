@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/natos-leaders-need-a-real_b_5773432.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/president-obama-should-wa_b_5776708.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/post_8193_b_5698551.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/what-teachers-really-do-r_b_5769036.html"
+  },
+  "headline":{
+    "0":"NATO's Leaders Need a Reality Check on Afghanistan",
+    "1":"President Obama Should Wait on Immigration Executive Action",
+    "2":"Zack Knight: Taking Risks, Touring, and 'Makin Em Mad'",
+    "3":"What Teachers Really Do, Really"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"ENTERTAINMENT",
+    "3":"EDUCATION"
+  },
+  "short_description":{
+    "0":"By continuing with a timetable that is externally driven, regardless of internal conditions, and with an economic squeeze from aid cuts looming, NATO is sending the wrong signals to the Afghan people and to the Taliban, and imperiling security.",
+    "1":"Desperation is the father of bad decisions. At this point in the never-ending saga of immigration reform, mass deportations and the GOP's rabid opposition to immigrants, advocates are pushing Obama to take executive action, bold and sweeping changes to the enforcement of our current ramshackle immigration law. That would be a mistake.",
+    "2":"The British singer-songwriter has been touring around the United States for the last few weeks alongside Pakistani pop star Asim American Punjabi newcomer Amar Sandhu. This is a far cry from his original plans.",
+    "3":"The Education in America series for HuffPost Live discusses what truly defines an amazing teacher and what challenges teachers are facing in the present-day."
+  },
+  "authors":{
+    "0":"Rachel Reid, ContributorOpen Society Foundations' Advocacy Manager for the Middle East...",
+    "1":"Fernando Espuelas, ContributorFernando Espuelas is a political journalist working in broadca...",
+    "2":"Andrew Benkovic, ContributorWriter",
+    "3":"Nicholas Ferroni, ContributorHost, educator, historian and student mentor"
+  },
+  "date":{
+    "0":"2014-09-06 00:00:00",
+    "1":"2014-09-06 00:00:00",
+    "2":"2014-09-05 00:00:00",
+    "3":"2014-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"igowstnat",
+    "1":"---jud",
+    "2":"gbr",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"afg",
+    "1":"usagov",
+    "2":"usa",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"100",
+    "2":"040",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0,
+    "2":1.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "nato",
+      "igowstnat",
+      "nato",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "1":[
+      "advocates",
+      "~jud",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "teacher",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nato",
+      "afghanistan"
+    ],
+    "1":[
+      "advocates",
+      "obama"
+    ],
+    "2":[
+      "british",
+      "the ... united states"
+    ],
+    "3":[
+      "america",
+      "teacher"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "nato",
+      "afghanistan"
+    ],
+    "1":[
+      "---",
+      "barack obama"
+    ],
+    "2":[
+      "united kingdom",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need ... check"
+    ],
+    "1":[
+      "are pushing"
+    ],
+    "2":[
+      "has ... touring"
+    ],
+    "3":[
+      "discusses ... defines"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "3"
+    ],
+    "2":null,
+    "3":[
+      "teachers",
+      "2"
+    ]
+  },
+  "events":{
+    "0":[
+      "igowstnat",
+      "afg",
+      "090"
+    ],
+    "1":[
+      "---jud",
+      "usagov",
+      "100"
+    ],
+    "2":[
+      "gbr",
+      "usa",
+      "040",
+      "gbr",
+      "usa",
+      "040"
+    ],
+    "3":[
+      "usa",
+      "---edu",
+      "010"
+    ]
+  }
+}

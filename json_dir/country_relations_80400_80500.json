@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michael-morlang-upset-at-missing-childs-birth-calls-in-bomb-threat-police_us_564e41e0e4b0d4093a570014",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bp-tax-deduction-in-settlement_us_564cc7cde4b08c74b733c49a"
+  },
+  "headline":{
+    "0":"Man Upset At Missing Child's Birth Calls In Bomb Threat: Police",
+    "1":"House Dems Say BP Shouldn\u2019t Get Tax Write-Off From Oil Spill Settlement"
+  },
+  "category":{
+    "0":"WEIRD NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The suspect was mad that his wife was having the baby while he was in another state.",
+    "1":"The company could claim up to $15.3 billion as a \"business expense.\""
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Mariam Baksh"
+  },
+  "date":{
+    "0":"2015-11-19 00:00:00",
+    "1":"2015-11-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man",
+      "man",
+      "police"
+    ],
+    "1":[
+      "company",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "could claim"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "041",
+      "---ppl",
+      "---cop",
+      "041"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "110"
+    ]
+  }
+}

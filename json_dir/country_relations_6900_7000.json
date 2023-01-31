@@ -1,0 +1,360 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/elizabeth-warren-reparations_n_5c9065d4e4b0d50544ff0f48",
+    "1":"https:\/\/www.huffpost.com\/entry\/israel-airstrikes-gaza_n_5c8b49b0e4b0d7f6b0f1c5d7",
+    "2":"https:\/\/www.huffpost.com\/entry\/college-admissions-scheme-class-action_n_5c8a71a7e4b038892f4b6994",
+    "3":"https:\/\/www.huffpost.com\/entry\/tan-france-emmy-awards-thom-browne_l_5c87d8d5e4b0450ddae4a4bb",
+    "4":"https:\/\/www.huffpost.com\/entry\/fox-news-sean-hannity-cnn-perverted-view-country_n_5c875ff0e4b0ed0a0016b3a1",
+    "5":"https:\/\/www.huffpost.com\/entry\/jordan-peele-us-movie-screeing-masterpiece_n_5c83dd77e4b0d93616289773",
+    "6":"https:\/\/www.huffpost.com\/entry\/kirstjen-nielsen-cages-house-lawmakers_n_5c807be1e4b06ff26ba5880b",
+    "7":"https:\/\/www.huffpost.com\/entry\/dean-resigns-over-chick-fil-a_n_5c7ff9bce4b020b54d8155f6"
+  },
+  "headline":{
+    "0":"Elizabeth Warren: Time For A 'Full-Blown Conversation About Reparations' To Blacks",
+    "1":"Israel Launches Airstrikes On Hamas Targets In Gaza Following Tel Aviv Attack",
+    "2":"Stanford Students Sue In College Admissions Scandal",
+    "3":"'Queer Eye' Star Tan France Reveals How Fashion Has Empowered Him",
+    "4":"Fox News' Sean Hannity: CNN Gives World A 'Perverted' View Of America",
+    "5":"People Are Already Calling Jordan Peele's 'Us' Movie A 'Horror Masterpiece'",
+    "6":"Nielsen Hammered By Lawmakers Over Family Separation: 'Sir, They Are Not Cages'",
+    "7":"Dean Resigns Over School's Choice To Not Consider Chick-fil-A"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"EDUCATION",
+    "3":"STYLE & BEAUTY",
+    "4":"MEDIA",
+    "5":"ENTERTAINMENT",
+    "6":"POLITICS",
+    "7":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The Massachusetts senator said the country needs to talk about the injustices of American slavery and \"address it head on.\"",
+    "1":"The Israeli military said it had struck \u201capproximately 100 military targets\u201d belonging to Hamas, the Islamist militant group which controls Gaza.",
+    "2":"The two students say in their federal lawsuit that the admissions scam alleged by prosecutors cheated them out of \"a fair admissions consideration process.\u201d",
+    "3":"\"I never dreamt in a million years that I\u2019d be on that big American stage, and the fact that I wore something that I will never forget feels so good,\" the fashion expert said.",
+    "4":"\u201cJust hate Trump all day long. That\u2019s what the world sees through the CNN lens.\"",
+    "5":"Black members of the press were given opportunities to be among the first to screen the film, which is celebrated for not limiting roles for black actors.",
+    "6":"Another lawmaker pressed the Homeland Security secretary about the mental health impacts of family separation on children.",
+    "7":"Rider University in New Jersey said it won't feature the restaurant because of its opposition to the LGBTQ community."
+  },
+  "authors":{
+    "0":"Nick Visser",
+    "1":"Nidal al-Mughrabi, Reuters",
+    "2":"Jenna Amatulli",
+    "3":"Julia Brucculieri",
+    "4":"Lee Moran",
+    "5":"Kimberley Richards",
+    "6":"Nick Visser",
+    "7":""
+  },
+  "date":{
+    "0":"2019-03-19 00:00:00",
+    "1":"2019-03-15 00:00:00",
+    "2":"2019-03-14 00:00:00",
+    "3":"2019-03-13 00:00:00",
+    "4":"2019-03-12 00:00:00",
+    "5":"2019-03-09 00:00:00",
+    "6":"2019-03-07 00:00:00",
+    "7":"2019-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"isrmil",
+    "2":"---edu",
+    "3":"fra",
+    "4":"med",
+    "5":"---ppl",
+    "6":"---leg",
+    "7":"---edu"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"pserebhmsmusuafmil",
+    "2":"---jud",
+    "3":"fra",
+    "4":"usa",
+    "5":"jor",
+    "6":"---cvl",
+    "7":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"015",
+    "2":"110",
+    "3":"08",
+    "4":"060",
+    "5":"041",
+    "6":"100",
+    "7":"083"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-2.0,
+    "3":5.0,
+    "4":6.0,
+    "5":1.0,
+    "6":-5.0,
+    "7":5.0
+  },
+  "nouns":{
+    "0":[
+      "massachusetts",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "israeli",
+      "military",
+      "isrmil",
+      "israel",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "hamas",
+      "islamist",
+      "militant",
+      "pserebhmsmusuaf",
+      "hamas",
+      "~",
+      "~",
+      "military",
+      "pserebhmsmusuafmil",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~",
+      "prosecutors",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "france",
+      "fra",
+      "france"
+    ],
+    "4":[
+      "cnn",
+      "med",
+      "cnn",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "people",
+      "~ppl",
+      "~",
+      "jordan",
+      "us",
+      "jor",
+      "usa",
+      "jordan",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "7":[
+      "dean",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "massachusetts senator",
+      "american"
+    ],
+    "1":[
+      "israeli military",
+      "military"
+    ],
+    "2":[
+      "students",
+      "prosecutors"
+    ],
+    "3":[
+      "france",
+      "france"
+    ],
+    "4":[
+      "cnn",
+      "america"
+    ],
+    "5":[
+      "people",
+      "jordan",
+      "people",
+      "us"
+    ],
+    "6":[
+      "lawmaker",
+      "children"
+    ],
+    "7":[
+      "dean",
+      "dean"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "israel",
+      ""
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "france",
+      "france"
+    ],
+    "4":[
+      "cnn",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "jordan",
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... needs ... talk"
+    ],
+    "1":[
+      "said ... had struck"
+    ],
+    "2":[
+      "say ... alleged"
+    ],
+    "3":[
+      "reveals ... empowered"
+    ],
+    "4":[
+      "gives"
+    ],
+    "5":[
+      "are ... calling",
+      "are ... calling"
+    ],
+    "6":[
+      "pressed"
+    ],
+    "7":[
+      "resigns"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "named_terror_group",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "isrmil",
+      "pserebhmsmusuafmil",
+      "015"
+    ],
+    "2":[
+      "---edu",
+      "---jud",
+      "110"
+    ],
+    "3":[
+      "fra",
+      "fra",
+      "08"
+    ],
+    "4":[
+      "med",
+      "usa",
+      "060"
+    ],
+    "5":[
+      "---ppl",
+      "jor",
+      "041",
+      "---ppl",
+      "usa",
+      "041"
+    ],
+    "6":[
+      "---leg",
+      "---cvl",
+      "100"
+    ],
+    "7":[
+      "---edu",
+      "---edu",
+      "083"
+    ]
+  }
+}

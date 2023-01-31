@@ -1,0 +1,239 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/erectile-dysfunction_us_5b9d7ad0e4b03a1dcc8885ad",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-what-it-means_us_5bafbb05e4b0ad769260f9a7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/immigration-of-skilled-fo_us_5bb2fe22e4b0480ca660b38f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/immigration-of-skilled-fo_us_5bb2fe22e4b0480ca660b38f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/immigration-of-skilled-fo_us_5bb2fe22e4b0480ca660b38f"
+  },
+  "headline":{
+    "0":"Youthful ED: More to the Story?",
+    "1":"Russia: What It Means",
+    "2":"Immigration of Skilled Foreign Workers: America Is Shooting Itself in the Foot",
+    "3":"Immigration of Skilled Foreign Workers: America Is Shooting Itself in the Foot",
+    "4":"Immigration of Skilled Foreign Workers: America Is Shooting Itself in the Foot"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"QUEER VOICES",
+    "2":"BUSINESS",
+    "3":"BUSINESS",
+    "4":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Young men who are heavy Internet porn users and have ED should, of course, see a doctor to rule out organic causes. If everything checks out, they may want to consider whether chronic or early porn use is the culprit.",
+    "1":"Don't go. Slovakia and Bulgaria, while by no means gay paradises, are still havens compared with Russia and provide Slavic vacations with the best of them.",
+    "2":"Over the past decades, the United States has established the H1-B visa as the main gate for skilled workers hired by US companies. In order to avoid any abuse, the US Senate went as far as establishing quotas for H1-B visas on an annual basis.",
+    "3":"Over the past decades, the United States has established the H1-B visa as the main gate for skilled workers hired by US companies. In order to avoid any abuse, the US Senate went as far as establishing quotas for H1-B visas on an annual basis.",
+    "4":"Over the past decades, the United States has established the H1-B visa as the main gate for skilled workers hired by US companies. In order to avoid any abuse, the US Senate went as far as establishing quotas for H1-B visas on an annual basis."
+  },
+  "authors":{
+    "0":"Marnia Robinson, Contributor\nAuthor of 'Cupid's Poisoned Arrow: From Habit to Harmony in Se...",
+    "1":"Dane Steele Green, Contributor\nPresident & CEO - Steele Luxury Travel",
+    "2":"Georges Ugeux, Contributor\nAdjunct professor Columbia Law School and CEO Galileo Global A...",
+    "3":"Georges Ugeux, Contributor\nAdjunct professor Columbia Law School and CEO Galileo Global A...",
+    "4":"Georges Ugeux, Contributor\nAdjunct professor Columbia Law School and CEO Galileo Global A..."
+  },
+  "date":{
+    "0":"2013-09-21 00:00:00",
+    "1":"2013-09-21 00:00:00",
+    "2":"2013-09-21 00:00:00",
+    "3":"2013-09-21 00:00:00",
+    "4":"2013-09-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"svk",
+    "2":"usa",
+    "3":"usa",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"bgr",
+    "2":"usa",
+    "3":"---lab",
+    "4":"usagovleg"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"190",
+    "3":"060",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":-10.0,
+    "3":6.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "slovakia",
+      "bulgaria",
+      "svk",
+      "bgr",
+      "slovakia",
+      "bulgaria"
+    ],
+    "2":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "workers",
+      "~lab",
+      "~",
+      "us",
+      "companies",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "4":[
+      "the us",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "doctor"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "america",
+      "america"
+    ],
+    "3":[
+      "the ... united states",
+      "workers"
+    ],
+    "4":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... see"
+    ],
+    "1":[
+
+    ],
+    "2":[
+      "is shooting"
+    ],
+    "3":[
+      "has established"
+    ],
+    "4":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "id_immigration",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "svk",
+      "bgr",
+      "060",
+      "bgr",
+      "svk",
+      "060"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "190"
+    ],
+    "3":[
+      "usa",
+      "---lab",
+      "060"
+    ],
+    "4":[
+      "usa",
+      "usagovleg",
+      "040",
+      "usagovleg",
+      "usa",
+      "040"
+    ]
+  }
+}

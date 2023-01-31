@@ -1,0 +1,297 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/adam-rippon-gus-kenworthy-pence-vp-olympics_us_5a7dc202e4b044b3821cbce0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fergie-says-quentin-tarantino-bit-her-on-set-in-a-resurfaced-interview_us_5a7cbceee4b08dfc9301dd63",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/george-clooney-amal-david-letterman_us_5a7e022ae4b08dfc930409ff",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/australia-national-apology-child-sex-abuse-survivors_us_5a7b9901e4b08dfc92ffccd7",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/taxpayers-dont-want-to-pay-for-lawmakers-sexual-misdeeds_us_5a7c6414e4b0a0f48092eb14",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/congress-vote-expected-avert-government-shutdown_us_5a7c6737e4b08dfc9300e6e5",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/syrian-kurdish-fighters-capture-isis-beatles_us_5a7c9b06e4b044b3821ab808"
+  },
+  "headline":{
+    "0":"Team USA's Openly Gay Athletes Aren't Backing Down From Feud With Vice President",
+    "1":"Video Resurfaces Of Fergie Saying Quentin Tarantino Bit Her On Set",
+    "2":"George Clooney Talks About His Love For Amal, And It\u2019s Devastatingly Romantic",
+    "3":"Australia To Deliver National Apology To Child Sex Abuse Survivors",
+    "4":"Taxpayers Don\u2019t Want To Pay For Lawmakers\u2019 Sexual Misdeeds, But Alternatives Pose Problems",
+    "5":"Congress Expected To Vote On Budget To Avert Government Shutdown",
+    "6":"Syrian Kurdish Fighters Capture 2 Members Of ISIS 'Beatles' Cell: Reports"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"ENTERTAINMENT",
+    "2":"ENTERTAINMENT",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\"Eat your heart out, Pence.\"",
+    "1":"Media outlets are heavily scrutinizing the director\u2019s past behavior towards women on set in light of Uma Thurman's allegations.",
+    "2":"The actor described his love for his wife on David Letterman\u2019s Netflix show.",
+    "3":"The prime minister wants to offer \"the dignity to which they were entitled as children but which was denied to them by the very people tasked with their care.\"",
+    "4":"Holding individual lawmakers, and not the government, responsible for sexual harassment might lessen the incentive for legislatures to train and police their own.",
+    "5":"Failure to agree on spending led to a partial three-day shutdown of government agencies last month.",
+    "6":"The terrorist gang is known for beheading Western hostages on camera."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Elyse Wanshel",
+    "2":"Elyse Wanshel",
+    "3":"Eoin Blackwell",
+    "4":"Stateline, Editorial Partner",
+    "5":"Richard Cowan, Reuters",
+    "6":"Jesselyn Cook"
+  },
+  "date":{
+    "0":"2018-02-09 00:00:00",
+    "1":"2018-02-09 00:00:00",
+    "2":"2018-02-09 00:00:00",
+    "3":"2018-02-08 00:00:00",
+    "4":"2018-02-08 00:00:00",
+    "5":"2018-02-08 00:00:00",
+    "6":"2018-02-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl",
+    "1":"---med",
+    "2":"---eli",
+    "3":"---gov",
+    "4":"---cvl",
+    "5":"---leg",
+    "6":"syruaf"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"mncusa",
+    "3":"---ppl",
+    "4":"---leg",
+    "5":"---gov",
+    "6":"imgmusisi"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"090",
+    "2":"010",
+    "3":"030",
+    "4":"0311",
+    "5":"030",
+    "6":"181"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":4.0,
+    "4":5.2,
+    "5":4.0,
+    "6":-9.0
+  },
+  "nouns":{
+    "0":[
+      "usa",
+      "athletes",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "actor",
+      "~eli",
+      "~",
+      "netflix",
+      "mncusa",
+      "netflix"
+    ],
+    "3":[
+      "prime minister",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "taxpayers",
+      "~cvl",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "5":[
+      "congress",
+      "~leg",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "syrian",
+      "fighters",
+      "syruaf",
+      "syria",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "usa ... athletes",
+      "president"
+    ],
+    "1":[
+      "media",
+      "women"
+    ],
+    "2":[
+      "actor",
+      "netflix"
+    ],
+    "3":[
+      "prime minister",
+      "people"
+    ],
+    "4":[
+      "taxpayers",
+      "lawmakers"
+    ],
+    "5":[
+      "congress",
+      "government"
+    ],
+    "6":[
+      "syrian ... fighters",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "netflix"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "syria",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are <['backing',> <'down']>"
+    ],
+    "1":[
+      "are ... scrutinizing"
+    ],
+    "2":[
+      "described"
+    ],
+    "3":[
+      "wants ... offer"
+    ],
+    "4":[
+      "do ... want ... pay"
+    ],
+    "5":[
+      "expected ... vote"
+    ],
+    "6":[
+      "capture ... members"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---gov",
+      "08"
+    ],
+    "1":[
+      "---med",
+      "---cvl",
+      "090"
+    ],
+    "2":[
+      "---eli",
+      "mncusa",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "---ppl",
+      "030"
+    ],
+    "4":[
+      "---cvl",
+      "---leg",
+      "0311"
+    ],
+    "5":[
+      "---leg",
+      "---gov",
+      "030"
+    ],
+    "6":[
+      "syruaf",
+      "imgmusisi",
+      "181"
+    ]
+  }
+}

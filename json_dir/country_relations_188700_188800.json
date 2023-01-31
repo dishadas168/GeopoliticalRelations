@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/co-sleeping-risks_us_5b9bfe35e4b03a1dcc7b9e89",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chinese-park-offers-discounts-to-women-wearing-miniskirts_us_5b9bffe5e4b03a1dcc7ba84c"
+  },
+  "headline":{
+    "0":"Co-Sleeping Research Looks At Breathing Risks For Baby",
+    "1":"Chinese Park Offers Discount To Women Wearing Miniskirts"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The American Academy of Pediatrics recommends room sharing with infants, but not bed-sharing. In particular, it advises against",
+    "1":"Coincidentally (or not) a water-splashing festival is taking place at the park during the mini-skirt campaign. \"The stipulation"
+  },
+  "authors":{
+    "0":"Catherine Pearson",
+    "1":""
+  },
+  "date":{
+    "0":"2012-07-16 00:00:00",
+    "1":"2012-07-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"chn"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "infants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "chinese",
+      "chn",
+      "china",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "infants"
+    ],
+    "1":[
+      "chinese",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "china",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "recommends"
+    ],
+    "1":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "020"
+    ],
+    "1":[
+      "chn",
+      "---cvl",
+      "030"
+    ]
+  }
+}

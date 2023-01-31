@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-physical-education_us_596681e9e4b0a0c6f1e59876"
+  },
+  "headline":{
+    "0":"Saudi Arabia Allows Girls To Take Physical Education Classes"
+  },
+  "category":{
+    "0":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Critics who say female participation in sports is immodest blocked the move for years."
+  },
+  "authors":{
+    "0":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2017-07-12 00:00:00"
+  },
+  "actor1":{
+    "0":"sau"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "saudi arabia",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "saudi arabia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allows"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "sau",
+      "---cvl",
+      "08"
+    ]
+  }
+}

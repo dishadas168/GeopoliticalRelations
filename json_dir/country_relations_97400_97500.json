@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/what-would-pakistan-20-lo_b_7184818.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/brother-of-hillary-clinto_b_7186236.html"
+  },
+  "headline":{
+    "0":"What Would Pakistan 2.0 Look Like?",
+    "1":"Brother of Hillary Clinton's Top Campaign Aide Lobbied for Fracked Gas Export Terminal Co-Owned by Qatar"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"If you have ever doubted that the mother of invention is necessity, then look no further than Pakistan. Pakistan has struggled to provide opportunities to its people for decades. But the country is turning the tide.",
+    "1":"Anthony \"Tony\" Podesta began lobbying in late 2013 on behalf of a company co-owned by ExxonMobil and Qatar Petroleum aiming to export liquefied natural gas (LNG) to the global market."
+  },
+  "authors":{
+    "0":"Ravi Kumar, ContributorDigital Strategist, World Bank Group",
+    "1":"Steve Horn, ContributorResearch Fellow, DeSmogBlog"
+  },
+  "date":{
+    "0":"2015-05-01 00:00:00",
+    "1":"2015-05-01 00:00:00"
+  },
+  "actor1":{
+    "0":"pak",
+    "1":"usaeli"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"qat"
+  },
+  "event_code":{
+    "0":"164",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "pakistan",
+      "pak",
+      "pakistan",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "qatar",
+      "qat",
+      "qatar"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "pakistan",
+      "people"
+    ],
+    "1":[
+      "hillary clinton",
+      "qatar"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "pakistan",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "qatar"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has struggled ... provide"
+    ],
+    "1":[
+      "lobbied for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "pak",
+      "---ppl",
+      "164"
+    ],
+    "1":[
+      "usaeli",
+      "qat",
+      "020"
+    ]
+  }
+}

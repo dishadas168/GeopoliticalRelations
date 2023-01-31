@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/safe-climate-caucus-wake_b_5364885.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cisco-china_b_5365950.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/whats-the-deal-with-nativ_b_5310115.html"
+  },
+  "headline":{
+    "0":"Safe Climate Caucus: Wake Up, Congress",
+    "1":"America's Tech Firms Must Not Aid Chinese Repression",
+    "2":"What's the Deal with Native Advertising?"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"BUSINESS",
+    "2":"BUSINESS"
+  },
+  "short_description":{
+    "0":"There is no time to delay.  Earlier this month, our nation's leading climate scientists confirmed that climate change is real, is caused by humans, and is already harming communities across America.  They concluded that the scientific evidence is \"unequivocal.\"",
+    "1":"My late great father, California Congressman Tom Lantos, would often remind me with a wry smile:  \"Time heals all wounds and wounds all heels.\" I thought of this recently when an important human rights lawsuit against Cisco Systems began to make its way through the labyrinth of our legal system.",
+    "2":"Select advertisers and publishers are giving native advertising a bad rep. But neither party can entirely be blamed for this. Their needs are in constant conflict."
+  },
+  "authors":{
+    "0":"Rep. Henry Waxman, ContributorU.S. Representative, California's 33rd Congressional District",
+    "1":"Katrina Lantos Swett, ContributorPresident and CEO, Lantos Foundation for Human Rights and Justice",
+    "2":"Danny Wong, ContributorCo-founder of Blank Label. Marketing at Conversio and Tenfold"
+  },
+  "date":{
+    "0":"2014-05-21 00:00:00",
+    "1":"2014-05-21 00:00:00",
+    "2":"2014-05-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"chn",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"121",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":-4.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "scientists",
+      "~cvl",
+      "~",
+      "communities",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "2":[
+      "publishers",
+      "~med",
+      "~",
+      "native",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "scientists",
+      "---"
+    ],
+    "1":[
+      "america",
+      "chinese"
+    ],
+    "2":[
+      "publishers",
+      "native"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "china"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... harming"
+    ],
+    "1":[
+      "must"
+    ],
+    "2":[
+      "are giving"
+    ]
+  },
+  "issues":{
+    "0":[
+      "climate_change",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usacvl",
+      "180"
+    ],
+    "1":[
+      "usa",
+      "chn",
+      "121"
+    ],
+    "2":[
+      "---med",
+      "---cvl",
+      "060"
+    ]
+  }
+}

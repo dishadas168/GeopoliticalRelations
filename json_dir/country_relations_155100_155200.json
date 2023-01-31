@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/love-match-the-haggis-top_us_5b9d57bce4b03a1dcc86de64"
+  },
+  "headline":{
+    "0":"Love Match: The Haggis-Topped Murray Burger"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"The Solita Bar & Grill in Manchester, England, is celebrating Andy Murray's triumph at Wimbledon with a Scottish-themed burger called The Murray. It wouldn't be Scottish without a bit of deep-fried haggis, but there's more of course."
+  },
+  "authors":{
+    "0":"Scott Hume, Contributor\nEditor, BurgerBusiness.com"
+  },
+  "date":{
+    "0":"2013-07-12 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr"
+  },
+  "actor2":{
+    "0":"aus"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "manchester",
+      "england",
+      "gbr",
+      "gbr",
+      "united",
+      "kingdom",
+      "united",
+      "kingdom",
+      "murray",
+      "aus",
+      "australia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "manchester",
+      "murray"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "australia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is celebrating"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "aus",
+      "051",
+      "gbr",
+      "aus",
+      "051"
+    ]
+  }
+}

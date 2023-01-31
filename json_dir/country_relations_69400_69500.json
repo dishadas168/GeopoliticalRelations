@@ -1,0 +1,174 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-boycotts-obama-nuclear-summit_us_56fd2ffce4b0a06d5804e807",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fan-crying-obama-kameria_us_56fc280fe4b0a06d58048798",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-clemency-drug_us_56fbedb0e4b0daf53aee254f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-clemency-drug_us_56fbedb0e4b0daf53aee254f"
+  },
+  "headline":{
+    "0":"Moscow Boycotts Obama's Final Nuclear Security Summit",
+    "1":"Little Girl Who Couldn't Believe Obama Was Leaving Office Finally Met The President",
+    "2":"21 People Found Out Today They Won't Die In Prison",
+    "3":"21 People Found Out Today They Won't Die In Prison"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The absence of Russia, one of the biggest atomic powers, adds to doubts that the meeting will yield major results.",
+    "1":"She's still probably not ready to see him go.",
+    "2":"Obama granted clemency to 61 people on Wednesday -- but his pardon rate is far lower than what advocates hoped for.",
+    "3":"Obama granted clemency to 61 people on Wednesday -- but his pardon rate is far lower than what advocates hoped for."
+  },
+  "authors":{
+    "0":"Matt Spetalnick and David Brunnstrom, Reuters",
+    "1":"Chantelle DMello",
+    "2":"Ryan J. Reilly",
+    "3":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2016-03-31 00:00:00",
+    "1":"2016-03-30 00:00:00",
+    "2":"2016-03-30 00:00:00",
+    "3":"2016-03-30 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"125",
+    "1":"040",
+    "2":"184",
+    "3":"081"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":-8.0,
+    "3":5.0
+  },
+  "nouns":{
+    "0":[
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "girl",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "moscow",
+      "obama"
+    ],
+    "1":[
+      "girl",
+      "president"
+    ],
+    "2":[
+      "people",
+      "people"
+    ],
+    "3":[
+      "obama",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "boycotts ... summit"
+    ],
+    "1":[
+      "was leaving ... met"
+    ],
+    "2":[
+      "found <~ppl> ... die in <&detention>"
+    ],
+    "3":[
+      "granted clemency"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "usagov",
+      "125"
+    ],
+    "1":[
+      "---cvl",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "184"
+    ],
+    "3":[
+      "usagov",
+      "---ppl",
+      "081"
+    ]
+  }
+}

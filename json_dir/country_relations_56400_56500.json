@@ -1,0 +1,190 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/paul-lepage-censure_us_57c9d434e4b078581f1308d9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/queen-sugar-cast-ava-duvernay-women-directors_us_57c99726e4b0e60d31ded88e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/these-people-took-on-puerto-rican-slang-and-it-was-n%C3%ADtido_us_57c991e7e4b078581f12b8b1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/islam-karimov-dead_us_57c4a294e4b0cdfc5ac8c82c"
+  },
+  "headline":{
+    "0":"Maine Senate Leaders Will Not Seek Special Session To Reprimand Governor",
+    "1":"'Queen Sugar' Cast On Ava DuVernay\u2019s Push For Women Directors",
+    "2":"These People Took On Puerto Rican Slang And It Was N\u00edtido",
+    "3":"Diplomats Say Uzbekistan's Authoritarian President Islam Karimov Dead At 78"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BLACK VOICES",
+    "2":"LATINO VOICES",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The governor left a lawmaker a profanity-laden voicemail and has made several racist comments.",
+    "1":"\u201cI didn\u2019t really understand why this was so shocking in 2016.\u201d",
+    "2":"But also hilariously difficult.",
+    "3":"The Uzbek government did not immediately confirm the reports."
+  },
+  "authors":{
+    "0":"Scott Malone, Reuters",
+    "1":"Brennan Williams",
+    "2":"Carolina Moreno",
+    "3":"Olzhas Auyezov, Reuters"
+  },
+  "date":{
+    "0":"2016-09-02 00:00:00",
+    "1":"2016-09-02 00:00:00",
+    "2":"2016-09-02 00:00:00",
+    "3":"2016-09-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"'mamohato_",
+    "2":"---ppl",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---cvl",
+    "2":"usapri",
+    "3":"uzbgov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"100",
+    "2":"171",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0,
+    "2":-9.2,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "lawmaker",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "queen",
+      "'mamohato_",
+      "queen",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "puerto rican",
+      "usapri",
+      "puerto",
+      "rico"
+    ],
+    "3":[
+      "diplomats",
+      "~gov",
+      "~",
+      "uzbekistan",
+      "president",
+      "islam karimov",
+      "uzbgov",
+      "uzbgov",
+      "uzbekistan",
+      "~",
+      "islam",
+      "karimov"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "lawmaker"
+    ],
+    "1":[
+      "queen",
+      "women"
+    ],
+    "2":[
+      "people",
+      "puerto rican"
+    ],
+    "3":[
+      "diplomats",
+      "uzbekistan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "queen",
+      "---"
+    ],
+    "2":[
+      "---",
+      "puerto rico"
+    ],
+    "3":[
+      "---",
+      "uzbekistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... left"
+    ],
+    "1":[
+      "push"
+    ],
+    "2":[
+      "took"
+    ],
+    "3":[
+      "say"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---leg",
+      "040"
+    ],
+    "1":[
+      "'mamohato_",
+      "---cvl",
+      "100"
+    ],
+    "2":[
+      "---ppl",
+      "usapri",
+      "171"
+    ],
+    "3":[
+      "---gov",
+      "uzbgov",
+      "010",
+      "---gov",
+      "uzbgov",
+      "010"
+    ]
+  }
+}

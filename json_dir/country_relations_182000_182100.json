@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unaccountable-book-marty-makary-hospitals-doctors-safety_us_5b9c59bee4b03a1dcc7df810",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/check-out-hospital_us_5b9c59c0e4b03a1dcc7df819",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jfk-terminal-4-evacuated_us_5b9c5aa0e4b03a1dcc7dff52"
+  },
+  "headline":{
+    "0":"'Unaccountable': New Book By Dr. Marty Makary Shows How Hospitals Aren't Telling Patients About Bad Doctors",
+    "1":"Check Out Your Hospital Before You Check In",
+    "2":"JFK Terminal 4 Evacuated After Grenade Found In Passenger's Bag"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The reason? Good practices may not be a reliable proxy for good safety. A hospital's rate of providing antibiotics after",
+    "1":"The Leapfrog Group, a business organization that collects data directly from cooperating hospitals, offers free hospital",
+    "2":"The passenger, who had flown in from Tel Aviv via Moscow, told authorities that the grenade was inert, but the Terminal was"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Reuters, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2012-09-27 00:00:00",
+    "1":"2012-09-27 00:00:00",
+    "2":"2012-09-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"mearebbus",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---hlh",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "hospitals",
+      "~hlh",
+      "~",
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "business",
+      "organization",
+      "mearebbus",
+      "~",
+      "tanzim",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "2":[
+      "passenger",
+      "~cvl",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hospitals",
+      "hospitals"
+    ],
+    "1":[
+      "business organization",
+      "hospital"
+    ],
+    "2":[
+      "passenger",
+      "authorities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "tanzim",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... telling"
+    ],
+    "1":[
+      "offers"
+    ],
+    "2":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "mearebbus",
+      "---hlh",
+      "030"
+    ],
+    "2":[
+      "---cvl",
+      "---gov",
+      "010"
+    ]
+  }
+}

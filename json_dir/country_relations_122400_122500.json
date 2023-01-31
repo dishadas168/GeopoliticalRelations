@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israel-palestine-third-intifada_b_5574875.html"
+  },
+  "headline":{
+    "0":"The Post-Oslo Generation, Poised for a Third Intifada?"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"It is neither in Israel's nor in Hamas' interest to start a new war. The latter now has the means to strike Tel Aviv, and Netanyahu would struggle to survive politically if the heart of the Jewish state were badly hit. As for Hamas, it is already in dire straits. Gaza has been subjected to an Israeli blockade for seven years, and Abdel Fattah al-Sisi's Egypt tightened the grip further by destroying the hundreds of smuggling tunnels that were the economical lifeline for the 1.7 million Gazans."
+  },
+  "authors":{
+    "0":"Laurent Zecchini, ContributorJournalist for Le Monde"
+  },
+  "date":{
+    "0":"2014-07-10 00:00:00"
+  },
+  "actor1":{
+    "0":"isrgov"
+  },
+  "actor2":{
+    "0":"---jew"
+  },
+  "event_code":{
+    "0":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0
+  },
+  "nouns":{
+    "0":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "jewish",
+      "~jew",
+      "~",
+      "jewish",
+      "~jew",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "netanyahu",
+      "jewish"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "benjamin netanyahu",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would struggle <~jew> ... hit"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "isrgov",
+      "---jew",
+      "190"
+    ]
+  }
+}

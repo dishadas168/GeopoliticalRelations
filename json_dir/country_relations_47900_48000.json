@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-dow-andrew-liveris-manufacturing_us_584b5a48e4b0e05aded42468",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syrian-government-control-aleppo_us_584c146fe4b04c8e2bb02083"
+  },
+  "headline":{
+    "0":"Donald Trump Picks Dow Chemical's Andrew Liveris To Head American Manufacturing Council",
+    "1":"Russia Says Syrian Government Controls 93 Percent Of Aleppo"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The U.S.-Australian citizen will advise the secretary of commerce.",
+    "1":"People in rebel-held areas have been evacuating."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-12-10 00:00:00",
+    "1":"2016-12-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"rus"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"syr"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "citizen",
+      "~cvl",
+      "~",
+      "secretary of commerce",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "aleppo",
+      "syr",
+      "syria",
+      "syrian",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "citizen",
+      "secretary of commerce"
+    ],
+    "1":[
+      "russia",
+      "aleppo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will advise"
+    ],
+    "1":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---gov",
+      "020"
+    ],
+    "1":[
+      "rus",
+      "syr",
+      "010"
+    ]
+  }
+}

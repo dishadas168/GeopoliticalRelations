@@ -1,0 +1,317 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/police-london-black-friday-panic_us_5a199cb2e4b064948074a71c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/yemen-saudi-blockade-ease-aid-medical-supplies_us_5a19f119e4b0d4906caf1efe",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/indian-politician-beheading-bollywood_us_5a1877cee4b0d4906caeb57e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/beijing-kindergarten-ryb-education-abuse_us_5a185f31e4b0649480742988",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trump-terrible-10-democrat-vs-predator-edition_us_5a177415e4b0bf1467a845e0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/al-franken-apology-crossed-line_us_5a1681e6e4b064948072f2c4",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/amazon-europe-black-friday-strike_us_5a172d5fe4b0649480737fec"
+  },
+  "headline":{
+    "0":"Police Seek Answers On Central London's Black Friday Panic",
+    "1":"Aid Workers And Medical Supplies Trickle Into Yemen As Saudis Ease Blockade",
+    "2":"Indian Politician Offers $1.5 Million To Behead Bollywood Star",
+    "3":"Anxiety Runs High In China As Another Kindergarten Is Accused Of Child Abuse",
+    "4":"Trump Terrible 10: Democrat Vs. Predator Edition",
+    "5":"Al Franken Issues Another Apology: 'I Crossed A Line'",
+    "6":"Hundreds Of Europe's Amazon Workers Plan Black Friday Strike"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Two men were questioned in connection with an incident that caused chaos, but no casualties.",
+    "1":"A nearly three-week military blockade has left about 7 million people facing famine.",
+    "2":"Surajpal Amu of India's ruling party offered the bounty amid controversy over a film's representation of a Hindu legend.",
+    "3":"Teachers at a Beijing school allegedly forced children to take pills, jabbed them with needles and made them strip naked.",
+    "4":"This was the week that the President of the United States told voters to choose an accused pedophile and disgraceful bigot",
+    "5":"Earlier this week, two more women accused the senator of inappropriate touching.",
+    "6":"The walkout threatens profits on one of the biggest shopping days of the year."
+  },
+  "authors":{
+    "0":"Sara Boboltz",
+    "1":"",
+    "2":"Doha Madani",
+    "3":"Dominique Mosbergen",
+    "4":"David Halperin, ContributorAttorney, advocate, writer at RepublicReport.org",
+    "5":"Rebecca Shapiro",
+    "6":"Reuters Staff, Reuters"
+  },
+  "date":{
+    "0":"2017-11-25 00:00:00",
+    "1":"2017-11-25 00:00:00",
+    "2":"2017-11-24 00:00:00",
+    "3":"2017-11-24 00:00:00",
+    "4":"2017-11-24 00:00:00",
+    "5":"2017-11-24 00:00:00",
+    "6":"2017-11-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---mil",
+    "2":"ind",
+    "3":"chnedu",
+    "4":"usagov",
+    "5":"---cvl",
+    "6":"---lab"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"---ppl",
+    "2":"---hin",
+    "3":"---cvl",
+    "4":"---cvl",
+    "5":"---leg",
+    "6":"turreb"
+  },
+  "event_code":{
+    "0":"027",
+    "1":"040",
+    "2":"030",
+    "3":"170",
+    "4":"010",
+    "5":"112",
+    "6":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0,
+    "2":4.0,
+    "3":-7.0,
+    "4":0.0,
+    "5":-2.0,
+    "6":4.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "military",
+      "~mil",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "india",
+      "ind",
+      "india",
+      "hindu",
+      "~hin",
+      "~",
+      "hindu",
+      "~hin",
+      "~"
+    ],
+    "3":[
+      "beijing",
+      "school",
+      "chnedu",
+      "china",
+      "~",
+      "teachers",
+      "chnedu",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "usagov",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "pedophile",
+      "~crm",
+      "~"
+    ],
+    "5":[
+      "women",
+      "~cvl",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "6":[
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "black friday",
+      "turreb",
+      "black",
+      "friday"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "london"
+    ],
+    "1":[
+      "military",
+      "people"
+    ],
+    "2":[
+      "india",
+      "hindu"
+    ],
+    "3":[
+      "beijing school",
+      "children"
+    ],
+    "4":[
+      "president",
+      "voters"
+    ],
+    "5":[
+      "women",
+      "senator"
+    ],
+    "6":[
+      "workers",
+      "black friday"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "india",
+      "---"
+    ],
+    "3":[
+      "china",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "black friday"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seek <&solution>"
+    ],
+    "1":[
+      "has left"
+    ],
+    "2":[
+      "offered"
+    ],
+    "3":[
+      "<and> ... forced"
+    ],
+    "4":[
+      "told"
+    ],
+    "5":[
+      "accused"
+    ],
+    "6":[
+      "plan"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "food_security",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ],
+    "4":[
+      "election",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "gbr",
+      "027"
+    ],
+    "1":[
+      "---mil",
+      "---ppl",
+      "040"
+    ],
+    "2":[
+      "ind",
+      "---hin",
+      "030"
+    ],
+    "3":[
+      "chnedu",
+      "---cvl",
+      "170"
+    ],
+    "4":[
+      "usagov",
+      "---cvl",
+      "010"
+    ],
+    "5":[
+      "---cvl",
+      "---leg",
+      "112"
+    ],
+    "6":[
+      "---lab",
+      "turreb",
+      "030"
+    ]
+  }
+}

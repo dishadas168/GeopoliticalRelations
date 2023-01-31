@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/paris-terror-suspects-train-plot_us_57d27f14e4b03d2d4599d562"
+  },
+  "headline":{
+    "0":"Notre Dame Terror Suspects Planned Attack On Paris Train Station, France Says"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"One woman stabbed a police officer during her arrest, before being shot and wounded, authorities say."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"182"
+  },
+  "goldstein_score":{
+    "0":-9.5
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "police officer",
+      "~cop",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "police officer"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "stabbed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cop",
+      "182"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-carolina-republicans-lindsey-graham_us_55f06d69e4b093be51bd19bd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-hospitals-ebola-preparedness_us_55ea23a7e4b002d5c076295c"
+  },
+  "headline":{
+    "0":"South Carolina Republicans Want Lindsey Graham To Drop Out Of The Presidential Race",
+    "1":"How U.S. Hospitals Are Defending Themselves Against The Next Big Outbreak"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"Nearly 8 in 10 of the state's GOP voters say he should hang it up.",
+    "1":"Here's what's different about our health care system after Ebola."
+  },
+  "authors":{
+    "0":"Janie Velencia",
+    "1":"Anna Almendrala"
+  },
+  "date":{
+    "0":"2015-09-09 00:00:00",
+    "1":"2015-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"074"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":8.5
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "hospitals",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "voters"
+    ],
+    "1":[
+      "hospitals",
+      "hospitals"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... should hang"
+    ],
+    "1":[
+      "are defending"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "015"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "074"
+    ]
+  }
+}

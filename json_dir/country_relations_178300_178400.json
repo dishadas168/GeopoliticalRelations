@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/expat-overseas-voters-obama_us_5b9c7b50e4b03a1dcc7f1048",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2012\/11\/06\/technology\/silicon-valley-objects-to-online-privacy-rule-proposals-for-children.html?_r=1&"
+  },
+  "headline":{
+    "0":"How Expats And Travelers Could Help Obama",
+    "1":"A Trail of Clicks, Culminating in Conflict"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"But being surrounded by Obama's international fans doesn't necessarily turn Americans toward the Democratic Party or, for",
+    "1":"Washington is pushing Silicon Valley on children\u2019s privacy, and Silicon Valley is pushing back. Apple, Facebook, Google, Microsoft"
+  },
+  "authors":{
+    "0":"Andrew Burmon",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-06 00:00:00",
+    "1":"2012-11-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "travelers",
+      "~cvl",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "travelers",
+      "obama"
+    ],
+    "1":[
+      "washington",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could help"
+    ],
+    "1":[
+      "is pushing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usagov",
+      "070"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "100"
+    ]
+  }
+}

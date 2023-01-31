@@ -1,0 +1,362 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/afghan-bombings-jalalabad_n_5d5bafc9e4b0f667ed67ef60",
+    "1":"https:\/\/www.huffpost.com\/entry\/united-states-secret-talks-venezuela-socialist-boss_n_5d59eca4e4b0d8840ff50163",
+    "2":"https:\/\/www.huffpost.com\/entry\/galveston-police-black-man-by-rope-no-criminal-investigation_n_5d591522e4b056fafd0d325e",
+    "3":"https:\/\/www.huffpost.com\/entry\/afghanistan-kabul-wedding-suicide-bomber_n_5d58cb46e4b056fafd0d0ac4",
+    "4":"https:\/\/www.huffpost.com\/entry\/danny-masterson-scientology-lawsuit_n_5d54774be4b0eb875f1ee362",
+    "5":"https:\/\/www.huffpost.com\/entry\/india-arrests-over-500-in-kashmir-as-pakistan-suspends-railway-service_n_5d4c19a7e4b09e729742389e",
+    "6":"https:\/\/www.huffpost.com\/entry\/twitter-user-data-ads-without-permission_n_5d4a406ce4b09e72973e3d5a",
+    "7":"https:\/\/www.huffpost.com\/entry\/countries-travel-warning-us-shootings_n_5d48c7c9e4b01ae816c74da3"
+  },
+  "headline":{
+    "0":"Afghan Bombings Injure Over 120 People, But No One Claims Responsibility",
+    "1":"U.S. Opens Up Secret Communications To Venezuela Socialist Boss: Report",
+    "2":"Texas Officers Who Led Black Man By Rope Won\u2019t Face Criminal Probe, State Says",
+    "3":"Suicide Bombing At Kabul Wedding Leaves 63 Dead And 182 Hurt",
+    "4":"4 Women Sue Actor Danny Masterson, Church of Scientology And Its Leader",
+    "5":"India Arrests Over 500 In Kashmir As Pakistan Suspends Railway Service",
+    "6":"Twitter Says It May Have Shared User Data With Ad Partners Without Permission",
+    "7":"Countries Warn Their Citizens About U.S. Travel After Mass Shootings"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"U.S. NEWS",
+    "3":"WORLD NEWS",
+    "4":"U.S. NEWS",
+    "5":"WORLD NEWS",
+    "6":"U.S. NEWS",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The explosions occurred in public squares, markets and outside restaurants in the city of Jalalabad.",
+    "1":"Diosdado Cabello met last month in Caracas with someone who is in close contact with the Trump administration, AP reported Sunday.",
+    "2":"The two Galveston officers have reportedly also returned to work.",
+    "3":"ISIS has claimed responsibility for the attack at an Afghan wedding hall in a Shi'ite neighborhood.",
+    "4":"The lawsuit filed in Los Angeles accuses the actor and organization of stalking, intimidation and conspiracy stemming from rape allegations against the actor.",
+    "5":"The arrests come after India\u2019s government revoked the special status of Jammu and Kashmir this week and downgraded the region from statehood to a territory",
+    "6":"\"We\u2019re sorry this happened, and are taking steps to make sure we don\u2019t make a mistake like this again,\" the company said in a blog post.",
+    "7":"The governments of Venezuela and Uruguay issued warnings about travel to the U.S. after the El Paso and Dayton shootings."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Dominique Mosbergen",
+    "3":"",
+    "4":"Yashar Ali",
+    "5":"Ashok Sharma and Munir Ahme, AP",
+    "6":"Dominique Mosbergen",
+    "7":"Sarah Ruiz-Grossman"
+  },
+  "date":{
+    "0":"2019-08-20 00:00:00",
+    "1":"2019-08-19 00:00:00",
+    "2":"2019-08-18 00:00:00",
+    "3":"2019-08-18 00:00:00",
+    "4":"2019-08-15 00:00:00",
+    "5":"2019-08-08 00:00:00",
+    "6":"2019-08-07 00:00:00",
+    "7":"2019-08-06 00:00:00"
+  },
+  "actor1":{
+    "0":"afg",
+    "1":"veneli",
+    "2":"usa",
+    "3":"imgmusisi",
+    "4":"usa",
+    "5":"ind",
+    "6":"---bus",
+    "7":"vengov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"ven",
+    "2":"---crm",
+    "3":"afgcvl",
+    "4":"mearebeli",
+    "5":"pak",
+    "6":"---med",
+    "7":"usa"
+  },
+  "event_code":{
+    "0":"182",
+    "1":"040",
+    "2":"040",
+    "3":"015",
+    "4":"112",
+    "5":"173",
+    "6":"010",
+    "7":"060"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":1.0,
+    "2":1.0,
+    "3":0.0,
+    "4":-2.0,
+    "5":-5.0,
+    "6":0.0,
+    "7":6.0
+  },
+  "nouns":{
+    "0":[
+      "afghan",
+      "afg",
+      "afghanistan",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "diosdado cabello",
+      "veneli",
+      "diosdado",
+      "cabello",
+      "caracas",
+      "ven",
+      "venezuela"
+    ],
+    "2":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "neighborhood",
+      "~cvl",
+      "~",
+      "afghan",
+      "neighborhood",
+      "afgcvl",
+      "afghanistan",
+      "~"
+    ],
+    "4":[
+      "los angeles",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "actor",
+      "organization",
+      "mearebeli",
+      "~",
+      "tanzim",
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "~eli",
+      "~",
+      "actor",
+      "organization",
+      "mearebeli",
+      "~",
+      "tanzim"
+    ],
+    "5":[
+      "india",
+      "ind",
+      "india",
+      "pakistan",
+      "pak",
+      "pakistan"
+    ],
+    "6":[
+      "company",
+      "~bus",
+      "~",
+      "blog",
+      "~med",
+      "~"
+    ],
+    "7":[
+      "venezuela",
+      "uruguay",
+      "ven",
+      "ury",
+      "venezuela",
+      "uruguay",
+      "governments",
+      "vengov",
+      "urygov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "afghan",
+      "people"
+    ],
+    "1":[
+      "diosdado cabello",
+      "caracas"
+    ],
+    "2":[
+      "texas",
+      "criminal"
+    ],
+    "3":[
+      "isis",
+      "afghan ... neighborhood"
+    ],
+    "4":[
+      "los angeles",
+      "actor ... organization"
+    ],
+    "5":[
+      "india",
+      "pakistan"
+    ],
+    "6":[
+      "company",
+      "blog"
+    ],
+    "7":[
+      "governments",
+      "u.s.",
+      "governments",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "afghanistan",
+      "---"
+    ],
+    "1":[
+      "diosdado cabello",
+      "venezuela"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "the islamic state",
+      "afghanistan"
+    ],
+    "4":[
+      "united states of america",
+      "tanzim"
+    ],
+    "5":[
+      "india",
+      "pakistan"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "",
+      "united states of america",
+      "",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "injure"
+    ],
+    "1":[
+      "met"
+    ],
+    "2":[
+      "wo ... face"
+    ],
+    "3":[
+      "has claimed responsibility"
+    ],
+    "4":[
+      "accuses"
+    ],
+    "5":[
+      "arrests"
+    ],
+    "6":[
+      "said"
+    ],
+    "7":[
+      "issued",
+      "issued"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "rape",
+      "1"
+    ],
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "afg",
+      "---ppl",
+      "182"
+    ],
+    "1":[
+      "veneli",
+      "ven",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "---crm",
+      "040"
+    ],
+    "3":[
+      "imgmusisi",
+      "afgcvl",
+      "015"
+    ],
+    "4":[
+      "usa",
+      "mearebeli",
+      "112"
+    ],
+    "5":[
+      "ind",
+      "pak",
+      "173"
+    ],
+    "6":[
+      "---bus",
+      "---med",
+      "010"
+    ],
+    "7":[
+      "vengov",
+      "usa",
+      "060",
+      "urygov",
+      "usa",
+      "060"
+    ]
+  }
+}

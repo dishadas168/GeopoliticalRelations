@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wells-fargo-190-million-customer-fraud_us_57d1c695e4b06a74c9f3b3bc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/wells-fargo-190-million-customer-fraud_us_57d1c695e4b06a74c9f3b3bc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mahmoud-abbas-kgb-spy-israeli-researchers_us_57d1853ae4b06a74c9f32318",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mahmoud-abbas-kgb-spy-israeli-researchers_us_57d1853ae4b06a74c9f32318",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/louis-w-sullivan-hillary-clinton_us_57cf06dee4b06a74c9f0cf74"
+  },
+  "headline":{
+    "0":"Wells Fargo Will Pay $190 Million To Settle Customer Fraud Case",
+    "1":"Wells Fargo Will Pay $190 Million To Settle Customer Fraud Case",
+    "2":"Israeli Researchers Say Mahmoud Abbas Was A KGB Spy In The 1980s",
+    "3":"Israeli Researchers Say Mahmoud Abbas Was A KGB Spy In The 1980s",
+    "4":"A Third GOP Cabinet Secretary Endorses Hillary Clinton"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"BUSINESS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Wells Fargo will pay $185 million in penalties and $5 million to customers that regulators say were pushed into fee-generating accounts that they never requested.",
+    "1":"Wells Fargo will pay $185 million in penalties and $5 million to customers that regulators say were pushed into fee-generating accounts that they never requested.",
+    "2":"The Palestinian government denied that Abbas had been a Soviet spy, and accused Israel of \u201cwaging a smear campaign\u201d aimed at derailing efforts to revive peace negotiations that collapsed in 2014.",
+    "3":"The Palestinian government denied that Abbas had been a Soviet spy, and accused Israel of \u201cwaging a smear campaign\u201d aimed at derailing efforts to revive peace negotiations that collapsed in 2014.",
+    "4":"\"She is an infinitely better choice for president than Donald Trump,\" said former Health and Human Services Secretary Louis Sullivan."
+  },
+  "authors":{
+    "0":"Patrick Rucker and Dan Freed, Reuters\/HuffPost",
+    "1":"Patrick Rucker and Dan Freed, Reuters\/HuffPost",
+    "2":"Jeffrey Heller, Reuters",
+    "3":"Jeffrey Heller, Reuters",
+    "4":"Nico Pitney"
+  },
+  "date":{
+    "0":"2016-09-08 00:00:00",
+    "1":"2016-09-08 00:00:00",
+    "2":"2016-09-08 00:00:00",
+    "3":"2016-09-08 00:00:00",
+    "4":"2016-09-07 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"mncusa",
+    "2":"isr",
+    "3":"psegov",
+    "4":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"psegov",
+    "3":"isr",
+    "4":"usaeli"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"061",
+    "2":"010",
+    "3":"112",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":6.4,
+    "2":0.0,
+    "3":-2.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "wells fargo",
+      "mncusa",
+      "wells",
+      "fargo",
+      "customer",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "wells fargo",
+      "mncusa",
+      "wells",
+      "fargo",
+      "customers",
+      "~cvl",
+      "~",
+      "customers",
+      "~cvl",
+      "~",
+      "regulators",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "israeli",
+      "isr",
+      "israel",
+      "mahmoud abbas",
+      "psegov",
+      "mahmoud",
+      "abbas",
+      "spy",
+      "~spy",
+      "~"
+    ],
+    "3":[
+      "palestinian",
+      "government",
+      "psegov",
+      "palestine",
+      "~",
+      "soviet",
+      "spy",
+      "sunspy",
+      "soviet",
+      "union",
+      "~",
+      "israel",
+      "isr",
+      "israel",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "4":[
+      "cabinet secretary",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "wells fargo",
+      "customer"
+    ],
+    "1":[
+      "wells fargo",
+      "customers"
+    ],
+    "2":[
+      "israeli",
+      "mahmoud abbas"
+    ],
+    "3":[
+      "palestinian government",
+      "israel"
+    ],
+    "4":[
+      "cabinet secretary",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "wells fargo",
+      "---"
+    ],
+    "1":[
+      "wells fargo",
+      "---"
+    ],
+    "2":[
+      "israel",
+      "mahmoud abbas"
+    ],
+    "3":[
+      "palestine",
+      "israel"
+    ],
+    "4":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will pay ... settle"
+    ],
+    "1":[
+      "will pay"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "<and> ... accused"
+    ],
+    "4":[
+      "endorses"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "mncusa",
+      "---cvl",
+      "061"
+    ],
+    "2":[
+      "isr",
+      "psegov",
+      "010"
+    ],
+    "3":[
+      "psegov",
+      "isr",
+      "112"
+    ],
+    "4":[
+      "---gov",
+      "usaeli",
+      "051"
+    ]
+  }
+}

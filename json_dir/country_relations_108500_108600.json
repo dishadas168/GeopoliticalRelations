@@ -1,0 +1,213 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-uk-north-korea-hack_n_6361118.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-threatens-us_n_6362608.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-rabbi-and-the-christm_b_6362598.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-joint-probe_n_6359416.html"
+  },
+  "headline":{
+    "0":"U.S. Consults With World Powers Over Response To North Korea Sony Hack",
+    "1":"North Korea Threatens To Attack U.S. If Obama Retaliates Over Sony Hacking",
+    "2":"The Rabbi and the Christmas Tree",
+    "3":"North Korea Calls For Joint Probe Into Sony Hacking"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"RELIGION",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"Just before Christmas the previous year, my mother (\"Mimi\" to her grandchildren) had died in my childhood home in Savannah, Georgia.  For the first time in my life I had decided to spend Christmas away from my family of origin, away from Savannah.  It was not an uncomplicated decision, but I had made peace with it.",
+    "3":""
+  },
+  "authors":{
+    "0":"",
+    "1":"Charlotte Alfred",
+    "2":"Rev. Eleanor Harrison Bregman, ContributorDirector of Multi-Faith Initiatives at Romemu",
+    "3":""
+  },
+  "date":{
+    "0":"2014-12-21 00:00:00",
+    "1":"2014-12-21 00:00:00",
+    "2":"2014-12-21 00:00:00",
+    "3":"2014-12-20 00:00:00"
+  },
+  "actor1":{
+    "0":"prk",
+    "1":"prk",
+    "2":"---cvl",
+    "3":"prk"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"usa",
+    "2":"geo",
+    "3":"mncjpn"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"138",
+    "2":"190",
+    "3":"090"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-7.0,
+    "2":-10.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north korea",
+      "sony",
+      "prk",
+      "mncjpn",
+      "north",
+      "korea",
+      "sony"
+    ],
+    "1":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "georgia",
+      "geo",
+      "georgia"
+    ],
+    "3":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "sony",
+      "mncjpn",
+      "sony"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north korea",
+      "u.s.",
+      "u.s.",
+      "north korea",
+      "sony",
+      "u.s.",
+      "u.s.",
+      "sony"
+    ],
+    "1":[
+      "north korea",
+      "<u.s.>"
+    ],
+    "2":[
+      "mother",
+      "georgia"
+    ],
+    "3":[
+      "north korea",
+      "sony"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "north korea",
+      "united states of america",
+      "united states of america",
+      "north korea",
+      "sony",
+      "united states of america",
+      "united states of america",
+      "sony"
+    ],
+    "1":[
+      "north korea",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "georgia"
+    ],
+    "3":[
+      "north korea",
+      "sony"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "consults",
+      "consults",
+      "consults",
+      "consults"
+    ],
+    "1":[
+      "threatens ... attack"
+    ],
+    "2":[
+      "had died"
+    ],
+    "3":[
+      "calls for <&investigation>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "cyber_security",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "prk",
+      "usa",
+      "040",
+      "usa",
+      "prk",
+      "040",
+      "mncjpn",
+      "usa",
+      "040",
+      "usa",
+      "mncjpn",
+      "040"
+    ],
+    "1":[
+      "prk",
+      "usa",
+      "138"
+    ],
+    "2":[
+      "---cvl",
+      "geo",
+      "190"
+    ],
+    "3":[
+      "prk",
+      "mncjpn",
+      "090"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/miss-possible-girl-empowerment_n_5682853.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/a-back-to-school-message-_b_5683688.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/checkmate-and-moving-on_b_5685279.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/investor-call-enbridges-k_b_5684996.html"
+  },
+  "headline":{
+    "0":"These College Friends Are Helping Empower Girls To Follow Their Science-Minded Dreams",
+    "1":"A Back-to-School Message: Emphasize Childhood Health, Not Obesity",
+    "2":"Checkmate and Moving on",
+    "3":"Investor Call: Enbridge's Keystone XL Clone Opens in October, Rail Facility to Follow"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"GREEN"
+  },
+  "short_description":{
+    "0":"",
+    "1":"New school lunch regulations should not be thought about as a weight management diet, but a roadmap for health for each student involved. Breakfast, lunch and snacks at school allow us as a nation to demonstrate to millions of children each day what nutritious food looks like.",
+    "2":"Iraq's immediate priority is to secure its cities, main arteries and borders by reforming and improving counter insurgency tactics and better equip the Iraqi Security Forces in conjunction with regional and global powers to help defeat ISIL.",
+    "3":"In a recent quarter two call for investors, Enbridge Inc executives said the company's \"Keystone XL\" clone -- the combination of the Flanagan South and Seaway Twin pipelines -- will open for business by October."
+  },
+  "authors":{
+    "0":"Alena Hall",
+    "1":"Daniel J. Schultz, ContributorPublic Health Nutritionist, MS, RD",
+    "2":"Luay Al Khatteeb, ContributorCommentator on Middle East Politics & Economy",
+    "3":"Steve Horn, ContributorResearch Fellow, DeSmogBlog"
+  },
+  "date":{
+    "0":"2014-08-18 00:00:00",
+    "1":"2014-08-18 00:00:00",
+    "2":"2014-08-17 00:00:00",
+    "3":"2014-08-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"irq",
+    "3":"mnccan"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"irq",
+    "3":"---bus"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"140",
+    "2":"062",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-6.5,
+    "2":7.4,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "college",
+      "~edu",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "iraq",
+      "irq",
+      "iraq",
+      "iraqi",
+      "irq",
+      "iraq",
+      "isil",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "3":[
+      "enbridge inc",
+      "mnccan",
+      "enbridge",
+      "inc",
+      "company",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "college",
+      "girls"
+    ],
+    "1":[
+      "school",
+      "children"
+    ],
+    "2":[
+      "iraq",
+      "iraq"
+    ],
+    "3":[
+      "enbridge inc",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "iraq",
+      "iraq"
+    ],
+    "3":[
+      "enbridge inc",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are helping"
+    ],
+    "1":[
+      "allow ... demonstrate"
+    ],
+    "2":[
+      "is ... equip"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "---edu",
+      "---cvl",
+      "140"
+    ],
+    "2":[
+      "irq",
+      "irq",
+      "062"
+    ],
+    "3":[
+      "mnccan",
+      "---bus",
+      "010"
+    ]
+  }
+}

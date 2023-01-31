@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/quaker-oats-employees-win-powerball_us_5b9c5e89e4b03a1dcc7e274a"
+  },
+  "headline":{
+    "0":"Quaker Oats Employees Win Powerball Lottery For Second Time This Year"
+  },
+  "category":{
+    "0":"MONEY"
+  },
+  "short_description":{
+    "0":"The $10,004 winning ticket was bought by one of the employees at a convenience store in Hiawatha, Iowa, according to KCRG"
+  },
+  "authors":{
+    "0":"Caroline Fairchild"
+  },
+  "date":{
+    "0":"2012-10-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "employees",
+      "~lab",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employees",
+      "iowa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bought by <~lab> ... at <usa>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "usa",
+      "061"
+    ]
+  }
+}

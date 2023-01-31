@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/trump-ppp-loan-businesses-secret_n_5ee26407c5b6fdbc0a8e59ac",
+    "1":"https:\/\/www.huffpost.com\/entry\/jim-carrey-donald-trump-blasphemer-in-chief_n_5edf9dfbc5b66a22b38039cd",
+    "2":"https:\/\/www.huffpost.com\/entry\/black-lives-matter-protests-international_n_5edc555dc5b6b204a6a2fcf3"
+  },
+  "headline":{
+    "0":"Trump Administration Refuses To Disclose Which Businesses Received $500 Billion In Government Bailout",
+    "1":"'Blasphemer In Chief' Trump Has Something On His Hands In Jim Carrey Cartoon",
+    "2":"Around The World: Black Lives Matter"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The move will prevent oversight of 4.5 million businesses that took a government Paycheck Protection Program loan. One critic called it \"unconscionable, jaw-dropping corruption.\"",
+    "1":"The actor took an unholy look at the president amid the anti-racism protests.",
+    "2":"From Durham, North Carolina, to Tokyo to San Francisco to Berlin, thousands of people took to the streets to protest George Floyd\u2019s death, police brutality and racism."
+  },
+  "authors":{
+    "0":"Molly Redden",
+    "1":"Ron Dicker",
+    "2":"Rebecca Klein, Alexander C. Kaufman, and Samantha Storey"
+  },
+  "date":{
+    "0":"2020-06-11 00:00:00",
+    "1":"2020-06-09 00:00:00",
+    "2":"2020-06-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---gov",
+    "2":"---cop"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"171",
+    "2":"140"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-9.2,
+    "2":-6.5
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "businesses",
+      "~bus",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "businesses"
+    ],
+    "1":[
+      "actor",
+      "president"
+    ],
+    "2":[
+      "north carolina",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "took"
+    ],
+    "2":[
+      "took ... protest"
+    ]
+  },
+  "issues":{
+    "0":[
+      "bankruptcy",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "security_services",
+      "1",
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---bus",
+      "010"
+    ],
+    "1":[
+      "---eli",
+      "---gov",
+      "171"
+    ],
+    "2":[
+      "usa",
+      "---cop",
+      "140"
+    ]
+  }
+}

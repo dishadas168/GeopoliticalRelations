@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/china-trump-sovereignity_us_5852000ee4b02edd4115d99b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/amber-heard-files-court-order-after-johnny-depp-refuses-to-pay-divorce-settlement_us_585298efe4b0732b82fefd2d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/marching-for-equality-and-justice-in-january_us_5851e4cae4b0bae8bdcba2a4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russian-millennials-speak-openly-about-america_us_585178d1e4b0b662c2fddf52"
+  },
+  "headline":{
+    "0":"China Gives Trump Veiled Warning: Sovereignty Not A 'Bargaining Chip'",
+    "1":"Amber Heard Files Court Order After Johnny Depp Refuses To Pay Divorce Settlement",
+    "2":"Marching For Equality And Justice In January",
+    "3":"Russian Millennials Speak Openly About America"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"ENTERTAINMENT",
+    "2":"IMPACT",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Trump's rhetoric on China and call to Taiwan's leader has agitated U.S. relations with the global power.",
+    "1":"The divorce saga continues.",
+    "2":"On January 21, 2017, women will march in Washington, D.C. All across our great nation, in cities and towns, women and men",
+    "3":"\u201cRussia is the nation with a unique level of spirituality. We are very different. As far as I am concerned, I would never"
+  },
+  "authors":{
+    "0":"David Lawder, Reuters",
+    "1":"Cole Delbyck",
+    "2":"Carlynne McDonnell, ContributorCarlynne is a passionate social justice\/women's equality activ...",
+    "3":"Natasha Lance Rogoff, ContributorCEO\/Founder of Ingredients for Education, Inc. \/ Executive Pro..."
+  },
+  "date":{
+    "0":"2016-12-15 00:00:00",
+    "1":"2016-12-15 00:00:00",
+    "2":"2016-12-15 00:00:00",
+    "3":"2016-12-15 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"---jud",
+    "2":"---cvl",
+    "3":"rus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"061",
+    "2":"140",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":6.4,
+    "2":-6.5,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china",
+      "taiwan",
+      "twn",
+      "taiwan",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "settlement",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "u.s.",
+      "taiwan",
+      "u.s."
+    ],
+    "1":[
+      "court",
+      "settlement"
+    ],
+    "2":[
+      "women",
+      "washington ... d.c."
+    ],
+    "3":[
+      "russian",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "united states of america",
+      "taiwan",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has agitated",
+      "has agitated"
+    ],
+    "1":[
+      "refuses ... pay"
+    ],
+    "2":[
+      "will march"
+    ],
+    "3":[
+      "speak"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "usa",
+      "140",
+      "twn",
+      "usa",
+      "140"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "061"
+    ],
+    "2":[
+      "---cvl",
+      "usa",
+      "140"
+    ],
+    "3":[
+      "rus",
+      "usa",
+      "010"
+    ]
+  }
+}

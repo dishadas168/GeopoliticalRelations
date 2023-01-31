@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-war-dividing-families_us_587f7fc7e4b0c147f0bc0492",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-climate-change-hoax_us_587f9ecfe4b0cf0ae88131b6"
+  },
+  "headline":{
+    "0":"From Brothers To Enemies: How Syria\u2019s War Has Divided Families",
+    "1":"Trump's EPA Pick Doesn't Agree With 97 Percent Of Climate Scientists"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"A portrait of how Syria\u2019s war has carved homes into fighting factions, told through the story of Um Mahmoud, a Damascus mother",
+    "1":"Scott Pruitt wouldn't acknowledge on Wednesday that human activity is the principal cause of climate change."
+  },
+  "authors":{
+    "0":"Ahmad Zaza, Syria Deeply",
+    "1":"Sam Levine"
+  },
+  "date":{
+    "0":"2017-01-18 00:00:00",
+    "1":"2017-01-18 00:00:00"
+  },
+  "actor1":{
+    "0":"syr",
+    "1":"usagovenv"
+  },
+  "actor2":{
+    "0":"syrcvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "syria",
+      "syr",
+      "syria",
+      "damascus",
+      "mother",
+      "syrcvl",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "scientists",
+      "~cvl",
+      "~",
+      "scientists",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syria",
+      "damascus mother"
+    ],
+    "1":[
+      "epa",
+      "scientists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "syria"
+    ],
+    "1":[
+      "environmental protection agency",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "does ... agree with"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "syrcvl",
+      "010"
+    ],
+    "1":[
+      "usagovenv",
+      "---cvl",
+      "030"
+    ]
+  }
+}

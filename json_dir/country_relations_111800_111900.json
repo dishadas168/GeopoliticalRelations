@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/g20-leadership-on-benefic_b_6153626.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/after-serial-police-depar_b_6141446.html"
+  },
+  "headline":{
+    "0":"G20 Leadership on Beneficial Ownership Is Good for Business, and the World",
+    "1":"After \"Serial,\" Police Departments Replace Staff With Female NPR Hosts"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"COMEDY"
+  },
+  "short_description":{
+    "0":"There is a way to help stop the corrupt and criminal from getting away with these acts: governments should collect the identity of the real, living people who ultimately own and control companies and other legal entities.",
+    "1":"After years of incompetence and racial profiling among its forces and in light of the popular new podcast, \"Serial,\" Chicago mayor Rahm Emanuel has launched an innovative new program replacing the core of Chicago's police force entirely with NPR hosts and producers."
+  },
+  "authors":{
+    "0":"Dr. Mo Ibrahim, ContributorFounder of Celtel, B Leader",
+    "1":"Reductress, ContributorReductress.com, the one and only fake women's news magazine"
+  },
+  "date":{
+    "0":"2014-11-13 00:00:00",
+    "1":"2014-11-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "governments",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "chicago",
+      "mayor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "producers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governments",
+      "companies"
+    ],
+    "1":[
+      "chicago mayor",
+      "producers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... control"
+    ],
+    "1":[
+      "force"
+    ]
+  },
+  "issues":{
+    "0":[
+      "corruption",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---bus",
+      "060"
+    ],
+    "1":[
+      "usagov",
+      "---bus",
+      "170"
+    ]
+  }
+}

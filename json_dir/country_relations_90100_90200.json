@@ -1,0 +1,338 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/george-washington-university-admissions-tests_us_55b6a068e4b0224d88337325",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/loretta-lynch-sandra-bland_us_55b530d4e4b0074ba5a4dfe3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/somalia-jazeera-hotel-al-shabab_us_55b4f45ee4b0a13f9d18d1a8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-strikes-pkk-nato_us_55b5415be4b0074ba5a4e30d",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/turkey-strikes-pkk-nato_us_55b5415be4b0074ba5a4e30d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/obama-closes-out-historic-visit-to-kenya_us_55b4c834e4b0224d883281fb",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/syria-assad-speech_us_55b4df06e4b0224d88328318"
+  },
+  "headline":{
+    "0":"George Washington University Drops Admissions Test Requirements",
+    "1":"Loretta Lynch: Sandra Bland Case Highlights 'Frustration' With Police",
+    "2":"Somalia's Al-Shabab Drive Car Full Of Explosives Into Hotel",
+    "3":"Turkish Jets Hit Kurdish Militant Camps Again, Security Sources Say",
+    "4":"Turkish Jets Hit Kurdish Militant Camps Again, Security Sources Say",
+    "5":"Obama Closes Out Historic Visit To Kenya",
+    "6":"Syria's Assad Gives First Public Address In A Year"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The D.C. university joins a host of other schools ditching their SAT and ACT requirements.",
+    "1":"The U.S. attorney general calls for a re-evaluation of police tactics.",
+    "2":"MOGADISHU, July 26 (Reuters) - The Somali militant Islamist group al Shabaab attacked a Mogadishu hotel on Sunday, driving",
+    "3":"DIYARBAKIR\/ANKARA, Turkey July 26 (Reuters) - Turkey attacked Kurdish insurgent camps in Iraq for a second night on Sunday",
+    "4":"DIYARBAKIR\/ANKARA, Turkey July 26 (Reuters) - Turkey attacked Kurdish insurgent camps in Iraq for a second night on Sunday",
+    "5":"He told Kenyans, \"You can choose the path to progress, but it requires making some important choices.\"",
+    "6":"BEIRUT (AP) \u2014 In his first public address in a year, embattled Syrian President Bashar Assad vowed Sunday to win his country's"
+  },
+  "authors":{
+    "0":"Lydia O'Connor",
+    "1":"Marina Fang",
+    "2":"",
+    "3":"",
+    "4":"",
+    "5":"DARLENE SUPERVILLE, AP",
+    "6":""
+  },
+  "date":{
+    "0":"2015-07-27 00:00:00",
+    "1":"2015-07-26 00:00:00",
+    "2":"2015-07-26 00:00:00",
+    "3":"2015-07-26 00:00:00",
+    "4":"2015-07-26 00:00:00",
+    "5":"2015-07-26 00:00:00",
+    "6":"2015-07-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usaedu",
+    "1":"usagov",
+    "2":"somuafmus",
+    "3":"tur",
+    "4":"tur",
+    "5":"ken",
+    "6":"syr"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cop",
+    "2":"som",
+    "3":"---uaf",
+    "4":"irqreb",
+    "5":"usagov",
+    "6":"syrgov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"020",
+    "2":"190",
+    "3":"195",
+    "4":"111",
+    "5":"043",
+    "6":"060"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":-2.0,
+    "5":2.8,
+    "6":6.0
+  },
+  "nouns":{
+    "0":[
+      "d.c.",
+      "university",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "attorney general",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "somali",
+      "militant",
+      "islamist group",
+      "al shabaab",
+      "somuafmus",
+      "somrebuafmus",
+      "somalia",
+      "~",
+      "~",
+      "al-shabaab",
+      "mogadishu",
+      "som",
+      "somalia"
+    ],
+    "3":[
+      "turkish",
+      "tur",
+      "turkey",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "turkey",
+      "tur",
+      "turkey",
+      "insurgent",
+      "~reb",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "5":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "kenya",
+      "ken",
+      "kenya"
+    ],
+    "6":[
+      "syria",
+      "assad",
+      "syr",
+      "syrgov",
+      "syria",
+      "bashar",
+      "al-assad"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "d.c. university",
+      "schools"
+    ],
+    "1":[
+      "u.s. attorney general",
+      "police"
+    ],
+    "2":[
+      "somali",
+      "somali",
+      "militant",
+      "somali"
+    ],
+    "3":[
+      "turkish",
+      "militant"
+    ],
+    "4":[
+      "turkey",
+      "---"
+    ],
+    "5":[
+      "kenya",
+      "obama",
+      "obama",
+      "kenya"
+    ],
+    "6":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "somalia",
+      "somalia",
+      "",
+      "somalia"
+    ],
+    "3":[
+      "turkey",
+      "---"
+    ],
+    "4":[
+      "turkey",
+      "---"
+    ],
+    "5":[
+      "kenya",
+      "barack obama",
+      "barack obama",
+      "kenya"
+    ],
+    "6":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "joins"
+    ],
+    "1":[
+      "calls for"
+    ],
+    "2":[
+      "attacked",
+      "attacked"
+    ],
+    "3":[
+      "<&aircraft> ... hit"
+    ],
+    "4":[
+      "attacked ... for"
+    ],
+    "5":[
+      "visit",
+      "visit"
+    ],
+    "6":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "named_terror_group",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "usaedu",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "---cop",
+      "020"
+    ],
+    "2":[
+      "somuafmus",
+      "som",
+      "190",
+      "somrebuafmus",
+      "som",
+      "190"
+    ],
+    "3":[
+      "tur",
+      "---uaf",
+      "195"
+    ],
+    "4":[
+      "tur",
+      "irqreb",
+      "111"
+    ],
+    "5":[
+      "ken",
+      "usagov",
+      "043",
+      "usagov",
+      "ken",
+      "042"
+    ],
+    "6":[
+      "syr",
+      "syrgov",
+      "060",
+      "syrgov",
+      "syr",
+      "060"
+    ]
+  }
+}

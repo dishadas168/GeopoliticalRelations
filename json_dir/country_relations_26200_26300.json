@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-strikes-raqqa-civilians_us_599c4d53e4b04c532f449594",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/netflix-disney-and-school-choice_us_599c2252e4b0ac90f2cba9b4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/north-carolina-republican-gerrymandering_us_599c93b7e4b0d8dde99981ca",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-afghanistan-speech_us_599c1d0ae4b0771ecb072b8b"
+  },
+  "headline":{
+    "0":"U.S.-Led Strikes Have Killed More Than 170 Raqqa Civilians In Past Week, Says Monitor",
+    "1":"Netflix, Disney And School Choice",
+    "2":"North Carolina Republicans Would Give Themselves A Huge Advantage With New Electoral Maps",
+    "3":"White House Praises Trump's Empty Afghanistan Speech As Very Presidential"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"EDUCATION",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"At least 42 people, including 19 children and 12 women, were killed on Monday alone, according to the Syrian Observatory for Human Rights.",
+    "1":"Netflix subscribers may have already heard the news \u2015 Disney is going to pull their content from the online media empire",
+    "2":"\u201cBy historical standards, these are extraordinarily large figures, revealing an enormous Republican edge.\"",
+    "3":"Vice President Mike Pence insisted Trump showed \"American resolve,\" and U.N. Ambassador Nikki Haley said the speech demonstrated \"the signs of a president.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Peter Greene, ContributorTeacher, blogger, tailgate trombonist",
+    "2":"Sam Levine",
+    "3":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-08-22 00:00:00",
+    "1":"2017-08-22 00:00:00",
+    "2":"2017-08-22 00:00:00",
+    "3":"2017-08-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"mncusa",
+    "2":"usa",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"syrcvl",
+    "1":"---med",
+    "2":"usa",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"171",
+    "2":"060",
+    "3":"140"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-9.2,
+    "2":6.0,
+    "3":-6.5
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "raqqa",
+      "civilians",
+      "syrcvl",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "disney",
+      "mncusa",
+      "disney",
+      "media",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "ambassador",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "raqqa civilians"
+    ],
+    "1":[
+      "disney",
+      "media"
+    ],
+    "2":[
+      "north carolina",
+      "north carolina"
+    ],
+    "3":[
+      "ambassador",
+      "ambassador"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria"
+    ],
+    "1":[
+      "disney",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "strikes"
+    ],
+    "1":[
+      "is ... going ... pull"
+    ],
+    "2":[
+      "would give"
+    ],
+    "3":[
+      "said ... demonstrated"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "syrcvl",
+      "190"
+    ],
+    "1":[
+      "mncusa",
+      "---med",
+      "171"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "060"
+    ],
+    "3":[
+      "---gov",
+      "---gov",
+      "140"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tory-burch-bluebell-lawsuit_us_5b9cf907e4b03a1dcc836822",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/minnie-mouse-makeover_us_5b9cf760e4b03a1dcc835a04"
+  },
+  "headline":{
+    "0":"Tory Burch Files Lawsuit Against Bluebell Accessories For Copying 'TT' Logo (PHOTOS)",
+    "1":"Minnie Mouse Makeover Unveiled At Disneyland Paris (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"The wholesale accessories company may want to seek better counsel, as Burch is not likely to back down when it comes to protecting",
+    "1":"Disney stirred up controversy last August when it partnered with Barneys to give Minnie Mouse and other classic Disney characters"
+  },
+  "authors":{
+    "0":"Dana Oliver",
+    "1":"Ellie Krupnick"
+  },
+  "date":{
+    "0":"2013-03-26 00:00:00",
+    "1":"2013-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"mncusa"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"mncusa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "counsel",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "disney",
+      "mncusa",
+      "disney",
+      "disney",
+      "mncusa",
+      "disney"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "counsel"
+    ],
+    "1":[
+      "disney",
+      "disney"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "disney",
+      "disney"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "may want ... seek"
+    ],
+    "1":[
+      "<['stirred',> <'up']> ... give"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---jud",
+      "030"
+    ],
+    "1":[
+      "mncusa",
+      "mncusa",
+      "060"
+    ]
+  }
+}

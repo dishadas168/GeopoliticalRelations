@@ -1,0 +1,85 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ohio-man-orders-from-amazon-calls-police_us_5bad11e9e4b04234e85674ff"
+  },
+  "headline":{
+    "0":"Ohio Man Calls Police When Amazon Package Arrives For Literally No Reason (PHOTO)"
+  },
+  "category":{
+    "0":"COMEDY"
+  },
+  "short_description":{
+    "0":"Make no mistake, finding an unknown package on your front doorstep is no laughing matter. Unless, of course, you paid money"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-12-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop"
+  },
+  "actor2":{
+    "0":"usappl"
+  },
+  "event_code":{
+    "0":"041"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "ohio",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "ohio man",
+      "ohio man",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "usappl",
+      "041",
+      "usappl",
+      "---cop",
+      "041"
+    ]
+  }
+}

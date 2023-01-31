@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-wants-to-give-student-parents-federal-money-for-childcare_us_55ce3491e4b0ab468d9d40d6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kansas-city-minimum-wage_us_55ce284ee4b07addcb42dd0c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bloods-leader-in-standoff-with-cops_us_55ce00d5e4b0ab468d9d0383",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-clerk-gay-marriage_us_55cc94dee4b064d5910a8aa4",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/pope-francis-visit-east-harlem-school_us_55cbb5d3e4b0898c48866df9",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/obama-visit-alaska_us_55ccda64e4b064d5910ac8e6"
+  },
+  "headline":{
+    "0":"Hillary Clinton Wants To Give Colleges More Money To Support Child Care",
+    "1":"Kansas City May Allow Voters To Decide On $15 Minimum Wage",
+    "2":"'Today I Die,' Says Gang Leader Who Killed Self After Shooting Firefighter",
+    "3":"Kentucky Clerk Defies Federal Judge's Order, Refuses To Issue Marriage License To Gay Couple",
+    "4":"East Harlem Awaits Pope's Visit To Our Lady Queen Of Angels School",
+    "5":"Obama To Visit Alaska, But Enviros Cry Foul Over Arctic Drilling"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"RELIGION",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The plan would boost federal funding to $250 million -- but it's not clear whether it would actually work.",
+    "1":"But  businesses and the state legislature could deter the proposal.",
+    "2":"\"We need EMS... we have a report of a firearm... firefighter shot.\"",
+    "3":"She says gay marriage violates her Christian beliefs.",
+    "4":"\"People want to see him. They're crazy about him.\"",
+    "5":"Environmentalists say drilling for oil in the Arctic while pledging to save it is \"deeply hypocritical.\""
+  },
+  "authors":{
+    "0":"Shahien Nasiripour",
+    "1":"Jacob Kerr",
+    "2":"Sebastian Murdock",
+    "3":"",
+    "4":"Carol Kuruvilla",
+    "5":"Kate Sheppard"
+  },
+  "date":{
+    "0":"2015-08-14 00:00:00",
+    "1":"2015-08-14 00:00:00",
+    "2":"2015-08-14 00:00:00",
+    "3":"2015-08-13 00:00:00",
+    "4":"2015-08-13 00:00:00",
+    "5":"2015-08-13 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usa",
+    "2":"---gov",
+    "3":"usa",
+    "4":"---ppl",
+    "5":"usagov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cvl",
+    "2":"---crm",
+    "3":"---jud",
+    "4":"---ppl",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"0331",
+    "1":"08",
+    "2":"010",
+    "3":"128",
+    "4":"010",
+    "5":"042"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":5.0,
+    "2":0.0,
+    "3":-5.0,
+    "4":0.0,
+    "5":1.9
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "colleges",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "kansas city",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "firefighter",
+      "~gov",
+      "~",
+      "gang",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "federal judge",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "colleges"
+    ],
+    "1":[
+      "kansas city",
+      "voters"
+    ],
+    "2":[
+      "firefighter",
+      "gang"
+    ],
+    "3":[
+      "kentucky",
+      "federal judge"
+    ],
+    "4":[
+      "people",
+      "people"
+    ],
+    "5":[
+      "obama",
+      "alaska"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... give <&currency>"
+    ],
+    "1":[
+      "may allow"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "defies ... order"
+    ],
+    "4":[
+      "want ... see"
+    ],
+    "5":[
+      "to visit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":[
+      "organized_crime",
+      "1"
+    ],
+    "3":[
+      "lgbt",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---edu",
+      "0331"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "08"
+    ],
+    "2":[
+      "---gov",
+      "---crm",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "---jud",
+      "128"
+    ],
+    "4":[
+      "---ppl",
+      "---ppl",
+      "010"
+    ],
+    "5":[
+      "usagov",
+      "usa",
+      "042"
+    ]
+  }
+}

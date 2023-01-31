@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/teach-does-academic-freed_us_5baeb6dfe4b014374e2e56f0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/international-day-for-biological-diversity_us_5bb13aa5e4b09bbe9a5ccaaa"
+  },
+  "headline":{
+    "0":"Does Academic Freedom Give Professors the Right to Teach Whatever They Want?",
+    "1":"International Day For Biological Diversity Highlighted By Greenpeace (PHOTOS)"
+  },
+  "category":{
+    "0":"SCIENCE",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"In particular, academic freedom is not to be confused with the First Amendment right of freedom of speech. With academic freedom comes academic responsibility and scholarly integrity.",
+    "1":"Greenpeace has released some stunning images of Indonesian forests and marine life in celebration of the International Day"
+  },
+  "authors":{
+    "0":"Victor Stenger, Contributor\nPhysicist, PhD, bestselling author",
+    "1":""
+  },
+  "date":{
+    "0":"2013-05-25 00:00:00",
+    "1":"2013-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"ngoenv"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"idn"
+  },
+  "event_code":{
+    "0":"0833",
+    "1":"084"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "academic",
+      "~edu",
+      "~",
+      "professors",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "greenpeace",
+      "ngoenv",
+      "greenpeace",
+      "indonesian",
+      "idn",
+      "indonesia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "academic",
+      "academic"
+    ],
+    "1":[
+      "greenpeace",
+      "indonesian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "greenpeace",
+      "indonesia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "give ... right"
+    ],
+    "1":[
+      "has released"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "0833"
+    ],
+    "1":[
+      "ngoenv",
+      "idn",
+      "084"
+    ]
+  }
+}

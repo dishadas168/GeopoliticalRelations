@@ -1,0 +1,202 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-middle-east-peace-paris-meeting_us_587aa241e4b0b3c7a7b1bb35",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/abbas-warns-trump-embassy_us_587a25a6e4b0b3c7a7b1a242",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-team-china-policy_us_587a547de4b0b3c7a7b1aa19",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/gunpoint-mcnugget_us_587a56f9e4b0b3c7a7b1aac7"
+  },
+  "headline":{
+    "0":"Major Powers Warn Trump Over Middle East Peace At Paris Meeting",
+    "1":"Palestinian President Abbas Says U.S. Embassy Move Would Hurt Peace",
+    "2":"Trump Team Struggles For Cohesion On Tougher China Policy",
+    "3":"Girl Held At Gunpoint Refused To Give Up Chicken McNugget, Police Say"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"Some 70 countries reaffirmed that only a two-state solution between Israelis and Palestinians could resolve the conflict.",
+    "1":"\"We hope it does not happen\u201d",
+    "2":"Members of the incoming administration have conveyed contradictory messages on issues involving China and the U.S.",
+    "3":"She reportedly smacked the gun away and told her assailant to leave her alone."
+  },
+  "authors":{
+    "0":"John Irish and Lesley Wroughton, Reuters",
+    "1":"",
+    "2":"David Brunnstrom and Matt Spetalnick, Reuters",
+    "3":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2017-01-14 00:00:00",
+    "1":"2017-01-14 00:00:00",
+    "2":"2017-01-14 00:00:00",
+    "3":"2017-01-14 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"psegov",
+    "2":"---gov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"pse",
+    "1":"usagov",
+    "2":"chn",
+    "3":"---cop"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"010",
+    "2":"010",
+    "3":"08"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":0.0,
+    "2":0.0,
+    "3":5.0
+  },
+  "nouns":{
+    "0":[
+      "israelis",
+      "palestinians",
+      "isr",
+      "pse",
+      "israel",
+      "palestine"
+    ],
+    "1":[
+      "palestinian",
+      "president",
+      "psegov",
+      "palestine",
+      "~",
+      "u.s.",
+      "embassy",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "china",
+      "u.s.",
+      "chn",
+      "usa",
+      "china",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "girl",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "palestinian president",
+      "u.s. embassy"
+    ],
+    "2":[
+      "administration",
+      "china",
+      "administration",
+      "<u.s.>"
+    ],
+    "3":[
+      "girl",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "palestine",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "china",
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "have conveyed",
+      "have conveyed"
+    ],
+    "3":[
+      "refused <['give',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isr",
+      "pse",
+      "050",
+      "pse",
+      "isr",
+      "050"
+    ],
+    "1":[
+      "psegov",
+      "usagov",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "chn",
+      "010",
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---cop",
+      "08"
+    ]
+  }
+}

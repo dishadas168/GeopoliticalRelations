@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barcelona-refugee-protest_us_58aa040ce4b037d17d290230"
+  },
+  "headline":{
+    "0":"Barcelona Holds Huge Protest In Support Of Refugees"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Spain has taken in just a fraction of the refugees it pledged to accept in 2015."
+  },
+  "authors":{
+    "0":"Kim Bellware"
+  },
+  "date":{
+    "0":"2017-02-19 00:00:00"
+  },
+  "actor1":{
+    "0":"esp"
+  },
+  "actor2":{
+    "0":"---ref"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "spain",
+      "esp",
+      "spain",
+      "refugees",
+      "~ref",
+      "~",
+      "refugees",
+      "~ref",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "spain",
+      "refugees"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "spain",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has taken"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "esp",
+      "---ref",
+      "171"
+    ]
+  }
+}

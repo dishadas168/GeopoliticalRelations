@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michigan-lawmakers-affair_us_55f19736e4b03784e2782846",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/vehicle-used-in-dentists-slaying-allegedly-connected-to-boyfriends-ex_us_55f07ab0e4b03784e2778667"
+  },
+  "headline":{
+    "0":"Michigan House Committee Recommends Expulsion For Lawmakers Who Covered Up Affair",
+    "1":"Boyfriend\u2019s Ex Questioned In Murdered Dentist Case"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Only three lawmakers have been expelled in Michigan history.",
+    "1":"Police said the woman \"ended a two-year relationship\" with the victim's boyfriend."
+  },
+  "authors":{
+    "0":"Paige Lavender",
+    "1":"David Lohr"
+  },
+  "date":{
+    "0":"2015-09-10 00:00:00",
+    "1":"2015-09-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---cop"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "michigan",
+      "lawmakers"
+    ],
+    "1":[
+      "police",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~leg> ... expelled in <usa>"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---leg",
+      "174"
+    ],
+    "1":[
+      "---cop",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/thinkprogress.org\/economy\/2015\/10\/24\/3715148\/domestic-violence-paid-leave\/",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rescue-baby-syrian-refugee-sea_us_562ab25be4b0443bb5641b8d"
+  },
+  "headline":{
+    "0":"Woman Says She Was Fired For Getting Beat Up By Her Boyfriend. She's Not Alone",
+    "1":"Turkish Fishermen Rescue Baby Syrian Refugee From Sea"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"On January 1st of 2013, Natasha Velez\u2019s then-boyfriend assaulted her, choking her and fracturing her index finger on her",
+    "1":"Miraculously, the child is in good health."
+  },
+  "authors":{
+    "0":"",
+    "1":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2015-10-24 00:00:00",
+    "1":"2015-10-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"turagr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"syrref"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"073"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":7.4
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "turkish",
+      "fishermen",
+      "turagr",
+      "turkey",
+      "~",
+      "syrian",
+      "refugee",
+      "syrref",
+      "syria",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "woman"
+    ],
+    "1":[
+      "turkish fishermen",
+      "syrian refugee"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "turkey",
+      "syria"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~cvl> ... fired for"
+    ],
+    "1":[
+      "rescue"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "111"
+    ],
+    "1":[
+      "turagr",
+      "syrref",
+      "073"
+    ]
+  }
+}

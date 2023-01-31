@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kenya-reverses-decision-to-close-refugee-camp_us_57c05b6ae4b04193420ed408",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/abcnews.go.com\/International\/kayla-mueller-captivity-courage-selflessness-defended-christian-faith\/story?id=41626763"
+  },
+  "headline":{
+    "0":"Kenya Reverses Decision To Close World\u2019s Largest Refugee Camp Yet Again",
+    "1":"Kayla Mueller in Captivity: Courage, Selflessness as She Defended Christian Faith to ISIS Executioner 'Jihadi John'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Kenya has backed down yet again on its decision to close Dadaab, the world\u2019s largest refugee camp. Interior minister Joseph",
+    "1":"American hostage Kayla Mueller was tortured, verbally abused, forced into slave labor for ISIS\u00a0commanders in Syria and raped"
+  },
+  "authors":{
+    "0":"Abdi Latif Dahir, Quartz Africa",
+    "1":""
+  },
+  "date":{
+    "0":"2016-08-26 00:00:00",
+    "1":"2016-08-26 00:00:00"
+  },
+  "actor1":{
+    "0":"ken",
+    "1":"syr"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"imgmusisimil"
+  },
+  "event_code":{
+    "0":"0874",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":10.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "kenya",
+      "ken",
+      "kenya",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "isis",
+      "commanders",
+      "imgmusisimil",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "kenya",
+      "refugee"
+    ],
+    "1":[
+      "syria",
+      "isis commanders"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "kenya",
+      "---"
+    ],
+    "1":[
+      "syria",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "decision ... close ... camp"
+    ],
+    "1":[
+      "forced into <imgmusisimil> ... in syr"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "id_torture",
+      "1",
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ken",
+      "---ref",
+      "0874"
+    ],
+    "1":[
+      "syr",
+      "imgmusisimil",
+      "170"
+    ]
+  }
+}

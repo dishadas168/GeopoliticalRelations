@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unique-midnew-hampshire-d_b_5698052.html"
+  },
+  "headline":{
+    "0":"Unique And Immersive New Hampshire Driving Tour Brings You to Portsmouth, Concord, Hanover"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Generally, tourists head to New Hampshire for its mountains and lakes. It is the Granite State, after all. But this four or five day mini-escape introduces you to New Hampshire's riches of a different sort: military, government, education, antiquities, all with a sense of adventure and fun."
+  },
+  "authors":{
+    "0":"Malerie Yolen-Cohen, ContributorTravel Writer, GetawayMavens.com; Northeast getaway expert"
+  },
+  "date":{
+    "0":"2014-08-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "tourists",
+      "~cvl",
+      "~",
+      "new hampshire",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "new hampshire",
+      "tourists",
+      "tourists",
+      "new hampshire"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "head to",
+      "head to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "043",
+      "---cvl",
+      "usa",
+      "042"
+    ]
+  }
+}

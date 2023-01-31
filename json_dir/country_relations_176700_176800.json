@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/anti-austerity-rome-march_us_5bb2ddfbe4b0480ca65d9f5b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/stephanie-fletcher-teacher-sex_us_5ba2be30e4b0c2784da55ef3"
+  },
+  "headline":{
+    "0":"Anti-Austerity March In Rome Sees Thousands Protest Education Spending Cuts",
+    "1":"Stephanie Fletcher, Former Walton, N.Y. Teacher, Accused Of Having Sex With Students During Class Breaks"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Students have occupied schools around Rome in recent weeks to express their anger and frustration at repeated funding cuts",
+    "1":"Both victims told police that Fletcher texted them naked and half-clothed photos of herself, and often performed oral sex"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-24 00:00:00",
+    "1":"2012-11-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"itaedu",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"192",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "rome",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "victims",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "---"
+    ],
+    "1":[
+      "victims",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have occupied"
+    ],
+    "1":[
+      "<and> ... told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "itaedu",
+      "192"
+    ],
+    "1":[
+      "---cvl",
+      "---cop",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/climate-change-jumpers_b_5888330.html"
+  },
+  "headline":{
+    "0":"Climate Change Jumpers"
+  },
+  "category":{
+    "0":"GREEN"
+  },
+  "short_description":{
+    "0":"It was fitting that New York hosted the recent UN climate change summit for several reasons. Let's start with the old joke about the guy who jumps off the Empire State Building and, as he passes the 50th floor on this way down, is heard to say \"so far so good.\""
+  },
+  "authors":{
+    "0":"Terry Tamminen, ContributorFormer Secretary, California EPA"
+  },
+  "date":{
+    "0":"2014-09-26 00:00:00"
+  },
+  "actor1":{
+    "0":"igouno"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "un",
+      "igouno",
+      "un"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "un",
+      "new york",
+      "new york",
+      "un"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "un",
+      "united states of america",
+      "united states of america",
+      "un"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hosted ... summit",
+      "hosted ... summit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "climate_change",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "igouno",
+      "usa",
+      "042",
+      "usa",
+      "igouno",
+      "043"
+    ]
+  }
+}

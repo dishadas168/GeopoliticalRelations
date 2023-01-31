@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/henryville-high-school-damaged-tornado-indiana_us_5bb10e3be4b09bbe9a59d1fe",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/henryville-high-school-damaged-tornado-indiana_us_5bb10e3be4b09bbe9a59d1fe",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pekin-indiana-child_us_5bb10e3ee4b09bbe9a59d2c3"
+  },
+  "headline":{
+    "0":"Henryville High School Severely Damaged By Indiana Tornado (VIDEO)",
+    "1":"Henryville High School Severely Damaged By Indiana Tornado (VIDEO)",
+    "2":"Pekin, Indiana Child Survives Storm, Taken To Kosair Children's Hospital"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"ENVIRONMENT",
+    "2":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"So far, WTHR reports that at least four people have been killed by the storms in southern Indiana, according to authorities",
+    "1":"So far, WTHR reports that at least four people have been killed by the storms in southern Indiana, according to authorities",
+    "2":"The child was transported by helicopter to Kosair on Friday after being stabilized at a tiny rural hospital in Salem, Indiana"
+  },
+  "authors":{
+    "0":"Laura Hibbard",
+    "1":"Laura Hibbard",
+    "2":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-03-03 00:00:00",
+    "1":"2012-03-03 00:00:00",
+    "2":"2012-03-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"usa",
+    "2":"usacvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---cvlhlh"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"190",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":-10.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "high school",
+      "~edu",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "indiana",
+      "child",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "children",
+      "hospital",
+      "~cvlhlh",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "high school",
+      "indiana"
+    ],
+    "1":[
+      "indiana",
+      "people"
+    ],
+    "2":[
+      "indiana child",
+      "children ... hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "damaged"
+    ],
+    "1":[
+      "<~ppl> ... killed by <usa>"
+    ],
+    "2":[
+      "taken"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1",
+      "natural_disaster",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "180"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "usacvl",
+      "---cvlhlh",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/native-american-child-gunned-down-by-ashland-county_us_5a0e29dfe4b0e30a9585057c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/female-franken-staffers_us_5a0f060ae4b045cf4371109c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-sexual-assault-accusers_us_5a0ee06be4b0dd63b1a9e27e"
+  },
+  "headline":{
+    "0":"Native American Child Gunned Down By Ashland County Sheriff Deputy Brock Mrdjenovich: #JusticeForJason",
+    "1":"Female Former Franken Staffers Say He Was A 'Champion For Women'",
+    "2":"In Post-Weinstein Era, Trump Sexual Assault Accusers Await His Downfall"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"Unfortunately, many times when brown-skinned people call 911 for help, they get killed instead.",
+    "1":"Eight women defended the senator in the face of a radio anchor's allegation that he inappropriately kissed and groped her.",
+    "2":"One woman said it's \"disturbing\" that supporters still can't see the \"president is just as guilty as Roy Moore.\""
+  },
+  "authors":{
+    "0":"Gyasi Ross, ContributorCitizen: Blackfeet Nation. Storyteller. Lawyer.",
+    "1":"Willa Frej",
+    "2":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2017-11-17 00:00:00",
+    "1":"2017-11-17 00:00:00",
+    "2":"2017-11-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl",
+    "1":"---cvl",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---leg",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"193",
+    "1":"074",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":8.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "native",
+      "american",
+      "child",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "sheriff deputy",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "native american child",
+      "sheriff deputy"
+    ],
+    "1":[
+      "women",
+      "senator"
+    ],
+    "2":[
+      "woman",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['gunned',> <'down']>"
+    ],
+    "1":[
+      "defended"
+    ],
+    "2":[
+      "said ... 's ... see"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---cop",
+      "193"
+    ],
+    "1":[
+      "---cvl",
+      "---leg",
+      "074"
+    ],
+    "2":[
+      "---cvl",
+      "---gov",
+      "010"
+    ]
+  }
+}

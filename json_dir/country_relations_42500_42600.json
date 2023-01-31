@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iran-protests-against-trump_us_589dc9ace4b0ab2d2b145d73"
+  },
+  "headline":{
+    "0":"Hundreds Of Thousands Rally In Iran Against Trump, Chanting 'Death To America'"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The demonstrations erupted after the Trump administration warned that it had put the Islamic Republic \u201con notice.\u201d"
+  },
+  "authors":{
+    "0":"Parisa Hafezi, Reuters"
+  },
+  "date":{
+    "0":"2017-02-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"130"
+  },
+  "goldstein_score":{
+    "0":-4.4
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "130"
+    ]
+  }
+}

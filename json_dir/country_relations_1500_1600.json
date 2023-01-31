@@ -1,0 +1,272 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/doj-prosecuting-violence-on-flights_n_619ed363e4b07fe20115192f",
+    "1":"https:\/\/www.huffpost.com\/entry\/chris-sununu-republicans-priorities-screwed-up_n_619ae1fde4b0ae9a42a2884b",
+    "2":"https:\/\/www.huffpost.com\/entry\/covid-virus-outbreak-belgium-protests_n_619ac815e4b0f398af06e508",
+    "3":"https:\/\/www.huffpost.com\/entry\/sudan-military-reinstate-deposed-prime-minister-coup_n_619a7227e4b07fe2010d1805",
+    "4":"https:\/\/www.huffpost.com\/entry\/attorneys-general-investigating-instagram-facebook-meta_n_6197ddd0e4b0451e54f9a75f",
+    "5":"https:\/\/www.huffpost.com\/entry\/united-states-china-joe-biden-xi-jinping-meeting_n_619260c8e4b06c5987caa635"
+  },
+  "headline":{
+    "0":"Justice Dept. To Prioritize Prosecuting Violence On Flights",
+    "1":"GOP Gov. Chris Sununu Says Republicans In Congress Have 'Priorities Screwed Up'",
+    "2":"Tens Of Thousands Protest Belgium's Tighter COVID-19 Rules Amid Spike",
+    "3":"Sudan Military Leaders Reinstate Prime Minister Who Was Deposed In Coup",
+    "4":"State Attorneys General Investigating Instagram's Negative Effects On Kids",
+    "5":"Joe Biden And Xi Jinping Prepare For First Presidential Meeting"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The DOJ says it will aggressively prosecute violent passengers who assault crew members or endanger the safety of other passengers.",
+    "1":"The New Hampshire governor weighed in on the censure of Rep. Paul Gosar and the passage of Joe Biden's infrastructure bill.",
+    "2":"Demonstrators marched in Brussels against reinforced COVID-19 restrictions imposed to counter the latest spike in coronavirus cases across Europe.",
+    "3":"A key pro-democracy group that has mobilized dozens of protests against the coup dismissed the military's deal with Abdalla Hamdok as \"a form of betrayal.\"",
+    "4":"Massachusetts AG Maura Healey accused Meta, formerly Facebook, of \"exploiting children in the interest of profit.\"",
+    "5":"White House officials have set low expectations for Monday\u2019s virtual meeting."
+  },
+  "authors":{
+    "0":"Michael Balsamo, AP",
+    "1":"Josephine Harvey",
+    "2":"Raf Casert, AP",
+    "3":"Samy Magdy and Noha Elhenna, AP",
+    "4":"Ryan Grenoble",
+    "5":"Aamer Madhani, AP"
+  },
+  "date":{
+    "0":"2021-11-25 00:00:00",
+    "1":"2021-11-22 00:00:00",
+    "2":"2021-11-21 00:00:00",
+    "3":"2021-11-21 00:00:00",
+    "4":"2021-11-19 00:00:00",
+    "5":"2021-11-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---gov",
+    "2":"---opp",
+    "3":"---oppdev",
+    "4":"usa",
+    "5":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagov",
+    "2":"bel",
+    "3":"---mil",
+    "4":"---cvl",
+    "5":"chngov"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"040",
+    "2":"140",
+    "3":"110",
+    "4":"112",
+    "5":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":-6.5,
+    "3":-2.0,
+    "4":-2.0,
+    "5":4.0
+  },
+  "nouns":{
+    "0":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "passengers",
+      "~cvl",
+      "~",
+      "passengers",
+      "~cvl",
+      "~",
+      "passengers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "governor",
+      "~gov",
+      "~",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden"
+    ],
+    "2":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "brussels",
+      "bel",
+      "belgium"
+    ],
+    "3":[
+      "pro-democracy group",
+      "~oppdev",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "massachusetts",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "joe biden",
+      "xi jinping",
+      "usagov",
+      "chngov",
+      "joe",
+      "biden",
+      "xi",
+      "jinping"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doj",
+      "passengers",
+      "doj",
+      "passengers"
+    ],
+    "1":[
+      "governor",
+      "joe biden"
+    ],
+    "2":[
+      "demonstrators",
+      "brussels"
+    ],
+    "3":[
+      "pro-democracy group",
+      "military"
+    ],
+    "4":[
+      "massachusetts",
+      "children"
+    ],
+    "5":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states department of justice",
+      "---",
+      "united states department of justice",
+      "---"
+    ],
+    "1":[
+      "---",
+      "joe biden"
+    ],
+    "2":[
+      "---",
+      "belgium"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... will ... endanger <prosecute>",
+      "says ... will ... endanger"
+    ],
+    "1":[
+      "weighed"
+    ],
+    "2":[
+      "marched ... against"
+    ],
+    "3":[
+      "dismissed"
+    ],
+    "4":[
+      "accused"
+    ],
+    "5":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "disease",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cvl",
+      "173",
+      "usagov",
+      "---cvl",
+      "130"
+    ],
+    "1":[
+      "---gov",
+      "usagov",
+      "040"
+    ],
+    "2":[
+      "---opp",
+      "bel",
+      "140"
+    ],
+    "3":[
+      "---oppdev",
+      "---mil",
+      "110"
+    ],
+    "4":[
+      "usa",
+      "---cvl",
+      "112"
+    ],
+    "5":[
+      "usagov",
+      "chngov",
+      "030",
+      "chngov",
+      "usagov",
+      "030"
+    ]
+  }
+}

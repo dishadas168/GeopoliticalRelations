@@ -1,0 +1,102 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/more-entrepreneurs-are-se_b_5390253.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_335_b_5386468.html"
+  },
+  "headline":{
+    "0":"More Entrepreneurs Are Seeking Purpose in Business",
+    "1":"Sunday Roundup"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"After survival is assured, it's a natural human urge to find a higher calling, or purpose, to give self-satisfaction. Many people incorrectly pursue this as a destination, or cause, rather than a direction. Purpose isn't a cause; it is an approach to work and serving others.",
+    "1":"This week, President Obama met with VA Secretary Eric Shinseki over reports of treatment delays. \"If these allegations prove to be true, it is dishonorable, it is disgraceful and I will not tolerate it,\" said Obama after the meeting. We should absolutely hold accountable those responsible for the recent suffering and deaths of America's veterans. But let's not stop with the VA. One reason the system is so overwhelmed is because of the tens of thousands injured in Iraq, an unnecessary war, which also claimed over 4,400 soldiers' lives. In 2003, Shinseki, then serving as Army chief of staff, testified it would take \"several hundred thousand soldiers\" to occupy Iraq. For speaking the truth about the recklessness and hubris behind the invasion, he was pushed aside by Bush, Rumsfeld and Wolfowitz.  So yes, there should be a price to pay for the unnecessary deaths of U.S. veterans -- but when will there be a price to pay for all those who were killed or are still suffering because of an unnecessary and immoral war?"
+  },
+  "authors":{
+    "0":"Marty Zwilling, ContributorVeteran Start-up Mentor; Executive",
+    "1":"Arianna Huffington, Contributor"
+  },
+  "date":{
+    "0":"2014-05-25 00:00:00",
+    "1":"2014-05-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"124"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "entrepreneurs",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "entrepreneurs",
+      "entrepreneurs"
+    ],
+    "1":[
+      "obama",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are seeking"
+    ],
+    "1":[
+      "will"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "030"
+    ],
+    "1":[
+      "usagov",
+      "usagov",
+      "124"
+    ]
+  }
+}

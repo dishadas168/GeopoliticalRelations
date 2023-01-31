@@ -1,0 +1,227 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marathon-texas-next-marfa_us_5b9d5f78e4b03a1dcc872abc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hibaaq-osman_us_5bb1b1a3e4b01857b70a2080",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/video\/2013\/08\/01\/business\/100000002369618\/burgernomics-behind-todays-fast-food.html?ref=business",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/are-you-running-a-blog-or-a-business_us_5b9d6698e4b03a1dcc878ca0",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/jack-white-karen-elson_us_5b9d6724e4b03a1dcc87953d"
+  },
+  "headline":{
+    "0":"Is Marathon, Texas The Next (Or Next Next) Marfa?",
+    "1":"Hibaaq Osman Speaks Out Against Arab Governments Abandoning Women's Rights At Aspen Ideas Festival (VIDEO)",
+    "2":"WATCH: A Lesson In 'Burgernomics'",
+    "3":"Are You Running a Blog or a Business?",
+    "4":"Jack White, Karen Elson's Divorce Takes A Bad Turn With Restraining Order"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"IMPACT",
+    "2":"BUSINESS",
+    "3":"FOOD & DRINK",
+    "4":"DIVORCE"
+  },
+  "short_description":{
+    "0":"In a lot of ways, Marathon is nothing like Marfa. The town's population has seen a population decline since the 1900s. Now",
+    "1":"One women's advocate says the treatment of women is the greatest indicator of how much a government values democracy. \u201cThe",
+    "2":"McDonald\u2019s, Burger King and Wendy\u2019s are facing slow growth and disgruntled employees while also competing against new chains",
+    "3":"Some bloggers contribute to magazines, write books or restaurant guides, teach cooking classes and even become a local authority on food. A few lucky ones are able to get a job in a related field. But the bitter truth is 75% of food bloggers do not make any money from their blogs.",
+    "4":"The restraining order, obtained by Nashville City Paper, stated, \"Wife fears for her and the children\u2019s safety as a result"
+  },
+  "authors":{
+    "0":"",
+    "1":"Nader Salass",
+    "2":"",
+    "3":"Sucheta Rawal, Contributor\nTravel Writer, Founder of Go Eat Give",
+    "4":""
+  },
+  "date":{
+    "0":"2013-08-03 00:00:00",
+    "1":"2013-08-03 00:00:00",
+    "2":"2013-08-03 00:00:00",
+    "3":"2013-08-02 00:00:00",
+    "4":"2013-08-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvljud",
+    "2":"mncusa",
+    "3":"---med",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---lab",
+    "3":"---med",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"040",
+    "3":"070",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":1.0,
+    "3":7.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "population",
+      "~cvl",
+      "~",
+      "population",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "advocate",
+      "~cvljud",
+      "~",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "burger king",
+      "mncusa",
+      "burger",
+      "king",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "3":[
+      "bloggers",
+      "~med",
+      "~",
+      "magazines",
+      "~med",
+      "~",
+      "authority",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "nashville",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "population",
+      "population"
+    ],
+    "1":[
+      "women ... advocate",
+      "women"
+    ],
+    "2":[
+      "burger king",
+      "employees"
+    ],
+    "3":[
+      "bloggers",
+      "bloggers"
+    ],
+    "4":[
+      "nashville",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "burger king",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has seen"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "are facing"
+    ],
+    "3":[
+      "contribute"
+    ],
+    "4":[
+      "stated"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---cvljud",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "mncusa",
+      "---lab",
+      "040"
+    ],
+    "3":[
+      "---med",
+      "---med",
+      "070"
+    ],
+    "4":[
+      "usa",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-permits-saudi-arms-sale_us_57e2cb6ee4b08d73b82f07c1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/british-jews-brexit-germany_us_57e2b8d0e4b0e28b2b5193f7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkish-police-shoot-israel-embassy-suspect_us_57e262f5e4b0e28b2b5127a5",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-wells-fargo_us_57e08b5ae4b0071a6e093458"
+  },
+  "headline":{
+    "0":"Senate Permits $1.15 Billion Arms Sale To Saudi Arabia",
+    "1":"Some British Jews Are Seeking German Citizenship After Brexit",
+    "2":"Turkish Police Shoot Attack Suspect Near Israeli Embassy",
+    "3":"Hillary Clinton Pledges To Protect Elizabeth Warren's Consumer Agency In Letter To Wells Fargo Customers"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The sale had become a flashpoint in the debate over the decades-long alliance between the Kingdom and the U.S.",
+    "1":"Brexit has prompted British Jews whose relatives fled Nazi Germany to apply for a German passport.",
+    "2":"Authorities say he was armed with a knife and planned to enter the embassy.",
+    "3":"\"I\u2019ll fight hard to make sure that Wall Street is working for Main Street \u2013 not the other way around.\""
+  },
+  "authors":{
+    "0":"Max Greenwood and Akbar Shahid Ahmed",
+    "1":"Tina Bellon, Reuters",
+    "2":"",
+    "3":"Amanda Terkel"
+  },
+  "date":{
+    "0":"2016-09-21 00:00:00",
+    "1":"2016-09-21 00:00:00",
+    "2":"2016-09-21 00:00:00",
+    "3":"2016-09-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovleg",
+    "1":"gbrjew",
+    "2":"---gov",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"sau",
+    "1":"deu",
+    "2":"---gov",
+    "3":"mncusacvl"
+  },
+  "event_code":{
+    "0":"0311",
+    "1":"020",
+    "2":"030",
+    "3":"0334"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":3.0,
+    "2":4.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ],
+    "1":[
+      "british",
+      "jews",
+      "gbrjew",
+      "united",
+      "kingdom",
+      "~",
+      "german",
+      "deu",
+      "germany"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "wells fargo",
+      "customers",
+      "mncusacvl",
+      "wells",
+      "fargo",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senate",
+      "saudi arabia"
+    ],
+    "1":[
+      "british jews",
+      "german"
+    ],
+    "2":[
+      "authorities",
+      "authorities"
+    ],
+    "3":[
+      "hillary clinton",
+      "wells fargo customers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states congress",
+      "saudi arabia"
+    ],
+    "1":[
+      "united kingdom",
+      "germany"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "wells fargo"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "permits ... sale"
+    ],
+    "1":[
+      "are seeking ... citizenship"
+    ],
+    "2":[
+      "say <~gov> ... planned"
+    ],
+    "3":[
+      "pledges ... protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_arms_deal",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagovleg",
+      "sau",
+      "0311"
+    ],
+    "1":[
+      "gbrjew",
+      "deu",
+      "020"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "030"
+    ],
+    "3":[
+      "usaeli",
+      "mncusacvl",
+      "0334"
+    ]
+  }
+}

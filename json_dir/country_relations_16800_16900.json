@@ -1,0 +1,161 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/st-petersburg-supermarket-bombing_us_5a44b5e2e4b0b0e5a7a4adc4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-us-election-meddling-putin-navalny_us_5a449174e4b06d1621b6d98f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/gay-singapore-adoption_us_5a4431fee4b0b0e5a7a4999c"
+  },
+  "headline":{
+    "0":"Putin Calls St. Petersburg Supermarket Bombing An Act Of Terrorism",
+    "1":"Russia Warns U.S.: Don\u2019t \u2018Meddle\u2019 In Upcoming Presidential Election",
+    "2":"Court Rejects Gay Singapore Man's Bid To Adopt Biological Son"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The blast was caused by a homemade bomb packed with pieces of metal, investigators said.",
+    "1":"Vladimir Putin's government accused the U.S. of \u201cdirect interference\" after the State Department urged the country to \"hold genuine elections.\"",
+    "2":"Local LGBTQ rights advocates said they were dismayed by the decision."
+  },
+  "authors":{
+    "0":"",
+    "1":"Dominique Mosbergen",
+    "2":"John Geddie, Reuters"
+  },
+  "date":{
+    "0":"2017-12-28 00:00:00",
+    "1":"2017-12-28 00:00:00",
+    "2":"2017-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"rusgov",
+    "2":"---jud"
+  },
+  "actor2":{
+    "0":"rusgov",
+    "1":"usa",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"112",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "st. petersburg",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "vladimir putin",
+      "government",
+      "rusgov",
+      "vladimir",
+      "putin",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "advocates",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "st. petersburg",
+      "putin",
+      "putin",
+      "st. petersburg"
+    ],
+    "1":[
+      "vladimir putin ... government",
+      "u.s."
+    ],
+    "2":[
+      "advocates",
+      "advocates"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "vladimir putin",
+      "vladimir putin",
+      "russian federation"
+    ],
+    "1":[
+      "vladimir putin",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "accused"
+    ],
+    "2":[
+      "said <~jud> ... dismayed by <--->"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "rus",
+      "rusgov",
+      "041",
+      "rusgov",
+      "rus",
+      "041"
+    ],
+    "1":[
+      "rusgov",
+      "usa",
+      "112"
+    ],
+    "2":[
+      "---jud",
+      "---jud",
+      "110"
+    ]
+  }
+}

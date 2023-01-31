@@ -1,0 +1,322 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/vladimir-putin-gay-clown-the-late-show_us_58e870b4e4b05413bfe34b17",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-military-escalation_us_58e7cb69e4b058f0a02ee4d1",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-response-syria-missile-attack_us_58e6ec98e4b0cdad578e7991",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russia-response-syria-missile-attack_us_58e6ec98e4b0cdad578e7991",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/american-allies-syria-missile-strike_us_58e69502e4b05894715f1548",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/syria-attack-single-strike_us_58e6f283e4b051b9a9da310a",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/nicola-sturgeon-women-in-the-world-the-tendency-to-reduce-women-to-body-parts-is-not-innocent_us_58e6a70fe4b08d572e03f5b5"
+  },
+  "headline":{
+    "0":"Russia Banned Pictures Of Vladimir Putin In Drag, So 'The Late Show' Made This",
+    "1":"President 'America First' Escalates Yet Another Military Involvement",
+    "2":"Kremlin Says Syria Missile Strike Harms U.S.-Russia Relations",
+    "3":"Kremlin Says Syria Missile Strike Harms U.S.-Russia Relations",
+    "4":"American Allies Express Support Over U.S. Intervention In Syria",
+    "5":"Syria Attack Intended To Be A 'Single Strike,' Trump Officials Tell Lawmakers",
+    "6":"Nicola Sturgeon: The Tendency To Reduce Women To Body Parts Is Not Innocent"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"WOMEN"
+  },
+  "short_description":{
+    "0":"Any person in Russia caught sharing this video could face time in prison.",
+    "1":"The missile strikes could be making the lives of U.S. troops in Syria even more dangerous.",
+    "2":"Putin's spokesman called the attack an \u201caggression against a sovereign state in violation of international law.\u201d",
+    "3":"Putin's spokesman called the attack an \u201caggression against a sovereign state in violation of international law.\u201d",
+    "4":"President Donald Trump has called on \"all civilized nations\" to join him.",
+    "5":"The administration \"is reserving their options\" for further action, Rep. Adam Schiff (D-Calif.) said.",
+    "6":"The First Minister of Scotland spoke about the sexism powerful women face."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"S.V. Date",
+    "2":"Nick Visser",
+    "3":"Nick Visser",
+    "4":"Jesselyn Cook, Nick Visser, and Eline Gordts",
+    "5":"Christina Wilkie",
+    "6":"Emma Gray"
+  },
+  "date":{
+    "0":"2017-04-08 00:00:00",
+    "1":"2017-04-07 00:00:00",
+    "2":"2017-04-07 00:00:00",
+    "3":"2017-04-07 00:00:00",
+    "4":"2017-04-07 00:00:00",
+    "5":"2017-04-07 00:00:00",
+    "6":"2017-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"usagov",
+    "2":"rusgov",
+    "3":"---gov",
+    "4":"---gov",
+    "5":"syr",
+    "6":"gbrgov"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---mil",
+    "2":"syr",
+    "3":"rusgovmed",
+    "4":"---gov",
+    "5":"---leg",
+    "6":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"060",
+    "2":"010",
+    "3":"041",
+    "4":"040",
+    "5":"010",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":6.0,
+    "2":0.0,
+    "3":1.0,
+    "4":1.0,
+    "5":0.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "president",
+      "america",
+      "usagov",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "u.s.",
+      "syr",
+      "usa",
+      "syria",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "putin",
+      "spokesman",
+      "rusgovmed",
+      "vladimir",
+      "putin",
+      "~",
+      "sovereign",
+      "~gov",
+      "~",
+      "sovereign",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "syria",
+      "syr",
+      "syria",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "6":[
+      "scotland",
+      "gbr",
+      "united",
+      "kingdom",
+      "minister",
+      "gbrgov",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "prison"
+    ],
+    "1":[
+      "president ... america",
+      "military"
+    ],
+    "2":[
+      "kremlin",
+      "syria",
+      "kremlin",
+      "u.s."
+    ],
+    "3":[
+      "sovereign",
+      "putin ... spokesman",
+      "putin ... spokesman",
+      "sovereign"
+    ],
+    "4":[
+      "president",
+      "president"
+    ],
+    "5":[
+      "syria",
+      "lawmakers"
+    ],
+    "6":[
+      "minister",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "kremlin",
+      "syria",
+      "kremlin",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "vladimir putin",
+      "vladimir putin",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "syria",
+      "---"
+    ],
+    "6":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could face"
+    ],
+    "1":[
+      "escalates"
+    ],
+    "2":[
+      "says",
+      "says"
+    ],
+    "3":[
+      "called",
+      "called"
+    ],
+    "4":[
+      "has called on ... join"
+    ],
+    "5":[
+      "intended ... tell"
+    ],
+    "6":[
+      "spoke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "---cop",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "---mil",
+      "060"
+    ],
+    "2":[
+      "rusgov",
+      "syr",
+      "010",
+      "rusgov",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "rusgovmed",
+      "041",
+      "rusgovmed",
+      "---gov",
+      "041"
+    ],
+    "4":[
+      "---gov",
+      "---gov",
+      "040"
+    ],
+    "5":[
+      "syr",
+      "---leg",
+      "010"
+    ],
+    "6":[
+      "gbrgov",
+      "---cvl",
+      "010"
+    ]
+  }
+}

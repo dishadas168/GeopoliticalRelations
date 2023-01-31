@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/eddie-huang-mongolia-fresh-off-the-boat_us_5b9d93fde4b03a1dcc89be81"
+  },
+  "headline":{
+    "0":"Eddie Huang Drinks Camel Vodka, Gags On Camel's Milk Cheese In Mongolia (VIDEO)"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"The chef and man-about-town tours Mongolia for season 2 of 'Fresh Off The Boat.'"
+  },
+  "authors":{
+    "0":"Rebecca Orchant"
+  },
+  "date":{
+    "0":"2013-10-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"mng"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "mongolia",
+      "mng",
+      "mongolia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "mongolia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "mongolia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tours"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "mng",
+      "040"
+    ]
+  }
+}

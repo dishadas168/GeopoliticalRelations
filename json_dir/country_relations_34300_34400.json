@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sorry-technically-trump-is-above-the-law_us_591bdad1e4b0a8551f3f8433",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/james-comey-memo-trump_us_591b6e8de4b0a7458fa3f31e"
+  },
+  "headline":{
+    "0":"Trump Is Above The Law, For Now -- But Not The People",
+    "1":"Trump Reportedly Asked James Comey To Stop Michael Flynn Investigation"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"A sitting president is almost certainly immune from criminal prosecution, and the only mechanisms to remove him from office",
+    "1":"\u201cI hope you can see your way clear to letting this go,\" the president reportedly told the FBI director in February."
+  },
+  "authors":{
+    "0":"Ryan Casey, ContributorAttorney; Master of Public Policy, Georgetown University; Comm...",
+    "1":"Mollie Reilly"
+  },
+  "date":{
+    "0":"2017-05-17 00:00:00",
+    "1":"2017-05-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usacop"
+  },
+  "event_code":{
+    "0":"160",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "president"
+    ],
+    "1":[
+      "president",
+      "fbi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "federal bureau of investigation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... remove ... from office"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "160"
+    ],
+    "1":[
+      "---gov",
+      "usacop",
+      "010"
+    ]
+  }
+}

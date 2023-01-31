@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-administration-food-labeling_us_5b9d35bce4b03a1dcc8592c0"
+  },
+  "headline":{
+    "0":"Is the Obama Administration Allowing Industry to Delay Menu Labeling Implementation?"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Consumers are responsible for making healthy food choices, not industry, food service establishments exclaim. But how can consumers make better choices if industry continues to fight to hide the caloric content of their food?"
+  },
+  "authors":{
+    "0":"Nancy Fink Huehnergarth, Contributor\nPolitical junkie\/food and nutrition advocate"
+  },
+  "date":{
+    "0":"2013-06-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the obama administration",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allowing"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---bus",
+      "08"
+    ]
+  }
+}

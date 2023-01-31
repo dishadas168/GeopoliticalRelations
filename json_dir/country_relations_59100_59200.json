@@ -1,0 +1,298 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-captures-rebel-commandos_us_579f3b85e4b0e2e15eb64318",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/first-woman-governor-tokyo_us_579efd23e4b08a8e8b5e742f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-airstrikes-libya-isis_us_579f67a9e4b0693164c1d205",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/russian-helicopter-shot-down-syria_us_579f3e7de4b08a8e8b5e7868",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/german-anti-immigrant-party-sees-gains-after-terrorist-attacks_us_579de285e4b0693164c18ee0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/shootings-austin-texas_us_579db1c7e4b08a8e8b5e5d5b",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/bill-maher-hillary-clinton-supervillain_us_579c5189e4b08a8e8b5e4693"
+  },
+  "headline":{
+    "0":"Turkey Captures Rebel Commandos Who Tried To Seize Erdogan During Coup Bid",
+    "1":"Tokyo Elects First Woman Governor",
+    "2":"U.S. Launches Airstrikes Targeting ISIS In Libya",
+    "3":"Russian Helicopter Shot Down In Syria",
+    "4":"German Anti-Immigrant Party Sees Gains After Terrorist Attacks",
+    "5":"Person Of Interest Identified In Fatal Austin Shooting",
+    "6":"Bill Maher: Hillary Clinton Must Embrace The Role Of 'Super Villain'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"CRIME",
+    "6":"COMEDY"
+  },
+  "short_description":{
+    "0":"\u201cWe will stuff them into holes,\u201d a government minister said of the coup plotters. \u201cThey will not hear a human voice again.\"",
+    "1":"Yuriko Koike, Japan\u2019s first female defense minister, beat former bureaucrat Hiroya Masuda as well as liberal journalist Shuntaro Torigoe.",
+    "2":"Libyan government-aligned forces are battling the militant group for control of the city of Sirte.",
+    "3":"The Kremlin said the military personnel on board were killed.",
+    "4":"Germany remains deeply unsettled after 15 people were killed and dozens wounded in five recent attacks.",
+    "5":"Police are still searching for the gunman.",
+    "6":"Voters don't want \"America\u2019s nicest grandma\" any more, the comedian says."
+  },
+  "authors":{
+    "0":"Daren Butler and Yesim Dikmen, Reuters",
+    "1":"",
+    "2":"Goran Tomasevic and Yeganeh Torbati, Reuters",
+    "3":"",
+    "4":"Paul Carrel, Reuters",
+    "5":"Lee Moran and Lydia O'Connor",
+    "6":"Lee Moran"
+  },
+  "date":{
+    "0":"2016-08-01 00:00:00",
+    "1":"2016-08-01 00:00:00",
+    "2":"2016-08-01 00:00:00",
+    "3":"2016-08-01 00:00:00",
+    "4":"2016-07-31 00:00:00",
+    "5":"2016-07-31 00:00:00",
+    "6":"2016-07-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"jpngov",
+    "2":"lby",
+    "3":"rusgov",
+    "4":"deu",
+    "5":"---cop",
+    "6":"---cvl"
+  },
+  "actor2":{
+    "0":"---reb",
+    "1":"---gov",
+    "2":"---uaf",
+    "3":"---mil",
+    "4":"---ppl",
+    "5":"---uaf",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"190",
+    "3":"015",
+    "4":"190",
+    "5":"090",
+    "6":"030"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":0.0,
+    "4":-10.0,
+    "5":-2.0,
+    "6":4.0
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "minister",
+      "~gov",
+      "~",
+      "~",
+      "coup plotters",
+      "~reb",
+      "~"
+    ],
+    "1":[
+      "yuriko koike",
+      "japan",
+      "minister",
+      "jpngov",
+      "yuriko",
+      "koike",
+      "japan",
+      "~",
+      "bureaucrat",
+      "~gov",
+      "~",
+      "hiroya masuda",
+      "hiroya",
+      "masuda"
+    ],
+    "2":[
+      "libyan",
+      "lby",
+      "libya",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "3":[
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "military personnel",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "germany",
+      "deu",
+      "germany",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "police",
+      "~cop",
+      "~",
+      "gunman",
+      "~uaf",
+      "~"
+    ],
+    "6":[
+      "voters",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government minister",
+      "coup plotters"
+    ],
+    "1":[
+      "yuriko koike ... japan ... minister",
+      "bureaucrat"
+    ],
+    "2":[
+      "libyan",
+      "militant"
+    ],
+    "3":[
+      "kremlin",
+      "military personnel"
+    ],
+    "4":[
+      "germany",
+      "people"
+    ],
+    "5":[
+      "police",
+      "gunman"
+    ],
+    "6":[
+      "voters",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "yuriko koike japan",
+      "---"
+    ],
+    "2":[
+      "libya",
+      "---"
+    ],
+    "3":[
+      "kremlin",
+      "---"
+    ],
+    "4":[
+      "germany",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "beat"
+    ],
+    "2":[
+      "are battling ... for control"
+    ],
+    "3":[
+      "said <~mil> ... killed"
+    ],
+    "4":[
+      "remains <~ppl> ... killed"
+    ],
+    "5":[
+      "are ... searching"
+    ],
+    "6":[
+      "do ... want"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "security_services",
+      "1"
+    ],
+    "6":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---reb",
+      "010"
+    ],
+    "1":[
+      "jpngov",
+      "---gov",
+      "190"
+    ],
+    "2":[
+      "lby",
+      "---uaf",
+      "190"
+    ],
+    "3":[
+      "rusgov",
+      "---mil",
+      "015"
+    ],
+    "4":[
+      "deu",
+      "---ppl",
+      "190"
+    ],
+    "5":[
+      "---cop",
+      "---uaf",
+      "090"
+    ],
+    "6":[
+      "---cvl",
+      "usa",
+      "030"
+    ]
+  }
+}

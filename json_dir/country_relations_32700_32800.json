@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/clay-higgins-islam_us_5935ba48e4b0099e7fae5e61",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/teachers-union-president-joins-anti-union-operative_us_5934a04ae4b0649fff211a94",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/in-manchester-ariana-grande-discovers-the-generation_us_59347e38e4b0649fff211a77"
+  },
+  "headline":{
+    "0":"Christian Leaders Denounce GOP Congressman's Call To 'Hunt' And 'Kill' Suspected Islamic Radicals",
+    "1":"Teachers Union President Joins Anti-Union Operative To Praise Charter Schools",
+    "2":"In Manchester, Ariana Grande Discovers The Generation Of Love"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"EDUCATION",
+    "2":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"\"It would be hard to find a statement more antithetical to Christianity.\"",
+    "1":"Randi Weingarten must be out of her damn mind! The president of the second largest teachers union in the country, The American",
+    "2":"Sunday night, Ariana Grande returned to the stage for the first time since a suicide bomber murdered 22 people outside her"
+  },
+  "authors":{
+    "0":"Antonia Blumberg and Carol Kuruvilla",
+    "1":"Steven Singer, ContributorHusband, father, teacher, education advocate",
+    "2":"Kristi York Wooten, ContributorFounder of SustenanceGroup.org; Journalist covering music, hum..."
+  },
+  "date":{
+    "0":"2017-06-05 00:00:00",
+    "1":"2017-06-05 00:00:00",
+    "2":"2017-06-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---chr",
+    "1":"---edugov",
+    "2":"tun"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---edu",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"051",
+    "2":"1831"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.4,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "christian",
+      "~chr",
+      "~",
+      "congressman",
+      "~leg",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ],
+    "1":[
+      "teachers",
+      "president",
+      "~edugov",
+      "~",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "ariana",
+      "tun",
+      "tunisia",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "christian",
+      "congressman",
+      "christian",
+      "islamic"
+    ],
+    "1":[
+      "teachers ... president",
+      "schools"
+    ],
+    "2":[
+      "ariana",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "tunisia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... denounce",
+      "<and> ... kill"
+    ],
+    "1":[
+      "operative ... praise"
+    ],
+    "2":[
+      "returned <{suicide> <&weapon}> ... murdered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":[
+      "suicide_attack",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---chr",
+      "---leg",
+      "111",
+      "---chr",
+      "---mus",
+      "190"
+    ],
+    "1":[
+      "---edugov",
+      "---edu",
+      "051"
+    ],
+    "2":[
+      "tun",
+      "---ppl",
+      "1831"
+    ]
+  }
+}

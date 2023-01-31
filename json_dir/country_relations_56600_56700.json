@@ -1,0 +1,307 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/violence-erupts-in-gabon-following-disputed-election-results_us_57c81c32e4b0a22de0941b80",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-arpaio-trump-border-wall_us_57c743cde4b0e60d31dd031d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-campaign-ceo-once-called-the-womens-liberation-movement-a-bunch-of-dykes_us_57c726f2e4b0a22de093b822",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/baltimore-water-rates_us_57c72a64e4b0e60d31dcda76",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/sexual-assault-study-abroad-college-of-st-scholastica_us_57c62256e4b0e60d31dc1d3f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/turkey-has-arrested-865-people-in-connection-with-islamic-state-this-year_us_57c6c957e4b078581f102892",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/trumps-campaign-manager-thinks-rape-would-not-exist-if-women-were-as-strong-as-men_us_57c6de3ee4b0a22de0932e31"
+  },
+  "headline":{
+    "0":"Violence Erupts In Gabon Following Disputed Election Results",
+    "1":"Joe Arpaio: 'What Difference Does It Make' Who Pays For Trump's Border Wall?",
+    "2":"Trump Campaign CEO Once Called The Women\u2019s Liberation Movement \u2018A Bunch Of Dykes\u2019",
+    "3":"Baltimore's Water Rates Just Went Up. Poor Residents Will Pay The Price.",
+    "4":"She Was Raped During Study Abroad. Then Her School Said She Couldn't Talk About It.",
+    "5":"Turkey Has Arrested 865 People In Connection With Islamic State This Year",
+    "6":"Trump's Campaign Manager Thinks 'Rape Would Not Exist' If Women Were As Strong As Men"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"WOMEN",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"THE WORLDPOST",
+    "6":"WOMEN"
+  },
+  "short_description":{
+    "0":"Opposition supporters clashed with police and loyalists to the country's president, who won yet again.",
+    "1":"The outspoken Arizona sheriff gave Trump a pass for failing to press promises to make Mexico pay for a wall.",
+    "2":"Steve Bannon is a terrifying, misogynist nightmare.",
+    "3":"Activists and the city alike blame Congress' refusal to spend money on water infrastructure.",
+    "4":"A female student is accusing her small Minnesota college of failing to support her after she was sexually assaulted overseas.",
+    "5":"More than half were foreigners.",
+    "6":"Wrong."
+  },
+  "authors":{
+    "0":"Gerauds Wilfried Obangome, Reuters",
+    "1":"Igor Bobic",
+    "2":"Jenavieve Hatch",
+    "3":"Joseph Erbentraut",
+    "4":"Tyler Kingkade",
+    "5":"",
+    "6":"Jenavieve Hatch"
+  },
+  "date":{
+    "0":"2016-09-01 00:00:00",
+    "1":"2016-08-31 00:00:00",
+    "2":"2016-08-31 00:00:00",
+    "3":"2016-08-31 00:00:00",
+    "4":"2016-08-31 00:00:00",
+    "5":"2016-08-31 00:00:00",
+    "6":"2016-08-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usacop",
+    "2":"---cvlopp",
+    "3":"---opp",
+    "4":"---edu",
+    "5":"tur",
+    "6":"---cvl"
+  },
+  "actor2":{
+    "0":"---copgov",
+    "1":"mex",
+    "2":"---bus",
+    "3":"---leg",
+    "4":"---edu",
+    "5":"---ppl",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"060",
+    "2":"041",
+    "3":"112",
+    "4":"010",
+    "5":"173",
+    "6":"120"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":1.0,
+    "3":-2.0,
+    "4":0.0,
+    "5":-5.0,
+    "6":-4.0
+  },
+  "nouns":{
+    "0":[
+      "opposition supporters",
+      "~opp",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "arizona",
+      "sheriff",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "2":[
+      "ceo",
+      "~bus",
+      "~",
+      "women",
+      "liberation movement",
+      "~cvlopp",
+      "~",
+      "~"
+    ],
+    "3":[
+      "activists",
+      "~opp",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "4":[
+      "school",
+      "~edu",
+      "~"
+    ],
+    "5":[
+      "turkey",
+      "tur",
+      "turkey",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "6":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "opposition supporters",
+      "---"
+    ],
+    "1":[
+      "arizona sheriff",
+      "mexico"
+    ],
+    "2":[
+      "women ... liberation movement",
+      "ceo",
+      "ceo",
+      "women ... liberation movement"
+    ],
+    "3":[
+      "activists",
+      "congress"
+    ],
+    "4":[
+      "school",
+      "school"
+    ],
+    "5":[
+      "turkey",
+      "people"
+    ],
+    "6":[
+      "women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "mexico"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "turkey",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "clashed"
+    ],
+    "1":[
+      "gave"
+    ],
+    "2":[
+      "called",
+      "called"
+    ],
+    "3":[
+      "blame"
+    ],
+    "4":[
+      "said ... could ... talk"
+    ],
+    "5":[
+      "has arrested"
+    ],
+    "6":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "violent_unrest",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "activism",
+      "1"
+    ],
+    "4":[
+      "schools",
+      "1",
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---copgov",
+      "190"
+    ],
+    "1":[
+      "usacop",
+      "mex",
+      "060"
+    ],
+    "2":[
+      "---cvlopp",
+      "---bus",
+      "041",
+      "---bus",
+      "---cvlopp",
+      "041"
+    ],
+    "3":[
+      "---opp",
+      "---leg",
+      "112"
+    ],
+    "4":[
+      "---edu",
+      "---edu",
+      "010"
+    ],
+    "5":[
+      "tur",
+      "---ppl",
+      "173"
+    ],
+    "6":[
+      "---cvl",
+      "---ppl",
+      "120"
+    ]
+  }
+}

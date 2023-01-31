@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/france-gay-marriage-protest_us_5bafc12ae4b0ad7692616ef4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/france-anti-gay-marriage_us_5bafc12ae4b0ad7692616f0d"
+  },
+  "headline":{
+    "0":"French Gay Marriage Protests Draw Thousands Of Demonstrators",
+    "1":"French Anti-Gay Marriage Demonstrators Hit Paris, Lyon"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The protests come amid heightened tensions over an upsurge in racist incidents that have blighted French public life and",
+    "1":"Other targets of LMPT's protests include medically assisted procreation techniques for lesbian couples and in vitro fertilisation"
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Agence France Presse, Agence France Presse"
+  },
+  "date":{
+    "0":"2014-02-02 00:00:00",
+    "1":"2014-02-02 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"fraopp"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"fra"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "french",
+      "fra",
+      "france",
+      "demonstrators",
+      "~opp",
+      "~",
+      "demonstrators",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "french",
+      "demonstrators",
+      "fraopp",
+      "france",
+      "~",
+      "paris",
+      "lyon",
+      "fra",
+      "fra",
+      "france",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "french",
+      "demonstrators"
+    ],
+    "1":[
+      "french ... demonstrators",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "---"
+    ],
+    "1":[
+      "france",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "protests"
+    ],
+    "1":[
+      "hit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "discrimination",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "---opp",
+      "140"
+    ],
+    "1":[
+      "fraopp",
+      "fra",
+      "190",
+      "fraopp",
+      "fra",
+      "190"
+    ]
+  }
+}

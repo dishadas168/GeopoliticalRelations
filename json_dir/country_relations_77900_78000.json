@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/black-lives-matter-protesters-to_us_56742965e4b06fa6887d0740"
+  },
+  "headline":{
+    "0":"Black Lives Matter Protesters To Hold Rally At Mall Of America"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Demonstrators will protest the fatal police shooting of Jamar Clark."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-12-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"140"
+  },
+  "goldstein_score":{
+    "0":-6.5
+  },
+  "nouns":{
+    "0":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "demonstrators",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will protest"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cop",
+      "140"
+    ]
+  }
+}

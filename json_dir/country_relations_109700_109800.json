@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-iran-deal_n_6284224.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mexican-students-burned_n_6284914.html"
+  },
+  "headline":{
+    "0":"John Kerry Says Iran Deal Could Happen Sooner Than Expected",
+    "1":"Mexico Releases Horrifying New Details In Missing Students Case"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":""
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed and Dont\u00e9 Stallworth",
+    "1":""
+  },
+  "date":{
+    "0":"2014-12-07 00:00:00",
+    "1":"2014-12-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"mex"
+  },
+  "actor2":{
+    "0":"irn",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"064"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "iran",
+      "irn",
+      "iran"
+    ],
+    "1":[
+      "mexico",
+      "mex",
+      "mexico",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "john kerry",
+      "iran"
+    ],
+    "1":[
+      "mexico",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "john kerry",
+      "iran"
+    ],
+    "1":[
+      "mexico",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "releases <&information>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "irn",
+      "010"
+    ],
+    "1":[
+      "mex",
+      "---edu",
+      "064"
+    ]
+  }
+}

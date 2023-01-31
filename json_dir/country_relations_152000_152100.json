@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-girls-get-ready-for-girls-night-out_us_5b9d6a1fe4b03a1dcc87bbf0"
+  },
+  "headline":{
+    "0":"How Girls Get Ready for Girls Night Out"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"10. So you give up 17. You're just about ready to leave but first you need to use the mirror to test the dance move integrity"
+  },
+  "authors":{
+    "0":"Amanda Callaghan, Contributor\nArts and Politics Journalist"
+  },
+  "date":{
+    "0":"2013-08-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['get',> <'out']>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "08"
+    ]
+  }
+}

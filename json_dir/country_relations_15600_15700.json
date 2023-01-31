@@ -1,0 +1,245 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/matt-gaetz-haiti-sheet-metal-and-garbage_us_5a5eb8bce4b00a7f171b93f8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-supremacist-murders-2017-report_us_5a5f59b0e4b0ee2ff32c4bea",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-aid-palestinians_us_5a5e4f50e4b0106b7f65c496",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/dhs-secretary-trump-comments_us_5a5e18ede4b0fcbc3a13b9f0",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/shithole-countries-racist-polling_us_5a5e6c49e4b096ecfca85c6e"
+  },
+  "headline":{
+    "0":"GOP Lawmaker Matt Gaetz Slams Haiti: \u2018Sheet Metal And Garbage\u2019 Everywhere You Look",
+    "1":"Murders By U.S. White Supremacists More Than Doubled In 2017, New Report Shows",
+    "2":"U.S. To Withhold $65 Million In Aid For Palestinians",
+    "3":"DHS Secretary Says She Doesn\u2019t Remember Trump Saying THAT Curse Word",
+    "4":"Most Americans Think It's Racist To Talk About Immigrants From 'Shithole Countries'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Florida congressman called conditions in Haiti \"disgusting.\"",
+    "1":"And right-wing extremists killed more than twice as many people as Islamic extremists.",
+    "2":"The U.S. will provide $60 million, but is withholding the rest \"for future consideration.\"",
+    "3":"The president reportedly said last week that he didn\u2019t want immigrants from certain nations.",
+    "4":"America still sees itself as a nation of immigrants."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Christopher Mathias",
+    "2":"",
+    "3":"Elise Foley",
+    "4":"Ariel Edwards-Levy"
+  },
+  "date":{
+    "0":"2018-01-17 00:00:00",
+    "1":"2018-01-17 00:00:00",
+    "2":"2018-01-16 00:00:00",
+    "3":"2018-01-16 00:00:00",
+    "4":"2018-01-16 00:00:00"
+  },
+  "actor1":{
+    "0":"hti",
+    "1":"---rad",
+    "2":"usa",
+    "3":"---gov",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"usaleg",
+    "1":"---ppl",
+    "2":"pse",
+    "3":"---cvl",
+    "4":"usacvl"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"190",
+    "2":"170",
+    "3":"030",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":-7.0,
+    "3":4.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "florida",
+      "congressman",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "haiti",
+      "hti",
+      "haiti"
+    ],
+    "1":[
+      "extremists",
+      "~rad",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "islamic",
+      "extremists",
+      "~musrad",
+      "~",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "palestinians",
+      "pse",
+      "palestine"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "haiti",
+      "florida congressman",
+      "florida congressman",
+      "haiti"
+    ],
+    "1":[
+      "extremists",
+      "people"
+    ],
+    "2":[
+      "u.s.",
+      "palestinians"
+    ],
+    "3":[
+      "president",
+      "immigrants"
+    ],
+    "4":[
+      "america",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "haiti",
+      "united states of america",
+      "united states of america",
+      "haiti"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "palestine"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "withhold"
+    ],
+    "3":[
+      "said ... did ... want"
+    ],
+    "4":[
+      "sees"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_extremism",
+      "2"
+    ],
+    "2":null,
+    "3":[
+      "id_immigration",
+      "1"
+    ],
+    "4":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "hti",
+      "usaleg",
+      "041",
+      "usaleg",
+      "hti",
+      "041"
+    ],
+    "1":[
+      "---rad",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "usa",
+      "pse",
+      "170"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "030"
+    ],
+    "4":[
+      "usa",
+      "usacvl",
+      "010"
+    ]
+  }
+}

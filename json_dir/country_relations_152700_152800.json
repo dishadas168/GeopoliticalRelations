@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-airlines-breastfeeding-flight-attendant_us_5b9d6977e4b03a1dcc87b5ce"
+  },
+  "headline":{
+    "0":"American Airlines Flight Attendant Allegedly Told Breastfeeding Mom To Cover Up"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"The mother said she filed a complaint with the airline and received a letter outlining the company's policy on breastfeeding"
+  },
+  "authors":{
+    "0":"Meredith Bennett-Smith"
+  },
+  "date":{
+    "0":"2013-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"114"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "airline",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "airline",
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said <and> ... filed ... complaint",
+      "said <~cvl> ... received ... letter"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---bus",
+      "114",
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

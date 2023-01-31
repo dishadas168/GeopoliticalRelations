@@ -1,0 +1,314 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/police-say-theyre-ready-for-rally-supporting-jan-6-rioters_n_6145e327e4b077b735e6426a",
+    "1":"https:\/\/www.huffpost.com\/entry\/clive-sinclair-dead_n_61448440e4b07ad8c8dea09d",
+    "2":"https:\/\/www.huffpost.com\/entry\/apple-google-app-russia-election_n_6144f11fe4b0568d096f0fe5",
+    "3":"https:\/\/www.huffpost.com\/entry\/trump-georgia-raffensperger-2020-election_n_6144c939e4b0d808bf28d8eb",
+    "4":"https:\/\/www.huffpost.com\/entry\/andrew-garfield-spider-man-no-way-home_n_613e951fe4b09519c5061510",
+    "5":"https:\/\/www.huffpost.com\/entry\/clothesline-toddler-fall-mallorca_n_613b320ee4b0dda4cbcd7ae4",
+    "6":"https:\/\/www.huffpost.com\/entry\/texas-anti-abortion-law-bumble-match-lyft-uber_n_6132baffe4b04778c0051723"
+  },
+  "headline":{
+    "0":"Police Say They\u2019re Ready For Rally Supporting Jan. 6 Rioters",
+    "1":"Clive Sinclair, Home Computing Pioneer, Dead At 81",
+    "2":"Apple, Google Cave To Kremlin, Remove Opposition App As Russian Voting Begins",
+    "3":"Trump Is Still Begging Georgia Officials To Overturn The 2020 Election Results",
+    "4":"Andrew Garfield Really Wants To Make It Clear That He's Not In The New 'Spider-Man' Movie",
+    "5":"Toddler Survives 4th-Floor Fall Thanks To A Clothesline",
+    "6":"Bumble, Match CEO, Uber, Lyft Step Up To Help Women Battle Radical Texas Anti-Abortion Law"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"ENTERTAINMENT",
+    "5":"WORLD NEWS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"The Capitol police are taking no chances as they prepare for Saturday\u2019s rally in support of rioters imprisoned after the Jan. 6 insurrection.",
+    "1":"The British inventor arguably did more than anyone else to inspire a whole generation of children into a life-long passion for computers and gaming.",
+    "2":"The app, supported by imprisoned opposition leader Alexei Navalny, tells voters which candidates are likely to defeat those backed by Russian authorities.",
+    "3":"Officials in Georgia have repeatedly informed the president that there was no widespread voter fraud in the state.",
+    "4":"The actor addressed a leaked photo that appeared to show him and Tobey Maguire on the set of \"Spider-Man: No Way Home.\"",
+    "5":"\"It was a miracle,\" the 2-year-old's mother said of the terrifyingly close call in Palma on the Spanish island of Mallorca.",
+    "6":"The CEO of Dallas-based Match said she was \u201cshocked that I now live in a state where women\u2019s reproductive laws are more regressive than most of the world.\u201d"
+  },
+  "authors":{
+    "0":"By Colleen Long, Michael Balsamo and Ashraf Khalil, AP",
+    "1":"PAN PYLAS, AP",
+    "2":"DARIA LITVINOVA and KELVIN CHAN, AP",
+    "3":"Sara Boboltz",
+    "4":"Cole Delbyck",
+    "5":"Lee Moran",
+    "6":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2021-09-18 00:00:00",
+    "1":"2021-09-17 00:00:00",
+    "2":"2021-09-17 00:00:00",
+    "3":"2021-09-17 00:00:00",
+    "4":"2021-09-14 00:00:00",
+    "5":"2021-09-10 00:00:00",
+    "6":"2021-09-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"gbr",
+    "2":"---opp",
+    "3":"geo",
+    "4":"---eli",
+    "5":"---cvl",
+    "6":"---bus"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"---gov",
+    "4":"---ppl",
+    "5":"esp",
+    "6":"usacvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"051",
+    "2":"010",
+    "3":"010",
+    "4":"010",
+    "5":"010",
+    "6":"200"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":3.4,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":-10.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "rioters",
+      "~opp",
+      "~",
+      "rioters",
+      "~opp",
+      "~",
+      "rioters",
+      "~opp",
+      "~"
+    ],
+    "1":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "opposition leader",
+      "~opp",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "georgia",
+      "geo",
+      "georgia",
+      "president",
+      "~gov",
+      "~",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "actor",
+      "~eli",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "mother",
+      "~cvl",
+      "~",
+      "spanish",
+      "esp",
+      "spain"
+    ],
+    "6":[
+      "ceo",
+      "~bus",
+      "~",
+      "women",
+      "texas",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "rioters"
+    ],
+    "1":[
+      "british",
+      "children"
+    ],
+    "2":[
+      "opposition leader",
+      "voters"
+    ],
+    "3":[
+      "georgia",
+      "president"
+    ],
+    "4":[
+      "actor",
+      "man"
+    ],
+    "5":[
+      "mother",
+      "spanish"
+    ],
+    "6":[
+      "ceo",
+      "women ... texas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "georgia",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "spain"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "police ... taking ... prepare"
+    ],
+    "1":[
+      "did ... inspire"
+    ],
+    "2":[
+      "tells"
+    ],
+    "3":[
+      "have ... informed"
+    ],
+    "4":[
+      "addressed"
+    ],
+    "5":[
+      "said"
+    ],
+    "6":[
+      "<['step',> <'up']> ... help"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "violent_unrest",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":[
+      "election",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---opp",
+      "030"
+    ],
+    "1":[
+      "gbr",
+      "---cvl",
+      "051"
+    ],
+    "2":[
+      "---opp",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "geo",
+      "---gov",
+      "010"
+    ],
+    "4":[
+      "---eli",
+      "---ppl",
+      "010"
+    ],
+    "5":[
+      "---cvl",
+      "esp",
+      "010"
+    ],
+    "6":[
+      "---bus",
+      "usacvl",
+      "200"
+    ]
+  }
+}

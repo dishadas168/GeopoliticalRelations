@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/catalan-puigdemont-arrest-spain_us_59ff1d81e4b04cdbeb33bc73"
+  },
+  "headline":{
+    "0":"Catalonia's Deposed Leader Surrenders To Police"
+  },
+  "category":{
+    "0":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"A Spanish judge issued an arrest warrant for Puigdemont after the independence crisis."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2017-11-05 00:00:00"
+  },
+  "actor1":{
+    "0":"esp"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "catalonia",
+      "esp",
+      "spain",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "catalonia",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "spain",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "surrenders"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "esp",
+      "---cop",
+      "08"
+    ]
+  }
+}

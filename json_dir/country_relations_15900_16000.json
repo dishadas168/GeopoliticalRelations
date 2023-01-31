@@ -1,0 +1,287 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkeys-top-court-rules-two-jailed-journalists-be-released_us_5a579bdae4b0a57f282c4bb2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-cognitive-impairment_us_5a5694d5e4b0a300f9059d34",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/pete-hoekstra-anti-muslim-comments-dutch-media_us_5a577124e4b03bc4d03e97bc",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/james-franco-sexual-misconduct_us_5a575754e4b08a1f624bc76a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/murders-of-4-black-lesbians-highlight-increased-violence-against-lgbtq-communities_us_5a5778cbe4b0616638288454",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/new-search-mh370_us_5a565d74e4b08a1f624acfa3",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/canada-fears-trump-nafta_us_5a566d22e4b08a1f624aef65"
+  },
+  "headline":{
+    "0":"Turkey's Top Court Rules Two Jailed Journalists Be Released",
+    "1":"White House Won\u2019t Say If Trump\u2019s Physical Will Include A Cognitive Impairment Test",
+    "2":"Trump's New Ambassador Finally Tells Dutch He Was Wrong About Muslim 'No-Go' Zones",
+    "3":"5 Women Accuse James Franco Of Sexual Misconduct",
+    "4":"Within 1 Week, 4 Black Lesbians Were Murdered",
+    "5":"$70 Million Reward Offered In New 'No Find, No Fee' Search For Missing MH370 Aircraft",
+    "6":"Canada Convinced Trump Will Pull Out Of NAFTA Deal: Report"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT",
+    "4":"QUEER VOICES",
+    "5":"WORLD NEWS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Mehmet Altan and Sahin Alpay have been in prison for more than a year.",
+    "1":"Trump\u2019s own Health Department says people his age should have the tests as part of their annual checkups to detect early signs of dementia.",
+    "2":"Peter Hoekstra says he \"mixed up countries.\"",
+    "3":"The women say in a newspaper article that the actor exploited his power over them.",
+    "4":"Advocates say the December 2017 homicides highlight the increase in violence against LGBTQ communities.",
+    "5":"A U.S.-based tech company will lead the renewed hunt for the jetliner that vanished in 2014.",
+    "6":"Canadian and Mexican currencies fell after government sources told Reuters about fears Trump will make the move in the coming weeks."
+  },
+  "authors":{
+    "0":"Tuvan Gumrukcu, Reuters",
+    "1":"S.V. Date",
+    "2":"Carol Kuruvilla",
+    "3":"Marina Fang",
+    "4":"David Lohr",
+    "5":"Jesselyn Cook",
+    "6":"David Ljunggren, Reuters"
+  },
+  "date":{
+    "0":"2018-01-11 00:00:00",
+    "1":"2018-01-11 00:00:00",
+    "2":"2018-01-11 00:00:00",
+    "3":"2018-01-11 00:00:00",
+    "4":"2018-01-11 00:00:00",
+    "5":"2018-01-10 00:00:00",
+    "6":"2018-01-10 00:00:00"
+  },
+  "actor1":{
+    "0":"turjud",
+    "1":"---govhlh",
+    "2":"---gov",
+    "3":"---cvl",
+    "4":"---jud",
+    "5":"---bus",
+    "6":"---gov"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl",
+    "2":"nld",
+    "3":"---med",
+    "4":"---cvl",
+    "5":"---cvl",
+    "6":"med"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"010",
+    "2":"010",
+    "3":"010",
+    "4":"010",
+    "5":"042",
+    "6":"010"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":1.9,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "court",
+      "turjud",
+      "turkey",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "health department",
+      "~govhlh",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "ambassador",
+      "~gov",
+      "~",
+      "dutch",
+      "nld",
+      "netherlands"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "newspaper",
+      "~med",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "4":[
+      "advocates",
+      "~jud",
+      "~",
+      "communities",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "company",
+      "~bus",
+      "~",
+      "jetliner",
+      "~cvl",
+      "~"
+    ],
+    "6":[
+      "government",
+      "~gov",
+      "~",
+      "reuters",
+      "med",
+      "reuters"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkey ... court",
+      "journalists"
+    ],
+    "1":[
+      "health department",
+      "people"
+    ],
+    "2":[
+      "ambassador",
+      "dutch"
+    ],
+    "3":[
+      "women",
+      "newspaper"
+    ],
+    "4":[
+      "advocates",
+      "communities"
+    ],
+    "5":[
+      "company",
+      "jetliner"
+    ],
+    "6":[
+      "government",
+      "reuters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "netherlands"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "reuters"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rules <~med> ... released"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "tells"
+    ],
+    "3":[
+      "say"
+    ],
+    "4":[
+      "say ... highlight"
+    ],
+    "5":[
+      "will lead ... for"
+    ],
+    "6":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "lgbt",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "turjud",
+      "---med",
+      "084"
+    ],
+    "1":[
+      "---govhlh",
+      "---ppl",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "nld",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---med",
+      "010"
+    ],
+    "4":[
+      "---jud",
+      "---cvl",
+      "010"
+    ],
+    "5":[
+      "---bus",
+      "---cvl",
+      "042"
+    ],
+    "6":[
+      "---gov",
+      "med",
+      "010"
+    ]
+  }
+}

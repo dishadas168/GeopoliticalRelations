@@ -1,0 +1,164 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-dakota-abortion-ban_us_55b03a40e4b07af29d57850e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-dakota-abortion-ban_us_55b03a40e4b07af29d57850e",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.today.com\/news\/policeman-spends-last-day-giving-gift-cards-instead-tickets-community-t33891"
+  },
+  "headline":{
+    "0":"North Dakota 'Heartbeat' Abortion Ban Blocked By Court",
+    "1":"North Dakota 'Heartbeat' Abortion Ban Blocked By Court",
+    "2":"Police Officer Spends Last Day On The Job Giving Out Gift Cards Instead Of Tickets"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"GOOD NEWS"
+  },
+  "short_description":{
+    "0":"A U.S. appeals court on Wednesday permanently blocked a North Dakota law that banned most abortions once a fetal heartbeat",
+    "1":"A U.S. appeals court on Wednesday permanently blocked a North Dakota law that banned most abortions once a fetal heartbeat",
+    "2":"Commander Brian Peters wanted to give back to a community that has done so much for him, so he spent his last day as a police"
+  },
+  "authors":{
+    "0":"David Bailey, Reuters",
+    "1":"David Bailey, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2015-07-23 00:00:00",
+    "1":"2015-07-23 00:00:00",
+    "2":"2015-07-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usajud",
+    "2":"---mil"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"usa",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"170",
+    "2":"031"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-7.0,
+    "2":5.2
+  },
+  "nouns":{
+    "0":[
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "appeals court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "commander",
+      "~mil",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "north dakota",
+      "court"
+    ],
+    "1":[
+      "u.s. appeals court",
+      "north dakota"
+    ],
+    "2":[
+      "commander",
+      "community",
+      "commander",
+      "commander"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blocked"
+    ],
+    "1":[
+      "blocked"
+    ],
+    "2":[
+      "wanted ... give",
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---jud",
+      "170"
+    ],
+    "1":[
+      "usajud",
+      "usa",
+      "170"
+    ],
+    "2":[
+      "---mil",
+      "---cvl",
+      "031",
+      "---mil",
+      "---mil",
+      "030"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/parenting-advice_us_5b9c73d0e4b03a1dcc7ec487",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-faroe-islands-food_us_5b9c6bf6e4b03a1dcc7e8507"
+  },
+  "headline":{
+    "0":"How This Parent Will Strive to Disagree Better",
+    "1":"The Faroe Islands: More Than Fermented Sheep"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"I wonder if most parents would be proud if their children interacted the same way at school during passionate disagreements about playground life as their parents do during passionate disagreements about politics?",
+    "1":"Honest Cooking Editor in Chief Kalle Bergman went to the Faroe Islands to feast on some of the best seafood in the world."
+  },
+  "authors":{
+    "0":"Bruce Reyes-Chow, Contributor\nSan Francisco-based,",
+    "1":"Honest Cooking, Contributor\nwww.honestcooking.com"
+  },
+  "date":{
+    "0":"2012-10-26 00:00:00",
+    "1":"2012-10-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---med"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"dnkfro"
+  },
+  "event_code":{
+    "0":"036",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "editor in chief",
+      "~med",
+      "~",
+      "faroe islands",
+      "dnkfro",
+      "faeroe",
+      "islands"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "children",
+      "children",
+      "school"
+    ],
+    "1":[
+      "editor in chief",
+      "faroe islands"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "faeroe islands"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "interacted ... at",
+      "interacted ... at"
+    ],
+    "1":[
+      "went"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "036",
+      "---cvl",
+      "---edu",
+      "036"
+    ],
+    "1":[
+      "---med",
+      "dnkfro",
+      "040"
+    ]
+  }
+}

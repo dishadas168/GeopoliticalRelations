@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/p90x-cardio-workout-american-council-on-exercise_us_5b9b4220e4b03a1dcc7603f9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/beginners-guide-to-barbuda_us_5b9b4186e4b03a1dcc75fca6"
+  },
+  "headline":{
+    "0":"P90X Cardio Workout: Now Approved By The American Council On Exercise",
+    "1":"A Beginner's Guide To Barbuda"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The American Council on Exercise asked a panel of sports science and physical therapy researchers from the University of",
+    "1":"Not many people go to the tiny island of Barbuda. The out of the way leeward island in the British West Indies is accessible to those who make the effort: The 11-mile long powder soft beach is specked with crushed pink coral."
+  },
+  "authors":{
+    "0":"",
+    "1":"Susan Fogwell, Contributor\nLifestyle & Travel Blogger"
+  },
+  "date":{
+    "0":"2012-01-30 00:00:00",
+    "1":"2012-01-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"atg"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "barbuda",
+      "atg",
+      "antigua",
+      "and",
+      "barbuda"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "university"
+    ],
+    "1":[
+      "people",
+      "barbuda"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "antigua and barbuda"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked"
+    ],
+    "1":[
+      "go"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "020"
+    ],
+    "1":[
+      "---ppl",
+      "atg",
+      "040"
+    ]
+  }
+}

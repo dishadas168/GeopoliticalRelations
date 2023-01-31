@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gallant-trump-conscience-protections-trump_us_5a66635fe4b0e5630072babd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-beyonce-picture_us_5a6f3d1ae4b0ddb658c8e2e7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/southeast-asian-prison-deportation-pipeline_us_5a1dd48ee4b0569950233065"
+  },
+  "headline":{
+    "0":"Illinois Ordered A Doctor To Tell Women Where To Get Abortions. Now He Wants The Whole State To Suffer",
+    "1":"Woman Captures What We All Would Look Like If We Saw Beyonc\u00e9 In Person",
+    "2":"The Forgotten Asian Refugees Fed Into The U.S. Prison System"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"... and the right-wing bureaucrats Trump installed in D.C. might agree with him.",
+    "1":"The backstage Grammys moment is too relatable.",
+    "2":"The U.S. took in Asian refugees after the Vietnam War, only to put many on a deportation path. A record number could be fed into this system in 2018."
+  },
+  "authors":{
+    "0":"Sarah Posner",
+    "1":"Elyse Wanshel",
+    "2":"Kimberly Yam"
+  },
+  "date":{
+    "0":"2018-01-29 00:00:00",
+    "1":"2018-01-29 00:00:00",
+    "2":"2018-01-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---cvl",
+    "2":"vnmref"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"171",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-9.2,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "doctor",
+      "~hlh",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "refugees",
+      "~ref",
+      "~",
+      "vietnam",
+      "vnm",
+      "vietnam"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "illinois",
+      "doctor"
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ],
+    "2":[
+      "u.s.",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ordered"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---hlh",
+      "100"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "171"
+    ],
+    "2":[
+      "usa",
+      "vnmref",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/wild-wing-cafe_us_5bb2fc67e4b0480ca66070fc",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/why-doesnt-nasa-just-look_us_5baeb906e4b014374e2e820e"
+  },
+  "headline":{
+    "0":"Wild Wing Cafe Kicks Out 25 African Americans After White Customer Felt 'Threatened': Report",
+    "1":"Why Doesn't NASA Just Look for Life?"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"SCIENCE"
+  },
+  "short_description":{
+    "0":"Right as the country commemorates the 50th anniversary of the March on Washington, people are flocking to social media to",
+    "1":"The \"water found on Mars\" story is as perennial as Christmas. NASA doesn't need to tell us that again. So why not cut out the seemingly endless stream of robotic middlemen, and just send hardware that will search for life, big or small? Isn't it time to cut to the chase?"
+  },
+  "authors":{
+    "0":"",
+    "1":"Seth Shostak, Contributor\nSenior Astronomer, SETI Institute"
+  },
+  "date":{
+    "0":"2013-08-25 00:00:00",
+    "1":"2013-08-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "nasa",
+      "usagov",
+      "national",
+      "aeronautics",
+      "and",
+      "space",
+      "administration"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "media"
+    ],
+    "1":[
+      "nasa",
+      "nasa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "national aeronautics and space administration",
+      "national aeronautics and space administration"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are flocking"
+    ],
+    "1":[
+      "does ... need ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---med",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "usagov",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cop-spends-last-day-on-the-job-handing-out-gift-cards-to-strangers-in-the-city-he-loves_us_55ad1dcfe4b065dfe89ed35c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/miami-group-is-helping-homeless-people-access-mental-health-treatment_us_55ad32afe4b065dfe89ee144",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/stolen-atm-machine-falls-out-of-getaway-van_us_55ad67c4e4b0caf721b3a144",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-gig-economy_us_55ad4a84e4b065dfe89f010c"
+  },
+  "headline":{
+    "0":"Cop Spends His Last Day On The Job Handing Out Gift Cards To Strangers",
+    "1":"Workers Bring Mental Health Care, Medication To Homeless In Miami",
+    "2":"Stolen ATM Machine Falls Out Of Getaway Van",
+    "3":"Hillary Clinton Hints She'd Support Flexible Benefits For Gig Economy Workers"
+  },
+  "category":{
+    "0":"GOOD NEWS",
+    "1":"IMPACT",
+    "2":"WEIRD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"A police officer traded parking tickets for gift certificates, to give back to the community he loves. Cmdr. Brian",
+    "1":"A partnership between advocates for the homeless, city outreach workers and a health center is helping mentally ill people",
+    "2":"LYNNWOOD, Wash. (AP) \u2014 Snohomish County authorities say two thieves suspected of stealing an ATM machine from a business",
+    "3":"In a Facebook Q&A, the former secretary of state took a question about making benefits more flexible."
+  },
+  "authors":{
+    "0":"Cameron Keady",
+    "1":"Joseph Erbentraut",
+    "2":"",
+    "3":"Alexander Howard"
+  },
+  "date":{
+    "0":"2015-07-21 00:00:00",
+    "1":"2015-07-21 00:00:00",
+    "2":"2015-07-20 00:00:00",
+    "3":"2015-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---judlab",
+    "2":"---gov",
+    "3":"usaeli"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"---crm",
+    "3":"usaeli"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"070",
+    "2":"010",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":7.0,
+    "2":0.0,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "police officer",
+      "~cop",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "workers",
+      "~lab",
+      "~",
+      "advocates",
+      "workers",
+      "~judlab",
+      "~",
+      "~",
+      "advocates",
+      "workers",
+      "~judlab",
+      "~",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "thieves",
+      "~crm",
+      "~",
+      "thieves",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police officer",
+      "community"
+    ],
+    "1":[
+      "advocates ... workers",
+      "people"
+    ],
+    "2":[
+      "authorities",
+      "thieves"
+    ],
+    "3":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "traded ... give"
+    ],
+    "1":[
+      "is helping"
+    ],
+    "2":[
+      "say"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "poverty",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---judlab",
+      "---ppl",
+      "070"
+    ],
+    "2":[
+      "---gov",
+      "---crm",
+      "010"
+    ],
+    "3":[
+      "usaeli",
+      "usaeli",
+      "020"
+    ]
+  }
+}

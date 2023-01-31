@@ -1,0 +1,155 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-anti-muslim-militia-fbi_us_5ab2aa16e4b0decad0465961",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/american-anti-muslim-militia-fbi_us_5ab2aa16e4b0decad0465961",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-opioid-plan_us_5ab00ec2e4b0e862383a70bd"
+  },
+  "headline":{
+    "0":"A Chilling 2015 FBI Bulletin Predicted Militias Would Target Muslims. It Was Right.",
+    "1":"A Chilling 2015 FBI Bulletin Predicted Militias Would Target Muslims. It Was Right.",
+    "2":"Trump's Latest Ideas To Combat The Opioid Epidemic Are Also His Dumbest"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Recent arrests in a Minnesota mosque bombing highlight the threat of America's armed anti-Muslim militias.",
+    "1":"Recent arrests in a Minnesota mosque bombing highlight the threat of America's armed anti-Muslim militias.",
+    "2":"The president proposed the death penalty for drug dealers and a new anti-drug ad campaign. Just say no."
+  },
+  "authors":{
+    "0":"Christopher Mathias",
+    "1":"Christopher Mathias",
+    "2":"Nick Wing"
+  },
+  "date":{
+    "0":"2018-03-21 00:00:00",
+    "1":"2018-03-21 00:00:00",
+    "2":"2018-03-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usacopuaf",
+    "1":"usa",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---mus",
+    "1":"usauaf",
+    "2":"---crm"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"110",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "militias",
+      "usacopuaf",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "~",
+      "muslims",
+      "~mus",
+      "~"
+    ],
+    "1":[
+      "minnesota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "america",
+      "militias",
+      "usauaf",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "drug dealers",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi ... militias",
+      "muslims"
+    ],
+    "1":[
+      "minnesota",
+      "america ... militias"
+    ],
+    "2":[
+      "president",
+      "drug dealers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would target"
+    ],
+    "1":[
+      "highlight ... threat"
+    ],
+    "2":[
+      "proposed <{death> <penalty}>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "drug_trade",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacopuaf",
+      "---mus",
+      "190"
+    ],
+    "1":[
+      "usa",
+      "usauaf",
+      "110"
+    ],
+    "2":[
+      "---gov",
+      "---crm",
+      "170"
+    ]
+  }
+}

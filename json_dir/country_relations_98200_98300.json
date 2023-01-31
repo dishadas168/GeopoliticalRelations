@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/to-meet-new-student-standards-me-must-support-and-empower-teachers_b_7108702.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shinzo-abe-us-congress-visit_b_7109194.html"
+  },
+  "headline":{
+    "0":"To Meet New Student Standards, We Must Support and Empower Teachers",
+    "1":"Abe's Visit Will Remind Americans China's Power Must Be Checked"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"We have at our doorstep, a once in a century opportunity for education in America. Almost every state in America is introducing higher, more rigorous standards for all students.",
+    "1":"TOKYO -- Would a world order designed by China allow for the rise of another power to challenge it in the way the U.S.-led world order allowed for -- indeed, encouraged and assisted -- China's three-decade-long boom? To answer that question, one can look to the writings of the Chinese strategist Yan Xuetong, whose book \"Ancient Chinese Thought, Modern Chinese Power\" argues that all countries must recognize and accept China's centrality to the world as the Middle Kingdom."
+  },
+  "authors":{
+    "0":"Ellen Moir, ContributorFounder and CEO, New Teacher Center",
+    "1":"Yuriko Koike, ContributorIncoming Governor of Tokyo, Japan's former Defense Minister an..."
+  },
+  "date":{
+    "0":"2015-04-22 00:00:00",
+    "1":"2015-04-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"chn"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"chn"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"110"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "china",
+      "chn",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "students"
+    ],
+    "1":[
+      "china",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "china",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is introducing"
+    ],
+    "1":[
+      "allow ... challenge"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "chn",
+      "chn",
+      "110"
+    ]
+  }
+}

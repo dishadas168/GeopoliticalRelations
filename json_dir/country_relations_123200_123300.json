@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/professor-arrested-for-as_b_5541689.html"
+  },
+  "headline":{
+    "0":"Professor Arrested for Assault on Police, But Video May Tell Different Story"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"At the time Professor Ore insisted that there was much more that happened that evening, but her story was not taken seriously and certainly it appeared nowhere on the news."
+  },
+  "authors":{
+    "0":"David Palumbo-Liu, ContributorLouise Hewlett Nixon Professor, Stanford University"
+  },
+  "date":{
+    "0":"2014-06-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "professor",
+      "~edu",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "professor",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cop",
+      "173"
+    ]
+  }
+}

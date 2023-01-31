@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bugarach-france-mayan-apocalypse_us_5b9c89f6e4b03a1dcc7f96f1",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/blogs.babble.com\/babble-voices\/ellen-seidman-1000-perplexing-things-about-parenthood\/2012\/11\/12\/stress-free-plane-trips-12-proven-tips-for-parent-sanity\/?cmp=ELP%7Cbbl%7Clp%7CHuffPoTravel%7CMain%7C%7C100112%7C%7C%7CfamE%7C%7C%7C"
+  },
+  "headline":{
+    "0":"Bugarach, French Hamlet, Attracts Believers As Mayan Apocalypse Looms (PHOTOS)",
+    "1":"Family Travel: 12 Stress-Free Plane Tips To Ensure Parental Sanity"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"\"This is the 183rd end-of-the-world prophecy since antiquity,\" Bugarach Mayor Pierre Delord told The Guardian. \"I can't take",
+    "1":"Assuming airlines don\u2019t start allowing passengers to tuck children into the above-seat bins anytime soon, you\u2019re going to"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-20 00:00:00",
+    "1":"2012-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "~gov",
+      "~",
+      "the guardian",
+      "med",
+      "the",
+      "guardian"
+    ],
+    "1":[
+      "airlines",
+      "~bus",
+      "~",
+      "passengers",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor",
+      "the ... guardian"
+    ],
+    "1":[
+      "airlines",
+      "passengers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the guardian"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "do ... allowing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "08"
+    ]
+  }
+}

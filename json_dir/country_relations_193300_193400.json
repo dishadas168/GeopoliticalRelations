@@ -1,0 +1,152 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/booze-bikes-burgundy_us_5b9bbe21e4b03a1dcc79fe6e",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.worldcrunch.com\/i-decided-speak-americans-fight-gay-adoption-rights-colombia\/5443",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.worldcrunch.com\/i-decided-speak-americans-fight-gay-adoption-rights-colombia\/5443"
+  },
+  "headline":{
+    "0":"Booze, Bikes And Burgundy (PHOTOS)",
+    "1":"Chandler Burr, American Journalist, Describes Colombian Fight For Gay Adoption Rights",
+    "2":"Chandler Burr, American Journalist, Describes Colombian Fight For Gay Adoption Rights"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"QUEER VOICES",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"A five-day pedal through Burgundy revealed some fascinating surprises about France.",
+    "1":"BOGOTA - For the first time in the country\u2019s history, a top Colombian court has awarded adoption rights to a homosexual man",
+    "2":"BOGOTA - For the first time in the country\u2019s history, a top Colombian court has awarded adoption rights to a homosexual man"
+  },
+  "authors":{
+    "0":"Anne Sobel, Contributor\nLecturer in Film Production, Northwestern University in Qatar",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2012-05-27 00:00:00",
+    "1":"2012-05-27 00:00:00",
+    "2":"2012-05-27 00:00:00"
+  },
+  "actor1":{
+    "0":"fra",
+    "1":"usamed",
+    "2":"coljud"
+  },
+  "actor2":{
+    "0":"fra",
+    "1":"col",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"012",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-0.4,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "burgundy",
+      "fra",
+      "france",
+      "france",
+      "fra",
+      "france"
+    ],
+    "1":[
+      "american",
+      "journalist",
+      "usamed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "colombian",
+      "col",
+      "colombia"
+    ],
+    "2":[
+      "colombian",
+      "court",
+      "coljud",
+      "colombia",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "burgundy",
+      "burgundy"
+    ],
+    "1":[
+      "american journalist",
+      "colombian"
+    ],
+    "2":[
+      "colombian court",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "france",
+      "france"
+    ],
+    "1":[
+      "united states of america",
+      "colombia"
+    ],
+    "2":[
+      "colombia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "revealed"
+    ],
+    "1":[
+      "describes <&fight>"
+    ],
+    "2":[
+      "has awarded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "fra",
+      "fra",
+      "050"
+    ],
+    "1":[
+      "usamed",
+      "col",
+      "012"
+    ],
+    "2":[
+      "coljud",
+      "---ppl",
+      "060"
+    ]
+  }
+}

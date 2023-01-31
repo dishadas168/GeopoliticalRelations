@@ -1,0 +1,123 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/donald-trump-ilhan-omar-resign_n_5c62ff37e4b00ba63e4b0e3f",
+    "1":"https:\/\/www.huffpost.com\/entry\/epa-smog-pollution-lawsuit_n_5c5236e8e4b0ca92c6dd111f"
+  },
+  "headline":{
+    "0":"Donald Trump Says Rep. Ilhan Omar Should Consider Resigning Over Israel Tweets",
+    "1":"New York Just Sued The Trump EPA For Reversing Obama-Era Air Pollution Rule"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The president called the Minnesota lawmaker's apology \"lame.\"",
+    "1":"Five other states, plus New York City, joined the Empire State's suit."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2019-02-12 00:00:00",
+    "1":"2019-01-31 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "minnesota",
+      "lawmaker",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "new york city",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "empire state",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "minnesota lawmaker",
+      "president",
+      "president",
+      "minnesota lawmaker"
+    ],
+    "1":[
+      "new york city",
+      "new york city"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "joined"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "---gov",
+      "041",
+      "---gov",
+      "usaleg",
+      "041"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "040"
+    ]
+  }
+}

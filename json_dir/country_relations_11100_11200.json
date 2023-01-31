@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nypd-911-footage-saheed-vassell_us_5ac7eb73e4b09d0a1193ce18",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-new-tariffs-china_us_5ac70306e4b0337ad1e63ff6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/cambodians-deported-trump-immigration_us_5ac77dd9e4b07a3485e3da6c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/jaime-king-4-year-old-son-hit-with-broken-glass-in-bizarre-car-attack_us_5ac5fb52e4b0aacd15b8c085"
+  },
+  "headline":{
+    "0":"NYPD Releases 911 Transcripts, Footage Of Saheed Vassell's Final Moments",
+    "1":"Trump Proposes Slapping $100 Billion In New Tariffs On Chinese Goods",
+    "2":"The U.S. Just Quietly Deported The Largest Group Of Cambodians Ever",
+    "3":"Jaime King's 4-Year-Old Son Hit With Broken Glass In Bizarre Car Attack"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"BUSINESS",
+    "2":"POLITICS",
+    "3":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"Police fatally shot Vassell, an unarmed black man, on Wednesday.",
+    "1":"The additional tariffs were being considered \u201cin light of China\u2019s unfair retaliation\u201d against earlier U.S. trade actions, Trump said.",
+    "2":"The group included refugees who had been in the U.S. for decades.",
+    "3":"Police said they charged a man who smashed the car window with felony child endangerment."
+  },
+  "authors":{
+    "0":"Antonia Blumberg",
+    "1":"Steve Holland and David Lawder, Reuters",
+    "2":"Kimberly Yam",
+    "3":"Ron Dicker"
+  },
+  "date":{
+    "0":"2018-04-06 00:00:00",
+    "1":"2018-04-06 00:00:00",
+    "2":"2018-04-06 00:00:00",
+    "3":"2018-04-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"chn",
+    "2":"usa",
+    "3":"---cop"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"khm",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040",
+    "2":"174",
+    "3":"112"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0,
+    "2":-5.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cambodians",
+      "khm",
+      "cambodia"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "man"
+    ],
+    "1":[
+      "china",
+      "u.s."
+    ],
+    "2":[
+      "u.s.",
+      "cambodians"
+    ],
+    "3":[
+      "police",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "china",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "cambodia"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "shot"
+    ],
+    "1":[
+      "considered ... in <chn> ... against <usa>"
+    ],
+    "2":[
+      "deported"
+    ],
+    "3":[
+      "said ... charged"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "retaliation",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "chn",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "khm",
+      "174"
+    ],
+    "3":[
+      "---cop",
+      "---ppl",
+      "112"
+    ]
+  }
+}

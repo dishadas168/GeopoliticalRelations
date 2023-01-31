@@ -1,0 +1,172 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/young-voters-lash-back-lessons-from-polling-the-uk_us_595d6f09e4b085e766b51017",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/scotland-and-wales-will-now-let-northern-irish-women-access-free-abortions_us_595d3051e4b02e9bdb09cf5c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/russia-and-china-call-for-de-escalation-from-us-north-korea-south-korea_us_595bd717e4b05c37bb806962"
+  },
+  "headline":{
+    "0":"Young Voters Lash Back: Lessons From Polling The UK Election",
+    "1":"Scotland And Wales Will Now Allow Northern Irish Women To Access Free Abortions",
+    "2":"Russia And China Call For De-Escalation From U.S, North Korea, South Korea"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WOMEN",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Labour\u2019s massive support among younger voters also meant they depended far more than the Conservatives on infrequent voters",
+    "1":"England made a similar announcement last week.",
+    "2":"North Korea said on Tuesday it had successfully test-fired an intercontinental ballistic missile for the first time."
+  },
+  "authors":{
+    "0":"Mark Blumenthal, ContributorHead of Election Polling at SurveyMonkey",
+    "1":"Jenavieve Hatch",
+    "2":""
+  },
+  "date":{
+    "0":"2017-07-05 00:00:00",
+    "1":"2017-07-05 00:00:00",
+    "2":"2017-07-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"gbr",
+    "2":"rus"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"gbrcvl",
+    "2":"kor"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"08",
+    "2":"0256"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":5.0,
+    "2":null
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "scotland",
+      "wales",
+      "gbr",
+      "gbr",
+      "united",
+      "kingdom",
+      "united",
+      "kingdom",
+      "northern irish",
+      "women",
+      "gbrcvl",
+      "united",
+      "kingdom",
+      "~"
+    ],
+    "2":[
+      "russia",
+      "china",
+      "rus",
+      "chn",
+      "russian",
+      "federation",
+      "china",
+      "south korea",
+      "kor",
+      "south",
+      "korea"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "voters"
+    ],
+    "1":[
+      "scotland",
+      "northern irish women"
+    ],
+    "2":[
+      "russia",
+      "south korea",
+      "china",
+      "south korea"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "united kingdom"
+    ],
+    "2":[
+      "russian federation",
+      "south korea",
+      "china",
+      "south korea"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "will ... allow"
+    ],
+    "2":[
+      "call for de-escalation",
+      "call for de-escalation"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "2"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "gbr",
+      "gbrcvl",
+      "08",
+      "gbr",
+      "gbrcvl",
+      "08"
+    ],
+    "2":[
+      "rus",
+      "kor",
+      "0256",
+      "chn",
+      "kor",
+      "0256"
+    ]
+  }
+}

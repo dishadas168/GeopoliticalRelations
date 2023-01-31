@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/to-improve-human-rights-in-north-korea-engage-the_us_5a328168e4b06a512dd69e03",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kihuen-sexual-misconduct_us_5a323ef4e4b091ca26857435",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-usa-is-number-one-in-weapons-sales_us_5a32895de4b04bd8793e97dc",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/children-need-homes-not-charter-schools-or-standardized_us_5a32607fe4b0b73dde46aa6a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/roy-moore-still-wont-concede-alabama_us_5a320905e4b01bdd7659e9d2",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/cards-against-humanity-redistributes-wealth_us_5a32bcc5e4b040881be8ba69"
+  },
+  "headline":{
+    "0":"To Improve Human Rights In North Korea, Engage The Kim Regime And Reduce Its Insecurity",
+    "1":"Another Woman Accuses Nevada Congressman Of Sexual Harassment",
+    "2":"The U.S. Is Number One -- In Weapons Sales",
+    "3":"Children Need Homes, Not Charter Schools Or Standardized Tests, And Definitely Not Tax Cuts For The Wealthy",
+    "4":"Roy Moore Still Won\u2019t Concede Defeat: \u2018The Battle Rages On\u2019",
+    "5":"Cards Against Humanity Tackles Wealth Inequality, Sends Money To Poor"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"ARTS & CULTURE"
+  },
+  "short_description":{
+    "0":"Washington sees North Korea as a security challenge. Yet the North threatens America only because the U.S. intervened in",
+    "1":"She alleges years of unwanted advances.",
+    "2":"Once again, the U.S. leads the world in weapons sales, notes SIPRI, the Stockholm International Peace Research Institute",
+    "3":"Over 1.1 million children and teens attend more than 1,800 New York City public schools. About one-third of these children",
+    "4":"President Trump has reportedly already invited Moore's opponent -- and now senator-elect -- Doug Jones to the White House.",
+    "5":"The card game company set out to help 100 people by giving them $1,000 each."
+  },
+  "authors":{
+    "0":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "1":"Willa Frej",
+    "2":"William Astore, ContributorWriter, History Professor, Retired Lieutenant Colonel (USAF)",
+    "3":"Alan Singer, ContributorSocial studies educator, Hofstra University, my opinions, of c...",
+    "4":"Dominique Mosbergen",
+    "5":"Jenna Amatulli"
+  },
+  "date":{
+    "0":"2017-12-14 00:00:00",
+    "1":"2017-12-14 00:00:00",
+    "2":"2017-12-14 00:00:00",
+    "3":"2017-12-14 00:00:00",
+    "4":"2017-12-14 00:00:00",
+    "5":"2017-12-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"---edu",
+    "4":"---gov",
+    "5":"---bus"
+  },
+  "actor2":{
+    "0":"prk",
+    "1":"usaleg",
+    "2":"swe",
+    "3":"---cvl",
+    "4":"usagovleg",
+    "5":"---ppl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"112",
+    "2":"010",
+    "3":"043",
+    "4":"040",
+    "5":"070"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":2.8,
+    "4":1.0,
+    "5":7.0
+  },
+  "nouns":{
+    "0":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~",
+      "nevada",
+      "congressman",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "stockholm",
+      "swe",
+      "sweden"
+    ],
+    "3":[
+      "children",
+      "~cvl",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "senator",
+      "usagovleg",
+      "~"
+    ],
+    "5":[
+      "company",
+      "~bus",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "washington",
+      "north korea"
+    ],
+    "1":[
+      "woman",
+      "nevada congressman"
+    ],
+    "2":[
+      "u.s.",
+      "stockholm"
+    ],
+    "3":[
+      "schools",
+      "children",
+      "children",
+      "schools"
+    ],
+    "4":[
+      "president",
+      "senator"
+    ],
+    "5":[
+      "company",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "north korea"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "sweden"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      ""
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sees"
+    ],
+    "1":[
+      "accuses"
+    ],
+    "2":[
+      "leads ... notes"
+    ],
+    "3":[
+      "attend",
+      "attend"
+    ],
+    "4":[
+      "has ... invited"
+    ],
+    "5":[
+      "set ... help"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_arms_deal",
+      "1"
+    ],
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "prk",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "usaleg",
+      "112"
+    ],
+    "2":[
+      "usa",
+      "swe",
+      "010"
+    ],
+    "3":[
+      "---edu",
+      "---cvl",
+      "043",
+      "---cvl",
+      "---edu",
+      "042"
+    ],
+    "4":[
+      "---gov",
+      "usagovleg",
+      "040"
+    ],
+    "5":[
+      "---bus",
+      "---ppl",
+      "070"
+    ]
+  }
+}

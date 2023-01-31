@@ -1,0 +1,283 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/despite-the-crisis-over-u_b_5226435.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/despite-the-crisis-over-u_b_5226435.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/for-profit-college-offers_b_5221297.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/veterans-talk-about-women_b_5216137.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-grandma-_b_5223664.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/greece-is-a-long-way-from_b_5223555.html"
+  },
+  "headline":{
+    "0":"Despite the Crisis Over Ukraine, America Will Likely Need Russia Soon",
+    "1":"Despite the Crisis Over Ukraine, America Will Likely Need Russia Soon",
+    "2":"For-Profit College Offers Students Pizza to Lobby Against Obama Regulation",
+    "3":"Veterans Talk About Women in Combat",
+    "4":"Hillary For President 2016, Not Hillary For Grandma",
+    "5":"Greece Is A Long Way from Back"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"COLLEGE",
+    "3":"WOMEN",
+    "4":"FIFTY",
+    "5":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"In the future, to contain a rapidly rising China, the United States would need Russia again -- and Russia would need the United States. That's why Russia's behavior in Crimea and eastern Ukraine, despite its unacceptability, will probably be forgotten rather quickly in Washington.",
+    "1":"In the future, to contain a rapidly rising China, the United States would need Russia again -- and Russia would need the United States. That's why Russia's behavior in Crimea and eastern Ukraine, despite its unacceptability, will probably be forgotten rather quickly in Washington.",
+    "2":"While it storms government offices with high-priced lobbyists, the for-profit college industry also is aiming to flood Washington with cards and letters from their students and staff opposing President Obama's gainful employment rule.",
+    "3":"In 2013 women became eligible for the same combat opportunities as men in the armed services. President Obama has advocated vigorously for women in combat, and the goal is for the Armed Services to fully integrate women into all spheres by January 1, 2016.",
+    "4":"Mitt Romney was surrounded by grandkids during his presidential run and no one ever ventured the question, let alone the thought, that he might not be a good grandfather or was not involved enough in their lives. But 66, for a woman in the political arena (and other arenas as well), is a different story. Unlike a man, a woman's \"shelf-life\" seems to be limited when she is described, even in her 60s, as a grandmother.",
+    "5":"Greece needs a new conservative, moral and ethical government. Taxes must be reduced for the middle class and small businesses. Liquidity must be improved, with loans offered to private companies, which will create jobs and encourage educated young Greeks to stay."
+  },
+  "authors":{
+    "0":"Ivan Eland, ContributorSenior Fellow and Director of the Center on Peace & Liberty, T...",
+    "1":"Ivan Eland, ContributorSenior Fellow and Director of the Center on Peace & Liberty, T...",
+    "2":"David Halperin, ContributorAttorney, advocate, writer at RepublicReport.org",
+    "3":"Barbara Mujica, ContributorProfessor, Georgetown University",
+    "4":"Kristen Houghton, ContributorAuthor of  A Cate Harlow Private Investigation series",
+    "5":"Dr. John N. Kallianiotis, ContributorProfessor of Economics and Finance, University of Scranton"
+  },
+  "date":{
+    "0":"2014-04-29 00:00:00",
+    "1":"2014-04-29 00:00:00",
+    "2":"2014-04-28 00:00:00",
+    "3":"2014-04-28 00:00:00",
+    "4":"2014-04-28 00:00:00",
+    "5":"2014-04-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---edu",
+    "3":"usagov",
+    "4":"---cvl",
+    "5":"grc"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"rus",
+    "2":"usagovedu",
+    "3":"---cvl",
+    "4":"---cvl",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"100",
+    "2":"030",
+    "3":"020",
+    "4":"010",
+    "5":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":4.0,
+    "3":3.0,
+    "4":0.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "china",
+      "chn",
+      "china",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "college",
+      "~edu",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "students",
+      "usagovedu",
+      "~"
+    ],
+    "3":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "greece",
+      "grc",
+      "greece",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "russia"
+    ],
+    "1":[
+      "the ... united states",
+      "russia",
+      "russia",
+      "the ... united states"
+    ],
+    "2":[
+      "college",
+      "students"
+    ],
+    "3":[
+      "president obama",
+      "women"
+    ],
+    "4":[
+      "woman",
+      "woman"
+    ],
+    "5":[
+      "greece",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "russian federation"
+    ],
+    "1":[
+      "united states of america",
+      "russian federation",
+      "russian federation",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      ""
+    ],
+    "3":[
+      "barack obama",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "greece",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "would need",
+      "would need"
+    ],
+    "2":[
+      "offers"
+    ],
+    "3":[
+      "has advocated"
+    ],
+    "4":[
+      "seems <~cvl> ... described"
+    ],
+    "5":[
+      "needs"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "rus",
+      "100"
+    ],
+    "1":[
+      "usa",
+      "rus",
+      "100",
+      "rus",
+      "usa",
+      "100"
+    ],
+    "2":[
+      "---edu",
+      "usagovedu",
+      "030"
+    ],
+    "3":[
+      "usagov",
+      "---cvl",
+      "020"
+    ],
+    "4":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "5":[
+      "grc",
+      "---gov",
+      "100"
+    ]
+  }
+}

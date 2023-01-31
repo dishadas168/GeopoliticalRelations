@@ -1,0 +1,235 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/womens-march-organizers-are-planning-a-day-without-a-woman_us_5898ba2fe4b09bd304bc9f5f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/shelling-east-ukraine-trump_us_58968095e4b04061313748b3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/afghanistan-avalanche_us_589764e0e4b09bd304bbcd96",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/pentagon-failed-to-disclose-air-strikes_us_589786a6e4b09bd304bbd163",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/congressional-republicans-protests-obamacare_us_5896566ae4b0406131373bae"
+  },
+  "headline":{
+    "0":"Women's March Organizers Are Planning A 'Day Without A Woman'",
+    "1":"Shelling Flares Up In East Ukraine Ahead Of Trump's Kiev Call",
+    "2":"Avalanche Kills At Least 50 In Afghanistan, Buries Village In Snow",
+    "3":"Pentagon Reportedly Failed To Disclose Up To Thousands Of Air Strikes",
+    "4":"Congressional Republicans Continue Taking Heat Over Obamacare Repeal"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The general strike will take place on March 8th, International Women's Day.",
+    "1":"Kiev accused pro-Russian rebels of resuming artillery bombardments on the town of Avdiyivka.",
+    "2":"At least 9 other people were killed in neighboring Pakistan in a separate avalanche.",
+    "3":"WASHINGTON, Feb 5 (Reuters) - The Pentagon has failed to disclose up to thousands of air strikes the U.S. military carried",
+    "4":"Demonstrators jeered California Rep. Tom McClintock as he left a town hall under police escort."
+  },
+  "authors":{
+    "0":"Alanna Vagianos",
+    "1":"",
+    "2":"",
+    "3":"",
+    "4":"Daniel Marans"
+  },
+  "date":{
+    "0":"2017-02-06 00:00:00",
+    "1":"2017-02-05 00:00:00",
+    "2":"2017-02-05 00:00:00",
+    "3":"2017-02-05 00:00:00",
+    "4":"2017-02-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"ukr",
+    "2":"pak",
+    "3":"usamil",
+    "4":"---opp"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---rebmil",
+    "2":"---ppl",
+    "3":"usamil",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"112",
+    "2":"190",
+    "3":"010",
+    "4":"111"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":-10.0,
+    "3":0.0,
+    "4":-2.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "kiev",
+      "ukr",
+      "ukraine",
+      "rebels",
+      "artillery",
+      "~rebmil",
+      "~",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "pakistan",
+      "pak",
+      "pakistan"
+    ],
+    "3":[
+      "pentagon",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ],
+    "4":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "women"
+    ],
+    "1":[
+      "kiev",
+      "rebels ... artillery"
+    ],
+    "2":[
+      "pakistan",
+      "people"
+    ],
+    "3":[
+      "pentagon",
+      "pentagon"
+    ],
+    "4":[
+      "demonstrators",
+      "california"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "ukraine",
+      "---"
+    ],
+    "2":[
+      "pakistan",
+      "---"
+    ],
+    "3":[
+      "united states military",
+      "united states military"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are planning"
+    ],
+    "1":[
+      "accused"
+    ],
+    "2":[
+      "<~ppl> ... killed in ... pak ... in <--->"
+    ],
+    "3":[
+      "has failed ... disclose"
+    ],
+    "4":[
+      "jeered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "natural_disaster",
+      "1"
+    ],
+    "3":[
+      "airstrike",
+      "1"
+    ],
+    "4":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "ukr",
+      "---rebmil",
+      "112"
+    ],
+    "2":[
+      "pak",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "usamil",
+      "usamil",
+      "010"
+    ],
+    "4":[
+      "---opp",
+      "usa",
+      "111"
+    ]
+  }
+}

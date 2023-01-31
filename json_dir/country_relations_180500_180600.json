@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/not-the-boy-scouts-of-my-america_us_5bafab76e4b0ad76925fc5d4"
+  },
+  "headline":{
+    "0":"Not the Boy Scouts of My America"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"It's time that we did more than sign Karen Andresen's petition to protest the recalcitrant Boy Scouts of America. Until the BSA changes its anti-gay, anti-humane policy, no synagogue, church or school should sponsor a Boy Scout troop."
+  },
+  "authors":{
+    "0":"Judy Bolton-Fasman, Contributor\nWriter"
+  },
+  "date":{
+    "0":"2012-10-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "school",
+      "~edu",
+      "~",
+      "troop",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "school",
+      "troop"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should sponsor"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---mil",
+      "061"
+    ]
+  }
+}

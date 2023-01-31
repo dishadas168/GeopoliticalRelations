@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/seton-hall-gay-marriage_n_7301278.html"
+  },
+  "headline":{
+    "0":"Seton Hall University Priest Says He Was Fired For Gay Marriage Support"
+  },
+  "category":{
+    "0":"RELIGION"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Alana Horowitz Satlin"
+  },
+  "date":{
+    "0":"2015-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---edurel"
+  },
+  "actor2":{
+    "0":"---edurel"
+  },
+  "event_code":{
+    "0":"111"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "university",
+      "priest",
+      "~edurel",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "university priest",
+      "university priest"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <~edurel> ... fired for"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edurel",
+      "---edurel",
+      "111"
+    ]
+  }
+}

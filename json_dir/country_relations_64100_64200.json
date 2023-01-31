@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/greece-migrants-rescue_us_57514c26e4b0ed593f140ece",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-university-veterans_us_574eff95e4b0c3752dcc1505"
+  },
+  "headline":{
+    "0":"Greece Rescues Hundreds Of Migrants From Sinking Ship Off Crete",
+    "1":"Iraq War Vet: Trump University Fired Me 'Because I Was In The Military'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Over 300 people were rescued, but it was too early to tell how many had been on board.",
+    "1":"Her boss allegedly called her military reserve duties a problem."
+  },
+  "authors":{
+    "0":"George Georgiopoulos and Angeliki Koutantou, Reuters",
+    "1":"Christina Wilkie"
+  },
+  "date":{
+    "0":"2016-06-03 00:00:00",
+    "1":"2016-06-02 00:00:00"
+  },
+  "actor1":{
+    "0":"grc",
+    "1":"---mil"
+  },
+  "actor2":{
+    "0":"grccvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"073",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":7.4,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "greece",
+      "grc",
+      "greece",
+      "migrants",
+      "~cvl",
+      "~",
+      "migrants",
+      "~cvl",
+      "~",
+      "crete",
+      "grc",
+      "greece"
+    ],
+    "1":[
+      "boss",
+      "~bus",
+      "~",
+      "military reserve",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "greece",
+      "---"
+    ],
+    "1":[
+      "military reserve",
+      "boss",
+      "boss",
+      "military reserve"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "greece",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rescues"
+    ],
+    "1":[
+      "called",
+      "called"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "grc",
+      "grccvl",
+      "073"
+    ],
+    "1":[
+      "---mil",
+      "---bus",
+      "041",
+      "---bus",
+      "---mil",
+      "041"
+    ]
+  }
+}

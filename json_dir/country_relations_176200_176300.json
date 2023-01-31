@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bronchitis-george-hw-bush-hospitalized_us_5b9c90cfe4b03a1dcc7fdc9f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/israel-tourism-gaza-violence_us_5b9c90e5e4b03a1dcc7fdd0f"
+  },
+  "headline":{
+    "0":"Bronchitis: What Is The Condition George H.W. Bush Was Hospitalized For?",
+    "1":"Israel Tourism Persists Despite Gaza Violence"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Bush's spokesman told CNN that the former president, who also has Parkinson's disease, was hospitalized because of a \"lingering",
+    "1":"HG: I\u2019ve never head of tourists not coming because of how the government treats Arabs ... People are going to Israel to fulfill"
+  },
+  "authors":{
+    "0":"",
+    "1":"Andrew Burmon"
+  },
+  "date":{
+    "0":"2012-11-29 00:00:00",
+    "1":"2012-11-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"isr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "spokesman",
+      "~med",
+      "~",
+      "cnn",
+      "med",
+      "cnn",
+      "former president",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "tourists",
+      "~cvl",
+      "~",
+      "tourists",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "israel",
+      "isr",
+      "israel"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "spokesman",
+      "cnn"
+    ],
+    "1":[
+      "people",
+      "israel"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "cnn"
+    ],
+    "1":[
+      "---",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "are going"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---ppl",
+      "isr",
+      "040"
+    ]
+  }
+}

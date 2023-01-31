@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/conservatives-revise-history-to-discredit-trump-inauguration_us_588ce4e7e4b06364bb1e2647",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/vicente-fox-mexican-american-war_us_588b3d96e4b0303c07530332",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jimmy-kimmel-donald-trump-lex-luthor_us_588b103fe4b0230ce61b3275"
+  },
+  "headline":{
+    "0":"Conservatives Revise History to Discredit Trump Inauguration Protesters",
+    "1":"U.S.-Mexico Relations Almost As Bad As War Times, Says Former Mexican President",
+    "2":"Jimmy Kimmel Gives Donald Trump's 'Menacing' ABC Interview A Super Villainous Twist"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"COMEDY"
+  },
+  "short_description":{
+    "0":"Last weekend, protesters took to the streets of Washington D.C. for the inauguration of America\u2019s 45th President, Donald",
+    "1":"Vicente Fox said he's reminded of the time the countries spent fighting in the 1800s.",
+    "2":"\u201cHere\u2019s what happens when the Man of Steel meets the President of Gold.\""
+  },
+  "authors":{
+    "0":"Kimberly Mehlman-Orozco, Ph.D., ContributorCriminologist and Human Trafficking Expert Witness; Author, Hi...",
+    "1":"Hayley Miller",
+    "2":"Lee Moran"
+  },
+  "date":{
+    "0":"2017-01-28 00:00:00",
+    "1":"2017-01-27 00:00:00",
+    "2":"2017-01-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"010",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":0.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "protesters",
+      "~opp",
+      "~",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "u.s.",
+      "mexico",
+      "usa",
+      "mex",
+      "united",
+      "states",
+      "of",
+      "america",
+      "mexico",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "protesters",
+      "washington d.c."
+    ],
+    "1":[
+      "u.s.",
+      "president",
+      "mexico",
+      "president"
+    ],
+    "2":[
+      "man",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---",
+      "mexico",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ],
+    "1":[
+      "says",
+      "says"
+    ],
+    "2":[
+      "meets"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usa",
+      "171",
+      "---opp",
+      "usa",
+      "171"
+    ],
+    "1":[
+      "usa",
+      "---gov",
+      "010",
+      "mex",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---gov",
+      "040"
+    ]
+  }
+}

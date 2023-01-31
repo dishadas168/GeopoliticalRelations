@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kindergarten_us_5b9c2b5ae4b03a1dcc7ccec5"
+  },
+  "headline":{
+    "0":"A Mama's Self-Analysis as Her Firstborn Heads to Kindergarten"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"My oldest child, Ella, will be heading to kindergarten in two weeks... and I find myself experiencing a swirl of mixed emotions."
+  },
+  "authors":{
+    "0":"Erin Cox, Contributor\nHay House Author, inspirational speaker, and mom of three who ..."
+  },
+  "date":{
+    "0":"2012-08-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"042"
+  },
+  "goldstein_score":{
+    "0":1.9
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "kindergarten",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "kindergarten"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... heading to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "early_childhood_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "042"
+    ]
+  }
+}

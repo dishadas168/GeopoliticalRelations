@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/clinton-sanders-obama_us_56aa378de4b05e4e3703753a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/planned-parenthood-texas_us_56aa36e3e4b05e4e370374ba",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/senate-puerto-rico-debt-crisis_us_56a8ff74e4b0947efb663161",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/doj-ferguson-policing-agreement_us_56a93535e4b0f7179928eafc"
+  },
+  "headline":{
+    "0":"Bernie Sanders And Hillary Clinton Are Actually Fighting About Barack Obama",
+    "1":"How Planned Parenthood Outsmarted Its Accusers By Turning The Tables On Them",
+    "2":"Every Senate Democrat Is Pressing McConnell To Help Puerto Rico With Its Debt Crisis",
+    "3":"DOJ Agreement Would Crack Down On Ferguson Police, Court Abuses"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"It's a debate over what Obama accomplished -- and what he didn't.",
+    "1":"Not even a pro-life Texas prosecutor bought the anti-abortion campaigners' tactics.",
+    "2":"They want to pass legislation granting the island bankruptcy powers.",
+    "3":"The agreement would force the city to eliminate certain laws and stop policing for profit."
+  },
+  "authors":{
+    "0":"Jonathan Cohn",
+    "1":"",
+    "2":"Laura Barr\u00f3n-L\u00f3pez",
+    "3":"Ryan J. Reilly and Mariah Stewart"
+  },
+  "date":{
+    "0":"2016-01-28 00:00:00",
+    "1":"2016-01-28 00:00:00",
+    "2":"2016-01-27 00:00:00",
+    "3":"2016-01-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"usajud",
+    "2":"usagovleg",
+    "3":"usagov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---opp",
+    "2":"usapri",
+    "3":"---copjud"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"061",
+    "2":"070",
+    "3":"170"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.4,
+    "2":7.0,
+    "3":-7.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "texas",
+      "prosecutor",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "campaigners",
+      "~opp",
+      "~"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico"
+    ],
+    "3":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "police",
+      "court",
+      "~copjud",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "barack obama"
+    ],
+    "1":[
+      "texas prosecutor",
+      "campaigners"
+    ],
+    "2":[
+      "senate",
+      "puerto rico"
+    ],
+    "3":[
+      "doj",
+      "police ... court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "barack obama"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states congress",
+      "puerto rico"
+    ],
+    "3":[
+      "united states department of justice",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... fighting"
+    ],
+    "1":[
+      "bought"
+    ],
+    "2":[
+      "help"
+    ],
+    "3":[
+      "would <['crack',> <'down']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usagov",
+      "190"
+    ],
+    "1":[
+      "usajud",
+      "---opp",
+      "061"
+    ],
+    "2":[
+      "usagovleg",
+      "usapri",
+      "070"
+    ],
+    "3":[
+      "usagov",
+      "---copjud",
+      "170"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.wsj.com\/article_email\/comcast-in-talks-to-buy-dreamworks-for-more-than-3-billion-1461720380-lMyQjAxMTE2MTI5NzcyMTcyWj",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tom-angel-emails_us_57211df8e4b0b49df6aa04cd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/corporations-lgbt-north-carolina_us_5720f5f4e4b0b49df6a9d76d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/obama-visit-flint_us_5720cf35e4b01a5ebde40bcf"
+  },
+  "headline":{
+    "0":"Comcast In Talks To Buy DreamWorks Animation For More Than $3 Billion",
+    "1":"Top LA Sheriff's Official Makes 'Disappointing' Apology For Racist Emails",
+    "2":"Corporations Opposed To North Carolina's Anti-LGBT Law Helped Elect Its Supporters",
+    "3":"Obama To Visit Flint In Wake Of Water Crisis"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Comcast Corp. is in talks to buy DreamWorks Animation SKG Inc. for more than $3 billion, according to people familiar with",
+    "1":"Tom Angel, the sheriff's chief of staff, said he regrets that the public saw jokes about Muslims, blacks and women.",
+    "2":"Corporate contributions helped elect the state's Republican legislative majority.",
+    "3":"The president will meet with a young girl who wrote him a letter."
+  },
+  "authors":{
+    "0":"",
+    "1":"Michael McLaughlin",
+    "2":"Paul Blumenthal",
+    "3":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2016-04-27 00:00:00",
+    "1":"2016-04-27 00:00:00",
+    "2":"2016-04-27 00:00:00",
+    "3":"2016-04-27 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"---copgov",
+    "2":"---bus",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"mncusamed",
+    "1":"---muscvl",
+    "2":"usa",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"010",
+    "2":"110",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":0.0,
+    "2":-2.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "comcast",
+      "mncusamed",
+      "comcast",
+      "dreamworks animation",
+      "mncusamed",
+      "dreamworks",
+      "animation"
+    ],
+    "1":[
+      "sheriff",
+      "chief of staff",
+      "~copgov",
+      "~",
+      "~",
+      "muslims",
+      "women",
+      "~muscvl",
+      "~",
+      "~"
+    ],
+    "2":[
+      "corporations",
+      "~bus",
+      "~",
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north carolina",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "comcast",
+      "comcast"
+    ],
+    "1":[
+      "sheriff ... chief of staff",
+      "muslims ... women"
+    ],
+    "2":[
+      "corporations",
+      "north carolina"
+    ],
+    "3":[
+      "president",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "comcast",
+      "comcast"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... buy"
+    ],
+    "1":[
+      "said ... regrets ... saw"
+    ],
+    "2":[
+      "opposed"
+    ],
+    "3":[
+      "will meet"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "mncusamed",
+      "061"
+    ],
+    "1":[
+      "---copgov",
+      "---muscvl",
+      "010"
+    ],
+    "2":[
+      "---bus",
+      "usa",
+      "110"
+    ],
+    "3":[
+      "---gov",
+      "---cvl",
+      "040"
+    ]
+  }
+}

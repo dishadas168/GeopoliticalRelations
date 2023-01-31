@@ -1,0 +1,293 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dan-rather-donald-trump-kant_us_5aab8900e4b0337adf82c2d9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trumps-bowling-ball-test-for-us-cars-is-just-a-goofy-ad_us_5aab4892e4b05b2217fd8fc2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mexico-lgbt-sex-workers-trafficking_us_5aabfbaee4b0337adf8382ed",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/dan-lipinski-susan-b-anthony-list-anti-abortion_us_5aac0938e4b0337adf839425",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/run-that-back-atlanta-stuntin_us_5aaa9b03e4b073bd8292adac",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/nikki-haley-russia-spy-poisoning_us_5aaa0ba7e4b0600b830012f3",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/russia-expel-uk-diplomats-skripal_us_5aaa3ff3e4b0004c04078609"
+  },
+  "headline":{
+    "0":"Dan Rather Subtly Zings Donald Trump With Immanuel Kant Quote About Lies",
+    "1":"Trump's 'Bowling Ball Test' for U.S. Cars Is Just A Goofy Ad",
+    "2":"Mexico\u2019s Sex Trafficking Laws Are Hurting The People They\u2019re Supposed To Protect",
+    "3":"Anti-Abortion Group Endorses Democrat Dan Lipinski In Illinois Primary",
+    "4":"Stuntin\u2019 Is A Habit: \u2018Atlanta\u2019 Shows Us That White Notions Of Success Will Never Work For Black People",
+    "5":"Nikki Haley Condemns Russia Over Spy Poisoning, Urges UN Action",
+    "6":"U.S., European Countries Bash Russia As Spy Poisoning Spat Intensifies"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"BLACK VOICES",
+    "5":"POLITICS",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"\u201cBy a lie a man throws away and, as it were, annihilates his dignity as a man.\"",
+    "1":"\"It's horrible the way they treat us,\" the angry president said of Japan.",
+    "2":"The country's law has become a tool to prosecute rather than protect sex workers.",
+    "3":"The congressman's primary challenger, Marie Newman, supports a woman's right to choose.",
+    "4":"\"Money is an idea, man. There's a reason why a white man dressed just like you can walk into a bank and get a loan and you can't even spend a $100 bill.\"",
+    "5":"Trump's government finally calls out Russia, but the president himself is keeping quiet.",
+    "6":"The move comes after Russia announced its intention to oust British diplomats."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Mary Papenfuss",
+    "2":"Katie Schlechter",
+    "3":"Laura Bassett",
+    "4":"Julia Craven and Taryn Finley",
+    "5":"Dominique Mosbergen",
+    "6":"Willa Frej"
+  },
+  "date":{
+    "0":"2018-03-16 00:00:00",
+    "1":"2018-03-16 00:00:00",
+    "2":"2018-03-16 00:00:00",
+    "3":"2018-03-16 00:00:00",
+    "4":"2018-03-16 00:00:00",
+    "5":"2018-03-15 00:00:00",
+    "6":"2018-03-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---gov",
+    "2":"mex",
+    "3":"---leg",
+    "4":"---ppl",
+    "5":"rus",
+    "6":"rus"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"jpn",
+    "2":"---ppl",
+    "3":"---cvl",
+    "4":"---ppl",
+    "5":"---gov",
+    "6":"gbr"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"180",
+    "3":"050",
+    "4":"071",
+    "5":"041",
+    "6":"174"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-9.0,
+    "3":3.5,
+    "4":7.4,
+    "5":1.0,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "japan",
+      "jpn",
+      "japan"
+    ],
+    "2":[
+      "mexico",
+      "mex",
+      "mexico",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "congressman",
+      "~leg",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "government",
+      "~gov",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "british",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "president",
+      "japan"
+    ],
+    "2":[
+      "mexico",
+      "people"
+    ],
+    "3":[
+      "congressman",
+      "woman"
+    ],
+    "4":[
+      "man",
+      "man"
+    ],
+    "5":[
+      "russia",
+      "government",
+      "government",
+      "russia"
+    ],
+    "6":[
+      "russia",
+      "british"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "japan"
+    ],
+    "2":[
+      "mexico",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "russian federation",
+      "---",
+      "---",
+      "russian federation"
+    ],
+    "6":[
+      "russian federation",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... annihilates"
+    ],
+    "1":[
+      "said"
+    ],
+    "2":[
+      "are hurting"
+    ],
+    "3":[
+      "supports"
+    ],
+    "4":[
+      "dressed <~ppl> ... get ... loan"
+    ],
+    "5":[
+      "calls",
+      "calls"
+    ],
+    "6":[
+      "announced ... oust ... diplomats"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "human_trafficking",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "jpn",
+      "010"
+    ],
+    "2":[
+      "mex",
+      "---ppl",
+      "180"
+    ],
+    "3":[
+      "---leg",
+      "---cvl",
+      "050"
+    ],
+    "4":[
+      "---ppl",
+      "---ppl",
+      "071"
+    ],
+    "5":[
+      "rus",
+      "---gov",
+      "041",
+      "---gov",
+      "rus",
+      "041"
+    ],
+    "6":[
+      "rus",
+      "gbr",
+      "174"
+    ]
+  }
+}

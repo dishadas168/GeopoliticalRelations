@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/college-rejection-doesnt-have-to-mean-frustration_b_6316862.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cia-torture-washington-is-shocked-shocked_b_6319788.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/men-embracing-gender-equality_b_6252302.html"
+  },
+  "headline":{
+    "0":"College Rejection Doesn't Have to Mean Frustration",
+    "1":"CIA Torture? Washington Is 'Shocked! Shocked!'",
+    "2":"Men Redefining the Glass Ceiling of Gender Inequality"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"POLITICS",
+    "2":"WOMEN"
+  },
+  "short_description":{
+    "0":"Students can do a great deal, both before and after applying, to ensure that they maintain their sanity, embrace colleges' decisions, and actually increase their chances of getting into their favored schools.",
+    "1":"As long as we are committed to this senseless War on Terror, the CIA will be asked by Presidents to do dark deeds. And to keep those deeds dark, so we can avoid facing up to \"what kind of people\" we are becoming.",
+    "2":"The movement for gender equality was originally conceived as a struggle for women's rights by women and only for women. With the HeForShe movement, men are invited and empowered to step up for the women in their lives."
+  },
+  "authors":{
+    "0":"Josh Stephens, ContributorCollege counselor and specialist in college application essays.",
+    "1":"Jeff Faux, ContributorJeff Faux, author of The Servant Economy",
+    "2":"Yasamin Beitollahi, ContributorDigital Media Professional, Huffington Post Contributor, Publi..."
+  },
+  "date":{
+    "0":"2014-12-13 00:00:00",
+    "1":"2014-12-13 00:00:00",
+    "2":"2014-12-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usaspy",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"020",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "~edu",
+      "~",
+      "colleges",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "presidents",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "students"
+    ],
+    "1":[
+      "presidents",
+      "cia"
+    ],
+    "2":[
+      "men",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "us intelligence community"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... increase"
+    ],
+    "1":[
+      "<usaspy> ... asked by <~gov>"
+    ],
+    "2":[
+      "are <['step',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "060"
+    ],
+    "1":[
+      "---gov",
+      "usaspy",
+      "020"
+    ],
+    "2":[
+      "---ppl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

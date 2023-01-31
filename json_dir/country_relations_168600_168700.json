@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/student-hospitalized-synthetic-marijuana-socastee-high-school_us_5b9cd6fbe4b03a1dcc824e7e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fat-tax_us_5b9cd528e4b03a1dcc823ee7"
+  },
+  "headline":{
+    "0":"Third Socastee High School Student Hospitalized For Reaction To Unknown Drug Believed To Be Synthetic Marijuana",
+    "1":"Food Fight: Fat Taxes Won't Slim Down Americans"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Sergeant Robert Kegler of the Horry County Police told local media outlet The Sun News that two Socastee students were also",
+    "1":"Politicians eager to raise more revenue for dwindling coffers caused in part by higher medical costs associated with obesity are now pigging out on the idea of implementing a \"fat tax\" of high caloric, sugary and fatty foods to curb American's unhealthy appetites."
+  },
+  "authors":{
+    "0":"Sara Gates",
+    "1":"Steven Kurlander, Contributor\nAttorney and Blogger"
+  },
+  "date":{
+    "0":"2013-02-20 00:00:00",
+    "1":"2013-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---pty"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "local media",
+      "~med",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "politicians",
+      "~pty",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "local media"
+    ],
+    "1":[
+      "politicians",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "are ... curb"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---pty",
+      "usa",
+      "170"
+    ]
+  }
+}

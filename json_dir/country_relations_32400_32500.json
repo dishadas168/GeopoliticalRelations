@@ -1,0 +1,235 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/human-rights-groups-senate-vote-trump-saudi-arms-deal_us_59389296e4b0c5a35c9be640",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/women-nevada-legislature_us_59399ce1e4b0c5a35c9d6b6a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/why-journalists-should-engage-with-their-readers-a_us_5939724fe4b094fa859f1651",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/france-creates-new-counter-terrorism-unit-after-notre-dame-attack_us_5937f50ae4b01fc18d3f2a72",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/wednesdays-morning-email-isis-claims-responsibility-for-dual-iran-attacks_us_5937dfe5e4b0ce1e7409412a"
+  },
+  "headline":{
+    "0":"41 Human Rights Groups Urge Senate To Block Trump's Saudi Arms Deal",
+    "1":"This Is What Happens When Women Get Elected",
+    "2":"Why Journalists Should Engage With Their Readers: A View From Slovakia",
+    "3":"France Creates New Counter-Terrorism Unit After Notre Dame Attack",
+    "4":"Wednesday's Morning Email: ISIS Claims Responsibility For Dual Iran Attacks"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"MEDIA",
+    "3":"WORLD NEWS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Senators will vote early next week on a small part of the president\u2019s $110 billion agreement. The deal's critics are cautiously optimistic.",
+    "1":"Nevada just enacted a slew of women's rights laws under a GOP governor.",
+    "2":"By building a strong relationship with its audience, Denn\u00edk N sought to offset the chronic dependence of media organisations",
+    "3":"On Tuesday, an Algerian student armed with a hammer attacked police officers outside the cathedral.",
+    "4":"Which would be the first time the Islamic State has struck within Iran's borders."
+  },
+  "authors":{
+    "0":"Akbar Shahid Ahmed",
+    "1":"Laura Bassett",
+    "2":"The Conversation Global, ContributorThe Conversation is a collaboration between editors and academ...",
+    "3":"",
+    "4":"Lauren Weber"
+  },
+  "date":{
+    "0":"2017-06-08 00:00:00",
+    "1":"2017-06-08 00:00:00",
+    "2":"2017-06-08 00:00:00",
+    "3":"2017-06-07 00:00:00",
+    "4":"2017-06-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"usa",
+    "2":"---med",
+    "3":"dzaedu",
+    "4":"imgmusisi"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"svk",
+    "3":"---cop",
+    "4":"irn"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060",
+    "2":"190",
+    "3":"190",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "nevada",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "journalists",
+      "~med",
+      "~",
+      "slovakia",
+      "svk",
+      "slovakia"
+    ],
+    "3":[
+      "algerian",
+      "student",
+      "dzaedu",
+      "algeria",
+      "~",
+      "algerian",
+      "student",
+      "dzaedu",
+      "algeria",
+      "~",
+      "police officers",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "the islamic state",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "iran",
+      "irn",
+      "iran"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "president"
+    ],
+    "1":[
+      "nevada",
+      "women"
+    ],
+    "2":[
+      "journalists",
+      "slovakia"
+    ],
+    "3":[
+      "algerian student",
+      "police officers"
+    ],
+    "4":[
+      "the ... islamic state",
+      "iran"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "slovakia"
+    ],
+    "3":[
+      "algeria",
+      "---"
+    ],
+    "4":[
+      "the islamic state",
+      "iran"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will vote"
+    ],
+    "1":[
+      "enacted"
+    ],
+    "2":[
+      "should engage"
+    ],
+    "3":[
+      "attacked"
+    ],
+    "4":[
+      "has struck"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "students",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---gov",
+      "030"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "060"
+    ],
+    "2":[
+      "---med",
+      "svk",
+      "190"
+    ],
+    "3":[
+      "dzaedu",
+      "---cop",
+      "190"
+    ],
+    "4":[
+      "imgmusisi",
+      "irn",
+      "190"
+    ]
+  }
+}

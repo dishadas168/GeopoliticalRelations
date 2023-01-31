@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/canadian-tourist-hawaii-robbed_us_55c5326be4b0f1cbf1e528de",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/secular-blogger-killed-in-bangladesh_us_55c4e4d8e4b0d9b743dbfc6f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mike-huckabee-and-marco-rubios-weird-legal-theory-about-abortion_us_55c42973e4b0f1cbf1e48b5e"
+  },
+  "headline":{
+    "0":"Canadian Tourist Gives Hawaii Man A Ride, Gets Robbed At Gunpoint",
+    "1":"Secular Blogger Killed In Bangladesh",
+    "2":"Mike Huckabee And Marco Rubio's Weird Legal Theory About Abortion"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"MEDIA",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"A Maui man, caught by cops who tracked the victim's stolen iPhone, was held for trial.",
+    "1":"This is the fourth deadly attack against a journalist in the country this year.",
+    "2":"A small group of conservatives believe the president or Congress can challenge the Supreme Court\u2019s interpretation of the Constitution."
+  },
+  "authors":{
+    "0":"Landess Kearns",
+    "1":"Julhas Alam, AP",
+    "2":"Daniel Marans"
+  },
+  "date":{
+    "0":"2015-08-08 00:00:00",
+    "1":"2015-08-07 00:00:00",
+    "2":"2015-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"cancvl",
+    "1":"---med",
+    "2":"---govleg"
+  },
+  "actor2":{
+    "0":"usappl",
+    "1":"bgd",
+    "2":"---jud"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"190",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-10.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "canadian",
+      "tourist",
+      "cancvl",
+      "canada",
+      "~",
+      "hawaii",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "blogger",
+      "~med",
+      "~",
+      "bangladesh",
+      "bgd",
+      "bangladesh"
+    ],
+    "2":[
+      "president",
+      "congress",
+      "~govleg",
+      "~",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "canadian tourist",
+      "hawaii man"
+    ],
+    "1":[
+      "blogger",
+      "bangladesh"
+    ],
+    "2":[
+      "president ... congress",
+      "supreme court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "canada",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "bangladesh"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "can challenge"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1",
+      "common_robbery",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "cancvl",
+      "usappl",
+      "060"
+    ],
+    "1":[
+      "---med",
+      "bgd",
+      "190"
+    ],
+    "2":[
+      "---govleg",
+      "---jud",
+      "110"
+    ]
+  }
+}

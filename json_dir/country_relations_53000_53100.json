@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/relentless-bombing-kills-150-more-in-aleppo-this-week_us_57ff7fc6e4b05eff5581c095",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/moving-photos-brazil-schools_us_57fe6c1ce4b0162c043945c5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/zombie-hunter-fires-into-house_us_57fe6b1fe4b0162c0439444b"
+  },
+  "headline":{
+    "0":"Relentless Bombing Kills 150 More In Aleppo This Week",
+    "1":"Moving Photos Look Back At How Brazil's Youth Fought To Save Their Schools",
+    "2":"Amateur 'Zombie' Hunter Allegedly Fires Into House, Nearly Kills Sleeping Man"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"The Syrian government, with Russian-backed forces, is trying to take back the city from rebels.",
+    "1":"Students occupied more than 200 schools in Sao Paulo last year, stopping a scheme to close down 94 schools in the Brazilian state.",
+    "2":"At least it's not clowns."
+  },
+  "authors":{
+    "0":"",
+    "1":"HuffPost Brazil, Rafael Nardini",
+    "2":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2016-10-13 00:00:00",
+    "1":"2016-10-12 00:00:00",
+    "2":"2016-10-12 00:00:00"
+  },
+  "actor1":{
+    "0":"syrgov",
+    "1":"---edu",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---reb",
+    "1":"braedu",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"192",
+    "1":"192",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":-9.5,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "syrian",
+      "government",
+      "syrgov",
+      "syria",
+      "~",
+      "rebels",
+      "~reb",
+      "~",
+      "rebels",
+      "~reb",
+      "~"
+    ],
+    "1":[
+      "students",
+      "~edu",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "sao paulo",
+      "bra",
+      "brazil",
+      "brazilian",
+      "bra",
+      "brazil",
+      "schools",
+      "braedu",
+      "~"
+    ],
+    "2":[
+      "hunter",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syrian government",
+      "rebels"
+    ],
+    "1":[
+      "students",
+      "schools"
+    ],
+    "2":[
+      "hunter",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "---"
+    ],
+    "1":[
+      "---",
+      ""
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... take <&town>"
+    ],
+    "1":[
+      "occupied"
+    ],
+    "2":[
+      "fires"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "2"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "syrgov",
+      "---reb",
+      "192"
+    ],
+    "1":[
+      "---edu",
+      "braedu",
+      "192"
+    ],
+    "2":[
+      "---cvl",
+      "---ppl",
+      "190"
+    ]
+  }
+}

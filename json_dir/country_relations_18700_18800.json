@@ -1,0 +1,214 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cnn-jake-tapper-fires-senior-producer-complaints_us_5a1f7a65e4b0a8581e67e92f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/collins-trump-mental-state_us_5a202183e4b0a8581e689f87",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/unnamed-american-isis-suspect-court-hearing-aclu-trump_us_5a2044dee4b0392a4ebc2396",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/unnamed-american-isis-suspect-trump-habeas-aclu_us_5a1f4520e4b0a8581e67db48",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/randi-zuckerberg-alaska-airlines_us_5a1f8983e4b0a8581e67ec9f"
+  },
+  "headline":{
+    "0":"CNN Fires Jake Tapper's Senior Producer After Behavior Complaints",
+    "1":"Susan Collins: 'No Reason To Be Concerned' That Trump Is Unhinged",
+    "2":"Federal Judge Slams Trump Administration's 'Circular Reasoning' For Imprisoning U.S. Citizen Without Access To Lawyer",
+    "3":"Trump Administration Is Illegally Denying Unnamed U.S. ISIS Suspect Access To Lawyers: ACLU",
+    "4":"Randi Zuckerberg Says Alaska Air Staff Enabled Drunk Passenger To Harass Her"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Three female colleagues reportedly came forward with the complaints.",
+    "1":"But the Maine GOP senator says it's not \"helpful\" that he promotes racist conspiracy theories.",
+    "2":"The judge ordered the government to tell her by 5 p.m. whether the prisoner has been advised of his rights and whether he has asked for a lawyer.",
+    "3":"The ACLU will argue that by keeping the suspect\u2019s name a secret, the government is effectively denying him access to justice.",
+    "4":"\"They have had to talk to him about his behavior in the past, but oh well don\u2019t take it personally, this guy just doesn\u2019t have a filter,\" the media entrepreneur said."
+  },
+  "authors":{
+    "0":"Rebecca Shapiro",
+    "1":"Igor Bobic",
+    "2":"Jessica Schulberg",
+    "3":"Jessica Schulberg",
+    "4":"Carla Herreria"
+  },
+  "date":{
+    "0":"2017-11-30 00:00:00",
+    "1":"2017-11-30 00:00:00",
+    "2":"2017-11-30 00:00:00",
+    "3":"2017-11-30 00:00:00",
+    "4":"2017-11-30 00:00:00"
+  },
+  "actor1":{
+    "0":"med",
+    "1":"---leg",
+    "2":"---jud",
+    "3":"ngousahri",
+    "4":"---medbus"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---leg",
+    "2":"---gov",
+    "3":"---gov",
+    "4":"---medbus"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"100",
+    "3":"110",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":-2.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "cnn",
+      "med",
+      "cnn",
+      "producer",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "judge",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "lawyer",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "media",
+      "entrepreneur",
+      "~medbus",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cnn",
+      "producer"
+    ],
+    "1":[
+      "senator",
+      "senator"
+    ],
+    "2":[
+      "judge",
+      "government"
+    ],
+    "3":[
+      "aclu",
+      "government"
+    ],
+    "4":[
+      "media entrepreneur",
+      "media entrepreneur"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cnn",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "american civil liberties union",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fires"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "ordered"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "have ... talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "discrimination",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "med",
+      "---bus",
+      "190"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "---jud",
+      "---gov",
+      "100"
+    ],
+    "3":[
+      "ngousahri",
+      "---gov",
+      "110"
+    ],
+    "4":[
+      "---medbus",
+      "---medbus",
+      "010"
+    ]
+  }
+}

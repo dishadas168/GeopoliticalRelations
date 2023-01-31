@@ -1,0 +1,150 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rob-portman-protest-arrests_us_595fedcfe4b0615b9e919250",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rob-portman-protest-arrests_us_595fedcfe4b0615b9e919250",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/g20-protest-hamburg_us_595e3c31e4b0615b9e8f8490"
+  },
+  "headline":{
+    "0":"Disability Advocates Arrested At Rob Portman's Columbus Office",
+    "1":"Disability Advocates Arrested At Rob Portman's Columbus Office",
+    "2":"Hamburg Police And Protesters Clash Violently As Trump Arrives For G-20 Summit"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Police said 15 people were arrested after they allegedly blocked medics from responding to a call in the building.",
+    "1":"Police said 15 people were arrested after they allegedly blocked medics from responding to a call in the building.",
+    "2":"German authorities are preparing for 100,000 demonstrators to hit the city."
+  },
+  "authors":{
+    "0":"Mollie Reilly",
+    "1":"Mollie Reilly",
+    "2":"Nick Robins-Early"
+  },
+  "date":{
+    "0":"2017-07-07 00:00:00",
+    "1":"2017-07-07 00:00:00",
+    "2":"2017-07-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---cop",
+    "2":"deugov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"---opp"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"173",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-5.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "advocates",
+      "~jud",
+      "~",
+      "rob portman",
+      "columbus",
+      "usa",
+      "rob",
+      "portman",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "german",
+      "authorities",
+      "deugov",
+      "germany",
+      "~",
+      "demonstrators",
+      "~opp",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocates",
+      "rob portman ... columbus"
+    ],
+    "1":[
+      "police",
+      "people"
+    ],
+    "2":[
+      "german authorities",
+      "demonstrators"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "rob portman united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "germany",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "arrested"
+    ],
+    "1":[
+      "said <~ppl> ... arrested"
+    ],
+    "2":[
+      "are preparing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "173"
+    ],
+    "1":[
+      "---cop",
+      "---ppl",
+      "173"
+    ],
+    "2":[
+      "deugov",
+      "---opp",
+      "030"
+    ]
+  }
+}

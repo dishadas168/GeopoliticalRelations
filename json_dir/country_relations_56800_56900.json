@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syrian-refugee-resettlement_us_57c471b6e4b0664f13c9b54c",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.bbc.com\/news\/world-latin-america-37211085?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central"
+  },
+  "headline":{
+    "0":"Obama Administration Hits Goal Of Welcoming 10,000 Syrian Refugees",
+    "1":"Farc's 'definitive' ceasefire takes effect in Colombia"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"They hit the target for resettlement one month early.",
+    "1":"A ceasefire has come into effect in Colombia between the main leftist rebel group and the government, ending one of the world\u2019s"
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":""
+  },
+  "date":{
+    "0":"2016-08-29 00:00:00",
+    "1":"2016-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"colreb"
+  },
+  "actor2":{
+    "0":"syrref",
+    "1":"col"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "farc",
+      "colreb",
+      "revolutionary",
+      "armed",
+      "forces",
+      "of",
+      "colombia",
+      "colombia",
+      "col",
+      "colombia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama administration",
+      "syrian refugees"
+    ],
+    "1":[
+      "farc",
+      "colombia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "syria"
+    ],
+    "1":[
+      "revolutionary armed forces of colombia",
+      "colombia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hits"
+    ],
+    "1":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "named_terror_group",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "syrref",
+      "190"
+    ],
+    "1":[
+      "colreb",
+      "col",
+      "171"
+    ]
+  }
+}

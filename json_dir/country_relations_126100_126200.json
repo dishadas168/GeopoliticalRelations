@@ -1,0 +1,82 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unignore-appalachia_b_5380038.html"
+  },
+  "headline":{
+    "0":"Un-Ignore Appalachia"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"A doctoral student at Columbia University complains that political scientists have been ignoring the 25 million residents of Appalachia. He is correct."
+  },
+  "authors":{
+    "0":"Glen Browder, ContributorFormer Congressman, Alabama; Professor Emeritus, Jacksonville ..."
+  },
+  "date":{
+    "0":"2014-05-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"114"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "university",
+      "~edu",
+      "~",
+      "doctoral student",
+      "university",
+      "~edu",
+      "~",
+      "~",
+      "scientists",
+      "~cvl",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "university",
+      "scientists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---cvl",
+      "114"
+    ]
+  }
+}

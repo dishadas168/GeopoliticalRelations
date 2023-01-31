@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/san-bernardino-fbi-investigation-terrorism_us_56625ab5e4b072e9d1c66562",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-kerry-warns-israel-against-dangerous-collapse-of-palestinian-authority_us_56636251e4b079b2818ef225",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/three-injured-in-knife-attack-terror-incident-in-london-metro_us_56636ccde4b072e9d1c675ca"
+  },
+  "headline":{
+    "0":"FBI Investigating California Massacre As 'Act Of Terrorism'",
+    "1":"John Kerry Warns Israel Against Collapse Of Palestinian Authority",
+    "2":"3 Injured After Knife 'Terror Attack' In London Underground"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"PLEDGE OF ALLEGIANCE One startling disclosure came from social media network Facebook, which confirmed that comments praising",
+    "1":"Secretary of State John Kerry warned Israel on Saturday about the dangers of the possible collapse of the Palestinian Authority",
+    "2":"LONDON, Dec 5 (Reuters) - A man with a knife stabbed another in an east London metro station on Saturday evening, reportedly"
+  },
+  "authors":{
+    "0":"Dan Whitcomb and Mark Hosenball, Reuters",
+    "1":"Matthew Lee, AP",
+    "2":""
+  },
+  "date":{
+    "0":"2015-12-05 00:00:00",
+    "1":"2015-12-05 00:00:00",
+    "2":"2015-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"usagov",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"isr",
+    "2":"gbr"
+  },
+  "event_code":{
+    "0":"094",
+    "1":"130",
+    "2":"182"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-4.4,
+    "2":-9.5
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "israel",
+      "isr",
+      "israel",
+      "palestinian authority",
+      "psegov",
+      "palestinian",
+      "authority"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "california"
+    ],
+    "1":[
+      "john kerry",
+      "israel"
+    ],
+    "2":[
+      "man",
+      "london"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "united states of america"
+    ],
+    "1":[
+      "john kerry",
+      "israel"
+    ],
+    "2":[
+      "---",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "investigating ... massacre"
+    ],
+    "1":[
+      "warned"
+    ],
+    "2":[
+      "stabbed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1",
+      "terror",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usa",
+      "094"
+    ],
+    "1":[
+      "usagov",
+      "isr",
+      "130"
+    ],
+    "2":[
+      "---ppl",
+      "gbr",
+      "182"
+    ]
+  }
+}

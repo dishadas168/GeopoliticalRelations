@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/third-metric_us_5b9de7a6e4b03a1dcc8e7842"
+  },
+  "headline":{
+    "0":"The Third Metric: Beyond the Self"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"In preparation for The Third Metric's upcoming event Thrive in New York, D.C. and Los Angeles, industry leaders attended a special session at NYC Social Media Week."
+  },
+  "authors":{
+    "0":"Allison Heaps, Contributor\nCorporate Wellness Advocate"
+  },
+  "date":{
+    "0":"2014-03-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "industry",
+      "~bus",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "industry",
+      "industry",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "attended",
+      "attended"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---bus",
+      "043",
+      "---bus",
+      "---med",
+      "042"
+    ]
+  }
+}

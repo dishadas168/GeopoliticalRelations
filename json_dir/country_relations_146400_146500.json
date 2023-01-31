@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/american-foreign-airlines-perks_us_5b9d94cde4b03a1dcc89ce23"
+  },
+  "headline":{
+    "0":"Foreign Airline Perks Have Convinced Us Never, Ever To Fly Domestic Again"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"It shouldn't surprise you that American airlines fail to top \"World's Best Airline\" lists. All airlines have their issues"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-10-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usabus"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"120"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "airlines",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "airline",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american airlines",
+      "airline"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fail"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usabus",
+      "---bus",
+      "120"
+    ]
+  }
+}

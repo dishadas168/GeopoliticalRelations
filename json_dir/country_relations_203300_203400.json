@@ -1,0 +1,209 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/narcissism_us_5b9b4d42e4b03a1dcc7674d5",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/thegrindstone.com\/office-politics\/the-newest-wage-gap-pits-working-moms-against-working-women-861\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/airline-fat-tax-uk-court_us_5b9b4d91e4b03a1dcc767876",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/airline-fat-tax-uk-court_us_5b9b4d91e4b03a1dcc767876",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/lessons-from-the-shoe-mus_us_5b9b4e1de4b03a1dcc767dc1"
+  },
+  "headline":{
+    "0":"Big Men on Campus, Beware: Your Ego May Be Harming You",
+    "1":"The Newest Wage Gap Pits Working Moms Against Working Women",
+    "2":"Airline Fat Tax: U.K. Court Of Appeals Ruling Could Lead The Way For An Overweight Passenger Tax (POLL)",
+    "3":"Airline Fat Tax: U.K. Court Of Appeals Ruling Could Lead The Way For An Overweight Passenger Tax (POLL)",
+    "4":"Lessons From the Shoe Museum"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"PARENTING",
+    "2":"TRAVEL",
+    "3":"TRAVEL",
+    "4":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Mirror, mirror, on the wall, who's the sickest of them all?  A new study says it might be the guys who are always looking in the mirror!",
+    "1":"Apparently it really pays to not have kids. Moms earn up to 14% less than women who don\u2019t have children, says a recent University",
+    "2":"The court cited the Montreal Convention in the case, which governs air travel rules. English lawyer Daniel Barnett explains",
+    "3":"The court cited the Montreal Convention in the case, which governs air travel rules. English lawyer Daniel Barnett explains",
+    "4":"The Bata Shoe Museum in Toronto bills itself as being \"for the curious,\" and I certainly was."
+  },
+  "authors":{
+    "0":"John Whyte, M.D., MPH, Contributor\nPhysician, Author, Former Chief Medical Expert at Discovery Ch...",
+    "1":"",
+    "2":"",
+    "3":"",
+    "4":"Lillian Daniel, Contributor\nAuthor of TIRED OF APOLOGIZING FOR A CHURCH I DON'T BELONG TO,..."
+  },
+  "date":{
+    "0":"2012-02-09 00:00:00",
+    "1":"2012-02-09 00:00:00",
+    "2":"2012-02-09 00:00:00",
+    "3":"2012-02-09 00:00:00",
+    "4":"2012-02-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl",
+    "2":"gbrjud",
+    "3":"---jud",
+    "4":"can"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"can",
+    "4":"can"
+  },
+  "event_code":{
+    "0":"180",
+    "1":"010",
+    "2":"042",
+    "3":"010",
+    "4":"170"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":0.0,
+    "2":1.9,
+    "3":0.0,
+    "4":-7.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "u.k.",
+      "court",
+      "gbrjud",
+      "united",
+      "kingdom",
+      "~",
+      "passenger",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "the court",
+      "~jud",
+      "~",
+      "montreal",
+      "can",
+      "canada"
+    ],
+    "4":[
+      "toronto",
+      "can",
+      "canada"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "men"
+    ],
+    "1":[
+      "women",
+      "university"
+    ],
+    "2":[
+      "u.k. court",
+      "passenger"
+    ],
+    "3":[
+      "the court",
+      "montreal"
+    ],
+    "4":[
+      "toronto",
+      "toronto"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "---"
+    ],
+    "3":[
+      "---",
+      "canada"
+    ],
+    "4":[
+      "canada",
+      "canada"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "beware ... harming"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "could lead ... for"
+    ],
+    "3":[
+      "cited"
+    ],
+    "4":[
+      "bills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "180"
+    ],
+    "1":[
+      "---cvl",
+      "---edu",
+      "010"
+    ],
+    "2":[
+      "gbrjud",
+      "---cvl",
+      "042"
+    ],
+    "3":[
+      "---jud",
+      "can",
+      "010"
+    ],
+    "4":[
+      "can",
+      "can",
+      "170"
+    ]
+  }
+}

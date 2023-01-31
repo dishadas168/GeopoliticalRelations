@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scott-walker-trump-refugees_us_585955dee4b0b3ddfd8ec448",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/berlin-christmas-market-attack_us_5858cecbe4b0b3ddfd8e82c5"
+  },
+  "headline":{
+    "0":"Scott Walker Asks Donald Trump For More Power Over Refugee Resettlement",
+    "1":"Police Assume Truck Was Deliberately Driven Into Berlin Christmas Market"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Wisconsin governor once tried to block Syrian refugees from his state.",
+    "1":"The suspected terrorist attack killed  12 people and injured 48 others."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"By Michelle Martin, Reuters"
+  },
+  "date":{
+    "0":"2016-12-20 00:00:00",
+    "1":"2016-12-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---uaf"
+  },
+  "actor2":{
+    "0":"syrref",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"160",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "terrorist",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "syrian refugees"
+    ],
+    "1":[
+      "terrorist",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tried ... block ... from"
+    ],
+    "1":[
+      "<and> ... killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "syrref",
+      "160"
+    ],
+    "1":[
+      "---uaf",
+      "---ppl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-temporarily-spares-bob-mcdonnell-from-prison-again_us_55e4ac80e4b0c818f618c551",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-wants-his-alaska-trip-to-be-the-punctuation-mark-on-his-climate-legacy_us_55e46f5ce4b0c818f6187092",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/university-of-kentucky-survey-finds-most-sexual-assault-cases-on-campus-go-unreported_us_55e4b335e4b0c818f618cc37",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-grounds-free-speech_us_55e30338e4b0c818f6182b72",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/germany-refugees-migrant-crisis_us_55e301a2e4b0aec9f3538e7b",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/sunday-roundup_404_b_8059790.html"
+  },
+  "headline":{
+    "0":"Supreme Court Temporarily Spares Bob McDonnell From Prison... Again",
+    "1":"Obama Wants His Alaska Trip To Be The 'Punctuation Mark' On His Climate Legacy",
+    "2":"University Of Kentucky Survey Finds Most Sexual Assault Cases On Campus Go Unreported",
+    "3":"Off Their Front Porch: Protesters Have No Free-Speech Rights On Supreme Court Plaza",
+    "4":"Germany Wants Other European Nations To Take In More Refugees",
+    "5":"Sunday Roundup"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"COLLEGE",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The court's move effectively allows the former governor to stay out of prison while he files a formal appeal.",
+    "1":"WASHINGTON (Reuters) - President Barack Obama sets off for a three-day tour of Alaska on Monday, aiming to shine a spotlight",
+    "2":"Nearly 5 percent of students at the University of Kentucky say they were sexually assaulted in the past year, but most of the cases went unreported, according to a survey conducted by the college.",
+    "3":"An appellate court ruled the Constitution doesn't apply with equal force on the high court's plaza.",
+    "4":"\"Germany and a few other countries are by far ... those that receive the most refugees.\"",
+    "5":"This week brought powerful reminders of what happens when a government fails its citizens. On Wednesday, as the nation continued to mark the 10th anniversary of Hurricane Katrina's unnecessarily tragic destruction of a uniquely American city, the nation woke to yet another uniquely American tragedy, as two Roanoke-based news staffers -- reporter Alison Parker, and cameraman Adam Ward -- were gunned down on live television. It was the beginning of a news cycle we know all too well: shock, outrage, calls for sensible guns laws, and then, if past is prologue, nothing. Since the Newtown shootings in 2012, nearly 85,000 Americans have been killed by guns -- yet common sense gun legislation proposed at the time by President Obama continues to languish. On Thursday, the president called Katrina \"a man-made disaster, a failure of government to look out for its own citizens.\" The same could be said of Roanoke."
+  },
+  "authors":{
+    "0":"Cristian Farias",
+    "1":"Roberta Rampton, Reuters",
+    "2":"STEVE BITTENBENDER, Reuters",
+    "3":"Cristian Farias",
+    "4":"",
+    "5":"Arianna Huffington, Contributor"
+  },
+  "date":{
+    "0":"2015-08-31 00:00:00",
+    "1":"2015-08-31 00:00:00",
+    "2":"2015-08-31 00:00:00",
+    "3":"2015-08-30 00:00:00",
+    "4":"2015-08-30 00:00:00",
+    "5":"2015-08-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usagov",
+    "2":"usaedu",
+    "3":"---jud",
+    "4":"deu",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"usaedu",
+    "3":"---jud",
+    "4":"---ref",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"030",
+    "2":"015",
+    "3":"020",
+    "4":"171",
+    "5":"041"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":4.0,
+    "2":0.0,
+    "3":3.0,
+    "4":-9.2,
+    "5":1.0
+  },
+  "nouns":{
+    "0":[
+      "the court",
+      "~jud",
+      "~",
+      "governor",
+      "~gov",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "university",
+      "usaedu",
+      "~",
+      "students",
+      "usaedu",
+      "~"
+    ],
+    "3":[
+      "appellate court",
+      "~jud",
+      "~",
+      "high court",
+      "~jud",
+      "~",
+      "high court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "germany",
+      "deu",
+      "germany",
+      "refugees",
+      "~ref",
+      "~"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "citizens",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the court",
+      "governor"
+    ],
+    "1":[
+      "obama",
+      "alaska"
+    ],
+    "2":[
+      "university",
+      "university"
+    ],
+    "3":[
+      "appellate court",
+      "appellate court"
+    ],
+    "4":[
+      "germany",
+      "refugees"
+    ],
+    "5":[
+      "president",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ],
+    "2":[
+      "",
+      ""
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "germany",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "allows"
+    ],
+    "1":[
+      "wants"
+    ],
+    "2":[
+      "say <usaedu> ... assaulted in <--->"
+    ],
+    "3":[
+      "ruled ... apply"
+    ],
+    "4":[
+      "wants ... take"
+    ],
+    "5":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "2"
+    ],
+    "3":null,
+    "4":[
+      "refugees",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "08"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "usaedu",
+      "usaedu",
+      "015"
+    ],
+    "3":[
+      "---jud",
+      "---jud",
+      "020"
+    ],
+    "4":[
+      "deu",
+      "---ref",
+      "171"
+    ],
+    "5":[
+      "---gov",
+      "---gov",
+      "041"
+    ]
+  }
+}

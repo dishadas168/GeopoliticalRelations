@@ -1,0 +1,461 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/myanmar-reuters-journalists-convicted_n_5b8ced0be4b0511db3da4d82",
+    "1":"https:\/\/www.huffpost.com\/entry\/3-salvadoran-children-sexually-abused-in-us-immigrant-shelters_n_5b8b5f3be4b0162f4724303e",
+    "2":"https:\/\/www.huffpost.com\/entry\/george-w-bush-john-mccain-eulogy-memorial_n_5b8ad3bde4b0162f47240367",
+    "3":"https:\/\/www.huffpost.com\/entry\/australia-catholic-church-confessions-abuse_n_5b88d319e4b0cf7b00340565",
+    "4":"https:\/\/www.huffpost.com\/entry\/chelsesa-manning-australia-ban_n_5b87443ce4b0511db3d48700",
+    "5":"https:\/\/www.huffpost.com\/entry\/russia-war-games-cold-war_n_5b864f46e4b0cf7b00305ab2",
+    "6":"https:\/\/www.huffpost.com\/entry\/politicians-react-john-mccain-death_n_5b81f6a0e4b0cd327dfd51a0",
+    "7":"https:\/\/www.huffpost.com\/entry\/saudi-arabia-seeks-its-first-death-penalty-against-female-human-rights-activist_n_5b7d5ac6e4b07295150eb234",
+    "8":"https:\/\/www.huffpost.com\/entry\/trump-border-patrol-agent-english_n_5b7b1aefe4b0a5b1febdf13e",
+    "9":"https:\/\/www.huffpost.com\/entry\/man-detained-by-ice-wanted-mexico_n_5b79997be4b018b93e94dfe1",
+    "10":"https:\/\/www.huffpost.com\/entry\/world-powers-know-they-want-business-with-china-they-dont-know-how-to-handle-its-crackdown-on-millions-of-muslim-citizens_n_5b771105e4b05906b4136645"
+  },
+  "headline":{
+    "0":"Reuters Journalists In Myanmar Sentenced To 7 Years In Prison For Breaching State Secrets Act",
+    "1":"El Salvador Official Says 3 Children Were Sexually Abused In U.S. Shelters",
+    "2":"George W. Bush Recalls John McCain\u2019s Distaste For \u2018Bigots\u2019 And \u2018Despots\u2019 In Eulogy",
+    "3":"Australian Catholic Church Rejects Laws Forcing Priests To Report Abuse Confessions",
+    "4":"Australian Government Prepares To Bar Chelsea Manning From Entering The Country",
+    "5":"Russia Will Hold Its Biggest War Games Since The End Of The Cold War",
+    "6":"Politicians Grieve John McCain's Death With Touching Tributes",
+    "7":"Saudi Arabia Seeks Its First Death Penalty Against Female Human Rights Activist",
+    "8":"Trump Praises Border Patrol Agent Who 'Speaks Perfect English\u2019 At Immigration Event",
+    "9":"ICE: Man Detained Driving Pregnant Wife To Hospital Was Wanted For Murder",
+    "10":"World Leaders Opt For China's Money Over The Rights Of 1 Million Jailed Muslims"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"U.S. NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"WORLD NEWS",
+    "6":"POLITICS",
+    "7":"WORLD NEWS",
+    "8":"U.S. NEWS",
+    "9":"U.S. NEWS",
+    "10":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The two reporters had been investigating a massacre of Rohingya villagers when they were arrested last year.",
+    "1":"The \"psychological and emotional impact is forever,\" the official said.",
+    "2":"The former president paid tribute to the late senator while delivering what appeared to be a jab at Donald Trump.",
+    "3":"The country\u2019s top Catholic body claims \"children will be less, rather than more, safe if mandatory reporting of confessions were required.\u201d",
+    "4":"The American whistleblower is scheduled to give a speech at the Sydney Opera House this weekend.",
+    "5":"The military drills will involve almost 300,000 troops.",
+    "6":"The senator earned respect from both sides of the aisle, and tributes from the likes of Barack Obama, Bernie Sanders and Paul Ryan are proof.",
+    "7":"Five activists are on trial including Israa al-Ghomgham, the first woman to possibly face the death penalty for non-violent offenses.",
+    "8":"The president was recognizing Adrian Anzaldua's discovery of 78 undocumented immigrants in a trailer in Texas.",
+    "9":"An arrest warrant obtained by the Los Angeles Times lists Joel Arrona-Lara as one of three men wanted for a fatal beating in Mexico.",
+    "10":"From the U.S. to Russia, Saudi Arabia to Iran, the desire for Chinese cash unites the international community and leaves the Uighurs' prospects looking bleak."
+  },
+  "authors":{
+    "0":"Simon Lewis and Thu Thu Aung, Reuters",
+    "1":"Mary Papenfuss",
+    "2":"Nina Golgowski",
+    "3":"Byron Kaye and Colin Packham, Reuters",
+    "4":"David Barden",
+    "5":"Andrew Osborn, Reuters",
+    "6":"Carla Herreria Russo and Hayley Miller",
+    "7":"Stephen Kalin, Reuters",
+    "8":"Nina Golgowski",
+    "9":"Nina Golgowski",
+    "10":"Akbar Shahid Ahmed"
+  },
+  "date":{
+    "0":"2018-09-03 00:00:00",
+    "1":"2018-09-02 00:00:00",
+    "2":"2018-09-01 00:00:00",
+    "3":"2018-08-31 00:00:00",
+    "4":"2018-08-30 00:00:00",
+    "5":"2018-08-29 00:00:00",
+    "6":"2018-08-26 00:00:00",
+    "7":"2018-08-22 00:00:00",
+    "8":"2018-08-20 00:00:00",
+    "9":"2018-08-19 00:00:00",
+    "10":"2018-08-18 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"slv",
+    "2":"---eli",
+    "3":"aus",
+    "4":"usa",
+    "5":"---mil",
+    "6":"---pty",
+    "7":"sau",
+    "8":"---gov",
+    "9":"---ppl",
+    "10":"sau"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---leg",
+    "3":"---rel",
+    "4":"aus",
+    "5":"---mil",
+    "6":"usagovleg",
+    "7":"---opp",
+    "8":"usacvl",
+    "9":"mex",
+    "10":"---cvl"
+  },
+  "event_code":{
+    "0":"094",
+    "1":"010",
+    "2":"017",
+    "3":"170",
+    "4":"060",
+    "5":"012",
+    "6":"017",
+    "7":"030",
+    "8":"051",
+    "9":"030",
+    "10":"040"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-7.0,
+    "4":6.0,
+    "5":-0.4,
+    "6":0.0,
+    "7":4.0,
+    "8":3.4,
+    "9":4.0,
+    "10":1.0
+  },
+  "nouns":{
+    "0":[
+      "reporters",
+      "~med",
+      "~",
+      "villagers",
+      "~cvl",
+      "~",
+      "villagers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "el salvador",
+      "slv",
+      "el",
+      "salvador",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "former president",
+      "~eli",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "australian",
+      "aus",
+      "australia",
+      "priests",
+      "~rel",
+      "~"
+    ],
+    "4":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "sydney",
+      "aus",
+      "australia"
+    ],
+    "5":[
+      "military",
+      "~mil",
+      "~",
+      "troops",
+      "~mil",
+      "~"
+    ],
+    "6":[
+      "politicians",
+      "~pty",
+      "~",
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain"
+    ],
+    "7":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "activist",
+      "~opp",
+      "~"
+    ],
+    "8":[
+      "president",
+      "~gov",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "immigrants",
+      "usacvl",
+      "~"
+    ],
+    "9":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "mexico",
+      "mex",
+      "mexico"
+    ],
+    "10":[
+      "chinese",
+      "chn",
+      "china",
+      "iran",
+      "irn",
+      "iran",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "reporters",
+      "villagers"
+    ],
+    "1":[
+      "el salvador",
+      "children"
+    ],
+    "2":[
+      "former president",
+      "senator"
+    ],
+    "3":[
+      "australian",
+      "priests"
+    ],
+    "4":[
+      "american",
+      "sydney"
+    ],
+    "5":[
+      "military",
+      "military"
+    ],
+    "6":[
+      "politicians",
+      "john mccain"
+    ],
+    "7":[
+      "saudi arabia",
+      "activist"
+    ],
+    "8":[
+      "president",
+      "immigrants"
+    ],
+    "9":[
+      "men",
+      "mexico"
+    ],
+    "10":[
+      "saudi arabia",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "el salvador",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "australia",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "australia"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "john mccain"
+    ],
+    "7":[
+      "saudi arabia",
+      "---"
+    ],
+    "8":[
+      "---",
+      ""
+    ],
+    "9":[
+      "---",
+      "mexico"
+    ],
+    "10":[
+      "saudi arabia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had ... investigating ... massacre"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "paid tribute"
+    ],
+    "3":[
+      "forcing"
+    ],
+    "4":[
+      "is ... give"
+    ],
+    "5":[
+      "will involve"
+    ],
+    "6":[
+      "grieve ... death"
+    ],
+    "7":[
+      "seeks"
+    ],
+    "8":[
+      "was recognizing"
+    ],
+    "9":[
+      "wanted"
+    ],
+    "10":[
+      "<and> ... unites"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1"
+    ],
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":[
+      "human_rights",
+      "1",
+      "activism",
+      "1"
+    ],
+    "8":[
+      "id_immigration",
+      "1"
+    ],
+    "9":null,
+    "10":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "094"
+    ],
+    "1":[
+      "slv",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---eli",
+      "---leg",
+      "017"
+    ],
+    "3":[
+      "aus",
+      "---rel",
+      "170"
+    ],
+    "4":[
+      "usa",
+      "aus",
+      "060"
+    ],
+    "5":[
+      "---mil",
+      "---mil",
+      "012"
+    ],
+    "6":[
+      "---pty",
+      "usagovleg",
+      "017"
+    ],
+    "7":[
+      "sau",
+      "---opp",
+      "030"
+    ],
+    "8":[
+      "---gov",
+      "usacvl",
+      "051"
+    ],
+    "9":[
+      "---ppl",
+      "mex",
+      "030"
+    ],
+    "10":[
+      "sau",
+      "---cvl",
+      "040"
+    ]
+  }
+}

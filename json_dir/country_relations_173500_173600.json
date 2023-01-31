@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/basketball-afghanistan_us_5bb1a18ee4b01857b7090c51",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/same-sex-marriage-in-main_us_5b9cac76e4b03a1dcc80c405",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.buzzfeed.com\/rosiegray\/american-families-crushed-by-russian-adoption-ban"
+  },
+  "headline":{
+    "0":"Basketball Diaries: Afghanistan",
+    "1":"Same-Sex Marriage In Maine: The First Wedding (PHOTOS)",
+    "2":"American Families Crushed By Russian Adoption Ban"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"WEDDINGS",
+    "2":"PARENTING"
+  },
+  "short_description":{
+    "0":"Most of the Afghan basketball players stepped on the court barefoot; a few wore sandals, others worn-out dress shoes. In time, the hazy fog of Afghan players coalesced into human beings with names: Big Boy Nasrat, Fleet-footed Sudir, Haji Najib, Young Azar, Engineer Izatullah, Lefty Ashoq.",
+    "1":"The same-sex marriage law that voters passed in November went into effect at midnight on December 29th. Maine joins Washington",
+    "2":"Bill and Val Deutsch yesterday completed the first major step in their process of adopting two orphans from Russia: they"
+  },
+  "authors":{
+    "0":"Peretz Partensky, Contributor\nCo-founder Sourcery.us",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2012-12-30 00:00:00",
+    "1":"2012-12-29 00:00:00",
+    "2":"2012-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"afg",
+    "1":"usa",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"rus"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"040",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "afghan",
+      "afg",
+      "afghanistan",
+      "engineer",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "maine",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "afghan",
+      "engineer"
+    ],
+    "1":[
+      "maine",
+      "maine"
+    ],
+    "2":[
+      "american",
+      "russian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "afghanistan",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "coalesced"
+    ],
+    "1":[
+      "joins"
+    ],
+    "2":[
+      "crushed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "afg",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "rus",
+      "190"
+    ]
+  }
+}

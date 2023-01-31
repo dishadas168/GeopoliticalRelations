@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/santa-pays-a-virtual-visit_us_5bb1a168e4b01857b70909a8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dressing-the-queen-the-jubilee-wardrobe-book-queen-elizabeth_us_5b9caa37e4b03a1dcc80af45",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-best-time-to-discuss_us_5bad10ebe4b04234e8566961"
+  },
+  "headline":{
+    "0":"Santa Pays a Virtual Visit to Hospitalized Kids",
+    "1":"'Dressing The Queen: The Jubilee Wardrobe' Reveals Queen Elizabeth's Fashion Secrets (VIDEO)",
+    "2":"NRA Says Hansel and Gretel Should Have Had Guns"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"STYLE & BEAUTY",
+    "2":"COMEDY"
+  },
+  "short_description":{
+    "0":"Through the magic of Cisco's video collaboration technologies, children virtually connect to the \"North Pole\" and are able to share their holiday wishes and Christmas lists with Santa directly.",
+    "1":"For starters, she ALWAYS wears underwear.",
+    "2":"The National Rifle-Manufacturer Association (NRA) held a press conference in Washington, D.C. to offer \"meaningful contributions\" in the debate about education reform."
+  },
+  "authors":{
+    "0":"Blair Christie, Contributor\nSenior Vice President and Chief Marketing Officer, Cisco",
+    "1":"Ellie Krupnick",
+    "2":"Jalees Rehman, M.D., Contributor\nScientist and Physician"
+  },
+  "date":{
+    "0":"2012-12-25 00:00:00",
+    "1":"2012-12-24 00:00:00",
+    "2":"2012-12-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"'mamohato_",
+    "2":"---bus"
+  },
+  "actor2":{
+    "0":"pol",
+    "1":"'mamohato_",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"050",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.5,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "pole",
+      "pol",
+      "poland"
+    ],
+    "1":[
+      "queen",
+      "'mamohato_",
+      "queen",
+      "queen",
+      "'mamohato_",
+      "queen"
+    ],
+    "2":[
+      "manufacturer",
+      "~bus",
+      "~",
+      "washington d.c.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "pole"
+    ],
+    "1":[
+      "queen",
+      "queen"
+    ],
+    "2":[
+      "manufacturer",
+      "washington ... d.c."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "poland"
+    ],
+    "1":[
+      "queen",
+      "queen"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... connect"
+    ],
+    "1":[
+      "reveals"
+    ],
+    "2":[
+      "held ... conference"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "education_reform",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "pol",
+      "060"
+    ],
+    "1":[
+      "'mamohato_",
+      "'mamohato_",
+      "050"
+    ],
+    "2":[
+      "---bus",
+      "usa",
+      "040"
+    ]
+  }
+}

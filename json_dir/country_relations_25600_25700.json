@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-voter-fraud_us_59a72016e4b0a8d14572d490",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/petition-fema-funding-border-wall_us_59a6e5d0e4b084581a14e6d2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/using-twitter-to-save-a-newborn-from-a-flood_us_59a6fb3ce4b05fa16286bef7",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/inflating-the-russian-threat_us_59a5ca85e4b08299d89d0a74"
+  },
+  "headline":{
+    "0":"Even DOJ Lawyers Admit Trump's Voter Fraud Panel Got Off To A Rocky Start",
+    "1":"Petition Urges Congress To Fund FEMA, Not Trump\u2019s Border Wall",
+    "2":"Using Twitter To Save A Newborn From A Flood",
+    "3":"Inflating The Russian Threat"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"TECH",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"A Justice Department lawyer also apologized to a federal judge for the commission's failure to disclose documents ahead of a meeting.",
+    "1":"President Donald Trump has threatened a government shutdown over funding for the wall, while proposing to cut federal funds for the disaster relief agency.",
+    "2":"Social media provided stranded people with a digital megaphone that could be carried far beyond Harvey\u2019s path.",
+    "3":"U.S. media are exaggerating the military threat posed by the Kremlin."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Kaeli Subberwal",
+    "2":"The Atlantic, ContributorExploring the American idea since 1857",
+    "3":"Jonathan Marshall, ContributorIndependent scholar and journalist"
+  },
+  "date":{
+    "0":"2017-08-30 00:00:00",
+    "1":"2017-08-30 00:00:00",
+    "2":"2017-08-30 00:00:00",
+    "3":"2017-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"---med",
+    "3":"usamed"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"---mil"
+  },
+  "event_code":{
+    "0":"055",
+    "1":"130",
+    "2":"060",
+    "3":"060"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-4.4,
+    "2":6.0,
+    "3":6.0
+  },
+  "nouns":{
+    "0":[
+      "lawyer",
+      "~jud",
+      "~",
+      "federal judge",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "media",
+      "~med",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "u.s.",
+      "media",
+      "usamed",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "military",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "lawyer"
+    ],
+    "1":[
+      "president",
+      "president"
+    ],
+    "2":[
+      "media",
+      "people"
+    ],
+    "3":[
+      "u.s. media",
+      "military"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "apologized"
+    ],
+    "1":[
+      "has threatened"
+    ],
+    "2":[
+      "provided"
+    ],
+    "3":[
+      "are exaggerating"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "humanitarian_crisis",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "055"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "130"
+    ],
+    "2":[
+      "---med",
+      "---ppl",
+      "060"
+    ],
+    "3":[
+      "usamed",
+      "---mil",
+      "060"
+    ]
+  }
+}

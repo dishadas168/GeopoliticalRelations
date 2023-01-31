@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/att-trump-corporate-tax-cut-bonus_us_5a3ae007e4b025f99e145c88",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/alabama-voter-fraud-investigation_us_5a39468fe4b0fc99878f1ac0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/alabama-voter-fraud-investigation_us_5a39468fe4b0fc99878f1ac0",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/china-carbon-market_us_5a38c978e4b0860bf4aab4b8"
+  },
+  "headline":{
+    "0":"AT&T Hands Trump A Reason To Boast As Firm Faces Critical DOJ Lawsuit",
+    "1":"Alabama Conducts Voter Fraud Investigation Based On Man's Off-The-Cuff Comment",
+    "2":"Alabama Conducts Voter Fraud Investigation Based On Man's Off-The-Cuff Comment",
+    "3":"China Unveils World's Largest Carbon Market"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Can you say \u201csmooth PR move\u201d?",
+    "1":"The Secretary of State's Office said Thursday that the man in question is indeed a registered voter in the state.",
+    "2":"The Secretary of State's Office said Thursday that the man in question is indeed a registered voter in the state.",
+    "3":"The move shows China is taking the lead on climate change as the U.S. retreats."
+  },
+  "authors":{
+    "0":"Paul Blumenthal",
+    "1":"Sam Levine",
+    "2":"Sam Levine",
+    "3":"Dominique Mosbergen"
+  },
+  "date":{
+    "0":"2017-12-20 00:00:00",
+    "1":"2017-12-19 00:00:00",
+    "2":"2017-12-19 00:00:00",
+    "3":"2017-12-19 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusamed",
+    "1":"usa",
+    "2":"usagov",
+    "3":"chn"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---ppl",
+    "2":"---ppl",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"1014",
+    "2":"010",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":null,
+    "2":0.0,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "at&t",
+      "mncusamed",
+      "at&t",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ],
+    "1":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "man",
+      "~ppl",
+      "~",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "<at&t>",
+      "doj"
+    ],
+    "1":[
+      "alabama",
+      "man"
+    ],
+    "2":[
+      "secretary of state",
+      "man"
+    ],
+    "3":[
+      "china",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "at&t",
+      "united states department of justice"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "the us secretary of state",
+      "---"
+    ],
+    "3":[
+      "china",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "faces"
+    ],
+    "1":[
+      "conducts <&investigation>"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "is taking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":[
+      "climate_change",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusamed",
+      "usagov",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "1014"
+    ],
+    "2":[
+      "usagov",
+      "---ppl",
+      "010"
+    ],
+    "3":[
+      "chn",
+      "usa",
+      "171"
+    ]
+  }
+}

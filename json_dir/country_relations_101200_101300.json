@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-race-together-c_n_6884100.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/penpenn-state-fraternity-nude-photos_n_6886476.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-secret-to-greater-success-is-learning-how-to-sell_b_6866438.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/britain-china-bank-america-decline_b_6877942.html"
+  },
+  "headline":{
+    "0":"Starbucks Wants Employees To Start Conversations About Race With Customers",
+    "1":"Police Say Penn State Fraternity Circulated Nude Photos Of 'Unsuspecting Victims'",
+    "2":"The Secret to Greater Success Is... Learning How to Sell",
+    "3":"Why Britain Joining China-Led Bank Is a Sign of American Decline"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"COLLEGE",
+    "2":"BUSINESS",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"Perhaps the most important subject you can study and learn is sales. Yet many of the smartest students avoid learning it, and some of the best colleges shun teaching it.",
+    "3":"SINGAPORE -- The U.S. can no longer dominate world history. A new power has also arrived. The British decision to join the Asian Infrastructure Investment Bank was an epochal event. It may have heralded the end of the American century and the arrival of the Asian century."
+  },
+  "authors":{
+    "0":"Lilly Workneh",
+    "1":"Tyler Kingkade",
+    "2":"Ira Kalb, ContributorAssistant Professor of Clinical Marketing, Marshall School of ...",
+    "3":"Kishore Mahbubani, ContributorDean of the Lee Kuan Yew School of Public Policy"
+  },
+  "date":{
+    "0":"2015-03-17 00:00:00",
+    "1":"2015-03-17 00:00:00",
+    "2":"2015-03-17 00:00:00",
+    "3":"2015-03-16 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"---cop",
+    "2":"---edu",
+    "3":"gbr"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cvl",
+    "2":"---edu",
+    "3":"chn"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"040",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":1.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "victims",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "colleges",
+      "~edu",
+      "~",
+      "colleges",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "china",
+      "chn",
+      "china",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "starbucks",
+      "employees"
+    ],
+    "1":[
+      "police",
+      "victims"
+    ],
+    "2":[
+      "students",
+      "students"
+    ],
+    "3":[
+      "britain",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "starbucks",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united kingdom",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "say"
+    ],
+    "2":[
+      "avoid learning"
+    ],
+    "3":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---lab",
+      "030"
+    ],
+    "1":[
+      "---cop",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "040"
+    ],
+    "3":[
+      "gbr",
+      "chn",
+      "040"
+    ]
+  }
+}

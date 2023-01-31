@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scientists-new-human-plac_b_6265174.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/debunking-the-myths-about-boys-and-emotions_b_6256776.html"
+  },
+  "headline":{
+    "0":"Scientists' New 'Human Placenta Project' Aims to Improve Health of Moms and Their Children",
+    "1":"Debunking the Myths About Boys and Emotions"
+  },
+  "category":{
+    "0":"SCIENCE",
+    "1":"EDUCATION"
+  },
+  "short_description":{
+    "0":"Unlocking the secrets of the placenta is no small undertaking, but the potential benefits are tremendous--for science and for health.",
+    "1":"Yet scientists are discovering that what society says about men's (and boys') social and emotional abilities is simply not true, and that cultivating their natural capacity for emotional attunement and relationships is critical to their overall well-being. But we need to start when they're young."
+  },
+  "authors":{
+    "0":"Alan E. Guttmacher, ContributorSenior Advisor, The Permanent Fund for Vermont's Children",
+    "1":"Vicki Zakrzewski, Ph.D., ContributorEducation Director, Greater Good Science Center (GGSC)"
+  },
+  "date":{
+    "0":"2014-12-05 00:00:00",
+    "1":"2014-12-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "scientists",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "scientists",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "scientists",
+      "scientists"
+    ],
+    "1":[
+      "scientists",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "aims"
+    ],
+    "1":[
+      "are ... says"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "010"
+    ]
+  }
+}

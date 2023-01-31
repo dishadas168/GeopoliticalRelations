@@ -1,0 +1,262 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/technology\/2016\/jan\/07\/white-house-social-media-terrorism-meeting-facebook-apple-youtube-",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/philadelphia-cop-shooting-isis_us_568fff05e4b0a2b6fb6fe1ae",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/prison-chaplain-sexual-assault-arkansas_us_568adb84e4b0b958f65c7ebb",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/paul-lepage-heroin_us_568fd373e4b0c8beacf6a626",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/feds-make-terrorism-related-arrests-in-california-and-texas_us_568f14e2e4b0a2b6fb6f8b35",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-supreme-court_us_568fbb2fe4b0a2b6fb6f9ec5"
+  },
+  "headline":{
+    "0":"Revealed: White House Seeks To Enlist Silicon Valley To 'Disrupt Radicalization'",
+    "1":"Philadelphia Cop Shooting Suspect Claims Allegiance To ISIS",
+    "2":"Prison Chaplain Won Employee Of The Year While Female Inmates Say He Was Sexually Assaulting Them",
+    "3":"Paul LePage Insists His Drug Remarks Weren't Racist Because 'Maine Is Essentially All White'",
+    "4":"Feds Make Terrorism-Related Arrests In California And Texas",
+    "5":"Hillary Clinton Says A Republican President Would 'Break' The Supreme Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Facebook, Twitter, Apple, Microsoft and YouTube will attend the meeting with intelligence agencies to discuss terrorists",
+    "1":"The city mayor calls the shooting a case of mental illness, not radicalization.",
+    "2":"Three incarcerated women accused the man of forcing them into sex.",
+    "3":"The governor said men with names like \"D-Money\" come to the state and \"impregnate a young white girl before they leave.\"",
+    "4":"SACRAMENTO, Calif. (AP) \u2014 Authorities said Thursday that two people have been arrested on terrorism-related charges in California",
+    "5":"Clinton said that the court's composition \"could undermine virtually every pillar of the progressive movement.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"Andy Campbell",
+    "2":"Melissa Jeltsen",
+    "3":"Amanda Terkel",
+    "4":"",
+    "5":"Cristian Farias"
+  },
+  "date":{
+    "0":"2016-01-08 00:00:00",
+    "1":"2016-01-08 00:00:00",
+    "2":"2016-01-08 00:00:00",
+    "3":"2016-01-08 00:00:00",
+    "4":"2016-01-08 00:00:00",
+    "5":"2016-01-08 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"usa",
+    "2":"---cvl",
+    "3":"---gov",
+    "4":"---gov",
+    "5":"usaeli"
+  },
+  "actor2":{
+    "0":"---spy",
+    "1":"imgmusisi",
+    "2":"---ppl",
+    "3":"---ppl",
+    "4":"---ppl",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"042",
+    "1":"190",
+    "2":"112",
+    "3":"010",
+    "4":"173",
+    "5":"112"
+  },
+  "goldstein_score":{
+    "0":1.9,
+    "1":-10.0,
+    "2":-2.0,
+    "3":0.0,
+    "4":-5.0,
+    "5":-2.0
+  },
+  "nouns":{
+    "0":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "intelligence",
+      "~spy",
+      "~",
+      "terrorists",
+      "~uaf",
+      "~"
+    ],
+    "1":[
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "governor",
+      "~gov",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "authorities",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "president",
+      "~gov",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "microsoft",
+      "intelligence"
+    ],
+    "1":[
+      "philadelphia",
+      "isis"
+    ],
+    "2":[
+      "women",
+      "man"
+    ],
+    "3":[
+      "governor",
+      "men"
+    ],
+    "4":[
+      "authorities",
+      "people"
+    ],
+    "5":[
+      "hillary clinton",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "microsoft",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "the islamic state"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will attend ... meeting"
+    ],
+    "1":[
+      "shooting"
+    ],
+    "2":[
+      "accused"
+    ],
+    "3":[
+      "<and> ... said"
+    ],
+    "4":[
+      "said <~ppl> ... arrested"
+    ],
+    "5":[
+      "says ... would ... break"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---spy",
+      "042"
+    ],
+    "1":[
+      "usa",
+      "imgmusisi",
+      "190"
+    ],
+    "2":[
+      "---cvl",
+      "---ppl",
+      "112"
+    ],
+    "3":[
+      "---gov",
+      "---ppl",
+      "010"
+    ],
+    "4":[
+      "---gov",
+      "---ppl",
+      "173"
+    ],
+    "5":[
+      "usaeli",
+      "---gov",
+      "112"
+    ]
+  }
+}

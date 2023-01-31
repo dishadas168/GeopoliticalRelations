@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/a-service-year-for-the-na_b_6497294.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/first-lady-of-arab-cinema_b_6496004.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-presidents-plan-for-t_b_6492028.html"
+  },
+  "headline":{
+    "0":"A Service Year for the Nation's Young People Would Hasten King's Vision for America",
+    "1":"First Lady of Arab Cinema, Faten Hamama, RIP",
+    "2":"The President's Plan for Tuition-Free Education at Community Colleges"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"ENTERTAINMENT",
+    "2":"EDUCATION"
+  },
+  "short_description":{
+    "0":"Several of my favorite King quotes speak powerfully to an idea that I believe can help advance King's vision for America. That idea is large-scale, voluntary national service as a civic rite of passage.",
+    "1":"They don't make them like that anymore. The First Lady of Arab cinema and its Golden Age, legend Faten Hamama, is gone, leaving a rich heritage that helped turn her country, Egypt, into a Hollywood on the Nile.",
+    "2":"The President has introduced only the grand idea of providing tuition-free education for all students attending community colleges, an idea which, at first glance, seems to have great merit.  But at this point we know very few details."
+  },
+  "authors":{
+    "0":"Michael Brown, ContributorCEO and Co-Founder, City Year",
+    "1":"Magda Abu-Fadil, ContributorDirector of Media Unlimited in Lebanon",
+    "2":"William B. Bradshaw, ContributorAuthor"
+  },
+  "date":{
+    "0":"2015-01-18 00:00:00",
+    "1":"2015-01-18 00:00:00",
+    "2":"2015-01-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"egy",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"040",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "king",
+      "~gov",
+      "~",
+      "king",
+      "~gov",
+      "~",
+      "king",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "first lady",
+      "~eli",
+      "~",
+      "nile",
+      "egy",
+      "egypt"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "king",
+      "---"
+    ],
+    "1":[
+      "first lady",
+      "nile"
+    ],
+    "2":[
+      "president",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "egypt"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "speak ... believe ... help"
+    ],
+    "1":[
+      "is gone ... into <egy>"
+    ],
+    "2":[
+      "has introduced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usagov",
+      "070"
+    ],
+    "1":[
+      "---eli",
+      "egy",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "---edu",
+      "040"
+    ]
+  }
+}

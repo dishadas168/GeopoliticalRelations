@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/parenting-year-in-review_us_5b9c9193e4b03a1dcc7fe1ef"
+  },
+  "headline":{
+    "0":"The Year in Parenting News: A Review in Rhyme"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"On the sixth-floor maternity ward \/ Of a hospital called Lenox Hill, \/ Two new parents of one little girl \/ Paid a very big hospital bill."
+  },
+  "authors":{
+    "0":"Melissa Sher, Contributor\nwriter and tired person"
+  },
+  "date":{
+    "0":"2012-12-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---hlh"
+  },
+  "event_code":{
+    "0":"061"
+  },
+  "goldstein_score":{
+    "0":6.4
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~",
+      "girl",
+      "~cvl",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girl",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "paid"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---hlh",
+      "061"
+    ]
+  }
+}

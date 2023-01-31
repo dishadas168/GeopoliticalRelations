@@ -1,0 +1,426 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nickelodeon-cuts-ties-with-icarly-creator-dan-schneider-over-abuse-allegations_us_5aba7b37e4b04a59a31205e1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cambridge-analytica_us_5ab86590e4b0decad04b5b2e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-human-rights_us_5ab91034e4b0cde6b4f23cc3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sacramento-kings-boston-celtics-stephon-clark_us_5ab90e12e4b0decad04c556b",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/josh-feldman-this-close-sundance-now_us_5aac9824e4b0c33361b09882",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/france-sexual-assault-bill_us_5ab93fcce4b054d118e5c3f5",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/noor-salman-attorneys-case_us_5ab8e30ce4b008c9e5f95322",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/parkland-alums-march-for-our-lives_us_5ab6c100e4b054d118e36e5c",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/world-protests-march-for-our-lives_us_5ab717f2e4b008c9e5f7eeca",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/march-for-our-lives-around-the-world_us_5ab79c14e4b008c9e5f83f66"
+  },
+  "headline":{
+    "0":"Nickelodeon Cuts Ties With 'iCarly' Creator Dan Schneider After Alleged Abusive Behavior",
+    "1":"Cambridge Analytica Sent Foreigners To Work On U.S. Elections, Former Employees Say",
+    "2":"In Trump's Universe, Human Rights Catastrophes Can Only Get Worse",
+    "3":"Opposing NBA Teams Unite To Wear Shirts Honoring Stephon Clark",
+    "4":"With 'This Close,' Josh Feldman Puts Deaf, Gay Lives In The Spotlight",
+    "5":"The French Government Is Proposing A Bill To Protect Women. Here's What Finally Propelled Them To Do So.",
+    "6":"Pulse Nightclub Shooter's Father Revealed As Former FBI Informant",
+    "7":"For Stoneman Douglas Alums, Witnessing Tragedy From Afar Spurred Them To Action",
+    "8":"The Rest Of The World Showed Up To March For Our Lives",
+    "9":"The Rest Of The World Showed Up To March For Our Lives"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"BLACK VOICES",
+    "4":"QUEER VOICES",
+    "5":"WOMEN",
+    "6":"CRIME",
+    "7":"POLITICS",
+    "8":"WORLD NEWS",
+    "9":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The famed producer helped launch the careers of stars like Ariana Grande and Amanda Bynes.",
+    "1":"\u201cIts dirty little secret was that there was no one American involved in it,\" a former employee told The Washington Post.",
+    "2":"The president has brokered an informal alliance of autocrats and financiers worldwide against the U.N. and human rights more generally.",
+    "3":"The Kings and the Celtics also teamed up for a moving PSA to commemorate Clark, the unarmed black man shot dead by police.",
+    "4":"The actor and writer helps set a new milestone for intersectional representation on TV.",
+    "5":"Behind each section of France's new bill lies a person or story.",
+    "6":"Lawyers for Noor Salman, the gunman's widow, have asked the judge to toss the case against her.",
+    "7":"\u201cNo student should have to tell their teacher, \u2018My school was just shot up. Please understand my absence.\u2019\u201d",
+    "8":"Protesters across the globe want U.S. lawmakers to know they're watching, too.",
+    "9":"Protesters from across the globe want U.S. lawmakers to know they're watching, too."
+  },
+  "authors":{
+    "0":"Cole Delbyck",
+    "1":"Nick Visser",
+    "2":"TomDispatch, Editorial Partner",
+    "3":"Ron Dicker",
+    "4":"Curtis M. Wong",
+    "5":"Marine Le Breton",
+    "6":"Melissa Jeltsen",
+    "7":"Marina Fang",
+    "8":"Carla Herreria",
+    "9":"Carla Herreria"
+  },
+  "date":{
+    "0":"2018-03-27 00:00:00",
+    "1":"2018-03-26 00:00:00",
+    "2":"2018-03-26 00:00:00",
+    "3":"2018-03-26 00:00:00",
+    "4":"2018-03-26 00:00:00",
+    "5":"2018-03-26 00:00:00",
+    "6":"2018-03-26 00:00:00",
+    "7":"2018-03-25 00:00:00",
+    "8":"2018-03-25 00:00:00",
+    "9":"2018-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---lab",
+    "2":"---gov",
+    "3":"---govlab",
+    "4":"---elimed",
+    "5":"fragov",
+    "6":"---juduaf",
+    "7":"---edu",
+    "8":"---opp",
+    "9":"---opp"
+  },
+  "actor2":{
+    "0":"tun",
+    "1":"med",
+    "2":"---gov",
+    "3":"---ppl",
+    "4":"---med",
+    "5":"---cvl",
+    "6":"---jud",
+    "7":"---edu",
+    "8":"usaleg",
+    "9":"usaleg"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"010",
+    "2":"045",
+    "3":"051",
+    "4":"070",
+    "5":"0234",
+    "6":"020",
+    "7":"010",
+    "8":"030",
+    "9":"030"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":0.0,
+    "2":5.0,
+    "3":3.4,
+    "4":7.0,
+    "5":3.4,
+    "6":3.0,
+    "7":0.0,
+    "8":4.0,
+    "9":4.0
+  },
+  "nouns":{
+    "0":[
+      "producer",
+      "~bus",
+      "~",
+      "ariana",
+      "tun",
+      "tunisia"
+    ],
+    "1":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "employee",
+      "~lab",
+      "~",
+      "washington post",
+      "med",
+      "washington",
+      "post"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "autocrats",
+      "~gov",
+      "~",
+      "autocrats",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "kings",
+      "~govlab",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "actor",
+      "writer",
+      "~elimed",
+      "~",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "5":[
+      "french",
+      "government",
+      "fragov",
+      "france",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "6":[
+      "lawyers",
+      "gunman",
+      "~juduaf",
+      "~",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "7":[
+      "student",
+      "~edu",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "8":[
+      "protesters",
+      "~opp",
+      "~",
+      "u.s.",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "9":[
+      "protesters",
+      "~opp",
+      "~",
+      "u.s.",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "producer",
+      "ariana"
+    ],
+    "1":[
+      "employee",
+      "washington post"
+    ],
+    "2":[
+      "president",
+      "president"
+    ],
+    "3":[
+      "kings",
+      "man"
+    ],
+    "4":[
+      "actor ... writer",
+      "tv"
+    ],
+    "5":[
+      "french government",
+      "women"
+    ],
+    "6":[
+      "lawyers ... gunman",
+      "judge"
+    ],
+    "7":[
+      "student",
+      "student"
+    ],
+    "8":[
+      "protesters",
+      "u.s. lawmakers"
+    ],
+    "9":[
+      "protesters",
+      "u.s. lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "tunisia"
+    ],
+    "1":[
+      "---",
+      "washington post"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "france",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "---",
+      "---"
+    ],
+    "8":[
+      "---",
+      "united states of america"
+    ],
+    "9":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "helped"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "has brokered"
+    ],
+    "3":[
+      "teamed ... commemorate"
+    ],
+    "4":[
+      "helps"
+    ],
+    "5":[
+      "is proposing ... protect"
+    ],
+    "6":[
+      "have asked"
+    ],
+    "7":[
+      "should ... tell"
+    ],
+    "8":[
+      ""
+    ],
+    "9":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "human_rights",
+      "1"
+    ],
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":[
+      "students",
+      "1",
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ],
+    "8":null,
+    "9":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "tun",
+      "070"
+    ],
+    "1":[
+      "---lab",
+      "med",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "045"
+    ],
+    "3":[
+      "---govlab",
+      "---ppl",
+      "051"
+    ],
+    "4":[
+      "---elimed",
+      "---med",
+      "070"
+    ],
+    "5":[
+      "fragov",
+      "---cvl",
+      "0234"
+    ],
+    "6":[
+      "---juduaf",
+      "---jud",
+      "020"
+    ],
+    "7":[
+      "---edu",
+      "---edu",
+      "010"
+    ],
+    "8":[
+      "---opp",
+      "usaleg",
+      "030"
+    ],
+    "9":[
+      "---opp",
+      "usaleg",
+      "030"
+    ]
+  }
+}

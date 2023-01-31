@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ussaudi-relations-face-di_b_7642066.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-to-announce-changes_0_n_7645538.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/florida-homeless_n_7646732.html"
+  },
+  "headline":{
+    "0":"U.S.-Saudi Relations Face Difficult Questions",
+    "1":"Obama To Announce Changes To U.S. Hostage Policies",
+    "2":"A Florida City Paid This Man $5 Million To Get Lost. Now, He's Using It To Help Homeless People Get Married."
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Despite Washington's efforts to persuade its Gulf Cooperation Council (GCC) allies that a comprehensive nuclear agreement with Iran would serve their long-term interests, most Gulf Arab monarchs remain far from sold.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Giorgio Cafiero, ContributorCEO and co-founder of Gulf State Analytics, a Washington, DC-b...",
+    "1":"",
+    "2":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2015-06-24 00:00:00",
+    "1":"2015-06-23 00:00:00",
+    "2":"2015-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"sau",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"061"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":6.4
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "saudi",
+      "usa",
+      "sau",
+      "united",
+      "states",
+      "of",
+      "america",
+      "saudi",
+      "arabia"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "obama",
+      "<u.s.>"
+    ],
+    "2":[
+      "florida",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "to announce"
+    ],
+    "2":[
+      "paid"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "sau",
+      "040",
+      "sau",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "061"
+    ]
+  }
+}

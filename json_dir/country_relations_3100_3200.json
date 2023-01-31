@@ -1,0 +1,312 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/protests-rock-myanmar-for-fifth-day_n_6023a9b6c5b6f38d06e832aa",
+    "1":"https:\/\/www.huffpost.com\/entry\/india-glacier-flood_n_601fe218c5b6173dd2f6f0ba",
+    "2":"https:\/\/www.huffpost.com\/entry\/israel-palestine-icc-ruling_n_601f66d9c5b6c56a89a1a073",
+    "3":"https:\/\/www.huffpost.com\/entry\/myanmar-protests-coup_n_601eba2cc5b6d78d4446e51a",
+    "4":"https:\/\/www.huffpost.com\/entry\/volunteer-army-helps-florida-elders-book-coveted-covid-19-shots_n_601d227ec5b66c385ef88459",
+    "5":"https:\/\/www.huffpost.com\/entry\/biden-trump-senate-impeachment-trial_n_600f6837c5b676ad83766f7c",
+    "6":"https:\/\/www.huffpost.com\/entry\/joe-biden-repeals-donald-trumps-transgender-military-ban_n_60071d6cc5b6ffcab968163f"
+  },
+  "headline":{
+    "0":"Protests Rock Myanmar For Fifth Day, West Condemns Use Of Force Against Protesters",
+    "1":"Flood From Glacier Break In India's North Leaves 9 Dead, 140 Missing",
+    "2":"International Criminal Court Ruling Brings Hope for Palestinians",
+    "3":"Tens Of Thousands Take To The Streets To Protest Myanmar Coup",
+    "4":"Volunteer Army Helps Florida Elders Book Coveted COVID-19 Shots",
+    "5":"Joe Biden Says Trump's Impeachment Trial In Senate 'Has To Happen'",
+    "6":"Joe Biden Repeals Donald Trump\u2019s Transgender Military Ban"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"U.S. NEWS",
+    "5":"POLITICS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"Demonstrators vowed to keep up the pressure against last week's military coup, even after a woman was shot and critically wounded during clashes.",
+    "1":"The flood was caused when a portion of Nanda Devi glacier broke off in Tapovan area of the northern state of Uttarakhand.",
+    "2":"The ICC ruled it has jurisdiction over the Palestinian territories, which makes way for investigations of Israeli attacks.",
+    "3":"Protesters denounced the military coup and demanded the release of elected leader Aung San Suu Kyi.",
+    "4":"Volunteers are helping older people clear the daunting hurdles of state-run registration systems that are poorly organized and rely heavily on technology.",
+    "5":"The president told CNN, however, that he doesn\u2019t think enough Republican senators will vote to convict Donald Trump.",
+    "6":"The new president is also expected to reinstate a rule protecting transgender students\u2019 right to use the bathroom that best aligns with their gender identity."
+  },
+  "authors":{
+    "0":"",
+    "1":"Biswajeet Banerjee and Rishabh R. Jain, Associated Press",
+    "2":"By Maayan Lubell and Nidal al-Mughrabi, Reuters",
+    "3":"",
+    "4":"ADRIANA GOMEZ LICON, Associated Press",
+    "5":"Sarah Ruiz-Grossman",
+    "6":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2021-02-10 00:00:00",
+    "1":"2021-02-07 00:00:00",
+    "2":"2021-02-07 00:00:00",
+    "3":"2021-02-06 00:00:00",
+    "4":"2021-02-05 00:00:00",
+    "5":"2021-01-26 00:00:00",
+    "6":"2021-01-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"ind",
+    "2":"igojudicc",
+    "3":"---opp",
+    "4":"---mil",
+    "5":"---gov",
+    "6":"usagov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"ind",
+    "2":"igojudicc",
+    "3":"---mil",
+    "4":"usa",
+    "5":"med",
+    "6":"---mil"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"060",
+    "3":"111",
+    "4":"070",
+    "5":"010",
+    "6":"081"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":6.0,
+    "3":-2.0,
+    "4":7.0,
+    "5":0.0,
+    "6":5.0
+  },
+  "nouns":{
+    "0":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "nanda devi",
+      "ind",
+      "india",
+      "uttarakhand",
+      "ind",
+      "india"
+    ],
+    "2":[
+      "icc",
+      "igojudicc",
+      "icc",
+      "palestinian",
+      "pse",
+      "palestine"
+    ],
+    "3":[
+      "protesters",
+      "~opp",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "4":[
+      "army",
+      "~mil",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "cnn",
+      "med",
+      "cnn",
+      "senators",
+      "~leg",
+      "~"
+    ],
+    "6":[
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "military",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "demonstrators",
+      "woman",
+      "demonstrators",
+      "woman"
+    ],
+    "1":[
+      "nanda devi",
+      "nanda devi"
+    ],
+    "2":[
+      "icc",
+      "icc"
+    ],
+    "3":[
+      "protesters",
+      "military"
+    ],
+    "4":[
+      "army",
+      "florida"
+    ],
+    "5":[
+      "president",
+      "cnn"
+    ],
+    "6":[
+      "joe biden",
+      "military"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "india",
+      "india"
+    ],
+    "2":[
+      "icc",
+      "icc"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "cnn"
+    ],
+    "6":[
+      "joe biden",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vowed <~cvl> ... shot",
+      "vowed <~cvl> ... wounded"
+    ],
+    "1":[
+      "broke"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "<and> ... denounced"
+    ],
+    "4":[
+      "helps"
+    ],
+    "5":[
+      "told"
+    ],
+    "6":[
+      "repeals ... ban"
+    ]
+  },
+  "issues":{
+    "0":[
+      "coup_discussion",
+      "1"
+    ],
+    "1":[
+      "natural_disaster",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "coup_discussion",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---cvl",
+      "190",
+      "---opp",
+      "---cvl",
+      "180"
+    ],
+    "1":[
+      "ind",
+      "ind",
+      "190"
+    ],
+    "2":[
+      "igojudicc",
+      "igojudicc",
+      "060"
+    ],
+    "3":[
+      "---opp",
+      "---mil",
+      "111"
+    ],
+    "4":[
+      "---mil",
+      "usa",
+      "070"
+    ],
+    "5":[
+      "---gov",
+      "med",
+      "010"
+    ],
+    "6":[
+      "usagov",
+      "---mil",
+      "081"
+    ]
+  }
+}

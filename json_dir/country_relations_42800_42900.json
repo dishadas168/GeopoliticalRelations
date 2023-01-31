@@ -1,0 +1,226 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/afghanistan-supreme-court-blast_us_589a1760e4b040613139b9f5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ll-bean-trump-travel-ban_us_5898f587e4b09bd304bd1cb3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/ll-bean-trump-travel-ban_us_5898f587e4b09bd304bd1cb3",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-hungary-refugees_us_589a0157e4b09bd304bddcea",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/nyc-students-walkout-devos_us_589a3843e4b09bd304be71ec"
+  },
+  "headline":{
+    "0":"Deadly Blast Rocks Afghan Supreme Court",
+    "1":"L.L. Bean's CEO Offers To Help Workers Affected By Trump's Travel Ban",
+    "2":"L.L. Bean's CEO Offers To Help Workers Affected By Trump's Travel Ban",
+    "3":"Emboldened By Trump, Hungary Hardens Draconian Refugee Policies",
+    "4":"Hundreds Of New York Students Walk Out As Senate Confirms Betsy DeVos"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"STYLE",
+    "2":"STYLE",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"KABUL (Reuters) - At least 20 people were killed on Tuesday in a bomb blast outside the Supreme Court in the centre of the",
+    "1":"The company is having to address the president all over again.",
+    "2":"The company is having to address the president all over again.",
+    "3":"Budapest announced plans to detain asylum seekers for months while they await approval.",
+    "4":"She didn't go to public school. Why should they?"
+  },
+  "authors":{
+    "0":"Mirwais Harooni, Reuters",
+    "1":"Carly Ledbetter",
+    "2":"Carly Ledbetter",
+    "3":"Jesselyn Cook",
+    "4":"Andy Campbell"
+  },
+  "date":{
+    "0":"2017-02-07 00:00:00",
+    "1":"2017-02-07 00:00:00",
+    "2":"2017-02-07 00:00:00",
+    "3":"2017-02-07 00:00:00",
+    "4":"2017-02-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---bus",
+    "2":"---bus",
+    "3":"hun",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---lab",
+    "2":"---gov",
+    "3":"---ref",
+    "4":"usagovleg"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"033",
+    "2":"010",
+    "3":"173",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":5.2,
+    "2":0.0,
+    "3":-5.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "supreme court",
+      "~jud",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "ceo",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "company",
+      "~bus",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "budapest",
+      "hun",
+      "hungary",
+      "asylum seekers",
+      "~ref",
+      "~"
+    ],
+    "4":[
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "supreme court",
+      "people"
+    ],
+    "1":[
+      "ceo",
+      "workers"
+    ],
+    "2":[
+      "company",
+      "president"
+    ],
+    "3":[
+      "budapest",
+      "asylum seekers"
+    ],
+    "4":[
+      "students",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "hungary",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~ppl> ... killed ... in <~jud> ... in <--->"
+    ],
+    "1":[
+      "offers ... help"
+    ],
+    "2":[
+      "is ... address"
+    ],
+    "3":[
+      "announced plans ... detain"
+    ],
+    "4":[
+      "<['walk',> <'out']>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "033"
+    ],
+    "2":[
+      "---bus",
+      "---gov",
+      "010"
+    ],
+    "3":[
+      "hun",
+      "---ref",
+      "173"
+    ],
+    "4":[
+      "---edu",
+      "usagovleg",
+      "040"
+    ]
+  }
+}

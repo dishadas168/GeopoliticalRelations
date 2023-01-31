@@ -1,0 +1,270 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-high-school-president_us_57f69d5fe4b00885f2c6869e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iraq-requests-un-emergency-talks-turkey_us_57f63515e4b002a73120ddef",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/guterres-secretary-general_us_57f66455e4b05f39c51e7e16",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/german-cities-refugee-crisis_us_57f6af8fe4b00885f2c6a234",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/scott-walker-drug-testing_us_57f65f53e4b05f39c51e7aad",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/tim-kaine-mike-pence-criminal-justice_us_57f48228e4b015995f2c0ce2"
+  },
+  "headline":{
+    "0":"Smart Girls Will Relate To Hillary Clinton's Failed Bid For High School Class President",
+    "1":"Iraq Requests UN Emergency Talks On Turkish Troops In North",
+    "2":"Security Council Unanimously Nominates Guterres For Next UN Chief",
+    "3":"What German Cities Have Learned From The Front Lines Of The Refugee Response",
+    "4":"Court Tosses Scott Walker's Food Stamp Drug Testing Lawsuit",
+    "5":"Here\u2019s How Tim Kaine And Mike Pence Measure Up On Criminal Justice"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"He got to be president, but I had to do most of the work.\"",
+    "1":"The Iraqi government condemned Turkey's plans to extend troop deployment in the country.",
+    "2":"The former Portuguese prime minister will now likely be approved by the General Assembly.",
+    "3":"Much of the responsibility in caring for refugees arriving in Germany has fallen to local authorities. This has brought challenges",
+    "4":"The Wisconsin governor had sued the Obama administration for permission to drug test people on food stamps.",
+    "5":"The two vice presidential candidates have pushed for similar criminal justice policies at times."
+  },
+  "authors":{
+    "0":"Emily Peck",
+    "1":"",
+    "2":"",
+    "3":"Eline Gordts, Refugees Deeply",
+    "4":"Arthur Delaney",
+    "5":"Julia Craven"
+  },
+  "date":{
+    "0":"2016-10-06 00:00:00",
+    "1":"2016-10-06 00:00:00",
+    "2":"2016-10-06 00:00:00",
+    "3":"2016-10-06 00:00:00",
+    "4":"2016-10-06 00:00:00",
+    "5":"2016-10-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"irqgov",
+    "2":"---leg",
+    "3":"deu",
+    "4":"---gov",
+    "5":"---pty"
+  },
+  "actor2":{
+    "0":"usaeligov",
+    "1":"tur",
+    "2":"prtgov",
+    "3":"---ref",
+    "4":"usagovppl",
+    "5":"---crm"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"111",
+    "2":"08",
+    "3":"040",
+    "4":"173",
+    "5":"100"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0,
+    "2":5.0,
+    "3":1.0,
+    "4":-5.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "hillary clinton",
+      "president",
+      "usaeligov",
+      "hillary",
+      "clinton",
+      "~"
+    ],
+    "1":[
+      "iraqi",
+      "government",
+      "irqgov",
+      "iraq",
+      "~",
+      "turkey",
+      "tur",
+      "turkey",
+      "troop",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "portuguese",
+      "prime minister",
+      "prtgov",
+      "portugal",
+      "~",
+      "general assembly",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "german",
+      "deu",
+      "germany",
+      "refugee",
+      "~ref",
+      "~",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "4":[
+      "governor",
+      "~gov",
+      "~",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "5":[
+      "presidential candidates",
+      "~pty",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "hillary clinton ... president"
+    ],
+    "1":[
+      "iraqi government",
+      "turkey"
+    ],
+    "2":[
+      "general assembly",
+      "portuguese prime minister"
+    ],
+    "3":[
+      "german",
+      "refugee"
+    ],
+    "4":[
+      "governor",
+      "---"
+    ],
+    "5":[
+      "presidential candidates",
+      "criminal"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "iraq",
+      "turkey"
+    ],
+    "2":[
+      "---",
+      "portugal"
+    ],
+    "3":[
+      "germany",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will relate"
+    ],
+    "1":[
+      "condemned"
+    ],
+    "2":[
+      "<prtgov> ... approved by <~leg>"
+    ],
+    "3":[
+      "have learned"
+    ],
+    "4":[
+      "had sued"
+    ],
+    "5":[
+      "have pushed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usaeligov",
+      "060"
+    ],
+    "1":[
+      "irqgov",
+      "tur",
+      "111"
+    ],
+    "2":[
+      "---leg",
+      "prtgov",
+      "08"
+    ],
+    "3":[
+      "deu",
+      "---ref",
+      "040"
+    ],
+    "4":[
+      "---gov",
+      "usagovppl",
+      "173"
+    ],
+    "5":[
+      "---pty",
+      "---crm",
+      "100"
+    ]
+  }
+}

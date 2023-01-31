@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/camille-cosby-lawyers-fighting-deposition-in-defamation-lawsuit_us_56993523e4b0ce4964244c34",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/complaints-wrong-wheaton-college_us_56991a10e4b0778f46f90d6e"
+  },
+  "headline":{
+    "0":"Bill Cosby's Wife Is Fighting Deposition In Defamation Lawsuit",
+    "1":"People Are Complaining To The Wrong Wheaton College"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Camille Cosby's lawyers are challenging a judge's decision.",
+    "1":"*head desk*"
+  },
+  "authors":{
+    "0":"",
+    "1":"COLLIN BINKLEY, AP"
+  },
+  "date":{
+    "0":"2016-01-15 00:00:00",
+    "1":"2016-01-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"114",
+    "1":"114"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "lawyers",
+      "~jud",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyers",
+      "lawyers"
+    ],
+    "1":[
+      "people",
+      "college"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are challenging ... decision"
+    ],
+    "1":[
+      "are complaining"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "114"
+    ],
+    "1":[
+      "---ppl",
+      "---edu",
+      "114"
+    ]
+  }
+}

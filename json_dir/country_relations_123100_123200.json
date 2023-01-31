@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-jihadist-relations_b_5542757.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rocking-the-cradle-of-civ_b_5551968.html"
+  },
+  "headline":{
+    "0":"U.S.-Jihadist Relations (Part 1): Creating the Mujahedin in Afghanistan",
+    "1":"Rocking the Cradle of Civilization: Antiquities Theft Funding Terrorists"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The intensifying war in Iraq has surprised the world. The Islamic State in Iraq and Syria (ISIS), a terrorist group, has taken over a large part of Iraq's territory and is still advancing toward other areas. Western and Middle Eastern governments are concerned about ISIS. How can we understand such developments?",
+    "1":"Criminal networks are robbing from our past to fund their terrorist activities, intimidate and undermine already struggling countries.  This global crisis requires a global solution, and the United States is well-positioned to lead this charge."
+  },
+  "authors":{
+    "0":"Akbar Ganji, ContributorDissident Iranian journalist; Intl. Press Association World Pr...",
+    "1":"Deborah M. Lehr and Katie A. Paul, Contributors"
+  },
+  "date":{
+    "0":"2014-07-02 00:00:00",
+    "1":"2014-07-02 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisiuaf",
+    "1":"---crm"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"---uaf"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"061"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":6.4
+  },
+  "nouns":{
+    "0":[
+      "iraq",
+      "syria",
+      "irq",
+      "syr",
+      "iraq",
+      "syria",
+      "the islamic state",
+      "terrorist group",
+      "imgmusisiuaf",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "criminal",
+      "~crm",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the islamic state ... terrorist group",
+      "iraq"
+    ],
+    "1":[
+      "criminal",
+      "terrorist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "iraq"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... taken"
+    ],
+    "1":[
+      "are ... fund"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":[
+      "terror",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "imgmusisiuaf",
+      "irq",
+      "171"
+    ],
+    "1":[
+      "---crm",
+      "---uaf",
+      "061"
+    ]
+  }
+}

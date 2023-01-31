@@ -1,0 +1,197 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/san-gabriel-police-asian-american-discrimination_us_5a1d8926e4b04e8b2a84a758",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-conyers-sexual-misconduct-former-staffers_us_5a1d6b57e4b04e8b2a845c94",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/amid-attacks-teachers-weigh-their-safety-against-student_us_5a1d784ee4b05df68936d064",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/zinke-aims-to-shave-national-monuments-except-in-his-home-state_us_5a1b8315e4b0d4906cafab87"
+  },
+  "headline":{
+    "0":"Asian-American Cops Sue California Police Department Over Discrimination",
+    "1":"Another Woman Accuses Democratic Rep. John Conyers Of Sexual Misconduct",
+    "2":"Amid Attacks, Teachers Weigh Their Safety Against Student Privacy",
+    "3":"Zinke Aims To Shave National Monuments \u2014 Except In His Home State"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"GREEN"
+  },
+  "short_description":{
+    "0":"San Gabriel police officers allegedly used mock Asian accents to speak to colleagues and referred to residents as \u201cf**king gooks.\u201d",
+    "1":"Deanna Maher, his former deputy chief of staff, says the veteran congressman inappropriately touched her and asked to have sex with her.",
+    "2":"Sharing students\u2019 criminal records with schools may violate their privacy, but some lawmakers think it will make teachers",
+    "3":"The Interior secretary is backing a new 200-square-mile national monument in Montana."
+  },
+  "authors":{
+    "0":"Kimberly Yam",
+    "1":"Marina Fang",
+    "2":"Stateline, ContributorStateline provides daily reporting and analysis on trends in s...",
+    "3":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2017-11-28 00:00:00",
+    "1":"2017-11-28 00:00:00",
+    "2":"2017-11-28 00:00:00",
+    "3":"2017-11-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---copgov",
+    "2":"---leg",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---leg",
+    "2":"---leg",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"040",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":1.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "police officers",
+      "~cop",
+      "~",
+      "residents",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "deputy",
+      "chief of staff",
+      "~copgov",
+      "~",
+      "~",
+      "congressman",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "students",
+      "criminal",
+      "~educrm",
+      "~",
+      "~",
+      "schools",
+      "~edu",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~",
+      "teachers",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "interior secretary",
+      "~gov",
+      "~",
+      "montana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police officers",
+      "residents"
+    ],
+    "1":[
+      "deputy chief of staff",
+      "congressman"
+    ],
+    "2":[
+      "lawmakers",
+      "lawmakers"
+    ],
+    "3":[
+      "interior secretary",
+      "montana"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... referred"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "is backing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "students",
+      "1",
+      "schools",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---copgov",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "---leg",
+      "---leg",
+      "040"
+    ],
+    "3":[
+      "---gov",
+      "usa",
+      "050"
+    ]
+  }
+}

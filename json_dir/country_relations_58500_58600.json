@@ -1,0 +1,179 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kentucky-gay-couple-evicted_us_57a8a77de4b021fd98795191",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/singularityhub.com\/2016\/08\/05\/how-ai-will-redefine-love\/",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/aleppo-siege-broken-syria_us_57a7433ce4b021fd9878e179",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/istanbul-rally-turkey-erdogan_us_57a7764ce4b021fd9878ece5"
+  },
+  "headline":{
+    "0":"Landlord Allegedly Says She Shouldn't Rent To 'Faggots' Before Evicting Tenants",
+    "1":"How AI Will Redefine Love",
+    "2":"Syrian Rebels Claim To Break Assad's Siege Of Aleppo",
+    "3":"Turkey's President Erdogan Holds Gigantic Rally In Istanbul"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The men said they were also assaulted by their apartment's owner.",
+    "1":"Artificial intelligence is beginning to disrupt entire industries from finance to medicine. Yet the most revolutionary application",
+    "2":"Pro-government media outlets denied the claim as intense fighting continues.",
+    "3":"Over a million people gathered in a show of strength from the Turkish president."
+  },
+  "authors":{
+    "0":"Curtis M. Wong",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2016-08-08 00:00:00",
+    "1":"2016-08-08 00:00:00",
+    "2":"2016-08-07 00:00:00",
+    "3":"2016-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---spy",
+    "2":"syrreb",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"syrgov",
+    "3":"turgov"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"160",
+    "2":"110",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.0,
+    "2":-2.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "intelligence",
+      "~spy",
+      "~",
+      "industries",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "syrian",
+      "rebels",
+      "syrreb",
+      "syria",
+      "~",
+      "aleppo",
+      "syr",
+      "syria",
+      "assad",
+      "syrgov",
+      "bashar",
+      "al-assad"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "turkish",
+      "president",
+      "turgov",
+      "turkey",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men",
+      "men"
+    ],
+    "1":[
+      "intelligence",
+      "industries"
+    ],
+    "2":[
+      "syrian rebels",
+      "assad"
+    ],
+    "3":[
+      "people",
+      "turkish president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "syria",
+      "bashar al-assad"
+    ],
+    "3":[
+      "---",
+      "turkey"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said <~ppl> ... assaulted by <--->"
+    ],
+    "1":[
+      "disrupt"
+    ],
+    "2":[
+      "claim"
+    ],
+    "3":[
+      "gathered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "015"
+    ],
+    "1":[
+      "---spy",
+      "---bus",
+      "160"
+    ],
+    "2":[
+      "syrreb",
+      "syrgov",
+      "110"
+    ],
+    "3":[
+      "---ppl",
+      "turgov",
+      "040"
+    ]
+  }
+}

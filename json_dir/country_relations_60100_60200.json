@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/doj-wolf-wall-street_us_578ffc5ee4b0bdddc4d31236",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/texas-textbook-mexican-american-studies_us_578e607ae4b0f180da630e38",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.thedailybeast.com\/articles\/2016\/07\/20\/the-priest-who-walked-360-miles-to-protest-donald-trump-at-rnc-2016.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/protesters-donald-trump-wall-mexico_us_578fc151e4b0bdddc4d2bf43"
+  },
+  "headline":{
+    "0":"DOJ Moves To Seize Stolen Money Used To Finance 'Wolf Of Wall Street'",
+    "1":"A Textbook That Paints Mexican-Americans As Lazy Could Be Coming To A School Near You",
+    "2":"Why This Priest Walked Hundreds Of Miles To Protest Donald Trump",
+    "3":"Protesters Ask America To Wall Off Donald Trump, Not Mexico"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"LATINO VOICES",
+    "2":"RELIGION",
+    "3":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The DOJ alleges that a production company used millions stolen from a sovereign wealth fund to finance \"The Wolf of Wall Street.\"",
+    "1":"It's \"deeply flawed,\" but that hasn't stopped the Texas State Board of Education before.",
+    "2":"Jose Landaverde and other Latino demonstrators faced a slew of racist threats on their journey to Ohio.",
+    "3":"\"We\u2019re not building a wall that divides,\u201d one activist said."
+  },
+  "authors":{
+    "0":"",
+    "1":"Kim Bellware",
+    "2":"",
+    "3":"Roque Planas"
+  },
+  "date":{
+    "0":"2016-07-20 00:00:00",
+    "1":"2016-07-20 00:00:00",
+    "2":"2016-07-20 00:00:00",
+    "3":"2016-07-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"mex",
+    "2":"---opp",
+    "3":"---opp"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---edu",
+    "2":"usa",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"040",
+    "2":"040",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":1.0,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice",
+      "company",
+      "~bus",
+      "~",
+      "sovereign",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "mexican",
+      "mex",
+      "mexico",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "demonstrators",
+      "~opp",
+      "~",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "protesters",
+      "~opp",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doj",
+      "company"
+    ],
+    "1":[
+      "mexican",
+      "school"
+    ],
+    "2":[
+      "demonstrators",
+      "ohio"
+    ],
+    "3":[
+      "protesters",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states department of justice",
+      "---"
+    ],
+    "1":[
+      "mexico",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "could ... coming to"
+    ],
+    "2":[
+      "faced"
+    ],
+    "3":[
+      "ask"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":[
+      "discrimination",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---bus",
+      "110"
+    ],
+    "1":[
+      "mex",
+      "---edu",
+      "040"
+    ],
+    "2":[
+      "---opp",
+      "usa",
+      "040"
+    ],
+    "3":[
+      "---opp",
+      "usa",
+      "020"
+    ]
+  }
+}

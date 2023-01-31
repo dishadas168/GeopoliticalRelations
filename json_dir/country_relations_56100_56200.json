@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-iran-hajj-crash-row_us_57d007fce4b06a74c9f19a6e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rodrigo-duterte-son-of-whore-barack-obama_us_57cedb65e4b0a22de0970187"
+  },
+  "headline":{
+    "0":"Top Saudi Cleric Says Iran Leaders Not Muslims As Hajj Row Mounts",
+    "1":"The President Of The Philippines Can't Stop Calling People Sons Of Whores"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Ayatollah Ali Khamenei criticized Saudi Arabia over how it runs the hajj after a crush last year killed hundreds of pilgrims.",
+    "1":"Obama isn't the only political leader Rodrigo Duterte has insulted."
+  },
+  "authors":{
+    "0":"Sami Aboudi, Reuters",
+    "1":"Nick Robins-Early"
+  },
+  "date":{
+    "0":"2016-09-07 00:00:00",
+    "1":"2016-09-06 00:00:00"
+  },
+  "actor1":{
+    "0":"irngov",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"sau",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "khamenei",
+      "irngov",
+      "hojatolislam",
+      "sayyed",
+      "ali",
+      "khamenei",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "pilgrims",
+      "~rel",
+      "~",
+      "pilgrims",
+      "~rel",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "khamenei",
+      "saudi arabia"
+    ],
+    "1":[
+      "president",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hojatolislam sayyed ali khamenei",
+      "saudi arabia"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "criticized ... killed"
+    ],
+    "1":[
+      "calling"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "irngov",
+      "sau",
+      "112"
+    ],
+    "1":[
+      "---gov",
+      "---ppl",
+      "041"
+    ]
+  }
+}

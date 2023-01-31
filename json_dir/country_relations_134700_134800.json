@@ -1,0 +1,137 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/michigan-wolves-dont-need_us_5bb150cae4b09bbe9a5e5f44",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.politico.com\/magazine\/story\/2014\/02\/can-anybody-save-california-103544.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/beaches-at-night_us_5b9ddcd1e4b03a1dcc8de13a"
+  },
+  "headline":{
+    "0":"Michigan Wolves Don't Need to Die",
+    "1":"Can Anybody Save California?",
+    "2":"Stellar Photos Of Beaches At Night Will Whisk You To An Instant Happy Place"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"ENVIRONMENT",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Protected since 1973 under the Endangered Species Act, Michigan wolves were delisted at the start of 2012. By the end of that year, Governor Rick Snyder signed legislation declaring them fair game for hunting. Why? Because... Well, that's a tough question to answer.",
+    "1":"In a journey befitting our increasingly biblical climate, President Obama traveled on Friday from storm-wracked Washington",
+    "2":"Krakal Beach, Indonesia You won't catch them with an unaided eye, but those star trails will appear if you can work a camera"
+  },
+  "authors":{
+    "0":"Matt Bershadker, Contributor\nPresident & CEO, ASPCA",
+    "1":"",
+    "2":"Suzy Strutner"
+  },
+  "date":{
+    "0":"2014-02-17 00:00:00",
+    "1":"2014-02-17 00:00:00",
+    "2":"2014-02-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"idn"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usa",
+    "2":"idn"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"171"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-9.2
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "indonesia",
+      "idn",
+      "indonesia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "governor"
+    ],
+    "1":[
+      "president obama",
+      "washington"
+    ],
+    "2":[
+      "indonesia",
+      "indonesia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ],
+    "2":[
+      "indonesia",
+      "indonesia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "signed ... declaring"
+    ],
+    "1":[
+      "traveled"
+    ],
+    "2":[
+      "wo ... catch"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "usagov",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "idn",
+      "idn",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/world\/national-security\/intelligence-community-investigating-covert-russian-influence-operations-in-the-united-states\/2016\/09\/04\/aec27fa0-7156-11e6-8533-6b0b0ded0253_story.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rodrigo-duterte-son-of-a-bitch_us_57cd7f45e4b0e60d31dfa6d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tel-aviv-building-site-collapse-kills-at-least-two-people_us_57cd5eade4b078581f13852e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iraqi-woman-uses-chilcot-report-in-war-crimes-lawsuit_us_57cd7c38e4b07addc4138b20"
+  },
+  "headline":{
+    "0":"U.S. investigating potential covert Russian plan to disrupt November elections",
+    "1":"Obama Cancels Meeting With Philippine President Who Called Him A 'Son Of A Bitch'",
+    "2":"Tel Aviv Building Site Collapse Kills At Least Two People",
+    "3":"Iraqi Woman Uses Chilcot Report In War Crimes Lawsuit Against George W. Bush"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"U.S. intelligence and law enforcement agencies are investigating what they see as a broad covert Russian operation in the",
+    "1":"\"I don\u2019t give a s**t about anybody observing my behavior,\u201d President Rodrigo Duterte said.",
+    "2":"JERUSALEM (Reuters) - A parking garage under construction collapsed in Tel Aviv on Monday, killing at least two people and",
+    "3":"Sundus Saleh, an Iraqi woman, first filed her lawsuit against George W. Bush, Dick Cheney, Donald Rumsfeld, Condoleezza Rice"
+  },
+  "authors":{
+    "0":"",
+    "1":"Kim Bellware",
+    "2":"",
+    "3":"Marjorie Cohn, ContributorProfessor Emerita at Thomas Jefferson School of Law"
+  },
+  "date":{
+    "0":"2016-09-06 00:00:00",
+    "1":"2016-09-05 00:00:00",
+    "2":"2016-09-05 00:00:00",
+    "3":"2016-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"isr",
+    "3":"irqcvl"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"phlgov",
+    "2":"---ppl",
+    "3":"usaeli"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"040",
+    "2":"190",
+    "3":"115"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":-10.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "philippine",
+      "president",
+      "phlgov",
+      "philippines",
+      "~"
+    ],
+    "2":[
+      "tel aviv",
+      "isr",
+      "israel",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "iraqi",
+      "woman",
+      "irqcvl",
+      "iraq",
+      "~",
+      "george w. bush",
+      "dick cheney",
+      "donald rumsfeld",
+      "condoleezza rice",
+      "usaeli",
+      "usaeli",
+      "george",
+      "w.",
+      "bush",
+      "richard",
+      "cheney",
+      "donald",
+      "rumsfeld",
+      "condoleezza",
+      "rice"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "russian"
+    ],
+    "1":[
+      "obama",
+      "philippine president"
+    ],
+    "2":[
+      "tel aviv",
+      "people"
+    ],
+    "3":[
+      "iraqi woman",
+      "george w. bush"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "russian federation"
+    ],
+    "1":[
+      "barack obama",
+      "philippines"
+    ],
+    "2":[
+      "israel",
+      "---"
+    ],
+    "3":[
+      "iraq",
+      "george w. bush"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "investigating"
+    ],
+    "1":[
+      "cancels meeting"
+    ],
+    "2":[
+      "kills"
+    ],
+    "3":[
+      "filed ... lawsuit"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "rus",
+      "090"
+    ],
+    "1":[
+      "usagov",
+      "phlgov",
+      "040"
+    ],
+    "2":[
+      "isr",
+      "---ppl",
+      "190"
+    ],
+    "3":[
+      "irqcvl",
+      "usaeli",
+      "115",
+      "irqcvl",
+      "usaeli",
+      "115"
+    ]
+  }
+}

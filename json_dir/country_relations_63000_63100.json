@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jo-cox-dies_us_5762d13fe4b05e4be8611254",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-wins-dc-primary_us_57609b7ce4b05e4be86028a5"
+  },
+  "headline":{
+    "0":"British Lawmaker Jo Cox Dies After Attack",
+    "1":"Hillary Clinton Wins Washington D.C. Primary, Meets Privately With Bernie Sanders"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The 41-year-old member of Parliament was shot dead in northern England.",
+    "1":"It's the final primary of the year."
+  },
+  "authors":{
+    "0":"",
+    "1":"John Whitesides, Reuters"
+  },
+  "date":{
+    "0":"2016-06-16 00:00:00",
+    "1":"2016-06-15 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"usaeli"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "parliament",
+      "~leg",
+      "~",
+      "member of parliament",
+      "~leg",
+      "~",
+      "england",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "hillary clinton",
+      "washington d.c.",
+      "usaeli",
+      "usa",
+      "hillary",
+      "clinton",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "england",
+      "parliament"
+    ],
+    "1":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ],
+    "1":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~leg> ... shot ... in <gbr>"
+    ],
+    "1":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---leg",
+      "190"
+    ],
+    "1":[
+      "usaeli",
+      "usa",
+      "040",
+      "usa",
+      "usaeli",
+      "040"
+    ]
+  }
+}

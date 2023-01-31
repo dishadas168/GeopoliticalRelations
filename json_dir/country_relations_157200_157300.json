@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/childhood-obesity_us_5b9d4486e4b03a1dcc861d52"
+  },
+  "headline":{
+    "0":"Can TV Help Minority Children Achieve? New Studies Raise Concerns That Low-Income Parents Overvalue Media-Based Education"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Purveyors of cheap and easy (and entirely unhealthy) food see these children as tools to get their typically low-income parents"
+  },
+  "authors":{
+    "0":"Elijah Wolfson, Contributor\nEditor, MedicalDaily.com"
+  },
+  "date":{
+    "0":"2013-06-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"070"
+  },
+  "goldstein_score":{
+    "0":7.0
+  },
+  "nouns":{
+    "0":[
+      "tv",
+      "~med",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "tv",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "help"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "070"
+    ]
+  }
+}

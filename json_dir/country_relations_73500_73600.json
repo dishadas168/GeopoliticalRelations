@@ -1,0 +1,211 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.politico.com\/story\/2016\/02\/south-carolina-dirty-tricks-republicans-219116",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/oregon-standoff_us_56bbfe12e4b0c3c5505019b9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lego-prosthetics-arm_us_56bcb264e4b08ffac1241bf0",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/fPEFLU"
+  },
+  "headline":{
+    "0":"GOP Heads To South Carolina, Where The Dirty Tricks Are About To Start",
+    "1":"FBI Arrests Cliven Bundy",
+    "2":"Kids May Soon Be Able To Build Their Own Prosthetics Out Of Legos",
+    "3":"College Student Wants People To Eat Chik-Fil-A And Ketchup Off Her Body"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"IMPACT",
+    "3":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"In the run-up to their big presidential campaign moments, the big media players in Iowa and New Hampshire gave voters a useful",
+    "1":"The Nevada rancher was charged in federal court with conspiracy, assault on a federal officer and obstruction of justice.",
+    "2":"A customizable Lego prosthetic arm for children has been awarded the grand prize at Netexplo, a digital innovation summit in Paris.",
+    "3":"Chew on this: A performance artist and college student at Texas State University has just done a piece where she covered"
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Gr\u00e9gory Rozi\u00e8res and Annabel Benhaiem, HuffPost France",
+    "3":""
+  },
+  "date":{
+    "0":"2016-02-11 00:00:00",
+    "1":"2016-02-11 00:00:00",
+    "2":"2016-02-11 00:00:00",
+    "3":"2016-02-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usamed",
+    "1":"---jud",
+    "2":"---cvl",
+    "3":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usaagr",
+    "2":"fra",
+    "3":"---ppl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"112",
+    "2":"060",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0,
+    "2":6.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "iowa",
+      "new hampshire",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "media",
+      "usamed",
+      "usamed",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "nevada",
+      "rancher",
+      "usaagr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "federal court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "3":[
+      "college",
+      "student",
+      "~edu",
+      "~",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "voters"
+    ],
+    "1":[
+      "federal court",
+      "nevada rancher"
+    ],
+    "2":[
+      "children",
+      "paris"
+    ],
+    "3":[
+      "college student",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "france"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gave"
+    ],
+    "1":[
+      "<usaagr> ... charged in ... court"
+    ],
+    "2":[
+      "has ... awarded ... at <fra>"
+    ],
+    "3":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":[
+      "agriculture",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamed",
+      "---cvl",
+      "060",
+      "usamed",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---jud",
+      "usaagr",
+      "112"
+    ],
+    "2":[
+      "---cvl",
+      "fra",
+      "060"
+    ],
+    "3":[
+      "---edu",
+      "---ppl",
+      "030"
+    ]
+  }
+}

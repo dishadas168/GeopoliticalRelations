@@ -1,0 +1,103 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cyprus-hiking_us_5b9c8e1fe4b03a1dcc7fc292",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/japan-airlines-serves-kfc_us_5b9c8f83e4b03a1dcc7fcf4d"
+  },
+  "headline":{
+    "0":"Cyprus Reveals Itself To Those Who Walk (PHOTOS)",
+    "1":"Japan Airlines Serves KFC On Flights"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Earlier this year I travelled to a place better known for sea, sand and unrest than for hiking.",
+    "1":"Japan Airlines has announced plans to serve KFC (yes, Kentucky Fried Chicken) on its flights from Tokyo's Narita Airport"
+  },
+  "authors":{
+    "0":"Paul Steele, Contributor\nContributor",
+    "1":""
+  },
+  "date":{
+    "0":"2012-11-28 00:00:00",
+    "1":"2012-11-28 00:00:00"
+  },
+  "actor1":{
+    "0":"cyp",
+    "1":"jpnbus"
+  },
+  "actor2":{
+    "0":"cyp",
+    "1":"jpn"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"031"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":5.2
+  },
+  "nouns":{
+    "0":[
+      "cyprus",
+      "cyp",
+      "cyprus"
+    ],
+    "1":[
+      "japan",
+      "airlines",
+      "jpnbus",
+      "japan",
+      "~",
+      "tokyo",
+      "jpn",
+      "japan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cyprus",
+      "cyprus"
+    ],
+    "1":[
+      "japan airlines",
+      "tokyo"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cyprus",
+      "cyprus"
+    ],
+    "1":[
+      "japan",
+      "japan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reveals"
+    ],
+    "1":[
+      "has announced plans ... serve"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "cyp",
+      "cyp",
+      "050"
+    ],
+    "1":[
+      "jpnbus",
+      "jpn",
+      "031"
+    ]
+  }
+}

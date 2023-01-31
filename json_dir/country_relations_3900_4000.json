@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/whistleblower-ice-hysterectomies-georgia_n_5f60d307c5b68d1b09c812b6",
+    "1":"https:\/\/www.huffpost.com\/entry\/bill-gates-fda-cdc-credibility_n_5f612fa7c5b68d1b09c8ef18",
+    "2":"https:\/\/www.huffpost.com\/entry\/miami-university-ohio-students-coronavirus-party_n_5f5c8713c5b6b4850800ec36",
+    "3":"https:\/\/www.huffpost.com\/entry\/dhs-whistleblower-complaint-allegations_n_5f5a24aec5b62874bc1936ef"
+  },
+  "headline":{
+    "0":"Whistleblower Says Doctor Performed Excessive Hysterectomies On ICE Detainees",
+    "1":"Bill Gates: The FDA Has 'Lost A Lot Of Credibility' Under Trump Administration",
+    "2":"College Students Test Positive For Coronavirus, Throw Party Anyway",
+    "3":"DHS Whistleblower Complaint: 4 Of The Most Explosive Allegations Of Misconduct"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Nurse Dawn Wooten says the doctor she dubbed the \"uterus collector\" also removed the wrong ovary of a patient at Georgia's Irwin County Detention Center.",
+    "1":"The Microsoft co-founder and billionaire philanthropist said the health authority, along with the CDC, is a victim of politics.",
+    "2":"Police cited six men who attended a house party near Miami University in Oxford, Ohio, for violating mass gathering and quarantine rules.",
+    "3":"Acting Homeland Security Secretary Chad Wolf allegedly sought to suppress intelligence information that would make President Trump look bad."
+  },
+  "authors":{
+    "0":"Sara Boboltz",
+    "1":"Jeremy Blum",
+    "2":"",
+    "3":"Hayley Miller"
+  },
+  "date":{
+    "0":"2020-09-15 00:00:00",
+    "1":"2020-09-15 00:00:00",
+    "2":"2020-09-12 00:00:00",
+    "3":"2020-09-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"mncusa",
+    "2":"---cop",
+    "3":"tcd"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"---spy"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"010",
+    "3":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-7.0
+  },
+  "nouns":{
+    "0":[
+      "nurse",
+      "~hlh",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "authority",
+      "~gov",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "chad",
+      "tcd",
+      "chad",
+      "intelligence information",
+      "~spy",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "nurse",
+      "nurse"
+    ],
+    "1":[
+      "microsoft",
+      "authority"
+    ],
+    "2":[
+      "police",
+      "men"
+    ],
+    "3":[
+      "chad",
+      "intelligence information"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "microsoft",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "chad",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "cited"
+    ],
+    "3":[
+      "sought ... suppress"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "mncusa",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "---cop",
+      "---ppl",
+      "010"
+    ],
+    "3":[
+      "tcd",
+      "---spy",
+      "170"
+    ]
+  }
+}

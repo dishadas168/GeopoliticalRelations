@@ -1,0 +1,231 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scott-lloyd-blocked-abortion-memo_us_5a3c1f45e4b06d1621b30381",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-attack-un-jerusalem_us_5a3bec2ee4b06d1621b2bfaf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/republicans-memphis-confederate-statues_us_5a3c0a98e4b06d1621b2ec08",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/as-risk-of-war-with-north-korea-rises-us-should_us_5a3a7962e4b0d86c803c6db8",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/next-on-gop-agenda-curing-medicarewith-help-from_us_5a3a7b83e4b06cd2bd03d6d9"
+  },
+  "headline":{
+    "0":"Trump Official Blocked Immigrant Teen Rape Victim's Abortion Because He Personally Opposed It",
+    "1":"Nikki Haley Says U.S. Is Under Attack At UN For Jerusalem Decision",
+    "2":"Tennessee Republicans Want To Investigate The Removal Of Memphis' Confederate Statues",
+    "3":"As Risk Of War With North Korea Rises, U.S. Should Negotiate With China To Win Its Full Support",
+    "4":"Next On GOP Agenda: 'Curing' Medicare -- With Help From Corporate Flacks And Lobbyists"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"ORR director Scott Lloyd wrote that rape does not justify \"violence against an innocent human life.\"",
+    "1":"The General Assembly voted in favor of Washington withdrawing its recognition of the city as Israel's capital.",
+    "2":"A pair of Confederate statues were taken down Wednesday night after a nonprofit organization bought the parks they stood in.",
+    "3":"With a supposed dealmaker as president, Washington should make an offer to Beijing.",
+    "4":"Now that Congress has passed the GOP\u2019s $1.5 trillion tax bill, the Senate will soon vote on President Trump\u2019s nomination"
+  },
+  "authors":{
+    "0":"Elise Foley and Laura Bassett",
+    "1":"Michelle Nichols, Reuters",
+    "2":"Doha Madani",
+    "3":"Doug Bandow, ContributorContributing writer, policy analyst, one who tilts at windmills",
+    "4":"Wendell Potter, ContributorFounder of Tarbell.org"
+  },
+  "date":{
+    "0":"2017-12-21 00:00:00",
+    "1":"2017-12-21 00:00:00",
+    "2":"2017-12-21 00:00:00",
+    "3":"2017-12-20 00:00:00",
+    "4":"2017-12-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---leg",
+    "2":"usa",
+    "3":"usa",
+    "4":"usagovleg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"usa",
+    "3":"chn",
+    "4":"---gov"
+  },
+  "event_code":{
+    "0":"1821",
+    "1":"031",
+    "2":"090",
+    "3":"050",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":5.2,
+    "2":-2.0,
+    "3":3.5,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "immigrant",
+      "~cvl",
+      "~",
+      "victim",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "general assembly",
+      "~leg",
+      "~",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "tennessee",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "memphis",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china",
+      "chn",
+      "china"
+    ],
+    "4":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "immigrant",
+      "immigrant"
+    ],
+    "1":[
+      "general assembly",
+      "washington"
+    ],
+    "2":[
+      "tennessee",
+      "tennessee"
+    ],
+    "3":[
+      "u.s.",
+      "china"
+    ],
+    "4":[
+      "senate",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "china"
+    ],
+    "4":[
+      "united states congress",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rape"
+    ],
+    "1":[
+      "voted in favor"
+    ],
+    "2":[
+      "want ... investigate"
+    ],
+    "3":[
+      "should negotiate with"
+    ],
+    "4":[
+      "will ... vote"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1",
+      "rape",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "1821"
+    ],
+    "1":[
+      "---leg",
+      "usa",
+      "031"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "090"
+    ],
+    "3":[
+      "usa",
+      "chn",
+      "050"
+    ],
+    "4":[
+      "usagovleg",
+      "---gov",
+      "030"
+    ]
+  }
+}

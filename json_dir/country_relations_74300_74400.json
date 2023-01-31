@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/solarcity-ads_us_56afd4dfe4b09214b14f4015",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-sanders-attacks_us_56af5663e4b077d4fe8ea7fc"
+  },
+  "headline":{
+    "0":"If These Ads Work, They'll Be Irrelevant In 5 Years",
+    "1":"Clinton Pushes Back Against Sanders' 'Negative' And 'Personal' Attacks"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Elon Musk's solar panel company should be competing with other solar producers, not fossil fuel firms.",
+    "1":"Presidential candidates are gearing up for Monday night's Iowa caucuses."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman",
+    "1":"Willa Frej"
+  },
+  "date":{
+    "0":"2016-02-01 00:00:00",
+    "1":"2016-02-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---pty"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "producers",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "presidential candidates",
+      "~pty",
+      "~",
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "company"
+    ],
+    "1":[
+      "presidential candidates",
+      "iowa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... competing"
+    ],
+    "1":[
+      "are <['gearing',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "renewable_energy",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---bus",
+      "110"
+    ],
+    "1":[
+      "---pty",
+      "usa",
+      "030"
+    ]
+  }
+}

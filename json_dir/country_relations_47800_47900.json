@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/egypt-church-suicide-bomber-behind-attack_us_584eabc8e4b04c8e2bb07a83",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-climate-change_us_584d5cf2e4b0bd9c3dfd3473"
+  },
+  "headline":{
+    "0":"Egypt's Sisi Says Suicide Bomber Behind Church Attack",
+    "1":"Donald Trump: 'Nobody Really Knows' If Climate Change Is Real (It Is)"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"And four have so far been arrested in connection with the bombing.",
+    "1":"The president-elect says he's \u201cstudying\u201d the Paris agreement."
+  },
+  "authors":{
+    "0":"",
+    "1":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2016-12-12 00:00:00",
+    "1":"2016-12-11 00:00:00"
+  },
+  "actor1":{
+    "0":"egy",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---reb",
+    "1":"fra"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "egypt",
+      "sisi",
+      "egy",
+      "egygov",
+      "egypt",
+      "abdel",
+      "fattah",
+      "el",
+      "sisi",
+      "suicide bomber",
+      "~reb",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "egypt",
+      "suicide bomber",
+      "sisi",
+      "suicide bomber"
+    ],
+    "1":[
+      "president",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "egypt",
+      "---",
+      "abdel fattah el sisi",
+      "---"
+    ],
+    "1":[
+      "---",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says",
+      "says"
+    ],
+    "1":[
+      "says ... 's ... studying"
+    ]
+  },
+  "issues":{
+    "0":[
+      "suicide_attack",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "egy",
+      "---reb",
+      "010",
+      "egygov",
+      "---reb",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "fra",
+      "090"
+    ]
+  }
+}

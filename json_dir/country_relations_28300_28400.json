@@ -1,0 +1,257 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-us-diplomats_us_597b0920e4b02a4ebb74beaa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fox-and-friends-health-insurance-selfies_us_597b3a44e4b02a8434b5dc96",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/weekend-roundup-180_us_597b45b2e4b0da64e878aecd",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/muslim-workers-claim-they-were-forced-to-choose-between-keeping-religion-or-job_us_597b5a84e4b02a8434b62270",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/austin-mayor-transgender-police_us_5979fa21e4b02a8434b47ba0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/senate-health-care-vote-o-rama_us_5979f2f4e4b02a8434b46871"
+  },
+  "headline":{
+    "0":"U.S. Orders Diplomats' Families To Leave Venezuela As Crisis Deepens",
+    "1":"'Fox & Friends' On Health Care: 'Congrats, Healthy People Are Paying For Sick People'",
+    "2":"Weekend Roundup: China Plots A Future Rooted In History",
+    "3":"Muslim Workers Claim They Were Forced To Choose Between Keeping Religion or Job",
+    "4":"Mayor Invites Trans People Banned From Military To Join Police Department",
+    "5":"Read The Latest Updates On The Senate's Health Care Voting Frenzy"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"MEDIA",
+    "2":"THE WORLDPOST",
+    "3":"RELIGION",
+    "4":"QUEER VOICES",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Violence continues to rage on the street as the opposition against President Nicolas Maduro prepares to hold a day of protests.",
+    "1":"The hosts derided Democratic senators for taking selfies after the vote.",
+    "2":"Beijing is reviving the ancient Silk Road routes and claiming the South China Sea like America once claimed the Caribbean.",
+    "3":"The men asked to switch their meal time so that they could participate in a Ramadan tradition.",
+    "4":"Austin's Steve Adler said trans troops are welcome on his city's law enforcement.",
+    "5":"Senate leaders finally unveil their legislation, and plan to vote on it within hours."
+  },
+  "authors":{
+    "0":"By Alexandra Ulmer and Fabian Cambero, Reuters",
+    "1":"Jenna Amatulli",
+    "2":"Nathan Gardels, ContributorEditor-in-chief, The WorldPost",
+    "3":"Carol Kuruvilla",
+    "4":"Curtis M. Wong",
+    "5":"Jonathan Cohn"
+  },
+  "date":{
+    "0":"2017-07-28 00:00:00",
+    "1":"2017-07-28 00:00:00",
+    "2":"2017-07-28 00:00:00",
+    "3":"2017-07-28 00:00:00",
+    "4":"2017-07-27 00:00:00",
+    "5":"2017-07-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"chn",
+    "3":"---muslab",
+    "4":"---ppl",
+    "5":"usagovleg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---ppl",
+    "2":"chn",
+    "3":"---muslab",
+    "4":"---mil",
+    "5":"usagovleg"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"061",
+    "2":"110",
+    "3":"170",
+    "4":"172",
+    "5":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":6.4,
+    "2":-2.0,
+    "3":-7.0,
+    "4":-5.0,
+    "5":4.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "diplomats",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "beijing",
+      "chn",
+      "china",
+      "china",
+      "chn",
+      "china",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "muslim",
+      "workers",
+      "~muslab",
+      "~",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "5":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "diplomats"
+    ],
+    "1":[
+      "people",
+      "people"
+    ],
+    "2":[
+      "beijing",
+      "beijing"
+    ],
+    "3":[
+      "muslim workers",
+      "muslim workers"
+    ],
+    "4":[
+      "people",
+      "military"
+    ],
+    "5":[
+      "senate",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "china",
+      "china"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "united states congress",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "orders"
+    ],
+    "1":[
+      "are ... paying"
+    ],
+    "2":[
+      "is ... claiming"
+    ],
+    "3":[
+      "claim <~muslab> ... forced"
+    ],
+    "4":[
+      "banned"
+    ],
+    "5":[
+      "<and> ... plan ... vote"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---gov",
+      "100"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "061"
+    ],
+    "2":[
+      "chn",
+      "chn",
+      "110"
+    ],
+    "3":[
+      "---muslab",
+      "---muslab",
+      "170"
+    ],
+    "4":[
+      "---ppl",
+      "---mil",
+      "172"
+    ],
+    "5":[
+      "usagovleg",
+      "usagovleg",
+      "030"
+    ]
+  }
+}

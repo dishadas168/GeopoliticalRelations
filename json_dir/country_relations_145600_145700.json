@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tobacco-targets-youth-global-treaty_us_5b9d9ce0e4b03a1dcc8a4085"
+  },
+  "headline":{
+    "0":"Tobacco Companies Still Target Youth Despite Global Treaty"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Children are highly receptive to marketing, says University of Maryland, College Park, public health research professor Dina"
+  },
+  "authors":{
+    "0":"Amanda L. Chan"
+  },
+  "date":{
+    "0":"2013-10-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "university",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "university"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "3"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "010"
+    ]
+  }
+}

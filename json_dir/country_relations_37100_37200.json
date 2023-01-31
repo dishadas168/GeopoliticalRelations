@@ -1,0 +1,108 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-white-house-visitor-logs_us_58f102e7e4b0bb9638e38353",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/drug-companies-execution-lawsuit_us_58f078d5e4b0bb9638e2f223"
+  },
+  "headline":{
+    "0":"Trump Administration Won't Release Logs Of Visitors To The White House",
+    "1":"2 Companies Intervene To Block Their Drugs In 'Assembly Line' Arkansas Executions"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"President Trump had previously criticized the Obama administration for a lack of transparency.",
+    "1":"Use of the drugs in the planned seven executions \"runs counter to manufacturers' mission to save lives,\" the firms say."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2017-04-14 00:00:00",
+    "1":"2017-04-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "arkansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "the obama administration"
+    ],
+    "1":[
+      "companies",
+      "arkansas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had ... criticized"
+    ],
+    "1":[
+      "intervene ... block"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usagov",
+      "111"
+    ],
+    "1":[
+      "---bus",
+      "usa",
+      "170"
+    ]
+  }
+}

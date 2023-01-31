@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/italy-migrant-rescue_us_55d9c54be4b0a40aa3ab35ec",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.theguardian.com\/world\/2015\/aug\/22\/varoufakis-brands-alexis-tsipras-new-de-gaulle",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lessons-from-a-mykonian-c_b_8028178.html"
+  },
+  "headline":{
+    "0":"Italian Navy Rescues 4,400 Migrants From Nearly Two Dozen Boats",
+    "1":"Yanis Varoufakis Brands Alexis Tsipras The 'New De Gaulle' As Election Gets Ugly",
+    "2":"Lessons from a Mykonian Cat: Collective Compassion and Street Smarts, Can Alter the Course"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"GREEN"
+  },
+  "short_description":{
+    "0":"Europe is struggling to cope with a record influx of refugees.",
+    "1":"The fiery former finance minister criticizes the prime minister.",
+    "2":"We came upon a distressing scene on the cascading street steps in front of our little rental house in Mykonos: A woman was weeping and crying out in Italian next to a grey-white stray cat that was sprawled out in a pool of blood struggling to live."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Lawrence Yanovitch , ContributorPresident, GSMA Foundation"
+  },
+  "date":{
+    "0":"2015-08-23 00:00:00",
+    "1":"2015-08-23 00:00:00",
+    "2":"2015-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"itamil",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"ita"
+  },
+  "event_code":{
+    "0":"073",
+    "1":"111",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":7.4,
+    "1":-2.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "italian",
+      "navy",
+      "itamil",
+      "italy",
+      "~",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "minister",
+      "~gov",
+      "~",
+      "prime minister",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "italian",
+      "ita",
+      "italy"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "italian navy",
+      "migrants"
+    ],
+    "1":[
+      "minister",
+      "minister"
+    ],
+    "2":[
+      "woman",
+      "italian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "italy"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rescues"
+    ],
+    "1":[
+      "criticizes"
+    ],
+    "2":[
+      "was ... crying"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "itamil",
+      "---cvl",
+      "073"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "111"
+    ],
+    "2":[
+      "---cvl",
+      "ita",
+      "110"
+    ]
+  }
+}

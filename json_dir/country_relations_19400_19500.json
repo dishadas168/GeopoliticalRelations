@@ -1,0 +1,321 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jeffrey-tambor-transparent-allegations_us_5a11f4f3e4b0dd63b1ab1f30",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lena-dunham-lenny-letter-zinzi-clemmons_us_5a12e341e4b0dd63b1abd2a3",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/wei-li-mass-shooting-threat_us_5a131266e4b0aa32975cb89f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/clarence-thomas-must-resign_us_5a131fb2e4b05ec0ae844446",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/inauguration-protesters-trial_us_5a12eef3e4b045cf4372f7d6",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/repent-and-believe-in-the-gospel-over-300-christian_us_5a13384fe4b08b00ba6732d2",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/saudi-uae-push-to-mobilize-tribes-against-qatari-emir_us_5a1105eae4b0e30a958507c3"
+  },
+  "headline":{
+    "0":"Jeffrey Tambor Quits 'Transparent' In Wake Of Harassment Allegations",
+    "1":"Writer Calls On Women Of Color 'To Divest From Lena Dunham' After Controversy",
+    "2":"Ohio Man Threatened Historical Mass Shooting At Las Vegas Casino",
+    "3":"Clarence Thomas Must Resign",
+    "4":"A 'Sea Of Black Masks': Prosecutors Open Felony Trial Of Inauguration Protesters",
+    "5":"Repent And Believe In The Gospel! Over 300 Christian Theologians Challenge The Corruption Of U.S. Christianity",
+    "6":"Saudi-UAE Push To Mobilize Tribes Against Qatari Emir"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"MEDIA",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"RELIGION",
+    "6":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The actor has been accused of sexual misconduct by two different women.",
+    "1":"Author Zinzi Clemmons said she would no longer contribute to Dunham's Lenny Letter after the \"Girls\" creator defended a writer on the show accused of rape.",
+    "2":"The suspect faces federal charges after making a series of threats to his estranged wife.",
+    "3":"Utah Republican Orrin Hatch called \u201cbullcrap\u201d on Ohio Democrat Sherrod Brown last week. The Senate Finance Committee lion",
+    "4":"The U.S. government plans to seek felony convictions for nearly 200 inauguration protesters. The first trial is now underway.",
+    "5":"The Boston Declaration, condemning the abuse of the Christian faith by many conservatives today, was just written, signed",
+    "6":"For now, the promotion of opponents of Sheikh Tamim appears to be more of a public relations stunt and fixture of the media war than a serious challenge."
+  },
+  "authors":{
+    "0":"Curtis M. Wong",
+    "1":"Marina Fang",
+    "2":"David Moye",
+    "3":"Marty Kaplan, Guest WriterGuest Writer",
+    "4":"Ryan J. Reilly",
+    "5":"Susan Thistlethwaite, ContributorI am a Professor of Theology and President Emerita of Chicago ...",
+    "6":"James M. Dorsey, ContributorS. Rajaratnam School of International Studies, Senior fellow"
+  },
+  "date":{
+    "0":"2017-11-20 00:00:00",
+    "1":"2017-11-20 00:00:00",
+    "2":"2017-11-20 00:00:00",
+    "3":"2017-11-20 00:00:00",
+    "4":"2017-11-20 00:00:00",
+    "5":"2017-11-20 00:00:00",
+    "6":"2017-11-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"usappl",
+    "3":"usa",
+    "4":"usagov",
+    "5":"---chr",
+    "6":"sau"
+  },
+  "actor2":{
+    "0":"---eli",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"usa",
+    "4":"---opp",
+    "5":"usa",
+    "6":"qat"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"020",
+    "2":"130",
+    "3":"020",
+    "4":"030",
+    "5":"110",
+    "6":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":3.0,
+    "2":-4.4,
+    "3":3.0,
+    "4":4.0,
+    "5":-2.0,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "writer",
+      "~med",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "ohio",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "utah",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "protesters",
+      "~opp",
+      "~"
+    ],
+    "5":[
+      "christian",
+      "~chr",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "saudi",
+      "uae",
+      "sau",
+      "are",
+      "saudi",
+      "arabia",
+      "united",
+      "arab",
+      "emirates",
+      "qatari",
+      "qat",
+      "qatar"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "actor"
+    ],
+    "1":[
+      "writer",
+      "women"
+    ],
+    "2":[
+      "ohio man",
+      "las vegas"
+    ],
+    "3":[
+      "utah",
+      "utah"
+    ],
+    "4":[
+      "u.s. government",
+      "protesters"
+    ],
+    "5":[
+      "christian",
+      "u.s."
+    ],
+    "6":[
+      "saudi",
+      "qatari",
+      "uae",
+      "qatari"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "saudi arabia",
+      "qatar",
+      "united arab emirates",
+      "qatar"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~eli> ... accused of <&crime>"
+    ],
+    "1":[
+      "calls on"
+    ],
+    "2":[
+      "threatened"
+    ],
+    "3":[
+      "called ... on"
+    ],
+    "4":[
+      "plans ... seek"
+    ],
+    "5":[
+      "challenge"
+    ],
+    "6":[
+      "push",
+      "push"
+    ]
+  },
+  "issues":{
+    "0":[
+      "gender_violence",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "corruption",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---eli",
+      "173"
+    ],
+    "1":[
+      "---med",
+      "---cvl",
+      "020"
+    ],
+    "2":[
+      "usappl",
+      "usa",
+      "130"
+    ],
+    "3":[
+      "usa",
+      "usa",
+      "020"
+    ],
+    "4":[
+      "usagov",
+      "---opp",
+      "030"
+    ],
+    "5":[
+      "---chr",
+      "usa",
+      "110"
+    ],
+    "6":[
+      "sau",
+      "qat",
+      "100",
+      "are",
+      "qat",
+      "100"
+    ]
+  }
+}

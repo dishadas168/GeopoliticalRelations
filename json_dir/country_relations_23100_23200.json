@@ -1,0 +1,231 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mean-girls-stars-reunite-for-october-3rd-to-help-las-vegas-victims_us_59d3be16e4b06226e3f3e7b3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/oil-industry-subsidies_us_59d2a20fe4b065578154cbd9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-october-2-2017_us_59d2684be4b0f3c4680610aa",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-parental-leave_us_59cea755e4b05f005d3441f5",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/this-immigrant-created-a-nonprofit-that-teaches-sewing-skills-to-empower-refugees_us_59cc72fae4b05063fe0f148b"
+  },
+  "headline":{
+    "0":"'Mean Girls' Stars Reunite For October 3rd To Help Las Vegas Victims",
+    "1":"The Oil Industry Needs Taxpayers To Prop Up Nearly Half Of Its New U.S. Drilling",
+    "2":"News Roundup for October 2, 2017",
+    "3":"Starbucks Under Fire For Giving Less Parental Leave To Hourly Workers",
+    "4":"This Immigrant Teaches Sewing Skills To Empower Refugees"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"BUSINESS",
+    "4":"IMPACT"
+  },
+  "short_description":{
+    "0":"\"We might not make fetch happen, but we can make this happen.\"",
+    "1":"A new study shows the oil companies\u2019 addiction to government subsidies -- the very thing used by fossil fuel advocates to criticize renewables.",
+    "2":"This is the news. 1. At least 58 people have been killed, and over 500 more injured in Las Vegas. Authorities are calling",
+    "3":"\"This is a moral issue.\"",
+    "4":"An Indian immigrant in Ohio is helping Bhutanese women to be economically independent through her new program."
+  },
+  "authors":{
+    "0":"Cole Delbyck",
+    "1":"Alexander C. Kaufman",
+    "2":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "3":"Emily Peck",
+    "4":"Alessandra Freitas"
+  },
+  "date":{
+    "0":"2017-10-03 00:00:00",
+    "1":"2017-10-02 00:00:00",
+    "2":"2017-10-02 00:00:00",
+    "3":"2017-10-02 00:00:00",
+    "4":"2017-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"usa",
+    "3":"mncusa",
+    "4":"indcvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---lab",
+    "4":"btncvl"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"100",
+    "2":"182",
+    "3":"040",
+    "4":"070"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-5.0,
+    "2":-9.5,
+    "3":1.0,
+    "4":7.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "taxpayers",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "4":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "indian",
+      "immigrant",
+      "indcvl",
+      "india",
+      "~",
+      "bhutanese",
+      "women",
+      "btncvl",
+      "bhutan",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ],
+    "1":[
+      "industry",
+      "taxpayers"
+    ],
+    "2":[
+      "las vegas",
+      "people"
+    ],
+    "3":[
+      "starbucks",
+      "workers"
+    ],
+    "4":[
+      "indian immigrant",
+      "bhutanese women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+      "starbucks",
+      "---"
+    ],
+    "4":[
+      "india",
+      "bhutan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "3rd ... help"
+    ],
+    "1":[
+      "needs"
+    ],
+    "2":[
+      "<~ppl> ... injured in <usa>"
+    ],
+    "3":[
+      "parental leave"
+    ],
+    "4":[
+      "is helping"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "100"
+    ],
+    "2":[
+      "usa",
+      "---ppl",
+      "182"
+    ],
+    "3":[
+      "mncusa",
+      "---lab",
+      "040"
+    ],
+    "4":[
+      "indcvl",
+      "btncvl",
+      "070"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/aflcio-uruguayan-workers-_b_5775474.html"
+  },
+  "headline":{
+    "0":"AFL-CIO and Uruguayan Workers in Solidarity to Protect Democracy From 'Corporate Courts'"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"Why is the AFL-CIO standing in strong solidarity with the workers of Uruguay? We believe that the people, through their elected officials, should be the ones to determine which policies are best for their health, their environment and the general welfare."
+  },
+  "authors":{
+    "0":"Celeste Drake, ContributorTrade & Globalization Policy Specialist, AFL-CIO"
+  },
+  "date":{
+    "0":"2014-09-09 00:00:00"
+  },
+  "actor1":{
+    "0":"urylab"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"074"
+  },
+  "goldstein_score":{
+    "0":8.5
+  },
+  "nouns":{
+    "0":[
+      "uruguayan",
+      "workers",
+      "urylab",
+      "uruguay",
+      "~",
+      "courts",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "uruguayan workers",
+      "courts"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "uruguay",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "to protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "labor_unions",
+      "1",
+      "id_democracy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "urylab",
+      "---jud",
+      "074"
+    ]
+  }
+}

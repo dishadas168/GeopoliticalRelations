@@ -1,0 +1,247 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russian-indicted-us-election_us_5a871b70e4b05c2bcaca8989",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/don-lemon-talk-about-guns_us_5a852718e4b0774f31d1f602",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/cecile-richards-explains-why-reproductive-and-immigrant-justice-go-hand-in-hand_us_5a859fdfe4b0058d5566cf95",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/french-montana-launches-campaign-to-help-dreamers-go-to-college_us_5a85ce3ce4b004fc31901109",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/parkland-shooting-white-supremacist_us_5a85ca6ae4b0774f31d34100"
+  },
+  "headline":{
+    "0":"Robert Mueller Indicts 13 Russians, Details Foreign Efforts To Boost Trump, Harm Clinton",
+    "1":"Don Lemon Has 2 Words For People Who Say It's Not Time To Talk About Guns",
+    "2":"Cecile Richards: Reproductive Justice And Immigrant Justice Go Hand In Hand",
+    "3":"Rapper French Montana Launches Campaign To Help Dreamers Go To College",
+    "4":"Officials Haven't Found Evidence Linking Florida Shooting Suspect To White Supremacists (UPDATE)"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"LATINO VOICES",
+    "3":"LATINO VOICES",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"The special counsel\u2019s office also indicted three Russian entities on Friday, including a state-operated troll farm.",
+    "1":"CNN host calls out politicians who refuse to act.",
+    "2":"The Planned Parenthood president stood with Dreamers and supported a clean Dream Act in an essay for Time magazine.",
+    "3":"\"I am one of tens of thousands of first and second generation immigrants that are having a significant positive impact on the United States.\"",
+    "4":"The leader of the Republic of Florida, a white nationalist militia, had initially told reporters the suspect participated in the group's drills."
+  },
+  "authors":{
+    "0":"Ryan J. Reilly, Jessica Schulberg, and Sam Levine",
+    "1":"Ed Mazza",
+    "2":"Carolina Moreno",
+    "3":"Carolina Moreno",
+    "4":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2018-02-16 00:00:00",
+    "1":"2018-02-15 00:00:00",
+    "2":"2018-02-15 00:00:00",
+    "3":"2018-02-15 00:00:00",
+    "4":"2018-02-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---pty",
+    "2":"---gov",
+    "3":"fra",
+    "4":"usauaf"
+  },
+  "actor2":{
+    "0":"rus",
+    "1":"med",
+    "2":"---med",
+    "3":"---edu",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"041",
+    "2":"050",
+    "3":"040",
+    "4":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":1.0,
+    "2":3.5,
+    "3":1.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "counsel",
+      "~jud",
+      "~",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "cnn",
+      "med",
+      "cnn",
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "magazine",
+      "~med",
+      "~",
+      "magazine",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "french",
+      "montana",
+      "fra",
+      "usa",
+      "france",
+      "united",
+      "states",
+      "of",
+      "america",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "militia",
+      "usauaf",
+      "~",
+      "reporters",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "counsel",
+      "russian"
+    ],
+    "1":[
+      "politicians",
+      "cnn",
+      "cnn",
+      "politicians"
+    ],
+    "2":[
+      "president",
+      "magazine"
+    ],
+    "3":[
+      "french",
+      "college",
+      "montana",
+      "college"
+    ],
+    "4":[
+      "militia",
+      "reporters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "russian federation"
+    ],
+    "1":[
+      "---",
+      "cnn",
+      "cnn",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "france",
+      "---",
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "indicted"
+    ],
+    "1":[
+      "calls",
+      "calls"
+    ],
+    "2":[
+      "<and> ... supported"
+    ],
+    "3":[
+      "to help ... go",
+      "to help ... go"
+    ],
+    "4":[
+      "had ... told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "agriculture",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "rus",
+      "173"
+    ],
+    "1":[
+      "---pty",
+      "med",
+      "041",
+      "med",
+      "---pty",
+      "041"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "050"
+    ],
+    "3":[
+      "fra",
+      "---edu",
+      "040",
+      "usa",
+      "---edu",
+      "040"
+    ],
+    "4":[
+      "usauaf",
+      "---med",
+      "010"
+    ]
+  }
+}

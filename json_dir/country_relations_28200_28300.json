@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/reince-priebus-sean-hannity-outgoing-interview_us_597bb555e4b02a4ebb75902f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trans-community-reacts-to-trumps-military-ban-tweets_us_597b67a3e4b02a8434b63470"
+  },
+  "headline":{
+    "0":"Reince Priebus To Sean Hannity After Resignation: 'I'm Team Trump All The Time'",
+    "1":"Trans Community Reacts To Trump\u2019s Military Ban Tweets"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"The ousted White House chief of staff also called news media \"dishonest\" and called the Russia investigation \"a joke.\"",
+    "1":"Donald Trump tweeted\u00a0Wednesday that America would no longer \u201caccept or allow\u201d trans people to serve in the military. There\u2019s"
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Outspeak"
+  },
+  "date":{
+    "0":"2017-07-29 00:00:00",
+    "1":"2017-07-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "chief of staff",
+      "~gov",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chief of staff",
+      "media",
+      "chief of staff",
+      "russia"
+    ],
+    "1":[
+      "america",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "russian federation"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... called",
+      "<and> ... called"
+    ],
+    "1":[
+      "would ... allow"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---med",
+      "041",
+      "---gov",
+      "rus",
+      "041"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "08"
+    ]
+  }
+}

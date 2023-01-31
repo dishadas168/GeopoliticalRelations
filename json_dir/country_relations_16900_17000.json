@@ -1,0 +1,242 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/zach-wahls-iowa-senate_us_5a41d43ae4b0b0e5a7a3184a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rohingya-crisis-photos_us_5a3bc302e4b025f99e150f1d",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chechen-leader-instagram-ramzan-kadyrov_us_5a426843e4b06d1621b58b03",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/saudi-arabia-pressured-lebanese-prime-minister-to-resign-report_us_5a41184ce4b06d1621b537cf",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/guatemala-embassy-jerusalem_us_5a4038ede4b0b0e5a7a2ce4a"
+  },
+  "headline":{
+    "0":"Zach Wahls, Who Defended His 2 Moms In Viral Video, Is Running For Office",
+    "1":"2017's Rohingya Crisis In Photos",
+    "2":"Russia Demands To Know Why Chechen Leader's Instagram Account Was Blocked",
+    "3":"Saudi Arabia Pressured Lebanese Prime Minister To Resign: Report",
+    "4":"Guatemala Says It Will Move Embassy In Israel To Jerusalem After Trump's Decision"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The LGBTQ rights advocate will seek a seat in the Iowa state Senate.",
+    "1":"More than half a million Rohingya refugees have fled Myanmar.",
+    "2":"Kremlin ally Ramzan Kadyrov has accused the U.S. government of pressuring the social media platform.",
+    "3":"The high-stakes gambit backfired amid international uproar.",
+    "4":"The move comes a few days after the Guatemalan government backed the United States in a row over the city\u2019s status."
+  },
+  "authors":{
+    "0":"Curtis M. Wong",
+    "1":"Jesselyn Cook and Chris McGonigal",
+    "2":"Jesselyn Cook",
+    "3":"Daniel Marans",
+    "4":""
+  },
+  "date":{
+    "0":"2017-12-26 00:00:00",
+    "1":"2017-12-26 00:00:00",
+    "2":"2017-12-26 00:00:00",
+    "3":"2017-12-25 00:00:00",
+    "4":"2017-12-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---ref",
+    "2":"rusgov",
+    "3":"sau",
+    "4":"gtmgov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"mmr",
+    "2":"usagov",
+    "3":"lbn",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"075",
+    "2":"112",
+    "3":"170",
+    "4":"050"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":7.0,
+    "2":-2.0,
+    "3":-7.0,
+    "4":3.5
+  },
+  "nouns":{
+    "0":[
+      "advocate",
+      "~jud",
+      "~",
+      "iowa",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ],
+    "1":[
+      "refugees",
+      "~ref",
+      "~",
+      "myanmar",
+      "mmr",
+      "myanmar"
+    ],
+    "2":[
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia",
+      "lebanese",
+      "lbn",
+      "lebanon"
+    ],
+    "4":[
+      "guatemalan",
+      "government",
+      "gtmgov",
+      "guatemala",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocate",
+      "iowa",
+      "advocate",
+      "senate"
+    ],
+    "1":[
+      "refugees",
+      "myanmar"
+    ],
+    "2":[
+      "kremlin",
+      "u.s. government"
+    ],
+    "3":[
+      "saudi arabia",
+      "lebanese"
+    ],
+    "4":[
+      "guatemalan government",
+      "the ... united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america",
+      "---",
+      "united states congress"
+    ],
+    "1":[
+      "---",
+      "myanmar"
+    ],
+    "2":[
+      "kremlin",
+      "united states of america"
+    ],
+    "3":[
+      "saudi arabia",
+      "lebanon"
+    ],
+    "4":[
+      "guatemala",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will seek",
+      "will seek"
+    ],
+    "1":[
+      "have <&refugee> fled"
+    ],
+    "2":[
+      "has accused"
+    ],
+    "3":[
+      "pressured"
+    ],
+    "4":[
+      "backed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "refugees",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "usa",
+      "030",
+      "---jud",
+      "usagovleg",
+      "030"
+    ],
+    "1":[
+      "---ref",
+      "mmr",
+      "075"
+    ],
+    "2":[
+      "rusgov",
+      "usagov",
+      "112"
+    ],
+    "3":[
+      "sau",
+      "lbn",
+      "170"
+    ],
+    "4":[
+      "gtmgov",
+      "usa",
+      "050"
+    ]
+  }
+}

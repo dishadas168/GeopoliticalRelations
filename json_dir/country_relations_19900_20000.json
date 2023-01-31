@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/strategies-for-evaluating-the-trump-presidency-in-a_us_5a09801ce4b0ee8ec3694314",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-duterte-human-rights_us_5a095793e4b01d21c83f81d4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/making-america-great-againin-niger_us_5a09e453e4b00652392182fa",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-doubles-down-on-sanctions-and-regime-change-for_us_5a0a1920e4b060fb7e59d305",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/dreyfuss-denies-exposing-himself_us_5a092685e4b0e37d2f386134"
+  },
+  "headline":{
+    "0":"Strategies For Evaluating The Trump Presidency In A High School Classroom",
+    "1":"Trump Cozies Up To Duterte, Ignores Human Rights Questions",
+    "2":"Making America Great Again\u2014In Niger?",
+    "3":"Trump Doubles Down On Sanctions And Regime Change For Venezuela",
+    "4":"Actor Richard Dreyfuss Denies Exposing Himself To Writer"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"At recent meetings a number of social studies teachers asked me for suggestions on how to evaluate, with their high school",
+    "1":"He also laughed when the Philippine leader referred to journalists as \"spies.\"",
+    "2":"One wonders how many Niger-like tragedies it will take before we get the message.",
+    "3":"On Nov. 3, President Maduro of Venezuela proposed a meeting with creditors, for Nov. 13 in Caracas, to discuss a restructuring",
+    "4":"But concedes he was an \"asshole\" and a horrible \"flirt.\""
+  },
+  "authors":{
+    "0":"Alan Singer, ContributorSocial studies educator, Hofstra University, my opinions, of c...",
+    "1":"Willa Frej",
+    "2":"Amitai Etzioni, ContributorUniversity Professor and Professor of International Relations,...",
+    "3":"Mark Weisbrot, ContributorCo-Director, Center for Economic and Policy Research",
+    "4":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2017-11-13 00:00:00",
+    "1":"2017-11-13 00:00:00",
+    "2":"2017-11-13 00:00:00",
+    "3":"2017-11-13 00:00:00",
+    "4":"2017-11-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"phl",
+    "2":"ner",
+    "3":"vengov",
+    "4":"---eli"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---med",
+    "2":"ner",
+    "3":"ven",
+    "4":"---eli"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"040",
+    "3":"026",
+    "4":"050"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":1.0,
+    "3":4.0,
+    "4":3.5
+  },
+  "nouns":{
+    "0":[
+      "teachers",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "philippine",
+      "phl",
+      "philippines",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "niger",
+      "ner",
+      "niger"
+    ],
+    "3":[
+      "venezuela",
+      "ven",
+      "venezuela",
+      "president maduro",
+      "vengov",
+      "nicolas",
+      "maduro",
+      "caracas",
+      "ven",
+      "venezuela"
+    ],
+    "4":[
+      "actor",
+      "~eli",
+      "~",
+      "writer",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teachers",
+      "teachers"
+    ],
+    "1":[
+      "philippine",
+      "journalists"
+    ],
+    "2":[
+      "niger",
+      "niger"
+    ],
+    "3":[
+      "president maduro",
+      "venezuela"
+    ],
+    "4":[
+      "actor",
+      "actor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "philippines",
+      "---"
+    ],
+    "2":[
+      "niger",
+      "niger"
+    ],
+    "3":[
+      "nicolas maduro",
+      "venezuela"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asked"
+    ],
+    "1":[
+      "referred"
+    ],
+    "2":[
+      "will take ... get ... message"
+    ],
+    "3":[
+      "proposed ... meeting"
+    ],
+    "4":[
+      "denies exposing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "020"
+    ],
+    "1":[
+      "phl",
+      "---med",
+      "010"
+    ],
+    "2":[
+      "ner",
+      "ner",
+      "040"
+    ],
+    "3":[
+      "vengov",
+      "ven",
+      "026"
+    ],
+    "4":[
+      "---eli",
+      "---eli",
+      "050"
+    ]
+  }
+}

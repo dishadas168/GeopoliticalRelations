@@ -1,0 +1,142 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/nikki-haley-un-ambassador-confirmed_us_5887e907e4b0b481c76bbde2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/office-of-special-counsel-federal-worker-rights_us_58892229e4b0024605fdace2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-twitter-voter-fraud_us_58890fc6e4b0024605fd8852"
+  },
+  "headline":{
+    "0":"Senate Confirms Nikki Haley As Trump's U.N. Ambassador",
+    "1":"This Agency Is Trying To Remind Federal Workers They Still Have Rights",
+    "2":"Donald Trump\u2019s Voter Fraud Fixation Offers Window Into Governing Via Twitter"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The South Carolina governor was backed by Ninety-six senators, with four opposing her.",
+    "1":"\u201cThe federal government must foster an environment where employee disclosures are welcomed.\"",
+    "2":"The new president\u2019s 140-character habit forces the White House\u2019s spokesman to offer dramatically different messages less than 24 hours apart."
+  },
+  "authors":{
+    "0":"Patricia Zengerle, Reuters",
+    "1":"Kate Sheppard",
+    "2":"S.V. Date"
+  },
+  "date":{
+    "0":"2017-01-25 00:00:00",
+    "1":"2017-01-25 00:00:00",
+    "2":"2017-01-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---lab",
+    "2":"usagovmed"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"051",
+    "2":"170"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":3.4,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "senators",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "government",
+      "~gov",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "the white house",
+      "spokesman",
+      "usagovmed",
+      "white",
+      "house",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "governor"
+    ],
+    "1":[
+      "government",
+      "employee"
+    ],
+    "2":[
+      "president",
+      "the ... white house ... spokesman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "white house"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~gov> ... backed by <~leg>"
+    ],
+    "1":[
+      "must <~lab> ... welcomed"
+    ],
+    "2":[
+      "forces"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---gov",
+      "050"
+    ],
+    "1":[
+      "---gov",
+      "---lab",
+      "051"
+    ],
+    "2":[
+      "---gov",
+      "usagovmed",
+      "170"
+    ]
+  }
+}

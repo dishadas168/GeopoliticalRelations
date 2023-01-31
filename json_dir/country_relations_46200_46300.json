@@ -1,0 +1,198 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/boss-free-caribbean-cruise-to-800-workers_us_5867284ce4b0eb5864898dc2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-vladimir-putin_us_5866b8e1e4b0eb58648952e0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/greek-ambassador-murdered-by-wifes-lover_us_5866e4eae4b0eb5864898282",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-advisor-says-us-should-make-the-russians-feel-pain-for-meddling-with-election_us_58666495e4b0de3a08f7fb2b"
+  },
+  "headline":{
+    "0":"Boss Offers Free Caribbean Cruise to 800 Workers",
+    "1":"Donald Trump Praises Vladimir Putin: 'I Always Knew He Was Very Smart!'",
+    "2":"Brazil Investigators Say Greek Ambassador Was Murdered By Wife's Lover",
+    "3":"Donald Trump Adviser Says U.S. Should 'Make The Russians Feel Pain' For Meddling In Election"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Incentive makes a splash with Iowa cabinet company employees.",
+    "1":"The comment comes after the Obama administration announced its response to Russian hacking.",
+    "2":"RIO DE JANEIRO (Reuters) - Brazilian investigators said on Friday that a policeman in Rio de Janeiro confessed to stabbing",
+    "3":"The former U.S. ambassador to the U.N. called the reported Russia hack \"an attack on our constitutional system.\u201d"
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Ben Walsh",
+    "2":"",
+    "3":"Hayley Miller"
+  },
+  "date":{
+    "0":"2016-12-31 00:00:00",
+    "1":"2016-12-30 00:00:00",
+    "2":"2016-12-30 00:00:00",
+    "3":"2016-12-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usagov",
+    "2":"bra",
+    "3":"rus"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"rus",
+    "2":"grcgov",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"010",
+    "2":"015",
+    "3":"041"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "boss",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "russian",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "2":[
+      "brazil",
+      "bra",
+      "brazil",
+      "greek",
+      "ambassador",
+      "grcgov",
+      "greece",
+      "~"
+    ],
+    "3":[
+      "u.s.",
+      "ambassador to",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "boss",
+      "workers"
+    ],
+    "1":[
+      "the ... obama administration",
+      "russian"
+    ],
+    "2":[
+      "brazil",
+      "greek ambassador"
+    ],
+    "3":[
+      "russia",
+      "u.s. ambassador to",
+      "u.s. ambassador to",
+      "russia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "russian federation"
+    ],
+    "2":[
+      "brazil",
+      "greece"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america",
+      "united states of america",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ],
+    "1":[
+      "announced"
+    ],
+    "2":[
+      "say <grcgov> ... murdered by <--->"
+    ],
+    "3":[
+      "called",
+      "called"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "cyber_security",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "030"
+    ],
+    "1":[
+      "usagov",
+      "rus",
+      "010"
+    ],
+    "2":[
+      "bra",
+      "grcgov",
+      "015"
+    ],
+    "3":[
+      "rus",
+      "usagov",
+      "041",
+      "usagov",
+      "rus",
+      "041"
+    ]
+  }
+}

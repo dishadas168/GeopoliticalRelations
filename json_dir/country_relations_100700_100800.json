@@ -1,0 +1,234 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/freedom-to-marry_n_6880616.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fighting-the-war-on-women_3_b_6920366.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/when-school-is-not-enough_b_6925594.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/leaders-tell-obama-time-r_b_6924982.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/domestic-murder-and-murder-suicide_b_6592950.html"
+  },
+  "headline":{
+    "0":"This Gay Rights Group Wants The Supreme Court To Shut It Down",
+    "1":"Fighting the War on Women: South Africa 2015",
+    "2":"When School Is Not Enough: Four Alternative Education Programs That Meet Youths' Needs",
+    "3":"Leaders Tell Obama: Time Running Out on Preventing Chemical Disasters",
+    "4":"Domestic Murder and Murder-Suicide: It's Not About the Relationship"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT",
+    "2":"IMPACT",
+    "3":"GREEN",
+    "4":"CRIME"
+  },
+  "short_description":{
+    "0":"",
+    "1":"For our first round of Kuros! pepper spray drops in Africa, we had planned to conduct a number of the drops in the \"squatter camps\" surrounding Johannesberg, South Africa.",
+    "2":"Girls raised in Mumbai's brothels deal not only with challenging living conditions but also with physical, mental, and sexual violence. Several NGOs provide education and skills training to the children to try to break the cycle of prostitution, but few have their sights set beyond traditional work.",
+    "3":"Late last week, hundreds of organizations and people sent a letter to President Obama warning that his administration is running of time to act on an issue long-identified by the president as essential to our national security and public safety: protecting our people from the dangers of accidents or deliberate attacks at U.S. chemical plants.  Here is the text of the letter.",
+    "4":"By relying solely on non-experts as sources of information, the media wittingly or unwittingly reinforces misconceptions about domestic homicides. Domestic homicides sometimes provide experts with the opportunity to call attention to the underlying realities -- but only when the media thinks to call us."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Kuro Tawil, ContributorFounder of Kuros!",
+    "2":"Josephine d'Allant, ContributorManaging Editor, URB.im",
+    "3":"David Halperin, ContributorAttorney, advocate, writer at RepublicReport.org",
+    "4":"David Adams, ContributorPsychologist, and Co-Founder and Co-Director of Emerge, an abu..."
+  },
+  "date":{
+    "0":"2015-03-23 00:00:00",
+    "1":"2015-03-23 00:00:00",
+    "2":"2015-03-23 00:00:00",
+    "3":"2015-03-23 00:00:00",
+    "4":"2015-03-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---hri",
+    "1":"zaf",
+    "2":"---ngo",
+    "3":"---ppl",
+    "4":"---med"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"---cvl",
+    "3":"usagov",
+    "4":"---med"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"190",
+    "2":"030",
+    "3":"040",
+    "4":"041"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":1.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "rights group",
+      "~hri",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "south africa",
+      "zaf",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "ngos",
+      "~ngo",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "administration",
+      "~gov",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rights group",
+      "supreme court"
+    ],
+    "1":[
+      "south africa",
+      "women"
+    ],
+    "2":[
+      "ngos",
+      "children"
+    ],
+    "3":[
+      "people",
+      "president obama"
+    ],
+    "4":[
+      "media",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "republic of south africa",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "barack obama"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants"
+    ],
+    "1":[
+      "fighting"
+    ],
+    "2":[
+      "provide ... training"
+    ],
+    "3":[
+      "sent ... letter"
+    ],
+    "4":[
+      "thinks ... call"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1",
+      "civil_society",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "civil_society",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---hri",
+      "---jud",
+      "030"
+    ],
+    "1":[
+      "zaf",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "---ngo",
+      "---cvl",
+      "030"
+    ],
+    "3":[
+      "---ppl",
+      "usagov",
+      "040"
+    ],
+    "4":[
+      "---med",
+      "---med",
+      "041"
+    ]
+  }
+}

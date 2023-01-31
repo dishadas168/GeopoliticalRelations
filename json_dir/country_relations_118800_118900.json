@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/missouri-the-show-me-stat_b_5698470.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kendra-turner-bless-you_n_5697629.html"
+  },
+  "headline":{
+    "0":"Missouri: The Show Me State?",
+    "1":"Student Says She Was Punished At School For Saying \"Bless You\""
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"RELIGION"
+  },
+  "short_description":{
+    "0":"Missouri calls itself \"The Show Me State.\" Someone should accept its invitation. It needs all the help it can get.",
+    "1":""
+  },
+  "authors":{
+    "0":"Christopher Brauchli, ContributorLawyer",
+    "1":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2014-08-21 00:00:00",
+    "1":"2014-08-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri",
+      "missouri"
+    ],
+    "1":[
+      "student",
+      "student"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls"
+    ],
+    "1":[
+      "says <~edu> ... punished"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "041",
+      "usa",
+      "usa",
+      "041"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "170"
+    ]
+  }
+}

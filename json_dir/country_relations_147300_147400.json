@@ -1,0 +1,81 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/europes-most-beautiful-vi_us_5b9d91ebe4b03a1dcc89a218"
+  },
+  "headline":{
+    "0":"Europe's Most Beautiful Villages"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The notion of postcard-perfect villages steeped in old-world charm has inspired centuries of travelers to fan out across Europe, seeking its secluded hamlets."
+  },
+  "authors":{
+    "0":"Travel + Leisure, Contributor\nTravelandLeisure.com"
+  },
+  "date":{
+    "0":"2013-10-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "villages",
+      "~cvl",
+      "~",
+      "villages",
+      "~cvl",
+      "~",
+      "villages",
+      "~cvl",
+      "~",
+      "travelers",
+      "~cvl",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "villages",
+      "villages"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has inspired"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "051"
+    ]
+  }
+}

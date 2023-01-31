@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/waco-biker-mayhem-again-r_b_7418358.html"
+  },
+  "headline":{
+    "0":"Waco Biker Mayhem Again Raises the Fierce Racial Double Standard"
+  },
+  "category":{
+    "0":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"The bulging numbers of blacks in America's jails and prisons seem to reinforce the wrong-headed perception that crime and violence in America invariably comes with a young, black male face. The brutal reality is that Waco won't change that. It will be the proverbial one day in, one day out news story."
+  },
+  "authors":{
+    "0":"Earl Ofari Hutchinson, ContributorAuthor and political analyst"
+  },
+  "date":{
+    "0":"2015-05-22 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"170"
+  },
+  "goldstein_score":{
+    "0":-7.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "prisons",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "male",
+      "mdv",
+      "maldives"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america ... prisons",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usa",
+      "170"
+    ]
+  }
+}

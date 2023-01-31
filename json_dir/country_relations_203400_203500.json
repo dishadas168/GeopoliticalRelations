@@ -1,0 +1,118 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/heart-month_us_5b9b4ab8e4b03a1dcc76654b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-gay-traveler-flash-sales-take-on-hotels_us_5b9b49ffe4b03a1dcc765c6c"
+  },
+  "headline":{
+    "0":"Day 8: Know the 7 Symptoms of Women's Heart Attack",
+    "1":"The Gay Traveler: Flash Sales Take On The Hotel Industry"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Patricia Butts, First Lady of Harlem's Abyssinian Baptist Church, has written rap lyrics to help women remember the seven signs of a woman's heart attack -- not the same as for a man.",
+    "1":"Online booking sites like Priceline.com and Hotwire.com have been helping hotels fill empty rooms at steep discounts for years now. But with recessionary times, come recessionary opportunities to take advantage of consumer's penny pinching desires, and a rash of companies are jumping in the game."
+  },
+  "authors":{
+    "0":"Suzanne O'Malley, Contributor\nAuthor, Screenwriter, Yale University Lecturer",
+    "1":"Dane Steele Green, Contributor\nPresident & CEO - Steele Luxury Travel"
+  },
+  "date":{
+    "0":"2012-02-08 00:00:00",
+    "1":"2012-02-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "first lady",
+      "~eli",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "traveler",
+      "~cvl",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "first lady",
+      "women"
+    ],
+    "1":[
+      "traveler",
+      "industry"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1",
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---cvl",
+      "070"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "171"
+    ]
+  }
+}

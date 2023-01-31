@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israelis-and-palestinians_6_b_6256538.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/signs-of-faith-after-dead_b_6192586.html"
+  },
+  "headline":{
+    "0":"Israelis and Palestinians at Harvard: Part 9 of 9",
+    "1":"Israel's Bedouin Schools Thrive in Negev Desert"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"My time with future leaders of Israel and Palestine leaves me with a somewhat pessimistic outlook, but there is reason for hope.",
+    "1":"In the sandy dunes of the northern Negev desert between Arad and Be'er Sheva, 130 students who belong to a local Bedouin tribe, study at the Al-Sayed Technological School. The students come from a weak socio-economic background and a great number of students suffer from learning disabilities as a result of inter-family marriages."
+  },
+  "authors":{
+    "0":"Paul Heroux, ContributorState Representative, Massachusetts",
+    "1":"Anav Silverman, ContributorInternational Correspondent in Jerusalem"
+  },
+  "date":{
+    "0":"2015-01-06 00:00:00",
+    "1":"2015-01-05 00:00:00"
+  },
+  "actor1":{
+    "0":"isr",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"pse",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "israel",
+      "palestine",
+      "isr",
+      "pse",
+      "israel",
+      "palestine"
+    ],
+    "1":[
+      "students",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+
+    ],
+    "1":[
+      "students",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+
+    ],
+    "1":[
+      "study"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isr",
+      "pse",
+      "040",
+      "pse",
+      "isr",
+      "040"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "090"
+    ]
+  }
+}

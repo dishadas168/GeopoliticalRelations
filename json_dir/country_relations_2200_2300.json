@@ -1,0 +1,272 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/jill-biden-tokyo-olympics-message-team-usa_n_60faa268e4b0ddf0097e2f5f",
+    "1":"https:\/\/www.huffpost.com\/entry\/biden-fda-approval-covid-vaccines_n_60f8f1e1e4b0d1bafbfa6235",
+    "2":"https:\/\/www.huffpost.com\/entry\/covid-vaccine-hesitancy-mitch-mcconnell-perplexed_n_60ede3fae4b0b2a04a1df3af",
+    "3":"https:\/\/www.huffpost.com\/entry\/richard-branson-virgin-galactic_n_60eaefe8e4b09f0145f3d064",
+    "4":"https:\/\/www.huffpost.com\/entry\/ice-to-avoid-detention-pregnant-post-partum-nursing_n_60e85a8ce4b0b9a790b85d0c",
+    "5":"https:\/\/www.huffpost.com\/entry\/biden-speech-afghanistan-war_n_60e736a6e4b0bb924488ff93"
+  },
+  "headline":{
+    "0":"Jill Biden\u2019s 'United' Message To U.S. Olympians: We Are More Than Our Political Parties",
+    "1":"Biden Hopes For Full FDA Approval Of COVID-19 Vaccines \u2018Soon\u2019; Jabs For Kids May Follow",
+    "2":"Mitch McConnell \u2018Perplexed\u2019 By COVID-19 Vaccine Resistance His Own Party Is Pushing",
+    "3":"Virgin Galactic\u2019s Richard Branson Blasts Off, Reaches Edge Of Space",
+    "4":"ICE To Limit Detention Of Pregnant, Nursing And Postpartum Immigrants",
+    "5":"Joe Biden To Make Good On His Afghanistan Promise By Aug. 31"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"SCIENCE",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"We are all, first and foremost, Team USA,\" the first lady said ahead of the Tokyo opening ceremony.",
+    "1":"\"We have a pandemic for those who haven't gotten the vaccination,\u201d the president said during a CNN town hall.",
+    "2":"\u201cI can only speak for myself,\u201d the top Republican in the Senate said when asked about other GOP senators fueling vaccine hesitancy.",
+    "3":"The thrill-seeking billionaire and five employees took off from New Mexico.",
+    "4":"The new Biden administration policy could lead to the quick release of up to 13 women currently in Immigration and Customs Enforcement custody.",
+    "5":"\u201cJust one more year ... is not a solution but a recipe for being there indefinitely,\" the president said of America's longest-running war."
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Nick Visser",
+    "2":"Igor Bobic",
+    "3":"By SUSAN MONTOYA BRYAN and MARCIA DUNN, Associated Press",
+    "4":"Elise Foley",
+    "5":"Akbar Shahid Ahmed and S.V. Date"
+  },
+  "date":{
+    "0":"2021-07-23 00:00:00",
+    "1":"2021-07-22 00:00:00",
+    "2":"2021-07-13 00:00:00",
+    "3":"2021-07-11 00:00:00",
+    "4":"2021-07-09 00:00:00",
+    "5":"2021-07-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"---gov",
+    "2":"usagovleg",
+    "3":"---lab",
+    "4":"---gov",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"jpn",
+    "1":"med",
+    "2":"---leg",
+    "3":"usa",
+    "4":"---cvl",
+    "5":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"020",
+    "3":"171",
+    "4":"042",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":3.0,
+    "3":-9.2,
+    "4":1.9,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "first lady",
+      "~eli",
+      "~",
+      "tokyo",
+      "jpn",
+      "japan"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "senators",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "employees",
+      "~lab",
+      "~",
+      "new mexico",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "administration",
+      "~gov",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "first ... lady",
+      "tokyo"
+    ],
+    "1":[
+      "president",
+      "cnn"
+    ],
+    "2":[
+      "senate",
+      "senators"
+    ],
+    "3":[
+      "employees",
+      "new mexico"
+    ],
+    "4":[
+      "administration",
+      "women"
+    ],
+    "5":[
+      "president",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "japan"
+    ],
+    "1":[
+      "---",
+      "cnn"
+    ],
+    "2":[
+      "united states congress",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "said"
+    ],
+    "2":[
+      "said ... asked"
+    ],
+    "3":[
+      "took"
+    ],
+    "4":[
+      "could lead to"
+    ],
+    "5":[
+      "said"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_pandemic",
+      "1",
+      "vaccination",
+      "1"
+    ],
+    "2":[
+      "vaccination",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "id_immigration",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "jpn",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "med",
+      "010"
+    ],
+    "2":[
+      "usagovleg",
+      "---leg",
+      "020"
+    ],
+    "3":[
+      "---lab",
+      "usa",
+      "171"
+    ],
+    "4":[
+      "---gov",
+      "---cvl",
+      "042"
+    ],
+    "5":[
+      "---gov",
+      "usa",
+      "010"
+    ]
+  }
+}

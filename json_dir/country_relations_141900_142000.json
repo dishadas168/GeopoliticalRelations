@@ -1,0 +1,80 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/robber-suicide-standoff-dead-5-hour-standoff_us_5ba2c640e4b0c2784da61544"
+  },
+  "headline":{
+    "0":"Robbery Suspect Dead In Apparent Suicide After 5-Hour Standoff: Cops"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"A robbery suspect in Southern California has taken his own life after a standoff with police that lasted nearly six hours"
+  },
+  "authors":{
+    "0":"Hilary Hanson"
+  },
+  "date":{
+    "0":"2013-11-30 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has taken"
+    ]
+  },
+  "issues":{
+    "0":[
+      "common_robbery",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cop",
+      "171"
+    ]
+  }
+}

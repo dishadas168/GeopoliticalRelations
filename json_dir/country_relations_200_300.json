@@ -1,0 +1,185 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/lawyers-appeal-brittney-griners-russian-prison-sentence_n_62fa1bb7e4b045e6f6aef6fb",
+    "1":"https:\/\/www.huffpost.com\/entry\/israel-palestinian-gunman-jerusalem-shooting_n_62f8e0a5e4b0288b61a569f9",
+    "2":"https:\/\/www.huffpost.com\/entry\/united-states-missing-girl-new-hampshire_n_62f55349e4b045e6f6abcc27",
+    "3":"https:\/\/www.huffpost.com\/entry\/alabama-joe-nathan-james-jr-witness-skirt_n_62e41fcae4b07f83766f12fe"
+  },
+  "headline":{
+    "0":"Lawyers Appeal Brittney Griner's Russian Prison Sentence",
+    "1":"Palestinian Gunman Wounds 8 In Late-Night Jerusalem Shooting",
+    "2":"Officials: NH Missing Girl Case Shifts To Homicide Probe",
+    "3":"Alabama Official Told Reporter Her Skirt Was Too Short To Witness An Execution"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"WORLD NEWS",
+    "2":"CRIME",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Lawyers for the American basketball star said after Griner's conviction that the sentence was excessive.",
+    "1":"The attack in Jerusalem followed a tense week between Israel and Palestinians in Gaza and the West Bank.",
+    "2":"Authorities say the search for a New Hampshire girl who disappeared at age 5 in 2019 but was not reported missing until late last year is now considered a homicide investigation.",
+    "3":"Ivana Hrynkiw was ultimately allowed to witness the killing of Joe Nathan James Jr., who was executed against the wishes of his victim\u2019s family members."
+  },
+  "authors":{
+    "0":"Jim Heintz, AP",
+    "1":"Ilan Ben Zion, AP",
+    "2":"Holly Ramer, AP",
+    "3":"Jessica Schulberg"
+  },
+  "date":{
+    "0":"2022-08-15 00:00:00",
+    "1":"2022-08-14 00:00:00",
+    "2":"2022-08-11 00:00:00",
+    "3":"2022-07-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"pseuaf",
+    "2":"---gov",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"ruscop",
+    "1":"isr",
+    "2":"---cvl",
+    "3":"---med"
+  },
+  "event_code":{
+    "0":"025",
+    "1":"180",
+    "2":"010",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":-0.3,
+    "1":-9.0,
+    "2":0.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "lawyers",
+      "~jud",
+      "~",
+      "russian",
+      "prison",
+      "ruscop",
+      "russian",
+      "federation",
+      "~"
+    ],
+    "1":[
+      "palestinian",
+      "gunman",
+      "pseuaf",
+      "palestine",
+      "~",
+      "jerusalem",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "girl",
+      "~cvl",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "alabama",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "reporter",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyers",
+      "russian prison"
+    ],
+    "1":[
+      "palestinian gunman",
+      "jerusalem"
+    ],
+    "2":[
+      "authorities",
+      "girl"
+    ],
+    "3":[
+      "alabama",
+      "reporter"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "russian federation"
+    ],
+    "1":[
+      "palestine",
+      "israel"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "appeal ... sentence"
+    ],
+    "1":[
+      "wounds"
+    ],
+    "2":[
+      "say"
+    ],
+    "3":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "ruscop",
+      "025"
+    ],
+    "1":[
+      "pseuaf",
+      "isr",
+      "180"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "---med",
+      "010"
+    ]
+  }
+}

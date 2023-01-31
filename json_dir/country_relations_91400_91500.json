@@ -1,0 +1,271 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/california-farmer-water-cutbacks-blocked-by-judge_us_55a06e1be4b0b8145f72dcc9",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iran-monday-deadline_us_55a1046be4b0a47ac15caaa7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/jonathan-sanders-strangled_n_7775726.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/greece-needs-more-than-a-_b_7775948.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/disney-world-removes-confederate-flag-from-epcot_us_559f2919e4b01c2162a640b4",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/disney-world-removes-confederate-flag-from-epcot_us_559f2919e4b01c2162a640b4"
+  },
+  "headline":{
+    "0":"California Farmer Water Cutbacks Blocked By Judge",
+    "1":"Monday Deadline Looms For Iran Nuclear Talks",
+    "2":"Attorney Says Mississippi Cop Strangled Unarmed Black Man To Death",
+    "3":"There Is No Quick Fix for Greece",
+    "4":"Disney Removes Confederate Flag From Walt Disney World's Epcot Theme Park",
+    "5":"Disney Removes Confederate Flag From Walt Disney World's Epcot Theme Park"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"THE WORLDPOST",
+    "2":"BLACK VOICES",
+    "3":"WORLDPOST",
+    "4":"BUSINESS",
+    "5":"BUSINESS"
+  },
+  "short_description":{
+    "0":"State can't ding some farmers who keep taking water, raising questions about wider implications.",
+    "1":"VIENNA (AP) \u2014 Negotiations over Iran's nuclear program blew past the two-week mark in Vienna on Saturday ahead of a new deadline",
+    "2":"",
+    "3":"Let's face it, no private investor in his right mind -- even one loaded with money -- would lend any to Greece.  Not only is Greece in economic and financial shambles, but also Greece just proved it by defaulting on loans.",
+    "4":"Disney has removed a version of the Confederate flag from the Epcot theme park\u00a0at Walt Disney World in Florida, according",
+    "5":"Disney has removed a version of the Confederate flag from the Epcot theme park\u00a0at Walt Disney World in Florida, according"
+  },
+  "authors":{
+    "0":"",
+    "1":"MATTHEW LEE & GEORGE JAHN, AP",
+    "2":"Sebastian Murdock",
+    "3":"Greta Van Susteren, ContributorHost, Fox News' 'On the Record With Greta Van Susteren'",
+    "4":"Ed Mazza",
+    "5":"Ed Mazza"
+  },
+  "date":{
+    "0":"2015-07-11 00:00:00",
+    "1":"2015-07-11 00:00:00",
+    "2":"2015-07-11 00:00:00",
+    "3":"2015-07-11 00:00:00",
+    "4":"2015-07-10 00:00:00",
+    "5":"2015-07-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usaagr",
+    "1":"irn",
+    "2":"---jud",
+    "3":"---bus",
+    "4":"mncusa",
+    "5":"mncusa"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"aut",
+    "2":"usappl",
+    "3":"---bus",
+    "4":"mncusa",
+    "5":"mncusa"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"190",
+    "2":"010",
+    "3":"040",
+    "4":"174",
+    "5":"174"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":1.0,
+    "4":-5.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "farmer",
+      "usaagr",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "iran",
+      "irn",
+      "iran",
+      "vienna",
+      "aut",
+      "austria"
+    ],
+    "2":[
+      "attorney",
+      "~jud",
+      "~",
+      "mississippi",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "investor",
+      "~bus",
+      "~",
+      "greece",
+      "grc",
+      "greece"
+    ],
+    "4":[
+      "disney",
+      "mncusa",
+      "disney",
+      "disney",
+      "mncusa",
+      "disney"
+    ],
+    "5":[
+      "disney",
+      "mncusa",
+      "disney",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "disney",
+      "mncusa",
+      "disney"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california farmer",
+      "judge"
+    ],
+    "1":[
+      "iran",
+      "vienna"
+    ],
+    "2":[
+      "attorney",
+      "mississippi ... man"
+    ],
+    "3":[
+      "investor",
+      "investor",
+      "investor",
+      "greece"
+    ],
+    "4":[
+      "disney",
+      "disney"
+    ],
+    "5":[
+      "disney",
+      "disney"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "iran",
+      "austria"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "greece"
+    ],
+    "4":[
+      "disney",
+      "disney"
+    ],
+    "5":[
+      "disney",
+      "disney"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blocked"
+    ],
+    "1":[
+      "blew"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "face",
+      "would lend"
+    ],
+    "4":[
+      "removes"
+    ],
+    "5":[
+      "has removed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "agriculture",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usaagr",
+      "---jud",
+      "170"
+    ],
+    "1":[
+      "irn",
+      "aut",
+      "190"
+    ],
+    "2":[
+      "---jud",
+      "usappl",
+      "010"
+    ],
+    "3":[
+      "---bus",
+      "---bus",
+      "040",
+      "---bus",
+      "grc",
+      "060"
+    ],
+    "4":[
+      "mncusa",
+      "mncusa",
+      "174"
+    ],
+    "5":[
+      "mncusa",
+      "mncusa",
+      "174"
+    ]
+  }
+}

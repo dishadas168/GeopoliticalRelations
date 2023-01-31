@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/i-love-new-york-cookbook_us_5b9d2be2e4b03a1dcc852102"
+  },
+  "headline":{
+    "0":"I Love New York With Chef Daniel Humm of Eleven Madison Park"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"Eleven Madison Park's new cookbook I Love New York highlights the best of what local food producers offer at their restaurant."
+  },
+  "authors":{
+    "0":"Louise McCready Hart, Contributor\nTravel, food, beauty and design writer"
+  },
+  "date":{
+    "0":"2013-05-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---bus"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "producers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "new ... york",
+      "producers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "highlights"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---bus",
+      "010"
+    ]
+  }
+}

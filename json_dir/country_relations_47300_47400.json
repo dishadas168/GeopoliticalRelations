@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/congolese-youth-look-to-chart-a-new-path-in-the-heart_us_5856f1b9e4b0630a254233f2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/toddler-killed-road-rage-shooting-arkansas_us_5856c47fe4b08debb7899a7b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/china-us-drone_us_5855698ee4b0b3ddfd8d2068",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/china-us-drone_us_5855698ee4b0b3ddfd8d2068",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/orange-county-california-jail-informant-sheriff_us_58545931e4b0b3ddfd8cb972"
+  },
+  "headline":{
+    "0":"Congolese Youth Look To Chart A New Path In The Heart Of Africa",
+    "1":"Road-Rage Shooting Leaves 3-Year-Old Boy Dead, Suspect At Large: Cops",
+    "2":"China To Return Seized U.S. Drone, Says U.S. 'Hyping Up' Incident",
+    "3":"China To Return Seized U.S. Drone, Says U.S. 'Hyping Up' Incident",
+    "4":"Orange County Judge Blasts Sheriff In Jail Informant Scandal: 'What Is Going On Over There?'"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"One year ago on December 15, 2015 in the capital city of Kinshasa, President Joseph Kabila's security forces kidnapped youth",
+    "1":"The child was sitting in the back of his grandmother's vehicle when he was fatally shot, police said.",
+    "2":"A Chinese naval vessel took an underwater drone from the South China Sea on Thursday.",
+    "3":"A Chinese naval vessel took an underwater drone from the South China Sea on Thursday.",
+    "4":"The judge threatens contempt proceedings against the California sheriff and her deputies."
+  },
+  "authors":{
+    "0":"Kambale Musavuli, ContributorSpokesperson, Friends of the Congo",
+    "1":"Nina Golgowski",
+    "2":"Ben Blanchard and Steve Holland, Reuters",
+    "3":"Ben Blanchard and Steve Holland, Reuters",
+    "4":"Matt Ferner"
+  },
+  "date":{
+    "0":"2016-12-18 00:00:00",
+    "1":"2016-12-18 00:00:00",
+    "2":"2016-12-17 00:00:00",
+    "3":"2016-12-17 00:00:00",
+    "4":"2016-12-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---govmil",
+    "1":"---cvl",
+    "2":"chn",
+    "3":"chnmil",
+    "4":"---jud"
+  },
+  "actor2":{
+    "0":"frareb",
+    "1":"---cvl",
+    "2":"usa",
+    "3":"chn",
+    "4":"usacop"
+  },
+  "event_code":{
+    "0":"181",
+    "1":"190",
+    "2":"010",
+    "3":"171",
+    "4":"130"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":-10.0,
+    "2":0.0,
+    "3":-9.2,
+    "4":-4.4
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "security forces",
+      "~govmil",
+      "~",
+      "~",
+      "youth",
+      "frareb",
+      "gazteriak"
+    ],
+    "1":[
+      "child",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "china",
+      "chn",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "chinese",
+      "naval",
+      "chnmil",
+      "china",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ],
+    "4":[
+      "judge",
+      "~jud",
+      "~",
+      "california",
+      "sheriff deputies",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president ... security forces",
+      "youth"
+    ],
+    "1":[
+      "child",
+      "child"
+    ],
+    "2":[
+      "china",
+      "u.s."
+    ],
+    "3":[
+      "chinese naval",
+      "china"
+    ],
+    "4":[
+      "judge",
+      "california sheriff ... deputies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "gazteriak"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "china",
+      "united states of america"
+    ],
+    "3":[
+      "china",
+      "china"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kidnapped"
+    ],
+    "1":[
+      "was <~cvl> ... shot"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+      "took"
+    ],
+    "4":[
+      "threatens"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "drone",
+      "1"
+    ],
+    "3":[
+      "drone",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---govmil",
+      "frareb",
+      "181"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "chn",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "chnmil",
+      "chn",
+      "171"
+    ],
+    "4":[
+      "---jud",
+      "usacop",
+      "130"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/time-to-leave-afghanistan_b_8879034.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chris-christie-gun-laws_us_567d789fe4b0b958f659643a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/modi-visit-pakistan_us_567d5ecae4b014efe0d83168",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/islamists-evacuated-damascus_us_567d4e45e4b06fa68880177f"
+  },
+  "headline":{
+    "0":"Time to Leave Afghanistan?",
+    "1":"Gun Rights Activists Have Mixed Feelings On Chris Christie's Flip-Flop On Gun Laws",
+    "2":"India's Prime Minister Modi Makes Surprise Visit To Pakistan",
+    "3":"2,000 Islamist Fighters Will Be Evacuated From Syria's Damascus: Report"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The death of six U.S. soldiers near Bagram Airbase on December 21 serves as a grim reminder that while Americans worry about ISIS, the country's longest war is now entering its fifteenth year with no end to it in sight.",
+    "1":"The New Jersey governor and GOP presidential hopeful has been seeking to counter his image among some voters as weak on gun rights.",
+    "2":"It was the first time an Indian premier has visited the rival nation in over a decade.",
+    "3":"The deal marks a success for the government of President Bashar al-Assad."
+  },
+  "authors":{
+    "0":"Tom Mockaitis, ContributorInternational security analyst\/military historian. Prof. of Hi...",
+    "1":"Michael Catalini, AP",
+    "2":"Mehreen Zahra-Malik and Krishna N. Das, Reuters",
+    "3":""
+  },
+  "date":{
+    "0":"2015-12-26 00:00:00",
+    "1":"2015-12-25 00:00:00",
+    "2":"2015-12-25 00:00:00",
+    "3":"2015-12-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usamil",
+    "1":"---gov",
+    "2":"ind",
+    "3":"syr"
+  },
+  "actor2":{
+    "0":"imgmusisi",
+    "1":"---cvl",
+    "2":"pak",
+    "3":"---musuaf"
+  },
+  "event_code":{
+    "0":"012",
+    "1":"110",
+    "2":"042",
+    "3":"070"
+  },
+  "goldstein_score":{
+    "0":-0.4,
+    "1":-2.0,
+    "2":1.9,
+    "3":7.0
+  },
+  "nouns":{
+    "0":[
+      "bagram",
+      "afg",
+      "afghanistan",
+      "u.s.",
+      "soldiers",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "1":[
+      "governor",
+      "~gov",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "india",
+      "ind",
+      "india",
+      "pakistan",
+      "pak",
+      "pakistan"
+    ],
+    "3":[
+      "islamist",
+      "fighters",
+      "~musuaf",
+      "~",
+      "~",
+      "syria",
+      "damascus",
+      "syr",
+      "syr",
+      "syria",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. soldiers",
+      "isis"
+    ],
+    "1":[
+      "governor",
+      "voters"
+    ],
+    "2":[
+      "india",
+      "pakistan"
+    ],
+    "3":[
+      "syria",
+      "islamist fighters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "the islamic state"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "india",
+      "pakistan"
+    ],
+    "3":[
+      "syria",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "serves ... worry"
+    ],
+    "1":[
+      "has ... seeking ... counter"
+    ],
+    "2":[
+      "makes ... visit"
+    ],
+    "3":[
+      "<~musuaf> ... evacuated from syr"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usamil",
+      "imgmusisi",
+      "012"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "110"
+    ],
+    "2":[
+      "ind",
+      "pak",
+      "042"
+    ],
+    "3":[
+      "syr",
+      "---musuaf",
+      "070",
+      "syr",
+      "---musuaf",
+      "070"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tayrona-national-park-col_us_5b9bad85e4b03a1dcc798c26"
+  },
+  "headline":{
+    "0":"Visiting Tayrona National Park, Colombia's Unspoiled Caribbean Paradise (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Smart travelers know to explore the Caribbean coastline and the rainforests of the Colombian Sierra Nevada."
+  },
+  "authors":{
+    "0":"Robert Schrader, Contributor\nWriter, Photographer, World Traveler"
+  },
+  "date":{
+    "0":"2012-05-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"col"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "travelers",
+      "~cvl",
+      "~",
+      "colombian",
+      "sierra nevada",
+      "col",
+      "esp",
+      "colombia",
+      "spain"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "travelers",
+      "colombian",
+      "travelers",
+      "sierra nevada"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "colombia",
+      "---",
+      "spain"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "know ... explore",
+      "know ... explore"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "col",
+      "090",
+      "---cvl",
+      "esp",
+      "090"
+    ]
+  }
+}

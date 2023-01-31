@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gender-selection_us_5b9c4b6ce4b03a1dcc7d9f1d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/animal-photos-of-the-week_us_5bb1211ce4b09bbe9a5b3066"
+  },
+  "headline":{
+    "0":"Gender Selection Has Become A Multimillion-Dollar Industry",
+    "1":"Animal Photos Of The Week"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"The American Society for Reproductive Medicine says it\u2019s concerned that gender selection is leading otherwise healthy women",
+    "1":"Environmentalists filed a lawsuit in federal court this week seeking protection for two species of Arctic ice seals. The"
+  },
+  "authors":{
+    "0":"Carly Macleod",
+    "1":""
+  },
+  "date":{
+    "0":"2012-09-17 00:00:00",
+    "1":"2012-09-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---env"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---jud"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"115"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "environmentalists",
+      "~env",
+      "~",
+      "federal court",
+      "~jud",
+      "~",
+      "federal court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "women"
+    ],
+    "1":[
+      "environmentalists",
+      "federal court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says <\u2019s> ... leading"
+    ],
+    "1":[
+      "filed ... lawsuit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "---env",
+      "---jud",
+      "115"
+    ]
+  }
+}

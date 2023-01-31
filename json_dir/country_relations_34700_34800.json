@@ -1,0 +1,195 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-white-house-press-staff-not-true_us_5915b972e4b0fe039b340f26",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/who-are-the-out-of-town-billionaires-trying-to-defeat_us_5915d20ce4b02d6199b2ee70",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/a-thank-you-to-moms-leading-the-fight-for-trans-students_us_591611c8e4b00ccaae9ea290",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/sleep-pregnancy-and-your-future-health_us_59161c19e4b00ccaae9ea2a6"
+  },
+  "headline":{
+    "0":"Reporters Want To Keep Daily Briefing Even As Trump Admits Statements Not Always True",
+    "1":"Who Are The Out-of-Town Billionaires Trying To Defeat Steve Zimmer?",
+    "2":"Happy Mother's Day To The Moms Leading The Fight For Trans Students",
+    "3":"Sleep, Pregnancy, And Your Future Health"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"POLITICS",
+    "2":"QUEER VOICES",
+    "3":"HEALTHY LIVING"
+  },
+  "short_description":{
+    "0":"Shifting account of the FBI director\u2019s firing escalates a \u201ccredibility crisis\u201d for the White House.",
+    "1":"Some of America\u2019s most powerful corporate plutocrats want to take over the Los Angeles school system but Steve Zimmer, a",
+    "2":"Transgender kids have people who can and will support them.",
+    "3":"Doctors are looking for ways to prevent heart disease in women who experience pregnancy complications."
+  },
+  "authors":{
+    "0":"Michael Calderone",
+    "1":"Peter Dreier, ContributorPeter Dreier is professor of Politics and chair of the Urban &...",
+    "2":"Kayley Whalen, ContributorDigital Strategies and Social Media Manager, National LGBTQ Ta...",
+    "3":"Society for Women's Health Research, ContributorThe thought-leader in sex differences in health since 1990."
+  },
+  "date":{
+    "0":"2017-05-12 00:00:00",
+    "1":"2017-05-12 00:00:00",
+    "2":"2017-05-12 00:00:00",
+    "3":"2017-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"usa",
+    "2":"---edu",
+    "3":"---hlh"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---edu",
+    "2":"---cvl",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"171",
+    "2":"043",
+    "3":"120"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-9.2,
+    "2":2.8,
+    "3":-4.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "doctors",
+      "~hlh",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "the ... white house"
+    ],
+    "1":[
+      "america",
+      "school"
+    ],
+    "2":[
+      "students",
+      "mother",
+      "mother",
+      "students"
+    ],
+    "3":[
+      "doctors",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "white house"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "escalates"
+    ],
+    "1":[
+      "want <['take',> <'over']>"
+    ],
+    "2":[
+      "leading ... for",
+      "leading ... for"
+    ],
+    "3":[
+      "are ... prevent"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usagov",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "---edu",
+      "171"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "043",
+      "---cvl",
+      "---edu",
+      "042"
+    ],
+    "3":[
+      "---hlh",
+      "---cvl",
+      "120"
+    ]
+  }
+}

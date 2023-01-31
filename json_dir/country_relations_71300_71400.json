@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/powerful-video-shows-what-happens-when-we-dont-teach-womens-history_us_56dee821e4b0ffe6f8ea92d5",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/03\/08\/us\/trumps-rise-spurs-latino-immigrants-to-naturalize-to-vote-against-him.html"
+  },
+  "headline":{
+    "0":"Powerful Video Shows What Happens When We Don\u2019t Teach Women\u2019s History",
+    "1":"More Latinos Seek Citizenship to Vote Against Trump"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Microsoft is encouraging young women to #MakeWhatsNext.",
+    "1":"DENVER \u2014 Donald J. Trump\u2019s harsh campaign rhetoric against Mexican immigrants has helped him win a substantial delegate lead"
+  },
+  "authors":{
+    "0":"Jenavieve Hatch",
+    "1":""
+  },
+  "date":{
+    "0":"2016-03-08 00:00:00",
+    "1":"2016-03-07 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa",
+    "1":"mexcvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"mexcvl"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "microsoft",
+      "mncusa",
+      "microsoft",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "mexican",
+      "immigrants",
+      "mexcvl",
+      "mexico",
+      "~",
+      "delegate",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "microsoft",
+      "women"
+    ],
+    "1":[
+      "mexican immigrants",
+      "mexican immigrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "microsoft",
+      "---"
+    ],
+    "1":[
+      "mexico",
+      "mexico"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is encouraging"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "mexcvl",
+      "mexcvl",
+      "070"
+    ]
+  }
+}

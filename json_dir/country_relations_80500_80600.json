@@ -1,0 +1,366 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/occidental-college-occupy_us_564b9d99e4b045bf3df18456",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/missing-student-washington-college_us_564cf9cce4b031745cefb368",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/corporate-crime-criminal-justice-reform_us_564cc371e4b031745cef33d4",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/state-senator-syrian-refugee-camps_us_564ca10fe4b08cda348ba78a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mark-zuckerberg-is-happy-simply-helping-people-not-trying-to-disrupt-philanthropy_us_564bb588e4b06037734b9431",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/iran-detains-cartoonist-prison_us_564b2ed2e4b06037734aa305",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/john-kasich-syrian-refugees_us_564b681ae4b08cda348ad2ab",
+    "7":"https:\/\/www.huffingtonpost.comhttp:\/\/fusion.net\/story\/233953\/pussy-riot-brings-protest-message-to-mexico-shows-support-for-families-of-43-missing-students\/"
+  },
+  "headline":{
+    "0":"Hundreds Of Occidental College Students Demand The School's President Quit",
+    "1":"A Missing Student Who May Have A Gun Is Prompting Washington College To Close Until After Thanksgiving",
+    "2":"Lawmakers Sneak Help For White-Collar Criminals Into Justice Reform Bill",
+    "3":"State Senator Says Syrian Refugees In U.S. Should Be Segregated In Camps",
+    "4":"Mark Zuckerberg Is Happy Simply Helping People, Not Trying To \u2018Disrupt\u2019 Philanthropy",
+    "5":"Iran Detains Cartoonist To Serve Prison Term",
+    "6":"GOP Governor Admits He Doesn't Have Authority To Refuse Syrian Refugees",
+    "7":"Pussy Riot Brings Protest Message To Mexico, Shows Support For Families Of 43 Missing Students"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"COLLEGE",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"IMPACT",
+    "5":"MEDIA",
+    "6":"POLITICS",
+    "7":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The president said last week, \"I'm happy to resign.\"",
+    "1":"The student was kicked out of his frat, resigned from student government and was going to face an honor code hearing.",
+    "2":"Finally, some good news for CEOs.",
+    "3":"Internment camps didn't work so well last time.",
+    "4":"The Facebook CEO and his wife recently gave $75 million to San Francisco General Hospital.",
+    "5":"Earlier this month, Iran detained five Iranian journalists, including two known for their reformist views.",
+    "6":"\"We can only express our concerns.\"",
+    "7":"The Russian punk rock group, Pussy Riot, carried its message of protest to Mexico, voicing support for the relatives of the"
+  },
+  "authors":{
+    "0":"Tyler Kingkade",
+    "1":"BRIAN WITTE, AP",
+    "2":"Zach Carter",
+    "3":"Elise Foley",
+    "4":"BRANDON BAILEY, AP",
+    "5":"",
+    "6":"Igor Bobic",
+    "7":""
+  },
+  "date":{
+    "0":"2015-11-18 00:00:00",
+    "1":"2015-11-18 00:00:00",
+    "2":"2015-11-18 00:00:00",
+    "3":"2015-11-18 00:00:00",
+    "4":"2015-11-18 00:00:00",
+    "5":"2015-11-17 00:00:00",
+    "6":"2015-11-17 00:00:00",
+    "7":"2015-11-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"---leg",
+    "3":"---leg",
+    "4":"---bus",
+    "5":"irn",
+    "6":"---gov",
+    "7":"rus"
+  },
+  "actor2":{
+    "0":"---edugov",
+    "1":"---edugov",
+    "2":"---crm",
+    "3":"syrref",
+    "4":"---hlh",
+    "5":"irnmedopp",
+    "6":"---gov",
+    "7":"mex"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"083",
+    "2":"070",
+    "3":"170",
+    "4":"060",
+    "5":"173",
+    "6":"050",
+    "7":"130"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":5.0,
+    "2":7.0,
+    "3":-7.0,
+    "4":6.0,
+    "5":-5.0,
+    "6":3.5,
+    "7":-4.4
+  },
+  "nouns":{
+    "0":[
+      "college",
+      "students",
+      "~edu",
+      "~",
+      "~",
+      "college",
+      "students",
+      "~edu",
+      "~",
+      "~",
+      "school",
+      "president",
+      "~edugov",
+      "~",
+      "~"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~",
+      "student",
+      "government",
+      "~edugov",
+      "~",
+      "~"
+    ],
+    "2":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "criminals",
+      "~crm",
+      "~"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ],
+    "4":[
+      "ceo",
+      "~bus",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "5":[
+      "iran",
+      "irn",
+      "iran",
+      "iranian",
+      "journalists",
+      "irnmed",
+      "iran",
+      "~",
+      "reformist",
+      "~opp",
+      "~"
+    ],
+    "6":[
+      "governor",
+      "~gov",
+      "~",
+      "authority",
+      "~gov",
+      "~",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ],
+    "7":[
+      "russian",
+      "pussy riot",
+      "rus",
+      "rusopp",
+      "russian",
+      "federation",
+      "pussy",
+      "riot",
+      "mexico",
+      "mex",
+      "mexico"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "college students",
+      "school ... president"
+    ],
+    "1":[
+      "student",
+      "student ... government"
+    ],
+    "2":[
+      "lawmakers",
+      "criminals"
+    ],
+    "3":[
+      "senator",
+      "syrian refugees"
+    ],
+    "4":[
+      "ceo",
+      "hospital"
+    ],
+    "5":[
+      "iran",
+      "---"
+    ],
+    "6":[
+      "governor",
+      "governor"
+    ],
+    "7":[
+      "russian",
+      "mexico",
+      "pussy riot",
+      "mexico"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "syria"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "iran",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ],
+    "7":[
+      "russian federation",
+      "mexico",
+      "pussy riot",
+      "mexico"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "demand"
+    ],
+    "1":[
+      "<and> ... resigned"
+    ],
+    "2":[
+      "sneak help"
+    ],
+    "3":[
+      "says <syrref> ... segregated in <--->"
+    ],
+    "4":[
+      "gave"
+    ],
+    "5":[
+      "detained"
+    ],
+    "6":[
+      ""
+    ],
+    "7":[
+      "carried ... message",
+      "carried ... message"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "students",
+      "2"
+    ],
+    "2":null,
+    "3":[
+      "refugees",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "refugees",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edugov",
+      "100"
+    ],
+    "1":[
+      "---edu",
+      "---edugov",
+      "083"
+    ],
+    "2":[
+      "---leg",
+      "---crm",
+      "070"
+    ],
+    "3":[
+      "---leg",
+      "syrref",
+      "170"
+    ],
+    "4":[
+      "---bus",
+      "---hlh",
+      "060"
+    ],
+    "5":[
+      "irn",
+      "irnmedopp",
+      "173"
+    ],
+    "6":[
+      "---gov",
+      "---gov",
+      "050"
+    ],
+    "7":[
+      "rus",
+      "mex",
+      "130",
+      "rusopp",
+      "mex",
+      "130"
+    ]
+  }
+}

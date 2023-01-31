@@ -1,0 +1,158 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mosul-offensive-kidnappings_us_5821b3b9e4b0e80b02cc732f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/an-open-letter-to-the-lgbtq-community-on-the-eve-of-the-2016-election_us_5820aee1e4b0e80b02cb6dbd",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/minority-voter-registration-florida-north-carolina_us_5820bf3fe4b0aac62485f388"
+  },
+  "headline":{
+    "0":"Islamic State Abducts Nearly 300 Iraqi Security Forces Near Mosul, UN Reports",
+    "1":"An Open Letter To The LGBTQ Community On The Eve Of The 2016 Election",
+    "2":"Minority Voters' Registrations Are Being Stalled In Florida And North Carolina"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"QUEER VOICES",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The militants also forced 1,500 families to retreat from the town of Hamam al-Alil.",
+    "1":"In a recent interview with the Washington Blade, Hillary Clinton described me as a \u201crole model\u201d and a \u201ctruly remarkable woman",
+    "2":"It's good news for Trump: He needs to win these key states to make it to the White House."
+  },
+  "authors":{
+    "0":"",
+    "1":"Edie Windsor",
+    "2":"Laura Bassett"
+  },
+  "date":{
+    "0":"2016-11-08 00:00:00",
+    "1":"2016-11-07 00:00:00",
+    "2":"2016-11-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---mus",
+    "1":"usaeli",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"irq",
+    "1":"---cvl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"181",
+    "1":"010",
+    "2":"120"
+  },
+  "goldstein_score":{
+    "0":-9.0,
+    "1":0.0,
+    "2":-4.0
+  },
+  "nouns":{
+    "0":[
+      "islamic",
+      "~mus",
+      "~",
+      "iraqi",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "voters",
+      "~cvl",
+      "~",
+      "florida",
+      "north carolina",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "islamic",
+      "iraqi"
+    ],
+    "1":[
+      "hillary clinton",
+      "woman"
+    ],
+    "2":[
+      "florida",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "iraq"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "abducts"
+    ],
+    "1":[
+      "described"
+    ],
+    "2":[
+      "<~cvl> ... stalled in <usa>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mus",
+      "irq",
+      "181"
+    ],
+    "1":[
+      "usaeli",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "120",
+      "usa",
+      "---cvl",
+      "120"
+    ]
+  }
+}

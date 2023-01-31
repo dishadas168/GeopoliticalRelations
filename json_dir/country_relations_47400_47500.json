@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/we-have-no-idea-how-many-latinos-get-arrested-or-imprisoned-in-the-us_us_58531d9ce4b08debb7884370",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cair-muslim-jewish-rights_us_58544695e4b0b3ddfd8c8718",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-russian-espionage-was-a-good-thing-for-america_us_5853ffaee4b0b3ddfd8c272f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/lindsey-graham-rex-tillerson_us_5852c062e4b0732b82ff1f53"
+  },
+  "headline":{
+    "0":"We Have No Idea How Many Latinos Get Arrested Or Imprisoned In The U.S.",
+    "1":"Muslim Civil Rights Group Honors Jewish Counterpart With Award",
+    "2":"Trump Takes A New Tack On Russia Election Scandal",
+    "3":"Lindsey Graham Says Rex Tillerson Needs To Stand Firm On Russian Hacking, Sanctions To Get His Vote"
+  },
+  "category":{
+    "0":"LATINO VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Advocates want law enforcement to start tracking the ethnicity of those who wind up in the criminal justice system.",
+    "1":"The Council on American-Islamic Relations will give the Jewish Voice for Peace its new \"Defender of Liberty\" award.",
+    "2":"The president-elect suggested the Kremlin did the U.S. a favor if it meddled in our election.",
+    "3":"The GOP senator wants the FBI and CIA to brief Donald Trump's secretary of state pick on Russia's elections interference."
+  },
+  "authors":{
+    "0":"Roque Planas",
+    "1":"Adam Hamze",
+    "2":"Christina Wilkie",
+    "3":"Amanda Terkel"
+  },
+  "date":{
+    "0":"2016-12-16 00:00:00",
+    "1":"2016-12-16 00:00:00",
+    "2":"2016-12-16 00:00:00",
+    "3":"2016-12-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usamus",
+    "2":"---gov",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"---jew",
+    "2":"rusgov",
+    "3":"usacop"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"060",
+    "2":"020",
+    "3":"030"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":6.0,
+    "2":3.0,
+    "3":4.0
+  },
+  "nouns":{
+    "0":[
+      "advocates",
+      "~jud",
+      "~",
+      "law enforcement",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "american",
+      "islamic",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "jewish",
+      "~jew",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "fbi",
+      "cia",
+      "usacop",
+      "usaspy",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "us",
+      "intelligence",
+      "community",
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "advocates",
+      "law enforcement"
+    ],
+    "1":[
+      "american islamic",
+      "jewish"
+    ],
+    "2":[
+      "president",
+      "kremlin"
+    ],
+    "3":[
+      "senator",
+      "fbi",
+      "senator",
+      "cia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "kremlin"
+    ],
+    "3":[
+      "---",
+      "federal bureau of investigation",
+      "---",
+      "us intelligence community"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want"
+    ],
+    "1":[
+      "will give"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "",
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cop",
+      "030"
+    ],
+    "1":[
+      "usamus",
+      "---jew",
+      "060"
+    ],
+    "2":[
+      "---gov",
+      "rusgov",
+      "020"
+    ],
+    "3":[
+      "---leg",
+      "usacop",
+      "030",
+      "---leg",
+      "usaspy",
+      "030"
+    ]
+  }
+}

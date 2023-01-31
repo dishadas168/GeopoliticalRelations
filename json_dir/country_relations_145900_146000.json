@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/paula-modersohnbecker-the_us_5bb26757e4b0171db6a00580",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-calls-on-china-to-lift_us_5b9d996be4b03a1dcc8a0173",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-calls-on-china-to-lift_us_5b9d996be4b03a1dcc8a0173"
+  },
+  "headline":{
+    "0":"Paula Modersohn-Becker: The First Modern Woman Artist",
+    "1":"U.S. Calls on China to Lift Flight Limits (VIDEO)",
+    "2":"U.S. Calls on China to Lift Flight Limits (VIDEO)"
+  },
+  "category":{
+    "0":"CULTURE & ARTS",
+    "1":"TRAVEL",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Paula Modersohn-Becker: The First Modern Woman Artist, by Diane Radycki, relates the personal story and artistic history of a woman that has much to offer today's audiences.",
+    "1":"China's continuing refusal to lift all limits on flights to and from the United States hurts Chinese business travelers and prevents Chinese carriers from enjoying the full benefits of access to the U.S. airline market.",
+    "2":"China's continuing refusal to lift all limits on flights to and from the United States hurts Chinese business travelers and prevents Chinese carriers from enjoying the full benefits of access to the U.S. airline market."
+  },
+  "authors":{
+    "0":"Marcia G. Yerman, Contributor\nWriter on women's issues, human rights, environment and culture",
+    "1":"Nicholas Kralev, Contributor\nAuthor and International Affairs Expert",
+    "2":"Nicholas Kralev, Contributor\nAuthor and International Affairs Expert"
+  },
+  "date":{
+    "0":"2013-10-20 00:00:00",
+    "1":"2013-10-19 00:00:00",
+    "2":"2013-10-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"chn"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"chn",
+    "2":"chnbuscvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"020",
+    "2":"180"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":3.0,
+    "2":-9.0
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china",
+      "chn",
+      "china"
+    ],
+    "2":[
+      "china",
+      "chn",
+      "china",
+      "chinese",
+      "business",
+      "travelers",
+      "chnbuscvl",
+      "china",
+      "~",
+      "~",
+      "chinese",
+      "carriers",
+      "chnmil",
+      "china",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "woman"
+    ],
+    "1":[
+      "u.s.",
+      "china"
+    ],
+    "2":[
+      "china",
+      "chinese business travelers",
+      "china",
+      "chinese ... carriers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "china"
+    ],
+    "2":[
+      "china",
+      "china",
+      "china",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "relates"
+    ],
+    "1":[
+      "calls on"
+    ],
+    "2":[
+      "<and> ... hurts",
+      "<and> ... prevents"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ],
+    "1":[
+      "usa",
+      "chn",
+      "020"
+    ],
+    "2":[
+      "chn",
+      "chnbuscvl",
+      "180",
+      "chn",
+      "chnmil",
+      "120"
+    ]
+  }
+}

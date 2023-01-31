@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-navys-anti-environmental-broadside-hits-the-gulf-of-alaska_us_58eadc4fe4b00de141044bca",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-baiting-pushed-trump-to-attack-syria-and_us_58eb5a7ee4b06f8c18beeda7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/google-gender-pay-gap_us_58e9a11ce4b058f0a02fb448",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/venezuela-protests_us_58ea4aa1e4b05413bfe3981f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/budapest-protest-soros_us_58ea6623e4b05413bfe3abff",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/second-victim-dies-after-shooting-at-florida-gym_us_58ea9bf5e4b00de14104446f"
+  },
+  "headline":{
+    "0":"U.S. Navy's Anti-Environmental Broadside Hits The Gulf Of Alaska",
+    "1":"Russia-Baiting Pushed Trump To Attack Syria -- And Increases The Risk Of Nuclear Annihilation",
+    "2":"U.S. Labor Department Accuses Google of 'Significant' Gender Pay Gap",
+    "3":"10 Days Of Unrest In Venezuela Come To A Head In Massive Protest",
+    "4":"Budapest Protesters Fight Government Shutdown Of Soros-Founded University",
+    "5":"Second Victim Dies After Shooting At Florida Gym"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"BUSINESS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"CRIME"
+  },
+  "short_description":{
+    "0":"The Navy\u2019s plans threaten an area of the Gulf that couldn\u2019t be more biologically sensitive.",
+    "1":"The anti-Russia bandwagon has gained so much momentum that a national frenzy is boosting the odds of unfathomable catastrophe.",
+    "2":"Company discrimination is \"quite extreme, even in this industry.\"",
+    "3":"Thousands of people took to the streets to demand the departure of the country\u2019s unpopular president.",
+    "4":"Critics say Hungarian legislation appears aimed at dismantling foreign-based schools like Central European University.",
+    "5":"The accused assailant, a former employee, shot himself after opening fire."
+  },
+  "authors":{
+    "0":"Dahr Jamail, ContributorAward-winning journalist, staff reporter at Truthout, author o...",
+    "1":"Norman Solomon, ContributorNorman Solomon is the author of a dozen books including \"War M...",
+    "2":"Mary Papenfuss",
+    "3":"Eline Gordts",
+    "4":"Lydia O'Connor",
+    "5":""
+  },
+  "date":{
+    "0":"2017-04-10 00:00:00",
+    "1":"2017-04-10 00:00:00",
+    "2":"2017-04-09 00:00:00",
+    "3":"2017-04-09 00:00:00",
+    "4":"2017-04-09 00:00:00",
+    "5":"2017-04-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usamil",
+    "1":"rus",
+    "2":"usagovlab",
+    "3":"---ppl",
+    "4":"hunopp",
+    "5":"---uaflab"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"syr",
+    "2":"mncusamedgovlab",
+    "3":"---gov",
+    "4":"---govedu",
+    "5":"---uaflab"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"061",
+    "3":"100",
+    "4":"190",
+    "5":"190"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":6.4,
+    "3":-5.0,
+    "4":-10.0,
+    "5":-10.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "navy",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "u.s.",
+      "labor department",
+      "google",
+      "usagovlab",
+      "mncusamedgovlab",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "google"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "budapest",
+      "protesters",
+      "hunopp",
+      "hungary",
+      "~",
+      "university",
+      "~edu",
+      "~",
+      "government",
+      "university",
+      "~govedu",
+      "~",
+      "~"
+    ],
+    "5":[
+      "assailant",
+      "employee",
+      "~uaflab",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. navy",
+      "alaska"
+    ],
+    "1":[
+      "russia",
+      "syria"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "people",
+      "president"
+    ],
+    "4":[
+      "budapest protesters",
+      "government ... university"
+    ],
+    "5":[
+      "assailant ... employee",
+      "assailant ... employee"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "russian federation",
+      "syria"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "hungary",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hits"
+    ],
+    "1":[
+      "to attack"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "took ... demand"
+    ],
+    "4":[
+      "fight"
+    ],
+    "5":[
+      "shot"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "postsecondary_education",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usamil",
+      "usa",
+      "190"
+    ],
+    "1":[
+      "rus",
+      "syr",
+      "190"
+    ],
+    "2":[
+      "usagovlab",
+      "mncusamedgovlab",
+      "061",
+      "mncusamedgovlab",
+      "usagovlab",
+      "061"
+    ],
+    "3":[
+      "---ppl",
+      "---gov",
+      "100"
+    ],
+    "4":[
+      "hunopp",
+      "---govedu",
+      "190"
+    ],
+    "5":[
+      "---uaflab",
+      "---uaflab",
+      "190"
+    ]
+  }
+}

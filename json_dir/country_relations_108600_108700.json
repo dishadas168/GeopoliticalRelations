@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-truth-about-transfer-_b_6344166.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/new-yorks-grassroots-trii_b_6355682.html"
+  },
+  "headline":{
+    "0":"The Truth About Transfer Admissions: What To Do And What It Takes To Get In",
+    "1":"New York's Grassroots Triumph"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"Colleges won't admit transfer students without really compelling reasons for the transfer, so be detailed and thoughtful in your essays. This is where your research will really come in handy!",
+    "1":"In New York State, at least, sanity has prevailed. By banning fracking, Governor Andrew Cuomo has acted to protect his state's citizens from a rapacious industry whose presence would inevitably result in significant health and environmental consequences."
+  },
+  "authors":{
+    "0":"Kat Cohen, ContributorCollege admissions counselor",
+    "1":"Michael Brune, ContributorExecutive Director, The Sierra Club"
+  },
+  "date":{
+    "0":"2014-12-19 00:00:00",
+    "1":"2014-12-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"074"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":8.5
+  },
+  "nouns":{
+    "0":[
+      "colleges",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "governor",
+      "~gov",
+      "~",
+      "citizens",
+      "~cvl",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "colleges",
+      "colleges"
+    ],
+    "1":[
+      "governor",
+      "citizens"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wo ... admit"
+    ],
+    "1":[
+      "has ... protect"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":[
+      "natural_gas",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "050"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "074"
+    ]
+  }
+}

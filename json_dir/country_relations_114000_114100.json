@@ -1,0 +1,71 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-warplanes-syria_n_6001866.html"
+  },
+  "headline":{
+    "0":"ISIS Has Captured 3 Warplanes, Witnesses Say"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-10-17 00:00:00"
+  },
+  "actor1":{
+    "0":"imgmusisi"
+  },
+  "actor2":{
+    "0":"---mil"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "warplanes",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "isis",
+      "warplanes"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the islamic state",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has captured"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "imgmusisi",
+      "---mil",
+      "171"
+    ]
+  }
+}

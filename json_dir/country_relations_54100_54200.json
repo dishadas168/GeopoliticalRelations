@@ -1,0 +1,170 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/senate-kratom-dea_us_57ed85fde4b0c2407cdcf0a4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/vitit-muntarbhorn-lgbt-expert_us_57eeb273e4b0c2407cddc740",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-obama-air-force-one_us_57eecde5e4b082aad9bb558c"
+  },
+  "headline":{
+    "0":"Senators Ask DEA To Delay Plans To Criminalize Another Herb",
+    "1":"UN Appoints First Expert To Protect LGBT People From Discrimination",
+    "2":"Bill Clinton Takes His Time Getting On Air Force One -- And President Obama Is Not Having It"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Members of both chambers of Congress now want to take a closer look at the DEA's plans to wage war on kratom.",
+    "1":"The new role is critical to bring those who have abused or attacked LGBT people to justice.",
+    "2":"Clinton and Obama spoke in Israel at the funeral of former Israeli President Shimon Peres."
+  },
+  "authors":{
+    "0":"Nick Wing",
+    "1":"Lin Taylor, Reuters",
+    "2":"Daniel Marans"
+  },
+  "date":{
+    "0":"2016-09-30 00:00:00",
+    "1":"2016-09-30 00:00:00",
+    "2":"2016-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"igouno",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"---ppl",
+    "2":"isr"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"074",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":8.5,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "congress",
+      "~leg",
+      "~",
+      "chambers",
+      "congress",
+      "~leg",
+      "~",
+      "~",
+      "chambers",
+      "congress",
+      "~leg",
+      "~",
+      "~",
+      "dea",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "un",
+      "igouno",
+      "un",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "israel",
+      "isr",
+      "israel",
+      "shimon peres",
+      "isreli",
+      "shimon",
+      "peres"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congress",
+      "dea"
+    ],
+    "1":[
+      "un",
+      "people"
+    ],
+    "2":[
+      "obama",
+      "israel",
+      "obama",
+      "shimon peres"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "un",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "israel",
+      "barack obama",
+      "shimon peres"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... take"
+    ],
+    "1":[
+      "expert ... protect"
+    ],
+    "2":[
+      "spoke",
+      "spoke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "lgbt",
+      "1",
+      "discrimination",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usacop",
+      "171"
+    ],
+    "1":[
+      "igouno",
+      "---ppl",
+      "074"
+    ],
+    "2":[
+      "usagov",
+      "isr",
+      "010",
+      "usagov",
+      "isreli",
+      "010"
+    ]
+  }
+}

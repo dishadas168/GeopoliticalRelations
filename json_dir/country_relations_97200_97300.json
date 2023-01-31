@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sam-brownback-education_n_7200304.html"
+  },
+  "headline":{
+    "0":"Waitress Gives Kansas Gov. Sam Brownback A Tip"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Marina Fang"
+  },
+  "date":{
+    "0":"2015-05-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "waitress",
+      "~bus",
+      "~",
+      "kansas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "waitress",
+      "kansas"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "usa",
+      "060"
+    ]
+  }
+}

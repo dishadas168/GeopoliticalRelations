@@ -1,0 +1,83 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/german-parliament-greek-bailout_us_55a8f13be4b0c5f0322d0003"
+  },
+  "headline":{
+    "0":"German Parliament Approves Plan For New Greek Bailout"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"ATHENS, Greece (AP) \u2014 The bailout of Greece cleared some further key hurdles Friday after German lawmakers overwhelmingly"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-07-17 00:00:00"
+  },
+  "actor1":{
+    "0":"grc"
+  },
+  "actor2":{
+    "0":"deuleg"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "greece",
+      "grc",
+      "greece",
+      "athens",
+      "greece",
+      "grc",
+      "grc",
+      "greece",
+      "greece",
+      "german",
+      "lawmakers",
+      "deuleg",
+      "germany",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "greece",
+      "german lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "greece",
+      "germany"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "cleared"
+    ]
+  },
+  "issues":{
+    "0":[
+      "bankruptcy",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "grc",
+      "deuleg",
+      "08",
+      "grc",
+      "deuleg",
+      "08"
+    ]
+  }
+}

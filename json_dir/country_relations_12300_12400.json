@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/marielle-franco-assassination-rio_us_5aaa7a51e4b0004c0407fbe0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-trump-racist-sexist-voters_us_5aa8df7de4b018e2f1c308d2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-trump-racist-sexist-voters_us_5aa8df7de4b018e2f1c308d2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/local-business-jersey-city-chain-stores_us_5aa1a7e7e4b01b9b0a3986ea"
+  },
+  "headline":{
+    "0":"A Crusader Against Police Violence Is Assassinated In Rio De Janeiro",
+    "1":"Hillary Clinton Says Trump Appealed To Racist, Sexist Voters",
+    "2":"Hillary Clinton Says Trump Appealed To Racist, Sexist Voters",
+    "3":"Chain Stores Are Taking Over U.S. Cities. It Doesn't Have To Be Like This."
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"IMPACT"
+  },
+  "short_description":{
+    "0":"City councilwoman Marielle Franco was a symbol of hope for Rio's poorest residents.",
+    "1":"Trump's presidential campaign was \"looking backwards,\" the former secretary of state said in India.",
+    "2":"Trump's presidential campaign was \"looking backwards,\" the former secretary of state said in India.",
+    "3":"This New Jersey neighborhood refuses to be overrun by Starbucks and CVS."
+  },
+  "authors":{
+    "0":"Travis Waldron",
+    "1":"Dominique Mosbergen",
+    "2":"Dominique Mosbergen",
+    "3":"Peter Moskowitz, On Assignment For HuffPost"
+  },
+  "date":{
+    "0":"2018-03-15 00:00:00",
+    "1":"2018-03-14 00:00:00",
+    "2":"2018-03-14 00:00:00",
+    "3":"2018-03-14 00:00:00"
+  },
+  "actor1":{
+    "0":"bra",
+    "1":"usaeli",
+    "2":"usagov",
+    "3":"mncusa"
+  },
+  "actor2":{
+    "0":"---oppcop",
+    "1":"---cvl",
+    "2":"ind",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"186",
+    "1":"010",
+    "2":"010",
+    "3":"192"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-9.5
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "crusader",
+      "police",
+      "~oppcop",
+      "~",
+      "~",
+      "rio de janeiro",
+      "bra",
+      "brazil"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state",
+      "india",
+      "ind",
+      "india"
+    ],
+    "3":[
+      "neighborhood",
+      "~cvl",
+      "~",
+      "starbucks",
+      "mncusa",
+      "starbucks"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rio de janeiro",
+      "crusader ... police"
+    ],
+    "1":[
+      "hillary clinton",
+      "voters"
+    ],
+    "2":[
+      "secretary of state",
+      "india"
+    ],
+    "3":[
+      "starbucks",
+      "neighborhood"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "brazil",
+      "---"
+    ],
+    "1":[
+      "hillary clinton",
+      "---"
+    ],
+    "2":[
+      "the us secretary of state",
+      "india"
+    ],
+    "3":[
+      "starbucks",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~oppcop> ... assassinated in <bra>"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "said"
+    ],
+    "3":[
+      "<~cvl> ... overrun by <mncusa>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "assassination",
+      "1"
+    ],
+    "1":[
+      "discrimination",
+      "1",
+      "election",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "bra",
+      "---oppcop",
+      "186"
+    ],
+    "1":[
+      "usaeli",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "usagov",
+      "ind",
+      "010"
+    ],
+    "3":[
+      "mncusa",
+      "---cvl",
+      "192"
+    ]
+  }
+}

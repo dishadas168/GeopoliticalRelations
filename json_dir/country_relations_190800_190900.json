@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sydney-harbor-trash-found-200-years_us_5bb1193ce4b09bbe9a5a9c28",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/apple-motorola-patent_us_5bb35380e4b0fa920b966de0"
+  },
+  "headline":{
+    "0":"Sydney Harbor: Trash Found From More Than 200 Years Ago",
+    "1":"Apple Patent Claims Against Motorola Smartphones Blocked By U.S.  Judge"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"(Photo: State Records NSW\/Flickr) It is a daunting task, but as Two Hands' Dean Cropp tells the BBC, any progress is worth",
+    "1":"(Reporting by Jessica Dye and Dan Levine; Editing by Gary Hill) Apple had sought an injunction barring the sale of Motorola"
+  },
+  "authors":{
+    "0":"",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-06-24 00:00:00",
+    "1":"2012-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"mncusamed"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"usajud"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"170"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-7.0
+  },
+  "nouns":{
+    "0":[
+      "dean",
+      "~edu",
+      "~",
+      "bbc",
+      "med",
+      "bbc"
+    ],
+    "1":[
+      "motorola",
+      "mncusamed",
+      "motorola",
+      "u.s.",
+      "judge",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "dean",
+      "bbc"
+    ],
+    "1":[
+      "motorola",
+      "u.s. judge"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "bbc"
+    ],
+    "1":[
+      "motorola",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "blocked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "med",
+      "010"
+    ],
+    "1":[
+      "mncusamed",
+      "usajud",
+      "170"
+    ]
+  }
+}

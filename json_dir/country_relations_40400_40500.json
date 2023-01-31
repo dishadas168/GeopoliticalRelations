@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/muslims-defend-jewish-centers_us_58b7554de4b0284854b3e188",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/massachusetts-to-plug-gap-if-congress-blocks-planned-parenthood-funds_us_58bda4d0e4b0d8c45f453949",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/revised-executive-order-on-immigration-continues-to_us_58bd87a7e4b02eac8876d160"
+  },
+  "headline":{
+    "0":"American Muslims Are Stepping Up To Help Jewish Community Defend Sacred Places",
+    "1":"Massachusetts To Plug Gap If Congress Blocks Planned Parenthood Funds",
+    "2":"Revised Executive Order On Immigration: Continues To Risk The Lives Of Refugees And Asylum Seekers"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"The Koran teaches us to defend mosques \u2015 it also teaches us to defend other churches, synagogues, cloisters or any house of worship.\u201d",
+    "1":"Governor Charlie Baker pledged to protect women's health.",
+    "2":"President Donald Trump\u2019s first executive order on immigration, issued on January 27, 2017, quickly escalated the United States"
+  },
+  "authors":{
+    "0":"Kim Bellware and Andy Campbell",
+    "1":"Scott Malone, Reuters",
+    "2":"Katie Sgarro, ContributorWriter, Social Entrepreneur & LGBTQ Advocate"
+  },
+  "date":{
+    "0":"2017-03-06 00:00:00",
+    "1":"2017-03-06 00:00:00",
+    "2":"2017-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usamus",
+    "1":"---gov",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---jew",
+    "1":"---cvl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"200",
+    "1":"0334",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "muslims",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "jewish",
+      "~jew",
+      "~"
+    ],
+    "1":[
+      "governor",
+      "~gov",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american muslims",
+      "jewish"
+    ],
+    "1":[
+      "governor",
+      "women"
+    ],
+    "2":[
+      "president",
+      "the united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are <['stepping',> <'up']> ... help"
+    ],
+    "1":[
+      "pledged ... protect"
+    ],
+    "2":[
+      "escalated"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamus",
+      "---jew",
+      "200"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "0334"
+    ],
+    "2":[
+      "---gov",
+      "usa",
+      "060"
+    ]
+  }
+}

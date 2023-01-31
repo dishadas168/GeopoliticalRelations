@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chicago-police-tasers_us_56843e2de4b014efe0d9f200",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/emanuel-lutchman-islamic-state_us_56855b35e4b06fa688824827",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/belgium-new-years-eve-plot_us_568536c2e4b014efe0da42b1",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/belgium-new-years-eve-plot_us_568536c2e4b014efe0da42b1",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/bill-cosby-mug-shot-released_us_5684002ae4b0b958f65ae849",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/arne-duncan-last-speech_us_568409d2e4b06fa68881a653"
+  },
+  "headline":{
+    "0":"Chicago Police Will Double Number Of Tasers, Get De-Escalation Training",
+    "1":"FBI: Suspected Islamic State Backer Held For New York Attack Plot",
+    "2":"Belgium Detains 6 People Over New Year's Eve Plot",
+    "3":"Belgium Detains 6 People Over New Year's Eve Plot",
+    "4":"Bill Cosby Mug Shot Released",
+    "5":"Education Secretary: Congress Is Failing Our Children In Regard To Gun Violence"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"ENTERTAINMENT",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"Mayor Rahm Emanuel announced the policy overhaul after police killed two unarmed civilians.",
+    "1":"\"The FBI remains concerned about people overseas who use the Internet to inspire people in the United States to commit acts of violence where they live.\"",
+    "2":"Authorities called off the traditional New Year's Eve fireworks display in the capital because of fears of a militant attack.",
+    "3":"Authorities called off the traditional New Year's Eve fireworks display in the capital because of fears of a militant attack.",
+    "4":"A prosecutor in Pennsylvania announced criminal charges against the comedian on Wednesday.",
+    "5":"\"This is not some mission accomplished moment.\""
+  },
+  "authors":{
+    "0":"Kim Bellware",
+    "1":"",
+    "2":"Robert-Jan Bartunek and Philip Blenkinsop, Reuters",
+    "3":"Robert-Jan Bartunek and Philip Blenkinsop, Reuters",
+    "4":"Michael McLaughlin",
+    "5":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2015-12-31 00:00:00",
+    "1":"2015-12-31 00:00:00",
+    "2":"2015-12-31 00:00:00",
+    "3":"2015-12-31 00:00:00",
+    "4":"2015-12-30 00:00:00",
+    "5":"2015-12-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usacop",
+    "2":"bel",
+    "3":"---gov",
+    "4":"usajud",
+    "5":"---leg"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usappl",
+    "2":"---ppl",
+    "3":"---uaf",
+    "4":"---crm",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"051",
+    "2":"173",
+    "3":"160",
+    "4":"010",
+    "5":"120"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.4,
+    "2":-5.0,
+    "3":-4.0,
+    "4":0.0,
+    "5":-4.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "rahm emanuel",
+      "~gov",
+      "~",
+      "rahm",
+      "emanuel",
+      "police",
+      "~cop",
+      "~",
+      "civilians",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "usappl",
+      "~"
+    ],
+    "2":[
+      "belgium",
+      "bel",
+      "belgium",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "authorities",
+      "~gov",
+      "~",
+      "militant",
+      "~uaf",
+      "~",
+      "militant",
+      "~uaf",
+      "~",
+      "militant",
+      "~uaf",
+      "~"
+    ],
+    "4":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "prosecutor",
+      "usajud",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "5":[
+      "congress",
+      "~leg",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor rahm emanuel",
+      "police"
+    ],
+    "1":[
+      "fbi",
+      "people"
+    ],
+    "2":[
+      "belgium",
+      "people"
+    ],
+    "3":[
+      "authorities",
+      "militant"
+    ],
+    "4":[
+      "prosecutor",
+      "criminal"
+    ],
+    "5":[
+      "congress",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      ""
+    ],
+    "2":[
+      "belgium",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announced ... killed"
+    ],
+    "1":[
+      "remains ... inspire"
+    ],
+    "2":[
+      "detains"
+    ],
+    "3":[
+      "<['called',> <'off']>"
+    ],
+    "4":[
+      "announced"
+    ],
+    "5":[
+      "is failing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cop",
+      "112"
+    ],
+    "1":[
+      "usacop",
+      "usappl",
+      "051"
+    ],
+    "2":[
+      "bel",
+      "---ppl",
+      "173"
+    ],
+    "3":[
+      "---gov",
+      "---uaf",
+      "160"
+    ],
+    "4":[
+      "usajud",
+      "---crm",
+      "010"
+    ],
+    "5":[
+      "---leg",
+      "---cvl",
+      "120"
+    ]
+  }
+}

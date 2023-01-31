@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/coalition-troops-iraq_n_6289264.html"
+  },
+  "headline":{
+    "0":"U.S. General Says Allies To Send About 1,500 Troops To Iraq In Training Role"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-12-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"irq"
+  },
+  "event_code":{
+    "0":"154"
+  },
+  "goldstein_score":{
+    "0":-7.2
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... send <&military>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "irq",
+      "154"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/clinton-apprentice-credit_n_7599768.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ilo-condemnation-of-qatar_b_7599752.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/welling-court-2015_b_7599760.html"
+  },
+  "headline":{
+    "0":"Hillary Clinton Wants To Give Companies A $1,500 Reward For Hiring Apprentices",
+    "1":"ILO Condemnation of Qatar Likely to Have Ripple Effects",
+    "2":"A Community Mural Festival Blossoms In Queens"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLDPOST",
+    "2":"ARTS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"The International Labour Organization has dealt a blow to Qatari assertions that the Gulf state complies with global standards for workers in a report that condemned the government for allowing Qatar Airways to \"violate international and national agreements and institutionalize discrimination.\"",
+    "2":"An annual mural tradition of non-pretense, New York hosted the 6th Annual Welling Court mural festival this weekend in a working class neighborhood in Queens, thanks to a grassroots couple who hustle to match artists with walls and opportunity."
+  },
+  "authors":{
+    "0":"Sam Stein",
+    "1":"James Dorsey, ContributorSenior fellow, S. Rajaratnam School of International Studies",
+    "2":"Jaime Rojo & Steven Harrington, ContributorCo-Founders, BrooklynStreetArt.com"
+  },
+  "date":{
+    "0":"2015-06-17 00:00:00",
+    "1":"2015-06-17 00:00:00",
+    "2":"2015-06-17 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"igounolabilo",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"qat",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"031",
+    "1":"110",
+    "2":"042"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":-2.0,
+    "2":1.9
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "international labour organization",
+      "igounolabilo",
+      "international",
+      "labour",
+      "organization",
+      "qatari",
+      "qat",
+      "qatar",
+      "workers",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "neighborhood",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "companies"
+    ],
+    "1":[
+      "international labour organization",
+      "qatari"
+    ],
+    "2":[
+      "neighborhood",
+      "new york",
+      "new york",
+      "neighborhood"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "international labour organization",
+      "qatar"
+    ],
+    "2":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wants ... give"
+    ],
+    "1":[
+      "has dealt ... blow"
+    ],
+    "2":[
+      "hosted",
+      "hosted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "discrimination",
+      "1"
+    ],
+    "2":[
+      "civil_society",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---bus",
+      "031"
+    ],
+    "1":[
+      "igounolabilo",
+      "qat",
+      "110"
+    ],
+    "2":[
+      "---cvl",
+      "usa",
+      "042",
+      "usa",
+      "---cvl",
+      "043"
+    ]
+  }
+}

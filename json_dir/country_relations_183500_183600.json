@@ -1,0 +1,126 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rich-pay-taxes_us_5b9c438be4b03a1dcc7d71a4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kate-middleton-royal-tour-jenny-packham-singapore-photos-pictures_us_5b9c4388e4b03a1dcc7d712d"
+  },
+  "headline":{
+    "0":"Do the Rich Pay Their Fair Share of Taxes?",
+    "1":"Kate Middleton & Prince William Visit Singapore, Admire Flowers (PHOTOS)"
+  },
+  "category":{
+    "0":"MONEY",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"We are killing this country. CEOs, entrepreneurs, bankers, lawyers, doctors and politicians at the top are all benefiting from the lower cost of labor for their employees and the lower cost of goods imported from low-wage countries. But our workers, our dear workers are getting crushed.",
+    "1":"After more than a year since their epic trip through Canada and California, Kate Middleton and Prince William have finally"
+  },
+  "authors":{
+    "0":"John R. Talbott, Contributor\nBestselling author of Survival Investing: How to Prosper Amid ...",
+    "1":"Rebecca Adams"
+  },
+  "date":{
+    "0":"2012-09-11 00:00:00",
+    "1":"2012-09-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---busjudhlhpty",
+    "1":"sgp"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"'ulukalala_lavaka_ata_"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"043"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":2.8
+  },
+  "nouns":{
+    "0":[
+      "ceos",
+      "entrepreneurs",
+      "lawyers",
+      "doctors",
+      "politicians",
+      "~busjudhlhpty",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "singapore",
+      "sgp",
+      "singapore"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceos ... entrepreneurs ... lawyers ... doctors ... politicians",
+      "employees"
+    ],
+    "1":[
+      "singapore",
+      "prince",
+      "prince",
+      "singapore"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "singapore",
+      "prince",
+      "prince",
+      "singapore"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... benefiting"
+    ],
+    "1":[
+      "visit",
+      "visit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---busjudhlhpty",
+      "---lab",
+      "060"
+    ],
+    "1":[
+      "sgp",
+      "'ulukalala_lavaka_ata_",
+      "043",
+      "'ulukalala_lavaka_ata_",
+      "sgp",
+      "042"
+    ]
+  }
+}

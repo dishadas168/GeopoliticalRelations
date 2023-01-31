@@ -1,0 +1,88 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prison-reform-in-maine-st_b_7537900.html"
+  },
+  "headline":{
+    "0":"Prison Reform in Maine State Prison"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"Political leaders like President Obama, Hillary Clinton, and Rand Paul have been speaking in a unified voice on the need for prison reform. But prison and sentencing reform will require more than talk."
+  },
+  "authors":{
+    "0":"Michael Santos, ContributorPodcaster \/ Speaker \/ Prison Consultant"
+  },
+  "date":{
+    "0":"2015-06-09 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "president obama",
+      "hillary clinton",
+      "usagov",
+      "usaeli",
+      "barack",
+      "obama",
+      "hillary",
+      "clinton",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "prison",
+      "hillary clinton",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---",
+      "hillary clinton",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... speaking",
+      "have ... speaking"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---cop",
+      "010",
+      "usaeli",
+      "---cop",
+      "010"
+    ]
+  }
+}

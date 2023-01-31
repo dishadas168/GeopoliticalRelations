@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/trump-cdc-covid-death-toll_n_5ff1c467c5b6e7974fd3ef99",
+    "1":"https:\/\/www.huffpost.com\/entry\/pence-welcomes-election-challenge-trump_n_5ff13094c5b6fd33110e6e86",
+    "2":"https:\/\/www.huffpost.com\/entry\/dan-rather-donald-trump-unemployment-benefits_n_5fe814aec5b6acb5345878eb",
+    "3":"https:\/\/www.huffpost.com\/entry\/california-fire-christmas-eve_n_5fe52d42c5b6ff7479809656"
+  },
+  "headline":{
+    "0":"Trump Rages Over His Own Administration's COVID-19 Death Toll: 'Fake News'",
+    "1":"Mike Pence 'Welcomes' GOP Efforts To Disrupt Voters' Choice For President",
+    "2":"Dan Rather Rips 'Abject Cruelty' Of Trump's 'Malignant Ego' As Jobless Benefits Expire",
+    "3":"California Brush Fire At U.S. Marine Bases Forces Christmas Eve Evacuations"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The president, without evidence, accused the U.S. Centers for Disease Control and Prevention of exaggerating the numbers.",
+    "1":"The vice president encouraged challenges to the election results despite the lack of any evidence of voter fraud.",
+    "2":"The president, relaxing at Mar-a-Lago, left \"desperate\" American workers out in the cold with his refusal to sign a COVID stimulus package as help ran out.",
+    "3":"More than 7,000 people had to flee after the Creek Fire broke out near Camp Pendleton, north of San Diego."
+  },
+  "authors":{
+    "0":"Hayley Miller",
+    "1":"Mary Papenfuss",
+    "2":"Mary Papenfuss",
+    "3":"Steve Gorman, Reuters"
+  },
+  "date":{
+    "0":"2021-01-03 00:00:00",
+    "1":"2021-01-03 00:00:00",
+    "2":"2020-12-27 00:00:00",
+    "3":"2020-12-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"usalab",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"051",
+    "2":"040",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.4,
+    "2":1.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "voter",
+      "~cvl",
+      "~",
+      "voter",
+      "~cvl",
+      "~",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "american",
+      "workers",
+      "usalab",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "san diego",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "u.s."
+    ],
+    "1":[
+      "president",
+      "voter"
+    ],
+    "2":[
+      "president",
+      "american workers"
+    ],
+    "3":[
+      "people",
+      "san diego"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "accused"
+    ],
+    "1":[
+      "encouraged"
+    ],
+    "2":[
+      "left"
+    ],
+    "3":[
+      "had ... broke"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "112"
+    ],
+    "1":[
+      "---gov",
+      "---cvl",
+      "051"
+    ],
+    "2":[
+      "---gov",
+      "usalab",
+      "040"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "190"
+    ]
+  }
+}

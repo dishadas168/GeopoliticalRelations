@@ -1,0 +1,189 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-fox-news-leaks_us_5989a5d0e4b0d793738a19eb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-opioid-emergency_us_5989f5bae4b0449ed505daa8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/salubris-liver-cancer-drug_us_5989d2d3e4b0d793738a5f1e",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/iranian-man-dies-manus-island_us_5988d5b4e4b0d79373895030"
+  },
+  "headline":{
+    "0":"Trump Tweets Fox News Story Citing Unnamed Source, Despite His Crackdown On Leaks",
+    "1":"Trump Rebuffs His Opioid Task Force, Declines To Declare State Of Emergency",
+    "2":"The U.S. Is Quietly Giving A Chinese Billionaire A Monopoly On A New Liver Cancer Drug",
+    "3":"Iranian Man Who Hoped To Reach Australia Dies Near Manus Island Detention Center"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The president's United Nations ambassador would not comment on the story and called its publication \"a shame.\"",
+    "1":"Instead, the president said we should arrest more people and lock them up for longer.",
+    "2":"It\u2019s the at least second time this year the federal government has proposed giving exclusive rights for taxpayer-funded research to a foreign pharmaceutical giant.",
+    "3":"Rights groups have pleaded with the Australian government to evacuate the center."
+  },
+  "authors":{
+    "0":"Marina Fang",
+    "1":"Nick Wing",
+    "2":"Alexander C. Kaufman",
+    "3":"Eoin Blackwell, HuffPost Australia"
+  },
+  "date":{
+    "0":"2017-08-08 00:00:00",
+    "1":"2017-08-08 00:00:00",
+    "2":"2017-08-08 00:00:00",
+    "3":"2017-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---hri"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl",
+    "2":"chn",
+    "3":"ausgov"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"173",
+    "2":"060",
+    "3":"020"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0,
+    "2":6.0,
+    "3":3.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "ambassador",
+      "~gov",
+      "~",
+      "~",
+      "publication",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "chinese",
+      "chn",
+      "china"
+    ],
+    "3":[
+      "rights groups",
+      "~hri",
+      "~",
+      "australian",
+      "government",
+      "ausgov",
+      "australia",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president ... ambassador",
+      "publication"
+    ],
+    "1":[
+      "president",
+      "people"
+    ],
+    "2":[
+      "u.s.",
+      "chinese"
+    ],
+    "3":[
+      "rights groups",
+      "australian government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "china"
+    ],
+    "3":[
+      "---",
+      "australia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... called"
+    ],
+    "1":[
+      "said ... should arrest"
+    ],
+    "2":[
+      "is ... giving"
+    ],
+    "3":[
+      "have pleaded"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "monopoly",
+      "1",
+      "disease",
+      "1"
+    ],
+    "3":[
+      "civil_society",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---med",
+      "041"
+    ],
+    "1":[
+      "---gov",
+      "---ppl",
+      "173"
+    ],
+    "2":[
+      "usa",
+      "chn",
+      "060"
+    ],
+    "3":[
+      "---hri",
+      "ausgov",
+      "020"
+    ]
+  }
+}

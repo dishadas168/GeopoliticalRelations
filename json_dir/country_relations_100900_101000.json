@@ -1,0 +1,237 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/richard-white-dead_n_6916872.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-military-hit-list_n_6916628.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/global-spotlight-firm-fixed-on-nigerian-elections_b_6916188.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/how-to-kill-the-antiabortion-clause_b_6905712.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/reuters-blocked-china_n_6907418.html"
+  },
+  "headline":{
+    "0":"Alleged New Orleans Airport Attacker Dies In Hospital",
+    "1":"ISIS Issues Hit List Of 100 U.S. Military Personnel",
+    "2":"Global Spotlight Firm Fixed on Nigerian Elections",
+    "3":"How to Squelch the Anti-Abortion Clause of the Trafficking Bill",
+    "4":"Reuters Websites Blocked In China"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"WORLDPOST",
+    "2":"WORLDPOST",
+    "3":"POLITICS",
+    "4":"MEDIA"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"Nigeria's more than 70 million voters will soon go to the polls to choose their country's leader for the next four years.  Whether the victor is incumbent President Goodluck Jonathan or opposition challenger Muhammadu Buhari is entirely for Nigerians to decide",
+    "3":"Republican Senators are playing hide and seek with victims of sex trafficking. The U.S. Department of Justice now estimates that approximately 300,000 American children are at risk of being prostituted in the U.S. -- at an average age of 13 or 14.",
+    "4":""
+  },
+  "authors":{
+    "0":"Benjamin Hart",
+    "1":"",
+    "2":"Sec. John Kerry, ContributorU.S. Secretary of State",
+    "3":"James Heffernan, ContributorWriter, lecturer, Dartmouth Professor Emeritus",
+    "4":""
+  },
+  "date":{
+    "0":"2015-03-21 00:00:00",
+    "1":"2015-03-21 00:00:00",
+    "2":"2015-03-21 00:00:00",
+    "3":"2015-03-20 00:00:00",
+    "4":"2015-03-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"imgmusisi",
+    "2":"ngagov",
+    "3":"usa",
+    "4":"med"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"usamil",
+    "2":"ngaeligov",
+    "3":"usacvl",
+    "4":"chn"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"030",
+    "3":"010",
+    "4":"170"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":0.0,
+    "4":-7.0
+  },
+  "nouns":{
+    "0":[
+      "new orleans",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military"
+    ],
+    "2":[
+      "president",
+      "goodluck jonathan",
+      "muhammadu buhari",
+      "ngagov",
+      "ngaeligov",
+      "~",
+      "goodluck",
+      "jonathan",
+      "muhammadu",
+      "buhari"
+    ],
+    "3":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "american",
+      "children",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "reuters",
+      "websites",
+      "med",
+      "reuters",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "new orleans",
+      "hospital"
+    ],
+    "1":[
+      "isis",
+      "u.s. military"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "u.s.",
+      "american children"
+    ],
+    "4":[
+      "reuters websites",
+      "china"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "the islamic state",
+      "united states military"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ],
+    "4":[
+      "reuters",
+      "china"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dies"
+    ],
+    "1":[
+      "hit"
+    ],
+    "2":[
+
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "blocked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---hlh",
+      "190"
+    ],
+    "1":[
+      "imgmusisi",
+      "usamil",
+      "190"
+    ],
+    "2":[
+      "ngagov",
+      "ngaeligov",
+      "030",
+      "ngaeligov",
+      "ngagov",
+      "030"
+    ],
+    "3":[
+      "usa",
+      "usacvl",
+      "010"
+    ],
+    "4":[
+      "med",
+      "chn",
+      "170"
+    ]
+  }
+}

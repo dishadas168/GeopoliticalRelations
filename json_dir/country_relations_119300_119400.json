@@ -1,0 +1,73 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/isis-and-the-g41-world_b_5681474.html"
+  },
+  "headline":{
+    "0":"ISIS and the G-41 World"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Isolationist America's foreign policy and standing in the world has been further emasculated in the process. Conservative political pundits in the U.S. criticize President Obama for failing to act in a more decisive manner to stem the tide. They remain delusional in their belief that anything the U.S. can do will make a difference."
+  },
+  "authors":{
+    "0":"Daniel Wagner, ContributorManaging Director of Risk Cooperative \/ Co-author of \"Global R..."
+  },
+  "date":{
+    "0":"2014-08-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"usagov"
+  },
+  "event_code":{
+    "0":"111"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "president obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "criticize"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagov",
+      "111"
+    ]
+  }
+}

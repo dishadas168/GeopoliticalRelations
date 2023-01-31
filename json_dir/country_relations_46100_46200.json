@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brazil-mass-shooting_us_58690d9de4b0d9a5945bcf86",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/william-spingler-assault-103-year-old-woman_us_5868300ee4b0eb586489bfe7",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/istanbul-night-club-attack_us_58683c57e4b0d9a5945bc02d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/china-taiwan_us_5867a702e4b0d9a5945b8ffa"
+  },
+  "headline":{
+    "0":"Gunman Kills At Least 11 People In Brazil New Year's Party Mass Shooting",
+    "1":"Retired Politician Accused Of Molesting 103-Year-Old Former In-Law",
+    "2":"Gunman Kills At Least 39 In Attack On Istanbul Nightclub",
+    "3":"China Considering Strong Measures To Contain Taiwan: Report"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The shooter killed himself following the murders.",
+    "1":"Nursing home workers tell police they saw it more than once.",
+    "2":"The attacker opened fire at random in the Reina nightclub just over an hour into the new year.",
+    "3":"\"If Trump challenges 'one China' after becoming president, this would cross our red line.\""
+  },
+  "authors":{
+    "0":"",
+    "1":"David Moye",
+    "2":"Reuters and The Huffington Post, Reuters",
+    "3":""
+  },
+  "date":{
+    "0":"2017-01-01 00:00:00",
+    "1":"2017-01-01 00:00:00",
+    "2":"2016-12-31 00:00:00",
+    "3":"2016-12-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf",
+    "1":"---lab",
+    "2":"---uaf",
+    "3":"chn"
+  },
+  "actor2":{
+    "0":"brappl",
+    "1":"---cop",
+    "2":"tur",
+    "3":"twn"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"190",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "gunman",
+      "~uaf",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "brazil",
+      "bra",
+      "brazil"
+    ],
+    "1":[
+      "workers",
+      "~lab",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "gunman",
+      "~uaf",
+      "~",
+      "istanbul",
+      "tur",
+      "turkey"
+    ],
+    "3":[
+      "china",
+      "chn",
+      "china",
+      "taiwan",
+      "twn",
+      "taiwan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "gunman",
+      "---"
+    ],
+    "1":[
+      "workers",
+      "police"
+    ],
+    "2":[
+      "gunman",
+      "istanbul"
+    ],
+    "3":[
+      "china",
+      "taiwan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "turkey"
+    ],
+    "3":[
+      "china",
+      "taiwan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kills"
+    ],
+    "1":[
+      "tell"
+    ],
+    "2":[
+      "kills"
+    ],
+    "3":[
+      "considering"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "brappl",
+      "190"
+    ],
+    "1":[
+      "---lab",
+      "---cop",
+      "010"
+    ],
+    "2":[
+      "---uaf",
+      "tur",
+      "190"
+    ],
+    "3":[
+      "chn",
+      "twn",
+      "040"
+    ]
+  }
+}

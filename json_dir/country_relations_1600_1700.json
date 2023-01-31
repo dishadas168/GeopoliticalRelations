@@ -1,0 +1,163 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/evan-neumann-rioter-belarus-asylum_n_618941dde4b087e2ef9ab922",
+    "1":"https:\/\/www.huffpost.com\/entry\/ap-us-supreme-court-abortion-texas_n_617fcf9de4b079111a66f9a2",
+    "2":"https:\/\/www.huffpost.com\/entry\/southwest-airlines-pilot-lets-go-brandon_n_617e9401e4b03072d70567cc"
+  },
+  "headline":{
+    "0":"Jan. 6 Rioter Wanted By The FBI Flees To Belarus",
+    "1":"Supreme Court Hears Challenges To Texas Law Banning Most Abortions",
+    "2":"Southwest Airlines Pilot Told Passengers 'Let's Go Brandon' In Anti-Biden Dig: Reporter"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"U.S. NEWS",
+    "2":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"Evan Neumann reportedly has applied for asylum in the authoritarian country.",
+    "1":"The justices are hearing arguments in two cases over whether abortion providers or the Justice Department can mount federal court challenges to the law.",
+    "2":"The phrase, which is a PG way of saying \"f**k Joe Biden,\" reportedly provoked audible gasps from some passengers."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Mark Sherman and Jessica Gresko, AP",
+    "2":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2021-11-08 00:00:00",
+    "1":"2021-11-01 00:00:00",
+    "2":"2021-10-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---jud",
+    "2":"mncusa"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"usa",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"110",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "rioter",
+      "~opp",
+      "~",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "belarus",
+      "blr",
+      "belarus"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "southwest airlines",
+      "mncusa",
+      "southwest",
+      "airlines",
+      "passengers",
+      "~cvl",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rioter",
+      "fbi",
+      "rioter",
+      "belarus"
+    ],
+    "1":[
+      "supreme court",
+      "texas"
+    ],
+    "2":[
+      "southwest airlines",
+      "passengers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "federal bureau of investigation",
+      "---",
+      "belarus"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "southwest airlines",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted",
+      "wanted"
+    ],
+    "1":[
+      "challenges"
+    ],
+    "2":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "violent_unrest",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "usacop",
+      "030",
+      "---opp",
+      "blr",
+      "030"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "110"
+    ],
+    "2":[
+      "mncusa",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/oc-jailhouse-scandal-destroying-evidence_us_5881013ee4b0e3a735679ce2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-media-putin-trump_us_58812eafe4b096b4a230b3cf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/germany-trump-trade-deals_us_588223bfe4b0e3a735687767",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-inauguration-russia_us_58821721e4b0e3a735686fd9",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/el-chapo-pleads-not-guilty_us_58826418e4b096b4a2318898"
+  },
+  "headline":{
+    "0":"More Allegations Of Deception Surface In Orange County Informant Scandal",
+    "1":"The View From Moscow: How The Russian Media Covers Trump",
+    "2":"Germany Says U.S. Under President Trump Must Abide By Trade Deals",
+    "3":"Donald Trump Inauguration Prompts Celebration In Russia",
+    "4":"El Chapo Pleads Not Guilty To Drug Charges"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"A public defender has accused the county sheriff department of intentionally hiding and possibly destroying evidence.",
+    "1":"An independent Russian journalist says the new U.S. president has a lot in common with Vladimir Putin.",
+    "2":"\"We will naturally insist that agreements are upheld.\u201d",
+    "3":"\"His warm words about Russia and Putin have given us hope.\"",
+    "4":"The drug kingpin appeared in court in Brooklyn, New York on Friday."
+  },
+  "authors":{
+    "0":"Matt Ferner",
+    "1":"Nick Robins-Early",
+    "2":"",
+    "3":"",
+    "4":""
+  },
+  "date":{
+    "0":"2017-01-20 00:00:00",
+    "1":"2017-01-20 00:00:00",
+    "2":"2017-01-20 00:00:00",
+    "3":"2017-01-20 00:00:00",
+    "4":"2017-01-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"rusmed",
+    "2":"deu",
+    "3":"rus",
+    "4":"---crm"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"usa",
+    "3":"rusgov",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"010",
+    "2":"010",
+    "3":"060",
+    "4":"173"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":0.0,
+    "3":6.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "public defender",
+      "~jud",
+      "~",
+      "sheriff",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "russian",
+      "journalist",
+      "rusmed",
+      "russian",
+      "federation",
+      "~",
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "2":[
+      "germany",
+      "deu",
+      "germany",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "russia",
+      "putin",
+      "rus",
+      "rusgov",
+      "russian",
+      "federation",
+      "vladimir",
+      "putin"
+    ],
+    "4":[
+      "drug kingpin",
+      "~crm",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "public defender",
+      "sheriff"
+    ],
+    "1":[
+      "russian journalist",
+      "u.s. president"
+    ],
+    "2":[
+      "germany",
+      "<u.s.>"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "drug kingpin",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "russian federation",
+      "united states of america"
+    ],
+    "2":[
+      "germany",
+      "united states of america"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has accused"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "appeared in court"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cop",
+      "112"
+    ],
+    "1":[
+      "rusmed",
+      "usagov",
+      "010"
+    ],
+    "2":[
+      "deu",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "rus",
+      "rusgov",
+      "060",
+      "rusgov",
+      "rus",
+      "060"
+    ],
+    "4":[
+      "---crm",
+      "usa",
+      "173"
+    ]
+  }
+}

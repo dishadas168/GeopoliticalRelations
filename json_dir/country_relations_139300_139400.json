@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/massive-michigan-power-ou_us_5bb1ba25e4b01857b70af942"
+  },
+  "headline":{
+    "0":"Massive Michigan Power Outage Reveals Some People's Dark Side"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"In case you missed it somehow, half a million people in Michigan lost power this past week after a horrendous ice storm.  Not only was it the Christmas season, but this was after 300,000 had lost power less than two months ago in another storm."
+  },
+  "authors":{
+    "0":"Lev Raphael, Contributor\nAuthor, Reviewer, Blogger"
+  },
+  "date":{
+    "0":"2013-12-28 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "michigan",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "reveals"
+    ]
+  },
+  "issues":{
+    "0":[
+      "electricity_outage",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "050"
+    ]
+  }
+}

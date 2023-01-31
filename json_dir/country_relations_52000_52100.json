@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-nailed-with-fbi-voter-suppression-complaint-by_us_580e2880e4b0f8715789fe4f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-khizr-khan-ad_us_580e5cbde4b0a03911ee26e1"
+  },
+  "headline":{
+    "0":"Trump Nailed With FBI Voter Suppression Complaint By Democratic Coalition",
+    "1":"Hillary Clinton's Khizr Khan Campaign Ad Finally Gives American Muslims the Humanity They Deserve"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"America\u2019s largest group dedicated solely to defeating Donald Trump in the 2016 election has just filed a serious FBI complaint",
+    "1":"As an American Muslim, I shed tears while watching this video because for once my community isn\u2019t being equated with terrorism."
+  },
+  "authors":{
+    "0":"Grant Stern, ContributorGrant Stern is a professional mortgage broker, radio broadcast...",
+    "1":"Dean Obeidallah, ContributorPolitical comedian, SiriusXM radio show host and commentator"
+  },
+  "date":{
+    "0":"2016-10-24 00:00:00",
+    "1":"2016-10-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaeli"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"usamus"
+  },
+  "event_code":{
+    "0":"114",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "1":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "american",
+      "muslims",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "fbi"
+    ],
+    "1":[
+      "hillary clinton",
+      "american muslims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "federal bureau of investigation"
+    ],
+    "1":[
+      "hillary clinton",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... filed ... complaint"
+    ],
+    "1":[
+      "gives"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usacop",
+      "114"
+    ],
+    "1":[
+      "usaeli",
+      "usamus",
+      "060"
+    ]
+  }
+}

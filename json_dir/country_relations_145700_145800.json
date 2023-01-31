@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/living-with-diabetes_us_5b9d9c45e4b03a1dcc8a2caa"
+  },
+  "headline":{
+    "0":"Diabetes, Sotomayor's Parents and the Memory of the Heart"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Parents of children with Type 1 diabetes often experience \"chronic sorrow.\" But my mother never let on that she had been given a double dose of grief while calmly doling out insulin, counting out precise numbers of grapes for my lunchbox and driving me to Cub Scouts and Hebrew school."
+  },
+  "authors":{
+    "0":"Dan Fleshler, Contributor\nWriter and Publicist in New York City"
+  },
+  "date":{
+    "0":"2013-10-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "let <~cvl> ... given"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "060"
+    ]
+  }
+}

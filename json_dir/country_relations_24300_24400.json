@@ -1,0 +1,336 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rohingya-myanmar_us_59bee600e4b0edff971d0362",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-denies-reports-staying-in-paris-agreement_us_59bd91e5e4b0edff971c986e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tunisia-muslim-women-marriage_us_59bc42ffe4b02da0e142181f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-house-that-bibi-built_us_59bc43f2e4b0390a1564dd7e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/london-parsons-green-bomb-arrest_us_59bcf4f8e4b0edff971c61c0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/california-sanctuary-state_us_598b389ce4b0449ed5075320",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-september-15-2017_us_59bbfddae4b0390a1564dcec",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/clay-travis-brooke-baldwin-boobs-cnn_us_59bc2dc6e4b086432b071be7"
+  },
+  "headline":{
+    "0":"Rohingya Muslims Beg Myanmar Authorities For Safe Passage",
+    "1":"White House: U.S. Still Withdrawing From Paris Agreement, Despite Reports",
+    "2":"Tunisia Just Took A Big Step Forward On Muslim Women's Rights",
+    "3":"The House That Bibi Built",
+    "4":"Second Man Arrested Over London Train Bombing",
+    "5":"California Legislature Advances 'Sanctuary State' Bill",
+    "6":"News Roundup for September 15, 2017",
+    "7":"Fox Sports Host Desperate For Controversy Goes On CNN, Praises 'Boobs'"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS",
+    "5":"POLITICS",
+    "6":"WORLD NEWS",
+    "7":"WOMEN"
+  },
+  "short_description":{
+    "0":"\u201cWe\u2019re terrified. We\u2019ll starve soon and they\u2019re threatening to burn down our houses,\u201d one villager told Reuters.",
+    "1":"The Trump administration denied a European official's claims suggesting a potential change in U.S. policy.",
+    "2":"A new law allows Muslim women to marry outside the faith, just like their male counterparts.",
+    "3":"For half of the past two decades Benjamin \u201cBibi\u201d Netanyahu has served as Prime Minister of Israel. Whatever his ultimate",
+    "4":"The attack injured 30 people and put Britain on high alert.",
+    "5":"\u201cWe will not stand by and let the federal government use our state and local agencies to separate mothers from their children.\u201d",
+    "6":"It\u2019s not happy stuff, but you should know... 1.\u00a0At least 22 people have been injured in a suspected terror attack in London",
+    "7":"CNN is giving us all a lesson in how morons become right-wing media stars."
+  },
+  "authors":{
+    "0":"",
+    "1":"Carla Herreria",
+    "2":"Antonia Blumberg",
+    "3":"James Zogby, ContributorPresident, Arab American Institute; Author, \"Arab Voices\"",
+    "4":"Kate Holton, Reuters",
+    "5":"Mollie Reilly",
+    "6":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "7":"Ryan Grenoble"
+  },
+  "date":{
+    "0":"2017-09-17 00:00:00",
+    "1":"2017-09-17 00:00:00",
+    "2":"2017-09-16 00:00:00",
+    "3":"2017-09-16 00:00:00",
+    "4":"2017-09-16 00:00:00",
+    "5":"2017-09-16 00:00:00",
+    "6":"2017-09-15 00:00:00",
+    "7":"2017-09-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"tun",
+    "3":"isrgov",
+    "4":"---ppl",
+    "5":"---gov",
+    "6":"gbr",
+    "7":"med"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"usa",
+    "2":"---muscvl",
+    "3":"isrgov",
+    "4":"gbr",
+    "5":"---cvl",
+    "6":"---ppl",
+    "7":"---med"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"020",
+    "2":"171",
+    "3":"060",
+    "4":"173",
+    "5":"120",
+    "6":"190",
+    "7":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.0,
+    "2":-9.2,
+    "3":6.0,
+    "4":-5.0,
+    "5":-4.0,
+    "6":-10.0,
+    "7":6.0
+  },
+  "nouns":{
+    "0":[
+      "villager",
+      "~cvl",
+      "~",
+      "reuters",
+      "med",
+      "reuters"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "tunisia",
+      "tun",
+      "tunisia",
+      "muslim",
+      "women",
+      "~muscvl",
+      "~",
+      "~"
+    ],
+    "3":[
+      "bibi netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "israel",
+      "isr",
+      "israel",
+      "prime minister",
+      "isrgov",
+      "~"
+    ],
+    "4":[
+      "man",
+      "~ppl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "5":[
+      "government",
+      "~gov",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "mothers",
+      "children",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "7":[
+      "cnn",
+      "med",
+      "cnn",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "villager",
+      "reuters"
+    ],
+    "1":[
+      "administration",
+      "u.s."
+    ],
+    "2":[
+      "tunisia",
+      "muslim women"
+    ],
+    "3":[
+      "bibi ... netanyahu",
+      "bibi ... netanyahu"
+    ],
+    "4":[
+      "man",
+      "london"
+    ],
+    "5":[
+      "government",
+      "children"
+    ],
+    "6":[
+      "london",
+      "people"
+    ],
+    "7":[
+      "cnn",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "reuters"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "tunisia",
+      "---"
+    ],
+    "3":[
+      "benjamin netanyahu",
+      "benjamin netanyahu"
+    ],
+    "4":[
+      "---",
+      "united kingdom"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "united kingdom",
+      "---"
+    ],
+    "7":[
+      "cnn",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "denied ... suggesting"
+    ],
+    "2":[
+      "took"
+    ],
+    "3":[
+      "has served"
+    ],
+    "4":[
+      "arrested"
+    ],
+    "5":[
+      ""
+    ],
+    "6":[
+      "<~ppl> ... injured in ... attack"
+    ],
+    "7":[
+      "is giving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "public_transit",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "terror",
+      "1"
+    ],
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "med",
+      "010"
+    ],
+    "1":[
+      "---gov",
+      "usa",
+      "020"
+    ],
+    "2":[
+      "tun",
+      "---muscvl",
+      "171"
+    ],
+    "3":[
+      "isrgov",
+      "isrgov",
+      "060"
+    ],
+    "4":[
+      "---ppl",
+      "gbr",
+      "173"
+    ],
+    "5":[
+      "---gov",
+      "---cvl",
+      "120"
+    ],
+    "6":[
+      "gbr",
+      "---ppl",
+      "190"
+    ],
+    "7":[
+      "med",
+      "---med",
+      "060"
+    ]
+  }
+}

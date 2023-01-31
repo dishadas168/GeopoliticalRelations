@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mexico-bans-baby-names_us_5b9ddd83e4b03a1dcc8dea74"
+  },
+  "headline":{
+    "0":"Mexican State Bans 61 Baby Names Including Scrotum, Hitler, Facebook, Burger King"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"It's about protecting children,\" said Cristina Ramirez, the director of Sonora's Civil Registry. \"We want to make sure children's"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-02-13 00:00:00"
+  },
+  "actor1":{
+    "0":"mex"
+  },
+  "actor2":{
+    "0":"mncusa"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "mexican",
+      "mex",
+      "mexico",
+      "burger king",
+      "mncusa",
+      "burger",
+      "king"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mexican",
+      "burger king"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "mexico",
+      "burger king"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "mex",
+      "mncusa",
+      "172"
+    ]
+  }
+}

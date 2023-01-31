@@ -1,0 +1,183 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-jury-duty-illinois-cook-county_us_59f472c3e4b077d8dfc9dd98",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/deadly-car-bomb-explosions-rock-somali-capital_us_59f4a3d4e4b03cd20b81e88a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/catalan-votes-split-spain_us_59f335d6e4b07fdc5fbdac83",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/how-free-legal-help-can-prevent-evictions_us_59f33e45e4b06ae9067ab7f8"
+  },
+  "headline":{
+    "0":"Barack Obama Plans To Serve America Again, This Time In The Courthouse",
+    "1":"Deadly Car Bomb Explosions Rock Somali Capital",
+    "2":"Catalan Parliament Declares Independence From Spain",
+    "3":"How Free Legal Help Can Prevent Evictions"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"WORLD NEWS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"He made it crystal-clear to me he would carry out his public duty as a citizen and resident of this community.\"",
+    "1":"A bomb attack in Mogadishu killed at least 358 people this month.",
+    "2":"The Spanish government moved to impose direct rule over Catalonia less than an hour later.",
+    "3":"Most evictions are informal and never reach the courts, Urban\u2019s Brennan said. A landlord might send a letter to tenants demanding"
+  },
+  "authors":{
+    "0":"Lee Moran",
+    "1":"Abdi Sheikh, Reuters",
+    "2":"Sam Edwards and Julien Toyer, Reuters",
+    "3":"Stateline, ContributorStateline provides daily reporting and analysis on trends in s..."
+  },
+  "date":{
+    "0":"2017-10-28 00:00:00",
+    "1":"2017-10-28 00:00:00",
+    "2":"2017-10-27 00:00:00",
+    "3":"2017-10-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"som",
+    "2":"espgov",
+    "3":"---bus"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"esp",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"031",
+    "1":"190",
+    "2":"170",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":-10.0,
+    "2":-7.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "mogadishu",
+      "som",
+      "somalia",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "spanish",
+      "government",
+      "espgov",
+      "spain",
+      "~",
+      "catalonia",
+      "esp",
+      "spain"
+    ],
+    "3":[
+      "landlord",
+      "~bus",
+      "~",
+      "tenants",
+      "~cvl",
+      "~",
+      "tenants",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "barack obama",
+      "america"
+    ],
+    "1":[
+      "mogadishu",
+      "people"
+    ],
+    "2":[
+      "spanish government",
+      "catalonia"
+    ],
+    "3":[
+      "landlord",
+      "tenants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "united states of america"
+    ],
+    "1":[
+      "somalia",
+      "---"
+    ],
+    "2":[
+      "spain",
+      "spain"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "plans ... serve"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "moved ... impose"
+    ],
+    "3":[
+      "might send ... letter"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usa",
+      "031"
+    ],
+    "1":[
+      "som",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "espgov",
+      "esp",
+      "170"
+    ],
+    "3":[
+      "---bus",
+      "---cvl",
+      "040"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/before-you-make-your-shop_us_5b9db08be4b03a1dcc8b8743"
+  },
+  "headline":{
+    "0":"Before You Make Your Shopping List for the Holidays: Consider the Message Your Gift Sends to a Girl"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Do all girls like pink? Do all girls want to play princess and be rescued by a prince? I am passing on the pink and getting science and tinkering toys for my nieces. I've seen how toys like these can turn a girl on to a new interest and even a lifelong passion for science or engineering."
+  },
+  "authors":{
+    "0":"Linda Kekelis, Contributor\nEducational and equity consultant"
+  },
+  "date":{
+    "0":"2013-12-03 00:00:00"
+  },
+  "actor1":{
+    "0":"'ulukalala_lavaka_ata_"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"0333"
+  },
+  "goldstein_score":{
+    "0":5.2
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prince",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "prince",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~cvl> ... rescued by <'ulukalala_lavaka_ata_>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "'ulukalala_lavaka_ata_",
+      "---cvl",
+      "0333"
+    ]
+  }
+}

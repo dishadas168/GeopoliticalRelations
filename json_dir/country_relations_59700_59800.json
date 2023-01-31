@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/south-china-sea-asean_us_5796273ce4b0d3568f83d752",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-destroys-hijab-sculpture_us_57966974e4b01180b52fddf6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-donald-trump-america_us_5794da45e4b01180b52f4fc6"
+  },
+  "headline":{
+    "0":"China Scores A Victory At ASEAN Over South China Sea Ruling",
+    "1":"Brexit Voter Accused Of Destroying Niqab Sculpture In Drunken Museum Rampage",
+    "2":"Obama: Donald Trump's Ideas Betray America"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"ARTS & CULTURE",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The international organization dropped a U.S.-backed proposal to mention a legal ruling against China.",
+    "1":"The artwork, titled \"Walk a Mile in Her Veil,\" was smashed to the ground while on display at London's Royal College of Art.",
+    "2":"The president also criticized the Republican nominee's remarks on NATO."
+  },
+  "authors":{
+    "0":"",
+    "1":"Nina Golgowski",
+    "2":"Eliot Nelson"
+  },
+  "date":{
+    "0":"2016-07-25 00:00:00",
+    "1":"2016-07-25 00:00:00",
+    "2":"2016-07-24 00:00:00"
+  },
+  "actor1":{
+    "0":"meareb",
+    "1":"---edu",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"chn",
+    "1":"gbr",
+    "2":"igowstnat"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"111"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "organization",
+      "meareb",
+      "tanzim",
+      "china",
+      "chn",
+      "china"
+    ],
+    "1":[
+      "college",
+      "~edu",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "nato",
+      "igowstnat",
+      "nato"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "organization",
+      "china"
+    ],
+    "1":[
+      "college",
+      "london"
+    ],
+    "2":[
+      "president",
+      "nato"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "tanzim",
+      "china"
+    ],
+    "1":[
+      "---",
+      "united kingdom"
+    ],
+    "2":[
+      "---",
+      "nato"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "dropped ... mention"
+    ],
+    "1":[
+      "was smashed ... at <gbr>"
+    ],
+    "2":[
+      "criticized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "meareb",
+      "chn",
+      "010"
+    ],
+    "1":[
+      "---edu",
+      "gbr",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "igowstnat",
+      "111"
+    ]
+  }
+}

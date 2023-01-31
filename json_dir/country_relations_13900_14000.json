@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/netanyahu-indicted-charges_us_5a7bc7a0e4b044b382192b57"
+  },
+  "headline":{
+    "0":"Israeli Police Recommend Prime Minister Netanyahu Be Indicted On Corruption Charges"
+  },
+  "category":{
+    "0":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"He could face indictment after a monthslong investigation into two separate allegations of corruption."
+  },
+  "authors":{
+    "0":"Josh Butler"
+  },
+  "date":{
+    "0":"2018-02-13 00:00:00"
+  },
+  "actor1":{
+    "0":"isrcop"
+  },
+  "actor2":{
+    "0":"isrgov"
+  },
+  "event_code":{
+    "0":"173"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "israeli",
+      "police",
+      "isrcop",
+      "israel",
+      "~",
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "israeli police",
+      "netanyahu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "israel",
+      "benjamin netanyahu"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "recommend <isrgov> ... indicted on ... charges"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1",
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "isrcop",
+      "isrgov",
+      "173"
+    ]
+  }
+}

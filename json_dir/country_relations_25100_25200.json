@@ -1,0 +1,256 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-september-6-2017_us_59b0253de4b0bef3378cdcf6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-tax-speech-heidi-heitkamp-north-dakota_us_59b03ec3e4b0dfaafcf4f180",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/afghanistan-the-only-good-strategy-is-an-expiring_us_59af39a4e4b0c50640cd62ef",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-risk-of-nuclear-war-with-north-korea-is-exaggerated_us_59af179de4b0bef3378cdc0a",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-killings_us_59ae7648e4b0354e440c482a"
+  },
+  "headline":{
+    "0":"News Roundup for September 6, 2017",
+    "1":"Donald Trump Woos Democratic Senator With Another Tax Speech Light On Details",
+    "2":"Afghanistan: The Only Good Strategy Is An Expiring One",
+    "3":"The Risk Of Nuclear War With North Korea Is Exaggerated",
+    "4":"Boko Haram Killings Doubled In Past 5 Months, Amnesty International Reports"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The news is here to stay. 1. An appeals court in Texas is allowing a controversial voter ID law to be enforced in November",
+    "1":"North Dakota Sen. Heidi Heitkamp joined the president at an event in her home state.",
+    "2":"The U.S. needs to get out of Afghanistan for good and end its other primarily air wars in Muslim countries.",
+    "3":"Neither the North nor South wants to see their country decimated, and superpower neighbors like Russia and China don\u2019t want a conflict with the U.S. on their borders.",
+    "4":"The Islamist militant group has killed more than 380 civilians in Nigeria and Cameroon since April."
+  },
+  "authors":{
+    "0":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "1":"Daniel Marans",
+    "2":"Ivan Eland, PhD, ContributorDirector, Center on Peace and Liberty, The Independent Institute",
+    "3":"Elvin Aghayev, ContributorSenior Research Fellow & Middle East Program Director, The Ind...",
+    "4":""
+  },
+  "date":{
+    "0":"2017-09-06 00:00:00",
+    "1":"2017-09-06 00:00:00",
+    "2":"2017-09-05 00:00:00",
+    "3":"2017-09-05 00:00:00",
+    "4":"2017-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usajud",
+    "1":"usa",
+    "2":"usa",
+    "3":"rus",
+    "4":"---musuaf"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"afg",
+    "3":"usa",
+    "4":"ngacvl"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"040",
+    "2":"105",
+    "3":"030",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":1.0,
+    "2":-5.0,
+    "3":4.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "appeals court",
+      "usajud",
+      "~",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "3":[
+      "russia",
+      "china",
+      "rus",
+      "chn",
+      "russian",
+      "federation",
+      "china",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "islamist",
+      "militant",
+      "~musuaf",
+      "~",
+      "~",
+      "nigeria",
+      "cameroon",
+      "nga",
+      "cmr",
+      "nigeria",
+      "cameroon",
+      "civilians",
+      "ngacvl",
+      "cmrcvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "appeals court",
+      "voter"
+    ],
+    "1":[
+      "north dakota",
+      "president"
+    ],
+    "2":[
+      "u.s.",
+      "afghanistan"
+    ],
+    "3":[
+      "russia",
+      "u.s.",
+      "china",
+      "u.s."
+    ],
+    "4":[
+      "islamist militant",
+      "civilians",
+      "islamist militant",
+      "civilians"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "afghanistan"
+    ],
+    "3":[
+      "russian federation",
+      "united states of america",
+      "china",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "",
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is allowing"
+    ],
+    "1":[
+      "joined"
+    ],
+    "2":[
+      "needs <['get',> <'out']>"
+    ],
+    "3":[
+      "do ... want",
+      "do ... want"
+    ],
+    "4":[
+      "has killed",
+      "has killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usajud",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "usa",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "usa",
+      "afg",
+      "105"
+    ],
+    "3":[
+      "rus",
+      "usa",
+      "030",
+      "chn",
+      "usa",
+      "030"
+    ],
+    "4":[
+      "---musuaf",
+      "ngacvl",
+      "190",
+      "---musuaf",
+      "cmrcvl",
+      "190"
+    ]
+  }
+}

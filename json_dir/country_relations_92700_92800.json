@@ -1,0 +1,115 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/national-defense-strategy_1_b_7653406.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-dose-of-nature-do-we-need-to-feel-better-_b_7653620.html"
+  },
+  "headline":{
+    "0":"National Defense Strategy",
+    "1":"What Dose of Nature Do We Need to Feel Better?"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"GREEN"
+  },
+  "short_description":{
+    "0":"Our military leadership is striving to persuade the administration and Congress to focus on our top priorities, but the media obsession with terrorism is distracting them from the military's core mission -- which is national defense.",
+    "1":"Hunter and her team examined 44 people over 8 weeks. She asked them to go out and immerse themselves in urban natural environments at least 2.5 times per week for a minimum of 10 minutes."
+  },
+  "authors":{
+    "0":"Lt. Gen. Clarence E. McKnight Jr. , ContributorAuthor and former head of the Signal Corps",
+    "1":"Jared Green, ContributorEditor, The Dirt"
+  },
+  "date":{
+    "0":"2015-06-25 00:00:00",
+    "1":"2015-06-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---govleg",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"032",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":4.5,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "military",
+      "~mil",
+      "~",
+      "administration",
+      "congress",
+      "~govleg",
+      "~",
+      "~",
+      "media",
+      "~med",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "hunter",
+      "~cvl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "military",
+      "administration ... congress"
+    ],
+    "1":[
+      "hunter",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is striving ... persuade"
+    ],
+    "1":[
+      "examined"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---govleg",
+      "032"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "090"
+    ]
+  }
+}

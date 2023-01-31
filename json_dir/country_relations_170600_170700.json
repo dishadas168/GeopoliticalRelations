@@ -1,0 +1,70 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prince-charles-camilla-ri_us_5b9cc418e4b03a1dcc81a6dd"
+  },
+  "headline":{
+    "0":"Prince Charles, Camilla Ride The London Underground To Mark Birthday (PHOTOS)"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Prince Charles and his wife, Camilla, Duchess of Cornwall, took the London Underground early Wednesday morning to celebrate"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-01-30 00:00:00"
+  },
+  "actor1":{
+    "0":"'ulukalala_lavaka_ata_"
+  },
+  "actor2":{
+    "0":"gbr"
+  },
+  "event_code":{
+    "0":"171"
+  },
+  "goldstein_score":{
+    "0":-9.2
+  },
+  "nouns":{
+    "0":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prince",
+      "london"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "prince",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "'ulukalala_lavaka_ata_",
+      "gbr",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/choosing-the-right-antibu_us_5b9d792fe4b03a1dcc8874e8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-proposes_us_5b9d792fe4b03a1dcc887504",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/3-challenges-for-engineering-in-k12_us_5b9d78f5e4b03a1dcc8870d9"
+  },
+  "headline":{
+    "0":"Choosing the Right Anti-Bullying Program",
+    "1":"Woman Proposes To Boyfriend, He Shocks Her In Return",
+    "2":"3 Challenges for Engineering in K-12"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WEDDINGS",
+    "2":"PARENTING"
+  },
+  "short_description":{
+    "0":"With millions of students returning to schools across the country over the coming weeks, dedicated educators and concerned parents must work together to find a solution to the U.S. bullying epidemic in order to establish safe learning environments for all students.",
+    "1":"Click through the slideshow below to see our favorite proposals of all time. Though a 2012 survey showed that no men want",
+    "2":"An engineering curriculum is often thought of as a separate subject, but it doesn't have to be. The reality is that engineers may need psychologists, artists and writers to complement their skills and deliver a project."
+  },
+  "authors":{
+    "0":"Hemanshu Nigam, Contributor\nFounder, SSP Blue; Former NewsCorp\/MySpace CSO; Former federal...",
+    "1":"",
+    "2":"Cecilia Corral, Contributor\nCo-founder, VP of Product at CareMessage"
+  },
+  "date":{
+    "0":"2013-08-29 00:00:00",
+    "1":"2013-08-29 00:00:00",
+    "2":"2013-08-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---cvl",
+    "2":"---cvl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"---med"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"110",
+    "2":"100"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-2.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "educators",
+      "~edu",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "engineers",
+      "~cvl",
+      "~",
+      "writers",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "educators",
+      "u.s."
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ],
+    "2":[
+      "engineers",
+      "writers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must ... find <&solution>"
+    ],
+    "1":[
+      "proposes ... shocks"
+    ],
+    "2":[
+      "may need"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "2",
+      "schools",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "110"
+    ],
+    "2":[
+      "---cvl",
+      "---med",
+      "100"
+    ]
+  }
+}

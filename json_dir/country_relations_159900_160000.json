@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sars-like-virus-dead-deaths-saudi-arabia-coronavirus_us_5b9d2fa9e4b03a1dcc85535c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/san-francisco-highlights_us_5b9d2d68e4b03a1dcc8538ca",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/sign-this-or-else-how-pre_us_5b9d2dade4b03a1dcc853c84"
+  },
+  "headline":{
+    "0":"SARS-Like Virus: 17 Now Dead From Coronavirus In Saudi Arabia",
+    "1":"San Francisco Highlights: Halfway to the Stars",
+    "2":"Sign This, Or Else! How Prenup Powerplays Prevail"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"TRAVEL",
+    "2":"WEDDINGS"
+  },
+  "short_description":{
+    "0":"A non-Saudi, whose nationality and age were not given, died on Tuesday, the Health Ministry said on its website late on Wednesday",
+    "1":"For 16 consecutive years, Conde Nast Traveler has voted the City by the Bay as the one of the best cities in the U.S.",
+    "2":"Most people see love and business like oil and water. But marriage is a legal contract. In fact, marriage is the greatest legal partnership most people will enter into in their lives -- and a family is nothing short of a corporation."
+  },
+  "authors":{
+    "0":"Reuters, Reuters",
+    "1":"Barbara Barton Sloane, Contributor\nTravel Editor, Westchester Guardian, www.barbarabartonsloane.com",
+    "2":"Susan Pease Gadoua, Contributor\nSusan is a therapist is Northern California and the author of ..."
+  },
+  "date":{
+    "0":"2013-05-23 00:00:00",
+    "1":"2013-05-22 00:00:00",
+    "2":"2013-05-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usa",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"030",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":4.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "ministry",
+      "~gov",
+      "~",
+      "website",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "traveler",
+      "~cvl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ministry",
+      "website"
+    ],
+    "1":[
+      "traveler",
+      "<u.s.>"
+    ],
+    "2":[
+      "people",
+      "business"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "has voted"
+    ],
+    "2":[
+      "see"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "tourism",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---med",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "---ppl",
+      "---bus",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/obama-gets-personal-in-criminal-justice-push_us_5637563ae4b063179912d644",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-mississippi-death-row_us_5637809ee4b063179912f454",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/steve-king-immigration-capitol-police_us_5637d8e4e4b079a43c043c4a"
+  },
+  "headline":{
+    "0":"Obama Gets Personal In Criminal Justice Push",
+    "1":"Supreme Court Won't Hear Appeal From Mississippi Death Row Inmate",
+    "2":"Steve King Plans Bill To Target Undocumented Immigrant Protesters"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"WASHINGTON (AP) \u2014 As President Barack Obama has toured the country in a recent push for a criminal justice overhaul, he's",
+    "1":"Thomas Loden Jr. pleaded guilty in the rape and killing of a waitress in 2000.",
+    "2":"He's tried it before."
+  },
+  "authors":{
+    "0":"KATHLEEN HENNESSEY, AP",
+    "1":"",
+    "2":"Elise Foley"
+  },
+  "date":{
+    "0":"2015-11-02 00:00:00",
+    "1":"2015-11-02 00:00:00",
+    "2":"2015-11-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"usa",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"---jud",
+    "2":"---cvlopp"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"020",
+    "2":"138"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":3.0,
+    "2":-7.0
+  },
+  "nouns":{
+    "0":[
+      "president barack obama",
+      "usagov",
+      "barack",
+      "obama",
+      "criminal",
+      "~crm",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "mississippi",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "king",
+      "~gov",
+      "~",
+      "immigrant",
+      "protesters",
+      "~cvlopp",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president barack obama",
+      "criminal"
+    ],
+    "1":[
+      "mississippi",
+      "supreme court"
+    ],
+    "2":[
+      "king",
+      "immigrant protesters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has toured"
+    ],
+    "1":[
+      "<~jud> ... hear appeal"
+    ],
+    "2":[
+      "plans ... target"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---crm",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "---jud",
+      "020"
+    ],
+    "2":[
+      "---gov",
+      "---cvlopp",
+      "138"
+    ]
+  }
+}

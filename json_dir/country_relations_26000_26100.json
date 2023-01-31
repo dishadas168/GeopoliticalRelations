@@ -1,0 +1,248 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/texas-gerrymandering_us_59a021d1e4b05710aa5bb88d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/montana-wildfires-environmental-extremists_us_599f328be4b05710aa5aefa8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/daca-immigration_us_599df22fe4b06d67e33502ef",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/texas-discrimination-minority-voters_us_599f34cbe4b05710aa5af598",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/court-rejects-bid-by-republican-voters-to-throw-out-maryland-electoral-map_us_599f3b2ae4b06d67e3366988"
+  },
+  "headline":{
+    "0":"Texas House Map Must Be Redrawn, Federal Court Says",
+    "1":"Montana Lawmakers Say 'Environmental Extremists' To Blame For Wildfires",
+    "2":"Dreamer Living In Kentucky Detained For A Week Due To Error By Immigration Officers",
+    "3":"Texas' Discrimination Against Minority Voters May Finally Come Back To Haunt It",
+    "4":"U.S. Court Rejects Bid By Republican Voters To Throw Out Maryland Electoral Map"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"The court said lawmakers intentionally discriminated against minorities.",
+    "1":"Asked about the role of climate change, Sen. Steve Daines said \"the climate has always been changing.\"",
+    "2":"The woman's case spotlights concerns about the Trump administration's approach to the program protecting some undocumented immigrants from deportation.",
+    "3":"A federal judge could require the state to clear any election changes with the federal government.",
+    "4":"The challengers say the move was a partisan gerrymander in violation of the U.S. Constitution because it intentionally diluted the Republican vote."
+  },
+  "authors":{
+    "0":"",
+    "1":"Chris D'Angelo",
+    "2":"Elise Foley",
+    "3":"Sam Levine",
+    "4":"Lawrence Hurley, Reuters"
+  },
+  "date":{
+    "0":"2017-08-25 00:00:00",
+    "1":"2017-08-25 00:00:00",
+    "2":"2017-08-24 00:00:00",
+    "3":"2017-08-24 00:00:00",
+    "4":"2017-08-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usaleg",
+    "2":"---cvl",
+    "3":"---jud",
+    "4":"usajud"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---rad",
+    "2":"---gov",
+    "3":"---gov",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"010",
+    "3":"08",
+    "4":"100"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":5.0,
+    "4":-5.0
+  },
+  "nouns":{
+    "0":[
+      "the court",
+      "~jud",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "montana",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "extremists",
+      "~rad",
+      "~"
+    ],
+    "2":[
+      "woman",
+      "~cvl",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "federal judge",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "maryland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the court",
+      "lawmakers"
+    ],
+    "1":[
+      "montana lawmakers",
+      "extremists"
+    ],
+    "2":[
+      "woman",
+      "administration"
+    ],
+    "3":[
+      "federal judge",
+      "government"
+    ],
+    "4":[
+      "u.s. court",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said"
+    ],
+    "1":[
+      "say"
+    ],
+    "2":[
+      "spotlights"
+    ],
+    "3":[
+      "could ... clear"
+    ],
+    "4":[
+      "bid"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":[
+      "id_extremism",
+      "1",
+      "natural_disaster",
+      "1"
+    ],
+    "2":[
+      "id_immigration",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---leg",
+      "010"
+    ],
+    "1":[
+      "usaleg",
+      "---rad",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "---gov",
+      "010"
+    ],
+    "3":[
+      "---jud",
+      "---gov",
+      "08"
+    ],
+    "4":[
+      "usajud",
+      "---cvl",
+      "100"
+    ]
+  }
+}

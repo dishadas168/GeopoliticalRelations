@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/tracee-ellis-ross-diana-singing_n_5eced723c5b63f226b841e31",
+    "1":"https:\/\/www.huffpost.com\/entry\/mike-dewine-ohio-masks-not-political_n_5ecb1fb9c5b61967c3338437",
+    "2":"https:\/\/www.huffpost.com\/entry\/trump-china-reversal-coronavirus-blame_n_5ec44c7bc5b61e42ad3d8876",
+    "3":"https:\/\/www.huffpost.com\/entry\/honking-truck-protesters-trump-love-claim_n_5ebf0f39c5b61c0258d6e24e",
+    "4":"https:\/\/www.huffpost.com\/entry\/mitch-mcconnell-barack-obama-mouth-shut_n_5eba0666c5b68f80c04c1fbb",
+    "5":"https:\/\/www.huffpost.com\/entry\/fbi-reveals-saudi-official-911_n_5ebb2dbdc5b6ae915a8bba22"
+  },
+  "headline":{
+    "0":"Tracee Ellis Ross Says Pursuing Singing Was 'Terrifying' As Diana Ross' Daughter",
+    "1":"GOP Gov. Rejects Divide Over Wearing Face Masks: 'This Is Not About Politics'",
+    "2":"Trump Hopes You Forget How He Praised China And The WHO Before Blaming Them",
+    "3":"Honking Truckers Were Showing Trump 'Love,' President Claims At Briefing. No, They Weren't.",
+    "4":"Mitch McConnell: \u2018Classless\u2019 Obama \u2018Should\u2019ve Kept His Mouth Shut\u2019\u00a0About Trump",
+    "5":"FBI Goofs, Reveals Name Of Saudi Official Suspected Of Supporting 9\/11 Hijackers"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"The \"Black-ish\" actor said she feared she'd be \"taken down and obliterated\" by the public.",
+    "1":"Ohio's Mike DeWine joined North Dakota's Doug Burgum in urging people to set aside politics and put on masks.",
+    "2":"For months, the president applauded China\u2019s coronavirus response before he and his reelection team flipped to blaming that country.",
+    "3":"Protesters were demanding help from the federal government during the COVID-19 crisis as shipping rates plunge.",
+    "4":"The Senate majority leader wants the former president to keep quiet.",
+    "5":"The accidental disclosure could revive questions about potential Saudi links to the 9\/11 plot"
+  },
+  "authors":{
+    "0":"Kimberley Richards",
+    "1":"Josephine Harvey",
+    "2":"S.V. Date",
+    "3":"Mary Papenfuss",
+    "4":"Ed Mazza",
+    "5":"Michael Isikoff, Yahoo News"
+  },
+  "date":{
+    "0":"2020-05-27 00:00:00",
+    "1":"2020-05-25 00:00:00",
+    "2":"2020-05-19 00:00:00",
+    "3":"2020-05-16 00:00:00",
+    "4":"2020-05-12 00:00:00",
+    "5":"2020-05-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---eli",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---opp",
+    "4":"usagovleg",
+    "5":"usacop"
+  },
+  "actor2":{
+    "0":"---eli",
+    "1":"usa",
+    "2":"chn",
+    "3":"---gov",
+    "4":"---eli",
+    "5":"sau"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040",
+    "2":"051",
+    "3":"103",
+    "4":"030",
+    "5":"050"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0,
+    "2":3.4,
+    "3":-5.0,
+    "4":4.0,
+    "5":3.5
+  },
+  "nouns":{
+    "0":[
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "1":[
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "china",
+      "chn",
+      "china"
+    ],
+    "3":[
+      "protesters",
+      "~opp",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "former president",
+      "~eli",
+      "~"
+    ],
+    "5":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "actor",
+      "actor",
+      "actor",
+      "actor"
+    ],
+    "1":[
+      "ohio",
+      "ohio"
+    ],
+    "2":[
+      "president",
+      "china"
+    ],
+    "3":[
+      "protesters",
+      "government"
+    ],
+    "4":[
+      "senate",
+      "former president"
+    ],
+    "5":[
+      "fbi",
+      "saudi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "china"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "united states congress",
+      "---"
+    ],
+    "5":[
+      "federal bureau of investigation",
+      "saudi arabia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... feared <~eli> ... taken",
+      "said ... feared <~eli> ... obliterated ... by <--->"
+    ],
+    "1":[
+      "joined"
+    ],
+    "2":[
+      "applauded"
+    ],
+    "3":[
+      "were demanding help"
+    ],
+    "4":[
+      "wants"
+    ],
+    "5":[
+      "reveals"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "disease",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---eli",
+      "---eli",
+      "171",
+      "---eli",
+      "---eli",
+      "015"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "chn",
+      "051"
+    ],
+    "3":[
+      "---opp",
+      "---gov",
+      "103"
+    ],
+    "4":[
+      "usagovleg",
+      "---eli",
+      "030"
+    ],
+    "5":[
+      "usacop",
+      "sau",
+      "050"
+    ]
+  }
+}

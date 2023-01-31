@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/waiting-room-documentary_us_5b9c5ba0e4b03a1dcc7e0db4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-mexico-tomato-agreement_us_5bb2d539e4b0480ca65cf979"
+  },
+  "headline":{
+    "0":"The Real Face of Health Care Today",
+    "1":"U.S. Answers Florida Cry To End Tomato Pact With Mexico"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The Waiting Room is a punch to the gut, an unblinking gaze at the real lives of people cast off and left out of the medical system in the U.S.  Shot in cinema verit\u00e9 style, the film takes place entirely in the emergency room at Oakland's Highland Hospital.",
+    "1":"Mexico's Economy Minister Bruno Ferrari told Reuters earlier this week it was \"obvious\" the Florida Tomato Exchange had timed"
+  },
+  "authors":{
+    "0":"Rick Ayers, Contributor\nAssociate Professor in Teacher Education at University of San ...",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-10-01 00:00:00",
+    "1":"2012-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"mex"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"med"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "mexico",
+      "mex",
+      "mexico",
+      "reuters",
+      "med",
+      "reuters"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "<u.s.>"
+    ],
+    "1":[
+      "mexico",
+      "reuters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "mexico",
+      "reuters"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... left"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "040"
+    ],
+    "1":[
+      "mex",
+      "med",
+      "010"
+    ]
+  }
+}

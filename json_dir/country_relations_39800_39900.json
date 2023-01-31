@@ -1,0 +1,162 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/decoding-americas-immigration-sentiment_us_58c6fc12e4b03400023f4a44",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkey-netherlands-fight_us_58c55a31e4b0d1078ca74a6b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-mosul_us_58c55a1fe4b0ed71826d31e4"
+  },
+  "headline":{
+    "0":"Decoding America\u2019s Immigration Sentiment",
+    "1":"Diplomatic Fight Between Turkey And The Netherlands Escalates",
+    "2":"Iraqi Forces Push Further Into ISIS-Held West Mosul"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Last Monday the White House issued its \u2018revised\u2019 refugee ban engineered to pass constitutional muster. This affords yet another",
+    "1":"Turkey told the Netherlands on Sunday that it would retaliate in the \u201charshest ways.\u201d",
+    "2":"An Iraqi commander says that around 30 percent of the western city area has been retaken."
+  },
+  "authors":{
+    "0":"Chris Jackson, ContributorVice President and program director of Ipsos\u2019 US strategic res...",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2017-03-13 00:00:00",
+    "1":"2017-03-12 00:00:00",
+    "2":"2017-03-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"tur",
+    "2":"irq"
+  },
+  "actor2":{
+    "0":"---ref",
+    "1":"nld",
+    "2":"imgmusisi"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"010",
+    "2":"192"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":0.0,
+    "2":-9.5
+  },
+  "nouns":{
+    "0":[
+      "the white house",
+      "usagov",
+      "white",
+      "house",
+      "refugee",
+      "~ref",
+      "~",
+      "refugee",
+      "~ref",
+      "~"
+    ],
+    "1":[
+      "turkey",
+      "tur",
+      "turkey",
+      "netherlands",
+      "nld",
+      "netherlands"
+    ],
+    "2":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "isis",
+      "mosul",
+      "imgmusisi",
+      "irq",
+      "the",
+      "islamic",
+      "state",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the white house",
+      "refugee"
+    ],
+    "1":[
+      "turkey",
+      "netherlands"
+    ],
+    "2":[
+      "iraqi",
+      "isis",
+      "iraqi",
+      "iraqi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "turkey",
+      "netherlands"
+    ],
+    "2":[
+      "iraq",
+      "the islamic state",
+      "iraq",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "issued"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "push ... into",
+      "push ... into"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "retaliation",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---ref",
+      "060"
+    ],
+    "1":[
+      "tur",
+      "nld",
+      "010"
+    ],
+    "2":[
+      "irq",
+      "imgmusisi",
+      "192",
+      "irq",
+      "irq",
+      "192"
+    ]
+  }
+}

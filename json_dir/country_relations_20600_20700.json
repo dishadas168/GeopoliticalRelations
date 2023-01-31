@@ -1,0 +1,149 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-native-american-heritage-month-pocahontas_us_59fca124e4b04cdbeb32fe3e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/alec-baldwin-says-ive-bullied-women_us_59fc4cb9e4b0b0c7fa397338",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-berghdal-sentence_us_59fca437e4b0baea263188ba"
+  },
+  "headline":{
+    "0":"Trump Kicks Off Native American Heritage Month By Reviving 'Pocahontas' Slur",
+    "1":"Alec Baldwin Regrets Having 'Bullied Women'",
+    "2":"Trump Calls Bergdahl Sentence A Disgrace To Country And Military"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"ENTERTAINMENT",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"The president has repeatedly used the term as a nickname for Sen. Elizabeth Warren, because she previously claimed Native American heritage.",
+    "1":"The actor admitted he's \"treated women in a very sexist way.\"",
+    "2":"A Fort Bragg military judge on Friday sentenced the U.S. soldier to a dishonorable discharge, fined him $10,000 and reduced his rank from sergeant to private."
+  },
+  "authors":{
+    "0":"Chris D'Angelo",
+    "1":"Ron Dicker",
+    "2":"Eline Gordts"
+  },
+  "date":{
+    "0":"2017-11-04 00:00:00",
+    "1":"2017-11-03 00:00:00",
+    "2":"2017-11-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---eli",
+    "2":"---miljud"
+  },
+  "actor2":{
+    "0":"usacvl",
+    "1":"---eli",
+    "2":"usamil"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"050",
+    "2":"172"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.5,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "native",
+      "american",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "military judge",
+      "~miljud",
+      "~",
+      "u.s.",
+      "soldier",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "native american"
+    ],
+    "1":[
+      "actor",
+      "actor"
+    ],
+    "2":[
+      "military judge",
+      "u.s. soldier"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has ... claimed"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "<and> ... sentenced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usacvl",
+      "110"
+    ],
+    "1":[
+      "---eli",
+      "---eli",
+      "050"
+    ],
+    "2":[
+      "---miljud",
+      "usamil",
+      "172"
+    ]
+  }
+}

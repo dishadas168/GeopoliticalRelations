@@ -1,0 +1,113 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/www.advocate.com\/think-trans\/2016\/2\/08\/how-internet-star-ts-madison-turned-hard-knocks-comedic-gold",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-un_us_56b7befbe4b08069c7a7b0dd"
+  },
+  "headline":{
+    "0":"How Internet Star TS Madison Turned Hard Knocks Into Comedic Gold",
+    "1":"U.N. Security Council Condemns North Korea After Rocket Launch"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"It\u2019s no wonder that television producers have come calling for Atlanta\u2019s Madison Hinton, also known as TS Madison, the ebullient",
+    "1":"Washington warned of \"serious consequences\" for Pyongyang."
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2016-02-08 00:00:00",
+    "1":"2016-02-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---medbus",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"prk"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"130"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-4.4
+  },
+  "nouns":{
+    "0":[
+      "television",
+      "producers",
+      "~medbus",
+      "~",
+      "~",
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "pyongyang",
+      "prk",
+      "north",
+      "korea"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "television producers",
+      "atlanta"
+    ],
+    "1":[
+      "washington",
+      "pyongyang"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "north korea"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... calling for"
+    ],
+    "1":[
+      "warned"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---medbus",
+      "usa",
+      "020"
+    ],
+    "1":[
+      "usa",
+      "prk",
+      "130"
+    ]
+  }
+}

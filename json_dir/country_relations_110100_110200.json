@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-happiness-factor_b_5983058.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/more-powerful-than-the-ma_b_6255414.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/homeless-man-steals-ambul_n_6256860.html"
+  },
+  "headline":{
+    "0":"Customer Service and The Happiness Factor",
+    "1":"'More Powerful Than the March of Mighty Armies Is an Idea Whose Time Has Come'",
+    "2":"Homeless Man Steals Ambulance To 'See Some Pole Dancing'"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"BLACK VOICES",
+    "2":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"Happy employees lead to happy customers, and that is something no organization should take for granted. To foster your own culture of happiness, focus on these five key factors.",
+    "1":"In my last blog post I wrote, \"The president and the attorney general should immediately convene a meeting at the White House of young black men and their representatives and the chiefs of police of most major urban communities....\" Yesterday the president did just that and actually went even further.",
+    "2":""
+  },
+  "authors":{
+    "0":"Doris Higginbotham, ContributorPresident, Canon Information Technology Services",
+    "1":"Clarence B. Jones, Contributor",
+    "2":""
+  },
+  "date":{
+    "0":"2014-12-02 00:00:00",
+    "1":"2014-12-02 00:00:00",
+    "2":"2014-12-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---ppl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"usagovlegcopcvl",
+    "2":"pol"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"046",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":7.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "employees",
+      "~lab",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "president",
+      "attorney general",
+      "~gov",
+      "~",
+      "~",
+      "men",
+      "representatives",
+      "~leg",
+      "~",
+      "~",
+      "communities",
+      "~cvl",
+      "~",
+      "police",
+      "communities",
+      "~copcvl",
+      "~",
+      "~",
+      "the white house",
+      "men",
+      "representatives",
+      "police",
+      "communities",
+      "usagovlegcopcvl",
+      "white",
+      "house",
+      "~",
+      "~",
+      "~",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~",
+      "pole",
+      "pol",
+      "poland"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "customers",
+      "employees",
+      "employees",
+      "customers"
+    ],
+    "1":[
+      "president ... attorney general",
+      "the ... white house ... men ... representatives ... police ... communities"
+    ],
+    "2":[
+      "man",
+      "pole"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "white house"
+    ],
+    "2":[
+      "---",
+      "poland"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lead to",
+      "lead to"
+    ],
+    "1":[
+      "should ... convene ... meeting"
+    ],
+    "2":[
+      "ambulance ... see"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "poverty",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---lab",
+      "043",
+      "---lab",
+      "---cvl",
+      "042"
+    ],
+    "1":[
+      "---gov",
+      "usagovlegcopcvl",
+      "046"
+    ],
+    "2":[
+      "---ppl",
+      "pol",
+      "010"
+    ]
+  }
+}

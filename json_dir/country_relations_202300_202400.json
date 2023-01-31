@@ -1,0 +1,199 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/swedish-hospital-hot-nurses-ad_us_5b9b5ba7e4b03a1dcc76e7b7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/american-heart-month_us_5b9b59a4e4b03a1dcc76d769",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/real-men-get-raped-campaign-london_us_5bafa0a3e4b0ad76925f0eac",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/magnolia-mountain-mountaintop-removal_us_5bb10ca8e4b09bbe9a59b9a0"
+  },
+  "headline":{
+    "0":"Swedish Hospital Places Ad Seeking 'Hot' Nurses",
+    "1":"After Heart Attack 42 Percent of Women Will Die; 24 Percent of Men",
+    "2":"'Real Men Get Raped' Campaign Comes To London Tube Stations",
+    "3":"\"The Hand of Man\": Powerful New Music Video Captures Appalachia's Grief Over Mountaintop Removal"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"WELLNESS",
+    "2":"QUEER VOICES",
+    "3":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"Andersson told The Local that the hospital is ultimately seeking a qualified candidate and the right person will be hired",
+    "1":"I really don't know how I could have missed the fact that within one year of having a heart attack, 42 percent of women will die and 24 percent of men. See for yourself at the U.S. Department of Health and Human Services statistics website.",
+    "2":"The National Center For Victims Of Crime reports that about three percent of men in the U.S. -- a total of close to three",
+    "3":"\"The Hand of Man\" takes the listener to White Star Holler in Kentucky, where seven generations of mountain families have struggled to defend their lives and livelihoods from the toxic fallout from coal company destruction."
+  },
+  "authors":{
+    "0":"",
+    "1":"Suzanne O'Malley, Contributor\nAuthor, Screenwriter, Yale University Lecturer",
+    "2":"",
+    "3":"Jeff Biggers, Contributor\nGuest Writer"
+  },
+  "date":{
+    "0":"2012-02-21 00:00:00",
+    "1":"2012-02-20 00:00:00",
+    "2":"2012-02-20 00:00:00",
+    "3":"2012-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---ppl",
+    "2":"gbr",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"190",
+    "2":"040",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":1.0,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "hospital",
+      "~hlh",
+      "~",
+      "nurses",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "men",
+      "~ppl",
+      "~",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "3":[
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "kentucky",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hospital",
+      "hospital"
+    ],
+    "1":[
+      "women",
+      "men"
+    ],
+    "2":[
+      "men",
+      "london"
+    ],
+    "3":[
+      "man",
+      "kentucky"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united kingdom"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seeking"
+    ],
+    "1":[
+      "will die"
+    ],
+    "2":[
+      "get ... comes to"
+    ],
+    "3":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "rape",
+      "1"
+    ],
+    "3":[
+      "coal",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "030"
+    ],
+    "1":[
+      "---cvl",
+      "---ppl",
+      "190"
+    ],
+    "2":[
+      "---ppl",
+      "gbr",
+      "040"
+    ],
+    "3":[
+      "---ppl",
+      "usa",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-college-achievement-plan_us_5640dd1ee4b0b24aee4b1b4d"
+  },
+  "headline":{
+    "0":"Starbucks Offers Free College Tuition To Military Spouses And Children"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Military families can now earn bachelor's degrees at Arizona State University for free."
+  },
+  "authors":{
+    "0":"Nadya Agrawal, Guest Writer"
+  },
+  "date":{
+    "0":"2015-11-09 00:00:00"
+  },
+  "actor1":{
+    "0":"mncusa"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "college",
+      "~edu",
+      "~",
+      "military",
+      "children",
+      "~milcvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "starbucks",
+      "college"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "starbucks",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "mncusa",
+      "---edu",
+      "030"
+    ]
+  }
+}

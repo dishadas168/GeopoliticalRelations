@@ -1,0 +1,360 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.comhttp:\/\/variety.com\/2016\/biz\/news\/rob-reiner-north-carolina-lgbt-1201739020\/",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/03\/25\/us\/politics\/republicans-muslim-americans-vote.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/netflix-throttling-att-verizon_us_56f480e1e4b014d3fe22bf27",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/brussels-attacks-american-victims_us_56f516c3e4b0143a9b47e2cb",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/syria-recaptures-palmyra-from-isis_us_56f54671e4b0a3721819b54f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/aclu-lawyers-fresno-bar-black_us_56f43ae8e4b0143a9b47b0ca",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/obama-cuban-tv_us_56f3df00e4b02c402f667a5d",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/barack-obama-silica-rule_us_56f42cf2e4b0c3ef521849c0"
+  },
+  "headline":{
+    "0":"Rob Reiner Says He Won\u2019t Shoot In NC Unless Anti-LGBT Law Is Repealed",
+    "1":"Feeling G.O.P. Peril, Muslims Try To Get Out Vote",
+    "2":"Netflix Admits Throttling Video On AT&T And Verizon Phones",
+    "3":"2 Americans Killed In Brussels Bombings (UPDATE)",
+    "4":"Syrian Government Troops Recapture Palmyra Citadel From ISIS",
+    "5":"ACLU Lawyers Say They Were Kicked Out Of Bar Because They\u2019re Black",
+    "6":"Obama Tests His Comedy Skills On A Cuban Sketch Show",
+    "7":"The Obama Administration Just Took A Huge Step On Worker Safety"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"TECH",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"BLACK VOICES",
+    "6":"POLITICS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"As studios and media companies were lining up to condemn a pending Georgia religious liberty bill,North Carolina\u2019s governor",
+    "1":"American Muslims are watching in growing horror as Donald J. Trump and Senator Ted Cruz battle for the Republican presidential",
+    "2":"AT&T and Verizon were recently taking heat over their quality of Netflix videos. Now it looks like blame may lie somewhere else.",
+    "3":"Secretary of State John Kerry met with Belgian leaders and offered condolences and help following the attacks.",
+    "4":"The seizure of Palmyra would mark the biggest single gain for President Bashar al-Assad since Russia intervened in September.",
+    "5":"\"I know that we aren't the first people that this has happened to, and unfortunately I don't think that we'll be the last.\"",
+    "6":"\"Obama, Obama, so nice you came to Havana!\"",
+    "7":"It's known as the silica rule, and it's a big frigging deal."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Lesley Wroughton, Reuters",
+    "4":"Dominic Evans, Reuters",
+    "5":"Lydia O'Connor",
+    "6":"Paige Lavender",
+    "7":"Dave Jamieson"
+  },
+  "date":{
+    "0":"2016-03-25 00:00:00",
+    "1":"2016-03-25 00:00:00",
+    "2":"2016-03-25 00:00:00",
+    "3":"2016-03-25 00:00:00",
+    "4":"2016-03-25 00:00:00",
+    "5":"2016-03-24 00:00:00",
+    "6":"2016-03-24 00:00:00",
+    "7":"2016-03-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usamus",
+    "2":"mncusamed",
+    "3":"usagov",
+    "4":"syrmil",
+    "5":"ngousahrijud",
+    "6":"usagov",
+    "7":"usagov"
+  },
+  "actor2":{
+    "0":"geogov",
+    "1":"---leg",
+    "2":"mncusa",
+    "3":"bel",
+    "4":"imgmusisi",
+    "5":"ngousahrijud",
+    "6":"cub",
+    "7":"---lab"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"010",
+    "2":"171",
+    "3":"036",
+    "4":"192",
+    "5":"174",
+    "6":"040",
+    "7":"171"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":-9.2,
+    "3":4.0,
+    "4":-9.5,
+    "5":-5.0,
+    "6":1.0,
+    "7":-9.2
+  },
+  "nouns":{
+    "0":[
+      "companies",
+      "~bus",
+      "~",
+      "georgia",
+      "north carolina",
+      "governor",
+      "geogov",
+      "usagov",
+      "georgia",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "american",
+      "muslims",
+      "usamus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "senator",
+      "~leg",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "at&t",
+      "verizon",
+      "mncusamed",
+      "mncusamed",
+      "at&t",
+      "verizon",
+      "netflix",
+      "mncusa",
+      "netflix"
+    ],
+    "3":[
+      "john kerry",
+      "usagov",
+      "john",
+      "kerry",
+      "belgian",
+      "bel",
+      "belgium"
+    ],
+    "4":[
+      "syrian",
+      "government troops",
+      "syrmil",
+      "syria",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state"
+    ],
+    "5":[
+      "aclu",
+      "lawyers",
+      "ngousahrijud",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "~"
+    ],
+    "6":[
+      "obama",
+      "obama",
+      "usagov",
+      "usagov",
+      "barack",
+      "obama",
+      "barack",
+      "obama",
+      "havana",
+      "cub",
+      "cuba"
+    ],
+    "7":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "worker",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "companies",
+      "georgia",
+      "companies",
+      "north carolina"
+    ],
+    "1":[
+      "american muslims",
+      "senator"
+    ],
+    "2":[
+      "<at&t>",
+      "<at&t>"
+    ],
+    "3":[
+      "john kerry",
+      "belgian"
+    ],
+    "4":[
+      "syrian government troops",
+      "isis"
+    ],
+    "5":[
+      "aclu lawyers",
+      "aclu lawyers"
+    ],
+    "6":[
+      "obama",
+      "havana"
+    ],
+    "7":[
+      "the obama administration",
+      "worker"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "georgia",
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "at&t",
+      "at&t"
+    ],
+    "3":[
+      "john kerry",
+      "belgium"
+    ],
+    "4":[
+      "syria",
+      "the islamic state"
+    ],
+    "5":[
+      "american civil liberties union",
+      "american civil liberties union"
+    ],
+    "6":[
+      "barack obama",
+      "cuba"
+    ],
+    "7":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "were ... condemn",
+      "were ... condemn"
+    ],
+    "1":[
+      "are watching"
+    ],
+    "2":[
+      "were ... taking"
+    ],
+    "3":[
+      "<and> ... met with ... leaders"
+    ],
+    "4":[
+      "recapture"
+    ],
+    "5":[
+      "say <ngousahrijud> <['kicked',> <'out']>"
+    ],
+    "6":[
+      "came to"
+    ],
+    "7":[
+      "took"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "geogov",
+      "111",
+      "---bus",
+      "usagov",
+      "111"
+    ],
+    "1":[
+      "usamus",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "mncusamed",
+      "mncusa",
+      "171",
+      "mncusamed",
+      "mncusa",
+      "171"
+    ],
+    "3":[
+      "usagov",
+      "bel",
+      "036"
+    ],
+    "4":[
+      "syrmil",
+      "imgmusisi",
+      "192"
+    ],
+    "5":[
+      "ngousahrijud",
+      "ngousahrijud",
+      "174"
+    ],
+    "6":[
+      "usagov",
+      "cub",
+      "040",
+      "usagov",
+      "cub",
+      "040"
+    ],
+    "7":[
+      "usagov",
+      "---lab",
+      "171"
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/florida-hotline-offers-immigrants-a-lifeline_us_59e11710e4b09e31db9758c8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/rep-greg-gianforte-couldnt-handle-being-in-a-room-full-of-journalists_us_59e0d031e4b04d1d518142f4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chinese-museum-racist-exhibit_us_59e117eae4b04d1d5181c209",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-coleman-boyle-rescued_us_59df6bede4b00abf3646c08a"
+  },
+  "headline":{
+    "0":"Florida Hotline Offers Immigrants A Lifeline",
+    "1":"Rep Who Body-Slammed A Journalist Bailed On A Meeting About Empowering The Press",
+    "2":"Chinese Museum Removes Photo Series Comparing Black People To Animals",
+    "3":"Kidnapped U.S.-Canadian Couple Rescued From Extremists In Pakistan"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"POLITICS",
+    "2":"ARTS & CULTURE",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"By Thomas Kennedy Since the election of Donald Trump to the presidency, the daily lives of undocumented immigrants in this",
+    "1":"The congressman was supposed to make amends with the Committee to Protect Journalists. He wasn't there long.",
+    "2":"The shocking images juxtapose photos of black Africans with those of lions, chimpanzees, giraffes, leopards and baboons.",
+    "3":"The Pakistani military rescued the backpackers, who had three children while in captivity."
+  },
+  "authors":{
+    "0":"Center for Community Change Action, ContributorSocial justice organization",
+    "1":"Sebastian Murdock",
+    "2":"Priscilla Frank",
+    "3":""
+  },
+  "date":{
+    "0":"2017-10-13 00:00:00",
+    "1":"2017-10-13 00:00:00",
+    "2":"2017-10-13 00:00:00",
+    "3":"2017-10-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---leg",
+    "2":"chn",
+    "3":"pakmil"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---med",
+    "2":"---ppl",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"074",
+    "2":"174",
+    "3":"073"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":8.5,
+    "2":-5.0,
+    "3":7.4
+  },
+  "nouns":{
+    "0":[
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "2":[
+      "chinese",
+      "chn",
+      "china",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "pakistani",
+      "military",
+      "pakmil",
+      "pakistan",
+      "~",
+      "backpackers",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "florida",
+      "immigrants"
+    ],
+    "1":[
+      "congressman",
+      "journalists"
+    ],
+    "2":[
+      "chinese",
+      "people"
+    ],
+    "3":[
+      "pakistani military",
+      "backpackers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "china",
+      "---"
+    ],
+    "3":[
+      "pakistan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "offers"
+    ],
+    "1":[
+      "was ... protect"
+    ],
+    "2":[
+      "removes"
+    ],
+    "3":[
+      "rescued"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "---leg",
+      "---med",
+      "074"
+    ],
+    "2":[
+      "chn",
+      "---ppl",
+      "174"
+    ],
+    "3":[
+      "pakmil",
+      "---cvl",
+      "073"
+    ]
+  }
+}

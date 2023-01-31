@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chick-fil-a-president-no-concessions-same-sex-marriage-supporters_us_5bafaae8e4b0ad76925fb7f7"
+  },
+  "headline":{
+    "0":"Chick-Fil-A President Says They've Made No 'Concessions' To Same-Sex Marriage Supporters"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"On Thursday, the company released a statement on their corporate website in response to Moreno's claims, defending their"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2012-09-22 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "website",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "website"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "released ... statement"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---med",
+      "010"
+    ]
+  }
+}

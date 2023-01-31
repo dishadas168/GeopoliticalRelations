@@ -1,0 +1,165 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/former-indiana-gop-candid_n_5466347.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/moms-to-epa-recall-monsantos-roundup_b_5417927.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/transgender-priest-national-cathedral-pride_n_5459762.html"
+  },
+  "headline":{
+    "0":"Richard Mourdock: America Is Going The Way Of Nazi Germany",
+    "1":"Moms to EPA: Recall Monsanto's Roundup",
+    "2":"Washington National Cathedral Welcomes First Trans Priest To Preach"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"GREEN",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Two activist groups want the U.S. Environmental Protection Agency to recall Monsanto's Roundup, the most widely used herbicide\/pesticide in the world. Now is the time to do it, they say, because the EPA is conducting a registration review of glyphosate, the key ingredient in Roundup.",
+    "2":""
+  },
+  "authors":{
+    "0":"Igor Bobic",
+    "1":"Ronnie Cummins, ContributorDirector, Organic Consumers Association",
+    "2":"Yasmine Hafiz"
+  },
+  "date":{
+    "0":"2014-06-07 00:00:00",
+    "1":"2014-06-06 00:00:00",
+    "2":"2014-06-06 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"---rel"
+  },
+  "actor2":{
+    "0":"deu",
+    "1":"usa",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"030",
+    "2":"042"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0,
+    "2":1.9
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "germany",
+      "deu",
+      "germany"
+    ],
+    "1":[
+      "activist",
+      "~opp",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "monsanto",
+      "mncusaagr",
+      "monsanto"
+    ],
+    "2":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "priest",
+      "~rel",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "germany"
+    ],
+    "1":[
+      "activist",
+      "u.s."
+    ],
+    "2":[
+      "priest",
+      "washington",
+      "washington",
+      "priest"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "germany"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is going"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "welcomes ... to",
+      "welcomes ... to"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_extremism",
+      "1"
+    ],
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "deu",
+      "040"
+    ],
+    "1":[
+      "---opp",
+      "usa",
+      "030"
+    ],
+    "2":[
+      "---rel",
+      "usa",
+      "042",
+      "usa",
+      "---rel",
+      "043"
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/australia-national-security-press-freedom_us_5a692343e4b0dc592a0f3df2",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/casey-affleck-is-skipping-the-oscars-to-avoid-metoo-backlash_us_5a6a3c27e4b06e253265ce90",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/cape-town-water-emergency_us_5a6897e0e4b0e5630075630c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/msu-history-of-sexual-abuse-title-ix_us_5a690462e4b0e56300761dd4",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/elizabeth-warren-private-insurance-families-usa_us_5a6a0d00e4b01fbbefafbaf0",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/presidents-club-charity-sexual-harassment_us_5a68d317e4b0dc592a0ee69b",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/larry-nassar-sexual-abuse-indianapolis-star_us_5a68d536e4b002283008ecdb"
+  },
+  "headline":{
+    "0":"Australia\u2019s National Security Overhaul Worries Press Freedom Advocates",
+    "1":"Casey Affleck Is Skipping The Oscars Amid #MeToo Backlash",
+    "2":"Cape Town Braces For Water Emergency That Could Affect Nearly 4 Million People",
+    "3":"MSU Faces A Reckoning Over Its Handling Of Sexual Abuse",
+    "4":"Elizabeth Warren Lays Out Plan To Hold Health Insurers Accountable",
+    "5":"Prestigious Men-Only Charity In London To Close Amid Sexual Harassment Claims",
+    "6":"Prosecutor In Larry Nassar Case Thanks Journalists For Uncovering Sexual Abuse"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"ENTERTAINMENT",
+    "2":"WORLD NEWS",
+    "3":"WOMEN",
+    "4":"POLITICS",
+    "5":"WORLD NEWS",
+    "6":"MEDIA"
+  },
+  "short_description":{
+    "0":"Under the proposed laws, possessing classified information could be seen as espionage.",
+    "1":"Two women have previously accused the actor of sexual harassment.",
+    "2":"The South African city plans to shut off its water on April 12, unless dam water levels go up.",
+    "3":"In 2015, the U.S. Department of Education cited a potentially \"sexually hostile environment\" at the school.",
+    "4":"\u201cPrivate insurance companies are failing the American people,\u201d the senator said on Thursday.",
+    "5":"Two female journalists went undercover as waitresses at the event and reported rampant groping and sexual harassment.",
+    "6":"In 2016, a team of Indianapolis Star reporters began investigating USA Gymnastics for its policies that enabled rampant sexual abuse."
+  },
+  "authors":{
+    "0":"Eoin Blackwell",
+    "1":"Cole Delbyck",
+    "2":"Nina Golgowski",
+    "3":"Sara Boboltz",
+    "4":"Daniel Marans",
+    "5":"Antonia Blumberg",
+    "6":"Marina Fang"
+  },
+  "date":{
+    "0":"2018-01-25 00:00:00",
+    "1":"2018-01-25 00:00:00",
+    "2":"2018-01-25 00:00:00",
+    "3":"2018-01-25 00:00:00",
+    "4":"2018-01-25 00:00:00",
+    "5":"2018-01-24 00:00:00",
+    "6":"2018-01-24 00:00:00"
+  },
+  "actor1":{
+    "0":"aus",
+    "1":"---cvl",
+    "2":"zaf",
+    "3":"usagovedu",
+    "4":"---bus",
+    "5":"---med",
+    "6":"---med"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---eli",
+    "2":"---ppl",
+    "3":"---edu",
+    "4":"usappl",
+    "5":"---bus",
+    "6":"usa"
+  },
+  "event_code":{
+    "0":"012",
+    "1":"112",
+    "2":"050",
+    "3":"010",
+    "4":"120",
+    "5":"040",
+    "6":"090"
+  },
+  "goldstein_score":{
+    "0":-0.4,
+    "1":-2.0,
+    "2":3.5,
+    "3":0.0,
+    "4":-4.0,
+    "5":1.0,
+    "6":-2.0
+  },
+  "nouns":{
+    "0":[
+      "australia",
+      "aus",
+      "australia",
+      "advocates",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "women",
+      "~cvl",
+      "~",
+      "actor",
+      "~eli",
+      "~"
+    ],
+    "2":[
+      "cape town",
+      "zaf",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "u.s.",
+      "department of education",
+      "usagovedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "school",
+      "~edu",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "4":[
+      "companies",
+      "~bus",
+      "~",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ],
+    "5":[
+      "journalists",
+      "~med",
+      "~",
+      "waitresses",
+      "~bus",
+      "~"
+    ],
+    "6":[
+      "reporters",
+      "~med",
+      "~",
+      "reporters",
+      "~med",
+      "~",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "australia",
+      "advocates"
+    ],
+    "1":[
+      "women",
+      "actor"
+    ],
+    "2":[
+      "cape town",
+      "people"
+    ],
+    "3":[
+      "u.s. department of education",
+      "school"
+    ],
+    "4":[
+      "companies",
+      "american people"
+    ],
+    "5":[
+      "journalists",
+      "waitresses"
+    ],
+    "6":[
+      "reporters",
+      "usa"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "australia",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "republic of south africa",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "worries"
+    ],
+    "1":[
+      "have ... accused"
+    ],
+    "2":[
+      "could affect"
+    ],
+    "3":[
+      "cited"
+    ],
+    "4":[
+      "are failing"
+    ],
+    "5":[
+      "<and> ... went"
+    ],
+    "6":[
+      "began investigating"
+    ]
+  },
+  "issues":{
+    "0":[
+      "media_censorship",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "water_security",
+      "1"
+    ],
+    "3":[
+      "schools",
+      "1"
+    ],
+    "4":null,
+    "5":null,
+    "6":[
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "aus",
+      "---jud",
+      "012"
+    ],
+    "1":[
+      "---cvl",
+      "---eli",
+      "112"
+    ],
+    "2":[
+      "zaf",
+      "---ppl",
+      "050"
+    ],
+    "3":[
+      "usagovedu",
+      "---edu",
+      "010"
+    ],
+    "4":[
+      "---bus",
+      "usappl",
+      "120"
+    ],
+    "5":[
+      "---med",
+      "---bus",
+      "040"
+    ],
+    "6":[
+      "---med",
+      "usa",
+      "090"
+    ]
+  }
+}

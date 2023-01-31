@@ -1,0 +1,273 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkish-security-journalists_us_56fec3abe4b0daf53aefa7c3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/syria-damascus-air-strikes-death-toll-rises_us_56fe6d48e4b0a06d580569a9",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/how-kenya-is-getting-teen-moms-back-in-school_us_56fe882ae4b083f5c6077139",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/turkey-lobbyists-armenia_us_56fd85a6e4b0a06d58054b16",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/muslim-woman-slashed-terrorist_us_56fdd80ce4b0daf53aef540b",
+    "5":"https:\/\/www.huffingtonpost.comhttp:\/\/huff.to\/1T7XWTe"
+  },
+  "headline":{
+    "0":"Journalists Got Attacked On U.S. Soil For Doing Their Jobs",
+    "1":"Death Toll From East Damascus Air Strikes Rises To More Than 30",
+    "2":"How Kenya Is Getting Teen Moms Back In School",
+    "3":"Turkey's Lobbyists Seek U.S. Help By Calling Tiny Armenia A Big Threat",
+    "4":"Muslim Woman Lied About Being Slashed In Face And Called 'Terrorist' (UPDATE)",
+    "5":"Poison Profits"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"IMPACT",
+    "3":"POLITICS",
+    "4":"CRIME",
+    "5":"BUSINESS"
+  },
+  "short_description":{
+    "0":"A Secret Service agent at an event for the Turkish president told a Turkish security guard to \"calm down\" and \"act like an adult.\"",
+    "1":"The Syrian Observatory for Human Rights said the strikes were carried out by Syrian aircraft, despite a month-long \"cessation of hostilities.\"",
+    "2":"Since the project started in 2014, more than 300 girls have gone back to school.",
+    "3":"Armenia is allowing Russia to menace NATO member Turkey, according to the lobbyists.",
+    "4":"Police say the woman cut a 2-inch gash in her own face as part of the lie.",
+    "5":"Lead paint is making New York City\u2019s children sick -- and some landlords see it as the cost of doing business."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"",
+    "2":"HEZRON OCHIEL, Reuters",
+    "3":"Akbar Shahid Ahmed and Nick Baumann",
+    "4":"Peter Andrew Hart and Andy Campbell",
+    "5":""
+  },
+  "date":{
+    "0":"2016-04-01 00:00:00",
+    "1":"2016-04-01 00:00:00",
+    "2":"2016-04-01 00:00:00",
+    "3":"2016-04-01 00:00:00",
+    "4":"2016-04-01 00:00:00",
+    "5":"2016-03-31 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"syr",
+    "2":"---cvl",
+    "3":"arm",
+    "4":"---muscvl",
+    "5":"---bus"
+  },
+  "actor2":{
+    "0":"tur",
+    "1":"syropphri",
+    "2":"---edu",
+    "3":"rus",
+    "4":"---uaf",
+    "5":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010",
+    "2":"040",
+    "3":"08",
+    "4":"041",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":1.0,
+    "3":5.0,
+    "4":1.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "president",
+      "turgov",
+      "turkey",
+      "~",
+      "turkish",
+      "tur",
+      "turkey"
+    ],
+    "1":[
+      "syrian observatory for human rights",
+      "syropphri",
+      "syrian",
+      "observatory",
+      "for",
+      "human",
+      "rights",
+      "syrian",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "girls",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "armenia",
+      "arm",
+      "armenia",
+      "nato",
+      "turkey",
+      "igowstnat",
+      "tur",
+      "nato",
+      "turkey",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "4":[
+      "muslim",
+      "woman",
+      "~muscvl",
+      "~",
+      "~",
+      "terrorist",
+      "~uaf",
+      "~"
+    ],
+    "5":[
+      "new york city",
+      "children",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "landlords",
+      "~bus",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish president",
+      "turkish"
+    ],
+    "1":[
+      "syrian",
+      "syrian observatory for human rights"
+    ],
+    "2":[
+      "girls",
+      "school"
+    ],
+    "3":[
+      "armenia",
+      "russia"
+    ],
+    "4":[
+      "muslim woman",
+      "terrorist"
+    ],
+    "5":[
+      "landlords",
+      "landlords"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "turkey"
+    ],
+    "1":[
+      "syria",
+      "syrian observatory for human rights"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "armenia",
+      "russian federation"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "<syropphri> <['carried',> <'out',> <('by',> <['syr'])]>"
+    ],
+    "2":[
+      "have gone"
+    ],
+    "3":[
+      "is allowing"
+    ],
+    "4":[
+      "<and> ... called"
+    ],
+    "5":[
+      "see"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "human_rights",
+      "1"
+    ],
+    "2":[
+      "schools",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "tur",
+      "010"
+    ],
+    "1":[
+      "syr",
+      "syropphri",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "3":[
+      "arm",
+      "rus",
+      "08"
+    ],
+    "4":[
+      "---muscvl",
+      "---uaf",
+      "041"
+    ],
+    "5":[
+      "---bus",
+      "---bus",
+      "010"
+    ]
+  }
+}

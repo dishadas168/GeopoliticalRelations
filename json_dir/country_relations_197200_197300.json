@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/timothy-geithner-high-gas-prices_us_5bb2bdb1e4b0480ca65b087c"
+  },
+  "headline":{
+    "0":"Timothy Geithner: U.S. Economy Can Handle High Gas Prices"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"WASHINGTON, April 15 (Reuters) - The U.S. economy is in a better position to deal with high gasoline prices, Treasury Secretary"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-04-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "treasury secretary",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "treasury secretary"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... deal"
+    ]
+  },
+  "issues":{
+    "0":[
+      "oil",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---gov",
+      "050"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/learning-and-development_us_5bb195e7e4b01857b7086eed",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-the-supreme-courts-d_us_5bb195b1e4b01857b7086d54",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/baby-beluga-whale-rescued-experts-work-round-the-clock-to-save-it_us_5bb11a3ae4b09bbe9a5aa8cb"
+  },
+  "headline":{
+    "0":"Learning and Development Starts at Age Zero",
+    "1":"What the Supreme Court's Decision on Obamacare Means for Homeless People",
+    "2":"Baby Beluga Whale Rescued Off Alaskan Coast, Experts Work Round The Clock To Save Him (VIDEO)"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"IMPACT",
+    "2":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"Every action a mother takes (or fails to take) with respect to developing her child's learning skills, directly affect the child's ability to succeed in the future.",
+    "1":"Under the ACA, all uninsured citizens with incomes under $15,000 per year will be eligible for Medicaid starting in 2014",
+    "2":"Last week, the Alaska Dispatch reported a baby beluga whale was rescued from Alaska's Bristol Bay region. Now marine mammal"
+  },
+  "authors":{
+    "0":"Kris Jamsa, Ph.D., MBA, Contributor\nAuthor",
+    "1":"Nan Roman, Contributor\nPresident, National Alliance to End Homelessness",
+    "2":"Laura Hibbard"
+  },
+  "date":{
+    "0":"2012-07-01 00:00:00",
+    "1":"2012-07-01 00:00:00",
+    "2":"2012-07-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---jud",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"030",
+    "2":"073"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":4.0,
+    "2":7.4
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "alaska",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "child"
+    ],
+    "1":[
+      "supreme court",
+      "people"
+    ],
+    "2":[
+      "alaska",
+      "alaska"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "affect"
+    ],
+    "1":[
+      "means"
+    ],
+    "2":[
+      "rescued from <usa>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "poverty",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ],
+    "1":[
+      "---jud",
+      "---ppl",
+      "030"
+    ],
+    "2":[
+      "usa",
+      "usa",
+      "073"
+    ]
+  }
+}

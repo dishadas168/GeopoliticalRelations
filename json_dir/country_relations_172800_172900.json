@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/fussy-infant-tv-exposure_us_5b9cb112e4b03a1dcc80f058",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/kuwait-twitter-emir-insult_us_5bb35eeae4b0fa920b97246f"
+  },
+  "headline":{
+    "0":"Fussy Infants Exposed To More TV Than Less Active Babies (STUDY)",
+    "1":"Kuwait Twitter User Sentenced To 2 Years In Prison For Insulting Emir"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"Pass it on:Fussy infants may be at an increased risk for watching too much TV. It's important to note the study only found",
+    "1":"KUWAIT, Jan 6 (Reuters) - A Kuwaiti court sentenced a man to two years in prison for insulting the country's ruler on Twitter"
+  },
+  "authors":{
+    "0":"",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-01-07 00:00:00",
+    "1":"2013-01-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"kwtjud"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "infants",
+      "~cvl",
+      "~",
+      "tv",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "kuwaiti",
+      "court",
+      "kwtjud",
+      "kuwait",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "prison",
+      "~cop",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "infants",
+      "tv"
+    ],
+    "1":[
+      "kuwaiti court",
+      "man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "kuwait",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "exposed"
+    ],
+    "1":[
+      "sentenced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---med",
+      "050"
+    ],
+    "1":[
+      "kwtjud",
+      "---ppl",
+      "172"
+    ]
+  }
+}

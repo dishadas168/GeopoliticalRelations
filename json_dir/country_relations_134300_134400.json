@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/10-things-women-can-learn-from-men_us_5b9de1b2e4b03a1dcc8e186d"
+  },
+  "headline":{
+    "0":"10 Things Women Can Learn From Men"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"8. Be Low-Maintenance- Sometimes, going out with women friends is a three-part adventure: Getting Ready, 20 More Minutes"
+  },
+  "authors":{
+    "0":"April Brucker, Contributor\nActress, comedian, author"
+  },
+  "date":{
+    "0":"2014-02-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can learn"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

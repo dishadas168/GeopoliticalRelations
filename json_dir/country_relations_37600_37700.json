@@ -1,0 +1,224 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-air-base-us-strikes-operating-again_us_58e941dfe4b058f0a02fa7f6",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/russia-libya-haftar_us_58d01ebee4b0be71dcf6eccc",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/why-the-march-for-science-and-peoples-climate-march_us_58e9206ce4b06f8c18beec63",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/endgame-in-syria-applying-the-lessons-of-iraq_us_58e8ef71e4b00dd8e016ec3f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/endgame-in-syria-applying-the-lessons-of-iraq_us_58e8ef71e4b00dd8e016ec3f"
+  },
+  "headline":{
+    "0":"Syrian Governor Confirms Air Base Operating Again",
+    "1":"Russia Is Emboldening A Libyan Strongman Who Could Dictate The Future Of The Country",
+    "2":"Why The March For Science And People's Climate March Are Important",
+    "3":"To Avoid Disaster In Syria, The U.S. Should Learn From Iraq",
+    "4":"To Avoid Disaster In Syria, The U.S. Should Learn From Iraq"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"GREEN",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"\u201cThe airport is operating as a first phase,\u201d Homs governor Talal Barazi told Reuters. \u201cPlanes have taken off from it,\u201d he added, without saying when.",
+    "1":"Khalifa Haftar could be the next Assad if the U.S. and EU don't act fast.",
+    "2":"In the next few weeks, millions of people will mobilize to take part in several marches, two most notably: The March for",
+    "3":"The U.S. can apply the lessons learned in Iraq to make Syria less disastrous.",
+    "4":"The U.S. can apply the lessons learned in Iraq to make Syria less disastrous."
+  },
+  "authors":{
+    "0":"",
+    "1":"Emadeddin Zahri Muntasser, ContributorAuthor, political analyst, and human rights activist",
+    "2":"Rosaly Byrd, ContributorCo-founder & author of The Sustainability Co-Op",
+    "3":"Jason Belcher, ContributorAuthor & Iraq War Veteran",
+    "4":"Jason Belcher, ContributorAuthor & Iraq War Veteran"
+  },
+  "date":{
+    "0":"2017-04-08 00:00:00",
+    "1":"2017-04-08 00:00:00",
+    "2":"2017-04-08 00:00:00",
+    "3":"2017-04-08 00:00:00",
+    "4":"2017-04-08 00:00:00"
+  },
+  "actor1":{
+    "0":"syrgov",
+    "1":"rus",
+    "2":"---ppl",
+    "3":"usa",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"med",
+    "1":"lby",
+    "2":"ita",
+    "3":"irq",
+    "4":"irq"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"051",
+    "2":"030",
+    "3":"040",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.4,
+    "2":4.0,
+    "3":1.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "homs",
+      "governor",
+      "syrgov",
+      "syria",
+      "~",
+      "reuters",
+      "med",
+      "reuters"
+    ],
+    "1":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "libyan",
+      "lby",
+      "libya"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "marches",
+      "ita",
+      "italy"
+    ],
+    "3":[
+      "syria",
+      "syr",
+      "syria",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "homs governor",
+      "reuters"
+    ],
+    "1":[
+      "russia",
+      "libyan"
+    ],
+    "2":[
+      "people",
+      "marches"
+    ],
+    "3":[
+      "u.s.",
+      "iraq"
+    ],
+    "4":[
+      "u.s.",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "reuters"
+    ],
+    "1":[
+      "russian federation",
+      "libya"
+    ],
+    "2":[
+      "---",
+      "italy"
+    ],
+    "3":[
+      "united states of america",
+      "iraq"
+    ],
+    "4":[
+      "united states of america",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "is emboldening"
+    ],
+    "2":[
+      "will mobilize ... take part"
+    ],
+    "3":[
+      "should learn"
+    ],
+    "4":[
+      "can apply"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "syrgov",
+      "med",
+      "010"
+    ],
+    "1":[
+      "rus",
+      "lby",
+      "051"
+    ],
+    "2":[
+      "---ppl",
+      "ita",
+      "030"
+    ],
+    "3":[
+      "usa",
+      "irq",
+      "040"
+    ],
+    "4":[
+      "usa",
+      "irq",
+      "020"
+    ]
+  }
+}

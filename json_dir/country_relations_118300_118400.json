@@ -1,0 +1,143 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/now-its-burger-king-renou_b_5724760.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/fedex-independent-contractors_n_5725076.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/christian-yazidi-iraq_n_5692694.html"
+  },
+  "headline":{
+    "0":"Now It's Burger King Renouncing US Citizenship -- Let's Eat Somewhere Else",
+    "1":"Court Ruling 'Unravels FedEx's Business Model' In Contractor Case",
+    "2":"Christians Need More Than An Escape From Iraq: Catholic Relief Official"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"BUSINESS",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"Every single step to Burger King's success was backed and enabled up by our taxpayer-funded American system. Our government is the reason that Burger King is extremely profitable.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Dave Johnson, ContributorFellow, Campaign for America's Future",
+    "1":"Dave Jamieson",
+    "2":""
+  },
+  "date":{
+    "0":"2014-08-27 00:00:00",
+    "1":"2014-08-27 00:00:00",
+    "2":"2014-08-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---chr"
+  },
+  "actor2":{
+    "0":"mncusa",
+    "1":"---bus",
+    "2":"irq"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"060",
+    "2":"100"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":6.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "burger king",
+      "mncusa",
+      "burger",
+      "king",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "court",
+      "~jud",
+      "~",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "christians",
+      "~chr",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "burger king"
+    ],
+    "1":[
+      "court",
+      "business"
+    ],
+    "2":[
+      "christians",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "burger king"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<mncusa> ... enabled ... by <usa>"
+    ],
+    "1":[
+      "ruling"
+    ],
+    "2":[
+      "need"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "mncusa",
+      "08"
+    ],
+    "1":[
+      "---jud",
+      "---bus",
+      "060"
+    ],
+    "2":[
+      "---chr",
+      "irq",
+      "100"
+    ]
+  }
+}

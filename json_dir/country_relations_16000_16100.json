@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ferc-pipelines-trump_us_5a553515e4b0b117f8803d07",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/catherine-deneuve-me-too-france_us_5a54f270e4b0efe47ebd57dc"
+  },
+  "headline":{
+    "0":"The Agency That Approves Pipelines Is About To Get A Trump-Era Overhaul",
+    "1":"Legendary French Actress Catherine Deneuve Decries #MeToo Movement As 'Puritanism'"
+  },
+  "category":{
+    "0":"GREEN",
+    "1":"WOMEN"
+  },
+  "short_description":{
+    "0":"Activists have been fighting with this government entity for years. Now, it's getting revamped.",
+    "1":"In an open letter, Deneuve and other prominent French women called the wave of sexual harassment allegations against prominent men \"a witch hunt.\""
+  },
+  "authors":{
+    "0":"Eoin Higgins",
+    "1":"Marina Fang"
+  },
+  "date":{
+    "0":"2018-01-10 00:00:00",
+    "1":"2018-01-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"fracvl"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "french",
+      "women",
+      "fracvl",
+      "france",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "government"
+    ],
+    "1":[
+      "men",
+      "french women",
+      "french women",
+      "men"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "france",
+      "france",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... fighting"
+    ],
+    "1":[
+      "called",
+      "called"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---gov",
+      "190"
+    ],
+    "1":[
+      "---ppl",
+      "fracvl",
+      "041",
+      "fracvl",
+      "---ppl",
+      "041"
+    ]
+  }
+}

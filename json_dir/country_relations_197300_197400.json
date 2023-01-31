@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/prosecutor-power_us_5ba2c443e4b0c2784da5eb94",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-cites-potential-of_us_5bb2bda7e4b0480ca65b0752"
+  },
+  "headline":{
+    "0":"The Unchecked Charging Power of the Prosecutor",
+    "1":"Obama Stresses 'Great Promise' Of Business Growth In Americas"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"The power prosecutors have to charge people with crimes is often overlooked.",
+    "1":"On his way to Colombia on Friday, Obama gave a speech at a shipping port in Tampa, Florida, on the ways U.S. businesses and"
+  },
+  "authors":{
+    "0":"Radley Balko, Contributor\nSenior Writer and Investigative Reporter, The Huffington Post",
+    "1":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2012-04-14 00:00:00",
+    "1":"2012-04-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usabus"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "tampa",
+      "florida",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.s.",
+      "businesses",
+      "usabus",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "people"
+    ],
+    "1":[
+      "obama",
+      "u.s. businesses"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... charge"
+    ],
+    "1":[
+      "<and> ... gave"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---ppl",
+      "112"
+    ],
+    "1":[
+      "usagov",
+      "usabus",
+      "060"
+    ]
+  }
+}

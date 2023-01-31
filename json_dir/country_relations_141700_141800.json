@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/10-reasons-why-jordan_us_5b9daf6ae4b03a1dcc8b6fd1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-amazing-way-this-hosp_us_5b9dade9e4b03a1dcc8b5988"
+  },
+  "headline":{
+    "0":"10 Reasons Why Jordan Is So Much More Than Petra",
+    "1":"The Amazing Way This Hospital Is Fighting Physician Burnout"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Maybe you've seen Indiana Jones and the Last Crusade as he travels on horse to reveal Petra's Treasury carved out of its rock surroundings. In some ways this was Petra's unveiling to the world, and perhaps Jordan's unveiling as a tourist destination.",
+    "1":"\"[Compassion-based care] does go against an old style of medicine where it was just, 'Go go go, stay tough, don't be impacted"
+  },
+  "authors":{
+    "0":"Adam Pervez, Contributor\nPhD Student and World Traveler",
+    "1":"Carolyn Gregoire"
+  },
+  "date":{
+    "0":"2013-12-03 00:00:00",
+    "1":"2013-12-02 00:00:00"
+  },
+  "actor1":{
+    "0":"jor",
+    "1":"---hlh"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---hlh"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "jordan",
+      "jor",
+      "jordan",
+      "tourist",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "hospital",
+      "~hlh",
+      "~",
+      "physician",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "jordan",
+      "tourist"
+    ],
+    "1":[
+      "hospital",
+      "hospital"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "jordan",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "'s unveiling"
+    ],
+    "1":[
+      "is ... fighting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "jor",
+      "---cvl",
+      "050"
+    ],
+    "1":[
+      "---hlh",
+      "---hlh",
+      "190"
+    ]
+  }
+}

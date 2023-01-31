@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/us-culpability-in-the-fai_b_5455371.html"
+  },
+  "headline":{
+    "0":"U.S. Culpability in the Failure of Israeli-Palestinian Peace Talks"
+  },
+  "category":{
+    "0":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Obama administration would have to challenge the Israeli government's hard line toward the Palestinians in order for the peace process to be successful. Unfortunately, the White House apparently had no interest in doing so."
+  },
+  "authors":{
+    "0":"Stephen Zunes, ContributorProfessor of Politics and Chair of Mid-Eastern Studies, Univer..."
+  },
+  "date":{
+    "0":"2014-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"isrgov"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "palestinians",
+      "pse",
+      "palestine",
+      "israeli",
+      "government",
+      "isrgov",
+      "israel",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the obama administration",
+      "israeli government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "israel"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would ... challenge"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "isrgov",
+      "110"
+    ]
+  }
+}

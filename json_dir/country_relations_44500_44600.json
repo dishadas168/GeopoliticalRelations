@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/burton-ceo-paying-employees-womens-march_us_5880d9bfe4b070d8cad0da9d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/100-year-old-library-book-returned_us_5880ed0fe4b070d8cad0f49e"
+  },
+  "headline":{
+    "0":"This CEO Is Paying For Employees To Go To The Women's March",
+    "1":"Ironically Titled Library Book Finally Returned After 100 Years"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"WEIRD NEWS"
+  },
+  "short_description":{
+    "0":"America, Donna Carpenter is proof that all hope is not lost.",
+    "1":"The woman who checked it out died before she could return it."
+  },
+  "authors":{
+    "0":"Jenna Amatulli",
+    "1":"David Moye"
+  },
+  "date":{
+    "0":"2017-01-19 00:00:00",
+    "1":"2017-01-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "ceo",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "ceo",
+      "employees"
+    ],
+    "1":[
+      "woman",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... paying"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "061"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "190"
+    ]
+  }
+}

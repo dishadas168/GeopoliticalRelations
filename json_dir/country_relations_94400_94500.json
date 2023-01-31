@@ -1,0 +1,204 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-washington-that-never-says-no_b_7524628.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/the-harvard-ikb-school-of_b_7518082.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/could-a-turkish-islamist_b_7518216.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/conservatives-stop-scapegoating_b_7516584.html"
+  },
+  "headline":{
+    "0":"The Washington That Never Says No: Saudi Arabia Borrows U.S. Military to Kill Yemenis",
+    "1":"The Harvard IKB School of Engineering",
+    "2":"Could a Turkish Islamist Party Siphon Votes From Erdogan's AKP?",
+    "3":"Conservatives, Stop Scapegoating President Obama for the State of Race Relations"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"BUSINESS",
+    "2":"WORLDPOST",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Apparently incapable of resisting the temptation to meddle in the Middle East, the Obama administration remains part of Saudi Arabia's ten-member \"coalition\" against Houthi rebels in Yemen. Alas, the entire campaign is built on a lie.",
+    "1":"The good people of Dusseldorf, Germany, and specifically the IKB Bank, which specializes in loans to small and medium-size businesses, has kindly endowed Harvard University's engineering school with a gift of $400m.  Strangely, though, the Harvard Engineering School was renamed after hedge-fund manager John A. Paulson, not IKB, and thereby hangs a tale.",
+    "2":"As story after story emerges about the potential game changing 2015 election in Turkey, one party is virtually being ignored. But it has a good chance of playing the spoiler for the ambitions of the ruling AKP and its autocratic President, Recep Tayyip Erdogan. And it's a party once led by a former Erdogan all",
+    "3":"Many Republican politicians, pundits and loyal GOP voters have targeted President Obama as the reason for the current state of race relations in our nation. As those in the land of rock-ribbed republicanism see it, our current commander-in-chief is the primary reason that the racial situation is less than desirable."
+  },
+  "authors":{
+    "0":"Doug Bandow, ContributorContributing writer, policy analyst",
+    "1":"Jeffrey Sachs, ContributorDirector, Center for Sustainable Development and Sustainable D...",
+    "2":"John A. Tures, ContributorPolitical science professor, LaGrange College in Georgia",
+    "3":"Elwood D. Watson, ContributorProfessor of history, African-American studies and gender stud..."
+  },
+  "date":{
+    "0":"2015-06-06 00:00:00",
+    "1":"2015-06-05 00:00:00",
+    "2":"2015-06-05 00:00:00",
+    "3":"2015-06-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"deuppl",
+    "2":"turmus",
+    "3":"---ptycvl"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---edu",
+    "2":"turgov",
+    "3":"usagov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"030",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":4.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "dusseldorf",
+      "germany",
+      "deu",
+      "deu",
+      "germany",
+      "germany",
+      "people",
+      "deuppl",
+      "deuppl",
+      "~",
+      "university",
+      "school",
+      "~edu",
+      "~",
+      "~"
+    ],
+    "2":[
+      "turkish",
+      "islamist",
+      "turmus",
+      "turkey",
+      "~",
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan"
+    ],
+    "3":[
+      "politicians",
+      "voters",
+      "~ptycvl",
+      "~",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "washington",
+      "military"
+    ],
+    "1":[
+      "people",
+      "university ... school"
+    ],
+    "2":[
+      "turkish islamist",
+      "erdogan"
+    ],
+    "3":[
+      "politicians ... voters",
+      "president obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "",
+      "---"
+    ],
+    "2":[
+      "turkey",
+      "recep tayyip erdogan"
+    ],
+    "3":[
+      "---",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "has ... endowed"
+    ],
+    "2":[
+      "votes"
+    ],
+    "3":[
+      "have targeted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "postsecondary_education",
+      "1",
+      "schools",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---mil",
+      "010"
+    ],
+    "1":[
+      "deuppl",
+      "---edu",
+      "060",
+      "deuppl",
+      "---edu",
+      "060"
+    ],
+    "2":[
+      "turmus",
+      "turgov",
+      "030"
+    ],
+    "3":[
+      "---ptycvl",
+      "usagov",
+      "190"
+    ]
+  }
+}

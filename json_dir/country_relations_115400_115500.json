@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/when-prison-guards-kill-i_b_5897486.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/isis-wheat-iraq_n_5905560.html"
+  },
+  "headline":{
+    "0":"When Prison Guards Kill Inmates: Florida's Prison Massacre Revealed",
+    "1":"How ISIS Uses Wheat Supplies To Tighten Its Control In Iraq"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Allegations of horrific and widespread abuse of Florida prisoners -- a story broken recently in a series of articles by the Miami Herald -- serve to remind us that we cannot, and should not, forget about prisoners. Take, for example, Darren Rainey and Randall Jordan-Aparo, who purportedly died in unthinkably cruel ways at the hands of their guards.",
+    "1":""
+  },
+  "authors":{
+    "0":"Jessica S. Henry, ContributorAssociate Professor of Justice Studies",
+    "1":""
+  },
+  "date":{
+    "0":"2014-09-30 00:00:00",
+    "1":"2014-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"imgmusisi"
+  },
+  "actor2":{
+    "0":"usacop",
+    "1":"irq"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "prison",
+      "~cop",
+      "~",
+      "florida",
+      "prison",
+      "usacop",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "iraq",
+      "irq",
+      "iraq"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prison",
+      "florida ... prison"
+    ],
+    "1":[
+      "isis",
+      "iraq"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "the islamic state",
+      "iraq"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "kill"
+    ],
+    "1":[
+      "to tighten ... control"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_atrocity",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "usacop",
+      "190"
+    ],
+    "1":[
+      "imgmusisi",
+      "irq",
+      "172"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russia-turkey-warning-shots_us_566d8080e4b0fccee16ee1ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/afghanistan-2015-the-futu_b_8793232.html"
+  },
+  "headline":{
+    "0":"Russia Fires Warning Shots At Turkish Ship In Aegean Sea",
+    "1":"Afghanistan 2015: The Future of the Taliban"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Turkish fishing vessel passed within 500 meters of the warship, Russia said.",
+    "1":"If the United States and NATO forces withdraw from Afghanistan, it is very likely that Russia will return to its traditional role as the Afghan government's principal sponsor. Already, the Kabul government has asked Moscow for additional military aid and Moscow has agreed to sell Afghanistan an unknown number of Mi-35 attack helicopters."
+  },
+  "authors":{
+    "0":"",
+    "1":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key..."
+  },
+  "date":{
+    "0":"2015-12-13 00:00:00",
+    "1":"2015-12-13 00:00:00"
+  },
+  "actor1":{
+    "0":"tur",
+    "1":"afggov"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"rusmil"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"020"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":3.0
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "tur",
+      "turkey",
+      "warship",
+      "~mil",
+      "~",
+      "warship",
+      "~mil",
+      "~",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "1":[
+      "kabul",
+      "government",
+      "afggov",
+      "afghanistan",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "moscow",
+      "military",
+      "rusmil",
+      "russian",
+      "federation",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "afghanistan",
+      "afg",
+      "afghanistan",
+      "attack helicopters",
+      "~mil",
+      "~",
+      "attack helicopters",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish",
+      "warship"
+    ],
+    "1":[
+      "kabul government",
+      "moscow ... military"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "afghanistan",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "passed"
+    ],
+    "1":[
+      "has asked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "tur",
+      "---mil",
+      "08"
+    ],
+    "1":[
+      "afggov",
+      "rusmil",
+      "020"
+    ]
+  }
+}

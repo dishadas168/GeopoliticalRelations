@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hostage-france-supermarket_us_5ab4db93e4b0decad048ee4d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/domestic-terrorism-kansas-militia-plot_us_5ab43c40e4b0decad04865e0"
+  },
+  "headline":{
+    "0":"Attacker Killed After Multi-City Rampage In Southern France",
+    "1":"\u2018Locker Room Talk\u2019: Trump Fans Charged In Anti-Muslim Terror Plot Say It Was Just Bluster"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The perpetrator killed at least three people in two towns in the terror attack, which culminated in an hours-long hostage standoff at a grocery store in Tr\u00e8bes.",
+    "1":"But the government contends the Crusaders militiamen were hatching an actual plan to kill Muslim refugees."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2018-03-23 00:00:00",
+    "1":"2018-03-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---crm",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---oppuaf"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"112"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "perpetrator",
+      "~crm",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "government",
+      "~gov",
+      "~",
+      "crusaders",
+      "militiamen",
+      "~oppuaf",
+      "~",
+      "~",
+      "muslim",
+      "refugees",
+      "~musref",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "perpetrator",
+      "people"
+    ],
+    "1":[
+      "government",
+      "crusaders militiamen"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "killed"
+    ],
+    "1":[
+      "contends ... were ... kill"
+    ]
+  },
+  "issues":{
+    "0":[
+      "terror",
+      "1"
+    ],
+    "1":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---crm",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---gov",
+      "---oppuaf",
+      "112"
+    ]
+  }
+}

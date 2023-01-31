@@ -1,0 +1,112 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/vd-love-secrets-italia-st_us_5b9dde1fe4b03a1dcc8df372",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/river-thames-swimming-pool_us_5b9ddd96e4b03a1dcc8dea93"
+  },
+  "headline":{
+    "0":"VD and Love Secrets, Italia Style",
+    "1":"The River Thames Could Become A Giant Swimming Pool"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"My first memory of the sham known in America as Valentine's Day goes back to Miss Malub's 3rd grade class at St. Joseph's school in Downers Grove, IL.  She'd told us to bring in construction paper and stickers from home that day, but I'd forgotten mine.",
+    "1":"British architecture firm Studio Octopi released designs this week for public swimming areas in the London river. The designs"
+  },
+  "authors":{
+    "0":"Mark DeCarlo, Contributor\nEmmy Award winning TV Comedian, Travel Expert and Cartoon Dad",
+    "1":""
+  },
+  "date":{
+    "0":"2014-02-14 00:00:00",
+    "1":"2014-02-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"gbr"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"gbr"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"084"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america",
+      "school"
+    ],
+    "1":[
+      "british",
+      "british"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "united kingdom"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "goes"
+    ],
+    "1":[
+      "released"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "gbr",
+      "gbr",
+      "084"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/man-missing-in-boston_us_56c1f5abe4b08ffac125d2d8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/republican-debate-scalia_us_56bfe95de4b0c3c55051b41e",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-russia-syrian-rebels_us_56c0b21ee4b08ffac125a978",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/john-kasich-assad_us_56c0a41ce4b08ffac125a6dd"
+  },
+  "headline":{
+    "0":"Man Celebrating 22nd Birthday Vanishes Outside Boston Bar, Family Says",
+    "1":"GOP Presidential Hopefuls Say Obama Shouldn't Get To Fill Supreme Court Vacancy",
+    "2":"Obama Urges Russia To Stop Bombing 'Moderate' Syrian Rebels",
+    "3":"John Kasich Says U.S. Troops Should Destroy ISIS But Avoid Toppling Syria's Leader"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Zachary Marr was last seen around 1:40 a.m. Saturday, according to police.",
+    "1":"\"It's called delay, delay, delay,\" Donald Trump said.",
+    "2":"The president spoke with Russian President Vladimir Putin on Sunday.",
+    "3":"There's real disagreement among the GOP presidential candidates on this question."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"Jennifer Bendery",
+    "2":"",
+    "3":"Samantha Lachman"
+  },
+  "date":{
+    "0":"2016-02-15 00:00:00",
+    "1":"2016-02-14 00:00:00",
+    "2":"2016-02-14 00:00:00",
+    "3":"2016-02-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usagov",
+    "2":"rusgov",
+    "3":"---mil"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"---gov",
+    "3":"imgmusisi"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"08",
+    "2":"046",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":5.0,
+    "2":7.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "boston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "russian president vladimir putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ],
+    "3":[
+      "troops",
+      "~mil",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "boston"
+    ],
+    "1":[
+      "obama",
+      "supreme court"
+    ],
+    "2":[
+      "russian president vladimir putin",
+      "president",
+      "president",
+      "russian president vladimir putin"
+    ],
+    "3":[
+      "troops",
+      "isis"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ],
+    "2":[
+      "vladimir putin",
+      "---",
+      "---",
+      "vladimir putin"
+    ],
+    "3":[
+      "---",
+      "the islamic state"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "celebrating"
+    ],
+    "1":[
+      "should ... fill"
+    ],
+    "2":[
+      "spoke with",
+      "spoke with"
+    ],
+    "3":[
+      "should destroy"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usa",
+      "051"
+    ],
+    "1":[
+      "usagov",
+      "---jud",
+      "08"
+    ],
+    "2":[
+      "rusgov",
+      "---gov",
+      "046",
+      "---gov",
+      "rusgov",
+      "046"
+    ],
+    "3":[
+      "---mil",
+      "imgmusisi",
+      "190"
+    ]
+  }
+}

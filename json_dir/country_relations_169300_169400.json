@@ -1,0 +1,102 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/duck-negroni_us_5b9ccdcfe4b03a1dcc82034c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/missy-robbins_us_5b9cd08be4b03a1dcc82143c"
+  },
+  "headline":{
+    "0":"Cooking Off the Cuff: With The Duck, I'll Have My Usual - A Negroni",
+    "1":"Missy Robbins Wins Cochon 555 New York 2013, Beats Out 5 Other Female Chefs"
+  },
+  "category":{
+    "0":"FOOD & DRINK",
+    "1":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"It seemed to me that its flavors - gin, Campari and Italian vermouth, plus a slice of orange as a garnish - lent themselves to sauce-making.",
+    "1":"On Sunday, A Voce chef Missy Robbins won this year's Cochon 555 competition in New York. That's not so surprising: Robbins' refined yet earthy Italian cooking has already garnered praise from the Michelin Red Guide and President Obama alike."
+  },
+  "authors":{
+    "0":"Edward Schneider, Contributor\nTravel, cooking and food writer",
+    "1":"Joe Satran"
+  },
+  "date":{
+    "0":"2013-02-13 00:00:00",
+    "1":"2013-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"ita",
+    "1":"ita"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"150"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-7.2
+  },
+  "nouns":{
+    "0":[
+      "italian",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "italian",
+      "ita",
+      "italy",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "italian",
+      "italian"
+    ],
+    "1":[
+      "italian",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "italy"
+    ],
+    "1":[
+      "italy",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lent"
+    ],
+    "1":[
+      "has ... garnered"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "ita",
+      "ita",
+      "060"
+    ],
+    "1":[
+      "ita",
+      "usagov",
+      "150"
+    ]
+  }
+}

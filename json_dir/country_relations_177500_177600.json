@@ -1,0 +1,102 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/men-beards-facial-hair-trends_us_5b9c7d2fe4b03a1dcc7f1f3a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/death-dying_us_5b9c84ece4b03a1dcc7f6510"
+  },
+  "headline":{
+    "0":"Why Men Wear Beards",
+    "1":"How to Write a Eulogy... for Yourself"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"In the late 17th century, Peter the Great, Tsar of Russia, ordered men to shave in order to bring Russia closer to modern Europe, and went so far as to collect a tax on beards. There is no shortage of opinion on beards today.",
+    "1":"\"Contemplating one's own death is a spiritual practice. It can certainly be the focal point of any meditation or journal writing. A Buddhist would say that we should examine it with every breath.\""
+  },
+  "authors":{
+    "0":"Michael Yaremchuk, M.D., Contributor\nChief of Craniofacial Surgery at MGH as well as operating his ...",
+    "1":"The Chopra Well, Contributor\nYouTube Channel that features spirituality, wellness, healthy ..."
+  },
+  "date":{
+    "0":"2012-11-15 00:00:00",
+    "1":"2012-11-15 00:00:00"
+  },
+  "actor1":{
+    "0":"rus",
+    "1":"---bud"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---bud"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"090"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "russia",
+      "rus",
+      "russian",
+      "federation",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "buddhist",
+      "~bud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russia",
+      "men"
+    ],
+    "1":[
+      "buddhist",
+      "buddhist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... ordered"
+    ],
+    "1":[
+      "would say ... should examine"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "rus",
+      "---ppl",
+      "100"
+    ],
+    "1":[
+      "---bud",
+      "---bud",
+      "090"
+    ]
+  }
+}

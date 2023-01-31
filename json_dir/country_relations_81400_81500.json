@@ -1,0 +1,148 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/romania-fire-kills-41-former-mayor-arrested_us_563e6a17e4b0307f2cadb9bb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/notre-dame-student-tutor-sex-scandal_us_563bcb17e4b0411d307044be",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.poynter.org\/news\/mediawire\/383335\/newspaper-guild-offers-to-buy-philadelphia-daily-news-to-avoid-layoffs\/"
+  },
+  "headline":{
+    "0":"Death Toll In Romania Fire Rises To 41, Ex-Mayor Arrested",
+    "1":"Investigation In Notre Dame Student-Tutor Sex Scandal Reveals Startling Accusations",
+    "2":"Newspaper Guild Offers To Buy Philadelphia Daily News To Avoid Layoffs"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"COLLEGE",
+    "2":"MEDIA"
+  },
+  "short_description":{
+    "0":"BUCHAREST, Nov 7 (Reuters) - Nine people died on Saturday from injuries sustained in a fire at a nightclub in Romania eight",
+    "1":"The student told an investigator his academic coach asked about the sex between him and her daughter, and about the condoms they used.",
+    "2":"Lawyers representing the Newspaper Guild of Greater Philadelphia on Thursday expressed interest in buying the Philadelphia"
+  },
+  "authors":{
+    "0":"Luiza Ilie, Reuters",
+    "1":"Kimberley Richards",
+    "2":""
+  },
+  "date":{
+    "0":"2015-11-07 00:00:00",
+    "1":"2015-11-07 00:00:00",
+    "2":"2015-11-06 00:00:00"
+  },
+  "actor1":{
+    "0":"rou",
+    "1":"---edu",
+    "2":"---med"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---edu",
+    "2":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"0311"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":5.2
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "romania",
+      "rou",
+      "romania"
+    ],
+    "1":[
+      "student",
+      "~edu",
+      "~",
+      "academic",
+      "~edu",
+      "~",
+      "academic",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "newspaper",
+      "~med",
+      "~",
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "romania",
+      "people"
+    ],
+    "1":[
+      "student",
+      "student"
+    ],
+    "2":[
+      "newspaper",
+      "philadelphia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "romania",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "died ... from injuries"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "offers ... buy"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "rou",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "010"
+    ],
+    "2":[
+      "---med",
+      "usa",
+      "0311"
+    ]
+  }
+}

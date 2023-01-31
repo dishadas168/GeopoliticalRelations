@@ -1,0 +1,180 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/justice-dept-asked-to-probe-hillary-clintons-email-use-report_us_55b24542e4b0224d8831df49",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/massive-institutional-failure-in-army-labs-that-shipped-live-anthrax_us_55b261ade4b0a13f9d184e33",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/administration-investigates-5-airlines-for-price-gouging-after-amtrak-crash_us_55b24e8be4b0074ba5a43877",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/highline.huffingtonpost.com\/articles\/en\/alice-bowman-interview\/"
+  },
+  "headline":{
+    "0":"Justice Dept. Asked To Probe Hillary Clinton's Email Use: Report",
+    "1":"'Massive Institutional Failure' In Army Labs That Shipped Live Anthrax",
+    "2":"Administration Investigates 5 Airlines For Price-Gouging After Amtrak Crash",
+    "3":"Meet The Woman Who Flew Us To Pluto"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"HEALTHY LIVING",
+    "2":"POLITICS",
+    "3":"GREEN"
+  },
+  "short_description":{
+    "0":"The U.S. Justice Department is weighing a request by two government inspectors general to open a criminal investigation into Hillary Clinton's use of a private email account for her work as secretary of state.",
+    "1":"NEW YORK (AP) \u2015 Pentagon officials released a report Thursday detailing recurring problems at an Army bioterror facility",
+    "2":"WASHINGTON --\u00a0The government has launched a price-gouging investigation into five airlines that allegedly increased airfare",
+    "3":"July 15, people all over the world watched a woman in a cubicle wait for a signal from three billion miles away. In a soft"
+  },
+  "authors":{
+    "0":"Jonathan Allen, Reuters",
+    "1":"MIKE STOBBE, AP",
+    "2":"Laura Barr\u00f3n-L\u00f3pez",
+    "3":""
+  },
+  "date":{
+    "0":"2015-07-24 00:00:00",
+    "1":"2015-07-24 00:00:00",
+    "2":"2015-07-24 00:00:00",
+    "3":"2015-07-23 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---gov",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---mil",
+    "2":"---bus",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"014",
+    "1":"010",
+    "2":"091",
+    "3":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0,
+    "2":-2.0,
+    "3":0.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "army",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "government",
+      "~gov",
+      "~",
+      "airlines",
+      "~bus",
+      "~"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "government"
+    ],
+    "1":[
+      "new york",
+      "army"
+    ],
+    "2":[
+      "government",
+      "airlines"
+    ],
+    "3":[
+      "people",
+      "woman"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is weighing ... request"
+    ],
+    "1":[
+      "released ... report ... detailing"
+    ],
+    "2":[
+      "has launched <&investigation>"
+    ],
+    "3":[
+      "watched"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---gov",
+      "014"
+    ],
+    "1":[
+      "usa",
+      "---mil",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---bus",
+      "091"
+    ],
+    "3":[
+      "---ppl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

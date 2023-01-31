@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-urgent-humanitarian-c_b_5531512.html"
+  },
+  "headline":{
+    "0":"The Urgent Humanitarian Crisis Doesn't Begin or End at the Border"
+  },
+  "category":{
+    "0":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"While there is no doubt that seeing children in such conditions is distressing, the public concern for the children's well-being is revealing itself to be deeply mixed with anxiety regarding the presence of Latino immigrants in the US."
+  },
+  "authors":{
+    "0":"Robin Reineke and Emily Messing, Contributors"
+  },
+  "date":{
+    "0":"2014-06-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... revealing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ]
+  }
+}

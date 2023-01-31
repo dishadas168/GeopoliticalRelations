@@ -1,0 +1,133 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ice-arrests-dreamer_us_58a4e023e4b037d17d24b0fa",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/thrillist-will-unionize_us_58a3a9a5e4b03df370db9767"
+  },
+  "headline":{
+    "0":"ICE Stands By Arrest Of 23-Year-Old DREAMer",
+    "1":"Thrillist Staff Announces Plan To Unionize"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"A lawyer for Daniel Ramirez Medina said the young man \u201cunequivocally denies\u201d allegations he was part of a gang and said ICE agents repeatedly pressured him while in custody to \u201cfalsely admit his affiliation.\u201d",
+    "1":"Employees of the popular website want to join the Writers Guild of America, East."
+  },
+  "authors":{
+    "0":"Kristina Cooke and Dan Levine, Reuters",
+    "1":"Daniel Marans"
+  },
+  "date":{
+    "0":"2017-02-15 00:00:00",
+    "1":"2017-02-15 00:00:00"
+  },
+  "actor1":{
+    "0":"saujud",
+    "1":"---labmed"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usamed"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "medina",
+      "sau",
+      "saudi",
+      "arabia",
+      "lawyer",
+      "saujud",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "website",
+      "~med",
+      "~",
+      "employees",
+      "website",
+      "~labmed",
+      "~",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "writers",
+      "usamed",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawyer",
+      "man",
+      "lawyer",
+      "lawyer"
+    ],
+    "1":[
+      "employees ... website",
+      "writers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---",
+      "",
+      ""
+    ],
+    "1":[
+      "---",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... said",
+      "<and> ... said ... pressured"
+    ],
+    "1":[
+      "want ... join"
+    ]
+  },
+  "issues":{
+    "0":[
+      "organized_crime",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "saujud",
+      "---ppl",
+      "010",
+      "saujud",
+      "saujud",
+      "170"
+    ],
+    "1":[
+      "---labmed",
+      "usamed",
+      "040"
+    ]
+  }
+}

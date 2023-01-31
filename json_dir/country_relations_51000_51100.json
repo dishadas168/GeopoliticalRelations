@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kicking-off-native-american-heritage-month-with-a-chat-about-dapl_us_581ce2c3e4b0e80b02c9f156",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iraqi-forces-push-deeper-mosul_us_581c8face4b0aac624839a2f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/turkey-detains-pro-kurdish-lawmakers-over-deadly-car-bombing_us_581c6bdae4b0aac624838d41"
+  },
+  "headline":{
+    "0":"Kicking Off Native American Heritage Month With A Chat About The #DAPL",
+    "1":"Iraqi Forces Push Deeper Into East Mosul",
+    "2":"Deadly Car Bombing Rocks Diyarbakir, Southern Turkey"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Native American Heritage Month should be a time to celebrate the indigenous people of America but instead we have to face other realities: Native Americans are disproportionately affected by police brutality, and they've spent the last several weeks at the #DAPL protest at Standing Rock, North Dakota.",
+    "1":"The advancing troops were still facing fierce opposition, including car bombs and sniper fire.",
+    "2":"The blast came hours after authorities detained pro-Kurdish lawmakers in the city."
+  },
+  "authors":{
+    "0":"Jessica Carro",
+    "1":"Stephen Kalin and Michael Georgy, Reuters",
+    "2":""
+  },
+  "date":{
+    "0":"2016-11-04 00:00:00",
+    "1":"2016-11-04 00:00:00",
+    "2":"2016-11-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"irq",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"irq",
+    "2":"---leg"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"100",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "native",
+      "american",
+      "usacvl",
+      "~",
+      "united",
+      "states",
+      "of",
+      "america",
+      "native",
+      "~cvl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "north dakota",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "iraqi",
+      "irq",
+      "iraq",
+      "mosul",
+      "irq",
+      "iraq"
+    ],
+    "2":[
+      "authorities",
+      "~gov",
+      "~",
+      "lawmakers",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "native"
+    ],
+    "1":[
+      "iraqi",
+      "iraqi"
+    ],
+    "2":[
+      "authorities",
+      "lawmakers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "iraq",
+      "iraq"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~cvl> ... affected by <~cop>"
+    ],
+    "1":[
+      "push"
+    ],
+    "2":[
+      "detained"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "---cvl",
+      "050"
+    ],
+    "1":[
+      "irq",
+      "irq",
+      "100"
+    ],
+    "2":[
+      "---gov",
+      "---leg",
+      "173"
+    ]
+  }
+}

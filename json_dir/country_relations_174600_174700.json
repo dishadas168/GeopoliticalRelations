@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gwen-stefani-vogue-cover-january-2013_us_5b9ca14ce4b03a1dcc807160"
+  },
+  "headline":{
+    "0":"Gwen Stefani Vogue Cover For January 2013 Confirms Singer's Comeback (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"So does \"hollaback girl\" means \"girl who makes a lot of comebacks\" then?"
+  },
+  "authors":{
+    "0":"Ellie Krupnick"
+  },
+  "date":{
+    "0":"2012-12-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"030"
+  },
+  "goldstein_score":{
+    "0":4.0
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girl",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "means"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "030"
+    ]
+  }
+}

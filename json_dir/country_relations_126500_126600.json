@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/post_7672_b_5362399.html"
+  },
+  "headline":{
+    "0":"Emerson's Advice to Millennials: With Perseverance Comes New Powers"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Our generation needs to always remember that over a hundred years before us, people stood right where we were and felt very similar things, struggling with the same issues. People have always had to dig themselves out of messes they had nothing to do with creating."
+  },
+  "authors":{
+    "0":"Ryan Holiday, ContributorMedia strategist"
+  },
+  "date":{
+    "0":"2014-05-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ... dig"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "090"
+    ]
+  }
+}

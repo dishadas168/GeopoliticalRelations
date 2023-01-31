@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iowa-blind-gun-licenses-carry-in-public_us_5ba2b00be4b0c2784da4537a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/monroe-isadore-shootout_us_5ba2b740e4b0c2784da4eec0"
+  },
+  "headline":{
+    "0":"Iowa Issues Gun Permits To The Blind, Allowing Them To Carry In Public",
+    "1":"Monroe Isadore, 107-Year-Old Man, Killed In Police Shootout"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Iowans have always been able to carry a firearm in private, but a new law passed in 2011 extends that right to the public",
+    "1":"SWAT then released gas into the room, which police say caused Isadore to fire at officers. A SWAT entry team entered the"
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Sebastian Murdock"
+  },
+  "date":{
+    "0":"2013-09-08 00:00:00",
+    "1":"2013-09-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"193"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iowa",
+      "iowa"
+    ],
+    "1":[
+      "man",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "permits ... allowing"
+    ],
+    "1":[
+      "killed in ... shootout"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "08"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "193"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bill-oreilly-white-privilege_b_6009646.html"
+  },
+  "headline":{
+    "0":"The Bill O'Reilly\/Jon Stewart Brouhaha: Denial Is a River in the Right-Wing Mind"
+  },
+  "category":{
+    "0":"MEDIA"
+  },
+  "short_description":{
+    "0":"People like Bill O'Reilly call upon people to raise themselves up while helping keep a foot on their necks."
+  },
+  "authors":{
+    "0":"Andy Schmookler, ContributorAward-winning author of What We're Up Against, former..."
+  },
+  "date":{
+    "0":"2014-10-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "call upon"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "020"
+    ]
+  }
+}

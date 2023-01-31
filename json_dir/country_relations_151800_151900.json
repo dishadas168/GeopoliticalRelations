@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/should-your-child-conside_us_5b9d6fb2e4b03a1dcc87fc0a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/spinal-cord-implant-mri-danger_us_5b9d7093e4b03a1dcc880878"
+  },
+  "headline":{
+    "0":"Should Your Child Consider a Two-Year College?",
+    "1":"New Spinal Cord Implant For Pain No Longer Dangerous In MRI"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"For some families the two-year path is a strictly financial choice. Many find that it is cost-effective to take more of the core classes at a local community college and then transfer those credits to a four-year institution.",
+    "1":"Last week, the first patient in the United States to have the device implanted since it was approved by the Food and Drug"
+  },
+  "authors":{
+    "0":"Jodi Okun, Contributor\nFinancial Aid Consultant, Pitzer and Occidental College; Found...",
+    "1":""
+  },
+  "date":{
+    "0":"2013-08-16 00:00:00",
+    "1":"2013-08-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "college",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "college"
+    ],
+    "1":[
+      "the ... united states",
+      "the ... united states"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "consider"
+    ],
+    "1":[
+      "implanted <usa> ... approved by <--->"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "08"
+    ]
+  }
+}

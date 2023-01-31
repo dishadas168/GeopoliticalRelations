@@ -1,0 +1,67 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-says-she-supports-women-even-if-they-dont-support-her_us_56bdefa3e4b08ffac124b775"
+  },
+  "headline":{
+    "0":"Hillary Clinton Says She Supports Women Even If They Don\u2019t Support Her"
+  },
+  "category":{
+    "0":"WOMEN"
+  },
+  "short_description":{
+    "0":"She addressed Madeleine Albright\u2019s controversial comments during Thursday night\u2019s debate."
+  },
+  "authors":{
+    "0":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2016-02-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli"
+  },
+  "actor2":{
+    "0":"usaeli"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says ... do ... support"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "usaeli",
+      "050"
+    ]
+  }
+}

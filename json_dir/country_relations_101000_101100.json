@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/megyn-kelly-jindal-immigration-muslim-islamic-radicals_n_6901510.html"
+  },
+  "headline":{
+    "0":"Megyn Kelly Battles Governor Jindal Over Push To Prohibit Immigration Of Radical Islamists"
+  },
+  "category":{
+    "0":"MEDIA"
+  },
+  "short_description":{
+    "0":""
+  },
+  "authors":{
+    "0":"Catherine Taibi"
+  },
+  "date":{
+    "0":"2015-03-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov"
+  },
+  "actor2":{
+    "0":"---musrad"
+  },
+  "event_code":{
+    "0":"100"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "governor",
+      "~gov",
+      "~",
+      "radical islamists",
+      "~musrad",
+      "~",
+      "radical islamists",
+      "~musrad",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governor",
+      "radical islamists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "push"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1",
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---musrad",
+      "100"
+    ]
+  }
+}

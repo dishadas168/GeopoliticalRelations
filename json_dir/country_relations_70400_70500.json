@@ -1,0 +1,302 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cuba-travel-what-the-late_b_9487302.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/voting-rights-institute_us_56eb145ae4b03a640a69fe56",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/uc-merced-stabbing-isis_us_56eb4ed8e4b09bf44a9ce8f9",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/law-predatory-takeovers-main-street-companies_us_56ec2cfce4b03a640a6a4b9f",
+    "4":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/qmIAea",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/european-union-migration-dr_us_56ec000ce4b09bf44a9d020f",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/paris-attacker-dna-brussels_us_56ebff04e4b09bf44a9d01f8"
+  },
+  "headline":{
+    "0":"Cuba Travel: What the Latest Changes Mean for You",
+    "1":"Voter Suppression Is Happening Everywhere. This Institute Is Trying To Stop It.",
+    "2":"California College Student In\u00a0Stabbing Spree Was Inspired By ISIS And Acted Alone, FBI Says",
+    "3":"There Is A New Plan To Stop Wall Street Raiders From Preying On Main Street Companies",
+    "4":"United Kingdom Proposes Soda Tax In Ongoing Fight Against Obesity",
+    "5":"EU Leaders Approve Deal With Turkey To Curb Migrant Flows",
+    "6":"DNA Of Hunted Paris Attacker Found In Raided Brussels Apartment"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Cuba has inspired travelers who are eager to see, touch, hear and taste what has been unavailable for so long. Some visitors come for the music, some for the art, and still others to experience Cuban culture through its cuisine.",
+    "1":"The Supreme Court has left a major hole in the Voting Rights Act, but attorneys and law students are hoping to fill it.",
+    "2":"The student stabbed four people and was shot dead by police last fall at UC Merced.",
+    "3":"Senate Democrats take on activist hedge funds and their \"wolf packs.\"",
+    "4":"Last October, British Prime Minister David Cameron addressed the question of a soda tax in the United Kingdom, where more",
+    "5":"Ankara has agreed to take back all undocumented migrants who crossed to Greece, including Syrian refugees.",
+    "6":"BRUSSELS, March 18 (Reuters) - The most-wanted fugitive from November's Paris attacks was wounded in a shootout in Brussels"
+  },
+  "authors":{
+    "0":"Tamar Lowell, ContributorCEO of Access Trips, Exploring Culture Through Cuisine",
+    "1":"Samantha Lachman",
+    "2":"",
+    "3":"Daniel Marans",
+    "4":"",
+    "5":"Humeyra Pamuk and Jan Strupczewski, Reuters",
+    "6":""
+  },
+  "date":{
+    "0":"2016-03-19 00:00:00",
+    "1":"2016-03-18 00:00:00",
+    "2":"2016-03-18 00:00:00",
+    "3":"2016-03-18 00:00:00",
+    "4":"2016-03-18 00:00:00",
+    "5":"2016-03-18 00:00:00",
+    "6":"2016-03-18 00:00:00"
+  },
+  "actor1":{
+    "0":"cub",
+    "1":"---edu",
+    "2":"---edu",
+    "3":"usagovleg",
+    "4":"gbrgov",
+    "5":"tur",
+    "6":"bel"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---edu",
+    "2":"---ppl",
+    "3":"---opp",
+    "4":"gbr",
+    "5":"syrref",
+    "6":"fra"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"025",
+    "2":"182",
+    "3":"171",
+    "4":"010",
+    "5":"050",
+    "6":"180"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-0.3,
+    "2":-9.5,
+    "3":-9.2,
+    "4":0.0,
+    "5":3.5,
+    "6":-9.0
+  },
+  "nouns":{
+    "0":[
+      "cuba",
+      "cub",
+      "cuba",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "student",
+      "~edu",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "activist",
+      "~opp",
+      "~"
+    ],
+    "4":[
+      "david cameron",
+      "gbrgov",
+      "david",
+      "cameron",
+      "united kingdom",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "5":[
+      "ankara",
+      "tur",
+      "turkey",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~",
+      "migrants",
+      "~cvl",
+      "~"
+    ],
+    "6":[
+      "paris",
+      "fra",
+      "france",
+      "brussels",
+      "bel",
+      "belgium"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cuba",
+      "travelers"
+    ],
+    "1":[
+      "students",
+      "students"
+    ],
+    "2":[
+      "student",
+      "people"
+    ],
+    "3":[
+      "senate",
+      "activist"
+    ],
+    "4":[
+      "david cameron",
+      "united kingdom"
+    ],
+    "5":[
+      "ankara",
+      "syrian refugees"
+    ],
+    "6":[
+      "brussels",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cuba",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "---"
+    ],
+    "4":[
+      "david cameron",
+      "united kingdom"
+    ],
+    "5":[
+      "turkey",
+      "syria"
+    ],
+    "6":[
+      "belgium",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has inspired"
+    ],
+    "1":[
+      "are hoping ... fill"
+    ],
+    "2":[
+      "<and> ... stabbed"
+    ],
+    "3":[
+      "take"
+    ],
+    "4":[
+      "addressed"
+    ],
+    "5":[
+      "has agreed"
+    ],
+    "6":[
+      "<fra> ... wounded in <bel>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":[
+      "students",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":[
+      "refugees",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "cub",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "025"
+    ],
+    "2":[
+      "---edu",
+      "---ppl",
+      "182"
+    ],
+    "3":[
+      "usagovleg",
+      "---opp",
+      "171"
+    ],
+    "4":[
+      "gbrgov",
+      "gbr",
+      "010"
+    ],
+    "5":[
+      "tur",
+      "syrref",
+      "050"
+    ],
+    "6":[
+      "bel",
+      "fra",
+      "180"
+    ]
+  }
+}

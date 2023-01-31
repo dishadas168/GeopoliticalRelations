@@ -1,0 +1,507 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lgbt-teacher-sues-texas-school-district_us_5af5a8d9e4b0e57cd9f8f271",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-immigrant-caravan-prosecutions-backfire_us_5af4b51ae4b00d7e4c18cdd0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-cardinal-sex-abuse_us_5af54e36e4b0e57cd9f82032",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-people-calling-cops-on-people-of-color_us_5af5d573e4b032b10bfa7036",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/joe-biden-white-house-john-mccain_us_5af5d866e4b032b10bfa7455",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/cornell-student-delivers-thesis-in-underwear-after-professor-questions-her-outfit_us_5af5aed4e4b032b10bfa345f",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/syria-israeli-rockets_us_5af3a273e4b09bb419e4c2ab",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/syria-israeli-rockets_us_5af3a273e4b09bb419e4c2ab",
+    "8":"https:\/\/www.huffingtonpost.com\/entry\/right-to-die-advocate-david-goodall-ends-life-listening-to-ode-to-joy_us_5af48316e4b00d7e4c1886c0",
+    "9":"https:\/\/www.huffingtonpost.com\/entry\/kris-kobach-proof-of-citizenship-aclu_us_5af4c583e4b00d7e4c18d939",
+    "10":"https:\/\/www.huffingtonpost.com\/entry\/net-neutrality-rules-ending-june_us_5af46f04e4b09bb419e5c98a",
+    "11":"https:\/\/www.huffingtonpost.com\/entry\/phil-mudd-cia-gina-haspel_us_5af38c0fe4b04d3b2c90584a"
+  },
+  "headline":{
+    "0":"Gay Teacher Suspended For Showing Photo Of 'Future Wife' Sues Texas District",
+    "1":"Trump's Attempt To Make An Example Of The Immigrant 'Caravan' Is Backfiring",
+    "2":"EPA Hid Scott Pruitt's Dinner With Climate Denier Accused Of Child Sex Abuse",
+    "3":"We Need To Talk About White People Calling The Cops On People Of Color",
+    "4":"Joe Biden Berates White House Over 'Joke' About John McCain's Health",
+    "5":"Cornell Student Delivers Thesis In Underwear After Professor Questions Her Outfit",
+    "6":"Israel Reportedly Fires Dozens Of Rockets Into Syria",
+    "7":"Israel Reportedly Fires Dozens Of Rockets Into Syria",
+    "8":"Right-To-Die Advocate David Goodall Ends Life Listening To 'Ode To Joy'",
+    "9":"ACLU Says Kris Kobach Is Still Giving Out Incorrect Information About Voter Registration",
+    "10":"Net Neutrality Rules Will End In June, FCC Says",
+    "11":"Phil Mudd Flips Out Over Questions About CIA Torture: 'We Didn't Do It. America Did It.'"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"BLACK VOICES",
+    "4":"POLITICS",
+    "5":"WOMEN",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS",
+    "8":"WORLD NEWS",
+    "9":"POLITICS",
+    "10":"POLITICS",
+    "11":"MEDIA"
+  },
+  "short_description":{
+    "0":"Parents complained, with one saying she was promoting \u201cthe LGBTQ agenda.\u201d",
+    "1":"Immigration prosecutions are normally open-and-shut cases. But the president\u2019s tweets are once again undermining him in court.",
+    "2":"The EPA knew Vatican treasurer George Pell was under investigation, but went ahead with the dinner during Pruitt's trip to Italy.",
+    "3":"Too often white people call the police on people of color when it is unwarranted \u2015 and such calls can end in undue violence.",
+    "4":"\"People have wondered when decency would hit rock bottom with this administration. It happened yesterday,\" the former vice president said.",
+    "5":"A group of students defended the professor, writing that she was \"noting the importance of professionalism.\"",
+    "6":"The move comes after Israel accused Iranian forces in Syria of firing rockets into the Golan Heights.",
+    "7":"The move comes after Israel accused Iranian forces in Syria of firing rockets into the Golan Heights.",
+    "8":"The Australian scientist and botanist died at an assisted-dying clinic in Switzerland.",
+    "9":"Information on Kobach's website misleadingly suggests that everyone in Kansas needs to prove they're a citizen when they register to vote.",
+    "10":"The U.S. Senate plans to vote next week on whether to reject the FCC's repeal of the Obama-era rules.",
+    "11":"The CNN analyst and former CIA official also blamed Congress and the DOJ for the agency's defunct torture program."
+  },
+  "authors":{
+    "0":"Sara Boboltz",
+    "1":"Roque Planas and Elise Foley",
+    "2":"Willa Frej",
+    "3":"Sarah Ruiz-Grossman",
+    "4":"Ryan Grenoble",
+    "5":"Alanna Vagianos",
+    "6":"Reuters Staff, Reuters",
+    "7":"Reuters Staff, Reuters",
+    "8":"Carol Kuruvilla",
+    "9":"Sam Levine",
+    "10":"",
+    "11":"Rebecca Shapiro"
+  },
+  "date":{
+    "0":"2018-05-11 00:00:00",
+    "1":"2018-05-11 00:00:00",
+    "2":"2018-05-11 00:00:00",
+    "3":"2018-05-11 00:00:00",
+    "4":"2018-05-11 00:00:00",
+    "5":"2018-05-11 00:00:00",
+    "6":"2018-05-10 00:00:00",
+    "7":"2018-05-10 00:00:00",
+    "8":"2018-05-10 00:00:00",
+    "9":"2018-05-10 00:00:00",
+    "10":"2018-05-10 00:00:00",
+    "11":"2018-05-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"usagovenv",
+    "3":"---ppl",
+    "4":"---ppl",
+    "5":"---edu",
+    "6":"isr",
+    "7":"isr",
+    "8":"auscvl",
+    "9":"ngousahri",
+    "10":"usa",
+    "11":"med"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud",
+    "2":"ita",
+    "3":"---cop",
+    "4":"---gov",
+    "5":"---edu",
+    "6":"syr",
+    "7":"irn",
+    "8":"che",
+    "9":"---cvl",
+    "10":"usagovleg",
+    "11":"usagovleg"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"160",
+    "2":"040",
+    "3":"020",
+    "4":"190",
+    "5":"074",
+    "6":"190",
+    "7":"112",
+    "8":"190",
+    "9":"010",
+    "10":"030",
+    "11":"112"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-4.0,
+    "2":1.0,
+    "3":3.0,
+    "4":-10.0,
+    "5":8.5,
+    "6":-10.0,
+    "7":-2.0,
+    "8":-10.0,
+    "9":0.0,
+    "10":4.0,
+    "11":-2.0
+  },
+  "nouns":{
+    "0":[
+      "teacher",
+      "~edu",
+      "~",
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "court",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "italy",
+      "ita",
+      "italy"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "5":[
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "professor",
+      "~edu",
+      "~"
+    ],
+    "6":[
+      "israel",
+      "isr",
+      "israel",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "7":[
+      "israel",
+      "isr",
+      "israel",
+      "iranian",
+      "irn",
+      "iran",
+      "syria",
+      "syr",
+      "syria",
+      "golan heights",
+      "syr",
+      "syria"
+    ],
+    "8":[
+      "australian",
+      "scientist",
+      "auscvl",
+      "australia",
+      "~",
+      "switzerland",
+      "che",
+      "switzerland"
+    ],
+    "9":[
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union",
+      "voter",
+      "~cvl",
+      "~"
+    ],
+    "10":[
+      "u.s.",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ],
+    "11":[
+      "cnn",
+      "med",
+      "cnn",
+      "congress",
+      "doj",
+      "usagovleg",
+      "~",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "teacher",
+      "texas"
+    ],
+    "1":[
+      "president",
+      "court"
+    ],
+    "2":[
+      "epa",
+      "italy"
+    ],
+    "3":[
+      "people",
+      "police"
+    ],
+    "4":[
+      "people",
+      "administration"
+    ],
+    "5":[
+      "students",
+      "students"
+    ],
+    "6":[
+      "israel",
+      "syria"
+    ],
+    "7":[
+      "israel",
+      "iranian"
+    ],
+    "8":[
+      "australian scientist",
+      "switzerland"
+    ],
+    "9":[
+      "aclu",
+      "voter"
+    ],
+    "10":[
+
+    ],
+    "11":[
+      "cnn",
+      "congress ... doj"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "environmental protection agency",
+      "italy"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ],
+    "6":[
+      "israel",
+      "syria"
+    ],
+    "7":[
+      "israel",
+      "iran"
+    ],
+    "8":[
+      "australia",
+      "switzerland"
+    ],
+    "9":[
+      "american civil liberties union",
+      "---"
+    ],
+    "10":[
+
+    ],
+    "11":[
+      "cnn",
+      "united states department of justice"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sues"
+    ],
+    "1":[
+      "are ... undermining"
+    ],
+    "2":[
+      "went"
+    ],
+    "3":[
+      "call ... on"
+    ],
+    "4":[
+      "have ... hit"
+    ],
+    "5":[
+      "defended"
+    ],
+    "6":[
+      "fires"
+    ],
+    "7":[
+      "accused"
+    ],
+    "8":[
+      "died"
+    ],
+    "9":[
+      "says ... giving <&information>"
+    ],
+    "10":[
+
+    ],
+    "11":[
+      "blamed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1",
+      "teachers",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "security_services",
+      "1"
+    ],
+    "4":null,
+    "5":[
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":[
+      "election",
+      "1"
+    ],
+    "10":null,
+    "11":[
+      "id_torture",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "usa",
+      "173"
+    ],
+    "1":[
+      "---gov",
+      "---jud",
+      "160"
+    ],
+    "2":[
+      "usagovenv",
+      "ita",
+      "040"
+    ],
+    "3":[
+      "---ppl",
+      "---cop",
+      "020"
+    ],
+    "4":[
+      "---ppl",
+      "---gov",
+      "190"
+    ],
+    "5":[
+      "---edu",
+      "---edu",
+      "074"
+    ],
+    "6":[
+      "isr",
+      "syr",
+      "190"
+    ],
+    "7":[
+      "isr",
+      "irn",
+      "112"
+    ],
+    "8":[
+      "auscvl",
+      "che",
+      "190"
+    ],
+    "9":[
+      "ngousahri",
+      "---cvl",
+      "010"
+    ],
+    "10":[
+      "usa",
+      "usagovleg",
+      "030",
+      "usagovleg",
+      "usa",
+      "030"
+    ],
+    "11":[
+      "med",
+      "usagovleg",
+      "112"
+    ]
+  }
+}

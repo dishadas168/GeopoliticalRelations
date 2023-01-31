@@ -1,0 +1,228 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/london-breed-san-francisco-mayor_us_5a302919e4b01bdd7657d0d0",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/palestinian-president-abbas-united-states-isreal-peace-process_us_5a313b9de4b091ca26848b45",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/women-rejoice-doug-jones-victory_us_5a30e2a0e4b01bdd76587749",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/patagonia-trump-bears-ears_us_5a2ab0ffe4b073789f6935ae",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/democratic-congresswomen-investigation-trump-sexual-misconduct-allegations_us_5a2fece5e4b01598ac483820"
+  },
+  "headline":{
+    "0":"San Francisco Is Getting Its First Black Female Mayor",
+    "1":"Palestinian President Calls On UN To Replace U.S. As Mediator In Peace Process",
+    "2":"Women Rejoice Over Roy Moore's Senate Loss",
+    "3":"Patagonia Hits Back Against Trump Administration, House GOP Attacks",
+    "4":"Democratic Congresswomen Call For Investigation Into Trump Sexual Misconduct Allegations"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"London Breed has taken on the role after Mayor Ed Lee's sudden death.",
+    "1":"Palestinian President Mahmoud Abbas told Muslim leaders that the U.S. decision to recognize Jerusalem as Israel\u2019s capital was a \"the greatest crime.\"",
+    "2":"\"When we speak together, we're a force to reckon with,\" Planned Parenthood president Cecile Richards said.",
+    "3":"The company dismissed criticism for manufacturing overseas and called out White House ties to a uranium mining company.",
+    "4":"More than 100 representatives of all genders signed a letter Tuesday calling for Congress to open an investigation into Trump."
+  },
+  "authors":{
+    "0":"Lydia O'Connor",
+    "1":"",
+    "2":"Willa Frej",
+    "3":"Alexander C. Kaufman and Chris D'Angelo",
+    "4":"Alanna Vagianos"
+  },
+  "date":{
+    "0":"2017-12-13 00:00:00",
+    "1":"2017-12-13 00:00:00",
+    "2":"2017-12-13 00:00:00",
+    "3":"2017-12-12 00:00:00",
+    "4":"2017-12-12 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"psegov",
+    "2":"---cvl",
+    "3":"---bus",
+    "4":"---leg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---mus",
+    "2":"usagovleg",
+    "3":"---bus",
+    "4":"---leg"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"010",
+    "2":"050",
+    "3":"041",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":0.0,
+    "2":3.5,
+    "3":1.0,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "london",
+      "gbr",
+      "united",
+      "kingdom",
+      "mayor",
+      "~gov",
+      "~",
+      "mayor",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "mahmoud abbas",
+      "psegov",
+      "mahmoud",
+      "abbas",
+      "muslim",
+      "~mus",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "jerusalem",
+      "isr",
+      "israel",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "3":[
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ],
+    "4":[
+      "representatives",
+      "~leg",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "london",
+      "mayor"
+    ],
+    "1":[
+      "mahmoud abbas",
+      "muslim"
+    ],
+    "2":[
+      "women",
+      "senate"
+    ],
+    "3":[
+      "company",
+      "company"
+    ],
+    "4":[
+      "representatives",
+      "representatives"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ],
+    "1":[
+      "mahmoud abbas",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states congress"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has taken"
+    ],
+    "1":[
+      "told"
+    ],
+    "2":[
+      "rejoice"
+    ],
+    "3":[
+      "<and> ... called"
+    ],
+    "4":[
+      "signed ... calling for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---gov",
+      "171"
+    ],
+    "1":[
+      "psegov",
+      "---mus",
+      "010"
+    ],
+    "2":[
+      "---cvl",
+      "usagovleg",
+      "050"
+    ],
+    "3":[
+      "---bus",
+      "---bus",
+      "041"
+    ],
+    "4":[
+      "---leg",
+      "---leg",
+      "020"
+    ]
+  }
+}

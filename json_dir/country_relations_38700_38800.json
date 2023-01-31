@@ -1,0 +1,275 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kusher-heads-new-team_us_58d88946e4b02a2eaab52798",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/utah-bill-medication-abortions-reversible_us_58d96c6be4b00f68a5c96c25",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/congo-police-officers-decapitated_us_58d7da3be4b02a2eaab4eb58",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/congo-police-officers-decapitated_us_58d7da3be4b02a2eaab4eb58",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/hong-kong-chooses-new-beijing-backed-leader-amid-political-tensions_us_58d7ac1ce4b02a2eaab4dadd",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/russian-opposition-protests_us_58d7e667e4b03692bea6cf88"
+  },
+  "headline":{
+    "0":"Trump Taps Jared Kushner To Lead Team That Aims To Run Government \u2018Like A Company\u2019",
+    "1":"Utah Forces Doctors To Tell Women Some Abortions Are Reversible",
+    "2":"Militia Fighters Decapitate 40 Police Officers In Congo",
+    "3":"Militia Fighters Decapitate 40 Police Officers In Congo",
+    "4":"Hong Kong Chooses New Beijing-Backed Leader Amid Political Tensions",
+    "5":"Anti-Kremlin Protests Rock Major Russian Cities"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The new White House Office of American Innovation intends to apply business strategies to federal operations.",
+    "1":"They're probably not.",
+    "2":"More than 400 people have been killed in the insurgency.",
+    "3":"More than 400 people have been killed in the insurgency.",
+    "4":"Activists denounced Beijing\u2019s \u201cinterference\u201d amid widespread reports of lobbying of voters to back Lam, rather than Tsang.",
+    "5":"Opposition supporters across the country rallied against government corruption."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Laura Bassett",
+    "2":"Aaron Ross, Reuters",
+    "3":"Aaron Ross, Reuters",
+    "4":"James Pomfret and Venus Wu, Reuters",
+    "5":"Lydia O'Connor"
+  },
+  "date":{
+    "0":"2017-03-27 00:00:00",
+    "1":"2017-03-27 00:00:00",
+    "2":"2017-03-26 00:00:00",
+    "3":"2017-03-26 00:00:00",
+    "4":"2017-03-26 00:00:00",
+    "5":"2017-03-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa",
+    "2":"---uaf",
+    "3":"---reb",
+    "4":"---opp",
+    "5":"---opp"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---cvl",
+    "2":"cogcop",
+    "3":"---ppl",
+    "4":"chncvl",
+    "5":"---gov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"190",
+    "3":"190",
+    "4":"111",
+    "5":"150"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":-2.0,
+    "5":-7.2
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "business",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "utah",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "militia",
+      "fighters",
+      "~uaf",
+      "~",
+      "~",
+      "police officers",
+      "~cop",
+      "~",
+      "congo",
+      "cog",
+      "congo"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "insurgency",
+      "~reb",
+      "~"
+    ],
+    "4":[
+      "activists",
+      "~opp",
+      "~",
+      "beijing",
+      "chn",
+      "china",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "opposition supporters",
+      "~opp",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american",
+      "business"
+    ],
+    "1":[
+      "utah",
+      "women"
+    ],
+    "2":[
+      "militia fighters",
+      "---"
+    ],
+    "3":[
+      "insurgency",
+      "people"
+    ],
+    "4":[
+      "activists",
+      "---"
+    ],
+    "5":[
+      "opposition supporters",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "intends ... apply"
+    ],
+    "1":[
+      "doctors ... tell"
+    ],
+    "2":[
+      "decapitate"
+    ],
+    "3":[
+      "<~ppl> ... killed in <~reb>"
+    ],
+    "4":[
+      "denounced"
+    ],
+    "5":[
+      "rallied"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "activism",
+      "1",
+      "election",
+      "1"
+    ],
+    "5":[
+      "corruption",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---bus",
+      "020"
+    ],
+    "1":[
+      "usa",
+      "---cvl",
+      "010"
+    ],
+    "2":[
+      "---uaf",
+      "cogcop",
+      "190"
+    ],
+    "3":[
+      "---reb",
+      "---ppl",
+      "190"
+    ],
+    "4":[
+      "---opp",
+      "chncvl",
+      "111"
+    ],
+    "5":[
+      "---opp",
+      "---gov",
+      "150"
+    ]
+  }
+}

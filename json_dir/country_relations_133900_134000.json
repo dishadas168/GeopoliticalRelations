@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/missing-in-action-mental_us_5b9de411e4b03a1dcc8e35f0"
+  },
+  "headline":{
+    "0":"Missing in Action: Mental Health Community Fails Fraud Victims"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"It's estimated that fraud costs the U.S. economy $400 billion each year. You find it in every country of the world. Many"
+  },
+  "authors":{
+    "0":"Bradley Foster, Contributor\nFounder, Giant Steps Coaching"
+  },
+  "date":{
+    "0":"2014-02-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"120"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fails"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "120"
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/liz-kendall-the-mail-on-sunday-weight-question_us_55acf5f0e4b0d2ded39f53f3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/tennessee-shooter-fbi_us_55abe2c8e4b0caf721b310ea",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hindu-temple-sign-shot-bullets-north-carolina_us_55abc351e4b065dfe89e95f6",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/george-h-w-bush-released-from-hospital-after-fall_us_55abe58ee4b065dfe89e982e",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/china-deports-tourists_us_55abad21e4b0d2ded39f3c99",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/china-deports-tourists_us_55abad21e4b0d2ded39f3c99"
+  },
+  "headline":{
+    "0":"Politician Calls Out Journalist Who Asked About Her Weight",
+    "1":"Congress To Examine FBI Handling Of Tennessee Shooter",
+    "2":"North Carolina Hindu Temple Sign Found Riddled With Holes From Shotgun Blasts",
+    "3":"George H. W. Bush Released From Hospital After Fall",
+    "4":"China Deports 20 Foreign Tourists For Watching 'Extremist' Videos",
+    "5":"China Deports 20 Foreign Tourists For Watching 'Extremist' Videos"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS",
+    "2":"RELIGION",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Labour leadership candidate Liz Kendall is fed up with the way some journalists treat female politicians.\u00a0 In a story for",
+    "1":"WASHINGTON, July 19 (Reuters) - U.S. lawmakers will examine possible shortcomings in law enforcement or intelligence in the",
+    "2":"A North Carolina sheriff\u2019s department says there\u2019s no evidence that shots fired through the sign for a planned Hindu temple",
+    "3":"KENNEBUNKPORT, Maine (AP) \u2014 Former President George H.W. Bush was released from a Maine hospital on Sunday, four days after",
+    "4":"BEIJING (AP) \u2015 China has deported 20 foreigners from Britain, South Africa and India for watching video clips that advocated",
+    "5":"BEIJING (AP) \u2015 China has deported 20 foreigners from Britain, South Africa and India for watching video clips that advocated"
+  },
+  "authors":{
+    "0":"Taylor Pittman",
+    "1":"Andrea Shalal, Reuters",
+    "2":"Hilary Hanson",
+    "3":"",
+    "4":"",
+    "5":""
+  },
+  "date":{
+    "0":"2015-07-20 00:00:00",
+    "1":"2015-07-19 00:00:00",
+    "2":"2015-07-19 00:00:00",
+    "3":"2015-07-19 00:00:00",
+    "4":"2015-07-19 00:00:00",
+    "5":"2015-07-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"usaleg",
+    "2":"---cop",
+    "3":"usaeli",
+    "4":"chn",
+    "5":"chn"
+  },
+  "actor2":{
+    "0":"---pty",
+    "1":"---copspy",
+    "2":"---hin",
+    "3":"---hlh",
+    "4":"---cvl",
+    "5":"gbr"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"090",
+    "2":"015",
+    "3":"084",
+    "4":"174",
+    "5":"174"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":7.0,
+    "4":-5.0,
+    "5":-5.0
+  },
+  "nouns":{
+    "0":[
+      "politician",
+      "~pty",
+      "~",
+      "journalist",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "law enforcement",
+      "intelligence",
+      "~copspy",
+      "~",
+      "~",
+      "law enforcement",
+      "intelligence",
+      "~copspy",
+      "~",
+      "~"
+    ],
+    "2":[
+      "sheriff",
+      "~cop",
+      "~",
+      "hindu",
+      "~hin",
+      "~",
+      "hindu",
+      "~hin",
+      "~"
+    ],
+    "3":[
+      "george h. w. bush",
+      "usaeli",
+      "george",
+      "bush",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "4":[
+      "china",
+      "chn",
+      "china",
+      "tourists",
+      "~cvl",
+      "~"
+    ],
+    "5":[
+      "beijing",
+      "china",
+      "chn",
+      "chn",
+      "china",
+      "china",
+      "britain",
+      "south africa",
+      "india",
+      "gbr",
+      "zaf",
+      "ind",
+      "united",
+      "kingdom",
+      "republic",
+      "of",
+      "south",
+      "africa",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "journalist",
+      "politician",
+      "politician",
+      "journalist"
+    ],
+    "1":[
+      "u.s. lawmakers",
+      "law ... enforcement ... intelligence"
+    ],
+    "2":[
+      "sheriff",
+      "hindu"
+    ],
+    "3":[
+      "george h. w. bush",
+      "hospital"
+    ],
+    "4":[
+      "china",
+      "tourists"
+    ],
+    "5":[
+      "beijing",
+      "britain",
+      "beijing",
+      "south africa",
+      "beijing",
+      "india"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "george bush",
+      "---"
+    ],
+    "4":[
+      "china",
+      "---"
+    ],
+    "5":[
+      "china",
+      "united kingdom",
+      "china",
+      "republic of south africa",
+      "china",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "will examine"
+    ],
+    "2":[
+      "says ... fired"
+    ],
+    "3":[
+      "released"
+    ],
+    "4":[
+      "deports"
+    ],
+    "5":[
+      "has deported",
+      "has deported",
+      "has deported"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":[
+      "tourism",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---pty",
+      "041",
+      "---pty",
+      "---med",
+      "041"
+    ],
+    "1":[
+      "usaleg",
+      "---copspy",
+      "090"
+    ],
+    "2":[
+      "---cop",
+      "---hin",
+      "015"
+    ],
+    "3":[
+      "usaeli",
+      "---hlh",
+      "084"
+    ],
+    "4":[
+      "chn",
+      "---cvl",
+      "174"
+    ],
+    "5":[
+      "chn",
+      "gbr",
+      "174",
+      "chn",
+      "gbr",
+      "174",
+      "chn",
+      "zaf",
+      "174",
+      "chn",
+      "zaf",
+      "174",
+      "chn",
+      "ind",
+      "174",
+      "chn",
+      "ind",
+      "174"
+    ]
+  }
+}

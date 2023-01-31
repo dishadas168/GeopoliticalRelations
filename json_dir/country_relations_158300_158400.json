@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/animal-photos-of-the-week_us_5bb13bbee4b09bbe9a5ce192",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2013\/06\/08\/technology\/tech-companies-bristling-concede-to-government-surveillance-efforts.html"
+  },
+  "headline":{
+    "0":"Animal Photos Of The Week: Red Pandas, Lemurs, Monkeys And More Pictures",
+    "1":"Tech Companies, Bristling, Concede to Federal Surveillance Program"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"TECH"
+  },
+  "short_description":{
+    "0":"Some of the most popular animal stories from the last week include: A doctor rescued a baby moose from a Montana river while",
+    "1":"When government officials came to Silicon Valley to demand easier ways for the world's largest Internet companies to turn"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2013-06-09 00:00:00",
+    "1":"2013-06-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"073",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":7.4,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "doctor",
+      "~hlh",
+      "~",
+      "montana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "government officials",
+      "~gov",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctor",
+      "montana"
+    ],
+    "1":[
+      "government officials",
+      "companies"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rescued"
+    ],
+    "1":[
+      "came to ... demand"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "usa",
+      "073"
+    ],
+    "1":[
+      "---gov",
+      "---bus",
+      "100"
+    ]
+  }
+}

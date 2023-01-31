@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/josh-hawley-democrats-dont-accept-elections_n_61ea1949e4b01440a689bedc",
+    "1":"https:\/\/www.huffpost.com\/entry\/prince-william-evades-prince-andrew-question_n_61e8720ae4b0d8b66573f1b0",
+    "2":"https:\/\/www.huffpost.com\/entry\/prince-harry-files-court-claim-over-uk-police-protection_n_61e462cde4b01f707da4b27d"
+  },
+  "headline":{
+    "0":"Sen. Josh Hawley Says, Without Irony, That Democrats Don't Accept Elections They Lose",
+    "1":"Prince William Evades Question About Whether He Supports Prince Andrew",
+    "2":"Prince Harry Files Court Claim Over UK Police Protection"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"MEDIA",
+    "2":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"The Missouri Republican led the charge on Jan. 6 to object to Joe Biden's win -- right after he saluted pro-Trump protesters gathering at the U.S. Capitol.",
+    "1":"His father, Prince Charles, did the same thing a few days ago.",
+    "2":"Prince Harry has filed a claim for a judicial review against the British government\u2019s decision not to let him personally pay for police protection while in the U.K."
+  },
+  "authors":{
+    "0":"Josephine Harvey",
+    "1":"David Moye",
+    "2":"Sylvia Hui, AP"
+  },
+  "date":{
+    "0":"2022-01-21 00:00:00",
+    "1":"2022-01-19 00:00:00",
+    "2":"2022-01-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"'ulukalala_lavaka_ata_jud"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"---cop"
+  },
+  "event_code":{
+    "0":"121",
+    "1":"050",
+    "2":"110"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":3.5,
+    "2":-2.0
+  },
+  "nouns":{
+    "0":[
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "joe biden",
+      "usagov",
+      "joe",
+      "biden",
+      "protesters",
+      "~opp",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince"
+    ],
+    "2":[
+      "prince",
+      "court",
+      "'ulukalala_lavaka_ata_jud",
+      "prince",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "missouri",
+      "joe biden"
+    ],
+    "1":[
+      "prince",
+      "prince"
+    ],
+    "2":[
+      "prince ... court",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "joe biden"
+    ],
+    "1":[
+      "prince",
+      "prince"
+    ],
+    "2":[
+      "prince",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "led ... object"
+    ],
+    "1":[
+      "evades question ... supports"
+    ],
+    "2":[
+      "claim"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagov",
+      "121"
+    ],
+    "1":[
+      "'ulukalala_lavaka_ata_",
+      "'ulukalala_lavaka_ata_",
+      "050"
+    ],
+    "2":[
+      "'ulukalala_lavaka_ata_jud",
+      "---cop",
+      "110"
+    ]
+  }
+}

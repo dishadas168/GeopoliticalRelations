@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tanzania-bans-child-marriage_us_5786540fe4b0867123df11d4"
+  },
+  "headline":{
+    "0":"Tanzania Bans Child Marriage, But Law Could Have Little Impact"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"But cultural traditions must also change to fully end the practice, activists say."
+  },
+  "authors":{
+    "0":"Kizito Makoye, Reuters"
+  },
+  "date":{
+    "0":"2016-07-13 00:00:00"
+  },
+  "actor1":{
+    "0":"tza"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"172"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "tanzania",
+      "tza",
+      "united",
+      "republic",
+      "of",
+      "tanzania",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "tanzania",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united republic of tanzania",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "bans"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "tza",
+      "---cvl",
+      "172"
+    ]
+  }
+}

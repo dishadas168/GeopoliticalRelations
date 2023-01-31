@@ -1,0 +1,193 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/chipotle-25-million-fine_l_5e9f4ba9c5b6a486d08082e0",
+    "1":"https:\/\/www.huffpost.com\/entry\/matt-gaetz-president-god-donald-trump-coronavirus-testing_n_5e9ae79ec5b63639081f22c7",
+    "2":"https:\/\/www.huffpost.com\/entry\/new-york-kayak-rescue-bigfoot_n_5e99fc31c5b6ea335d5b2fb8",
+    "3":"https:\/\/www.huffpost.com\/entry\/tyler-perry-coronavirus-groceries_n_5e8dfd7fc5b670b4330a4264"
+  },
+  "headline":{
+    "0":"Chipotle Will Pay $25 Million Fine To Resolve Tainted Food Allegations",
+    "1":"Matt Gaetz Hails 'Testing President' Trump In One Of Most Sycophantic Tweets Yet",
+    "2":"Twitter Users Speculate Stranded Kayaker Might Really Be Bigfoot",
+    "3":"'Atlanta Angel' Tyler Perry Paid For Seniors' Groceries At More Than 70 Stores"
+  },
+  "category":{
+    "0":"FOOD & DRINK",
+    "1":"POLITICS",
+    "2":"WEIRD NEWS",
+    "3":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"The fast food company was accused in federal court of serving adulterated food to diners that caused diarrhea, vomiting and abdominal cramps.",
+    "1":"The GOP lawmaker's awkward phrasing also led \"President God\" to trend on Twitter.",
+    "2":"The unidentified man was reported missing for more than 12 hours before he was finally rescued off a remote\u00a0island in Jamaica Bay, Queens.",
+    "3":"The actor, writer and director purchased goods for elderly shoppers at 44 Kroger stores in Atlanta and 29 Winn-Dixie stores in Louisiana."
+  },
+  "authors":{
+    "0":"Brian Melley, AP",
+    "1":"Lee Moran",
+    "2":"David Moye",
+    "3":"Jenna Amatulli"
+  },
+  "date":{
+    "0":"2020-04-21 00:00:00",
+    "1":"2020-04-18 00:00:00",
+    "2":"2020-04-17 00:00:00",
+    "3":"2020-04-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"---elimed"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---leg",
+    "2":"---ppl",
+    "3":"usa"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"043",
+    "2":"073",
+    "3":"061"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":2.8,
+    "2":7.4,
+    "3":6.4
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "federal court",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "actor",
+      "writer",
+      "~elimed",
+      "~",
+      "~",
+      "atlanta",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "louisiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "federal court",
+      "company"
+    ],
+    "1":[
+      "president",
+      "lawmaker",
+      "lawmaker",
+      "president"
+    ],
+    "2":[
+      "man",
+      "man"
+    ],
+    "3":[
+      "actor ... writer",
+      "atlanta"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~bus> ... accused in ... court"
+    ],
+    "1":[
+      "led ... to",
+      "led ... to"
+    ],
+    "2":[
+      "was <~ppl> ... rescued"
+    ],
+    "3":[
+      "purchased"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---bus",
+      "112"
+    ],
+    "1":[
+      "---gov",
+      "---leg",
+      "043",
+      "---leg",
+      "---gov",
+      "042"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "073"
+    ],
+    "3":[
+      "---elimed",
+      "usa",
+      "061",
+      "---elimed",
+      "usa",
+      "061"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/model-bikini-season_us_5b9b7e2ce4b03a1dcc780d35",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/national-park-views-not-t_us_5b9b7a1de4b03a1dcc77ea5e"
+  },
+  "headline":{
+    "0":"Models In Bikinis: Doutzen Kroes, Anne V. & Irina Shayk Hit The Miami Beaches! (PHOTOS)",
+    "1":"National Park Views Not To Be Missed (PHOTOS)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Anne V. and her fellow Sports Illustrated swimsuit girl, Irina Shayk, headed to Miami on Friday to celebrate Anne's 26th",
+    "1":"America's national parks offer some of the most gorgeous scenery in the country, from Yellowstone to Florida. Here are some of our favorite views."
+  },
+  "authors":{
+    "0":"",
+    "1":"Conde Nast Traveler, Contributor\nConde Nast Traveler"
+  },
+  "date":{
+    "0":"2012-03-26 00:00:00",
+    "1":"2012-03-25 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "girl",
+      "~cvl",
+      "~",
+      "miami",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "miami",
+      "girl",
+      "girl",
+      "miami"
+    ],
+    "1":[
+      "america",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "headed to",
+      "headed to"
+    ],
+    "1":[
+      "offer"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "043",
+      "---cvl",
+      "usa",
+      "042"
+    ],
+    "1":[
+      "usa",
+      "usa",
+      "030"
+    ]
+  }
+}

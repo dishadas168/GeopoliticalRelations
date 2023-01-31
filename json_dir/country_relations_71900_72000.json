@@ -1,0 +1,176 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/unlock-iphone-request_us_56d4c7a4e4b0bf0dab332ec8",
+    "1":"https:\/\/www.huffingtonpost.comhttps:\/\/www.washingtonpost.com\/news\/monkey-cage\/wp\/2016\/02\/29\/one-third-of-all-u-s-presidents-appointed-a-supreme-court-justice-in-an-election-year\/",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/pubx.co\/u26g2p",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/latino-lawmakers-endorse-hillary-clinton_us_56d446b2e4b0871f60ebf61d"
+  },
+  "headline":{
+    "0":"Judge Denies Government's Request To Unlock iPhone In Drug Case",
+    "1":"One-Third Of All U.S. Presidents Appointed A Supreme Court Justice In An Election Year",
+    "2":"Boy Takes Home Top Prize In Competition For Girls In STEM",
+    "3":"Latino Lawmakers Throw Support Behind Hillary Clinton"
+  },
+  "category":{
+    "0":"TECH",
+    "1":"POLITICS",
+    "2":"TECH",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Officials originally sought access to the phone back in October.",
+    "1":"Eminent Supreme Court Justice Oliver Wendell Holmes famously described his fellow judges as \u201cnine scorpions in a bottle,\u201d but",
+    "2":"Pretty Curious, a U.K. program aimed at getting girls interested in STEM careers, asks on its website, \u201cwhy aren\u2019t more girls",
+    "3":"They said Bernie Sanders has failed to stand with the Latino community."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"",
+    "3":"Elise Foley"
+  },
+  "date":{
+    "0":"2016-02-29 00:00:00",
+    "1":"2016-02-29 00:00:00",
+    "2":"2016-02-29 00:00:00",
+    "3":"2016-02-29 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---jud",
+    "2":"gbr",
+    "3":"---leg"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---jud",
+    "2":"---med",
+    "3":"usaeli"
+  },
+  "event_code":{
+    "0":"123",
+    "1":"010",
+    "2":"020",
+    "3":"051"
+  },
+  "goldstein_score":{
+    "0":-4.0,
+    "1":0.0,
+    "2":3.0,
+    "3":3.4
+  },
+  "nouns":{
+    "0":[
+      "judge",
+      "~jud",
+      "~",
+      "government",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "supreme court",
+      "~jud",
+      "~",
+      "judges",
+      "~jud",
+      "~"
+    ],
+    "2":[
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom",
+      "website",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "judge",
+      "government"
+    ],
+    "1":[
+      "supreme court",
+      "supreme court"
+    ],
+    "2":[
+      "u.k.",
+      "website"
+    ],
+    "3":[
+      "lawmakers",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "---"
+    ],
+    "3":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "denies ... request"
+    ],
+    "1":[
+      "described"
+    ],
+    "2":[
+      "asks"
+    ],
+    "3":[
+      "throw support behind"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---gov",
+      "123"
+    ],
+    "1":[
+      "---jud",
+      "---jud",
+      "010"
+    ],
+    "2":[
+      "gbr",
+      "---med",
+      "020"
+    ],
+    "3":[
+      "---leg",
+      "usaeli",
+      "051"
+    ]
+  }
+}

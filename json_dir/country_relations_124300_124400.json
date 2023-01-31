@@ -1,0 +1,182 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/iran-iraq-hassan-rouhani_n_5506104.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-dubai-can-learn-from_b_5506412.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/feds-force-wrongly-accused-laxatives_n_5506707.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-cultural-landscape-ar_1_b_5497593.html"
+  },
+  "headline":{
+    "0":"Iran Vows To Defend Shiite Muslim Holy Sites In Iraq",
+    "1":"What Dubai Can Learn from Rome and the Korean Wave",
+    "2":"Doctors Forced Wrongfully Accused Pregnant Woman To Take Laxatives: Suit",
+    "3":"The Cultural Landscape Architects: Thomas J. Lax"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"WORLDPOST",
+    "2":"CRIME",
+    "3":"ARTS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Arab culture, and certainly Emirati more specifically, is rich and encompasses music, dance, food and traditional crafts. However, we -- as Arabs -- have a long way to go before this can be developed and exported.",
+    "2":"",
+    "3":"\"When the Stars Begin to Fall: Imagination and the American South\" sets aside conventional art world categories of insider and outsider art, and instead explores across different media and disciplines how 35 black artists in the last 50 years have made art inspired by and deeply imbued with southern cultural legacies."
+  },
+  "authors":{
+    "0":"",
+    "1":"Faisal J. Abbas, ContributorArab affairs commentator and Editor-in-Chief of Arab News",
+    "2":"Andy Campbell",
+    "3":"Julie Chae, ContributorCurator, Writer & Art Advisor"
+  },
+  "date":{
+    "0":"2014-06-18 00:00:00",
+    "1":"2014-06-18 00:00:00",
+    "2":"2014-06-18 00:00:00",
+    "3":"2014-06-17 00:00:00"
+  },
+  "actor1":{
+    "0":"irn",
+    "1":"are",
+    "2":"---hlh",
+    "3":"usa"
+  },
+  "actor2":{
+    "0":"irqmus",
+    "1":"ita",
+    "2":"---cvl",
+    "3":"---med"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"040",
+    "2":"170",
+    "3":"090"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":1.0,
+    "2":-7.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "iran",
+      "irn",
+      "iran",
+      "muslim",
+      "~mus",
+      "~",
+      "iraq",
+      "irq",
+      "iraq"
+    ],
+    "1":[
+      "dubai",
+      "are",
+      "united",
+      "arab",
+      "emirates",
+      "rome",
+      "ita",
+      "italy"
+    ],
+    "2":[
+      "doctors",
+      "~hlh",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "iran",
+      "---"
+    ],
+    "1":[
+      "dubai",
+      "rome"
+    ],
+    "2":[
+      "doctors",
+      "woman"
+    ],
+    "3":[
+      "american",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "iran",
+      "---"
+    ],
+    "1":[
+      "united arab emirates",
+      "italy"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vows ... defend"
+    ],
+    "1":[
+      "can learn"
+    ],
+    "2":[
+      "forced"
+    ],
+    "3":[
+      "<and> ... explores"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "irn",
+      "irqmus",
+      "074"
+    ],
+    "1":[
+      "are",
+      "ita",
+      "040"
+    ],
+    "2":[
+      "---hlh",
+      "---cvl",
+      "170"
+    ],
+    "3":[
+      "usa",
+      "---med",
+      "090"
+    ]
+  }
+}

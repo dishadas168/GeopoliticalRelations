@@ -1,0 +1,228 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jared-kushners-family-tries-selling-immigration-status-to-wealthy-chinese_us_590e51e0e4b0d5d9049cf6c3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/la-impeachment-resolution_us_590d4b9ce4b0e7021e97fd22",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chinese-exclusion-act-anniversary_us_590ddbdde4b0104c734f5e08",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/macron-email-leak_us_590cfa09e4b0e7021e97e5ae",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/isis-terror-recruits-american-gun-laws_us_590c8249e4b0e7021e97065a"
+  },
+  "headline":{
+    "0":"Invest $500,000 In The Kushner Family, 'Immigrate To The United States'",
+    "1":"L.A. City Council Resolution Presses For Donald Trump Impeachment Probe",
+    "2":"It\u2019s The Anniversary Of The 1st Major U.S. Law That Banned An Ethnicity",
+    "3":"Macron Campaign Says Massive Email Leaks Meant To Undermine It",
+    "4":"ISIS To Recruits: Buying Guns In The U.S. Is 'Very Simple'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Wealthy Chinese investors can buy their way into the U.S. with a little help from the Kushners.",
+    "1":"Congress needs to \"make sure that he is actually working on behalf of the American people and not his own pocketbook,\u201d a city legislator says.",
+    "2":"\"The Chinese Exclusion Act gave way to America as the 'gate-keeping nation.'\"",
+    "3":"The French presidential frontrunner's campaign team said it had been hit by a massive and coordinated hacking operation.",
+    "4":"The extremist group encourages militants to take advantage of unregulated gun sales."
+  },
+  "authors":{
+    "0":"Sebastian Murdock",
+    "1":"Mary Papenfuss",
+    "2":"Jessica Prois",
+    "3":"",
+    "4":"Daniel Marans"
+  },
+  "date":{
+    "0":"2017-05-07 00:00:00",
+    "1":"2017-05-06 00:00:00",
+    "2":"2017-05-06 00:00:00",
+    "3":"2017-05-05 00:00:00",
+    "4":"2017-05-05 00:00:00"
+  },
+  "actor1":{
+    "0":"chnbus",
+    "1":"---leg",
+    "2":"chn",
+    "3":"fra",
+    "4":"---rad"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---leg",
+    "2":"usa",
+    "3":"fra",
+    "4":"---uaf"
+  },
+  "event_code":{
+    "0":"061",
+    "1":"100",
+    "2":"060",
+    "3":"015",
+    "4":"051"
+  },
+  "goldstein_score":{
+    "0":6.4,
+    "1":-5.0,
+    "2":6.0,
+    "3":0.0,
+    "4":3.4
+  },
+  "nouns":{
+    "0":[
+      "chinese",
+      "investors",
+      "chnbus",
+      "china",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "congress",
+      "~leg",
+      "~",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "legislator",
+      "~leg",
+      "~"
+    ],
+    "2":[
+      "chinese",
+      "chn",
+      "china",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "french",
+      "fra",
+      "france"
+    ],
+    "4":[
+      "extremist",
+      "~rad",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chinese investors",
+      "u.s."
+    ],
+    "1":[
+      "congress",
+      "congress"
+    ],
+    "2":[
+      "chinese",
+      "america"
+    ],
+    "3":[
+      "french",
+      "french"
+    ],
+    "4":[
+      "extremist",
+      "militants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "china",
+      "united states of america"
+    ],
+    "3":[
+      "france",
+      "france"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can buy"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "gave"
+    ],
+    "3":[
+      "said <fra> ... hit by <--->"
+    ],
+    "4":[
+      "encourages"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "cyber_security",
+      "1"
+    ],
+    "4":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "chnbus",
+      "usa",
+      "061"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "100"
+    ],
+    "2":[
+      "chn",
+      "usa",
+      "060"
+    ],
+    "3":[
+      "fra",
+      "fra",
+      "015"
+    ],
+    "4":[
+      "---rad",
+      "---uaf",
+      "051"
+    ]
+  }
+}

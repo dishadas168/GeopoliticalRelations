@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/5-fascinating-eastern-ger_us_5b9d9042e4b03a1dcc898d99",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/claire-danes-british-vogue_us_5b9d90a3e4b03a1dcc8994e8"
+  },
+  "headline":{
+    "0":"5 Fascinating Former DDR Locales",
+    "1":"Claire Danes' British Vogue Cover Totally Beats Her American One (PHOTOS, POLL)"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"For Germans, October 3 marks the Day of German Unity (Tag der Deutschen Einheit), a national holiday commemorating Reunification in 1990. The country's five eastern German states merged with West Germany to form one nation shortly after the fall of the Berlin Wall.",
+    "1":"The soft lighting, the elegant yet edgy styling and the subdued hair and makeup of Claire Danes' new British Vogue cover"
+  },
+  "authors":{
+    "0":"Rachel Stern, Contributor\nBerlin-based journalist and travel writer",
+    "1":""
+  },
+  "date":{
+    "0":"2013-10-03 00:00:00",
+    "1":"2013-10-02 00:00:00"
+  },
+  "actor1":{
+    "0":"deu",
+    "1":"gbr"
+  },
+  "actor2":{
+    "0":"deu",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "german",
+      "deu",
+      "germany",
+      "west germany",
+      "deu",
+      "germany",
+      "berlin",
+      "deu",
+      "germany"
+    ],
+    "1":[
+      "british",
+      "gbr",
+      "united",
+      "kingdom",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "german",
+      "german"
+    ],
+    "1":[
+      "british",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "germany"
+    ],
+    "1":[
+      "united kingdom",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "merged"
+    ],
+    "1":[
+      "beats"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "deu",
+      "deu",
+      "060"
+    ],
+    "1":[
+      "gbr",
+      "usa",
+      "190"
+    ]
+  }
+}

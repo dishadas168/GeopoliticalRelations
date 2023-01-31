@@ -1,0 +1,146 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-long-judicial-arm-of-_b_6606416.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/lama-lobsang-tibetan-monk_n_6606840.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/putin-calls-ukraine-fasci_b_6600292.html"
+  },
+  "headline":{
+    "0":"The Long Judicial Arm of the Honduran Coup",
+    "1":"This Tibetan Monk Has Taken In 170 Orphan Children",
+    "2":"Is Ukraine Fascist?"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"GOOD NEWS",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"Rather than reward the dangerous Hern\u00e1ndez regime for subverting the rule of law and punishing those who uphold it, the United States should publicly and forcefully demand the immediate reinstatement of the four judges as a baby step toward restoring judicial independence in Honduras.",
+    "1":"",
+    "2":"Ukraine ousted Yanukovych in order to avoid becoming fully authoritarian. The war Putin unleashed against Ukraine is his way of telling Ukraine that fascism and democracy are incompatible."
+  },
+  "authors":{
+    "0":"Dana Frank, ContributorProfessor of History, University of California, Santa Cruz",
+    "1":"Kimberly Yam",
+    "2":"Alexander Motyl, ContributorUkrainian-American Political Scientist, Rutgers University"
+  },
+  "date":{
+    "0":"2015-02-04 00:00:00",
+    "1":"2015-02-04 00:00:00",
+    "2":"2015-02-03 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---rel",
+    "2":"ukr"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---cvl",
+    "2":"ukreli"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"171",
+    "2":"174"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-9.2,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "judges",
+      "~jud",
+      "~",
+      "judges",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "monk",
+      "~rel",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "ukraine",
+      "ukr",
+      "ukraine",
+      "yanukovych",
+      "ukreli",
+      "viktor",
+      "yanukovych"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the ... united states",
+      "judges"
+    ],
+    "1":[
+      "monk",
+      "children"
+    ],
+    "2":[
+      "ukraine",
+      "yanukovych"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "ukraine",
+      "viktor yanukovych"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should ... demand"
+    ],
+    "1":[
+      "has taken"
+    ],
+    "2":[
+      "ousted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---jud",
+      "100"
+    ],
+    "1":[
+      "---rel",
+      "---cvl",
+      "171"
+    ],
+    "2":[
+      "ukr",
+      "ukreli",
+      "174"
+    ]
+  }
+}

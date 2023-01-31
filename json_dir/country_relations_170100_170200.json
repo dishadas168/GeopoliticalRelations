@@ -1,0 +1,119 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/maternity-leave-paid-parental-leave_us_5b9cc8ebe4b03a1dcc81d2a1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/emergency-mental-health-services_us_5b9cc727e4b03a1dcc81c593"
+  },
+  "headline":{
+    "0":"Paid Parental Leave: U.S. vs. The World (INFOGRAPHIC)",
+    "1":"In Psychiatric Emergencies, Emergency Rooms Not Always Safe"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"WELLNESS"
+  },
+  "short_description":{
+    "0":"Will the U.S. catch up with the rest of the world during President Obama's second term? Advocates are working to get a national",
+    "1":"Communities need specially-designed psychiatric emergency departments. Private insurance companies should provide more and better community care for persons with psychiatric problems, and more community alternative programs for persons in emotional distress should be developed."
+  },
+  "authors":{
+    "0":"Katy Hall and Chris Spurlock",
+    "1":"Mona Shattell, PhD, RN, FAAN, Contributor\nnurse academic"
+  },
+  "date":{
+    "0":"2013-02-04 00:00:00",
+    "1":"2013-02-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "companies",
+      "~bus",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "persons",
+      "~ppl",
+      "~",
+      "persons",
+      "~ppl",
+      "~",
+      "community",
+      "persons",
+      "~cvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "president obama"
+    ],
+    "1":[
+      "companies",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "catch"
+    ],
+    "1":[
+      "should provide"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usagov",
+      "171"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "060"
+    ]
+  }
+}

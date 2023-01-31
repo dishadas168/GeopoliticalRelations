@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/kristen-joseph-breastfeeding_us_5b9c2dece4b03a1dcc7ce413",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/first-day-of-school-separating_us_5b9c2d8ee4b03a1dcc7cdff4"
+  },
+  "headline":{
+    "0":"Kristen Joseph, Breastfeeding Mom, Told Not To Pump At Work Because She Might 'Spray All Over' The Office",
+    "1":"Tips For Separating From Your Child"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"[Employers are required to provide] reasonable break time for an employee to express breast milk for her nursing child for",
+    "1":"Fall is fast approaching and many children will be attending school for the first time.Here are a few tips that we have found to be effective in easing this separation process."
+  },
+  "authors":{
+    "0":"",
+    "1":"Anjali Varma, Contributor\nThe Modern Mompreneur | l Owner, Kidville Bethesda I YouTube H..."
+  },
+  "date":{
+    "0":"2012-08-23 00:00:00",
+    "1":"2012-08-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"042"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":1.9
+  },
+  "nouns":{
+    "0":[
+      "employers",
+      "~bus",
+      "~",
+      "employee",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "children",
+      "~cvl",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employers",
+      "employee"
+    ],
+    "1":[
+      "children",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... provide"
+    ],
+    "1":[
+      "will ... attending"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---lab",
+      "060"
+    ],
+    "1":[
+      "---cvl",
+      "---edu",
+      "042"
+    ]
+  }
+}

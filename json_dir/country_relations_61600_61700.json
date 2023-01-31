@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/russian-ship-navy_us_5777046fe4b04164641017ab"
+  },
+  "headline":{
+    "0":"Russian Warship's 'High Risk' Pass At Navy Ship 'Highly Unprofessional': U.S."
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"This is the second time the same Russian vessel has come within proximity of a U.S. Navy ship this month."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2016-07-02 00:00:00"
+  },
+  "actor1":{
+    "0":"rusmil"
+  },
+  "actor2":{
+    "0":"usamil"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "russian",
+      "warship",
+      "rusmil",
+      "russian",
+      "federation",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "navy",
+      "usamil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "russian warship",
+      "navy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "russian federation",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "pass"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "rusmil",
+      "usamil",
+      "08"
+    ]
+  }
+}

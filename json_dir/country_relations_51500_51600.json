@@ -1,0 +1,268 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/haunted-house-recreated-pulse-massacre_us_58160642e4b064e1b4b30687",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/yemen-saudi-raid_us_5816113ee4b064e1b4b30bc4",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/government-tries-to-protect-air-travelers-will-anyone_us_5815c8b8e4b09b190529c619",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hollande-france-uk-calais-migrants_us_5814a80ae4b0990edc31852c",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/james-comey-fbi-emails_us_5813e2fde4b0990edc316ed1",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/remembering-when-evangelicals-tried-to-exorcise-gays_us_5813efb8e4b096e8706965c0"
+  },
+  "headline":{
+    "0":"Haunted House That Planned To Recreate Scenes From Pulse Massacre Canceled",
+    "1":"Saudi-Led Raid Kills At Least 60 At Security Site And Prison In Yemen",
+    "2":"Government Tries To Protect Air Travelers. Will Anyone Notice?",
+    "3":"France's Francois Hollande Urges UK To Help Support Calais Migrant Kids",
+    "4":"Heat Rises For FBI Director James Comey As Both Campaigns Demand Email Answers",
+    "5":"Remembering When Evangelicals Tried To Exorcise Gays With \u2018Hell Houses'"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"THE WORLDPOST",
+    "2":"TRAVEL",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"An ad seeking volunteers for the Chicago event reportedly sought dancers and shooting victims.",
+    "1":"Rights groups have said that some of the raids in Yemen's conflict may amount to war crimes.",
+    "2":"When the Transportation Department (DOT) announced new \u201cenhanced\u201d protections for air travelers last week, the reaction was",
+    "3":"The president says French authorities evacuated 5,000 people from the camp, but there are 1,500 unaccompanied minors left.",
+    "4":"Top aides to Hillary Clinton and Donald Trump called on the FBI to come clean with voters.",
+    "5":"These Christians targeted our children."
+  },
+  "authors":{
+    "0":"Nina Golgowski",
+    "1":"",
+    "2":"Christopher Elliott, ContributorAuthor, How to Be the World's Smartest Traveler (and Save Time...",
+    "3":"",
+    "4":"Natalie Jackson",
+    "5":"Irene Monroe, ContributorMonroe\u2019s a religion columnist, weekly commentator on Boston Pu..."
+  },
+  "date":{
+    "0":"2016-10-30 00:00:00",
+    "1":"2016-10-30 00:00:00",
+    "2":"2016-10-30 00:00:00",
+    "3":"2016-10-29 00:00:00",
+    "4":"2016-10-29 00:00:00",
+    "5":"2016-10-29 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"sau",
+    "2":"---gov",
+    "3":"---gov",
+    "4":"usaeli",
+    "5":"---chr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"yemcop",
+    "2":"---cvl",
+    "3":"fragov",
+    "4":"usacop",
+    "5":"---cvl"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"190",
+    "2":"074",
+    "3":"010",
+    "4":"020",
+    "5":"190"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":-10.0,
+    "2":8.5,
+    "3":0.0,
+    "4":3.0,
+    "5":-10.0
+  },
+  "nouns":{
+    "0":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "saudi",
+      "sau",
+      "saudi",
+      "arabia",
+      "prison",
+      "~cop",
+      "~",
+      "yemen",
+      "yem",
+      "yemen"
+    ],
+    "2":[
+      "government",
+      "~gov",
+      "~",
+      "travelers",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "french",
+      "authorities",
+      "fragov",
+      "france",
+      "~",
+      "french",
+      "authorities",
+      "fragov",
+      "france",
+      "~"
+    ],
+    "4":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation"
+    ],
+    "5":[
+      "christians",
+      "~chr",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "chicago",
+      "victims"
+    ],
+    "1":[
+      "saudi",
+      "---"
+    ],
+    "2":[
+      "government",
+      "travelers"
+    ],
+    "3":[
+      "president",
+      "french authorities"
+    ],
+    "4":[
+      "hillary clinton",
+      "fbi"
+    ],
+    "5":[
+      "christians",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "saudi arabia",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "france"
+    ],
+    "4":[
+      "hillary clinton",
+      "federal bureau of investigation"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sought"
+    ],
+    "1":[
+      "kills"
+    ],
+    "2":[
+      "tries ... protect"
+    ],
+    "3":[
+      "says"
+    ],
+    "4":[
+      "called on"
+    ],
+    "5":[
+      "targeted"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "tourism",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "election",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cvl",
+      "030"
+    ],
+    "1":[
+      "sau",
+      "yemcop",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "074"
+    ],
+    "3":[
+      "---gov",
+      "fragov",
+      "010"
+    ],
+    "4":[
+      "usaeli",
+      "usacop",
+      "020"
+    ],
+    "5":[
+      "---chr",
+      "---cvl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/neil-gorsuch-senate-democrats_us_58de7fc8e4b0ba3595948896",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-executive-order-natural-disasters_us_58dbea6ee4b0cb23e65da328",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/chicago-restaurant-shooting_us_58de2c1fe4b08194e3b91225",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/chicago-restaurant-shooting_us_58de2c1fe4b08194e3b91225",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/pakistan-ambassador-refuses-to-acknowledge-state-sponsored_us_58dc7629e4b0fa4c0959860f"
+  },
+  "headline":{
+    "0":"2 Democratic Senators Say Neil Gorsuch Refused To Meet With Them",
+    "1":"Trump\u2019s Climate Order Will Put More People In Harm\u2019s Way",
+    "2":"Mother Watches As Her Sons, 2 Others Gunned Down In Chicago Restaurant",
+    "3":"Mother Watches As Her Sons, 2 Others Gunned Down In Chicago Restaurant",
+    "4":"Pakistan Ambassador Refuses To Acknowledge State-Sponsored Persecution Of Ahmadi Muslims"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"CRIME",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Tammy Duckworth (Ill.) and Catherine Cortez Masto (Nev.) will both vote against Trump's Supreme Court nominee.",
+    "1":"With a pen stroke, the president \"is preventing people from being able to take protective measures ahead of time.\"",
+    "2":"A lone gunman opened fire just before 4 p.m. at the Nadia Fish and Chicken restaurant in the South Shore neighborhood.",
+    "3":"A lone gunman opened fire just before 4 p.m. at the Nadia Fish and Chicken restaurant in the South Shore neighborhood.",
+    "4":"Is Pakistan even serious in addressing religious extremism when it is such an active party to it?"
+  },
+  "authors":{
+    "0":"Jennifer Bendery",
+    "1":"Lydia O'Connor",
+    "2":"",
+    "3":"",
+    "4":"Kashif N Chaudhry, ContributorPhysician, Writer, Human Rights Activist"
+  },
+  "date":{
+    "0":"2017-03-31 00:00:00",
+    "1":"2017-03-31 00:00:00",
+    "2":"2017-03-31 00:00:00",
+    "3":"2017-03-31 00:00:00",
+    "4":"2017-03-31 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"---cvl",
+    "3":"---uaf",
+    "4":"pakgov"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---ppl",
+    "2":"usa",
+    "3":"---cvl",
+    "4":"---mus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"120",
+    "2":"193",
+    "3":"193",
+    "4":"015"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-4.0,
+    "2":-10.0,
+    "3":-10.0,
+    "4":0.0
+  },
+  "nouns":{
+    "0":[
+      "senators",
+      "~leg",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "gunman",
+      "~uaf",
+      "~",
+      "neighborhood",
+      "~cvl",
+      "~",
+      "neighborhood",
+      "~cvl",
+      "~"
+    ],
+    "4":[
+      "pakistan",
+      "ambassador",
+      "pakgov",
+      "pakistan",
+      "~",
+      "muslims",
+      "~mus",
+      "~",
+      "muslims",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "senators",
+      "senators"
+    ],
+    "1":[
+      "president",
+      "people"
+    ],
+    "2":[
+      "mother",
+      "chicago"
+    ],
+    "3":[
+      "gunman",
+      "neighborhood"
+    ],
+    "4":[
+      "pakistan ambassador",
+      "muslims"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "pakistan",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... meet"
+    ],
+    "1":[
+      "is preventing"
+    ],
+    "2":[
+      "<['gunned',> <'down']>"
+    ],
+    "3":[
+      "opened fire"
+    ],
+    "4":[
+      "refuses ... acknowledge"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---leg",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---ppl",
+      "120"
+    ],
+    "2":[
+      "---cvl",
+      "usa",
+      "193"
+    ],
+    "3":[
+      "---uaf",
+      "---cvl",
+      "193"
+    ],
+    "4":[
+      "pakgov",
+      "---mus",
+      "015"
+    ]
+  }
+}

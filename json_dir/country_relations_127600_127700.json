@@ -1,0 +1,141 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/7-moms-mothers-day_n_5296921.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/playover-on-oahu_b_5288729.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-lost-legislature-how_b_5288495.html"
+  },
+  "headline":{
+    "0":"This Man Is Celebrating 7 Moms On Mother's Day",
+    "1":"Playover on Oahu",
+    "2":"The Lost Legislature: How You Can Help the Senate Find Itself Again"
+  },
+  "category":{
+    "0":"PARENTS",
+    "1":"TRAVEL",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Last month, Hawaiian Airlines kicked off non-stop service three times per week between Honolulu and Beijing. If you're planning on visiting China, it's worth a 24- to 36-hour pit stop in the Aloha State for some fun in the sun.",
+    "2":"A headline from a Capitol Hill newspaper declared that our current Congress could be the \"worst ever.\" Another said negotiating political agreements is a \"lost art.\"  The whole country knows something is wrong with our government.  It's time it's shown how to fix it, at least the U.S. Senate."
+  },
+  "authors":{
+    "0":"Ryan Buxton",
+    "1":"Jetsetter.com, ContributorJetsetter.com",
+    "2":"Sen. Mike Enzi, ContributorU.S. Senator from Wyoming"
+  },
+  "date":{
+    "0":"2014-05-09 00:00:00",
+    "1":"2014-05-08 00:00:00",
+    "2":"2014-05-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"---leg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"chn",
+    "2":"usagovleg"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"180",
+    "2":"070"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":-9.0,
+    "2":7.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "mother",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "airlines",
+      "~bus",
+      "~",
+      "beijing",
+      "chn",
+      "china"
+    ],
+    "2":[
+      "legislature",
+      "~leg",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "mother"
+    ],
+    "1":[
+      "airlines",
+      "beijing"
+    ],
+    "2":[
+      "legislature",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "china"
+    ],
+    "2":[
+      "---",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... celebrating"
+    ],
+    "1":[
+      "kicked"
+    ],
+    "2":[
+      "can help"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---bus",
+      "chn",
+      "180"
+    ],
+    "2":[
+      "---leg",
+      "usagovleg",
+      "070"
+    ]
+  }
+}

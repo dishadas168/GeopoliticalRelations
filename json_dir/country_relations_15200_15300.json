@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/man-arrested-over-threats-to-cnn-fake-news-im-coming-to-gun-you-all-down_us_5a675b25e4b0e5630073e4f3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/homeless-will-now-be-asked-are-you-fleeing-domestic_us_5a6215d2e4b02f8c234197ec",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dreamers-senate-democrats_us_5a666995e4b002283005d407"
+  },
+  "headline":{
+    "0":"Man Arrested Over Threats To CNN:  'Fake News. I'm Coming To Gun You All Down.'",
+    "1":"Homeless Will Now Be Asked: Are You Fleeing Domestic Violence?",
+    "2":"Dreamers Feel Betrayed After Senate Democrats Break Their Promises"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"It has been zero days since President Trump last called CNN \"fake news.\"",
+    "1":"For years, advocates have called victims of domestic violence part of the country\u2019s \u201chidden homeless.\u201d But now, for the first",
+    "2":"Many politicians said they wouldn't vote for government funding without protections for undocumented young people, then did it anyway."
+  },
+  "authors":{
+    "0":"Sebastian Murdock",
+    "1":"Stateline, Editorial Partner",
+    "2":"Elise Foley"
+  },
+  "date":{
+    "0":"2018-01-23 00:00:00",
+    "1":"2018-01-22 00:00:00",
+    "2":"2018-01-22 00:00:00"
+  },
+  "actor1":{
+    "0":"med",
+    "1":"---jud",
+    "2":"---pty"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---cvl",
+    "2":"---gov"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"041",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "cnn",
+      "med",
+      "cnn"
+    ],
+    "1":[
+      "advocates",
+      "~jud",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "politicians",
+      "~pty",
+      "~",
+      "government",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cnn",
+      "president",
+      "president",
+      "cnn"
+    ],
+    "1":[
+      "advocates",
+      "victims"
+    ],
+    "2":[
+      "politicians",
+      "government"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "cnn",
+      "---",
+      "---",
+      "cnn"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "have called"
+    ],
+    "2":[
+      "said ... did <vote>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "gender_violence",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "med",
+      "---gov",
+      "041",
+      "---gov",
+      "med",
+      "041"
+    ],
+    "1":[
+      "---jud",
+      "---cvl",
+      "041"
+    ],
+    "2":[
+      "---pty",
+      "---gov",
+      "030"
+    ]
+  }
+}

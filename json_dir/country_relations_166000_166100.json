@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/3-skincare-crimes-i-know_us_5b9cf1a8e4b03a1dcc832618"
+  },
+  "headline":{
+    "0":"3 Skincare Crimes I Know You're Guilty of Committing"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Remember when your mother used to say you're only hurting yourself? That's right. Committing these skincare crimes is just making things worse for your skin. Our poor skin doesn't need a magical elixir or potion; it just needs a little TLC and SPF."
+  },
+  "authors":{
+    "0":"Janna Mandell, Contributor\nFreelance senior beauty writer for San Francisco Chronicle and..."
+  },
+  "date":{
+    "0":"2013-03-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"180"
+  },
+  "goldstein_score":{
+    "0":-9.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "used ... say ... 're ... hurting"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "180"
+    ]
+  }
+}

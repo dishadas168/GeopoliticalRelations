@@ -1,0 +1,279 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/north-korea-focus-of-trump-calls-with-japan-china_us_595a3427e4b02734df336cd4",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-charlie-gard_us_595a5b50e4b05c37bb7f9f13",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/over-120-nations-in-the-un-are-about-to-ban-nuclear_us_595aa2c2e4b0326c0a8d1299",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/maxine-waters-ben-carson_us_595a780de4b0da2c7324e375",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/how-successful-people-overcome-toxic-bosses_us_5952b1fce4b0f078efd9857f",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/stevie-ryan-dead_us_595a7e3ce4b0da2c7324ec23"
+  },
+  "headline":{
+    "0":"North Korea Focus Of Trump Calls With Japan, China",
+    "1":"Donald Trump Tweets U.S. 'Would Be Delighted' To Help Terminally Ill U.K. Infant",
+    "2":"Over 120 Nations At The UN Are About To Ban Nuclear Weapons",
+    "3":"Maxine Waters Says Ben Carson 'Knows Nothing About The Mission Of HUD'",
+    "4":"How Successful People Overcome Toxic Bosses",
+    "5":"YouTube And VH1 Star Stevie Ryan Dead At 33"
+  },
+  "category":{
+    "0":"WORLD NEWS",
+    "1":"POLITICS",
+    "2":"WORLD NEWS",
+    "3":"BLACK VOICES",
+    "4":"BUSINESS",
+    "5":"ENTERTAINMENT"
+  },
+  "short_description":{
+    "0":"They also discussed trade issues.",
+    "1":"Charlie Gard is set to be taken off life support after a lengthy court battle.",
+    "2":"Setsuko Thurlow was thirteen years old when the first atomic bomb ever used on people ripped through Hiroshima, including",
+    "3":"The California representative denounced Trump's \"unqualified, uncaring, inexperienced\" Cabinet members.",
+    "4":"Bad bosses contaminate the workplace. Some do so obliviously, while others smugly manipulate their employees, using them",
+    "5":"The YouTube community paid tribute to the actress on social media."
+  },
+  "authors":{
+    "0":"Jeff Mason, Reuters",
+    "1":"Elise Foley",
+    "2":"Ari Beser, ContributorAri is a National Geographic Storyteller, a Getty Images Contr...",
+    "3":"Lilly Workneh",
+    "4":"Dr. Travis Bradberry, ContributorTalentSmart, President and 'Emotional Intelligence 2.0,' Coauthor",
+    "5":"Cole Delbyck"
+  },
+  "date":{
+    "0":"2017-07-03 00:00:00",
+    "1":"2017-07-03 00:00:00",
+    "2":"2017-07-03 00:00:00",
+    "3":"2017-07-03 00:00:00",
+    "4":"2017-07-03 00:00:00",
+    "5":"2017-07-03 00:00:00"
+  },
+  "actor1":{
+    "0":"jpn",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"usa",
+    "4":"---ppl",
+    "5":"---cvl"
+  },
+  "actor2":{
+    "0":"prk",
+    "1":"gbr",
+    "2":"jpn",
+    "3":"---gov",
+    "4":"---bus",
+    "5":"---med"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"070",
+    "2":"180",
+    "3":"111",
+    "4":"190",
+    "5":"017"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":7.0,
+    "2":-9.0,
+    "3":-2.0,
+    "4":-10.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "north korea",
+      "prk",
+      "north",
+      "korea",
+      "japan",
+      "china",
+      "jpn",
+      "chn",
+      "japan",
+      "china"
+    ],
+    "1":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "hiroshima",
+      "jpn",
+      "japan"
+    ],
+    "3":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "cabinet",
+      "~gov",
+      "~"
+    ],
+    "4":[
+      "people",
+      "~ppl",
+      "~",
+      "bosses",
+      "~bus",
+      "~"
+    ],
+    "5":[
+      "community",
+      "~cvl",
+      "~",
+      "media",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "japan",
+      "north korea",
+      "north korea",
+      "japan",
+      "china",
+      "north korea",
+      "north korea",
+      "china"
+    ],
+    "1":[
+      "u.s.",
+      "<u.k.>"
+    ],
+    "2":[
+      "people",
+      "hiroshima"
+    ],
+    "3":[
+      "california",
+      "cabinet"
+    ],
+    "4":[
+      "people",
+      "bosses"
+    ],
+    "5":[
+      "community",
+      "media"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "japan",
+      "north korea",
+      "north korea",
+      "japan",
+      "china",
+      "north korea",
+      "north korea",
+      "china"
+    ],
+    "1":[
+      "united states of america",
+      "united kingdom"
+    ],
+    "2":[
+      "---",
+      "japan"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls",
+      "calls",
+      "calls"
+    ],
+    "1":[
+      "would ... help"
+    ],
+    "2":[
+      "ripped"
+    ],
+    "3":[
+      "denounced"
+    ],
+    "4":[
+      "overcome"
+    ],
+    "5":[
+      "paid tribute"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "jpn",
+      "prk",
+      "041",
+      "prk",
+      "jpn",
+      "041",
+      "chn",
+      "prk",
+      "041",
+      "prk",
+      "chn",
+      "041"
+    ],
+    "1":[
+      "usa",
+      "gbr",
+      "070"
+    ],
+    "2":[
+      "---ppl",
+      "jpn",
+      "180"
+    ],
+    "3":[
+      "usa",
+      "---gov",
+      "111"
+    ],
+    "4":[
+      "---ppl",
+      "---bus",
+      "190"
+    ],
+    "5":[
+      "---cvl",
+      "---med",
+      "017"
+    ]
+  }
+}

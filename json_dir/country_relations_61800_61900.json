@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brexit-germany-young-politicians_us_57754ab7e4b0bd4b0b13d75e",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/palestinian-kills-teen-girl-settlement_us_57754ab9e4b0bd4b0b13d765",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/puerto-rico-bill_us_5772dfeae4b0352fed3e3776"
+  },
+  "headline":{
+    "0":"After Brexit, Germany\u2019s Young Politicians Call On Youth To Become More Politically Engaged",
+    "1":"Palestinian Teen Kills 13-Year-Old Girl In Israeli Settlement",
+    "2":"As Clock Winds Down, Administration And GOP Leaders Rush To Corral Votes For Puerto Rico Bill"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"Brexit was a wake-up call to everyone -- it proved how fast things that seem self-evident can change.\"",
+    "1":"Her attacker was shot dead by security guards.",
+    "2":"\"The risks of Puerto Rico descending into chaos are very real.\""
+  },
+  "authors":{
+    "0":"J\u00fcrgen Kl\u00f6ckner, HuffPost Germany",
+    "1":"Jeffrey Heller, Reuters",
+    "2":"Laura Barr\u00f3n-L\u00f3pez"
+  },
+  "date":{
+    "0":"2016-06-30 00:00:00",
+    "1":"2016-06-30 00:00:00",
+    "2":"2016-06-29 00:00:00"
+  },
+  "actor1":{
+    "0":"deupty",
+    "1":"pse",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"frareb",
+    "1":"isrcvl",
+    "2":"usapri"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"190",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "germany",
+      "politicians",
+      "deupty",
+      "germany",
+      "~",
+      "youth",
+      "frareb",
+      "gazteriak"
+    ],
+    "1":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "israeli",
+      "settlement",
+      "isrcvl",
+      "israel",
+      "~"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~",
+      "puerto rico",
+      "usapri",
+      "puerto",
+      "rico"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "germany ... politicians",
+      "youth"
+    ],
+    "1":[
+      "palestinian",
+      "israeli settlement"
+    ],
+    "2":[
+      "administration",
+      "puerto rico"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "germany",
+      "gazteriak"
+    ],
+    "1":[
+      "palestine",
+      "israel"
+    ],
+    "2":[
+      "---",
+      "puerto rico"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "call on"
+    ],
+    "1":[
+      "kills"
+    ],
+    "2":[
+      "votes"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "deupty",
+      "frareb",
+      "020"
+    ],
+    "1":[
+      "pse",
+      "isrcvl",
+      "190"
+    ],
+    "2":[
+      "---gov",
+      "usapri",
+      "030"
+    ]
+  }
+}

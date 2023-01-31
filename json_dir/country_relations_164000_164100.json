@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-khan-elkhalili-hustle_us_5b9d0832e4b03a1dcc83e547"
+  },
+  "headline":{
+    "0":"The Khan el-Khalili Hustle"
+  },
+  "category":{
+    "0":"TRAVEL"
+  },
+  "short_description":{
+    "0":"A part of any visit to a poor country like Egypt is aggressive hustling when exploring a tourist market. Cairo's Khan el-Khalili market eagerly awaits your visit. Just so you'll know what to expect, walk with me for a few minutes down its main drag."
+  },
+  "authors":{
+    "0":"Rick Steves, Contributor\nContributor"
+  },
+  "date":{
+    "0":"2013-04-10 00:00:00"
+  },
+  "actor1":{
+    "0":"egy"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"090"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "egypt",
+      "egy",
+      "egypt",
+      "tourist",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "egypt",
+      "tourist"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "egypt",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... exploring"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "egy",
+      "---cvl",
+      "090"
+    ]
+  }
+}

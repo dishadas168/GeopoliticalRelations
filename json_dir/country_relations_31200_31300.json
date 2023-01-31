@@ -1,0 +1,218 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/laughing-jeff-sessions-desiree-fairooz_us_594c1a4de4b01cdedf020398",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/news-roundup-for-june-22-2017_us_594becbde4b07cdb1933c069",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/black-caucus-trump-meeting_us_594ac617e4b0312cfb611119",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/white-house-takes-muslim-travel-ban-to-supreme-court_us_594aaf23e4b01cdedeffc912",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/jeh-johnson-russian-interference-2016-election_us_594a8cbfe4b01cdedeff7b4a"
+  },
+  "headline":{
+    "0":"Woman Convicted After Laughing At Jeff Sessions Asks Judge To Toss Jury Verdict",
+    "1":"News Roundup for June 22, 2017",
+    "2":"Black Caucus Declines Meeting With Trump, Says His Actions Speak Louder Than Words",
+    "3":"White House Takes Muslim Travel Ban To Supreme Court",
+    "4":"Former DHS Secretary: Russian Intrusion In The 2016 Election Is 'A Fact, Plain And Simple'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Desiree Fairooz\u2019s \"brief reflective burst of noise, be it laughter or an audible gasp, clearly cannot sustain a conviction,\" her lawyer writes.",
+    "1":"Most of this news isn\u2019t fit to print. 1. At least 29 people have been killed by a car bomb explosion in Lashkar Gah, Afghanistan",
+    "2":"The president's policies would \"devastate the communities we represent,\" the group said.",
+    "3":"Acting Solicitor General Jeff Wall said the lower courts had wrongly second-guessed the president.",
+    "4":"Jeh Johnson defended the Obama administration's reluctance to go public with its findings amid \"a very heated campaign.\""
+  },
+  "authors":{
+    "0":"Ryan J. Reilly",
+    "1":"Outspeak, ContributorOutspeak\u2122 is the opinion outlet for digital storytellers every...",
+    "2":"Nick Wing",
+    "3":"Lawrence Hurley, Reuters",
+    "4":"Marina Fang"
+  },
+  "date":{
+    "0":"2017-06-22 00:00:00",
+    "1":"2017-06-22 00:00:00",
+    "2":"2017-06-21 00:00:00",
+    "3":"2017-06-21 00:00:00",
+    "4":"2017-06-21 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"afg",
+    "2":"---gov",
+    "3":"usagov",
+    "4":"usagov"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"---ppl",
+    "2":"---cvl",
+    "3":"---mus",
+    "4":"usagov"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"193",
+    "2":"190",
+    "3":"171",
+    "4":"074"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-10.0,
+    "2":-10.0,
+    "3":-9.2,
+    "4":8.5
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~",
+      "judge",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "communities",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "muslim",
+      "~mus",
+      "~",
+      "supreme court",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "jeh johnson",
+      "usagov",
+      "jeh",
+      "johnson",
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "judge"
+    ],
+    "1":[
+      "afghanistan",
+      "people"
+    ],
+    "2":[
+      "president",
+      "communities"
+    ],
+    "3":[
+      "white house",
+      "muslim"
+    ],
+    "4":[
+      "jeh johnson",
+      "jeh johnson"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "afghanistan",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "white house",
+      "---"
+    ],
+    "4":[
+      "jeh johnson",
+      "jeh johnson"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "asks"
+    ],
+    "1":[
+      "<~ppl> ... explosion <killed>"
+    ],
+    "2":[
+      "would ... devastate"
+    ],
+    "3":[
+      "takes"
+    ],
+    "4":[
+      "defended"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "terror",
+      "1"
+    ],
+    "2":null,
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---jud",
+      "020"
+    ],
+    "1":[
+      "afg",
+      "---ppl",
+      "193"
+    ],
+    "2":[
+      "---gov",
+      "---cvl",
+      "190"
+    ],
+    "3":[
+      "usagov",
+      "---mus",
+      "171"
+    ],
+    "4":[
+      "usagov",
+      "usagov",
+      "074"
+    ]
+  }
+}

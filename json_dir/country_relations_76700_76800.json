@@ -1,0 +1,334 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/military-dependents-sexual-assault_us_568a5242e4b0b958f65c0dcd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/armed-takeover-oregon_us_568abc3ce4b0b958f65c4fa8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-heckler-bill-clinton_us_5689f2f3e4b014efe0dad04c",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/isis-libya-oil-tank-attack_us_568a95ade4b06fa68882d9b0",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/erdogan-hitler_us_568ac440e4b014efe0db23d7",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/recall-rahm-emanuel_us_568961ece4b014efe0daba55",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/selfie-stick-space-rocket-debris_us_5689439de4b014efe0dab540",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/greece-refugee-rescue-2016_us_568967bae4b014efe0dabaa5"
+  },
+  "headline":{
+    "0":"U.S. Troops Suspected Of Sexually Assaulting Military Dependents: Report",
+    "1":"'You People Are Clowns': Welcome To The Armed Takeover In Oregon",
+    "2":"Hillary Clinton Will Have None Of Your Heckling",
+    "3":"ISIS Launches Attack On Oil Terminal In Libya",
+    "4":"Turkish Presidency Says Erdogan's Hitler Comments Misinterpreted",
+    "5":"Illinois Considers Allowing Recall Attempts Of Chicago Mayor",
+    "6":"Space Junk Soars Across Sky In Video Filmed Using Selfie Stick",
+    "7":"Over 200 Refugees And Migrants Rescued Off Greece Amid Rough Seas"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"POLITICS",
+    "6":"SCIENCE",
+    "7":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"For a profession that prides itself on honor and discipline, any episodes of abuse cast a pall.",
+    "1":"Some of the citizens of Burns back the militants who've occupied a federal building there since Saturday.",
+    "2":"A state GOP lawmaker tried to confront the presidential frontrunner about Bill Clinton's assault allegations.",
+    "3":"The Islamic State militant group has taken advantage of Libya's security vacuum to grab territory.",
+    "4":"Erdogan made the comment to reporters on Friday.",
+    "5":"Illinois state law currently addresses only the recall of a governor.",
+    "6":"Debris from a Russian rocket caused the spectacular sight, says scientist.",
+    "7":"One boy died in the first casualty of the boat crossings in 2016."
+  },
+  "authors":{
+    "0":"RICHARD LARDNER, EILEEN SULLIVAN and MEGHAN HOYER, AP",
+    "1":"Dana Liebelson",
+    "2":"Kelly Chen",
+    "3":"",
+    "4":"",
+    "5":"Ivan Moreno, Associated Press",
+    "6":"Lee Moran",
+    "7":""
+  },
+  "date":{
+    "0":"2016-01-04 00:00:00",
+    "1":"2016-01-04 00:00:00",
+    "2":"2016-01-04 00:00:00",
+    "3":"2016-01-04 00:00:00",
+    "4":"2016-01-04 00:00:00",
+    "5":"2016-01-03 00:00:00",
+    "6":"2016-01-03 00:00:00",
+    "7":"2016-01-03 00:00:00"
+  },
+  "actor1":{
+    "0":"---mil",
+    "1":"---cvl",
+    "2":"---leg",
+    "3":"---uaf",
+    "4":"tur",
+    "5":"usa",
+    "6":"rus",
+    "7":"---cvl"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"---uaf",
+    "2":"usaeli",
+    "3":"lby",
+    "4":"turgov",
+    "5":"---gov",
+    "6":"---cvl",
+    "7":"grc"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"050",
+    "2":"040",
+    "3":"171",
+    "4":"010",
+    "5":"010",
+    "6":"010",
+    "7":"073"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.5,
+    "2":1.0,
+    "3":-9.2,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0,
+    "7":7.4
+  },
+  "nouns":{
+    "0":[
+      "troops",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "citizens",
+      "~cvl",
+      "~",
+      "citizens",
+      "~cvl",
+      "~",
+      "militants",
+      "~uaf",
+      "~"
+    ],
+    "2":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton"
+    ],
+    "3":[
+      "militant",
+      "~uaf",
+      "~",
+      "libya",
+      "lby",
+      "libya"
+    ],
+    "4":[
+      "turkish",
+      "tur",
+      "turkey",
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan"
+    ],
+    "5":[
+      "illinois",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "governor",
+      "~gov",
+      "~",
+      "governor",
+      "~gov",
+      "~"
+    ],
+    "6":[
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "russian",
+      "rus",
+      "russian",
+      "federation",
+      "scientist",
+      "~cvl",
+      "~"
+    ],
+    "7":[
+      "migrants",
+      "~cvl",
+      "~",
+      "greece",
+      "grc",
+      "greece"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "troops",
+      "troops"
+    ],
+    "1":[
+      "citizens",
+      "militants"
+    ],
+    "2":[
+      "lawmaker",
+      "bill clinton"
+    ],
+    "3":[
+      "militant",
+      "libya"
+    ],
+    "4":[
+      "turkish",
+      "erdogan"
+    ],
+    "5":[
+      "illinois",
+      "governor"
+    ],
+    "6":[
+      "russian",
+      "scientist"
+    ],
+    "7":[
+      "migrants",
+      "greece"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "bill clinton"
+    ],
+    "3":[
+      "---",
+      "libya"
+    ],
+    "4":[
+      "turkey",
+      "recep tayyip erdogan"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "russian federation",
+      "---"
+    ],
+    "7":[
+      "---",
+      "greece"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "suspected"
+    ],
+    "1":[
+      "back"
+    ],
+    "2":[
+      "tried ... confront"
+    ],
+    "3":[
+      "has taken"
+    ],
+    "4":[
+      "says"
+    ],
+    "5":[
+      "addresses"
+    ],
+    "6":[
+      "says"
+    ],
+    "7":[
+      "rescued"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":[
+      "refugees",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---mil",
+      "---mil",
+      "110"
+    ],
+    "1":[
+      "---cvl",
+      "---uaf",
+      "050"
+    ],
+    "2":[
+      "---leg",
+      "usaeli",
+      "040"
+    ],
+    "3":[
+      "---uaf",
+      "lby",
+      "171"
+    ],
+    "4":[
+      "tur",
+      "turgov",
+      "010"
+    ],
+    "5":[
+      "usa",
+      "---gov",
+      "010"
+    ],
+    "6":[
+      "rus",
+      "---cvl",
+      "010"
+    ],
+    "7":[
+      "---cvl",
+      "grc",
+      "073"
+    ]
+  }
+}

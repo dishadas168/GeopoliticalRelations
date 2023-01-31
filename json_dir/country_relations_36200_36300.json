@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mandatory-high-heels_us_58ff415ae4b0c46f0782274c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chobani-sues-alex-jones-fake-news_us_58feaec6e4b06b9cb9198b65",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mike-enzi-tutu-bar_us_58ff9d28e4b091e8c710f23d"
+  },
+  "headline":{
+    "0":"U.K. Rejects Petition Protecting Women From Being Forced To Wear Heels At Work",
+    "1":"Chobani Sues Alex Jones For Posting Vicious Fake News Stories",
+    "2":"Sen. Mike Enzi: A Guy Who Wears A Tutu To A Bar 'Kind Of Asks For It'"
+  },
+  "category":{
+    "0":"STYLE",
+    "1":"BUSINESS",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Bloody hell.",
+    "1":"The yogurt company says the falsified reports led to customers' calls to boycott their products.",
+    "2":"The Wyoming senator was speaking to a group of high school and middle school students."
+  },
+  "authors":{
+    "0":"Jamie Feldman",
+    "1":"Rebecca Shapiro",
+    "2":"Ryan Grim and Amanda Terkel"
+  },
+  "date":{
+    "0":"2017-04-25 00:00:00",
+    "1":"2017-04-25 00:00:00",
+    "2":"2017-04-25 00:00:00"
+  },
+  "actor1":{
+    "0":"gbr",
+    "1":"---bus",
+    "2":"usaleg"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"042",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":1.9,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "customers",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "wyoming",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.k.",
+      "women"
+    ],
+    "1":[
+      "company",
+      "customers"
+    ],
+    "2":[
+      "wyoming senator",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united kingdom",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "protecting"
+    ],
+    "1":[
+      "says ... led to"
+    ],
+    "2":[
+      "was speaking"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "schools",
+      "2",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "gbr",
+      "---cvl",
+      "074"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "042"
+    ],
+    "2":[
+      "usaleg",
+      "---edu",
+      "010"
+    ]
+  }
+}

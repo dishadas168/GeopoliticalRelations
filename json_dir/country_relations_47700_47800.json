@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/simi-valley-mosque-stabbing_us_584e030ce4b0bd9c3dfd4cfb",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/chaka-fattah-sentenced-fraud_us_584ecfcae4b04c8e2bb0b54b"
+  },
+  "headline":{
+    "0":"Man Jailed in Suspected Hate Crime After Mosque Worshiper Is Stabbed in California",
+    "1":"Former Pennsylvania Congressman Sentenced To 10 Years In Prison"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"He allegedly attacked a Muslim in a scuffle outside Simi Valley Islamic center.",
+    "1":"Chaka Fattah was convicted in June on more than 20 counts of racketeering, bribery and fraud."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Joseph Ax, Reuters"
+  },
+  "date":{
+    "0":"2016-12-12 00:00:00",
+    "1":"2016-12-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usaleg"
+  },
+  "actor2":{
+    "0":"---rel",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"182",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":-9.5,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "worshiper",
+      "~rel",
+      "~",
+      "man",
+      "worshiper",
+      "~rel",
+      "~",
+      "~",
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "pennsylvania",
+      "congressman",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "worshiper"
+    ],
+    "1":[
+      "pennsylvania congressman",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<~rel> ... stabbed in <usa>"
+    ],
+    "1":[
+      "sentenced"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---rel",
+      "182"
+    ],
+    "1":[
+      "usaleg",
+      "---cop",
+      "172"
+    ]
+  }
+}

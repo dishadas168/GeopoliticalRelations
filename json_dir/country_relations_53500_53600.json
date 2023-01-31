@@ -1,0 +1,264 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ronny-chieng-jesse-watters_us_57f71c29e4b068ecb5dd8d56",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/texas-syrian-refugees_us_57f80297e4b0e655eab4189b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/us-formally-accuses-russia-of-cyber-attacks-against-democratic-party-groups_us_57f7fae4e4b0b6a43031fa14",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/mall-of-america-closed-thanksgiving-day_us_57f67c7fe4b0263f500e2991",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/fusion-management-union_us_57f67fdee4b0c1a524cbc65e",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/supreme-court-merrick-garland-senate_us_57f6b46be4b0c1a524cc1952"
+  },
+  "headline":{
+    "0":"'Daily Show' Correspondent Blasts Fox News Reporter's Racist Chinatown Segment",
+    "1":"Texas Drops Losing Fight Against Resettling Syrian Refugees",
+    "2":"U.S. Formally Accuses Russia Of Cyber Attacks Against Democratic Party Groups",
+    "3":"America's Biggest Mall Will Close On Thanksgiving So People Can Be With Family",
+    "4":"Fusion Staff Pushes Back Against Management Opposition To Union Drive",
+    "5":"Supreme Court Refuses To Tell The Senate To Do Its Job, While Merrick Garland Just Waits"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"GOOD NEWS",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"For once, Chinese government censorship is a good thing.",
+    "1":"The surrender comes days after an appeals court chastised Indiana Gov. Mike Pence over a similar policy.",
+    "2":"By Jonathan Landay and Mark Hosenball WASHINGTON (Reuters) - The U.S. government on Friday formally accused Russia of a campaign",
+    "3":"The Mall of America wants to \"give this day back\" to its workers.",
+    "4":"The news outlet's executives plan to try to persuade employees not to unionize.",
+    "5":"It's not really the court's job to intervene in this political fight."
+  },
+  "authors":{
+    "0":"David Moye",
+    "1":"Cristian Farias",
+    "2":"Jonathan Landay and Mark Hosenball, Reuters",
+    "3":"Elyse Wanshel",
+    "4":"Daniel Marans",
+    "5":"Cristian Farias"
+  },
+  "date":{
+    "0":"2016-10-07 00:00:00",
+    "1":"2016-10-07 00:00:00",
+    "2":"2016-10-07 00:00:00",
+    "3":"2016-10-06 00:00:00",
+    "4":"2016-10-06 00:00:00",
+    "5":"2016-10-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---jud",
+    "2":"med",
+    "3":"usa",
+    "4":"---med",
+    "5":"---jud"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"usa",
+    "2":"rus",
+    "3":"---lab",
+    "4":"---lab",
+    "5":"usagovleg"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"111",
+    "2":"112",
+    "3":"031",
+    "4":"032",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-2.0,
+    "2":-2.0,
+    "3":5.2,
+    "4":4.5,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "correspondent",
+      "~med",
+      "~",
+      "reporter",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "appeals court",
+      "~jud",
+      "~",
+      "indiana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "u.s.",
+      "government",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "reuters",
+      "med",
+      "reuters",
+      "russia",
+      "rus",
+      "russian",
+      "federation"
+    ],
+    "3":[
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "4":[
+      "news outlet",
+      "~med",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "5":[
+      "supreme court",
+      "~jud",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "correspondent",
+      "correspondent"
+    ],
+    "1":[
+      "appeals court",
+      "indiana"
+    ],
+    "2":[
+      "reuters",
+      "russia"
+    ],
+    "3":[
+      "america",
+      "workers"
+    ],
+    "4":[
+      "news outlet",
+      "employees"
+    ],
+    "5":[
+      "supreme court",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "reuters",
+      "russian federation"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "---",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blasts"
+    ],
+    "1":[
+      "chastised"
+    ],
+    "2":[
+      "accused"
+    ],
+    "3":[
+      "wants ... give"
+    ],
+    "4":[
+      "plan ... persuade"
+    ],
+    "5":[
+      "refuses ... tell"
+    ]
+  },
+  "issues":{
+    "0":[
+      "discrimination",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "190"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "111"
+    ],
+    "2":[
+      "med",
+      "rus",
+      "112"
+    ],
+    "3":[
+      "usa",
+      "---lab",
+      "031"
+    ],
+    "4":[
+      "---med",
+      "---lab",
+      "032"
+    ],
+    "5":[
+      "---jud",
+      "usagovleg",
+      "010"
+    ]
+  }
+}

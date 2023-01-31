@@ -1,0 +1,346 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-email-lynch_us_577d814de4b0c590f7e7ef41",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-troops-afghanistan-8400_us_577d1c05e4b0a629c1ab6518",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/les-cuistots-migrateurs-migrant-cooks-france-paris-refugees-catering_us_577d42e6e4b0a629c1ab8aaa",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/paris-attacker-brother-jailed_us_577d012be4b09b4c43c19d30",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/huffpost-hill-sanders-campaign-forming-into-flying-v-in-last-ditch-attempt-to-win-nomination_us_577c262de4b041646411079a",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/planned-parenthood-kansas-medicaid_us_577c42dfe4b0416464111958",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/hillary-clinton-fbi-markets-rise_us_577c02dde4b09b4c43c14f59",
+    "7":"https:\/\/www.huffingtonpost.com\/entry\/ron-johnson-russ-feingold-wisconsin-senate_us_577c1fb4e4b0a629c1ab163d"
+  },
+  "headline":{
+    "0":"Hillary Clinton Email Investigation Brings No Charges: Attorney General Loretta Lynch",
+    "1":"Obama Again Extends Troop Presence In Afghanistan",
+    "2":"French Catering Company Employs Refugees To Cook Their Native Foods",
+    "3":"Paris Attacker's Brother Sentenced To 9 Years In Prison",
+    "4":"HUFFPOST HILL - Sanders Campaign Forming Into Flying V In Last Ditch Attempt To Win Nomination",
+    "5":"Judge Blocks Kansas' Attempt To Cut Planned Parenthood From Medicaid",
+    "6":"Bad News For Trump Is Good News For The Stock Market",
+    "7":"GOP Senator Won't Tell Voters How He Feels About Divisive Issue Until After The Election"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"IMPACT",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"POLITICS",
+    "6":"BUSINESS",
+    "7":"POLITICS"
+  },
+  "short_description":{
+    "0":"The FBI advised against criminal charges for Clinton over her use of private email servers as Secretary of State.",
+    "1":"The president said 8,400 troops will be there when he leaves office.",
+    "2":"\"People need to realize that refugees are here, around us, and they\u2019re people just like us, trying to build a life.\u201d",
+    "3":"A Paris court found him guilty of training with ISIS in Syria.",
+    "4":"FBI Director James Comey advised the DOJ against prosecuting Hillary Clinton, effectively thwacking the former secretary",
+    "5":"July 5 (Reuters) - A federal judge on Tuesday blocked Kansas Governor Sam Brownback's efforts to remove Planned Parenthood",
+    "6":"There was a slight bump in the S&P 500 as the FBI director announced the findings of an investigation into Hillary Clinton's personal email use.",
+    "7":"Sen. Ron Johnson (R-Wis.) is trailing his Democratic opponent Russ Feingold in the polls."
+  },
+  "authors":{
+    "0":"",
+    "1":"Jessica Schulberg",
+    "2":"Sarah Ruiz-Grossman",
+    "3":"",
+    "4":"Eliot Nelson",
+    "5":"",
+    "6":"Ben Walsh",
+    "7":"Marina Fang"
+  },
+  "date":{
+    "0":"2016-07-06 00:00:00",
+    "1":"2016-07-06 00:00:00",
+    "2":"2016-07-06 00:00:00",
+    "3":"2016-07-06 00:00:00",
+    "4":"2016-07-05 00:00:00",
+    "5":"2016-07-05 00:00:00",
+    "6":"2016-07-05 00:00:00",
+    "7":"2016-07-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usacop",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"fra",
+    "4":"usacop",
+    "5":"---jud",
+    "6":"usacop",
+    "7":"---leg"
+  },
+  "actor2":{
+    "0":"usagovcrm",
+    "1":"---mil",
+    "2":"---ref",
+    "3":"---cop",
+    "4":"usagov",
+    "5":"usagov",
+    "6":"usaeli",
+    "7":"---cvl"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"010",
+    "2":"100",
+    "3":"172",
+    "4":"020",
+    "5":"170",
+    "6":"010",
+    "7":"010"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":-5.0,
+    "4":3.0,
+    "5":-7.0,
+    "6":0.0,
+    "7":0.0
+  },
+  "nouns":{
+    "0":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "criminal",
+      "~crm",
+      "~",
+      "secretary of state",
+      "usagov",
+      "the",
+      "us",
+      "secretary",
+      "of",
+      "state"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "troops",
+      "~mil",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "refugees",
+      "~ref",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "paris",
+      "fra",
+      "france",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "4":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "doj",
+      "usagov",
+      "united",
+      "states",
+      "department",
+      "of",
+      "justice"
+    ],
+    "5":[
+      "federal judge",
+      "~jud",
+      "~",
+      "kansas",
+      "governor",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "6":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "7":[
+      "senator",
+      "~leg",
+      "~",
+      "voters",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "fbi",
+      "---"
+    ],
+    "1":[
+      "president",
+      "troops"
+    ],
+    "2":[
+      "people",
+      "refugees"
+    ],
+    "3":[
+      "paris",
+      "prison"
+    ],
+    "4":[
+      "fbi",
+      "doj"
+    ],
+    "5":[
+      "federal judge",
+      "kansas governor"
+    ],
+    "6":[
+      "fbi",
+      "hillary clinton"
+    ],
+    "7":[
+      "senator",
+      "voters"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "federal bureau of investigation",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "france",
+      "---"
+    ],
+    "4":[
+      "federal bureau of investigation",
+      "united states department of justice"
+    ],
+    "5":[
+      "---",
+      "united states of america"
+    ],
+    "6":[
+      "federal bureau of investigation",
+      "hillary clinton"
+    ],
+    "7":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "advised"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "sentenced"
+    ],
+    "4":[
+      "advised"
+    ],
+    "5":[
+      "blocked"
+    ],
+    "6":[
+      "announced"
+    ],
+    "7":[
+      "wo ... tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "refugees",
+      "1"
+    ],
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null
+  },
+  "events":{
+    "0":[
+      "usacop",
+      "usagovcrm",
+      "020"
+    ],
+    "1":[
+      "---gov",
+      "---mil",
+      "010"
+    ],
+    "2":[
+      "---ppl",
+      "---ref",
+      "100"
+    ],
+    "3":[
+      "fra",
+      "---cop",
+      "172"
+    ],
+    "4":[
+      "usacop",
+      "usagov",
+      "020"
+    ],
+    "5":[
+      "---jud",
+      "usagov",
+      "170"
+    ],
+    "6":[
+      "usacop",
+      "usaeli",
+      "010"
+    ],
+    "7":[
+      "---leg",
+      "---cvl",
+      "010"
+    ]
+  }
+}

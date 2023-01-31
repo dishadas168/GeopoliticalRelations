@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/it-could-have-been-my-boy_us_5b9d1230e4b03a1dcc84474a"
+  },
+  "headline":{
+    "0":"It Could Have Been My Boy"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"The events of recent months tell us we must all do that, no matter how incorrect the social scientists believe such behavior to be. Every mother must ask herself -- do I really know my child? Do I understand how he spends his time, what he needs, whether he is masking some hidden hurt?"
+  },
+  "authors":{
+    "0":"Jeanne Allen, Contributor\nEducation Maven, Expert and Entrepreneur"
+  },
+  "date":{
+    "0":"2013-04-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "must ask"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "020"
+    ]
+  }
+}

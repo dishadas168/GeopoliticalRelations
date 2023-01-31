@@ -1,0 +1,196 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/steve-king-sotu-aborted-babies_us_56955890e4b09dbb4bacd913",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-could-crack-down-on-dark-money-in-tonights-state-of-the-union-speech_us_56952bcde4b09dbb4baca82a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/constable-serving-eviction-order-kills-12-year-old-girl_us_5695570ee4b05b3245daaf61",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/unearned-medals-is-free-speech_us_569532e5e4b09dbb4bacaeda"
+  },
+  "headline":{
+    "0":"Steve King Dedicates Empty Seat At State Of The Union Speech To 'Aborted Babies'",
+    "1":"The Big Thing Obama Probably Won't Do In His Last SOTU Speech",
+    "2":"Constable Serving Eviction Order Kills 12-Year-Old Girl",
+    "3":"Wearing Unearned Military Medals Is Free Speech Right: U.S. Court"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"The congressman called Obama \"most pro-abortion president ever.\"",
+    "1":"Campaign finance reformers want the president to crack down on dark money, but they don't have high hopes.",
+    "2":"State police say the constable fired one shot at an armed man. The bullet passed through the man's arm and hit his daughter.",
+    "3":"The appeals court's decision overturns an Idaho man's conviction for violating the Stolen Valor Act."
+  },
+  "authors":{
+    "0":"Igor Bobic",
+    "1":"Paul Blumenthal",
+    "2":"",
+    "3":""
+  },
+  "date":{
+    "0":"2016-01-12 00:00:00",
+    "1":"2016-01-12 00:00:00",
+    "2":"2016-01-12 00:00:00",
+    "3":"2016-01-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---opp",
+    "2":"---cop",
+    "3":"---jud"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"---gov",
+    "2":"---ppl",
+    "3":"usappl"
+  },
+  "event_code":{
+    "0":"041",
+    "1":"030",
+    "2":"015",
+    "3":"1241"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":4.0,
+    "2":0.0,
+    "3":null
+  },
+  "nouns":{
+    "0":[
+      "congressman",
+      "~leg",
+      "~",
+      "obama",
+      "president",
+      "usagov",
+      "barack",
+      "obama",
+      "~"
+    ],
+    "1":[
+      "reformers",
+      "~opp",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "police",
+      "~cop",
+      "~",
+      "constable",
+      "~cop",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "appeals court",
+      "~jud",
+      "~",
+      "idaho",
+      "man",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama ... president",
+      "congressman",
+      "congressman",
+      "obama ... president"
+    ],
+    "1":[
+      "reformers",
+      "president"
+    ],
+    "2":[
+      "police",
+      "man"
+    ],
+    "3":[
+      "appeals court",
+      "idaho man"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---",
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called",
+      "called"
+    ],
+    "1":[
+      "want"
+    ],
+    "2":[
+      "say ... fired"
+    ],
+    "3":[
+      "overturns ... conviction"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "2"
+    ],
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---leg",
+      "041",
+      "---leg",
+      "usagov",
+      "041"
+    ],
+    "1":[
+      "---opp",
+      "---gov",
+      "030"
+    ],
+    "2":[
+      "---cop",
+      "---ppl",
+      "015"
+    ],
+    "3":[
+      "---jud",
+      "usappl",
+      "1241"
+    ]
+  }
+}

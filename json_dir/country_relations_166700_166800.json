@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/an-imbibers-guide-to-texa_us_5b9ceb27e4b03a1dcc82f0c7"
+  },
+  "headline":{
+    "0":"An Imbiber's Guide to Texas"
+  },
+  "category":{
+    "0":"FOOD & DRINK"
+  },
+  "short_description":{
+    "0":"Texas' beer, wine, coffee and cocktail cultures are bigger than ever. The Texas Issue celebrates the people, places and flavors that make the Lone Star State one hot drinking destination to explore right now."
+  },
+  "authors":{
+    "0":"Tracy Howard, Contributor\nImbibe Magazine"
+  },
+  "date":{
+    "0":"2013-03-12 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"051"
+  },
+  "goldstein_score":{
+    "0":3.4
+  },
+  "nouns":{
+    "0":[
+      "texas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "texas",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "celebrates"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "051"
+    ]
+  }
+}

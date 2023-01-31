@@ -1,0 +1,356 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/last-soldier-to-leave-afghanistan_n_612d99dae4b0231e369f6c93",
+    "1":"https:\/\/www.huffpost.com\/entry\/last-soldier-to-leave-afghanistan_n_612d99dae4b0231e369f6c93",
+    "2":"https:\/\/www.huffpost.com\/entry\/georgia-professor-quits-mask-irwin-bernstein_n_612c0d08e4b02be25b5d456c",
+    "3":"https:\/\/www.huffpost.com\/entry\/steve-lynch-gop-candidate-force-school-board-mask-mandates_n_612d3b7ae4b0f562f3e13b0a",
+    "4":"https:\/\/www.huffpost.com\/entry\/24-gazans-wounded-israel_n_6121b23fe4b0caf7ce313c10",
+    "5":"https:\/\/www.huffpost.com\/entry\/salem-witch-pardon-effort_n_611e224de4b0c69681053067",
+    "6":"https:\/\/www.huffpost.com\/entry\/malala-yousafzai-afghanistan-taliban_n_6119af3be4b0454ed70ef11b",
+    "7":"https:\/\/www.huffpost.com\/entry\/malala-yousafzai-afghanistan-taliban_n_6119af3be4b0454ed70ef11b"
+  },
+  "headline":{
+    "0":"U.S. Military Releases Haunting Image Of Last Soldier To Leave Afghanistan",
+    "1":"U.S. Military Releases Haunting Image Of Last Soldier To Leave Afghanistan",
+    "2":"Georgia Professor Quits During Class After Student Defies His Mask Policy",
+    "3":"GOP Candidate Suggests Forcibly Removing School Board Members Over Mask Mandates",
+    "4":"Israeli Military Wounds 24 Palestinians In Gaza Clash",
+    "5":"8th-Graders Lead Effort To Clear The Name Of Wrongly Convicted Salem 'Witch'",
+    "6":"Malala Yousafzai 'Deeply Worried About Women, Minorities' As Taliban Takes Kabul",
+    "7":"Malala Yousafzai 'Deeply Worried About Women, Minorities' As Taliban Takes Kabul"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"WORLD NEWS",
+    "5":"U.S. NEWS",
+    "6":"WORLD NEWS",
+    "7":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"Maj. Gen. Christopher Donahue was photographed boarding the last Air Force C-17 to leave Kabul.",
+    "1":"Maj. Gen. Christopher Donahue was photographed boarding the last Air Force C-17 to leave Kabul.",
+    "2":"The University of Georgia professor reportedly informed the student he had underlying health conditions and could die from COVID-19.",
+    "3":"Pennsylvania's Steve Lynch told a crowd this weekend, \u201cI'm going in with 20 strong men and I'm gonna give them an option \u2014 they can leave or they can be removed.\"",
+    "4":"Israel forces shot a 13-year-old boy in the head. Palestinian gunfire also critically wounded an Israeli police officer.",
+    "5":"A woman convicted of witchcraft in 1693 and sentenced to death at the height of the Salem Witch Trials may finally be exonerated in Massachusetts.",
+    "6":"The activist, who survived a Taliban attack, called for urgent humanitarian aid to Afghanistan.",
+    "7":"The activist, who survived a Taliban attack, called for urgent humanitarian aid to Afghanistan."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Ed Mazza",
+    "2":"Josephine Harvey",
+    "3":"David Moye",
+    "4":"WAFAA SHURAFA, AP",
+    "5":"William J. Kole, AP",
+    "6":"Josephine Harvey",
+    "7":"Josephine Harvey"
+  },
+  "date":{
+    "0":"2021-08-31 00:00:00",
+    "1":"2021-08-31 00:00:00",
+    "2":"2021-08-30 00:00:00",
+    "3":"2021-08-30 00:00:00",
+    "4":"2021-08-22 00:00:00",
+    "5":"2021-08-19 00:00:00",
+    "6":"2021-08-16 00:00:00",
+    "7":"2021-08-16 00:00:00"
+  },
+  "actor1":{
+    "0":"usamil",
+    "1":"---mil",
+    "2":"geoedu",
+    "3":"usa",
+    "4":"pse",
+    "5":"usa",
+    "6":"afgreb",
+    "7":"---opp"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"afg",
+    "2":"---edu",
+    "3":"---ppl",
+    "4":"isrcop",
+    "5":"---cvl",
+    "6":"afg",
+    "7":"afg"
+  },
+  "event_code":{
+    "0":"084",
+    "1":"040",
+    "2":"010",
+    "3":"040",
+    "4":"180",
+    "5":"081",
+    "6":"171",
+    "7":"020"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":1.0,
+    "2":0.0,
+    "3":1.0,
+    "4":-9.0,
+    "5":5.0,
+    "6":-9.2,
+    "7":3.0
+  },
+  "nouns":{
+    "0":[
+      "u.s. military",
+      "usamil",
+      "united",
+      "states",
+      "military",
+      "soldier",
+      "~mil",
+      "~",
+      "soldier",
+      "~mil",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "1":[
+      "maj.",
+      "gen.",
+      "~mil",
+      "~",
+      "~",
+      "kabul",
+      "afg",
+      "afghanistan"
+    ],
+    "2":[
+      "georgia",
+      "professor",
+      "geoedu",
+      "georgia",
+      "~",
+      "university",
+      "geoedu",
+      "~",
+      "student",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "4":[
+      "palestinian",
+      "pse",
+      "palestine",
+      "israeli",
+      "police officer",
+      "isrcop",
+      "israel",
+      "~"
+    ],
+    "5":[
+      "woman",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~",
+      "massachusetts",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "6":[
+      "taliban",
+      "afgreb",
+      "taliban",
+      "kabul",
+      "afg",
+      "afghanistan"
+    ],
+    "7":[
+      "activist",
+      "~opp",
+      "~",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s. military",
+      "soldier"
+    ],
+    "1":[
+      "maj. gen.",
+      "kabul"
+    ],
+    "2":[
+      "georgia professor",
+      "student"
+    ],
+    "3":[
+      "pennsylvania",
+      "men"
+    ],
+    "4":[
+      "palestinian",
+      "israeli police officer"
+    ],
+    "5":[
+      "massachusetts",
+      "woman"
+    ],
+    "6":[
+      "taliban",
+      "kabul"
+    ],
+    "7":[
+      "activist",
+      "afghanistan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states military",
+      "---"
+    ],
+    "1":[
+      "---",
+      "afghanistan"
+    ],
+    "2":[
+      "georgia",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "palestine",
+      "israel"
+    ],
+    "5":[
+      "united states of america",
+      "---"
+    ],
+    "6":[
+      "taliban",
+      "afghanistan"
+    ],
+    "7":[
+      "---",
+      "afghanistan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "releases"
+    ],
+    "1":[
+      "was ... leave"
+    ],
+    "2":[
+      "informed"
+    ],
+    "3":[
+      "told ... going"
+    ],
+    "4":[
+      "wounded"
+    ],
+    "5":[
+      "<~cvl> ... exonerated in <usa>"
+    ],
+    "6":[
+      "takes"
+    ],
+    "7":[
+      "called for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "postsecondary_education",
+      "2",
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "security_services",
+      "1"
+    ],
+    "5":null,
+    "6":[
+      "named_terror_group",
+      "1"
+    ],
+    "7":[
+      "activism",
+      "1",
+      "named_terror_group",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usamil",
+      "---mil",
+      "084"
+    ],
+    "1":[
+      "---mil",
+      "afg",
+      "040"
+    ],
+    "2":[
+      "geoedu",
+      "---edu",
+      "010"
+    ],
+    "3":[
+      "usa",
+      "---ppl",
+      "040"
+    ],
+    "4":[
+      "pse",
+      "isrcop",
+      "180"
+    ],
+    "5":[
+      "usa",
+      "---cvl",
+      "081"
+    ],
+    "6":[
+      "afgreb",
+      "afg",
+      "171"
+    ],
+    "7":[
+      "---opp",
+      "afg",
+      "020"
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/philippine-president-duterte-us-separation_us_58089881e4b0180a36e9646f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/turkish-airstrikes-kurdish-ypg-militia_us_580887f5e4b0180a36e95c06",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/transgender-bathroom-school-lawsuit_us_5807d140e4b0180a36e86a44",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/harry-reid-donald-trump_us_5807c76de4b0dd54ce372e25",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/gunman-kills-two-american-advisors-in-kabul-shooting_us_580788fee4b0dd54ce369996"
+  },
+  "headline":{
+    "0":"Philippine President Duterte Announces 'Separation' From The U.S.",
+    "1":"Turkish Airstrikes On U.S.-Backed Kurdish Militia Kill Up to 200 In Syria",
+    "2":"Religious Group Loses Bid To Bar Trans Students From School Bathrooms",
+    "3":"Harry Reid Gives Republicans A \ud83c\udf2eing-To For Creating Donald Trump",
+    "4":"Gunman Kills At Least Two American Advisers In Kabul Shooting"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"QUEER VOICES",
+    "3":"POLITICS",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"\u201cAmerica has lost now,\u201d Rodrigo Duterte said, flagging closer ties with China and Russia during a visit to Beijing.",
+    "1":"The jets targeted the Kurdish-led Syrian Democratic Forces in three villages northeast of Aleppo, which the SDF had captured from the Islamic State.",
+    "2":"A federal judge denied an injunction sought by parents of students claiming a constitutional right to privacy.",
+    "3":"The Senate minority leader held his press conference at a Mexican restaurant outside Las Vegas.",
+    "4":"He was then killed."
+  },
+  "authors":{
+    "0":"",
+    "1":"Ece Toksabay and Angus McDowall, Reuters",
+    "2":"Timothy Mclaughlin, Reuters",
+    "3":"Amanda Terkel",
+    "4":""
+  },
+  "date":{
+    "0":"2016-10-20 00:00:00",
+    "1":"2016-10-20 00:00:00",
+    "2":"2016-10-19 00:00:00",
+    "3":"2016-10-19 00:00:00",
+    "4":"2016-10-19 00:00:00"
+  },
+  "actor1":{
+    "0":"phlgov",
+    "1":"turuaf",
+    "2":"---jud",
+    "3":"usagovleg",
+    "4":"---uaf"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"syr",
+    "2":"---edu",
+    "3":"mex",
+    "4":"usa"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190",
+    "2":"030",
+    "3":"040",
+    "4":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":1.0,
+    "4":-10.0
+  },
+  "nouns":{
+    "0":[
+      "philippine",
+      "president",
+      "phlgov",
+      "philippines",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "militia",
+      "~uaf",
+      "~",
+      "turkish",
+      "militia",
+      "turuaf",
+      "turkey",
+      "~",
+      "syria",
+      "syr",
+      "syria"
+    ],
+    "2":[
+      "federal judge",
+      "~jud",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "3":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "mexican",
+      "mex",
+      "mexico",
+      "las vegas",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "4":[
+      "gunman",
+      "~uaf",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "kabul",
+      "afg",
+      "afghanistan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "philippine president",
+      "<u.s.>"
+    ],
+    "1":[
+      "turkish ... militia",
+      "syria"
+    ],
+    "2":[
+      "federal judge",
+      "students"
+    ],
+    "3":[
+      "senate",
+      "mexican",
+      "senate",
+      "las vegas"
+    ],
+    "4":[
+      "gunman",
+      "american"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "philippines",
+      "united states of america"
+    ],
+    "1":[
+      "turkey",
+      "syria"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united states congress",
+      "mexico",
+      "united states congress",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "announces"
+    ],
+    "1":[
+      "kill"
+    ],
+    "2":[
+      "denied ... sought"
+    ],
+    "3":[
+      "held ... conference",
+      "held ... conference"
+    ],
+    "4":[
+      "kills"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "airstrike",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "phlgov",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "turuaf",
+      "syr",
+      "190"
+    ],
+    "2":[
+      "---jud",
+      "---edu",
+      "030"
+    ],
+    "3":[
+      "usagovleg",
+      "mex",
+      "040",
+      "usagovleg",
+      "usa",
+      "040"
+    ],
+    "4":[
+      "---uaf",
+      "usa",
+      "190"
+    ]
+  }
+}

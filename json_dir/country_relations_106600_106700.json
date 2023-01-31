@@ -1,0 +1,220 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/protecting-freedom-of-exp_b_6450760.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-white-educators-can-_b_6451484.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/a-million-thanks-for-mill_b_6453066.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/the-spirit-of-selma-nine-_b_6447202.html"
+  },
+  "headline":{
+    "0":"Protecting Freedom of Expression in Newsrooms and Mosques: Unity and Dialogue",
+    "1":"What White Educators Can Learn From Pittsburgh's Police Chief",
+    "2":"A Million Thanks for Millions",
+    "3":"The Spirit of Selma: Nine Students Arrested in Georgia for Protesting Discriminatory Education Policies"
+  },
+  "category":{
+    "0":"RELIGION",
+    "1":"EDUCATION",
+    "2":"IMPACT",
+    "3":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"The Mosque of Rome is the largest Mosque of Europe and its architecture replicates and perfectly integrates itself in the heart of Italy.",
+    "1":"McLay's words were intended mainly for the officers under his command. But they could just as well have been addressed to educators in our nation's schools.",
+    "2":"Milions of people are walking around with titanium inserts, thanks to professor Branemark. Millions of people are smiling with confidence, thanks to \"the father of modern dental implants\", as he is often called.",
+    "3":"As the film Selma screens nationwide to critical acclaim, police from Clarke County arrested nine students on Friday evening in Athens, Georgia, for organizing the first \"integrated classroom\" for both undocumented and documented youth at the University of Georgia."
+  },
+  "authors":{
+    "0":"Gaia Paradiso, ContributorPassionate about Women Journalism,world traveler, UN advocate ...",
+    "1":"Gregory Michie, ContributorChicago teacher, author",
+    "2":"Dr Sanda Moldovan, ContributorPeriodontist, Nutritionist, Integrative Oral Health",
+    "3":"Stephen Pitti, ContributorProfessor of American Studies and History; Director of the Eth..."
+  },
+  "date":{
+    "0":"2015-01-13 00:00:00",
+    "1":"2015-01-13 00:00:00",
+    "2":"2015-01-13 00:00:00",
+    "3":"2015-01-13 00:00:00"
+  },
+  "actor1":{
+    "0":"ita",
+    "1":"---edu",
+    "2":"---ppl",
+    "3":"---cop"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"usa",
+    "2":"---ppl",
+    "3":"grcedu"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"040",
+    "2":"041",
+    "3":"173"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":1.0,
+    "2":1.0,
+    "3":-5.0
+  },
+  "nouns":{
+    "0":[
+      "rome",
+      "ita",
+      "italy",
+      "italy",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "educators",
+      "~edu",
+      "~",
+      "pittsburgh",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "3":[
+      "police",
+      "~cop",
+      "~",
+      "students",
+      "~edu",
+      "~",
+      "georgia",
+      "geo",
+      "georgia",
+      "university",
+      "geoedu",
+      "~",
+      "athens",
+      "georgia",
+      "youth",
+      "grc",
+      "geo",
+      "frareb",
+      "greece",
+      "georgia",
+      "gazteriak"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rome",
+      "rome"
+    ],
+    "1":[
+      "educators",
+      "pittsburgh"
+    ],
+    "2":[
+      "people",
+      "people"
+    ],
+    "3":[
+      "police",
+      "---",
+      "police",
+      "university",
+      "police",
+      "---"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "italy"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---",
+      "---",
+      "",
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... integrates"
+    ],
+    "1":[
+      "can learn"
+    ],
+    "2":[
+      "are <~ppl> ... called"
+    ],
+    "3":[
+      "police ... arrested",
+      "police ... arrested",
+      "police ... arrested"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "teachers",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "security_services",
+      "1",
+      "students",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ita",
+      "ita",
+      "050"
+    ],
+    "1":[
+      "---edu",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---ppl",
+      "---ppl",
+      "041"
+    ],
+    "3":[
+      "---cop",
+      "grcedu",
+      "173",
+      "---cop",
+      "geoedu",
+      "173",
+      "---cop",
+      "frarebedu",
+      "173"
+    ]
+  }
+}

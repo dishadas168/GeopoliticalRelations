@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/role-models-matter-and-so_b_5305844.html"
+  },
+  "headline":{
+    "0":"Role Models Matter -- and So Does Training"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"Fewer than 60 percent of girls have met a woman in a science, technology, engineering, or math (STEM) career. Maybe that is part of the reason why women represent only 14 percent of the engineering workforce. If there were more role models, how many more girls might be inspired to pursue a passion in engineering or start up a tech company?"
+  },
+  "authors":{
+    "0":"Techbridge Girls, Contributor"
+  },
+  "date":{
+    "0":"2014-05-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "girls",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have met"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

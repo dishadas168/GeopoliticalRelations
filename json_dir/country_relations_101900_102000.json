@@ -1,0 +1,284 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/collected-stories_b_6821296.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/xi-jinping-washington_b_6829300.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/an-interview-with-a-revol_b_6825766.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/menendez-should-withdraw-if-faces-charges_b_6826158.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/richard-alexander-coleman_n_6826100.html",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/nemtsov_n_6826012.html"
+  },
+  "headline":{
+    "0":"Collected Stories",
+    "1":"Mr. Xi Goes to Washington",
+    "2":"An Interview with a Revolutionary, Professor Peter McLaren",
+    "3":"Menendez Should Withdraw From Leadership If He Faces Charges",
+    "4":"Man Robbed Own Grandmother, Forced Her To Drink Alcohol: Police",
+    "5":"Report: Suspect in Russian Politician's Killing Blows Himself Up"
+  },
+  "category":{
+    "0":"ARTS",
+    "1":"WORLDPOST",
+    "2":"EDUCATION",
+    "3":"POLITICS",
+    "4":"CRIME",
+    "5":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"As time goes on (six years to be exact), two women go from teacher to student to friends to equals and finally rivals, as the unthinkable happens and a huge betrayal occurs.",
+    "1":"The recent announcement in Washington and Beijing that Chinese President Xi Jinping will pay a state visit to the United States in September underscores the continuing momentum in the improvement of bilateral relations since the landmark U.S.-China climate agreement reached in Beijing last November. In the months leading to President Xi's U.S. visit, however, both countries will need to work hard to create favorable conditions for a productive summit.",
+    "2":"\"My advice to teachers is to democratize access in your institutions so that working families from urban and rural sectors can attend, and give the poor the same chance to prepare for higher education as the rich since the goal of education is to create an egalitarian society.\"",
+    "3":"Senator Menendez, like every other American, is entitled to a presumption of innocence when facing criminal prosecution. But continuing to serve in the democratic leadership in the Senate while he remains under a cloud of suspicion is a different matter.",
+    "4":"",
+    "5":""
+  },
+  "authors":{
+    "0":"Peak Johnson, ContributorPhiladelphia Journalist",
+    "1":"Minxin Pei, ContributorProfessor of Government at Claremont McKenna College",
+    "2":"Creston Davis, ContributorFounding Director of The Global Center for Advanced Studies, P...",
+    "3":"Robert Naiman, ContributorPolicy Director, Just Foreign Policy",
+    "4":"Steven Hoffer",
+    "5":""
+  },
+  "date":{
+    "0":"2015-03-09 00:00:00",
+    "1":"2015-03-09 00:00:00",
+    "2":"2015-03-08 00:00:00",
+    "3":"2015-03-08 00:00:00",
+    "4":"2015-03-08 00:00:00",
+    "5":"2015-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"usa",
+    "2":"---edu",
+    "3":"---leg",
+    "4":"---ppl",
+    "5":"ruspty"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"chn",
+    "2":"---cvl",
+    "3":"---crm",
+    "4":"---ppl",
+    "5":"ruspty"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"060",
+    "3":"040",
+    "4":"170",
+    "5":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":6.0,
+    "3":1.0,
+    "4":-7.0,
+    "5":-10.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "teacher",
+      "~edu",
+      "~",
+      "student",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "washington",
+      "beijing",
+      "usa",
+      "chn",
+      "united",
+      "states",
+      "of",
+      "america",
+      "china",
+      "beijing",
+      "chn",
+      "china"
+    ],
+    "2":[
+      "teachers",
+      "~edu",
+      "~",
+      "teachers",
+      "~edu",
+      "~",
+      "the poor",
+      "~cvl",
+      "~"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "4":[
+      "man",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "5":[
+      "russian",
+      "politician",
+      "ruspty",
+      "russian",
+      "federation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "teacher"
+    ],
+    "1":[
+      "washington",
+      "beijing",
+      "beijing",
+      "beijing"
+    ],
+    "2":[
+      "teachers",
+      "the poor"
+    ],
+    "3":[
+      "senator",
+      "criminal"
+    ],
+    "4":[
+      "man",
+      "man"
+    ],
+    "5":[
+      "russian politician",
+      "russian politician"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "china",
+      "china",
+      "china"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "---"
+    ],
+    "5":[
+      "russian federation",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "go"
+    ],
+    "1":[
+      "underscores",
+      "underscores"
+    ],
+    "2":[
+      "is ... give"
+    ],
+    "3":[
+      "is ... facing"
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      "<['blows',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "teachers",
+      "1",
+      "students",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "teachers",
+      "1",
+      "id_democracy",
+      "1",
+      "postsecondary_education",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "common_robbery",
+      "1",
+      "security_services",
+      "1"
+    ],
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "chn",
+      "010",
+      "chn",
+      "chn",
+      "010"
+    ],
+    "2":[
+      "---edu",
+      "---cvl",
+      "060"
+    ],
+    "3":[
+      "---leg",
+      "---crm",
+      "040"
+    ],
+    "4":[
+      "---ppl",
+      "---ppl",
+      "170"
+    ],
+    "5":[
+      "ruspty",
+      "ruspty",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/president-obama-writes-excuse-note-boy-missed-school_us_5b9bccbbe4b03a1dcc7a59ab",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/airlines-personal-or-private-space_us_5b9bc699e4b03a1dcc7a3f7c"
+  },
+  "headline":{
+    "0":"President Obama Writes Excuse Note For Tyler Sullivan, Boy Who Missed School To Attend Speech At Honeywell (VIDEO)",
+    "1":"Debate: Should You Be Able To Do As You Please In The Skies?"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"TRAVEL"
+  },
+  "short_description":{
+    "0":"The Wisconsin man told Obama about his daughter's situation, and the president scribbled a note similar to Tyler's on a piece",
+    "1":"Some of our community members brought up the personal space debate to support this woman's choice of clothing. Others reminded"
+  },
+  "authors":{
+    "0":"",
+    "1":"Katherine Patke"
+  },
+  "date":{
+    "0":"2012-06-02 00:00:00",
+    "1":"2012-06-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "obama"
+    ],
+    "1":[
+      "community",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "barack obama"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "brought ... support"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "usagov",
+      "010"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ]
+  }
+}

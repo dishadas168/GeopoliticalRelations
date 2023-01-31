@@ -1,0 +1,167 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/why-the-united-states-and_b_7346388.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/how-to-talk-to-sex-workers_n_7342950.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/britain-child-sex-abuse_n_7342712.html"
+  },
+  "headline":{
+    "0":"Why the United States and Latin America Need a New Venezuela Strategy",
+    "1":"A Sex Worker Explains How To Talk To Sex Workers",
+    "2":"British Police Say 261 'People Of Public Prominence' Suspected Of Child Sex Abuse"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"QUEER VOICES",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"The resistance displayed by OAS leaders to U.S.-imposed sanctions during the recent OAS summit highlights the severity of the credibility gap the United States faces in its attempts to counter adverse political conditions in Venezuela.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Samuel Ramani, ContributorDPhil Candidate, University of Oxford",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2015-05-21 00:00:00",
+    "1":"2015-05-20 00:00:00",
+    "2":"2015-05-20 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---lab",
+    "2":"gbrcop"
+  },
+  "actor2":{
+    "0":"ven",
+    "1":"---lab",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"100",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "america",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america",
+      "venezuela",
+      "ven",
+      "venezuela"
+    ],
+    "1":[
+      "worker",
+      "~lab",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "british",
+      "police",
+      "gbrcop",
+      "united",
+      "kingdom",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "people",
+      "child",
+      "~cvl",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the united states",
+      "venezuela"
+    ],
+    "1":[
+      "worker",
+      "worker"
+    ],
+    "2":[
+      "british police",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "venezuela"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united kingdom",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "need"
+    ],
+    "1":[
+      "explains ... talk"
+    ],
+    "2":[
+      "say"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "security_services",
+      "1",
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "ven",
+      "100",
+      "usa",
+      "ven",
+      "100"
+    ],
+    "1":[
+      "---lab",
+      "---lab",
+      "010"
+    ],
+    "2":[
+      "gbrcop",
+      "---cvl",
+      "010"
+    ]
+  }
+}

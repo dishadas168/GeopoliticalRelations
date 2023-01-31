@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/work-life-balance_us_5b9b7fbae4b03a1dcc781891"
+  },
+  "headline":{
+    "0":"A Parent's Predicament: Does Winning at Work Mean Losing at Home?"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"Does having a child mean that a parent needs to pass on a promotion -- or give up time with a child in order to advance his or her career?"
+  },
+  "authors":{
+    "0":"Steve Ressler, Contributor\nFounder, GovLoop"
+  },
+  "date":{
+    "0":"2012-03-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"105"
+  },
+  "goldstein_score":{
+    "0":-5.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "child",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "mean ... needs <['give',> <'up']>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "105"
+    ]
+  }
+}

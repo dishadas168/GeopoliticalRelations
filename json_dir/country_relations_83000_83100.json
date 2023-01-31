@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/david-axelrod-barack-obama_us_562663b6e4b02f6a900def65",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/white-house-business-climate-change_us_56251c94e4b0bce3470179a5",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/googles-apps-for-work-is-now-free-for-some-businesses_us_56250e58e4b02f6a900d0535"
+  },
+  "headline":{
+    "0":"This Obama Adviser Had Permission To Tell The President To 'Go F*ck Yourself'",
+    "1":"White House Announces More Corporate Climate Commitments",
+    "2":"Google Tries To Win Back Microsoft Defectors With Free Software"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"TECH"
+  },
+  "short_description":{
+    "0":"He just had to make sure not to do it in front of anyone else.",
+    "1":"Eighty-one corporations have joined the White House's pledge to confront climate change.",
+    "2":"As an additional incentive, Google will pay up to $75,000 to each company switching to its software."
+  },
+  "authors":{
+    "0":"Sam Levine",
+    "1":"Kate Sheppard",
+    "2":"Michael Liedtke, AP"
+  },
+  "date":{
+    "0":"2015-10-20 00:00:00",
+    "1":"2015-10-19 00:00:00",
+    "2":"2015-10-19 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---bus",
+    "2":"mncusamed"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"usagov",
+    "2":"---bus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"061"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":6.4
+  },
+  "nouns":{
+    "0":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "corporations",
+      "~bus",
+      "~",
+      "the white house",
+      "usagov",
+      "white",
+      "house"
+    ],
+    "2":[
+      "google",
+      "mncusamed",
+      "google",
+      "company",
+      "~bus",
+      "~",
+      "company",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "obama",
+      "president"
+    ],
+    "1":[
+      "corporations",
+      "the white house"
+    ],
+    "2":[
+      "google",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---"
+    ],
+    "1":[
+      "---",
+      "white house"
+    ],
+    "2":[
+      "google",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "had ... tell"
+    ],
+    "1":[
+      "have joined"
+    ],
+    "2":[
+      "will pay"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "climate_change",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "usagov",
+      "040"
+    ],
+    "2":[
+      "mncusamed",
+      "---bus",
+      "061"
+    ]
+  }
+}

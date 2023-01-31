@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/turkey-close-your-legs_n_5208432.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/prince-george-australia_n_5211916.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/japan-us-relations_b_5211935.html"
+  },
+  "headline":{
+    "0":"Turkish Women Tell Men: 'Close Your Legs'",
+    "1":"Prince George REALLY Doesn't Want To Leave Australia",
+    "2":"Dispelling Discord between Japan and the U.S. Is an Urgent Task"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"STYLE",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"",
+    "1":"",
+    "2":"President Obama has just completed a two-day visit to Japan for high-level meetings, including an unprecedented \"three-star sushi shop conference\" with Prime Minister Shinzo Abe. Now that the two nations have reaffirmed their longstanding alliance, including a commitment by the U.S. to Japan's defense of the Senkaku Islands, I would like even more strongly to press for my suggestion that Mr. Abe to pay his respects at the U.S.S. Arizona Memorial in Hawaii. This is because the gap in understanding between Japan and the U.S. remains a deep one, despite Mr. Obama's visit."
+  },
+  "authors":{
+    "0":"Charlotte Alfred",
+    "1":"Jamie Feldman",
+    "2":"Fumio Matsuo, ContributorJournalist, Former Kyodo News correspondent"
+  },
+  "date":{
+    "0":"2014-04-25 00:00:00",
+    "1":"2014-04-25 00:00:00",
+    "2":"2014-04-25 00:00:00"
+  },
+  "actor1":{
+    "0":"turcvl",
+    "1":"'ulukalala_lavaka_ata_",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"aus",
+    "2":"jpn"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"042"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":1.9
+  },
+  "nouns":{
+    "0":[
+      "turkish",
+      "women",
+      "turcvl",
+      "turkey",
+      "~",
+      "men",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "australia",
+      "aus",
+      "australia"
+    ],
+    "2":[
+      "president obama",
+      "usagov",
+      "barack",
+      "obama",
+      "japan",
+      "jpn",
+      "japan",
+      "shinzo abe",
+      "jpneli",
+      "shinzo",
+      "abe"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "turkish women",
+      "men"
+    ],
+    "1":[
+      "prince",
+      "australia"
+    ],
+    "2":[
+      "president obama",
+      "japan",
+      "president obama",
+      "shinzo abe"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "turkey",
+      "---"
+    ],
+    "1":[
+      "prince",
+      "australia"
+    ],
+    "2":[
+      "barack obama",
+      "japan",
+      "barack obama",
+      "shinzo abe"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "close <tell>"
+    ],
+    "1":[
+      "does ... want ... leave"
+    ],
+    "2":[
+      "has ... completed ... visit",
+      "has ... completed ... visit"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "turcvl",
+      "---ppl",
+      "010"
+    ],
+    "1":[
+      "'ulukalala_lavaka_ata_",
+      "aus",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "jpn",
+      "042",
+      "usagov",
+      "jpneli",
+      "042"
+    ]
+  }
+}

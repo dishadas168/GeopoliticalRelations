@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/national-enquirer-dylan-howard-sexual-misconduct-allegations_us_5a2704b5e4b06007f6b57303",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/israel-and-us-hide-names-of-companies-supporting-israeli_us_5a258ba7e4b04dacbc9bd97b",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/devos-department-meeting-again-stalls-over-opposition_us_5a25927de4b04dacbc9bd987"
+  },
+  "headline":{
+    "0":"Head Of National Enquirer, Us Weekly Reportedly Accused Of Sexual Misconduct",
+    "1":"Israel And U.S. Hide Names Of Companies Supporting Israeli Settlements",
+    "2":"DeVos Department Meeting Again Stalls Over Opposition To Livestreaming"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"WORLD NEWS",
+    "2":"EDUCATION"
+  },
+  "short_description":{
+    "0":"Former employees say Dylan Howard forced women to watch pornographic material and encouraged them to have sex with sources.",
+    "1":"Israel seeks to suppress the identities of the companies that support the settlements because it is feeling the pinch of the Boycott, Divestment and Sanctions movement.",
+    "2":"Last month the Department of Education\u2019s first meeting on rewriting the Obama \u201cborrower defense\u201d rule for student loans stalled"
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Marjorie Cohn, ContributorProfessor Emerita at Thomas Jefferson School of Law",
+    "2":"David Halperin, ContributorAttorney, advocate, writer at RepublicReport.org"
+  },
+  "date":{
+    "0":"2017-12-05 00:00:00",
+    "1":"2017-12-04 00:00:00",
+    "2":"2017-12-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---lab",
+    "1":"isr",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"usagov"
+  },
+  "event_code":{
+    "0":"170",
+    "1":"170",
+    "2":"043"
+  },
+  "goldstein_score":{
+    "0":-7.0,
+    "1":-7.0,
+    "2":2.8
+  },
+  "nouns":{
+    "0":[
+      "employees",
+      "~lab",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "israel",
+      "isr",
+      "israel",
+      "companies",
+      "~bus",
+      "~",
+      "companies",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "student",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "employees",
+      "women"
+    ],
+    "1":[
+      "israel",
+      "companies"
+    ],
+    "2":[
+      "student",
+      "obama",
+      "obama",
+      "student"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "israel",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama",
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say ... forced"
+    ],
+    "1":[
+      "seeks ... suppress"
+    ],
+    "2":[
+      "rule for",
+      "rule for"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "sanctions",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---lab",
+      "---cvl",
+      "170"
+    ],
+    "1":[
+      "isr",
+      "---bus",
+      "170"
+    ],
+    "2":[
+      "---edu",
+      "usagov",
+      "043",
+      "usagov",
+      "---edu",
+      "042"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/italy-menstrual-leave_us_58dbe386e4b01ca7b4291a10",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-the-trump-administration-needs-to-tell-the-kremlin_us_58dc001fe4b07f61a2bb8ad6",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-asylum-seekers-deportation_us_58d990b3e4b00f68a5ca030f",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/britian-brexit_us_58da8edce4b07634059f6c31"
+  },
+  "headline":{
+    "0":"Italy\u2019s Paid Menstrual-Leave Bill Would Come With A Big Cost To Women",
+    "1":"What The Trump Administration Needs To Tell The Kremlin",
+    "2":"Ana's Fate Rested With An Asylum Officer Who Had Just Been Told To Doubt Her Word",
+    "3":"It's On: Britain's Countdown To Brexit Officially Begins"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"Italian women who suffer from painful periods might be close to getting a monthly \u201cmenstrual leave\u201d\u2014up to three paid days",
+    "1":"That the White House spoke up at all about this week's events is a sign that public pressure is working.",
+    "2":"She showed up at the border bearing a scar from a gunshot wound to the head. The Trump administration plans to deport her.",
+    "3":"The U.K. will have two years to negotiate an exit deal with the EU."
+  },
+  "authors":{
+    "0":"Annalisa Merelli, Quartz",
+    "1":"Andrea Prasow, ContributorDeputy Washington Director at Human Rights Watch",
+    "2":"Roque Planas",
+    "3":"Jesselyn Cook"
+  },
+  "date":{
+    "0":"2017-03-29 00:00:00",
+    "1":"2017-03-29 00:00:00",
+    "2":"2017-03-28 00:00:00",
+    "3":"2017-03-28 00:00:00"
+  },
+  "actor1":{
+    "0":"ita",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"gbr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"rusgov",
+    "2":"---gov",
+    "3":"igoeureec"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"174",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":-5.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "italy",
+      "ita",
+      "italy",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "administration",
+      "~gov",
+      "~",
+      "kremlin",
+      "rusgov",
+      "kremlin"
+    ],
+    "2":[
+      "administration",
+      "~gov",
+      "~"
+    ],
+    "3":[
+      "u.k.",
+      "gbr",
+      "united",
+      "kingdom",
+      "the eu",
+      "igoeureec",
+      "the",
+      "european",
+      "union"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "italy",
+      "women"
+    ],
+    "1":[
+      "administration",
+      "kremlin"
+    ],
+    "2":[
+      "administration",
+      "administration"
+    ],
+    "3":[
+      "u.k.",
+      "the ... eu"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "---"
+    ],
+    "1":[
+      "---",
+      "kremlin"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "united kingdom",
+      "the european union"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would come ... to"
+    ],
+    "1":[
+      "needs ... tell"
+    ],
+    "2":[
+      "plans ... deport"
+    ],
+    "3":[
+      "will ... negotiate ... with"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "european_union",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "ita",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "rusgov",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---gov",
+      "174"
+    ],
+    "3":[
+      "gbr",
+      "igoeureec",
+      "050"
+    ]
+  }
+}

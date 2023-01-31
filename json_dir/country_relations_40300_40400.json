@@ -1,0 +1,209 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/israel-baby-warehouses_us_58bf3270e4b0ed718267eff7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/judge-denies-aclu-motion-legal-fees-kim-davis_us_58bddd86e4b033be1467c36a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/the-affordable-care-act-has-saved-hospitals-more-than_us_58bf1f82e4b0a797c1d39645",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/heres-what-it-would-cost-the-us-economy-if-every_us_58bf28cbe4b070e55af9e8b4"
+  },
+  "headline":{
+    "0":"Asylum Seeker Children At Risk In Israel\u2019s \u2018Baby Warehouses\u2019",
+    "1":"Judge Denies ACLU's Motion To Recoup Legal Fees From Marriage Equality Battle",
+    "2":"The Affordable Care Act Has Saved Hospitals More Than $12 Billion In Health Care Spending \u2013 Don\u2019t Repeal It",
+    "3":"Here\u2019s What It Would Cost The U.S. Economy If Every American Woman Went On Strike Tomorrow"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"QUEER VOICES",
+    "2":"POLITICS",
+    "3":"WOMEN"
+  },
+  "short_description":{
+    "0":"Every day in Tel Aviv, about 5,000 children of asylum seekers attend daycare centers run by women with little or no training",
+    "1":"The civil liberties organization was looking to recover more than $200,000 from Kentucky county clerk Kim Davis.",
+    "2":"President Donald Trump addressed a joint session of the United States Congress on Feb. 28. There, among many other campaign",
+    "3":"By Lisa Ryan On Wednesday, women around the world will go on strike in observance of International Women\u2019s Day as part of"
+  },
+  "authors":{
+    "0":"Ga\u00eblle Faure, Women & Girls Hub",
+    "1":"Chris D'Angelo",
+    "2":"John Toussaint, MD, ContributorCEO of Catalysis, CEO emeritus of ThedaCare",
+    "3":"The Cut, ContributorWhether exploring understandably conflicted feelings about cul..."
+  },
+  "date":{
+    "0":"2017-03-07 00:00:00",
+    "1":"2017-03-07 00:00:00",
+    "2":"2017-03-07 00:00:00",
+    "3":"2017-03-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---jud",
+    "2":"---gov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"isrcvlref",
+    "1":"ngousahri",
+    "2":"usaleg",
+    "3":"---cvl"
+  },
+  "event_code":{
+    "0":"043",
+    "1":"120",
+    "2":"010",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":2.8,
+    "1":-4.0,
+    "2":0.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "asylum seekers",
+      "~ref",
+      "~",
+      "tel aviv",
+      "children",
+      "asylum seekers",
+      "isrcvlref",
+      "israel",
+      "~",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "aclu",
+      "ngousahri",
+      "american",
+      "civil",
+      "liberties",
+      "union"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "the united states",
+      "congress",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "tel aviv ... children ... asylum seekers",
+      "tel aviv ... children ... asylum seekers",
+      "women"
+    ],
+    "1":[
+      "judge",
+      "aclu"
+    ],
+    "2":[
+      "president",
+      "the united states congress"
+    ],
+    "3":[
+      "women",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "israel",
+      "israel",
+      "---"
+    ],
+    "1":[
+      "---",
+      "american civil liberties union"
+    ],
+    "2":[
+      "---",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "attend",
+      "attend"
+    ],
+    "1":[
+      "denies <&proposal>"
+    ],
+    "2":[
+      "addressed"
+    ],
+    "3":[
+      "will go"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "lgbt",
+      "1"
+    ],
+    "2":null,
+    "3":[
+      "labor_strike",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "isrcvlref",
+      "043",
+      "isrcvlref",
+      "---cvl",
+      "042"
+    ],
+    "1":[
+      "---jud",
+      "ngousahri",
+      "120"
+    ],
+    "2":[
+      "---gov",
+      "usaleg",
+      "010"
+    ],
+    "3":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ]
+  }
+}

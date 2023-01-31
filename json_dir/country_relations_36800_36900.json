@@ -1,0 +1,147 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/steve-king-dreamer-deported_us_58f69d25e4b029063d3500a8",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/etan-patz-killer-sentencing_us_58f50988e4b0bb9638e58433",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/erdogan-referendum-turkey_us_58f4f799e4b0da2ff862398a"
+  },
+  "headline":{
+    "0":"Steve King Toasts Border Patrol After Deportation Of Dreamer",
+    "1":"Etan Patz's Killer Sentenced To At Least 25 Years In Prison",
+    "2":"Monitors Criticize Turkey Referendum, Erdogan Denounces 'Crusader Mentality'"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"CRIME",
+    "2":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Republican congressman once infamously said a large proportion of young undocumented immigrants were drug mules with \"calves the size of cantaloupes.\"",
+    "1":"Pedro Hernandez was convicted for the infamous 1979 New York abduction of the child on the milk carton.",
+    "2":"Erdogan won a referendum to grant him sweeping new powers with a narrow victory."
+  },
+  "authors":{
+    "0":"Elise Foley",
+    "1":"Michael McLaughlin",
+    "2":"Gulsen Solaker, Tuvan Gumrukcu and Daren Butler, Reuters"
+  },
+  "date":{
+    "0":"2017-04-18 00:00:00",
+    "1":"2017-04-18 00:00:00",
+    "2":"2017-04-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"---crm",
+    "2":"turgov"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"turgov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"172",
+    "2":"060"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0,
+    "2":6.0
+  },
+  "nouns":{
+    "0":[
+      "congressman",
+      "~leg",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~",
+      "drug mules",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "killer",
+      "~crm",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "erdogan",
+      "turgov",
+      "recep",
+      "tayyip",
+      "erdogan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "congressman",
+      "immigrants"
+    ],
+    "1":[
+      "killer",
+      "prison"
+    ],
+    "2":[
+      "erdogan",
+      "erdogan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "recep tayyip erdogan",
+      "recep tayyip erdogan"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "sentenced"
+    ],
+    "2":[
+      "won ... grant"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "---crm",
+      "---cop",
+      "172"
+    ],
+    "2":[
+      "turgov",
+      "turgov",
+      "060"
+    ]
+  }
+}

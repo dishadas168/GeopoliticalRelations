@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sanders-stuns-pollsters-michigan-primary_us_56e02544e4b0b25c91803073",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/03\/08\/us\/trumps-rise-spurs-latino-immigrants-to-naturalize-to-vote-against-him.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=2"
+  },
+  "headline":{
+    "0":"HUFFPOLLSTER: How Sanders Stunned Pollsters In Michigan",
+    "1":"More Latinos Seek Citizenship to Vote Against Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"Hillary Clinton and Donald Trump still lead their parties in delegates, but Clinton\u2019s loss in Michigan is a setback.",
+    "1":"DENVER \u2014 Donald J. Trump\u2019s harsh campaign language against Mexican immigrants has helped him win a substantial delegate lead"
+  },
+  "authors":{
+    "0":"Natalie Jackson, Ariel Edwards-Levy, and Janie Velencia",
+    "1":""
+  },
+  "date":{
+    "0":"2016-03-09 00:00:00",
+    "1":"2016-03-08 00:00:00"
+  },
+  "actor1":{
+    "0":"usaeli",
+    "1":"mexcvl"
+  },
+  "actor2":{
+    "0":"---leg",
+    "1":"mexcvl"
+  },
+  "event_code":{
+    "0":"060",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton",
+      "delegates",
+      "~leg",
+      "~",
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "mexican",
+      "immigrants",
+      "mexcvl",
+      "mexico",
+      "~",
+      "delegate",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "hillary clinton",
+      "delegates"
+    ],
+    "1":[
+      "mexican immigrants",
+      "mexican immigrants"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "hillary clinton",
+      "---"
+    ],
+    "1":[
+      "mexico",
+      "mexico"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "lead"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaeli",
+      "---leg",
+      "060"
+    ],
+    "1":[
+      "mexcvl",
+      "mexcvl",
+      "070"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/youngest-assailant-in-delhi-gang-rape-case-released-from-prison_us_5676b87be4b0b958f656ffe8"
+  },
+  "headline":{
+    "0":"Youngest Assailant In Delhi Gang Rape Case Released From Prison"
+  },
+  "category":{
+    "0":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The Delhi Commission for Women has moved a plea against the release in India's top court."
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2015-12-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---uaf"
+  },
+  "actor2":{
+    "0":"---cop"
+  },
+  "event_code":{
+    "0":"1821"
+  },
+  "goldstein_score":{
+    "0":-9.0
+  },
+  "nouns":{
+    "0":[
+      "assailant",
+      "~uaf",
+      "~",
+      "prison",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "assailant",
+      "prison"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "rape"
+    ]
+  },
+  "issues":{
+    "0":[
+      "organized_crime",
+      "1",
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---uaf",
+      "---cop",
+      "1821"
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lgbt-federal-contractors-religious-freedom_us_583de350e4b04fcaa4d540b3",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-mccain-donald-trump_us_583deed4e4b0c33c8e129a7f",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/isis-claims-responsibility-for-attack-at-ohio-state-university_us_583dda6ee4b06539a78ab780",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/may-and-trump-finally-speak_us_583dc41ee4b0860d6116a37f",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/mike-pence-supporter-racist-diner_us_583ca1cde4b06539a78a0a1c",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-carrier-jobs_us_583c5aefe4b09b6056015034"
+  },
+  "headline":{
+    "0":"Republicans Strip Their Anti-LGBTQ Provision From Defense Bill",
+    "1":"John McCain Refuses To Talk About President-Elect Donald Trump",
+    "2":"ISIS Claims Responsibility For Attack At Ohio State University",
+    "3":"After Perceived Snubs, UK's May Calls Trump To Strengthen Ties",
+    "4":"Mike Pence Supporter Angry Over 'Hamilton' Protest Charged In Racist Attack On Asian Diner Patrons",
+    "5":"These Workers Are Waiting For Donald Trump To Save Their Jobs"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"THE WORLDPOST",
+    "4":"POLITICS",
+    "5":"POLITICS"
+  },
+  "short_description":{
+    "0":"It would have let government contractors fire LGBTQ employees in the name of religious liberty.",
+    "1":"Maybe the Arizona senator thinks he can avoid answering questions about his party's standard-bearer forever.",
+    "2":"ISIS news agency AMAQ described him as a \"soldier\" of the group.",
+    "3":"\u201cThe Prime Minister called the U.S. President-elect this afternoon as part of establishing a regular dialogue.\"",
+    "4":"The man called two Chinese women \u201cc**ts* and \u201cwhores,\u201d and told them to go back to Tokyo.",
+    "5":"The president-elect specifically promised to help Carrier workers."
+  },
+  "authors":{
+    "0":"Jennifer Bendery",
+    "1":"Laura Barr\u00f3n-L\u00f3pez",
+    "2":"",
+    "3":"",
+    "4":"Carla Herreria",
+    "5":"Arthur Delaney"
+  },
+  "date":{
+    "0":"2016-11-29 00:00:00",
+    "1":"2016-11-29 00:00:00",
+    "2":"2016-11-29 00:00:00",
+    "3":"2016-11-29 00:00:00",
+    "4":"2016-11-29 00:00:00",
+    "5":"2016-11-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagovleg",
+    "2":"imgmusisimed",
+    "3":"usagov",
+    "4":"---ppl",
+    "5":"---gov"
+  },
+  "actor2":{
+    "0":"---lab",
+    "1":"---gov",
+    "2":"---mil",
+    "3":"---gov",
+    "4":"chncvl",
+    "5":"---millab"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010",
+    "2":"010",
+    "3":"041",
+    "4":"041",
+    "5":"033"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0,
+    "2":0.0,
+    "3":1.0,
+    "4":1.0,
+    "5":5.2
+  },
+  "nouns":{
+    "0":[
+      "government",
+      "~gov",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "1":[
+      "john mccain",
+      "usagovleg",
+      "john",
+      "mccain",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "isis",
+      "news agency",
+      "imgmusisimed",
+      "the",
+      "islamic",
+      "state",
+      "~",
+      "soldier",
+      "~mil",
+      "~"
+    ],
+    "3":[
+      "prime minister",
+      "~gov",
+      "~",
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "4":[
+      "man",
+      "~ppl",
+      "~",
+      "chinese",
+      "women",
+      "chncvl",
+      "china",
+      "~",
+      "tokyo",
+      "jpn",
+      "japan"
+    ],
+    "5":[
+      "president",
+      "~gov",
+      "~",
+      "carrier",
+      "workers",
+      "~millab",
+      "~",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "government",
+      "employees"
+    ],
+    "1":[
+      "john mccain",
+      "president"
+    ],
+    "2":[
+      "isis news agency",
+      "soldier"
+    ],
+    "3":[
+      "u.s. president",
+      "prime minister",
+      "prime minister",
+      "u.s. president"
+    ],
+    "4":[
+      "man",
+      "chinese women",
+      "man",
+      "tokyo"
+    ],
+    "5":[
+      "president",
+      "carrier workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "john mccain",
+      "---"
+    ],
+    "2":[
+      "the islamic state",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "---",
+      "---",
+      "united states of america"
+    ],
+    "4":[
+      "---",
+      "china",
+      "---",
+      "japan"
+    ],
+    "5":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fire"
+    ],
+    "1":[
+      "refuses ... talk"
+    ],
+    "2":[
+      "described"
+    ],
+    "3":[
+      "called",
+      "called"
+    ],
+    "4":[
+      "<and> ... called",
+      "<and> ... told ... go"
+    ],
+    "5":[
+      "promised ... help"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---lab",
+      "190"
+    ],
+    "1":[
+      "usagovleg",
+      "---gov",
+      "010"
+    ],
+    "2":[
+      "imgmusisimed",
+      "---mil",
+      "010"
+    ],
+    "3":[
+      "usagov",
+      "---gov",
+      "041",
+      "---gov",
+      "usagov",
+      "041"
+    ],
+    "4":[
+      "---ppl",
+      "chncvl",
+      "041",
+      "---ppl",
+      "jpn",
+      "040"
+    ],
+    "5":[
+      "---gov",
+      "---millab",
+      "033"
+    ]
+  }
+}

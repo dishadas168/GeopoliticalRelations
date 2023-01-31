@@ -1,0 +1,144 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/americans-obamacare-trump_us_5787e18ae4b08608d3339a5f",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/nearly-1-in-10-children-not-enrolled-in-school-un_us_5788e601e4b08608d3341913",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/shopkeeper-sues-baton-rouge-police-in-aftermath-of-alton-sterlings-death_us_5787a9ffe4b08608d33338a9"
+  },
+  "headline":{
+    "0":"Americans Don't Like Obamacare But Don't Trust Trump To Fix It",
+    "1":"Nearly 1 In 10 Children Not Enrolled In School: UN",
+    "2":"Shopkeeper Sues Baton Rouge Police In Aftermath Of Alton Sterling's Death"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"IMPACT",
+    "2":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Voters think Hillary Clinton and the Democrats would do better on health care.",
+    "1":"The UN has pledged to pay special attention to girls who face the greatest disadvantage.",
+    "2":"Triple S Food Mart owner Abdullah Muflahi sued two officers involved in the shooting, two officers investigating it, the chief of police and the city."
+  },
+  "authors":{
+    "0":"Jeffrey Young",
+    "1":"Sebastien Malo, Reuters",
+    "2":"Bryn Stole, Reuters"
+  },
+  "date":{
+    "0":"2016-07-15 00:00:00",
+    "1":"2016-07-15 00:00:00",
+    "2":"2016-07-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"igouno",
+    "2":"saugov"
+  },
+  "actor2":{
+    "0":"usaeli",
+    "1":"---cvl",
+    "2":"---cop"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"0311",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":5.2,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "1":[
+      "the un",
+      "igouno",
+      "the",
+      "un",
+      "girls",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "abdullah",
+      "saugov",
+      "abdullah",
+      "police",
+      "~cop",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "hillary clinton"
+    ],
+    "1":[
+      "the un",
+      "girls"
+    ],
+    "2":[
+      "abdullah",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "hillary clinton"
+    ],
+    "1":[
+      "the un",
+      "---"
+    ],
+    "2":[
+      "abdullah",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "think"
+    ],
+    "1":[
+      "has pledged ... pay"
+    ],
+    "2":[
+      "sued"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usaeli",
+      "040"
+    ],
+    "1":[
+      "igouno",
+      "---cvl",
+      "0311"
+    ],
+    "2":[
+      "saugov",
+      "---cop",
+      "173"
+    ]
+  }
+}

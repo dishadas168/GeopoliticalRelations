@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/worlds-safest-airlines-ph_us_5b9d4359e4b03a1dcc860f6a",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/greatist.com\/happiness\/job-stress-sleep-061213",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/dublin-travel-campaign_us_5b9d3d0be4b03a1dcc85cdfb"
+  },
+  "headline":{
+    "0":"World's Safest Airlines (PHOTOS)",
+    "1":"Why Businesses Should Care How Well Their Employees Sleep",
+    "2":"Dublin Travel: Ireland's Capital Has The Cutest Tourism Campaign Probably Ever"
+  },
+  "category":{
+    "0":"TRAVEL",
+    "1":"WELLNESS",
+    "2":"TRAVEL"
+  },
+  "short_description":{
+    "0":"Travelers can find plenty of reasons to complain about airlines -- except when it comes to safety.",
+    "1":"Employers need to talk to their employees about sleep -- and not just when they catch them snoozing on the job. Read more",
+    "2":"File this under too cute for words. Dublin offers its tourists a unique view of the city by way of City of a Thousand Welcomes"
+  },
+  "authors":{
+    "0":"Travel + Leisure, Contributor\nTravelandLeisure.com",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2013-06-14 00:00:00",
+    "1":"2013-06-14 00:00:00",
+    "2":"2013-06-14 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"irl"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---lab",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"114",
+    "1":"010",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":0.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "travelers",
+      "~cvl",
+      "~",
+      "airlines",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "employers",
+      "~bus",
+      "~",
+      "employees",
+      "~lab",
+      "~"
+    ],
+    "2":[
+      "dublin",
+      "irl",
+      "ireland",
+      "tourists",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "travelers",
+      "airlines"
+    ],
+    "1":[
+      "employers",
+      "employees"
+    ],
+    "2":[
+      "dublin",
+      "tourists"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "ireland",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... complain"
+    ],
+    "1":[
+      "need ... talk"
+    ],
+    "2":[
+      "offers"
+    ]
+  },
+  "issues":{
+    "0":[
+      "tourism",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "tourism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---bus",
+      "114"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "010"
+    ],
+    "2":[
+      "irl",
+      "---cvl",
+      "030"
+    ]
+  }
+}

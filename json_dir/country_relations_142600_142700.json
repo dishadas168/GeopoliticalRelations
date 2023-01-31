@@ -1,0 +1,101 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/crystal-mangum-duke-rape-murder_us_5ba2c464e4b0c2784da5ef19",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.mnn.com\/lifestyle\/responsible-living\/stories\/helium-too-precious-for-party-balloons-says-chemist"
+  },
+  "headline":{
+    "0":"Crystal Mangum, Duke Lacrosse Rape Accuser, Found Guilty In Boyfriend's Murder",
+    "1":"Helium Too Precious For Party Balloons, Says Chemist"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"ENVIRONMENT"
+  },
+  "short_description":{
+    "0":"But according to ABC 11 News, prosecutors argued that the woman, who has a \"history of physical violence toward boyfriends",
+    "1":"I was in the grocery store the other day when my children started to pester me for a balloon. Read more on Mother Nature"
+  },
+  "authors":{
+    "0":"Andres Jauregui",
+    "1":""
+  },
+  "date":{
+    "0":"2013-11-23 00:00:00",
+    "1":"2013-11-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"140"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-6.5
+  },
+  "nouns":{
+    "0":[
+      "prosecutors",
+      "~jud",
+      "~",
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "children",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prosecutors",
+      "woman"
+    ],
+    "1":[
+      "children",
+      "children"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "argued"
+    ],
+    "1":[
+      "started ... pester"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---cvl",
+      "110"
+    ],
+    "1":[
+      "---cvl",
+      "---cvl",
+      "140"
+    ]
+  }
+}

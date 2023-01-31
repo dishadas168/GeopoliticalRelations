@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/race-matters-in-the-class_b_6317346.html"
+  },
+  "headline":{
+    "0":"Race Matters in the Classroom"
+  },
+  "category":{
+    "0":"RELIGION"
+  },
+  "short_description":{
+    "0":"I am successful when my students and conversation partners begin enclosing and confining these colonial categories in quotation marks, recognizing their construction and significance, historicizing them, disrupting them, and depriving them of their power."
+  },
+  "authors":{
+    "0":"Deepak Sarma, ContributorProfessor of South Asian Religions and Philosophy, Case Wester..."
+  },
+  "date":{
+    "0":"2014-12-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"160"
+  },
+  "goldstein_score":{
+    "0":-4.0
+  },
+  "nouns":{
+    "0":[
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "students",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "begin ... disrupting"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "160"
+    ]
+  }
+}

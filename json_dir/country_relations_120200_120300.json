@@ -1,0 +1,105 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/princess-slays-the-night_b_5641243.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/how-do-you-let-go-of-something-that-never-was_b_5646418.html"
+  },
+  "headline":{
+    "0":"Princess Slays the Knight",
+    "1":"How Do You Let Go Of Something That Never Was?"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"WOMEN"
+  },
+  "short_description":{
+    "0":"My hope for men and women everywhere is that we will abandon the quest for dominance over the opposite sex and seek instead to be united as kings and queens who each wield their masculine and feminine gifts to rule their kingdoms together.",
+    "1":"Maybe some people could remove themselves from that situation, flip an on-off switch. I am not one of those people. When I let people in, I inevitably begin to care. It is both a blessing and a burden."
+  },
+  "authors":{
+    "0":"Tara Kennedy-Kline, ContributorCertified family parenting expert, popular radio host, TV pers...",
+    "1":"Beth Leipholtz, ContributorSober journalist, blogger, and graphic designer"
+  },
+  "date":{
+    "0":"2014-08-05 00:00:00",
+    "1":"2014-08-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"174"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "men",
+      "women",
+      "~cvl",
+      "~",
+      "~",
+      "men",
+      "women",
+      "~cvl",
+      "~",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "men ... women",
+      "men ... women"
+    ],
+    "1":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is <~cvl> ... seek ... united"
+    ],
+    "1":[
+      "could remove"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---ppl",
+      "174"
+    ]
+  }
+}

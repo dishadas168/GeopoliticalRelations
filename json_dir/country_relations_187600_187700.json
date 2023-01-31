@@ -1,0 +1,122 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/chick-fil-a-boycott_us_5bafa720e4b0ad76925f8b89",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/farm-rescue-farmers-drought_us_5bb1971be4b01857b70880bd"
+  },
+  "headline":{
+    "0":"It's Free, I'm Gay, Thanks, Chick-fil-A!",
+    "1":"Farm Rescue, Iowa Nonprofit, Helps Midwestern Farmers Affected By Drought"
+  },
+  "category":{
+    "0":"QUEER VOICES",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"Each time a new Chick-fil-A opens, they reward their first 100 customers with a year's worth of free chicken. LGBT activists\/supporters should line up at openings in order to monopolize the year's worth of free chicken, and then donate it to LGBT homeless youth and\/or shelters.",
+    "1":"Keith Kreps, vice president of RDO Equipment Company, told ABC, \"Supporting family farming is key in maintaining the economic"
+  },
+  "authors":{
+    "0":"David Duran, Contributor\nJournalist",
+    "1":""
+  },
+  "date":{
+    "0":"2012-07-28 00:00:00",
+    "1":"2012-07-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"---opp",
+    "1":"---agr"
+  },
+  "event_code":{
+    "0":"070",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":7.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "activists",
+      "~opp",
+      "~",
+      "youth",
+      "frareb",
+      "gazteriak"
+    ],
+    "1":[
+      "iowa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "farmers",
+      "~agr",
+      "~",
+      "farmers",
+      "~agr",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activists",
+      "activists"
+    ],
+    "1":[
+      "iowa",
+      "farmers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "helps"
+    ]
+  },
+  "issues":{
+    "0":[
+      "lgbt",
+      "2",
+      "poverty",
+      "1"
+    ],
+    "1":[
+      "agriculture",
+      "2",
+      "civil_society",
+      "1",
+      "natural_disaster",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---opp",
+      "070"
+    ],
+    "1":[
+      "usa",
+      "---agr",
+      "070"
+    ]
+  }
+}

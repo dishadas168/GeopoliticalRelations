@@ -1,0 +1,145 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/tsa-agent-allegedly-molests-traveler-at-nyc-airport_us_55e0ea39e4b0b7a963392d8c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/twitter-has-set-diversity-goals_us_55dfb404e4b0c818f61764c3",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.dazeddigital.com\/photography\/article\/26073\/1\/meeting-protesters-on-blacktransliberationtuesday"
+  },
+  "headline":{
+    "0":"TSA Agent Allegedly Molests Traveler At NYC Airport",
+    "1":"Twitter Is The Latest Tech Company To Half-Heartedly Commit To Diversity",
+    "2":"Rallying For The Black Trans Women Killed In America"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"BUSINESS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"\"Supposedly he took her into another area using his official position, being in uniform, and she thought it was a part of his official duty,\" an airport spokesman said.",
+    "1":"The company wants to increase the number of women and minorities on its tech and leadership teams.",
+    "2":"In 2015, a\u00a0reported 18 black trans women have been murdered in America. Just 12\u00a0transgenderwomen of any race were killed"
+  },
+  "authors":{
+    "0":"KATIE REILLY, Reuters",
+    "1":"Shane Ferro",
+    "2":""
+  },
+  "date":{
+    "0":"2015-08-28 00:00:00",
+    "1":"2015-08-28 00:00:00",
+    "2":"2015-08-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---bus",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"---med",
+    "1":"---cvl",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"031",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":5.2,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "spokesman",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "women",
+      "~cvl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "spokesman",
+      "spokesman"
+    ],
+    "1":[
+      "company",
+      "women"
+    ],
+    "2":[
+      "america",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "took"
+    ],
+    "1":[
+      "wants ... increase"
+    ],
+    "2":[
+      "<~cvl> ... murdered in <usa>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "lgbt",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "171"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "031"
+    ],
+    "2":[
+      "usa",
+      "---cvl",
+      "190"
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/central-park-five-linda-fairstein-when-they-see-us_n_5cf6acfae4b0aa911514decc",
+    "1":"https:\/\/www.huffpost.com\/entry\/donald-trump-london-mayor-sadiq-khan-uk_n_5cf4d6f8e4b0e8085e3c6e77",
+    "2":"https:\/\/www.huffpost.com\/entry\/navy-uss-john-mccain-trump-japan_n_5cf2afdde4b0e346ce7f15f6",
+    "3":"https:\/\/www.huffpost.com\/entry\/cory-booker-prisoners-voting-rights_n_5cefe8c3e4b0888f89d242bb",
+    "4":"https:\/\/www.huffpost.com\/entry\/missouri-protesters-abortion-clinic-threat_n_5cf0341be4b0e346ce7b17d9",
+    "5":"https:\/\/www.huffpost.com\/entry\/austrian-chancellor-sebastian-kurz-ousted-no-confidence-vote_n_5cec0095e4b00356fc25a8ae",
+    "6":"https:\/\/www.huffpost.com\/entry\/missouri-tornado-central-us-storms_n_5ce649b0e4b0db9c2992fb56",
+    "7":"https:\/\/www.huffpost.com\/entry\/trump-tower-bomb-plot-instagram_n_5ce57a93e4b0547bd130ea87",
+    "8":"https:\/\/www.huffpost.com\/entry\/uss-florida-rape-lists_n_5ce08991e4b09e057805214b"
+  },
+  "headline":{
+    "0":"Central Park Five Series 'When They See Us' Sparks Linda Fairstein Boycott Petition",
+    "1":"Donald Trump Begins UK Trip By Insulting London Mayor Sadiq Khan",
+    "2":"Navy Acknowledges It Was Asked To 'Minimize' Visibility Of John McCain Warship",
+    "3":"Cory Booker Wants To Allow Some Prisoners To Vote",
+    "4":"In St. Louis, A Wave Of Fury As State's Last Abortion Clinic Faces Closure",
+    "5":"Austrian Chancellor Sebastian Kurz Ousted In No-Confidence Vote",
+    "6":"Several People Killed As Powerful Storms, Tornadoes Slam Central U.S.",
+    "7":"Feds Say Hamas Supporter Conducted Instagram Poll On Bombing Trump Tower",
+    "8":"Navy Submarine Sailors Kept 'Rape' Lists Of Female Colleagues, Military Probe Finds"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"WORLD NEWS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"WORLD NEWS",
+    "6":"U.S. NEWS",
+    "7":"POLITICS",
+    "8":"U.S. NEWS"
+  },
+  "short_description":{
+    "0":"People are calling on retailers to pull books by the prosecutor-turned-author for her role in the infamous case.",
+    "1":"The U.S. president kicked off his state visit to the UK by tweeting insults comparing the London mayor to New York Mayor Bill de Blasio.",
+    "2":"The request was made in preparation for President Donald Trump's visit to Japan.",
+    "3":"The New Jersey senator had previously called the debate a distraction from the larger goals of criminal justice reform \u2014 and he still thinks it is.",
+    "4":"One woman said she was protesting because her grandmother nearly died after an illegal abortion in Missouri decades ago. She didn't want to go back in time.",
+    "5":"A party leader tied to Kurz had appeared to offer favors to a Russian investor.",
+    "6":"At least three people died in a tornado in Golden City, Missouri, on Wednesday. Extreme weather has also threatened parts of Oklahoma, Kansas, Iowa and Illinois.",
+    "7":"The FBI arrested 20-year-old Jonathan Xie, saying he donated to Hamas, lied on an application to enlist in the Army, and threatened supporters of Israel.",
+    "8":"One woman told investigators the lists made \u201cher question all males on the boat.\""
+  },
+  "authors":{
+    "0":"Kimberley Richards",
+    "1":"Chris York",
+    "2":"Amy Russo",
+    "3":"Kevin Robillard",
+    "4":"Melissa Jeltsen",
+    "5":"",
+    "6":"Dominique Mosbergen and Hayley Miller",
+    "7":"Ryan J. Reilly",
+    "8":"Mary Papenfuss"
+  },
+  "date":{
+    "0":"2019-06-05 00:00:00",
+    "1":"2019-06-03 00:00:00",
+    "2":"2019-06-01 00:00:00",
+    "3":"2019-05-30 00:00:00",
+    "4":"2019-05-30 00:00:00",
+    "5":"2019-05-27 00:00:00",
+    "6":"2019-05-23 00:00:00",
+    "7":"2019-05-22 00:00:00",
+    "8":"2019-05-19 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"gbr",
+    "2":"---mil",
+    "3":"---leg",
+    "4":"---cvl",
+    "5":"---pty",
+    "6":"---ppl",
+    "7":"usacop",
+    "8":"---mil"
+  },
+  "actor2":{
+    "0":"---jud",
+    "1":"usagov",
+    "2":"---mil",
+    "3":"---crm",
+    "4":"usa",
+    "5":"rusbus",
+    "6":"usa",
+    "7":"shaftoe_",
+    "8":"---mil"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"043",
+    "2":"020",
+    "3":"041",
+    "4":"145",
+    "5":"030",
+    "6":"190",
+    "7":"173",
+    "8":"1821"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":2.8,
+    "2":3.0,
+    "3":1.0,
+    "4":-7.5,
+    "5":4.0,
+    "6":-10.0,
+    "7":-5.0,
+    "8":-9.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "prosecutor",
+      "~jud",
+      "~"
+    ],
+    "1":[
+      "u.s.",
+      "president",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "the uk",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "2":[
+      "navy",
+      "~mil",
+      "~"
+    ],
+    "3":[
+      "senator",
+      "~leg",
+      "~",
+      "criminal",
+      "~crm",
+      "~",
+      "criminal",
+      "~crm",
+      "~"
+    ],
+    "4":[
+      "woman",
+      "~cvl",
+      "~",
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "5":[
+      "party leader",
+      "~pty",
+      "~",
+      "party leader",
+      "~pty",
+      "~",
+      "russian",
+      "investor",
+      "rusbus",
+      "russian",
+      "federation",
+      "~"
+    ],
+    "6":[
+      "people",
+      "~ppl",
+      "~",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "7":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "jonathan",
+      "shaftoe_",
+      "jonathan",
+      "hamas",
+      "pserebhms",
+      "hamas",
+      "army",
+      "~mil",
+      "~",
+      "israel",
+      "isr",
+      "israel"
+    ],
+    "8":[
+      "navy",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~",
+      "military",
+      "~mil",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "prosecutor"
+    ],
+    "1":[
+      "the ... uk",
+      "u.s. president",
+      "u.s. president",
+      "the ... uk"
+    ],
+    "2":[
+      "navy",
+      "navy"
+    ],
+    "3":[
+      "senator",
+      "criminal"
+    ],
+    "4":[
+      "woman",
+      "missouri"
+    ],
+    "5":[
+      "party leader",
+      "russian investor"
+    ],
+    "6":[
+      "people",
+      "<u.s.>"
+    ],
+    "7":[
+      "fbi",
+      "jonathan"
+    ],
+    "8":[
+      "navy",
+      "navy"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united kingdom",
+      "united states of america",
+      "united states of america",
+      "united kingdom"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "---",
+      "russian federation"
+    ],
+    "6":[
+      "---",
+      "united states of america"
+    ],
+    "7":[
+      "federal bureau of investigation",
+      "jonathan"
+    ],
+    "8":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are calling on ... pull"
+    ],
+    "1":[
+      "<['kicked',> <'off',> <'-> <*> ... visit                                             <[042:043]>     <#> <start> <,> <begin']>",
+      "<['kicked',> <'off',> <'-> <*> ... visit                                             <[042:043]>     <#> <start> <,> <begin']>"
+    ],
+    "2":[
+      "acknowledges <~mil> ... asked"
+    ],
+    "3":[
+      "had ... called"
+    ],
+    "4":[
+      "said ... was protesting ... died"
+    ],
+    "5":[
+      "had ... offer"
+    ],
+    "6":[
+      "killed"
+    ],
+    "7":[
+      "arrested"
+    ],
+    "8":[
+      "rape"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":[
+      "natural_disaster",
+      "2"
+    ],
+    "7":[
+      "named_terror_group",
+      "1"
+    ],
+    "8":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---jud",
+      "171"
+    ],
+    "1":[
+      "gbr",
+      "usagov",
+      "043",
+      "usagov",
+      "gbr",
+      "042"
+    ],
+    "2":[
+      "---mil",
+      "---mil",
+      "020"
+    ],
+    "3":[
+      "---leg",
+      "---crm",
+      "041"
+    ],
+    "4":[
+      "---cvl",
+      "usa",
+      "145"
+    ],
+    "5":[
+      "---pty",
+      "rusbus",
+      "030"
+    ],
+    "6":[
+      "---ppl",
+      "usa",
+      "190"
+    ],
+    "7":[
+      "usacop",
+      "shaftoe_",
+      "173"
+    ],
+    "8":[
+      "---mil",
+      "---mil",
+      "1821"
+    ]
+  }
+}

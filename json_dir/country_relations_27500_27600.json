@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/googles-diversity-debacle-the-one-thing-your-company_us_5988b4a8e4b0f25bdfb31eb5",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trumps-praised-afghan-girls-after-vetting-policies_us_598841fde4b0f2c7d93f5737"
+  },
+  "headline":{
+    "0":"The One Thing Your Company Can Learn From Google\u2019s Diversity Debacle",
+    "1":"Trumps Praised Afghan Girls After Vetting Policies Banned Entry"
+  },
+  "category":{
+    "0":"BUSINESS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Why your diversity and unconscious bias training is failing: Google made headlines over the weekend when a 10-page manifesto",
+    "1":"Six teenage girls from Afghanistan, part of a robotics team, were initially banned from the United States and an international"
+  },
+  "authors":{
+    "0":"Jeffery Tobias Halter, ContributorPresident, YWomen",
+    "1":"Alan Singer, ContributorSocial studies educator, Hofstra University, my opinions, of c..."
+  },
+  "date":{
+    "0":"2017-08-07 00:00:00",
+    "1":"2017-08-07 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"mncusamed",
+    "1":"afgcvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"172"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "company",
+      "~bus",
+      "~",
+      "google",
+      "mncusamed",
+      "google"
+    ],
+    "1":[
+      "afghanistan",
+      "afg",
+      "afghanistan",
+      "girls",
+      "afgcvl",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "company",
+      "google"
+    ],
+    "1":[
+      "the united states",
+      "girls"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "google"
+    ],
+    "1":[
+      "united states of america",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can learn"
+    ],
+    "1":[
+      "<afgcvl> ... banned from <usa>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "mncusamed",
+      "040"
+    ],
+    "1":[
+      "usa",
+      "afgcvl",
+      "172"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/would-warren-really-run_b_6051424.html"
+  },
+  "headline":{
+    "0":"Would Warren Really Run?"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"What is Elizabeth Warren up to? Elizabeth Warren's offhand remark in an interview with People magazine strongly suggested that the Massachusetts senator has revised her previous firm declarations of non-candidacy for president and is now deliberately leaving the door open a crack. Asked whether she was considering a run in 2016, Warren said disarmingly, \"I don't think so,\" but added, \"If there's any lesson I've learned in the last five years, it's don't be so sure about what lies ahead. There are amazing doors that could open.\" That sure opened one door. Is Warren really thinking about challenging frontrunner Hillary Clinton? I'd be surprised if Warren has made any decision on that question, but her remark immediately set off two kinds of political waves."
+  },
+  "authors":{
+    "0":"Robert Kuttner, ContributorCo-founder and co-editor, 'The American Prospect'"
+  },
+  "date":{
+    "0":"2014-10-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"usaleg"
+  },
+  "event_code":{
+    "0":"020"
+  },
+  "goldstein_score":{
+    "0":3.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "magazine",
+      "~med",
+      "~",
+      "~",
+      "people",
+      "magazine",
+      "~med",
+      "~",
+      "~",
+      "people",
+      "magazine",
+      "~med",
+      "~",
+      "~",
+      "massachusetts",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people magazine",
+      "massachusetts senator"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "usaleg",
+      "020"
+    ]
+  }
+}

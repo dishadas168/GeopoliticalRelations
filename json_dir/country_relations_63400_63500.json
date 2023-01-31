@@ -1,0 +1,124 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-hidden-heroes-of-gazi_b_10417098.html",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/abcnews.go.com\/US\/thousands-expected-muhammad-alis-funeral-louisville\/story?id=39724083"
+  },
+  "headline":{
+    "0":"The Hidden Heroes of Gaziantep",
+    "1":"Thousands Gather In Louisville To Pay Final Respects To Muhammad Ali"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Each year on June 20th the United Nations invites organizations and people from around the world to celebrate World Refugee Day. This is an event that \"honors the courage, strength and determination of women, men and children who are forced to flee their homeland under threat of persecution, conflict and violence.\"",
+    "1":"Thousands of people gathered today in Louisville, Kentucky, to pay their final respects toMuhammad Ali, chanting the boxing"
+  },
+  "authors":{
+    "0":"Darcy Ataman, ContributorFounder and CEO of Make Music Matter, music producer and guest...",
+    "1":""
+  },
+  "date":{
+    "0":"2016-06-11 00:00:00",
+    "1":"2016-06-10 00:00:00"
+  },
+  "actor1":{
+    "0":"igouno",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "the united nations",
+      "igouno",
+      "the",
+      "united",
+      "nations",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "louisville",
+      "kentucky",
+      "usa",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the united nations",
+      "people"
+    ],
+    "1":[
+      "people",
+      "louisville"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "the united nations",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "invites"
+    ],
+    "1":[
+      "gathered"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "igouno",
+      "---ppl",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "040",
+      "---ppl",
+      "usa",
+      "040"
+    ]
+  }
+}

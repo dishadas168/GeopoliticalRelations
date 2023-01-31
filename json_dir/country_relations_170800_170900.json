@@ -1,0 +1,78 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/snl-martin-luther-king-jr-ghost-president-obama-video_us_5bad148be4b04234e8568e72"
+  },
+  "headline":{
+    "0":"'SNL': Martin Luther King Jr.'s Ghost Visits President Obama On Inauguration Day (VIDEO)"
+  },
+  "category":{
+    "0":"COMEDY"
+  },
+  "short_description":{
+    "0":"Can you imagine the powerful exchange that would take place if the ghost of Reverend Dr. Martin Luther King Jr. came to visit"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2013-01-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov"
+  },
+  "actor2":{
+    "0":"---gov"
+  },
+  "event_code":{
+    "0":"043"
+  },
+  "goldstein_score":{
+    "0":2.8
+  },
+  "nouns":{
+    "0":[
+      "king",
+      "~gov",
+      "~",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president obama",
+      "king",
+      "king",
+      "president obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "barack obama",
+      "---",
+      "---",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "visits",
+      "visits"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "043",
+      "---gov",
+      "usagov",
+      "042"
+    ]
+  }
+}

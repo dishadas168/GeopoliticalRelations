@@ -1,0 +1,156 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/houston-vote-equal-rights_us_55c243a1e4b0d9b28f051d88",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.today.com\/parents\/police-help-mom-deliver-baby-world-trade-center-path-stop-t36506",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/fired-lesbian-catholic-school-teacher-locked-out-of-archdiocese-offices-while-trying-to-deliver-petitions_us_55c0e715e4b053bc04e91598"
+  },
+  "headline":{
+    "0":"Voters Will Decide On Houston's LGBT Equal Rights Ordinance",
+    "1":"Police Officers Help Mom Give Birth At World Trade Center Train Stop",
+    "2":"Fired Lesbian Catholic School Teacher Locked Out Of Archdiocese While Trying To Deliver Petitions"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"PARENTS",
+    "2":"RELIGION"
+  },
+  "short_description":{
+    "0":"Opponents have been pushing for a vote for more than a year.",
+    "1":"Perhaps a baby couldn't wait to experience New York City, as Port Authority police helped deliver a baby girl on a World",
+    "2":"More than 23,000 people have Margie Winters' back -- but the Archdiocese of Philadelphia didn't get to meet her."
+  },
+  "authors":{
+    "0":"Jacob Kerr",
+    "1":"",
+    "2":""
+  },
+  "date":{
+    "0":"2015-08-05 00:00:00",
+    "1":"2015-08-05 00:00:00",
+    "2":"2015-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cop",
+    "2":"usachr"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---cvl",
+    "2":"usachr"
+  },
+  "event_code":{
+    "0":"030",
+    "1":"070",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":4.0,
+    "1":7.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "voters",
+      "~cvl",
+      "~",
+      "houston",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "police",
+      "~cop",
+      "~",
+      "girl",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "people",
+      "~ppl",
+      "~",
+      "philadelphia",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "archdiocese",
+      "usachr",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "voters",
+      "houston"
+    ],
+    "1":[
+      "police",
+      "girl"
+    ],
+    "2":[
+      "archdiocese",
+      "archdiocese"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "",
+      ""
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will decide"
+    ],
+    "1":[
+      "helped"
+    ],
+    "2":[
+      "did ... meet"
+    ]
+  },
+  "issues":{
+    "0":[
+      "election",
+      "1",
+      "lgbt",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "usa",
+      "030"
+    ],
+    "1":[
+      "---cop",
+      "---cvl",
+      "070"
+    ],
+    "2":[
+      "usachr",
+      "usachr",
+      "040"
+    ]
+  }
+}

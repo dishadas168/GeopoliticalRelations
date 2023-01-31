@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rape-culture-pervades-gay-culture-too_b_5771738.html"
+  },
+  "headline":{
+    "0":"Rape Culture Pervades Gay Culture Too"
+  },
+  "category":{
+    "0":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"Way too many people seem to think it's funny, or even impossible, for a man to be raped. I'm not sure that it matches the indifference with which we view the rape of women, but the reactions are still disturbing. Too often they even come from gay men, who are ourselves disproportionately subject to sexual violence."
+  },
+  "authors":{
+    "0":"Larry Womack, ContributorWriter, layabout and all-around nogoodnik; web publisher; form..."
+  },
+  "date":{
+    "0":"2014-09-05 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---ppl"
+  },
+  "event_code":{
+    "0":"040"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "man",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":[
+      "rape",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "040"
+    ]
+  }
+}

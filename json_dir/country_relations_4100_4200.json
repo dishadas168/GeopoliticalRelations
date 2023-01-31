@@ -1,0 +1,329 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/trump-birther-conspiracy-joe-biden-pennsylvania_n_5f3f0e27c5b6305f32555891",
+    "1":"https:\/\/www.huffpost.com\/entry\/us-lebanon-beirut-explosion_n_5f391f8ac5b6959911e5bfaf",
+    "2":"https:\/\/www.huffpost.com\/entry\/robert-trump-brother-dead-71_n_5f389b55c5b6959911e5764d",
+    "3":"https:\/\/www.huffpost.com\/entry\/downtown-chicago-looting-mayor_n_5f314858c5b64d7a55f63a4a",
+    "4":"https:\/\/www.huffpost.com\/entry\/trump-payroll-tax-social-security-medicare_n_5f2f2f72c5b6b9cff7f2aeab",
+    "5":"https:\/\/www.huffpost.com\/entry\/beirut-protests-foreign-ministry_n_5f2ef656c5b6e96a22b3551d",
+    "6":"https:\/\/www.huffpost.com\/entry\/michelle-obama-low-grade-depression-donald-trump_n_5f2bcb70c5b6b9cff7ed8488"
+  },
+  "headline":{
+    "0":"Trump Cooks Up Wacky New Birther Slam: Joe Biden Wasn't Born In Pennsylvania",
+    "1":"U.S. Says No Financial Bailout For Lebanon, Calls For Systemic Reforms",
+    "2":"Robert Trump, The President\u2019s Younger Brother, Dead At 71",
+    "3":"Chicago Looting Leads To More Than 100 Arrests, Dozens Of Damaged Businesses",
+    "4":"Trump Using COVID-19 As A Cover To Gut Social Security And Medicare, Critics Charge",
+    "5":"Protesters In Beirut Storm Foreign Ministry Amid Fury Over Massive Blast",
+    "6":"Michelle Obama Blames Her 'Low-Grade Depression' In Part On Donald Trump"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"U.S. NEWS",
+    "3":"POLITICS",
+    "4":"POLITICS",
+    "5":"WORLD NEWS",
+    "6":"POLITICS"
+  },
+  "short_description":{
+    "0":"Because the Democratic nominee moved out as a child, he really wasn't born in Scranton, the president told a perplexed Pennsylvania crowd.",
+    "1":"The FBI will assist with an investigation into the massive blast in Beirut that killed more than 170 people.",
+    "2":"The president visited his brother at a New York City hospital on Friday after White House officials said he had become seriously ill.",
+    "3":"The overnight chaos amounted to \u201cabject criminal behavior\u201d and was not part of an organized protest, according to the city's mayor.",
+    "4":"Americans were looking for \"relief.\" Instead the president promised to defund Social Security and Medicare, said a Florida lawmaker.",
+    "5":"Activists in Lebanon blame politicians' corruption and negligence for the blast that killed nearly 160 and left thousands injured.",
+    "6":"The former first lady said on her new podcast that she's struggling with the \"day in and day out\" hypocrisy of Trump's administration."
+  },
+  "authors":{
+    "0":"Mary Papenfuss",
+    "1":"Bassem Mroue and Andrea Rosa, AP",
+    "2":"Jim Mustian, AP",
+    "3":"Hayley Miller",
+    "4":"Mary Papenfuss",
+    "5":"Sarah El Deeb and Bassem Mroue, AP",
+    "6":"Ron Dicker"
+  },
+  "date":{
+    "0":"2020-08-21 00:00:00",
+    "1":"2020-08-16 00:00:00",
+    "2":"2020-08-16 00:00:00",
+    "3":"2020-08-10 00:00:00",
+    "4":"2020-08-09 00:00:00",
+    "5":"2020-08-08 00:00:00",
+    "6":"2020-08-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usacop",
+    "2":"---hlh",
+    "3":"---bus",
+    "4":"---gov",
+    "5":"lbnopp",
+    "6":"---eli"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"lbn",
+    "2":"---gov",
+    "3":"usa",
+    "4":"usaleg",
+    "5":"---pty",
+    "6":"---gov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"060",
+    "2":"043",
+    "3":"043",
+    "4":"010",
+    "5":"112",
+    "6":"015"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":6.0,
+    "2":2.8,
+    "3":2.8,
+    "4":0.0,
+    "5":-2.0,
+    "6":0.0
+  },
+  "nouns":{
+    "0":[
+      "child",
+      "~cvl",
+      "~",
+      "president",
+      "~gov",
+      "~",
+      "pennsylvania",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "fbi",
+      "usacop",
+      "federal",
+      "bureau",
+      "of",
+      "investigation",
+      "beirut",
+      "lbn",
+      "lebanon"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "3":[
+      "chicago",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "businesses",
+      "~bus",
+      "~",
+      "businesses",
+      "~bus",
+      "~"
+    ],
+    "4":[
+      "president",
+      "~gov",
+      "~",
+      "florida",
+      "lawmaker",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "5":[
+      "lebanon",
+      "lbn",
+      "lebanon",
+      "activists",
+      "lbnopp",
+      "~",
+      "politicians",
+      "~pty",
+      "~"
+    ],
+    "6":[
+      "first lady",
+      "~eli",
+      "~",
+      "administration",
+      "~gov",
+      "~",
+      "administration",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "pennsylvania"
+    ],
+    "1":[
+      "fbi",
+      "beirut"
+    ],
+    "2":[
+      "hospital",
+      "president",
+      "president",
+      "hospital"
+    ],
+    "3":[
+      "businesses",
+      "chicago",
+      "chicago",
+      "businesses"
+    ],
+    "4":[
+      "president",
+      "florida lawmaker"
+    ],
+    "5":[
+      "activists",
+      "politicians"
+    ],
+    "6":[
+      "first lady",
+      "administration"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "federal bureau of investigation",
+      "lebanon"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america",
+      "united states of america",
+      "---"
+    ],
+    "4":[
+      "---",
+      "united states of america"
+    ],
+    "5":[
+      "",
+      "---"
+    ],
+    "6":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "will assist"
+    ],
+    "2":[
+      "visited",
+      "visited"
+    ],
+    "3":[
+      "leads to",
+      "leads to"
+    ],
+    "4":[
+      "said"
+    ],
+    "5":[
+      "blame"
+    ],
+    "6":[
+      "said ... 's struggling"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_democracy",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":[
+      "activism",
+      "1",
+      "corruption",
+      "1"
+    ],
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "usa",
+      "010"
+    ],
+    "1":[
+      "usacop",
+      "lbn",
+      "060"
+    ],
+    "2":[
+      "---hlh",
+      "---gov",
+      "043",
+      "---gov",
+      "---hlh",
+      "042"
+    ],
+    "3":[
+      "---bus",
+      "usa",
+      "043",
+      "usa",
+      "---bus",
+      "042"
+    ],
+    "4":[
+      "---gov",
+      "usaleg",
+      "010"
+    ],
+    "5":[
+      "lbnopp",
+      "---pty",
+      "112"
+    ],
+    "6":[
+      "---eli",
+      "---gov",
+      "015"
+    ]
+  }
+}

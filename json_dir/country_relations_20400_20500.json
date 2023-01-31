@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/syria-paris-agreement_us_5a01b87fe4b0368a4e86ed4d"
+  },
+  "headline":{
+    "0":"Syria Vows To Sign Paris Agreement, Leaving U.S. Alone In Climate Denial"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Nicaragua, the other holdout, signed the deal last month in solidarity with nations already suffering from climate change."
+  },
+  "authors":{
+    "0":"Alexander C. Kaufman"
+  },
+  "date":{
+    "0":"2017-11-07 00:00:00"
+  },
+  "actor1":{
+    "0":"syr"
+  },
+  "actor2":{
+    "0":"fra"
+  },
+  "event_code":{
+    "0":"057"
+  },
+  "goldstein_score":{
+    "0":8.0
+  },
+  "nouns":{
+    "0":[
+      "syria",
+      "syr",
+      "syria",
+      "paris",
+      "fra",
+      "france"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "syria",
+      "paris"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "syria",
+      "france"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "vows ... sign <&treaty>"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "syr",
+      "fra",
+      "057"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/donald-trump-golfs-a-lot_us_5a4be59ce4b025f99e1e22ac",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iran-protests_us_5a4b568ee4b025f99e1d4228"
+  },
+  "headline":{
+    "0":"White House Says Secret Rounds Of Golf Make Donald Trump A Better President",
+    "1":"Over 450 Protesters Arrested In Tehran During Crackdown On Anti-Government Demonstrations"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"But Obama was apparently a slacker whenever he played golf.",
+    "1":"Iran\u2019s Supreme Leader accused enemies of the Islamic Republic of stirring unrest across the country."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Bozorgmehr Sharafedin, Reuters"
+  },
+  "date":{
+    "0":"2018-01-02 00:00:00",
+    "1":"2018-01-02 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"irn"
+  },
+  "actor2":{
+    "0":"---gov",
+    "1":"---mus"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"112"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-2.0
+  },
+  "nouns":{
+    "0":[
+      "white house",
+      "usagov",
+      "white",
+      "house",
+      "president",
+      "~gov",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "iran",
+      "irn",
+      "iran",
+      "islamic",
+      "~mus",
+      "~",
+      "islamic",
+      "~mus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "white house",
+      "president"
+    ],
+    "1":[
+      "iran",
+      "islamic"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "white house",
+      "---"
+    ],
+    "1":[
+      "iran",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "says"
+    ],
+    "1":[
+      "accused"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "---gov",
+      "010"
+    ],
+    "1":[
+      "irn",
+      "---mus",
+      "112"
+    ]
+  }
+}

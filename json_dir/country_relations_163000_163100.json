@@ -1,0 +1,124 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/gulf-spill-trials-first-a_us_5bb1380be4b09bbe9a5c9773",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/paris-photo-fair-heads-to-los-angeles-for-the-first-time-photos_us_5bb2544ee4b0171db69f44b3"
+  },
+  "headline":{
+    "0":"Gulf Spill Trial's First Act Ends As BP Rests Its Case",
+    "1":"Paris Photo Fair Heads To Los Angeles For The First Time (PHOTOS)"
+  },
+  "category":{
+    "0":"ENVIRONMENT",
+    "1":"CULTURE & ARTS"
+  },
+  "short_description":{
+    "0":"On Tuesday, environmentalists and community advocates protested outside U.S. District Court on Poydras St. to mark the third",
+    "1":"Correction: An earlier version of this article listed 72 participating galleries, not exhibitors. We regret the error. Paris"
+  },
+  "authors":{
+    "0":"Susan Buchanan, Contributor\nContributor",
+    "1":"Priscilla Frank"
+  },
+  "date":{
+    "0":"2013-04-20 00:00:00",
+    "1":"2013-04-20 00:00:00"
+  },
+  "actor1":{
+    "0":"---envcvljud",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"usajud",
+    "1":"fra"
+  },
+  "event_code":{
+    "0":"140",
+    "1":"043"
+  },
+  "goldstein_score":{
+    "0":-6.5,
+    "1":2.8
+  },
+  "nouns":{
+    "0":[
+      "environmentalists",
+      "community",
+      "advocates",
+      "~envcvljud",
+      "~",
+      "~",
+      "~",
+      "u.s.",
+      "district court",
+      "usajud",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ],
+    "1":[
+      "paris",
+      "fra",
+      "france",
+      "los angeles",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "environmentalists ... community advocates",
+      "u.s. district court"
+    ],
+    "1":[
+      "los angeles",
+      "paris",
+      "paris",
+      "los angeles"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "united states of america",
+      "france",
+      "france",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "protested"
+    ],
+    "1":[
+      "heads to",
+      "heads to"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---envcvljud",
+      "usajud",
+      "140"
+    ],
+    "1":[
+      "usa",
+      "fra",
+      "043",
+      "fra",
+      "usa",
+      "042"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/china-donald-trump-north-korea_us_58514149e4b092f0868642fe",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bernie-sanders-our-revolution-book_us_58508996e4b0e411bfd44d27",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/advise-and-dissent-the-senate-majority-refuses-to_us_585158d1e4b0320ed05a9a13"
+  },
+  "headline":{
+    "0":"China Maps Out How To Deal With Donald Trump And North Korea",
+    "1":"Bernie Sanders' New Book Takes Corporate Media To Task",
+    "2":"Advise And Dissent: The Senate Majority Refuses To Do Its Job"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"ARTS & CULTURE",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"\"The two must cooperate here. If they don\u2019t, then there will be no resolution to the North Korean nuclear issue,\u201d a former Chinese diplomat said.",
+    "1":"\u201cIf media does not accept its responsibility to talk about the reality facing the American people [...] that is a real threat to the future of American democracy,\u201d",
+    "2":"The U.S. Senate has essentially closed up shop and gone home. The now-empty desks in the Senate chamber translate into empty"
+  },
+  "authors":{
+    "0":"Ben Blanchard and Christian Shepherd, Reuters",
+    "1":"Katherine Brooks",
+    "2":"Sammie Moshenberg, ContributorSammie Moshenberg is a consultant in Washington, DC."
+  },
+  "date":{
+    "0":"2016-12-14 00:00:00",
+    "1":"2016-12-14 00:00:00",
+    "2":"2016-12-14 00:00:00"
+  },
+  "actor1":{
+    "0":"chn",
+    "1":"---med",
+    "2":"usa"
+  },
+  "actor2":{
+    "0":"prk",
+    "1":"usappl",
+    "2":"usagovleg"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"011",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-0.1,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "china",
+      "chn",
+      "china",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "1":[
+      "media",
+      "~med",
+      "~",
+      "american",
+      "people",
+      "usappl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "american",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "u.s.",
+      "senate",
+      "usa",
+      "usagovleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "united",
+      "states",
+      "congress"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "china",
+      "north korea"
+    ],
+    "1":[
+      "media",
+      "american people"
+    ],
+    "2":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "china",
+      "north korea"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "maps ... deal"
+    ],
+    "1":[
+      "does ... accept ... responsibility ... talk"
+    ],
+    "2":[
+
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "chn",
+      "prk",
+      "050"
+    ],
+    "1":[
+      "---med",
+      "usappl",
+      "011"
+    ],
+    "2":[
+      "usa",
+      "usagovleg",
+      "040",
+      "usagovleg",
+      "usa",
+      "040"
+    ]
+  }
+}

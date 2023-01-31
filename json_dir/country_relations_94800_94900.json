@@ -1,0 +1,230 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/after-superstorm-sandy-a-_b_7420590.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/what-the-medical-device-i_b_7341922.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/basotho-lgbti-youth-conne_b_7474134.html",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trade-enforcement-failure_b_7479864.html",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/trade-enforcement-failure_b_7479864.html"
+  },
+  "headline":{
+    "0":"After Superstorm Sandy, a Community Cries Out for Its Hospital",
+    "1":"What the Medical Device Industry Can Learn From Starbucks",
+    "2":"Basotho LGBTI Youth Connect With International Activists",
+    "3":"Trade Enforcement Failure",
+    "4":"Trade Enforcement Failure"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"HEALTHY LIVING",
+    "2":"QUEER VOICES",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"Building a new hospital in Long Beach -- as FEMA intended when it allocated $154 million for that purpose --  will lead the country as a venue for new modalities of care for survivors of catastrophes.",
+    "1":"",
+    "2":"The energy in the room at the end of the day is buoyant. People are smiling and laughing. Several linger behind to discuss the incredible conversations that we have had.",
+    "3":"President after president has promised that the U.S. will compel foreign nations to meet labor standards established in free-trade agreements. They haven't. They probably can't. And American workers and politicians should stop buying it. The U.S. can sign trade agreements with countries after they stop murdering trade unionists and countenancing child labor.",
+    "4":"President after president has promised that the U.S. will compel foreign nations to meet labor standards established in free-trade agreements. They haven't. They probably can't. And American workers and politicians should stop buying it. The U.S. can sign trade agreements with countries after they stop murdering trade unionists and countenancing child labor."
+  },
+  "authors":{
+    "0":"Laurie Nadel, Contributorwww.laurienadel.com",
+    "1":"Jordan Safirstein, MD, Contributor",
+    "2":"Leila Hall, ContributorFreelance writer working in Lesotho, Southern Africa.",
+    "3":"Leo W. Gerard, ContributorInternational President, United Steelworkers",
+    "4":"Leo W. Gerard, ContributorInternational President, United Steelworkers"
+  },
+  "date":{
+    "0":"2015-06-01 00:00:00",
+    "1":"2015-06-01 00:00:00",
+    "2":"2015-06-01 00:00:00",
+    "3":"2015-06-01 00:00:00",
+    "4":"2015-06-01 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---bus",
+    "2":"lso",
+    "3":"usalabpty",
+    "4":"usa"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"mncusa",
+    "2":"---opp",
+    "3":"usalabpty",
+    "4":"---cvl"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"040",
+    "2":"0311",
+    "3":"061",
+    "4":"08"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.0,
+    "2":5.2,
+    "3":6.4,
+    "4":5.0
+  },
+  "nouns":{
+    "0":[
+      "community",
+      "~cvl",
+      "~",
+      "hospital",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "industry",
+      "~bus",
+      "~",
+      "starbucks",
+      "mncusa",
+      "starbucks"
+    ],
+    "2":[
+      "basotho",
+      "youth",
+      "lso",
+      "frareb",
+      "lesotho",
+      "gazteriak",
+      "activists",
+      "~opp",
+      "~"
+    ],
+    "3":[
+      "american",
+      "workers",
+      "politicians",
+      "usalabpty",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "~"
+    ],
+    "4":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "child",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "community",
+      "hospital"
+    ],
+    "1":[
+      "industry",
+      "starbucks"
+    ],
+    "2":[
+      "basotho",
+      "activists",
+      "youth",
+      "activists"
+    ],
+    "3":[
+      "american workers ... politicians",
+      "american workers ... politicians"
+    ],
+    "4":[
+      "u.s.",
+      "child"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "starbucks"
+    ],
+    "2":[
+      "lesotho",
+      "---",
+      "gazteriak",
+      "---"
+    ],
+    "3":[
+      "united states of america",
+      "united states of america"
+    ],
+    "4":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "cries"
+    ],
+    "1":[
+      "can learn"
+    ],
+    "2":[
+      "connect with",
+      "connect with"
+    ],
+    "3":[
+      "should ... buying"
+    ],
+    "4":[
+      "can sign <{trade> <&treaty}> ... countenancing"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":null,
+    "4":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---hlh",
+      "110"
+    ],
+    "1":[
+      "---bus",
+      "mncusa",
+      "040"
+    ],
+    "2":[
+      "lso",
+      "---opp",
+      "0311",
+      "frareb",
+      "---opp",
+      "0311"
+    ],
+    "3":[
+      "usalabpty",
+      "usalabpty",
+      "061"
+    ],
+    "4":[
+      "usa",
+      "---cvl",
+      "08"
+    ]
+  }
+}

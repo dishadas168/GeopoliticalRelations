@@ -1,0 +1,120 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bartlet-obama-the-west-wing-aaron-sorkin_us_5bb403f5e4b066f8d2535e54",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/big-bird-in-romneys-and-t_us_5bb23705e4b0171db69e6e36"
+  },
+  "headline":{
+    "0":"Bartlet Advises Obama: Aaron Sorkin Has 'West Wing' Character Help The President",
+    "1":"Big Bird in Romney's Sights and the National Endowment for the Arts Is Next"
+  },
+  "category":{
+    "0":"ENTERTAINMENT",
+    "1":"CULTURE & ARTS"
+  },
+  "short_description":{
+    "0":"\"The West Wing's\" President Jed Bartlet, one of America's favorite fictional presidents, is weighing in on President Obama's",
+    "1":"Governor Romney may call himself a Republican, but he is not a Republican of the iconic stature of President Reagan. President Reagan fully understood the importance of the arts to the formation of the nation's character."
+  },
+  "authors":{
+    "0":"",
+    "1":"Raymond J. Learsy, Contributor\nAuthor"
+  },
+  "date":{
+    "0":"2012-10-07 00:00:00",
+    "1":"2012-10-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usagov",
+    "1":"---gov"
+  },
+  "actor2":{
+    "0":"usagov",
+    "1":"---gov"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"041"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "america",
+      "presidents",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "west wing",
+      "usagov",
+      "white",
+      "house",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "1":[
+      "governor",
+      "~gov",
+      "~",
+      "president reagan",
+      "ronald",
+      "reagan",
+      "president reagan",
+      "ronald",
+      "reagan",
+      "president reagan",
+      "ronald",
+      "reagan"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "america ... presidents",
+      "america ... presidents"
+    ],
+    "1":[
+      "governor",
+      "governor"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is weighing"
+    ],
+    "1":[
+      "may call"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usagov",
+      "usagov",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---gov",
+      "041"
+    ]
+  }
+}

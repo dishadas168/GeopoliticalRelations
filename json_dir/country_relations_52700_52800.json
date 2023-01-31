@@ -1,0 +1,117 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/rudy-giuliani-first-class_us_5803a99de4b0162c043c9148",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/us-cyber-attack-against-russia_us_58023a37e4b0162c043c4959"
+  },
+  "headline":{
+    "0":"Rudy Giuliani, First Class Expert, Says Groping Would Never Happen In The Fancy Part Of An Airplane",
+    "1":"U.S. Considering Major Cyber Attack Against Russia: Report"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Former New York City Mayor Rudy Giuliani (R) vigorously defended his man for president, Donald Trump, on Sunday against the",
+    "1":"The Obama administration wants the Kremlin to answer for its alleged meddling in U.S. elections."
+  },
+  "authors":{
+    "0":"Amanda Terkel",
+    "1":"Daniel Marans"
+  },
+  "date":{
+    "0":"2016-10-16 00:00:00",
+    "1":"2016-10-15 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"rusgov"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"030"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":4.0
+  },
+  "nouns":{
+    "0":[
+      "mayor",
+      "~gov",
+      "~",
+      "man",
+      "~ppl",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "1":[
+      "the obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "kremlin",
+      "rusgov",
+      "kremlin",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mayor",
+      "man"
+    ],
+    "1":[
+      "the obama administration",
+      "kremlin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "kremlin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "defended"
+    ],
+    "1":[
+      "wants"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "election",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---ppl",
+      "074"
+    ],
+    "1":[
+      "usagov",
+      "rusgov",
+      "030"
+    ]
+  }
+}

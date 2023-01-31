@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mount-st-marys-students-bunnies-drown_us_56ba58cee4b0c3c5504f3548",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/mount-st-marys-students-bunnies-drown_us_56ba58cee4b0c3c5504f3548"
+  },
+  "headline":{
+    "0":"College President Fires Professors Who Criticized His 'Drown The Bunnies' Comment [UPDATE]",
+    "1":"College President Fires Professors Who Criticized His 'Drown The Bunnies' Comment [UPDATE]"
+  },
+  "category":{
+    "0":"COLLEGE",
+    "1":"COLLEGE"
+  },
+  "short_description":{
+    "0":"\"You just have to drown the bunnies ... put a Glock to their heads,\" the school's leader apparently told professors.",
+    "1":"\"You just have to drown the bunnies ... put a Glock to their heads,\" the school's leader apparently told professors."
+  },
+  "authors":{
+    "0":"Ryan Grenoble",
+    "1":"Ryan Grenoble"
+  },
+  "date":{
+    "0":"2016-02-09 00:00:00",
+    "1":"2016-02-09 00:00:00"
+  },
+  "actor1":{
+    "0":"---edugov",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "college",
+      "president",
+      "~edugov",
+      "~",
+      "~",
+      "professors",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "school",
+      "~edu",
+      "~",
+      "professors",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "college president",
+      "professors"
+    ],
+    "1":[
+      "school",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "fires"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":[
+      "postsecondary_education",
+      "2"
+    ],
+    "1":[
+      "schools",
+      "1",
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edugov",
+      "---edu",
+      "190"
+    ],
+    "1":[
+      "---edu",
+      "---edu",
+      "010"
+    ]
+  }
+}

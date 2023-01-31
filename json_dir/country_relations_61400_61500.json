@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/despite-isis-attacks-this-ramadan-im-a-muslim-journalist-with-hope_us_577c0aa0e4b041646410e6ff",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/uae-warns-citizens_us_577a117de4b0416464106159",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-fourth-of-july_us_577a6263e4b09b4c43c0dc53",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/college-sexual-assault-white-house_us_5779c6c2e4b0416464105ca7"
+  },
+  "headline":{
+    "0":"Despite ISIS Attacks, I'm A Muslim Journalist With Hope",
+    "1":"UAE Warns Citizens To Avoid Wearing Traditional Clothing While Abroad",
+    "2":"President Obama Celebrates His Last Fourth Of July At The White House",
+    "3":"Obama, Biden Won't Visit Universities That Fall Short In Addressing Sexual Assault"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"THE WORLDPOST",
+    "2":"POLITICS",
+    "3":"COLLEGE"
+  },
+  "short_description":{
+    "0":"We live in a world where people still associate the brutality and cowardice of ISIS with the same people who die at the militant group's hands.",
+    "1":"The advisory came after a man was mistakenly arrested in Ohio while wearing robes and a head scarf.",
+    "2":"Every year, he and first lady Michelle Obama honor military veterans and their families.",
+    "3":"The vice president said he'd like to take away federal funding from those universities."
+  },
+  "authors":{
+    "0":"Rowaida Abdelaziz",
+    "1":"Nick Visser",
+    "2":"Marina Fang",
+    "3":"Nick Visser"
+  },
+  "date":{
+    "0":"2016-07-05 00:00:00",
+    "1":"2016-07-04 00:00:00",
+    "2":"2016-07-04 00:00:00",
+    "3":"2016-07-04 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"usagov",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"imgmusisippl",
+    "1":"---ppl",
+    "2":"---mil",
+    "3":"---edu"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"173",
+    "2":"051",
+    "3":"171"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0,
+    "2":3.4,
+    "3":-9.2
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "isis",
+      "imgmusisi",
+      "the",
+      "islamic",
+      "state",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "man",
+      "~ppl",
+      "~",
+      "ohio",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "military",
+      "~mil",
+      "~"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "universities",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "---"
+    ],
+    "1":[
+      "ohio",
+      "man"
+    ],
+    "2":[
+      "obama",
+      "military"
+    ],
+    "3":[
+      "president",
+      "universities"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "united states of america",
+      "---"
+    ],
+    "2":[
+      "barack obama",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "associate"
+    ],
+    "1":[
+      "<~ppl> ... arrested in <usa>"
+    ],
+    "2":[
+      "honor"
+    ],
+    "3":[
+      "said ... 'd ... take"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "imgmusisippl",
+      "050"
+    ],
+    "1":[
+      "usa",
+      "---ppl",
+      "173"
+    ],
+    "2":[
+      "usagov",
+      "---mil",
+      "051"
+    ],
+    "3":[
+      "---gov",
+      "---edu",
+      "171"
+    ]
+  }
+}

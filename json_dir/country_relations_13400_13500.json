@@ -1,0 +1,200 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/university-admissions-support-student-protesters_us_5a91129ee4b0ee6416a37ca1",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/trump-armed-teachers-florida-gunman_us_5a903b5de4b01e9e56bb4e61",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/trump-new-sanctions-north-korea_us_5a9025d2e4b01e9e56bafcc2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/rick-scott-gun-laws_us_5a904401e4b01e9e56bb63e5"
+  },
+  "headline":{
+    "0":"Universities Tell Applicants That Protesting Gun Violence Won\u2019t Affect Admissions",
+    "1":"Trump: Armed Teachers Would Have 'Shot The Hell' Out Of Florida Gunman",
+    "2":"U.S. Treasury Announces Most Aggressive Sanctions To Date On North Korea",
+    "3":"Rick Scott Breaks With Trump, NRA With New Gun Control Proposals"
+  },
+  "category":{
+    "0":"EDUCATION",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Student walkouts for gun control have gone nationwide following the recent shooting at Marjory Stoneman Douglas High School.",
+    "1":"The president also attacked the armed security guard at Marjory Stoneman Douglas High School for not going after Nikolas Cruz.",
+    "2":"\"The United States will continue targeting persons, wherever located, who facilitate North Korea\u2019s illicit shipping practices.\u201d",
+    "3":"Scott's proposals come more than a week after 17 people died in a mass shooting at a Florida high school."
+  },
+  "authors":{
+    "0":"Carla Herreria",
+    "1":"Willa Frej",
+    "2":"Willa Frej",
+    "3":"Zachary Fagenson, Reuters"
+  },
+  "date":{
+    "0":"2018-02-24 00:00:00",
+    "1":"2018-02-23 00:00:00",
+    "2":"2018-02-23 00:00:00",
+    "3":"2018-02-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---edu",
+    "1":"---gov",
+    "2":"usa",
+    "3":"---ppl"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---edu",
+    "2":"prk",
+    "3":"usaedu"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"111",
+    "2":"010",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-2.0,
+    "2":0.0,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "student",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "high school",
+      "~edu",
+      "~"
+    ],
+    "2":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "north korea",
+      "prk",
+      "north",
+      "korea"
+    ],
+    "3":[
+      "people",
+      "~ppl",
+      "~",
+      "florida",
+      "high school",
+      "usaedu",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "student",
+      "student"
+    ],
+    "1":[
+      "president",
+      "high school"
+    ],
+    "2":[
+      "u.s.",
+      "north korea"
+    ],
+    "3":[
+      "people",
+      "florida high school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states of america",
+      "north korea"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have gone"
+    ],
+    "1":[
+      "attacked ... for"
+    ],
+    "2":[
+      "announces"
+    ],
+    "3":[
+      "died"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1",
+      "schools",
+      "1"
+    ],
+    "1":[
+      "schools",
+      "1"
+    ],
+    "2":[
+      "sanctions",
+      "1"
+    ],
+    "3":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---edu",
+      "---edu",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---edu",
+      "111"
+    ],
+    "2":[
+      "usa",
+      "prk",
+      "010"
+    ],
+    "3":[
+      "---ppl",
+      "usaedu",
+      "190"
+    ]
+  }
+}

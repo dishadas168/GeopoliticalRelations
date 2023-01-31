@@ -1,0 +1,129 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/putting-health-first-for-_b_5967350.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/huffington-post-in-the-wa_b_6037798.html"
+  },
+  "headline":{
+    "0":"Mary Did Not Have a Great \"Day of the Girl Child\"",
+    "1":"In the War Between the CIA and Senate Democrats, Everybody Won Except the Public"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"The International Day of the Girl Child is on a par with the worthy treaties some world leaders sign and then fail to implement. 190 governments have ratified the Convention on the Rights of Children.",
+    "1":"This entire investigation into the CIA's role in illegal tortures has died, allegedly because the Senate's Sergeant-at-Arms doesn't trust the CIA, the CIA's Inspector General finds the CIA's accusations against the Democratic-led Committee to be based on \"inaccurate information,\" and the U.S. Attorney General asserts that the CIA's case against that Committee isn't worth pursuing."
+  },
+  "authors":{
+    "0":"Rebecca Tinsley, ContributorJournalist and human rights activist",
+    "1":"Eric Zuesse, ContributorInvestigative historian"
+  },
+  "date":{
+    "0":"2014-10-23 00:00:00",
+    "1":"2014-10-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usaspy"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"usagovleg"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "governments",
+      "~gov",
+      "~",
+      "children",
+      "~cvl",
+      "~",
+      "children",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community",
+      "u.s.",
+      "attorney general",
+      "usagov",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "cia",
+      "usaspy",
+      "us",
+      "intelligence",
+      "community"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "governments",
+      "children"
+    ],
+    "1":[
+      "cia",
+      "senate"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "us intelligence community",
+      "united states congress"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "have ratified"
+    ],
+    "1":[
+      ""
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "08"
+    ],
+    "1":[
+      "usaspy",
+      "usagovleg",
+      "190"
+    ]
+  }
+}

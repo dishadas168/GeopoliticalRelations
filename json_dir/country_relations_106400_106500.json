@@ -1,0 +1,116 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/hobby-lobby-bible-class_n_6464834.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/teachers-image-takes-a-hi_b_6465978.html"
+  },
+  "headline":{
+    "0":"Oklahoma Bill Seeks To Protect Schools That Offer Bible Courses",
+    "1":"Teacher's Image Takes a Hit in America"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"EDUCATION"
+  },
+  "short_description":{
+    "0":"",
+    "1":"Something about our fast-paced, super consumerist society seems to have robbed the teaching vocation the respect it deserves, disposing that once concrete and tender human relationship to a matter of mere transaction."
+  },
+  "authors":{
+    "0":"Alexandra Svokos",
+    "1":"Andrew Lam, ContributorAuthor and editor, New America Media"
+  },
+  "date":{
+    "0":"2015-01-14 00:00:00",
+    "1":"2015-01-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---edu"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"0334",
+    "1":"171"
+  },
+  "goldstein_score":{
+    "0":6.0,
+    "1":-9.2
+  },
+  "nouns":{
+    "0":[
+      "oklahoma",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "schools",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "teacher",
+      "~edu",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "oklahoma",
+      "schools"
+    ],
+    "1":[
+      "teacher",
+      "america"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "seeks ... protect"
+    ],
+    "1":[
+      "takes"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ],
+    "1":[
+      "teachers",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "0334"
+    ],
+    "1":[
+      "---edu",
+      "usa",
+      "171"
+    ]
+  }
+}

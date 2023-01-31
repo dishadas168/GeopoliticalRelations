@@ -1,0 +1,219 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/colleges-and-universities-should-become-sanctuaries_us_58291be8e4b02b1f5257a57b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/paris-attacks-memorials_us_5828318ce4b02d21bbc92929",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/paris-batclan-attacks-memory-research_us_5828b1c7e4b02d21bbc940ca",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/reince-priebus-trump-chief-of-staff_us_5828d4e7e4b060adb56ef668",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/could-the-electoral-college-dump-trump-dems-dangerous_us_58283e9ae4b02b1f5257a414"
+  },
+  "headline":{
+    "0":"Colleges And Universities Should Become Sanctuaries For The Undocumented",
+    "1":"Paris Honors Attack Victims During Somber Anniversary Ceremonies",
+    "2":"French Researchers Want To Know How People Will Remember The 2015 Paris Attacks",
+    "3":"Reince Priebus Named Donald Trump's White House Chief Of Staff",
+    "4":"Could The Electoral College Dump Trump? Dems' Dangerous Wishes"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"THE WORLDPOST",
+    "2":"THE WORLDPOST",
+    "3":"POLITICS",
+    "4":"POLITICS"
+  },
+  "short_description":{
+    "0":"While it would be logistically complicated, a motivated president could conceivably deport upwards of 1 million immigrants a year, and \u201cvoluntarily remove\u201d many more.",
+    "1":"Sunday marked one year since the attacks.",
+    "2":"A decadelong research project seeks to monitor how collective and individual memories form after tragic events.",
+    "3":"Steve Bannon, Trump's campaign CEO and former chairman of Breitbart News, will serve as chief strategist and senior counselor.",
+    "4":"Could the Electoral College act to vote for Hillary Clinton, who won and continues to expand a lead in the popular vote, and"
+  },
+  "authors":{
+    "0":"Elliott Young, ContributorProfessor of History and Director of Ethnic Studies at Lewis &...",
+    "1":"Alana Horowitz Satlin and Willa Frej",
+    "2":"HuffPost France, Marine Le Breton",
+    "3":"Marina Fang",
+    "4":"Brian Ross, ContributorManaging Editor, TheJazzChef.com, and pioneering ezine editor ..."
+  },
+  "date":{
+    "0":"2016-11-14 00:00:00",
+    "1":"2016-11-13 00:00:00",
+    "2":"2016-11-13 00:00:00",
+    "3":"2016-11-13 00:00:00",
+    "4":"2016-11-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"fra",
+    "2":"fra",
+    "3":"---bus",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl",
+    "2":"---ppl",
+    "3":"---jud",
+    "4":"usaeli"
+  },
+  "event_code":{
+    "0":"174",
+    "1":"190",
+    "2":"030",
+    "3":"060",
+    "4":"030"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":-10.0,
+    "2":4.0,
+    "3":6.0,
+    "4":4.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "immigrants",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "paris",
+      "fra",
+      "france",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "2":[
+      "french",
+      "fra",
+      "france",
+      "people",
+      "~ppl",
+      "~",
+      "paris",
+      "fra",
+      "france"
+    ],
+    "3":[
+      "ceo",
+      "~bus",
+      "~",
+      "counselor",
+      "~jud",
+      "~"
+    ],
+    "4":[
+      "college",
+      "~edu",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "immigrants"
+    ],
+    "1":[
+      "paris",
+      "victims"
+    ],
+    "2":[
+      "french",
+      "people"
+    ],
+    "3":[
+      "ceo",
+      "counselor"
+    ],
+    "4":[
+      "college",
+      "hillary clinton"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "france",
+      "---"
+    ],
+    "2":[
+      "france",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "---",
+      "hillary clinton"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "could ... deport"
+    ],
+    "1":[
+      "attack"
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      "will serve"
+    ],
+    "4":[
+      "act ... vote"
+    ]
+  },
+  "issues":{
+    "0":[
+      "id_immigration",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":[
+      "postsecondary_education",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---cvl",
+      "174"
+    ],
+    "1":[
+      "fra",
+      "---cvl",
+      "190"
+    ],
+    "2":[
+      "fra",
+      "---ppl",
+      "030"
+    ],
+    "3":[
+      "---bus",
+      "---jud",
+      "060"
+    ],
+    "4":[
+      "---edu",
+      "usaeli",
+      "030"
+    ]
+  }
+}

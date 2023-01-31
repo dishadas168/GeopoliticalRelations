@@ -1,0 +1,186 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/stephen-colbert-donald-trump-laughter_n_5baae419e4b07dc0b87ee24f",
+    "1":"https:\/\/www.huffpost.com\/entry\/rod-rosenstein-25-amendment-record-trump-mueller_n_5ba538e5e4b069d5f9d2a702",
+    "2":"https:\/\/www.huffpost.com\/entry\/kellyanne-conway-george-slams-trumps-ceaseless-shameless-witless-prevarication_n_5b9ed8a7e4b04d32ebf99297",
+    "3":"https:\/\/www.huffpost.com\/entry\/putin-russia-identified-suspects-novichok_n_5b98c7aae4b0162f47323876"
+  },
+  "headline":{
+    "0":"Stephen\u00a0Colbert Mocks Trump By Revealing The Real Reason The World Is Laughing At Him",
+    "1":"Mueller Probe's Fate Hinges On Rod Rosenstein Convincing Trump He Was Just Joking",
+    "2":"Kellyanne Conway's Husband Rips Trump's 'Ceaseless, Shameless, Witless' Lies",
+    "3":"Putin Says Russia Identified Suspects In Novichok Poisoning"
+  },
+  "category":{
+    "0":"COMEDY",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The president's boasting didn't go over well at the United Nations.",
+    "1":"The president has long sought an excuse to fire the deputy attorney general and replace him with someone who would get rid of the special counsel.",
+    "2":"George Conway erupts after the president goes after Barack Obama's slip of the tongue a decade ago.",
+    "3":"Britain last week charged two alleged agents of Russia\u2019s military intelligence agency in absentia with the poisoning of former Russian spy Sergei Skripal and his daughter Yulia."
+  },
+  "authors":{
+    "0":"Ed Mazza",
+    "1":"Jessica Schulberg and Ryan J. Reilly",
+    "2":"Mary Papenfuss",
+    "3":""
+  },
+  "date":{
+    "0":"2018-09-26 00:00:00",
+    "1":"2018-09-22 00:00:00",
+    "2":"2018-09-17 00:00:00",
+    "3":"2018-09-12 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---gov",
+    "2":"---gov",
+    "3":"gbr"
+  },
+  "actor2":{
+    "0":"igouno",
+    "1":"---copgov",
+    "2":"usagov",
+    "3":"rusmilspy"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"138",
+    "2":"040",
+    "3":"112"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-7.0,
+    "2":1.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "president",
+      "~gov",
+      "~",
+      "the united nations",
+      "igouno",
+      "the",
+      "united",
+      "nations"
+    ],
+    "1":[
+      "president",
+      "~gov",
+      "~",
+      "deputy",
+      "attorney general",
+      "~copgov",
+      "~",
+      "~"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "barack obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "3":[
+      "britain",
+      "gbr",
+      "united",
+      "kingdom",
+      "russia",
+      "military intelligence agency",
+      "rusmilspy",
+      "russian",
+      "federation",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "the ... united nations"
+    ],
+    "1":[
+      "president",
+      "deputy attorney general"
+    ],
+    "2":[
+      "president",
+      "barack obama"
+    ],
+    "3":[
+      "britain",
+      "russia ... military intelligence agency"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "the united nations"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "barack obama"
+    ],
+    "3":[
+      "united kingdom",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "did ... go"
+    ],
+    "1":[
+      "has ... sought ... fire"
+    ],
+    "2":[
+      "goes"
+    ],
+    "3":[
+      "charged"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "disease",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "igouno",
+      "040"
+    ],
+    "1":[
+      "---gov",
+      "---copgov",
+      "138"
+    ],
+    "2":[
+      "---gov",
+      "usagov",
+      "040"
+    ],
+    "3":[
+      "gbr",
+      "rusmilspy",
+      "112"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/dont-call-me-strong_b_7556540.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/my-remarks-to-the-ukraini_b_7564164.html"
+  },
+  "headline":{
+    "0":"Don't Call Me Strong",
+    "1":"My Remarks to the Ukrainian People"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Victim. While it is not my primary identity, it will always be a part of who I am. Frequently, the media praises victims for \"not allowing themselves to be called a victim.\" As if it were degrading and demeaning words along the lines of \"slut.\"",
+    "1":"Far too often, people tell the story of what is happening today in Ukraine without you in it. It is East versus West. The Eurasian Union versus the European Union. Russia versus the EU or Russia versus the United States. In this telling, at best, the Ukrainian people get to choose one of these sides. At worst, a side is chosen for you."
+  },
+  "authors":{
+    "0":"Dani Bostick, ContributorDisruptor of shame and silence, educator, advocate.",
+    "1":"Ambassador Samantha Power, ContributorU.S. Permanent Representative to the United Nations"
+  },
+  "date":{
+    "0":"2015-06-12 00:00:00",
+    "1":"2015-06-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"ukr"
+  },
+  "event_code":{
+    "0":"051",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":3.4,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "media",
+      "~med",
+      "~",
+      "victims",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "media",
+      "victims"
+    ],
+    "1":[
+      "people",
+      "ukraine"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "ukraine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "praises"
+    ],
+    "1":[
+      "tell"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "051"
+    ],
+    "1":[
+      "---ppl",
+      "ukr",
+      "010"
+    ]
+  }
+}

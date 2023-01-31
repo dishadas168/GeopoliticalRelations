@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/georgia-justice-dept-lawsuit_us_57bca778e4b00d9c3a1a77d8"
+  },
+  "headline":{
+    "0":"Justice Department To Georgia: Stop Treating Students With Disabilities As Separate And Unequal"
+  },
+  "category":{
+    "0":"POLITICS"
+  },
+  "short_description":{
+    "0":"Georgia is unnecessarily segregating students with special needs, a lawsuit alleges."
+  },
+  "authors":{
+    "0":"Rebecca Klein"
+  },
+  "date":{
+    "0":"2016-08-24 00:00:00"
+  },
+  "actor1":{
+    "0":"geo"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"170"
+  },
+  "goldstein_score":{
+    "0":-7.0
+  },
+  "nouns":{
+    "0":[
+      "georgia",
+      "geo",
+      "georgia",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "georgia",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "georgia",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "is ... segregating"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "geo",
+      "---edu",
+      "170"
+    ]
+  }
+}

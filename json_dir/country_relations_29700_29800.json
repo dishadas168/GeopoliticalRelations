@@ -1,0 +1,160 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/health-care-constituent-stories_us_5964fb80e4b005b0fdc89fa7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/iranian-scientist-boston_us_59650ebfe4b03f144e2e643a",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/i-do-promise-to-fight-for-our-marriage-for-as-long_us_596506e1e4b09be68c00559d"
+  },
+  "headline":{
+    "0":"Democratic Group Highlights Health Care Fears In Republican Districts",
+    "1":"Iranian Scientist Arriving In U.S. To Aid Cancer Research Sent Home By Border Authorities",
+    "2":"Why I Will Always Continue To Fight For My Marriage"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"A new website tells the stories of constituents from 12 districts whose representatives voted for the House health care bill.",
+    "1":"Customs and Border Protection officials said they booted the researcher and his family for reasons unrelated to President Donald Trump's travel ban.",
+    "2":"We knew an army of anti-gay extremists were waging a war against us, our community, our love and same-marriage."
+  },
+  "authors":{
+    "0":"Kaeli Subberwal",
+    "1":"Elise Foley and Jessica Schulberg",
+    "2":"Caroline Hart, ContributorI use my voice to advocate for human rights, women's rights an..."
+  },
+  "date":{
+    "0":"2017-07-11 00:00:00",
+    "1":"2017-07-11 00:00:00",
+    "2":"2017-07-11 00:00:00"
+  },
+  "actor1":{
+    "0":"---med",
+    "1":"irncvl",
+    "2":"---milrad"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---gov",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-10.0
+  },
+  "nouns":{
+    "0":[
+      "website",
+      "~med",
+      "~",
+      "constituents",
+      "~cvl",
+      "~",
+      "constituents",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "iranian",
+      "scientist",
+      "irncvl",
+      "iran",
+      "~",
+      "authorities",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "extremists",
+      "~rad",
+      "~",
+      "army",
+      "extremists",
+      "~milrad",
+      "~",
+      "~",
+      "community",
+      "~cvl",
+      "~",
+      "community",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "website",
+      "constituents"
+    ],
+    "1":[
+      "iranian scientist",
+      "authorities"
+    ],
+    "2":[
+      "army ... extremists",
+      "community"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "iran",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "tells"
+    ],
+    "1":[
+      "arriving"
+    ],
+    "2":[
+      "were waging ... war"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "disease",
+      "1"
+    ],
+    "2":[
+      "discrimination",
+      "1",
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "irncvl",
+      "---gov",
+      "040"
+    ],
+    "2":[
+      "---milrad",
+      "---cvl",
+      "190"
+    ]
+  }
+}

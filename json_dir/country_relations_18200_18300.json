@@ -1,0 +1,187 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/generational-wealth-thats-the-key_us_5a29bbbae4b0d7c3f2622122",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/listen-to-america-interviews_us_5a206e7be4b0a02abe8fbf0c",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/conway-trump-cnn-moore-standards_us_5a27f949e4b044d167264be2",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/seventh-woman-accuses-al-franken-of-sexual-misconduct_us_5a27fc8ee4b02d3bfc370991"
+  },
+  "headline":{
+    "0":"Generational Wealth, That's The Key",
+    "1":"Here's What People Are Talking About In America Right Now",
+    "2":"Kellyanne Conway Defends Trump's 'Tremendous Moral Standards' After Roy Moore Endorsement",
+    "3":"Woman Says Al Franken Told Her An Unwanted Kiss Was His 'Right As An Entertainer'"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"WORLD NEWS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Conservative legislators are passing a tax bill that will worsen economic disparity. Here's how Black people can attempt to guard against it.",
+    "1":"These are the topics that matter most to Americans, according to interviews conducted during our Listen to America bus tour.",
+    "2":"Earlier this week, the president publicly endorsed the alleged child predator running for Senate.",
+    "3":"Two more women have now accused the Democratic senator of sexual misconduct."
+  },
+  "authors":{
+    "0":"Sam Floyd, ContributorChief Contributor at Grits & Gospel",
+    "1":"Jenna Amatulli",
+    "2":"Jenna Amatulli",
+    "3":"Sara Boboltz"
+  },
+  "date":{
+    "0":"2017-12-07 00:00:00",
+    "1":"2017-12-07 00:00:00",
+    "2":"2017-12-06 00:00:00",
+    "3":"2017-12-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---ppl",
+    "2":"---gov",
+    "3":"---cvl"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"usa",
+    "2":"usagovlegcrm",
+    "3":"---leg"
+  },
+  "event_code":{
+    "0":"074",
+    "1":"010",
+    "2":"051",
+    "3":"112"
+  },
+  "goldstein_score":{
+    "0":8.5,
+    "1":0.0,
+    "2":3.4,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "america",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "child predator",
+      "~crm",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "child predator",
+      "usagovlegcrm",
+      "~"
+    ],
+    "3":[
+      "women",
+      "~cvl",
+      "~",
+      "senator",
+      "~leg",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "people"
+    ],
+    "1":[
+      "people",
+      "america"
+    ],
+    "2":[
+      "president",
+      "child predator"
+    ],
+    "3":[
+      "women",
+      "senator"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      ""
+    ],
+    "3":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "can ... guard"
+    ],
+    "1":[
+      "are talking"
+    ],
+    "2":[
+      "endorsed"
+    ],
+    "3":[
+      "have ... accused"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "id_democracy",
+      "1",
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "074"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "usagovlegcrm",
+      "051"
+    ],
+    "3":[
+      "---cvl",
+      "---leg",
+      "112"
+    ]
+  }
+}

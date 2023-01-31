@@ -1,0 +1,157 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/art-in-the-age-of-berlusconi_us_5bb22078e4b0171db69d7a53",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/7-excellent-weekend-getaw_us_5b9b3d1ce4b03a1dcc75d267",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/presidents-day-sales-2012-macys_us_5b9b591de4b03a1dcc76cf8f"
+  },
+  "headline":{
+    "0":"\"Italian Conversations - Art In The Age Of Berlusconi\" Captures The Best Of Contemporary Italian Art (PHOTOS)",
+    "1":"7 Weekend Getaways In The American South (PHOTOS)",
+    "2":"Presidents' Day Sales 2012: Home Decor and Furniture Sales at Macy's, Kohl's, Walmart, Target"
+  },
+  "category":{
+    "0":"CULTURE & ARTS",
+    "1":"TRAVEL",
+    "2":"HOME & LIVING"
+  },
+  "short_description":{
+    "0":"A peek into the book Italian Conversations-Art in the age of Berlusconi from Robert Hamelijnck on Vimeo. We know you're interested",
+    "1":"People think of Florida beaches or Bourbon Street in New Orleans when they think of holidays in the southern US, but there are plenty of options.",
+    "2":"Though we honor our nation's greatest leaders, President's Day tends to mean two things to most people: A day off of work"
+  },
+  "authors":{
+    "0":"",
+    "1":"BootsnAll, Contributor\nA one-stop indie travel guide, founded in 1998",
+    "2":"Diana N. Nguyen"
+  },
+  "date":{
+    "0":"2012-02-18 00:00:00",
+    "1":"2012-02-17 00:00:00",
+    "2":"2012-02-17 00:00:00"
+  },
+  "actor1":{
+    "0":"ita",
+    "1":"---ppl",
+    "2":"---gov"
+  },
+  "actor2":{
+    "0":"ita",
+    "1":"usa",
+    "2":"---ppl"
+  },
+  "event_code":{
+    "0":"171",
+    "1":"040",
+    "2":"030"
+  },
+  "goldstein_score":{
+    "0":-9.2,
+    "1":1.0,
+    "2":4.0
+  },
+  "nouns":{
+    "0":[
+      "italian",
+      "ita",
+      "italy",
+      "italian",
+      "ita",
+      "italy"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "florida",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "new orleans",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "president",
+      "~gov",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "italian",
+      "italian"
+    ],
+    "1":[
+      "people",
+      "florida"
+    ],
+    "2":[
+      "president",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "italy",
+      "italy"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "captures"
+    ],
+    "1":[
+      "think"
+    ],
+    "2":[
+      "tends ... mean"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "ita",
+      "ita",
+      "171"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "040",
+      "---ppl",
+      "usa",
+      "040"
+    ],
+    "2":[
+      "---gov",
+      "---ppl",
+      "030"
+    ]
+  }
+}

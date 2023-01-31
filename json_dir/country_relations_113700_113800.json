@@ -1,0 +1,163 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/stop-killing-us-say-stron_b_6014734.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/stop-killing-us-say-stron_b_6014734.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/mexicos-foreign-minister-_b_6013828.html"
+  },
+  "headline":{
+    "0":"\"Stop Killing Us\" Say Strong Youth Leaders in Ferguson, Missouri's Weekend of Resistance to Police Brutality",
+    "1":"\"Stop Killing Us\" Say Strong Youth Leaders in Ferguson, Missouri's Weekend of Resistance to Police Brutality",
+    "2":"Mexico's Foreign Minister Pushes for UNSC Reforms, Strong Ties With India"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"BLACK VOICES",
+    "2":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"During the Weekend of Resistance, activists joined many actions planned by the youth organizers.  On Friday, October 10, despite an intense rainstorm, hundreds marched in Clayton, Missouri demanding that the county prosecutor step down.",
+    "1":"During the Weekend of Resistance, activists joined many actions planned by the youth organizers.  On Friday, October 10, despite an intense rainstorm, hundreds marched in Clayton, Missouri demanding that the county prosecutor step down.",
+    "2":"Addressing a public program in New Delhi today, Foreign Minister of Mexico, Dr. Jose A. Meade Kuribrena, pushed for reforms in the United Nations Security Council, in an oblique indication of support to India's bid for a permanent seat in the international forum."
+  },
+  "authors":{
+    "0":"Ann Wright, ContributorRetired U.S. Army Colonel",
+    "1":"Ann Wright, ContributorRetired U.S. Army Colonel",
+    "2":"Samarth Pathak, ContributorPublic advocacy specialist and policy analyst with a keen inte..."
+  },
+  "date":{
+    "0":"2014-10-21 00:00:00",
+    "1":"2014-10-21 00:00:00",
+    "2":"2014-10-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---opp",
+    "2":"mexgov"
+  },
+  "actor2":{
+    "0":"frarebcop",
+    "1":"frareb",
+    "2":"ind"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"100"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "us",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "missouri",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "youth",
+      "frareb",
+      "gazteriak",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "activists",
+      "~opp",
+      "~",
+      "youth",
+      "frareb",
+      "gazteriak"
+    ],
+    "2":[
+      "new delhi",
+      "ind",
+      "india",
+      "mexico",
+      "mex",
+      "mexico",
+      "foreign minister",
+      "mexgov",
+      "~",
+      "india",
+      "ind",
+      "india"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "us",
+      "---"
+    ],
+    "1":[
+      "activists",
+      "youth"
+    ],
+    "2":[
+      "foreign minister",
+      "new delhi"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "gazteriak"
+    ],
+    "2":[
+      "",
+      "india"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "say"
+    ],
+    "1":[
+      "joined"
+    ],
+    "2":[
+      "pushed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":[
+      "activism",
+      "1"
+    ],
+    "2":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "frarebcop",
+      "010"
+    ],
+    "1":[
+      "---opp",
+      "frareb",
+      "040"
+    ],
+    "2":[
+      "mexgov",
+      "ind",
+      "100"
+    ]
+  }
+}

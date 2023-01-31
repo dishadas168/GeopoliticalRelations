@@ -1,0 +1,114 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/california-wildfire_us_55ffdb81e4b00310edf79d6d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/police-body-camera-grants_us_56001b4be4b08820d919532b"
+  },
+  "headline":{
+    "0":"Wildfires In Northern California Kill 6 People, Destroy Nearly 1,600 Homes",
+    "1":"Obama Administration Gives Police Departments Millions For Body Cams"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"Ten active wildfires in Northern California continue to threaten a thousand more homes.",
+    "1":"Los Angeles, Washington, Chicago and Detroit are some of the biggest departments that will receive funding for cameras."
+  },
+  "authors":{
+    "0":"",
+    "1":"Ryan J. Reilly"
+  },
+  "date":{
+    "0":"2015-09-21 00:00:00",
+    "1":"2015-09-21 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---cop"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"071"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":7.4
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "obama administration",
+      "usagov",
+      "barack",
+      "obama",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "people"
+    ],
+    "1":[
+      "obama administration",
+      "police"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "destroy <kill>"
+    ],
+    "1":[
+      "gives ... millions"
+    ]
+  },
+  "issues":{
+    "0":[
+      "natural_disaster",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "usagov",
+      "---cop",
+      "071"
+    ]
+  }
+}

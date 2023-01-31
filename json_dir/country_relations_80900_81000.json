@@ -1,0 +1,274 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/how-the-taliban-gets-its_b_8551536.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/invisible-victims_b_8558966.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tamir-rice-police-expert_us_56451796e4b08cda34883054",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/alaska-kidnapping-rape-cabin_us_5645f355e4b045bf3deeac26",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/un-experts-call-on-iran-to-stop-arresting-journalists_us_5644bed3e4b08cda3487b33d",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/rights-group-says-libyan-journalist-kidnapped-in-tripoli_us_5644aa0de4b045bf3dedeb30"
+  },
+  "headline":{
+    "0":"How the Taliban Gets Its Cash",
+    "1":"Invisible Victims",
+    "2":"Police Expert Calls Tamir Rice Killing 'Tragic,' But 'Objectively Reasonable'",
+    "3":"Kidnapper Beat, Raped Woman For 5 Weeks In Remote Cabin: Cops",
+    "4":"UN Experts Call On Iran To Stop Arresting Journalists",
+    "5":"Rights Group Says Libyan Journalist Kidnapped In Tripoli"
+  },
+  "category":{
+    "0":"WORLDPOST",
+    "1":"POLITICS",
+    "2":"CRIME",
+    "3":"CRIME",
+    "4":"MEDIA",
+    "5":"MEDIA"
+  },
+  "short_description":{
+    "0":"Afghan government sources estimate that the Afghan heroin trade generates approximately two billion dollars in turnover within Afghanistan.",
+    "1":"Netanyahu should not have been hosted and feted in Washington, he should have been called out by policy makers for his behavior. Until that occurs, nothing will change. Palestinians will remain invisible victims, denied their rights, and peace will remain as elusive as ever.",
+    "2":"Activists demanded the appointment of an independent prosecutor to investigate the death of the 12-year-old.",
+    "3":"The woman says her abductor duct-taped her to his body at night to prevent her from fleeing.",
+    "4":"A U.N statement cited the Nov. 2 arrest by intelligence operatives of five journalists allegedly accused of seeking to undermine Iran's government.",
+    "5":"Motaz Kraif has worked for Libya al-Ahrar TV, a network formed during the 2011 uprising, and Al-Wasat newspaper, known for its anti-Islamist views."
+  },
+  "authors":{
+    "0":"Joseph V. Micallef, ContributorBest Selling Military History and World Affairs Author and Key...",
+    "1":"James Zogby, ContributorPresident, Arab American Institute; author, 'Arab Voices'",
+    "2":"Kim Bellware",
+    "3":"Mark Thiessen, Associated Press",
+    "4":"",
+    "5":"Rami Musa, AP"
+  },
+  "date":{
+    "0":"2015-11-14 00:00:00",
+    "1":"2015-11-14 00:00:00",
+    "2":"2015-11-13 00:00:00",
+    "3":"2015-11-13 00:00:00",
+    "4":"2015-11-12 00:00:00",
+    "5":"2015-11-12 00:00:00"
+  },
+  "actor1":{
+    "0":"afggov",
+    "1":"usa",
+    "2":"---opp",
+    "3":"---cvl",
+    "4":"igouno",
+    "5":"---hri"
+  },
+  "actor2":{
+    "0":"afg",
+    "1":"isrgov",
+    "2":"---jud",
+    "3":"---crm",
+    "4":"irn",
+    "5":"lby"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"120",
+    "2":"100",
+    "3":"010",
+    "4":"020",
+    "5":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-4.0,
+    "2":-5.0,
+    "3":0.0,
+    "4":3.0,
+    "5":0.0
+  },
+  "nouns":{
+    "0":[
+      "afghan",
+      "government",
+      "afggov",
+      "afghanistan",
+      "~",
+      "afghan",
+      "afg",
+      "afghanistan",
+      "afghanistan",
+      "afg",
+      "afghanistan"
+    ],
+    "1":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "washington",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "activists",
+      "~opp",
+      "~",
+      "prosecutor",
+      "~jud",
+      "~",
+      "prosecutor",
+      "~jud",
+      "~"
+    ],
+    "3":[
+      "woman",
+      "~cvl",
+      "~",
+      "abductor",
+      "~crm",
+      "~"
+    ],
+    "4":[
+      "un",
+      "igouno",
+      "un",
+      "iran",
+      "irn",
+      "iran",
+      "journalists",
+      "~med",
+      "~"
+    ],
+    "5":[
+      "rights group",
+      "~hri",
+      "~",
+      "libyan",
+      "lby",
+      "libya",
+      "tripoli",
+      "lby",
+      "libya"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "afghan government",
+      "afghan"
+    ],
+    "1":[
+      "washington",
+      "netanyahu"
+    ],
+    "2":[
+      "activists",
+      "prosecutor"
+    ],
+    "3":[
+      "woman",
+      "abductor"
+    ],
+    "4":[
+      "un",
+      "iran"
+    ],
+    "5":[
+      "rights group",
+      "libyan"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "afghanistan",
+      "afghanistan"
+    ],
+    "1":[
+      "united states of america",
+      "benjamin netanyahu"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "---"
+    ],
+    "4":[
+      "un",
+      "iran"
+    ],
+    "5":[
+      "---",
+      "libya"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      ""
+    ],
+    "1":[
+      "<isrgov>"
+    ],
+    "2":[
+      "demanded"
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      "call on"
+    ],
+    "5":[
+      "says"
+    ]
+  },
+  "issues":{
+    "0":[
+      "drugs",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "activism",
+      "1"
+    ],
+    "3":null,
+    "4":[
+      "media_censorship",
+      "1"
+    ],
+    "5":[
+      "civil_society",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "afggov",
+      "afg",
+      "010"
+    ],
+    "1":[
+      "usa",
+      "isrgov",
+      "120"
+    ],
+    "2":[
+      "---opp",
+      "---jud",
+      "100"
+    ],
+    "3":[
+      "---cvl",
+      "---crm",
+      "010"
+    ],
+    "4":[
+      "igouno",
+      "irn",
+      "020"
+    ],
+    "5":[
+      "---hri",
+      "lby",
+      "010"
+    ]
+  }
+}

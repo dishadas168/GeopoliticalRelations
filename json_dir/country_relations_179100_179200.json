@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/jonathan-holt-child-pornography-whitney-heichel_us_5ba2bcfde4b0c2784da54db7",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ceos-urge-employees-vote-romney_us_5bb2d8f5e4b0480ca65d39c0"
+  },
+  "headline":{
+    "0":"Jonathan Holt, Whitney Heichel's Murder Suspect, Confessed To Having Child Porn: Police",
+    "1":"Nine CEOs Pushing Workers To Vote For Romney"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Police told ABC News that Jonathan Holt, 24, who's accused of sexually assaulting and shooting 21-year-old Whitney Heichel",
+    "1":"The strategy is one endorsed by Republican presidential candidate Mitt Romney, a former CEO himself, who told business owners"
+  },
+  "authors":{
+    "0":"",
+    "1":"Alexis Kleinman"
+  },
+  "date":{
+    "0":"2012-10-28 00:00:00",
+    "1":"2012-10-28 00:00:00"
+  },
+  "actor1":{
+    "0":"---cop",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"shaftoe_",
+    "1":"---lab"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "police",
+      "~cop",
+      "~",
+      "jonathan",
+      "shaftoe_",
+      "jonathan"
+    ],
+    "1":[
+      "ceos",
+      "~bus",
+      "~",
+      "workers",
+      "~lab",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "police",
+      "jonathan"
+    ],
+    "1":[
+      "ceos",
+      "workers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "jonathan"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "told"
+    ],
+    "1":[
+      "pushing"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cop",
+      "shaftoe_",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---lab",
+      "100"
+    ]
+  }
+}

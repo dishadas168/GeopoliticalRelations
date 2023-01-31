@@ -1,0 +1,190 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-syria-refugees_us_5acb501be4b07a3485e68a3d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/broad-city-abbi-jacobson-sexuality_us_5acb99a8e4b09d0a119626fe",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/backpage-indictment-trafficking_us_5acbcaeae4b0337ad1eadf6a",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/two-us-soldiers-killed-in-kentucky-helicopter-crash-army_us_5ac91d89e4b07a3485e541f4"
+  },
+  "headline":{
+    "0":"Trump Condemns 'Sick' Syria Disaster Yet Slams The Door On Countless Refugees",
+    "1":"'Broad City' Star Abbi Jacobson Discusses Her Sexuality: 'I Kind Of Go Both Ways'",
+    "2":"Backpage.com Founders Indicted For Facilitating Prostitution On Site",
+    "3":"Two U.S. Soldiers Killed In Kentucky Helicopter Crash: Army"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES",
+    "2":"CRIME",
+    "3":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"The U.S. has resettled only 44 Syrian refugees since October.",
+    "1":"The writer-actress says the people she dates \"have to be funny, doing something they love.\u201d",
+    "2":"The federal government had seized the classifieds website, which featured ads for sex work, days before.",
+    "3":"\u201cThis is a day of sadness for Fort Campbell and the 101st Airborne,\u201d Brigadier General Todd Royar said."
+  },
+  "authors":{
+    "0":"Willa Frej",
+    "1":"Curtis M. Wong",
+    "2":"Jenna Amatulli and Ryan J. Reilly",
+    "3":"David Morgan, Reuters"
+  },
+  "date":{
+    "0":"2018-04-09 00:00:00",
+    "1":"2018-04-09 00:00:00",
+    "2":"2018-04-09 00:00:00",
+    "3":"2018-04-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---med",
+    "2":"---gov",
+    "3":"---mil"
+  },
+  "actor2":{
+    "0":"syrref",
+    "1":"---ppl",
+    "2":"---med",
+    "3":"usamil"
+  },
+  "event_code":{
+    "0":"08",
+    "1":"010",
+    "2":"171",
+    "3":"190"
+  },
+  "goldstein_score":{
+    "0":5.0,
+    "1":0.0,
+    "2":-9.2,
+    "3":-10.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "syrian",
+      "refugees",
+      "syrref",
+      "syria",
+      "~"
+    ],
+    "1":[
+      "writer",
+      "~med",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "2":[
+      "government",
+      "~gov",
+      "~",
+      "website",
+      "~med",
+      "~"
+    ],
+    "3":[
+      "soldiers",
+      "~mil",
+      "~",
+      "army",
+      "~mil",
+      "~",
+      "kentucky",
+      "army",
+      "usamil",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "syrian refugees"
+    ],
+    "1":[
+      "writer",
+      "people"
+    ],
+    "2":[
+      "government",
+      "website"
+    ],
+    "3":[
+      "soldiers",
+      "kentucky ... army"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "syria"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ],
+    "3":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "has resettled"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "had seized"
+    ],
+    "3":[
+      "killed"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "syrref",
+      "08"
+    ],
+    "1":[
+      "---med",
+      "---ppl",
+      "010"
+    ],
+    "2":[
+      "---gov",
+      "---med",
+      "171"
+    ],
+    "3":[
+      "---mil",
+      "usamil",
+      "190"
+    ]
+  }
+}

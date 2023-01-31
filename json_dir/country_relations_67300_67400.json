@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/bangladesh-editor-hacked-to-death_us_571e2c2ae4b0d0042da9b53d",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.nytimes.com\/2016\/04\/24\/opinion\/sunday\/is-hillary-clinton-dishonest.html?login=email&_r=0",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/shooting-at-high-school-prom_us_571cbb6ae4b0d4d3f7239cea"
+  },
+  "headline":{
+    "0":"Gay Rights Activist Hacked To Death In Bangladesh",
+    "1":"Nick Kristof: It's 'Bogus' To Say Hillary Is Fundamentally Dishonest",
+    "2":"Shooting At High School Prom Leaves 1 Dead, 2 Students Injured"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"CRIME"
+  },
+  "short_description":{
+    "0":"The killings took place two days after a university professor was slain in similar fashion in an attack claimed by the Islamic State.",
+    "1":"AFTER the New York primary, the betting websites are giving Hillary Clinton about a 94 percent chance of being the Democratic",
+    "2":"The students were leaving Antigo High School when they were wounded by a suspect armed with a rifle, police said."
+  },
+  "authors":{
+    "0":"Ruma Paul, Reuters",
+    "1":"",
+    "2":"Nina Golgowski"
+  },
+  "date":{
+    "0":"2016-04-25 00:00:00",
+    "1":"2016-04-24 00:00:00",
+    "2":"2016-04-24 00:00:00"
+  },
+  "actor1":{
+    "0":"---hri",
+    "1":"---med",
+    "2":"---edu"
+  },
+  "actor2":{
+    "0":"bgd",
+    "1":"usaeli",
+    "2":"---edu"
+  },
+  "event_code":{
+    "0":"1823",
+    "1":"060",
+    "2":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":6.0,
+    "2":1.0
+  },
+  "nouns":{
+    "0":[
+      "rights activist",
+      "~hri",
+      "~",
+      "bangladesh",
+      "bgd",
+      "bangladesh"
+    ],
+    "1":[
+      "websites",
+      "~med",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "2":[
+      "students",
+      "~edu",
+      "~",
+      "high school",
+      "~edu",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "rights activist",
+      "bangladesh"
+    ],
+    "1":[
+      "websites",
+      "hillary clinton"
+    ],
+    "2":[
+      "students",
+      "students"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "bangladesh"
+    ],
+    "1":[
+      "---",
+      "hillary clinton"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hacked to death"
+    ],
+    "1":[
+      "are giving"
+    ],
+    "2":[
+      "were leaving"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "id_democracy",
+      "1"
+    ],
+    "2":[
+      "students",
+      "1",
+      "schools",
+      "1",
+      "security_services",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---hri",
+      "bgd",
+      "1823"
+    ],
+    "1":[
+      "---med",
+      "usaeli",
+      "060"
+    ],
+    "2":[
+      "---edu",
+      "---edu",
+      "040"
+    ]
+  }
+}

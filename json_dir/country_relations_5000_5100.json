@@ -1,0 +1,233 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffpost.com\/entry\/pregnant-19-year-old-dies-trying-to-climb-us-border-wall_n_5e6b783ac5b6747ef11b3b71",
+    "1":"https:\/\/www.huffpost.com\/entry\/grand-princess-cruise-coronavirus-stranded_n_5e63ec72c5b6670e72f90b1c",
+    "2":"https:\/\/www.huffpost.com\/entry\/netanyahu-holds-solid-lead-in-israeli-elections_n_5e5d6c2fc5b67ed38b36dc83",
+    "3":"https:\/\/www.huffpost.com\/entry\/israelis-vote-in-3rd-election-to-decide-netanyahus-fate_n_5e5d3d77c5b6732f50e614e3",
+    "4":"https:\/\/www.huffpost.com\/entry\/saudi-arabia-suspends-entry-coronavirus-umrah-pilgrimage_n_5e5725c2c5b68f79fdc4aad3"
+  },
+  "headline":{
+    "0":"Pregnant 19-Year-Old Dies Trying To Climb U.S. Border Wall",
+    "1":"Cruise Ship Circles Off California Coast After 21 Test Positive For Coronavirus",
+    "2":"Netanyahu Holds Solid Lead In Israeli Elections",
+    "3":"Netanyahu Holds Solid Lead In Israeli Elections",
+    "4":"Saudi Arabia Suspends Entry For Annual Umrah Pilgrimage Amid Coronavirus Concerns"
+  },
+  "category":{
+    "0":"U.S. NEWS",
+    "1":"U.S. NEWS",
+    "2":"WORLD NEWS",
+    "3":"WORLD NEWS",
+    "4":"WORLD NEWS"
+  },
+  "short_description":{
+    "0":"U.S. Customs and Border Protection blamed Gir\u00f3n\u2019s death on human smugglers who encouraged her to try to climb the wall.",
+    "1":"The Grand Princess, with thousands of people aboard, was forbidden to dock in San Francisco over fears of COVID-19.",
+    "2":"Early exit polls show Prime Minister Benjamin Netanyahu holds a solid edge over his main rival in Israel\u2019s third election in under a year.",
+    "3":"Early exit polls show Prime Minister Benjamin Netanyahu holds a solid edge over his main rival in Israel\u2019s third election in under a year.",
+    "4":"Over 6 million Muslims traveled to Saudi Arabia for the Umrah pilgrimage in 2017."
+  },
+  "authors":{
+    "0":"",
+    "1":"Daisy Nguyen and Janie Har, AP",
+    "2":"Aron Heller, AP",
+    "3":"Aron Heller, AP",
+    "4":"Omar Fahmy, Reuters"
+  },
+  "date":{
+    "0":"2020-03-13 00:00:00",
+    "1":"2020-03-07 00:00:00",
+    "2":"2020-03-02 00:00:00",
+    "3":"2020-03-02 00:00:00",
+    "4":"2020-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---ppl",
+    "2":"isrgov",
+    "3":"isrgov",
+    "4":"---mus"
+  },
+  "actor2":{
+    "0":"---crm",
+    "1":"usa",
+    "2":"isr",
+    "3":"isr",
+    "4":"sau"
+  },
+  "event_code":{
+    "0":"112",
+    "1":"042",
+    "2":"060",
+    "3":"060",
+    "4":"040"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":1.9,
+    "2":6.0,
+    "3":6.0,
+    "4":1.0
+  },
+  "nouns":{
+    "0":[
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "smugglers",
+      "~crm",
+      "~"
+    ],
+    "1":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "san francisco",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "2":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "israeli",
+      "isr",
+      "israel"
+    ],
+    "3":[
+      "netanyahu",
+      "isrgov",
+      "benjamin",
+      "netanyahu",
+      "israeli",
+      "isr",
+      "israel"
+    ],
+    "4":[
+      "muslims",
+      "~mus",
+      "~",
+      "saudi arabia",
+      "sau",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "smugglers"
+    ],
+    "1":[
+      "people",
+      "san ... francisco"
+    ],
+    "2":[
+      "netanyahu",
+      "israeli"
+    ],
+    "3":[
+      "netanyahu",
+      "israeli"
+    ],
+    "4":[
+      "muslims",
+      "saudi arabia"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ],
+    "2":[
+      "benjamin netanyahu",
+      "israel"
+    ],
+    "3":[
+      "benjamin netanyahu",
+      "israel"
+    ],
+    "4":[
+      "---",
+      "saudi arabia"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "blamed"
+    ],
+    "1":[
+      "was ... dock"
+    ],
+    "2":[
+      "lead"
+    ],
+    "3":[
+      "lead"
+    ],
+    "4":[
+      "traveled"
+    ]
+  },
+  "issues":{
+    "0":[
+      "human_trafficking",
+      "1"
+    ],
+    "1":null,
+    "2":[
+      "election",
+      "1"
+    ],
+    "3":[
+      "election",
+      "1"
+    ],
+    "4":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---crm",
+      "112"
+    ],
+    "1":[
+      "---ppl",
+      "usa",
+      "042"
+    ],
+    "2":[
+      "isrgov",
+      "isr",
+      "060"
+    ],
+    "3":[
+      "isrgov",
+      "isr",
+      "060"
+    ],
+    "4":[
+      "---mus",
+      "sau",
+      "040"
+    ]
+  }
+}

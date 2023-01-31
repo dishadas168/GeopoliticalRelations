@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/sandra-orangutan-rights-and-personhood_b_6377896.html"
+  },
+  "headline":{
+    "0":"Sandra Orangutan, Rights and Personhood: An Essential Clarification of the Court's Decision"
+  },
+  "category":{
+    "0":"IMPACT"
+  },
+  "short_description":{
+    "0":"Here, attorney Steven Wise, who heads the Nonhuman Rights Project (NhRP), provides a very important clarification of the court's decision."
+  },
+  "authors":{
+    "0":"Marc Bekoff, ContributorProfessor emeritus of Ecology and Evolutionary Biology, Univer..."
+  },
+  "date":{
+    "0":"2014-12-25 00:00:00"
+  },
+  "actor1":{
+    "0":"---jud"
+  },
+  "actor2":{
+    "0":"---jud"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "attorney",
+      "~jud",
+      "~",
+      "the court",
+      "~jud",
+      "~",
+      "the court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "attorney",
+      "attorney"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "provides"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---jud",
+      "---jud",
+      "060"
+    ]
+  }
+}

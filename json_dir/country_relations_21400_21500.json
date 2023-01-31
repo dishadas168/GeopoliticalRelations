@@ -1,0 +1,75 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/las-vegas-gun-shows-shooting-california-study_us_59eebd49e4b0d14acdcc232e"
+  },
+  "headline":{
+    "0":"Study Ties California Gun Violence Increases To Nevada Gun Shows"
+  },
+  "category":{
+    "0":"CRIME"
+  },
+  "short_description":{
+    "0":"The University of California study indicates gun-related deaths and injuries increased 70 percent in neighboring areas after such events."
+  },
+  "authors":{
+    "0":"Dan Whitcomb, Reuters"
+  },
+  "date":{
+    "0":"2017-10-24 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"usa"
+  },
+  "event_code":{
+    "0":"060"
+  },
+  "goldstein_score":{
+    "0":6.0
+  },
+  "nouns":{
+    "0":[
+      "california",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "nevada",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "california",
+      "california"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "increases"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "usa",
+      "060"
+    ]
+  }
+}

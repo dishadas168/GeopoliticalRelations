@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cancer-warning-signs-doctors-patients_us_5b9b6a64e4b03a1dcc775d0d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/alexander-wang-lawsuit_us_5b9b6987e4b03a1dcc7758d9"
+  },
+  "headline":{
+    "0":"Many People Are Afraid To Tell Their Doctors About Cancer Warning Signs, Survey Shows",
+    "1":"Alexander Wang Hit With $50 Million Labor Lawsuit Alleging Unsafe Working Conditions"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"In addition, the report showed that more than 25 percent of the people surveyed in the study would delay telling a doctor",
+    "1":"UPDATE: Alexander Wang denies the accusations, as a company rep told Women's Wear Daily, \"The company takes its obligations"
+  },
+  "authors":{
+    "0":"Amanda L. Chan",
+    "1":"Jessica Misener"
+  },
+  "date":{
+    "0":"2012-03-06 00:00:00",
+    "1":"2012-03-06 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"010"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "doctor",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "doctor"
+    ],
+    "1":[
+      "company",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "would delay telling"
+    ],
+    "1":[
+      "told"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "---bus",
+      "---cvl",
+      "010"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-importance-of-parenta_us_5b9d00b9e4b03a1dcc83ad3c"
+  },
+  "headline":{
+    "0":"The Importance of Parental Involvement in Schools"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"According to a PBS report, close to one million American children drop out of school every year. In light of the staggering rate and our current crisis, it is important parents are involved in their children's education early."
+  },
+  "authors":{
+    "0":"Earl Martin Phalen, Contributor\nCEO and Founder, Phalen Leadership Academies and Summer Advant..."
+  },
+  "date":{
+    "0":"2013-04-04 00:00:00"
+  },
+  "actor1":{
+    "0":"usacvl"
+  },
+  "actor2":{
+    "0":"---edu"
+  },
+  "event_code":{
+    "0":"08"
+  },
+  "goldstein_score":{
+    "0":5.0
+  },
+  "nouns":{
+    "0":[
+      "american",
+      "children",
+      "usacvl",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "school",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "american children",
+      "school"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<['drop',> <'out']>"
+    ]
+  },
+  "issues":{
+    "0":[
+      "schools",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usacvl",
+      "---edu",
+      "08"
+    ]
+  }
+}

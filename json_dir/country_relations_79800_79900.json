@@ -1,0 +1,308 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/black-lives-matter-protesters-in-chicago-plan-to-boycott-black-friday_us_56572c31e4b079b2818a515c",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/paul-walker-dad-sues-porsche_us_5656d004e4b079b2818a4c06",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/www.bbc.com\/news\/world-europe-34929242",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/hollande-and-putin-to-cooperate-in-fight-against-isis_us_56577a09e4b08e945feb2aa7",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/boko-haram-kills-18-on-nigerian-border_us_56577938e4b079b2818a5c5c",
+    "5":"https:\/\/www.huffingtonpost.com\/entry\/mali-authorities-arrest-two-suspects-linked-to-bamako-hotel-attack_us_56576a3fe4b08e945feb2967",
+    "6":"https:\/\/www.huffingtonpost.com\/entry\/mali-authorities-arrest-two-suspects-linked-to-bamako-hotel-attack_us_56576a3fe4b08e945feb2967"
+  },
+  "headline":{
+    "0":"Black Lives Matter Protesters In Chicago Plan To Boycott Black Friday",
+    "1":"Paul Walker's Dad Files Wrongful Death Lawsuit Against Porsche",
+    "2":"Turkey releases audio of 'warning' to downed Russia jet - BBC News",
+    "3":"Hollande And Putin To Cooperate In Fight Against ISIS",
+    "4":"Boko Haram Kills At Least 18 On Nigerian Border",
+    "5":"Mali Authorities Arrest Two Suspects Linked To Bamako Hotel Attack",
+    "6":"Mali Authorities Arrest Two Suspects Linked To Bamako Hotel Attack"
+  },
+  "category":{
+    "0":"BLACK VOICES",
+    "1":"ENTERTAINMENT",
+    "2":"THE WORLDPOST",
+    "3":"THE WORLDPOST",
+    "4":"THE WORLDPOST",
+    "5":"THE WORLDPOST",
+    "6":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"One activist called on people to \"rise up\" and shut down the Magnificent Mile shopping area on Friday.",
+    "1":"The actor's daughter, Meadow,  sued the carmaker in September.",
+    "2":"\"Change your heading south immediately,\" a voice apparently says in English. Turkey said it had tried to rescue the SU-24",
+    "3":"Hollande and Putin agreed on increasing intelligence sharing, intensifying their airstrikes against IS in Syria and cooperating",
+    "4":"\"Boko Haram has once again sent us into mourning.\"",
+    "5":"BAMAKO, Nov 26 (Reuters) - Mali authorities arrested two people on Thursday suspected of links to an attack on a luxury hotel",
+    "6":"BAMAKO, Nov 26 (Reuters) - Mali authorities arrested two people on Thursday suspected of links to an attack on a luxury hotel"
+  },
+  "authors":{
+    "0":"Don Babwin and Sophia Tareen, AP",
+    "1":"",
+    "2":"",
+    "3":"Sylvie Corbet and Vladimir Isachenkov, AP",
+    "4":"Emma Farge, Reuters",
+    "5":"Tiemoko Diallo and Adama Diarra, Reuters",
+    "6":"Tiemoko Diallo and Adama Diarra, Reuters"
+  },
+  "date":{
+    "0":"2015-11-26 00:00:00",
+    "1":"2015-11-26 00:00:00",
+    "2":"2015-11-26 00:00:00",
+    "3":"2015-11-26 00:00:00",
+    "4":"2015-11-26 00:00:00",
+    "5":"2015-11-26 00:00:00",
+    "6":"2015-11-26 00:00:00"
+  },
+  "actor1":{
+    "0":"---opp",
+    "1":"---eli",
+    "2":"tur",
+    "3":"fragov",
+    "4":"ngareb",
+    "5":"mligov",
+    "6":"mligov"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---bus",
+    "2":"rus",
+    "3":"rusgov",
+    "4":"nga",
+    "5":"mli",
+    "6":"---ppl"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"173",
+    "2":"084",
+    "3":"050",
+    "4":"190",
+    "5":"173",
+    "6":"173"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":-5.0,
+    "2":7.0,
+    "3":3.5,
+    "4":-10.0,
+    "5":-5.0,
+    "6":-5.0
+  },
+  "nouns":{
+    "0":[
+      "activist",
+      "~opp",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "actor",
+      "~eli",
+      "~",
+      "carmaker",
+      "~bus",
+      "~"
+    ],
+    "2":[
+      "turkey",
+      "tur",
+      "turkey",
+      "russia",
+      "bbc",
+      "rus",
+      "med",
+      "russian",
+      "federation",
+      "bbc"
+    ],
+    "3":[
+      "hollande",
+      "putin",
+      "fragov",
+      "rusgov",
+      "francois",
+      "hollande",
+      "vladimir",
+      "putin"
+    ],
+    "4":[
+      "boko haram",
+      "ngareb",
+      "boko",
+      "haram",
+      "nigerian",
+      "nga",
+      "nigeria"
+    ],
+    "5":[
+      "mali",
+      "authorities",
+      "mligov",
+      "mali",
+      "~",
+      "bamako",
+      "mli",
+      "mali"
+    ],
+    "6":[
+      "mali",
+      "authorities",
+      "mligov",
+      "mali",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "activist",
+      "people"
+    ],
+    "1":[
+      "actor",
+      "carmaker"
+    ],
+    "2":[
+      "turkey",
+      "russia",
+      "turkey",
+      "bbc"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "boko haram",
+      "nigerian"
+    ],
+    "5":[
+      "mali authorities",
+      "bamako"
+    ],
+    "6":[
+      "mali authorities",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "turkey",
+      "russian federation",
+      "turkey",
+      "bbc"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "boko haram",
+      "nigeria"
+    ],
+    "5":[
+      "mali",
+      "mali"
+    ],
+    "6":[
+      "mali",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "called on"
+    ],
+    "1":[
+      "sued"
+    ],
+    "2":[
+      "releases",
+      "releases"
+    ],
+    "3":[
+
+    ],
+    "4":[
+      "kills"
+    ],
+    "5":[
+      "arrest"
+    ],
+    "6":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "activism",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":[
+      "airstrike",
+      "1"
+    ],
+    "4":[
+      "named_terror_group",
+      "1"
+    ],
+    "5":null,
+    "6":null
+  },
+  "events":{
+    "0":[
+      "---opp",
+      "---ppl",
+      "020"
+    ],
+    "1":[
+      "---eli",
+      "---bus",
+      "173"
+    ],
+    "2":[
+      "tur",
+      "rus",
+      "084",
+      "tur",
+      "med",
+      "084"
+    ],
+    "3":[
+      "fragov",
+      "rusgov",
+      "050",
+      "rusgov",
+      "fragov",
+      "050"
+    ],
+    "4":[
+      "ngareb",
+      "nga",
+      "190"
+    ],
+    "5":[
+      "mligov",
+      "mli",
+      "173"
+    ],
+    "6":[
+      "mligov",
+      "---ppl",
+      "173"
+    ]
+  }
+}

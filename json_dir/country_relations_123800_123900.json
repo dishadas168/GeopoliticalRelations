@@ -1,0 +1,167 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/personal-health-_b_5482294.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/obama-putin-ukraine_n_5522722.html",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/obama-putin_n_5522738.html"
+  },
+  "headline":{
+    "0":"The Difference Between Living And Being Alive With Chronic Illness",
+    "1":"Obama And Putin Discuss Ukraine Crisis",
+    "2":"Obama Sends Warning To Putin"
+  },
+  "category":{
+    "0":"HEALTHY LIVING",
+    "1":"WORLDPOST",
+    "2":"POLITICS"
+  },
+  "short_description":{
+    "0":"Life with chronic illness is just like any other -- a life full of obstacles. It's easy to lay down and not get back up. But if you're not moving, you're not living. So even when the obstacles become too great, the treatment stops working, the doctors stop telling you the good news, even when you lose support, you lose sight of what you're moving towards -- you keep moving.",
+    "1":"",
+    "2":""
+  },
+  "authors":{
+    "0":"Ilana Jacqueline, ContributorFreelance writer, patient advocate",
+    "1":"Eline Gordts",
+    "2":""
+  },
+  "date":{
+    "0":"2014-06-24 00:00:00",
+    "1":"2014-06-23 00:00:00",
+    "2":"2014-06-23 00:00:00"
+  },
+  "actor1":{
+    "0":"---hlh",
+    "1":"ukr",
+    "2":"usagov"
+  },
+  "actor2":{
+    "0":"---hlh",
+    "1":"usagov",
+    "2":"rusgov"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"040",
+    "2":"130"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":1.0,
+    "2":-4.4
+  },
+  "nouns":{
+    "0":[
+      "doctors",
+      "~hlh",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "putin",
+      "usagov",
+      "rusgov",
+      "barack",
+      "obama",
+      "vladimir",
+      "putin",
+      "ukraine",
+      "ukr",
+      "ukraine"
+    ],
+    "2":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "putin",
+      "rusgov",
+      "vladimir",
+      "putin"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "doctors",
+      "doctors"
+    ],
+    "1":[
+      "ukraine",
+      "obama",
+      "ukraine",
+      "putin",
+      "obama",
+      "ukraine",
+      "putin",
+      "ukraine"
+    ],
+    "2":[
+      "obama",
+      "putin"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "ukraine",
+      "barack obama",
+      "ukraine",
+      "vladimir putin",
+      "barack obama",
+      "ukraine",
+      "vladimir putin",
+      "ukraine"
+    ],
+    "2":[
+      "barack obama",
+      "vladimir putin"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "stop ... telling"
+    ],
+    "1":[
+      "discuss",
+      "discuss",
+      "discuss",
+      "discuss"
+    ],
+    "2":[
+      "warning"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null
+  },
+  "events":{
+    "0":[
+      "---hlh",
+      "---hlh",
+      "010"
+    ],
+    "1":[
+      "ukr",
+      "usagov",
+      "040",
+      "ukr",
+      "rusgov",
+      "040",
+      "usagov",
+      "ukr",
+      "040",
+      "rusgov",
+      "ukr",
+      "040"
+    ],
+    "2":[
+      "usagov",
+      "rusgov",
+      "130"
+    ]
+  }
+}

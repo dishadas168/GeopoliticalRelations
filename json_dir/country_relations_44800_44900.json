@@ -1,0 +1,188 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/scott-pruitt-poultry-contributions-lawsuit_us_587960bae4b0e58057fee7bd",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/john-lewis-donald-trump-selma_us_587bb4ffe4b0e58057ff5146",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/democrats-protest-defense-obamacare_us_587bd3e9e4b09281d0eb741d",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/trump-russia-sanctions_us_587bf9b5e4b09281d0eb81ca"
+  },
+  "headline":{
+    "0":"Trump's EPA Pick Went Easy On Industry That Backed Him: Report",
+    "1":"John Lewis Wouldn\u2019t Invite Donald Trump To Visit Selma With Him",
+    "2":"Democrats Lead Nationwide Day Of Rallies In Defense Of Obamacare",
+    "3":"Trump Wants To Cut Russia Sanctions In Return For Nuclear Arms Deal"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"POLITICS"
+  },
+  "short_description":{
+    "0":"Oklahoma Attorney General Scott Pruitt accepted over $40,000 in campaign cash from people in the poultry industry. Then he looked the other way as that industry polluted.",
+    "1":"The congressman said it would also be \u201calmost impossible\u201d for him to work with the president-elect.",
+    "2":"Bernie Sanders and other Senate Democrats addressed a crowd of thousands in Warren, Michigan.",
+    "3":"The President-Elect also criticized Moscow for its role in Syria."
+  },
+  "authors":{
+    "0":"Joseph Erbentraut",
+    "1":"Julia Craven",
+    "2":"Daniel Marans",
+    "3":"Guy Faulconbridge and William James, Reuters"
+  },
+  "date":{
+    "0":"2017-01-15 00:00:00",
+    "1":"2017-01-15 00:00:00",
+    "2":"2017-01-15 00:00:00",
+    "3":"2017-01-15 00:00:00"
+  },
+  "actor1":{
+    "0":"usagovenv",
+    "1":"---leg",
+    "2":"usagovleg",
+    "3":"---gov"
+  },
+  "actor2":{
+    "0":"---bus",
+    "1":"---leg",
+    "2":"usa",
+    "3":"rus"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"010",
+    "2":"010",
+    "3":"111"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":0.0,
+    "2":0.0,
+    "3":-2.0
+  },
+  "nouns":{
+    "0":[
+      "epa",
+      "usagovenv",
+      "environmental",
+      "protection",
+      "agency",
+      "industry",
+      "~bus",
+      "~",
+      "industry",
+      "~bus",
+      "~"
+    ],
+    "1":[
+      "congressman",
+      "~leg",
+      "~",
+      "president",
+      "~gov",
+      "~"
+    ],
+    "2":[
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress",
+      "michigan",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "3":[
+      "president",
+      "~gov",
+      "~",
+      "moscow",
+      "rus",
+      "russian",
+      "federation",
+      "syria",
+      "syr",
+      "syria"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "epa",
+      "industry"
+    ],
+    "1":[
+      "congressman",
+      "congressman"
+    ],
+    "2":[
+      "senate",
+      "michigan"
+    ],
+    "3":[
+      "president",
+      "moscow"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "environmental protection agency",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "united states congress",
+      "united states of america"
+    ],
+    "3":[
+      "---",
+      "russian federation"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "went"
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      "addressed"
+    ],
+    "3":[
+      "criticized"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usagovenv",
+      "---bus",
+      "040"
+    ],
+    "1":[
+      "---leg",
+      "---leg",
+      "010"
+    ],
+    "2":[
+      "usagovleg",
+      "usa",
+      "010"
+    ],
+    "3":[
+      "---gov",
+      "rus",
+      "111"
+    ]
+  }
+}

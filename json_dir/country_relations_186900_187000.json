@@ -1,0 +1,127 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/princess-charlene-albert-monaco-red-cross-ball_us_5b9c17a8e4b03a1dcc7c476d",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/woman-65-scares-off-5-thugs_us_5ba2b526e4b0c2784da4cd19"
+  },
+  "headline":{
+    "0":"Princess Charlene & Prince Albert II Dance Away The Night At Red Cross Ball In Monaco (PHOTOS)",
+    "1":"Woman, 65, Singlehandedly Stops 5 Masked Thugs From Robbing Her Pawn Shop (VIDEO)"
+  },
+  "category":{
+    "0":"STYLE & BEAUTY",
+    "1":"CRIME"
+  },
+  "short_description":{
+    "0":"Princess Charlene and Prince Albert II left London, where they caught a few matches (and cozied up rather awkwardly), and",
+    "1":"During the robbery, one of the men hit Martins, a Portuguese immigrant, with the gun. But despite the laceration, she refused"
+  },
+  "authors":{
+    "0":"",
+    "1":""
+  },
+  "date":{
+    "0":"2012-08-04 00:00:00",
+    "1":"2012-08-04 00:00:00"
+  },
+  "actor1":{
+    "0":"'ulukalala_lavaka_ata_",
+    "1":"---ppl"
+  },
+  "actor2":{
+    "0":"gbr",
+    "1":"prtcvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"194"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "prince",
+      "albert ii",
+      "'ulukalala_lavaka_ata_",
+      "belgov",
+      "prince",
+      "albert",
+      "ii",
+      "london",
+      "gbr",
+      "united",
+      "kingdom"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "men",
+      "~ppl",
+      "~",
+      "portuguese",
+      "immigrant",
+      "prtcvl",
+      "portugal",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "prince",
+      "london",
+      "albert ii",
+      "london"
+    ],
+    "1":[
+      "men",
+      "portuguese immigrant"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "prince",
+      "united kingdom",
+      "albert ii",
+      "united kingdom"
+    ],
+    "1":[
+      "---",
+      "portugal"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "<and> ... left",
+      "<and> ... left"
+    ],
+    "1":[
+      "hit ... with <&weapon>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "common_robbery",
+      "1",
+      "id_immigration",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "'ulukalala_lavaka_ata_",
+      "gbr",
+      "040",
+      "belgov",
+      "gbr",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "prtcvl",
+      "194"
+    ]
+  }
+}

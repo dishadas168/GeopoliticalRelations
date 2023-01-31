@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/let-girls-lead-video-cont_us_5bb1b761e4b01857b70ab421",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cellulite-fighting-shapewear-sued_us_5b9da6bae4b03a1dcc8acfc7"
+  },
+  "headline":{
+    "0":"Let Girls Lead Video Contest: Maria Josefa Castro Bay",
+    "1":"Cellulite-Fighting Shapewear Lines Sued For Not Fighting Cellulite"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"By raising her mother's awareness about girls' rights and getting her involved in community organizing, Maria Josefa Castro Bay was able to convince her mother that education matters. Now, Maria and her mother are working together to promote girls' rights in their Guatemalan community.",
+    "1":"Lingerie company Maidenform, along with Wacoal, are being sued by two women over \"slimming\" shapewear that supposedly reduces"
+  },
+  "authors":{
+    "0":"Rise Up, Contributor\nRise Up enables girls, youth, and women to transform their own...",
+    "1":""
+  },
+  "date":{
+    "0":"2013-11-09 00:00:00",
+    "1":"2013-11-08 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "actor2":{
+    "0":"gtmcvl",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"050",
+    "1":"173"
+  },
+  "goldstein_score":{
+    "0":3.5,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~",
+      "girls",
+      "~cvl",
+      "~",
+      "guatemalan",
+      "community",
+      "gtmcvl",
+      "guatemala",
+      "~"
+    ],
+    "1":[
+      "company",
+      "~bus",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "guatemalan community"
+    ],
+    "1":[
+      "women",
+      "company"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "guatemala"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are ... promote"
+    ],
+    "1":[
+      "<~bus> ... sued by <~cvl>"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "gtmcvl",
+      "050"
+    ],
+    "1":[
+      "---cvl",
+      "---bus",
+      "173"
+    ]
+  }
+}

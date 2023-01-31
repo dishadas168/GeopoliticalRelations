@@ -1,0 +1,153 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/afghan-refugees-in-sweden_us_578cf859e4b0c53d5cfa3e4b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/cop-car-torched-florida_us_578ccaa9e4b03fc3ee515768",
+    "2":"https:\/\/www.huffingtonpost.comhttp:\/\/latino.foxnews.com\/latino\/entertainment\/2016\/07\/18\/mexican-singer-arrested-over-video-depicting-violence-against-women\/"
+  },
+  "headline":{
+    "0":"Changes To Sweden's Asylum Policies Leave Many Afghan Refugees With Uncertain Futures",
+    "1":"Cop Car Found Torched In Florida With 'Black Lives Matter' Note: Police",
+    "2":"Mexican Singer Arrested Over Video Depicting Violence Against Women"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"CRIME",
+    "2":"LATINO VOICES"
+  },
+  "short_description":{
+    "0":"Sweden has a reputation for championing refugee protection. But recent changes to its asylum policies \u2013 especially the repatriation",
+    "1":"The explicit, handwritten note reportedly referenced the movement and two black men recently killed by police.",
+    "2":"A Mexican norte\u00f1o singer who depicted graphic violence against a woman in a controversial music video has been arrested because"
+  },
+  "authors":{
+    "0":"Rory Smith, Refugees Deeply",
+    "1":"Nina Golgowski",
+    "2":""
+  },
+  "date":{
+    "0":"2016-07-19 00:00:00",
+    "1":"2016-07-18 00:00:00",
+    "2":"2016-07-18 00:00:00"
+  },
+  "actor1":{
+    "0":"swe",
+    "1":"---ppl",
+    "2":"mex"
+  },
+  "actor2":{
+    "0":"afgref",
+    "1":"---cop",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"040",
+    "1":"190",
+    "2":"173"
+  },
+  "goldstein_score":{
+    "0":1.0,
+    "1":-10.0,
+    "2":-5.0
+  },
+  "nouns":{
+    "0":[
+      "sweden",
+      "swe",
+      "sweden",
+      "afghan",
+      "refugees",
+      "afgref",
+      "afghanistan",
+      "~"
+    ],
+    "1":[
+      "men",
+      "~ppl",
+      "~",
+      "police",
+      "~cop",
+      "~"
+    ],
+    "2":[
+      "mexican",
+      "mex",
+      "mexico",
+      "women",
+      "~cvl",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "sweden",
+      "afghan refugees"
+    ],
+    "1":[
+      "men",
+      "police"
+    ],
+    "2":[
+      "mexican",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "sweden",
+      "afghanistan"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "mexico",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "leave"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "arrested"
+    ]
+  },
+  "issues":{
+    "0":[
+      "refugees",
+      "1"
+    ],
+    "1":[
+      "security_services",
+      "1"
+    ],
+    "2":[
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "swe",
+      "afgref",
+      "040"
+    ],
+    "1":[
+      "---ppl",
+      "---cop",
+      "190"
+    ],
+    "2":[
+      "mex",
+      "---cvl",
+      "173"
+    ]
+  }
+}

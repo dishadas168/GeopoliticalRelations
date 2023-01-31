@@ -1,0 +1,109 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/post_7751_b_5432181.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/ryan-zinke-impeachment_n_5432453.html"
+  },
+  "headline":{
+    "0":"In Venezuela: It's Time to Consider New Options",
+    "1":"Montana GOP House Candidates Push For Obama Impeachment"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"There is one direct approach to Caracas immediately available. The administration should challenge Maduro to restore normal diplomatic relations. The US and Venezuela have not exchanged ambassadors since 2010.",
+    "1":""
+  },
+  "authors":{
+    "0":"Mack McLarty, ContributorChairman, McLarty Associates",
+    "1":"Amanda Terkel"
+  },
+  "date":{
+    "0":"2014-06-02 00:00:00",
+    "1":"2014-06-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"usa"
+  },
+  "actor2":{
+    "0":"vengov",
+    "1":"usagov"
+  },
+  "event_code":{
+    "0":"110",
+    "1":"100"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":-5.0
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "maduro",
+      "vengov",
+      "nicolas",
+      "maduro"
+    ],
+    "1":[
+      "montana",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "maduro"
+    ],
+    "1":[
+      "montana",
+      "obama"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "nicolas maduro"
+    ],
+    "1":[
+      "united states of america",
+      "barack obama"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "should challenge"
+    ],
+    "1":[
+      "push"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "vengov",
+      "110"
+    ],
+    "1":[
+      "usa",
+      "usagov",
+      "100"
+    ]
+  }
+}

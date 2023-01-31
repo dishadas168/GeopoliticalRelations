@@ -1,0 +1,66 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/older-fathers-linked-mental-problems-in-kids_us_5b9de6efe4b03a1dcc8e6709"
+  },
+  "headline":{
+    "0":"Dads' Age Linked With Kids' Mental Health Problems (STUDY)"
+  },
+  "category":{
+    "0":"PARENTING"
+  },
+  "short_description":{
+    "0":"\"Advanced mother's and father's ages may be protective for children in the sense that it is associated with better caregiving"
+  },
+  "authors":{
+    "0":""
+  },
+  "date":{
+    "0":"2014-02-27 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl"
+  },
+  "actor2":{
+    "0":"---cvl"
+  },
+  "event_code":{
+    "0":"050"
+  },
+  "goldstein_score":{
+    "0":3.5
+  },
+  "nouns":{
+    "0":[
+      "mother",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "mother",
+      "mother"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "may <~cvl> ... associated"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "050"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/finding-a-therapist_us_5b9d8f96e4b03a1dcc898623"
+  },
+  "headline":{
+    "0":"How Do You Know If Your Therapist Is Helping You?"
+  },
+  "category":{
+    "0":"WELLNESS"
+  },
+  "short_description":{
+    "0":"It's not always clear to patients what to ask a potential psychotherapist and how to know if he or she is any good.  It's also hard to know if it's working.  Most people find it easier to assess the skill of a medical practitioner."
+  },
+  "authors":{
+    "0":"Michael Bader, D.M.H., Contributor\nPsychologist and psychoanalyst in San Francisco"
+  },
+  "date":{
+    "0":"2013-09-30 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl"
+  },
+  "actor2":{
+    "0":"---hlh"
+  },
+  "event_code":{
+    "0":"010"
+  },
+  "goldstein_score":{
+    "0":0.0
+  },
+  "nouns":{
+    "0":[
+      "people",
+      "~ppl",
+      "~",
+      "medical practitioner",
+      "~hlh",
+      "~",
+      "medical practitioner",
+      "~hlh",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "people",
+      "medical practitioner"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "find ... assess"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---hlh",
+      "010"
+    ]
+  }
+}

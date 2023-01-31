@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/meningitis-outbreak_us_5b9c8219e4b03a1dcc7f4b90",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/starbucks-workers-tips-massachusetts-suit_us_5b9c82ebe4b03a1dcc7f53ae"
+  },
+  "headline":{
+    "0":"Congress Must Step in to Prevent Another Deadly Meningitis Outbreak",
+    "1":"Starbucks Workers Tips Suit Scores $14 Million Win Against Coffee Giant"
+  },
+  "category":{
+    "0":"WELLNESS",
+    "1":"MONEY"
+  },
+  "short_description":{
+    "0":"Lawmakers will hold the first hearings this week to investigate the deadly outbreak of meningitis in the United States. Those hearings represent a step in the right direction, but Congress must follow up with legislative action -- or run the risk that this outbreak will be followed by others.",
+    "1":"In a statement issued after the ruling Starbucks said it would respect the court's decision. \"Since we just received the"
+  },
+  "authors":{
+    "0":"Lynn R. Goldman, Contributor\nDean of Milken Institute School of Public Health at the George...",
+    "1":"Caroline Fairchild"
+  },
+  "date":{
+    "0":"2012-11-13 00:00:00",
+    "1":"2012-11-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---leg",
+    "1":"mncusa"
+  },
+  "actor2":{
+    "0":"usa",
+    "1":"---jud"
+  },
+  "event_code":{
+    "0":"090",
+    "1":"052"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":3.5
+  },
+  "nouns":{
+    "0":[
+      "lawmakers",
+      "~leg",
+      "~",
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ],
+    "1":[
+      "starbucks",
+      "mncusa",
+      "starbucks",
+      "the court",
+      "~jud",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "lawmakers",
+      "the ... united states"
+    ],
+    "1":[
+      "starbucks",
+      "the ... court"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "united states of america"
+    ],
+    "1":[
+      "starbucks",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "will ... investigate"
+    ],
+    "1":[
+      "said ... would respect ... decision"
+    ]
+  },
+  "issues":{
+    "0":[
+      "disease",
+      "2"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---leg",
+      "usa",
+      "090"
+    ],
+    "1":[
+      "mncusa",
+      "---jud",
+      "052"
+    ]
+  }
+}

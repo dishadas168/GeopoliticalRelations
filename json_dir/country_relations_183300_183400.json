@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/mothers-media_us_5b9c4412e4b03a1dcc7d7609",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/adriana-lima-second-baby-born_us_5b9c46cfe4b03a1dcc7d858c"
+  },
+  "headline":{
+    "0":"Drats! I Could Have Been Famous",
+    "1":"Adriana Lima's Second Baby Born"
+  },
+  "category":{
+    "0":"PARENTING",
+    "1":"STYLE & BEAUTY"
+  },
+  "short_description":{
+    "0":"Hollywood producers wanted somebody to attack other mothers for their choices; that's what makes for good television.  Even if it is a mischaracterization of the debate. I can't.",
+    "1":"Adriana Lima has given birth to a healthy baby girl, confirms Us Weekly. The Victoria's Secret model welcomed Sienna at around"
+  },
+  "authors":{
+    "0":"Karen Bergreen, Contributor\nComedian\/Author",
+    "1":""
+  },
+  "date":{
+    "0":"2012-09-13 00:00:00",
+    "1":"2012-09-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---bus",
+    "1":"per"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"---cvl"
+  },
+  "event_code":{
+    "0":"111",
+    "1":"060"
+  },
+  "goldstein_score":{
+    "0":-2.0,
+    "1":6.0
+  },
+  "nouns":{
+    "0":[
+      "producers",
+      "~bus",
+      "~",
+      "mothers",
+      "~cvl",
+      "~",
+      "television",
+      "~med",
+      "~"
+    ],
+    "1":[
+      "lima",
+      "per",
+      "peru",
+      "girl",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "producers",
+      "mothers"
+    ],
+    "1":[
+      "lima",
+      "girl"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "peru",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "wanted ... attack ... for"
+    ],
+    "1":[
+      "has given"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---bus",
+      "---cvl",
+      "111"
+    ],
+    "1":[
+      "per",
+      "---cvl",
+      "060"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/college-media-startups_us_56c1f088e4b0c3c55051eb2b"
+  },
+  "headline":{
+    "0":"These Startups Want To Create College Media Powerhouses"
+  },
+  "category":{
+    "0":"COLLEGE"
+  },
+  "short_description":{
+    "0":"Several new websites are challenging  \"dinosaurs\" at campus newspapers, as they overhaul reporting on campus."
+  },
+  "authors":{
+    "0":"Tyler Kingkade"
+  },
+  "date":{
+    "0":"2016-02-16 00:00:00"
+  },
+  "actor1":{
+    "0":"---med"
+  },
+  "actor2":{
+    "0":"---med"
+  },
+  "event_code":{
+    "0":"110"
+  },
+  "goldstein_score":{
+    "0":-2.0
+  },
+  "nouns":{
+    "0":[
+      "websites",
+      "~med",
+      "~",
+      "newspapers",
+      "~med",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "websites",
+      "websites"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "are challenging"
+    ]
+  },
+  "issues":{
+    "0":null
+  },
+  "events":{
+    "0":[
+      "---med",
+      "---med",
+      "110"
+    ]
+  }
+}

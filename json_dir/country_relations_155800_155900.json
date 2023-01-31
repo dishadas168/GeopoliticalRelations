@@ -1,0 +1,107 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/the-global-search-for-education-student-loan_us_5bb1ae54e4b01857b709f94c",
+    "1":"https:\/\/www.huffingtonpost.comhttp:\/\/www.businessinsider.com\/11-illegal-interview-questions-2013-7?op=1#ixzz2YBU89MNy"
+  },
+  "headline":{
+    "0":"The Global Search for Education: Student Loan Solution Will Come",
+    "1":"11 Common Interview Questions That Are Actually Illegal"
+  },
+  "category":{
+    "0":"IMPACT",
+    "1":"BUSINESS"
+  },
+  "short_description":{
+    "0":"Most countries, including the United States, want to ensure their students are equipped with the 21st century education needed to compete in today's world.  Can U.S. higher education systems remain competitive in terms of equity and positive outcomes among their global competitors?",
+    "1":"During job interviews, employers will try to gather as much information about you as possible, mostly through perfectly legal"
+  },
+  "authors":{
+    "0":"C. M. Rubin, Contributor\nBlogger and Author, \"The Real Alice in Wonderland\"",
+    "1":""
+  },
+  "date":{
+    "0":"2013-07-05 00:00:00",
+    "1":"2013-07-05 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"---bus"
+  },
+  "actor2":{
+    "0":"---edu",
+    "1":"---bus"
+  },
+  "event_code":{
+    "0":"0312",
+    "1":"040"
+  },
+  "goldstein_score":{
+    "0":5.2,
+    "1":1.0
+  },
+  "nouns":{
+    "0":[
+      "the united states",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "students",
+      "~edu",
+      "~"
+    ],
+    "1":[
+      "employers",
+      "~bus",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "the united states",
+      "students"
+    ],
+    "1":[
+      "employers",
+      "employers"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "want ... ensure <~edu> ... equipped"
+    ],
+    "1":[
+      "will ... gather"
+    ]
+  },
+  "issues":{
+    "0":[
+      "students",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---edu",
+      "0312"
+    ],
+    "1":[
+      "---bus",
+      "---bus",
+      "040"
+    ]
+  }
+}

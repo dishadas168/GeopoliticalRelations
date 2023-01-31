@@ -1,0 +1,210 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/cleveland-police-officers-fired-2012-car-chase_us_56a7cb2be4b01a3ed1241293",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/joe-arpaio-donald-trump-birther_us_56a7d117e4b0b87beec644b2",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/lisa-murkowski-senate-women_us_56a7f85ee4b04936c0e8a619",
+    "3":"https:\/\/www.huffingtonpost.comhttp:\/\/www.hollywoodreporter.com\/news\/idris-elba-bbc-youth-network-859285"
+  },
+  "headline":{
+    "0":"Cleveland Fires 6 Officers Involved In Deadly 2012 Police Chase",
+    "1":"Obama Birther Joe Arpaio Endorses Obama-Turned-Ted Cruz Birther Donald Trump",
+    "2":"Alaska Senator Says Only Women Showed Up To Run Congress Post-Blizzard",
+    "3":"Idris Elba, BBC Youth Network Team On Drama Shorts To Develop New Talent"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"BLACK VOICES"
+  },
+  "short_description":{
+    "0":"Cleveland officials said Tuesday they're firing six police officers involved in a 137-shot barrage that killed two unarmed",
+    "1":"They're like two peas in a pod. \ud83d\udc6c",
+    "2":"Who run the world?",
+    "3":"BBC Three, the U.K. public broadcaster's youth network that is going online-only next month, has revealed new programming"
+  },
+  "authors":{
+    "0":"Kantele Franko, AP",
+    "1":"Igor Bobic",
+    "2":"Amanda Terkel",
+    "3":""
+  },
+  "date":{
+    "0":"2016-01-26 00:00:00",
+    "1":"2016-01-26 00:00:00",
+    "2":"2016-01-26 00:00:00",
+    "3":"2016-01-26 00:00:00"
+  },
+  "actor1":{
+    "0":"usa",
+    "1":"usagov",
+    "2":"usaleg",
+    "3":"med"
+  },
+  "actor2":{
+    "0":"---cop",
+    "1":"usagov",
+    "2":"---cvl",
+    "3":"gbr"
+  },
+  "event_code":{
+    "0":"015",
+    "1":"051",
+    "2":"010",
+    "3":"050"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":3.4,
+    "2":0.0,
+    "3":3.5
+  },
+  "nouns":{
+    "0":[
+      "cleveland",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america",
+      "police officers",
+      "~cop",
+      "~",
+      "police officers",
+      "~cop",
+      "~"
+    ],
+    "1":[
+      "obama",
+      "usagov",
+      "barack",
+      "obama",
+      "obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "alaska",
+      "senator",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "women",
+      "~cvl",
+      "~",
+      "congress",
+      "~leg",
+      "~"
+    ],
+    "3":[
+      "bbc",
+      "u.k.",
+      "youth",
+      "med",
+      "gbr",
+      "frareb",
+      "bbc",
+      "united",
+      "kingdom",
+      "gazteriak"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "cleveland",
+      "police officers"
+    ],
+    "1":[
+      "obama",
+      "obama"
+    ],
+    "2":[
+      "alaska senator",
+      "women"
+    ],
+    "3":[
+
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "barack obama",
+      "barack obama"
+    ],
+    "2":[
+      "united states of america",
+      "---"
+    ],
+    "3":[
+
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said ... 're firing"
+    ],
+    "1":[
+      "endorses"
+    ],
+    "2":[
+      "says"
+    ],
+    "3":[
+
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "usa",
+      "---cop",
+      "015"
+    ],
+    "1":[
+      "usagov",
+      "usagov",
+      "051"
+    ],
+    "2":[
+      "usaleg",
+      "---cvl",
+      "010"
+    ],
+    "3":[
+      "med",
+      "gbr",
+      "050",
+      "med",
+      "frareb",
+      "050",
+      "gbr",
+      "med",
+      "050",
+      "gbr",
+      "frareb",
+      "050",
+      "frareb",
+      "med",
+      "050",
+      "frareb",
+      "gbr",
+      "050"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/brussels-attacks-suspects_us_56f2bb1ce4b0c3ef52176d91",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-awful-legacy_us_56f098f8e4b03a640a6b71e8",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/bill-clinton-awful-legacy_us_56f098f8e4b03a640a6b71e8",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/prince-harry-nepal-earthquakes-2016_us_56f01450e4b09bf44a9ddf94",
+    "4":"https:\/\/www.huffingtonpost.com\/entry\/brussels-attacks-universities_us_56f163bce4b084c672217d95"
+  },
+  "headline":{
+    "0":"Manhunt For Brussels Attacks Suspects Enters Second Day",
+    "1":"Bill Clinton Rips 'Awful Legacy Of The Last 8 Years,' Later Says He Wasn't Referring To President Obama",
+    "2":"Bill Clinton Rips 'Awful Legacy Of The Last 8 Years,' Later Says He Wasn't Referring To President Obama",
+    "3":"Prince Harry Visits Nepal Earthquake Victims Who Are Still Living In Tents",
+    "4":"Brussels Universities Scramble To Help Students Stranded After Attacks"
+  },
+  "category":{
+    "0":"THE WORLDPOST",
+    "1":"POLITICS",
+    "2":"POLITICS",
+    "3":"GOOD NEWS",
+    "4":"THE WORLDPOST"
+  },
+  "short_description":{
+    "0":"The president of Turkey said on Wednesday that one of the bombers had been arrested near the Syrian border last year.",
+    "1":"The former president was speaking on behalf of his wife, Hillary Clinton, at a campaign event.",
+    "2":"The former president was speaking on behalf of his wife, Hillary Clinton, at a campaign event.",
+    "3":"\u201cI pay my respects to those who perished and hope to do what I can to shine a spotlight on the resolve and resilience of the Nepalese people.\u201d",
+    "4":"Some schools asked people to carpool or take in students who couldn't leave campus after classes were canceled."
+  },
+  "authors":{
+    "0":"Alana Horowitz Satlin and Eline Gordts",
+    "1":"Ed Mazza",
+    "2":"Ed Mazza",
+    "3":"Elyse Wanshel",
+    "4":"Tyler Kingkade"
+  },
+  "date":{
+    "0":"2016-03-23 00:00:00",
+    "1":"2016-03-22 00:00:00",
+    "2":"2016-03-22 00:00:00",
+    "3":"2016-03-22 00:00:00",
+    "4":"2016-03-22 00:00:00"
+  },
+  "actor1":{
+    "0":"turgov",
+    "1":"usaeli",
+    "2":"---eli",
+    "3":"nplcvl",
+    "4":"---edu"
+  },
+  "actor2":{
+    "0":"---mil",
+    "1":"usagov",
+    "2":"usaeli",
+    "3":"'ulukalala_lavaka_ata_",
+    "4":"---ppl"
+  },
+  "event_code":{
+    "0":"173",
+    "1":"010",
+    "2":"010",
+    "3":"043",
+    "4":"020"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0,
+    "3":2.8,
+    "4":3.0
+  },
+  "nouns":{
+    "0":[
+      "turkey",
+      "tur",
+      "turkey",
+      "president",
+      "turgov",
+      "~",
+      "bombers",
+      "~mil",
+      "~",
+      "bombers",
+      "~mil",
+      "~"
+    ],
+    "1":[
+      "bill clinton",
+      "usaeli",
+      "bill",
+      "clinton",
+      "president obama",
+      "usagov",
+      "barack",
+      "obama"
+    ],
+    "2":[
+      "former president",
+      "~eli",
+      "~",
+      "hillary clinton",
+      "usaeli",
+      "hillary",
+      "clinton"
+    ],
+    "3":[
+      "prince",
+      "'ulukalala_lavaka_ata_",
+      "prince",
+      "nepal",
+      "victims",
+      "nplcvl",
+      "nepal",
+      "~"
+    ],
+    "4":[
+      "schools",
+      "~edu",
+      "~",
+      "people",
+      "~ppl",
+      "~",
+      "students",
+      "~edu",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "president",
+      "bombers"
+    ],
+    "1":[
+      "bill clinton",
+      "president obama"
+    ],
+    "2":[
+      "former president",
+      "hillary clinton"
+    ],
+    "3":[
+      "nepal ... victims",
+      "prince",
+      "prince",
+      "nepal ... victims"
+    ],
+    "4":[
+      "schools",
+      "people"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "",
+      "---"
+    ],
+    "1":[
+      "bill clinton",
+      "barack obama"
+    ],
+    "2":[
+      "---",
+      "hillary clinton"
+    ],
+    "3":[
+      "nepal",
+      "prince",
+      "prince",
+      "nepal"
+    ],
+    "4":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "said <~mil> ... arrested"
+    ],
+    "1":[
+      "says ... was ... referring"
+    ],
+    "2":[
+      "was speaking"
+    ],
+    "3":[
+      "visits",
+      "visits"
+    ],
+    "4":[
+      "asked"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":[
+      "natural_disaster",
+      "1"
+    ],
+    "4":[
+      "schools",
+      "1",
+      "students",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "turgov",
+      "---mil",
+      "173"
+    ],
+    "1":[
+      "usaeli",
+      "usagov",
+      "010"
+    ],
+    "2":[
+      "---eli",
+      "usaeli",
+      "010"
+    ],
+    "3":[
+      "nplcvl",
+      "'ulukalala_lavaka_ata_",
+      "043",
+      "'ulukalala_lavaka_ata_",
+      "nplcvl",
+      "042"
+    ],
+    "4":[
+      "---edu",
+      "---ppl",
+      "020"
+    ]
+  }
+}

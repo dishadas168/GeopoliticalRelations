@@ -1,0 +1,127 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/second-marriage_b_7241782.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/banning-genderbased-viole_b_7293920.html"
+  },
+  "headline":{
+    "0":"Why More Americans Are Going For A Second Marriage",
+    "1":"Banning Gender-Based Violence in Nigeria - A Major Step Forward"
+  },
+  "category":{
+    "0":"FIFTY",
+    "1":"IMPACT"
+  },
+  "short_description":{
+    "0":"When women ask me as a 52-year-old male why I've never been married, it's always insinuated that there's something wrong with me, or I must be a swinging bachelor who just needs a good woman to show him the way.",
+    "1":"Last week, as word spread about girls kidnapped by Boko Haram last year returning to their communities having been raped and impregnated, the Nigerian Senate passed the Violence Against Persons Prohibition (VAPP) Bill, which seeks to prohibit multiple forms of gender-based violence including economic abuse, female genital mutilation, and depriving persons of their liberty among others."
+  },
+  "authors":{
+    "0":"Buck Wargo, ContributorBuck Wargo, Sr. Editor | NowItCounts.com",
+    "1":"Stella Mukasa, ContributorStella Mukasa is the director of gender, violence and rights a..."
+  },
+  "date":{
+    "0":"2015-05-18 00:00:00",
+    "1":"2015-05-17 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"nga"
+  },
+  "actor2":{
+    "0":"mdv",
+    "1":"---ppl"
+  },
+  "event_code":{
+    "0":"020",
+    "1":"08"
+  },
+  "goldstein_score":{
+    "0":3.0,
+    "1":5.0
+  },
+  "nouns":{
+    "0":[
+      "women",
+      "~cvl",
+      "~",
+      "male",
+      "mdv",
+      "maldives"
+    ],
+    "1":[
+      "nigerian",
+      "senate",
+      "nga",
+      "usagovleg",
+      "nigeria",
+      "united",
+      "states",
+      "congress",
+      "persons",
+      "~ppl",
+      "~",
+      "persons",
+      "~ppl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "women",
+      "male"
+    ],
+    "1":[
+      "nigerian",
+      "persons",
+      "senate",
+      "persons"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "maldives"
+    ],
+    "1":[
+      "nigeria",
+      "---",
+      "united states congress",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ask"
+    ],
+    "1":[
+      "passed",
+      "passed"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":[
+      "named_terror_group",
+      "1",
+      "rape",
+      "1",
+      "gender_violence",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "mdv",
+      "020"
+    ],
+    "1":[
+      "nga",
+      "---ppl",
+      "08",
+      "usagovleg",
+      "---ppl",
+      "08"
+    ]
+  }
+}

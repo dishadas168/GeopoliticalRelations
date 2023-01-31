@@ -1,0 +1,110 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/trump-farmers-gipsa-rule_us_58efb450e4b0da2ff85f0409",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/sheila-abdus-salaam-queer-rights_us_58ef852be4b0bb9638e1dc3d"
+  },
+  "headline":{
+    "0":"Trump Administration Hits Small Farmers With More Bad News",
+    "1":"Black Female Judge Judge Remembered As A Defender Of Queer Rights"
+  },
+  "category":{
+    "0":"POLITICS",
+    "1":"QUEER VOICES"
+  },
+  "short_description":{
+    "0":"An Obama-era rule meant to help livestock farmers fight meat industry abuses could be on death row.",
+    "1":"Judge Sheila Abdus-Salaam helped reverse a precedent in New York that tore children from their parents."
+  },
+  "authors":{
+    "0":"Joseph Erbentraut",
+    "1":"Carol Kuruvilla"
+  },
+  "date":{
+    "0":"2017-04-13 00:00:00",
+    "1":"2017-04-13 00:00:00"
+  },
+  "actor1":{
+    "0":"---gov",
+    "1":"---jud"
+  },
+  "actor2":{
+    "0":"---agr",
+    "1":"usa"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"070"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":7.0
+  },
+  "nouns":{
+    "0":[
+      "administration",
+      "~gov",
+      "~",
+      "farmers",
+      "~agr",
+      "~"
+    ],
+    "1":[
+      "judge",
+      "~jud",
+      "~",
+      "new york",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "administration",
+      "farmers"
+    ],
+    "1":[
+      "judge",
+      "new york"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "---",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "hits"
+    ],
+    "1":[
+      "helped"
+    ]
+  },
+  "issues":{
+    "0":[
+      "agriculture",
+      "1"
+    ],
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---gov",
+      "---agr",
+      "190"
+    ],
+    "1":[
+      "---jud",
+      "usa",
+      "070"
+    ]
+  }
+}

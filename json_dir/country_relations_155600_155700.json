@@ -1,0 +1,103 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/lagarde-us-budget-cuts_us_5bb2f907e4b0480ca65ffcc3"
+  },
+  "headline":{
+    "0":"IMF Chief Christine Lagarde Calls U.S. Budget Cuts 'Inappropriate'"
+  },
+  "category":{
+    "0":"BUSINESS"
+  },
+  "short_description":{
+    "0":"While the budget cuts that took hold on March 1 do not appear to be hitting government payrolls directly so far, some economists"
+  },
+  "authors":{
+    "0":"Reuters, Reuters"
+  },
+  "date":{
+    "0":"2013-07-07 00:00:00"
+  },
+  "actor1":{
+    "0":"usa"
+  },
+  "actor2":{
+    "0":"igobusimf"
+  },
+  "event_code":{
+    "0":"041"
+  },
+  "goldstein_score":{
+    "0":1.0
+  },
+  "nouns":{
+    "0":[
+      "imf",
+      "christine lagarde",
+      "igobusimf",
+      "fragovbus",
+      "imf",
+      "christine",
+      "lagarde",
+      "u.s.",
+      "usa",
+      "united",
+      "states",
+      "of",
+      "america"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "u.s.",
+      "imf",
+      "u.s.",
+      "christine lagarde",
+      "imf",
+      "u.s.",
+      "christine lagarde",
+      "u.s."
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "imf",
+      "united states of america",
+      "christine lagarde",
+      "imf",
+      "united states of america",
+      "christine lagarde",
+      "united states of america"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "calls",
+      "calls",
+      "calls",
+      "calls"
+    ]
+  },
+  "issues":{
+    "0":[
+      "int_financial_inst",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usa",
+      "igobusimf",
+      "041",
+      "usa",
+      "fragovbus",
+      "041",
+      "igobusimf",
+      "usa",
+      "041",
+      "fragovbus",
+      "usa",
+      "041"
+    ]
+  }
+}

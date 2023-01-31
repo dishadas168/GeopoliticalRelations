@@ -1,0 +1,194 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/los-angeles-shooting-laundry_us_5687e2b6e4b06fa68882872b",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/gunmen-attack-indian-air-force-base-near-border-with-pakistan_us_5687310de4b06fa6888283bf",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/tamir-rices-mother-calls-out-corrupt-criminal-justice-system_us_5687e62de4b014efe0daa0ce",
+    "3":"https:\/\/www.huffingtonpost.com\/entry\/us-slides-back-into-war-in-iraq_b_8904518.html"
+  },
+  "headline":{
+    "0":"4 Dead In Shooting Over Laundry, Police Say",
+    "1":"Gunmen Attack Indian Air Force Base Near Border With Pakistan",
+    "2":"Tamir Rice\u2019s Mother Calls Out 'Corrupt' Criminal Justice System",
+    "3":"U.S. Slides Back into War in Iraq, Joining Conflict President Once Opposed"
+  },
+  "category":{
+    "0":"CRIME",
+    "1":"THE WORLDPOST",
+    "2":"BLACK VOICES",
+    "3":"WORLDPOST"
+  },
+  "short_description":{
+    "0":"A man shot three people before his own son killed him, according to police.",
+    "1":"Indian troops killed four gunmen, and at least two Indian soldiers were also killed.",
+    "2":"\"We mourn for Tamir, and for all of the black people who have been killed by the police without justice.\u201d",
+    "3":"More U.S. military personnel have been sent to Iraq and Syria. Trainers, Special Forces, and airstrikes haven't been enough. The administration continues its slow progression to renewed ground combat. President Barack Obama's Nobel Peace Prize grows more tarnished by the day."
+  },
+  "authors":{
+    "0":"",
+    "1":"",
+    "2":"Lilly Workneh",
+    "3":"Doug Bandow, ContributorContributing writer, policy analyst"
+  },
+  "date":{
+    "0":"2016-01-02 00:00:00",
+    "1":"2016-01-02 00:00:00",
+    "2":"2016-01-02 00:00:00",
+    "3":"2016-01-02 00:00:00"
+  },
+  "actor1":{
+    "0":"---ppl",
+    "1":"indmil",
+    "2":"---crmjud",
+    "3":"irq"
+  },
+  "actor2":{
+    "0":"---ppl",
+    "1":"---uaf",
+    "2":"---cvl",
+    "3":"---gov"
+  },
+  "event_code":{
+    "0":"190",
+    "1":"190",
+    "2":"041",
+    "3":"040"
+  },
+  "goldstein_score":{
+    "0":-10.0,
+    "1":-10.0,
+    "2":1.0,
+    "3":1.0
+  },
+  "nouns":{
+    "0":[
+      "man",
+      "~ppl",
+      "~",
+      "people",
+      "~ppl",
+      "~"
+    ],
+    "1":[
+      "indian",
+      "troops",
+      "indmil",
+      "india",
+      "~",
+      "gunmen",
+      "~uaf",
+      "~",
+      "indian",
+      "soldiers",
+      "indmil",
+      "india",
+      "~"
+    ],
+    "2":[
+      "mother",
+      "~cvl",
+      "~",
+      "criminal",
+      "justice system",
+      "~crmjud",
+      "~",
+      "~"
+    ],
+    "3":[
+      "iraq",
+      "irq",
+      "iraq",
+      "president",
+      "~gov",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "man",
+      "man"
+    ],
+    "1":[
+      "indian troops",
+      "gunmen"
+    ],
+    "2":[
+      "criminal justice system",
+      "mother",
+      "mother",
+      "criminal justice system"
+    ],
+    "3":[
+      "iraq",
+      "president"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "india",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---",
+      "---",
+      "---"
+    ],
+    "3":[
+      "iraq",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "shot"
+    ],
+    "1":[
+      "killed"
+    ],
+    "2":[
+      "calls",
+      "calls"
+    ],
+    "3":[
+      "joining"
+    ]
+  },
+  "issues":{
+    "0":[
+      "security_services",
+      "1"
+    ],
+    "1":null,
+    "2":null,
+    "3":null
+  },
+  "events":{
+    "0":[
+      "---ppl",
+      "---ppl",
+      "190"
+    ],
+    "1":[
+      "indmil",
+      "---uaf",
+      "190"
+    ],
+    "2":[
+      "---crmjud",
+      "---cvl",
+      "041",
+      "---cvl",
+      "---crmjud",
+      "041"
+    ],
+    "3":[
+      "irq",
+      "---gov",
+      "040"
+    ]
+  }
+}

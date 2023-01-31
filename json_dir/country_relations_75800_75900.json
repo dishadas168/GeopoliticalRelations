@@ -1,0 +1,154 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/reporters-virginia-state-senate_us_56974d1ae4b0b4eb759d3e6a",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/dave-brat-conservatives-own-the-bible_us_5697536fe4b0ce4964234b53",
+    "2":"https:\/\/www.huffingtonpost.com\/entry\/guerrilla-girls-late-show_us_5697b262e4b0778f46f83fd5"
+  },
+  "headline":{
+    "0":"Virginia Lawmakers Ban Reporters From State Senate Floor, Prompting Transparency Concerns",
+    "1":"GOP Lawmaker Says Conservatives 'Own' Christian Tradition",
+    "2":"Let These Masked Feminists Explain How Depressing Gender Inequality In Art Is"
+  },
+  "category":{
+    "0":"MEDIA",
+    "1":"RELIGION",
+    "2":"ARTS & CULTURE"
+  },
+  "short_description":{
+    "0":"\u201cWe need more transparency in the General Assembly, not less.\u201d",
+    "1":"Rep. Dave Brat said Obama is \"bonking Republicans over the head with the Bible.\"",
+    "2":"The fantastically radical Guerrilla Girls went on \"The Late Show with Stephen Colbert\" to talk about women and art."
+  },
+  "authors":{
+    "0":"Dominique Mosbergen",
+    "1":"Ed Mazza",
+    "2":"Katherine Brooks"
+  },
+  "date":{
+    "0":"2016-01-14 00:00:00",
+    "1":"2016-01-14 00:00:00",
+    "2":"2016-01-14 00:00:00"
+  },
+  "actor1":{
+    "0":"usaleg",
+    "1":"---leg",
+    "2":"---rebcvl"
+  },
+  "actor2":{
+    "0":"usagovlegmed",
+    "1":"---chr",
+    "2":"---cvl"
+  },
+  "event_code":{
+    "0":"172",
+    "1":"010",
+    "2":"010"
+  },
+  "goldstein_score":{
+    "0":-5.0,
+    "1":0.0,
+    "2":0.0
+  },
+  "nouns":{
+    "0":[
+      "virginia",
+      "lawmakers",
+      "usaleg",
+      "united",
+      "states",
+      "of",
+      "america",
+      "~",
+      "reporters",
+      "~med",
+      "~",
+      "senate",
+      "usagovleg",
+      "united",
+      "states",
+      "congress"
+    ],
+    "1":[
+      "lawmaker",
+      "~leg",
+      "~",
+      "christian",
+      "~chr",
+      "~"
+    ],
+    "2":[
+      "guerrilla",
+      "girls",
+      "~rebcvl",
+      "~",
+      "~",
+      "women",
+      "~cvl",
+      "~"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "virginia lawmakers",
+      "---"
+    ],
+    "1":[
+      "lawmaker",
+      "christian"
+    ],
+    "2":[
+      "guerrilla girls",
+      "women"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "united states of america",
+      "---"
+    ],
+    "1":[
+      "---",
+      "---"
+    ],
+    "2":[
+      "---",
+      "---"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "ban"
+    ],
+    "1":[
+      "says"
+    ],
+    "2":[
+      "went ... talk"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null,
+    "2":[
+      "id_extremism",
+      "1"
+    ]
+  },
+  "events":{
+    "0":[
+      "usaleg",
+      "usagovlegmed",
+      "172"
+    ],
+    "1":[
+      "---leg",
+      "---chr",
+      "010"
+    ],
+    "2":[
+      "---rebcvl",
+      "---cvl",
+      "010"
+    ]
+  }
+}

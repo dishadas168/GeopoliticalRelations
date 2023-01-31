@@ -1,0 +1,104 @@
+{
+  "link":{
+    "0":"https:\/\/www.huffingtonpost.com\/entry\/ten-tiresome-facebook-friends_b_5659652.html",
+    "1":"https:\/\/www.huffingtonpost.com\/entry\/why-russia-could-invade-u_b_5659699.html"
+  },
+  "headline":{
+    "0":"10 Tiresome Facebook Friends Everyone Has",
+    "1":"Why Russia Could Invade Ukraine"
+  },
+  "category":{
+    "0":"WOMEN",
+    "1":"POLITICS"
+  },
+  "short_description":{
+    "0":"She is just one cat picture short of having whiskers tattooed on her face. You know the woman sits on her couch day and night, stroking cats and talking to herself.",
+    "1":"The crisis in Ukraine continues to get worse against a backdrop of conflicting signals.  Pro-Russian separatists have called for a ceasefire but Ukrainian forces continue to pound them in Donetsk."
+  },
+  "authors":{
+    "0":"Lisa R. Petty, ContributorBlogger at LisaRPetty.com (Petty Thoughts), Mom, Wife, and all...",
+    "1":"Sanjay Sanghoee, ContributorAuthor and commentator"
+  },
+  "date":{
+    "0":"2014-08-10 00:00:00",
+    "1":"2014-08-10 00:00:00"
+  },
+  "actor1":{
+    "0":"---cvl",
+    "1":"ukr"
+  },
+  "actor2":{
+    "0":"---cvl",
+    "1":"ukr"
+  },
+  "event_code":{
+    "0":"010",
+    "1":"190"
+  },
+  "goldstein_score":{
+    "0":0.0,
+    "1":-10.0
+  },
+  "nouns":{
+    "0":[
+      "woman",
+      "~cvl",
+      "~"
+    ],
+    "1":[
+      "separatists",
+      "~reb",
+      "~",
+      "ukrainian",
+      "ukr",
+      "ukraine",
+      "donetsk",
+      "ukr",
+      "ukraine"
+    ]
+  },
+  "actortext":{
+    "0":[
+      "woman",
+      "woman"
+    ],
+    "1":[
+      "ukrainian",
+      "ukrainian"
+    ]
+  },
+  "actorroot":{
+    "0":[
+      "---",
+      "---"
+    ],
+    "1":[
+      "ukraine",
+      "ukraine"
+    ]
+  },
+  "eventtext":{
+    "0":[
+      "sits ... talking"
+    ],
+    "1":[
+      "continue ... pound"
+    ]
+  },
+  "issues":{
+    "0":null,
+    "1":null
+  },
+  "events":{
+    "0":[
+      "---cvl",
+      "---cvl",
+      "010"
+    ],
+    "1":[
+      "ukr",
+      "ukr",
+      "190"
+    ]
+  }
+}
